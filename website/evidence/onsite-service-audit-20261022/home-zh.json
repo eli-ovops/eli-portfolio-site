@@ -1,0 +1,373 @@
+{
+  "canonical": "https://www.eliai.cn/",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "帮中小企业用好 AI从重复工作开始"
+    },
+    {
+      "tag": "H2",
+      "text": "哪些工作，可以先一起看看？"
+    },
+    {
+      "tag": "H3",
+      "text": "录入和库存靠人核对"
+    },
+    {
+      "tag": "H3",
+      "text": "资料难找、问题反复问"
+    },
+    {
+      "tag": "H3",
+      "text": "产品内容总要重做"
+    },
+    {
+      "tag": "H2",
+      "text": "看看你的行业，可以从哪里开始"
+    },
+    {
+      "tag": "H2",
+      "text": "代表项目"
+    },
+    {
+      "tag": "H3",
+      "text": "洁具行业某大型 B 端厂商库存管理系统"
+    },
+    {
+      "tag": "H3",
+      "text": "英国某净水品牌 RAG 智能客服定制"
+    },
+    {
+      "tag": "H3",
+      "text": "某家具品牌扫码库存系统"
+    },
+    {
+      "tag": "H3",
+      "text": "某律师事务所 OA 系统"
+    },
+    {
+      "tag": "H3",
+      "text": "深圳某慈善基金会"
+    },
+    {
+      "tag": "H3",
+      "text": "英国某净水品牌全域营销"
+    },
+    {
+      "tag": "H2",
+      "text": "实践文章"
+    },
+    {
+      "tag": "H3",
+      "text": "库存每天靠人工核对，先改哪一步？"
+    },
+    {
+      "tag": "H3",
+      "text": "企业资料太散，做知识库答疑前要准备什么？"
+    },
+    {
+      "tag": "H2",
+      "text": "统计与隐私"
+    },
+    {
+      "tag": "H2",
+      "text": ""
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊 ↗"
+    },
+    {
+      "href": "#work",
+      "text": "看实际案例 ↓"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "FDE 怎么合作 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "了解服务范围 ↗"
+    },
+    {
+      "href": "cases/p10.html",
+      "text": "看库存案例 ↗"
+    },
+    {
+      "href": "cases/p09.html",
+      "text": "看扫码案例 ↗"
+    },
+    {
+      "href": "services/ai-agent.html",
+      "text": "了解服务范围 ↗"
+    },
+    {
+      "href": "cases/p36.html",
+      "text": "看答疑案例 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "了解服务范围 ↗"
+    },
+    {
+      "href": "cases/p12.html",
+      "text": "看内容案例 ↗"
+    },
+    {
+      "href": "cases/p10.html",
+      "text": "洁具行业某大型 B 端厂商库存管理系统 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "看库存与流程服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "cases/p10.html",
+      "text": "洁具行业某大型 B 端厂商库存管理系统 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "看库存与流程服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "cases/p07.html",
+      "text": "某家具品牌官网 ↗"
+    },
+    {
+      "href": "cases/p09.html",
+      "text": "某家具品牌扫码库存系统 ↗"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "看 AI 实施合作方式 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/ai-agent.html",
+      "text": "看知识库与答疑服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "cases/p05.html",
+      "text": "英国某净水品牌全域营销 ↗"
+    },
+    {
+      "href": "cases/p36.html",
+      "text": "英国某净水品牌 RAG 智能客服定制 ↗"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "看 AI 实施合作方式 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "cases/p03.html",
+      "text": "深圳某律师事务所 ↗"
+    },
+    {
+      "href": "cases/p04.html",
+      "text": "某律师事务所 OA 系统 ↗"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "看 AI 实施合作方式 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "cases/p05.html",
+      "text": "英国某净水品牌全域营销 ↗"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "看 AI 实施合作方式 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "cases/p02.html",
+      "text": "深圳某慈善基金会 ↗"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "看 AI 实施合作方式 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "看库存与流程服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/ai-agent.html",
+      "text": "看知识库与答疑服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/ai-agent.html",
+      "text": "看知识库与答疑服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "看库存与流程服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/workflow-automation.html",
+      "text": "看库存与流程服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/ai-agent.html",
+      "text": "看知识库与答疑服务 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "services/fde-consulting.html",
+      "text": "看 AI 实施合作方式 ↗"
+    },
+    {
+      "href": "about.html#contact",
+      "text": "免费聊聊这项工作 ↗"
+    },
+    {
+      "href": "records.html",
+      "text": "项目库 ↗"
+    },
+    {
+      "href": "assets/public-cases/p10.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "cases/p10.html",
+      "text": "查看案例 ↗"
+    },
+    {
+      "href": "assets/public-cases/p36.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "cases/p36.html",
+      "text": "查看案例 ↗"
+    },
+    {
+      "href": "assets/public-cases/p09.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "cases/p09.html",
+      "text": "查看案例 ↗"
+    },
+    {
+      "href": "assets/office-workflow.svg",
+      "text": ""
+    },
+    {
+      "href": "cases/p04.html",
+      "text": "查看案例 ↗"
+    },
+    {
+      "href": "assets/public-cases/p02.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "cases/p02.html",
+      "text": "查看案例 ↗"
+    },
+    {
+      "href": "assets/public-cases/p05.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "cases/p05.html",
+      "text": "查看案例 ↗"
+    },
+    {
+      "href": "articles.html",
+      "text": "全部文章 ↗"
+    },
+    {
+      "href": "articles/inventory-reconciliation.html",
+      "text": "库存每天靠人工核对，先改哪一步？"
+    },
+    {
+      "href": "articles/inventory-reconciliation.html",
+      "text": "阅读 ↗"
+    },
+    {
+      "href": "articles/enterprise-knowledge-base.html",
+      "text": "企业资料太散，做知识库答疑前要准备什么？"
+    },
+    {
+      "href": "articles/enterprise-knowledge-base.html",
+      "text": "阅读 ↗"
+    }
+  ],
+  "mainText": "背景动效\nHELLO,\n\nI’M\nE\nL\nI\n\nFDE · 贴近业务，选工具、改流程\n\n帮中小企业用好 AI\n从重复工作开始\n\n初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。\n\n录入核对\n资料答疑\n内容整理\n\n说说最费时间的一件事，不用懂技术，也不用准备方案。\n\n免费聊聊\n↗\n看实际案例\n↓\n哪些工作，可以先一起看看？\n\n不必从大系统开始。先用好现成的 AI 助手，或改善一个重复步骤。 FDE 怎么合作 ↗\n\n录入和库存靠人核对\n\n减少重复录入与人工核对。\n\n展开做法\n+\n看库存案例\n↗\n看扫码案例\n↗\n资料难找、问题反复问\n\n让资料更好找，答疑有依据。\n\n展开做法\n+\n看答疑案例\n↗\n产品内容总要重做\n\n让文案和配图不必每次从头做。\n\n展开做法\n+\n看内容案例\n↗\n看看你的行业，可以从哪里开始\n\n选择接近你业务的行业，从一件费时的工作开始。下面是可讨论的场景，相关案例注明实际做过的部分。\n\n制造业\n库存反复核对，产品与操作资料不好找\n+\n批发与零售\n进出库重复登记，单据与库存对不上\n+\n家具、家居与建材\n型号规格不好找，展示与库存资料难维护\n+\n电子商务\n商品资料反复整理，客服总答同样的问题\n+\n跨境电商\n中英文产品资料难维护，海外咨询反复回复\n+\n律所与专业服务\n客户找服务信息费力，员工查文件费时\n+\n品牌与内容工作室\n素材到处找，文案配图每次从头做\n+\n公益机构\n项目资料难归集，官网内容更新费时\n+\n更多行业\n物流仓储、教育培训、餐饮门店等七类场景\n+\n\n客户项目与产品实践\n\n代表项目\n项目库\n↗\n库存管理\n客服答疑\n扫码库存\n办公协同\n公益官网\n品牌营销\n\n01 / 06\n\n←\n→\n查看图片 ↗\n\n库存管理\n\n洁具行业某大型 B 端厂商库存管理系统\n\n已交付\n\n采购、退货和盘点需要统一核对 → 交付 PC 与手机端库存系统 → 已交付，暂无量化使用效果数据。\n\n查看项目过程 ＋\n查看案例 ↗\n查看图片 ↗\n\nAI 客服\n\n英国某净水品牌 RAG 智能客服定制\n\n产品资料需要用于重复答疑 → 参与知识库整理、检索配置与测试 → 团队定制交付，暂无回答准确率或提效数据。\n\n查看项目过程 ＋\n查看案例 ↗\n查看图片 ↗\n\n扫码库存\n\n某家具品牌扫码库存系统\n\n已交付\n\n家具按箱出入库、移库需要追踪 → 交付扫码库存系统 → 已交付；公开数量记录来自历史虚拟库存测试。\n\n查看项目过程 ＋\n查看案例 ↗\n\n办公协同\n\n某律师事务所 OA 系统\n\n依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。\n\n查看项目过程 ＋\n查看案例 ↗\n查看图片 ↗\n\n公益网站\n\n深圳某慈善基金会\n\n参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。\n\n查看项目过程 ＋\n查看案例 ↗\n查看图片 ↗\n\n品牌营销\n\n英国某净水品牌全域营销\n\n参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。\n\n查看项目过程 ＋\n查看案例 ↗\n\n从实际工作出发\n\n实践文章\nⅡ\n↑\n全部文章 ↗\n库存与流程\n约 6 分钟\n库存每天靠人工核对，先改哪一步？\n\n从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。\n\n阅读\n↗\n知识库与答疑\n约 6 分钟\n企业资料太散，做知识库答疑前要准备什么？\n\n结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。\n\n阅读\n↗",
+  "metaDescription": "独立开发者 Eli 帮助中小企业和工作室梳理重复录入、库存核对、资料查找和客服答疑。先评估现成工具，必要时再做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/about.html\", \"description\": \"你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。\", \"jobTitle\": \"FDE · 贴近业务，选工具、改流程\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/#consultation\", \"name\": \"企业 AI 应用咨询\", \"description\": \"初次沟通免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。\", \"url\": \"https://www.eliai.cn/about.html#contact\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/#service-inventory\", \"name\": \"录入和库存靠人核对\", \"serviceType\": \"库存与录入流程自动化\", \"description\": \"录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。\", \"url\": \"https://www.eliai.cn/#needs\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/#service-knowledge\", \"name\": \"资料难找、问题反复问\", \"serviceType\": \"企业知识库与 AI 辅助答疑\", \"description\": \"产品资料太散、同样的问题反复回答？先整理知识库，再评估 AI Agent 或答疑助手是否适合，回答能查到依据，重要问题由人确认。\", \"url\": \"https://www.eliai.cn/#needs\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/#service-content\", \"name\": \"产品内容总要重做\", \"serviceType\": \"AI 辅助产品内容整理\", \"description\": \"产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。\", \"url\": \"https://www.eliai.cn/#needs\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/#page\", \"url\": \"https://www.eliai.cn/\", \"name\": \"中小企业 AI 实施与流程提效服务 - Eli\", \"description\": \"独立开发者 Eli 帮助中小企业和工作室梳理重复录入、库存核对、资料查找和客服答疑。先评估现成工具，必要时再做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"about\": [{\"@id\": \"https://www.eliai.cn/#consultation\"}, {\"@id\": \"https://www.eliai.cn/#service-inventory\"}, {\"@id\": \"https://www.eliai.cn/#service-knowledge\"}, {\"@id\": \"https://www.eliai.cn/#service-content\"}]}]}"
+  ],
+  "title": "中小企业 AI 实施与流程提效服务 - Eli",
+  "url": "https://www.eliai.cn/index.html"
+}

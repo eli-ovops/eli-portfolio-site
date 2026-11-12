@@ -1,0 +1,25 @@
+{
+  "status": "PUBLISHED_ACCEPTED",
+  "release": "20261014-133040-boss-consult",
+  "revision": "afc3f340d7a7bf1053c5",
+  "url": "http://[REDACTED_HOST]/sites/portfolio/?pv=afc3f340d7a7bf1053c5",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "accepted_at": "2026-10-14T13:35:24.636367+08:00",
+  "previous": "20261014-124659-customer-paths",
+  "archive_sha256": "a7cc726f12b6bfbcf3cacb7bd207838070902732858d68a7cab1861c434ec6ef",
+  "files_verified": 144,
+  "public_text_files_verified": 102,
+  "noindex_pages": 84,
+  "sitemap_public": false,
+  "indexing": "DISABLED",
+  "preserved": "Previous 144-file release; shared nginx config hash and ERP/services unchanged; project facts and motion scripts unchanged",
+  "browser_status": "Chinese390 home/contact/FAQ, Chinese320 home/about, English320 home/contact, English desktop case contact PASS; viewport restored",
+  "claim_provenance": "30+ is user-provided; not independently verified. WorkBuddy shown as potential tool-use guidance, not completed client outcome.",
+  "limits": [
+    "IAB simulated mobile viewports; no physical touch device or iOS Safari",
+    "No actual calling, emailing or WhatsApp delivery",
+    "Existing rapid-first-click issues not covered by content release"
+  ],
+  "artifacts": "/Users/USER/Documents/原点向量/个人网站/website/evidence/deploy-20261014-133040-boss-consult",
+  "generated_files": "This evidence directory contains deploy scripts, reproducible archive, manifests, receipts and screenshots; retained for audit and recovery."
+}

@@ -1,0 +1,47 @@
+{
+  "automation_id": "eliai-cn",
+  "trigger_time": "2026-10-13T01:04:37.048Z",
+  "checked_at": "2026-10-13T01:08:16.413Z",
+  "audit_url": "https://record-console.jdcloud.com/audit/179136035309320530",
+  "observation": {
+    "actions": [
+      "浏览备案信息"
+    ],
+    "message": "京东云已经将您备案信息提交管局审核，管局审核时间20个工作日内完成，请您耐心等侯。备案订单号：179136035309320530",
+    "steps": [
+      {
+        "state": "jc-step__title is-success",
+        "title": "提交订单"
+      },
+      {
+        "state": "jc-step__title is-success",
+        "title": "京东云初审"
+      },
+      {
+        "state": "jc-step__title is-success",
+        "title": "提交管局"
+      },
+      {
+        "state": "jc-step__title is-success",
+        "title": "短信核验"
+      },
+      {
+        "state": "jc-step__title is-process",
+        "title": "管局审核"
+      },
+      {
+        "state": "jc-step__title is-wait",
+        "title": "备案完成"
+      }
+    ],
+    "title": "您的备案信息已提交至管局审核"
+  },
+  "phase": "GOVERNMENT_REVIEW_IN_PROGRESS",
+  "sms_verification": "COMPLETED",
+  "final_filing_receipt": "NOT_OBTAINED",
+  "deadline_claim": "Within20workingdays; page did not show a valid start date in reviewed status region",
+  "deadline_start": "UNKNOWN",
+  "notification": "DONT_NOTIFY",
+  "reason": "Matches current baseline; no new actionable status-panel requirement",
+  "actions": "Fresh authenticated page load and ordinary reload; status region only; no private identity/address/certificate read, submission or infrastructure operation"
+}

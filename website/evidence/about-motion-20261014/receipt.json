@@ -1,0 +1,43 @@
+{
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "revision": "7ee29a6198c203465832",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "published": false,
+  "indexing_enabled": false,
+  "motion": "Finite local GSAP diagram; 1 -> 2 -> 3; replayable; no looping",
+  "checks": {
+    "build_84": "PASS",
+    "static_localization_SEO_JS": "PASS",
+    "existing_pointer_return_related_search": "PASS",
+    "actual_diagram_frames": "PASS",
+    "hover_image_case_back": "PASS",
+    "keyboard_replay": "PASS",
+    "zh_en_320_390_overflow": "PASS",
+    "reduced_static_readability": "PASS"
+  },
+  "protected_source": {
+    "motion.css": true,
+    "motion.js": true,
+    "app.js": true,
+    "assets/depth-gallery.js": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "content/seo.json": true,
+    "content/projects.json": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/case-examples.json": true,
+    "templates/home.html": true,
+    "styles.css": true
+  },
+  "limits": [
+    "No physical touch device",
+    "No all-browser or FPS acceptance",
+    "No animation-panel ten-percent playback",
+    "Contact settling snapshots not accepted as delivery proof"
+  ],
+  "evidence_root": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/about-motion-20261014",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "routing_version": "ROUTING-2026-10-13-v4"
+}

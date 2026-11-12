@@ -1,0 +1,19 @@
+{
+  "desktop": {
+    "active": "true",
+    "background": "rgb(17, 18, 20)",
+    "center": 1296,
+    "left": 304.5,
+    "overflow": false,
+    "renderer": "webgl2",
+    "width": 1920
+  },
+  "mobile": {
+    "background": "rgb(17, 18, 20)",
+    "center": 335,
+    "left": 20,
+    "overflow": false,
+    "width": 390
+  },
+  "scope": "Central reading column opaque; animated gutters visible; footer pseudo-element height auto and opacity 1; no application controller changes."
+}

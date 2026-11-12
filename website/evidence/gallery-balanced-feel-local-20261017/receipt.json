@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-17",
+  "status": "LOCAL_BALANCED_TUNING_USER_FEEL_PENDING",
+  "revision": "ef627aa38d38fa4ba886",
+  "production_changed": false,
+  "preview": "http://127.0.0.1:4178/index.html?pv=ef627aa38d38fa4ba886#work",
+  "changes": {
+    "follower_frequency": "32->24; keep continuous critically damped tracking and no overshoot",
+    "wheel_scale": "minimum divisor280->420, viewport factor.38->.55; same input pushes roughly one-third less distance",
+    "event_cap": ".6->.4",
+    "settle_wait_ms": "85->100"
+  },
+  "protected_visual_copy_checks": {
+    "assets/stacked-gallery.css": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/projects.json": true,
+    "content/seo.json": true,
+    "styles.css": true,
+    "motion.js": true,
+    "assets/home-ambient.js": true,
+    "assets/page-version.js": true,
+    "assets/site-analytics.js": true
+  },
+  "tests": {
+    "gallery_scroll": "PASS",
+    "gallery_gesture": "PASS",
+    "gallery_follower": "PASS",
+    "gallery_handoff": "PASS",
+    "build": "90pages/38records PASS",
+    "static_links_http_privacy": "PASS",
+    "localization": "45pairs/38translations PASS",
+    "case_return_unit": "home/service return PASS"
+  },
+  "browser": {
+    "bidirectional": "Desktop1335: down01/06->02/06 position1.000; up02/06->01/06 position0.000; page scrollY900 unchanged.",
+    "return": "p10 full case -> homepage selected p10 restored.",
+    "mobile": "390px simulated viewport, no horizontal overflow.",
+    "consultation": "Homepage CTA -> about.html#contact, QR728px natural width. No message, call or email sent."
+  },
+  "limitations": [
+    "Motion feel awaits user comparison on their own input device. No physical-device/FPS benchmark.",
+    "No deployment."
+  ],
+  "screenshots": [
+    "desktop.png"
+  ]
+}

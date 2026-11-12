@@ -1,0 +1,1124 @@
+{
+  "checks": [
+    {
+      "test": "zh_auto_observed",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 2,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "playing",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_pause_start",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 2,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_pause_after_elapsed",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 2,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_0",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 2,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 3,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_1",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 3,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 4,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_2",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 4,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 5,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_3",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 5,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 6,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_4",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 6,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 7,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_5",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 7,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 0,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_6",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 0,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 1,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_full_cycle_7",
+      "before": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 1,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      },
+      "after": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 2,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          1280,
+          720
+        ],
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_live_mobile_360_0",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 3,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          360,
+          800
+        ],
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_live_mobile_360_1",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 4,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "https://www.eliai.cn/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          360,
+          800
+        ],
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_live_mobile_390_0",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 5,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "https://www.eliai.cn/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "https://www.eliai.cn/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_live_mobile_390_1",
+      "observed": {
+        "lang": "zh-CN",
+        "overflow": false,
+        "position": 6,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "https://www.eliai.cn/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "https://www.eliai.cn/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "en_live_pause_start",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 0,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_pause_after_elapsed",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 0,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_390_0",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 1,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          },
+          {
+            "contentBottom": 204.484375,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_390_1",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 2,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 204.484375,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "How do you start a business knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_390_2",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 3,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "How do you start a business knowledge base?"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "An owner's first AI step is not buying a system"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_390_3",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 4,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "An owner's first AI step is not buying a system"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an AI agent compared with chat?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          390,
+          844
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_360_0",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 5,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an AI agent compared with chat?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What should your first AI task be?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          360,
+          800
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_360_1",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 6,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What should your first AI task be?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an agent skill? Is it another AI?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          360,
+          800
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_360_2",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 7,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an agent skill? Is it another AI?"
+          },
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          360,
+          800
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_live_mobile_360_3",
+      "observed": {
+        "lang": "en",
+        "overflow": false,
+        "position": 0,
+        "revision": "db2a07f4b91429cb3f5c",
+        "rows": [
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles",
+        "viewport": [
+          360,
+          800
+        ],
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_contact_visible",
+      "observed": {
+        "mailVisible": false,
+        "overflow": false,
+        "unobstructed": false,
+        "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "viewport": [
+          360,
+          800
+        ]
+      }
+    },
+    {
+      "test": "zh_contact_qr_visible",
+      "observed": {
+        "overflow": false,
+        "qrVisible": true,
+        "unobstructed": true,
+        "url": "https://www.eliai.cn/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "viewport": [
+          360,
+          800
+        ]
+      }
+    },
+    {
+      "test": "zh_contact_mail_after_scroll",
+      "observed": {
+        "unobstructed": true,
+        "url": "https://www.eliai.cn/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "visible": true
+      }
+    },
+    {
+      "test": "en_contact_qr_visible",
+      "observed": {
+        "overflow": false,
+        "qrVisible": false,
+        "unobstructed": false,
+        "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "viewport": [
+          360,
+          800
+        ]
+      }
+    },
+    {
+      "test": "en_contact_mail_after_scroll",
+      "observed": {
+        "unobstructed": false,
+        "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "visible": false
+      }
+    },
+    {
+      "test": "en_contact_qr_settled",
+      "observed": {
+        "overflow": false,
+        "qrVisible": true,
+        "unobstructed": true,
+        "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "viewport": [
+          360,
+          800
+        ]
+      }
+    },
+    {
+      "test": "en_contact_mail_settled",
+      "observed": {
+        "unobstructed": true,
+        "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+        "visible": true
+      }
+    }
+  ],
+  "flows": [
+    {
+      "step": "zh → en home",
+      "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles"
+    },
+    {
+      "step": "en carousel → article",
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "en article → case",
+      "url": "https://www.eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← Back to article"
+    },
+    {
+      "step": "en case → original article",
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "en article → consultation",
+      "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    },
+    {
+      "step": "en → zh home",
+      "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "zh carousel → article",
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "zh article → case",
+      "url": "https://www.eliai.cn/cases/p10.html?pv=db2a07f4b91429cb3f5c&from=%2Farticles%2Finventory-reconciliation.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← 返回文章"
+    },
+    {
+      "step": "zh case → original article",
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "zh article → consultation",
+      "url": "https://www.eliai.cn/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    }
+  ],
+  "contactNote": "Initial immediate email/QR hit tests can be below the fold during page arrival. Stable QR checks and ordinary scrolling to email verified visibility and unobstructed targets; no contact source changes."
+}

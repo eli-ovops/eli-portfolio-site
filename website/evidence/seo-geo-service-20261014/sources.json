@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Google AI search guide",
+    "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+    "use": "People-first content, metadata/technical clarity; no special AI files required or ranking guarantee."
+  },
+  {
+    "name": "Google Search documentation updates",
+    "url": "https://developers.google.com/search/updates",
+    "use": "FAQ rich results retired in May 2026; generic FAQPage consistency not represented as Google rich-result eligibility."
+  },
+  {
+    "name": "Bing AI Performance",
+    "url": "https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c",
+    "use": "Eligible indexing and future AI citation measurement."
+  },
+  {
+    "name": "Baidu search resource guidance",
+    "url": "https://ziyuan.baidu.com/doc/",
+    "use": "Official domestic search guidance entry; no account submission/access performed."
+  },
+  {
+    "name": "Schema.org service example",
+    "url": "https://schema.org/hasOfferCatalog",
+    "use": "Service/provider data model; no ratings, quantified results or blanket implementation prices."
+  }
+]

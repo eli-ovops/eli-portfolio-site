@@ -1,0 +1,12 @@
+{
+  "version": "0.10.1",
+  "date": "2026-10-06",
+  "portrait_references_in_42_pages": "NONE",
+  "portrait_in_export_manifest": false,
+  "about_images": [
+    "wechat-qr.png"
+  ],
+  "source_original_preserved": true,
+  "layout_source_review": "Desktop and 1000px single column; 700px identity row full width; DOM reading order preserved",
+  "browser_layout_review": "Not verified; existing local URL refusal remains"
+}

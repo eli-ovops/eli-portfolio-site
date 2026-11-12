@@ -1,0 +1,119 @@
+{
+  "base_url": "http://[REDACTED_HOST]/sites/portfolio/",
+  "planned_base_url": "https://www.eliai.cn/",
+  "indexing_enabled": false,
+  "note": "Prepare locally while domain identity, HTTPS and ICP filing remain pending. Change base_url only after the domain serves this site; enable indexing only with launch authorization.",
+  "home": {
+    "zh-CN": {
+      "title": "Eli - 业务系统开发与 AI 工作流作品集",
+      "description": "Eli 的个人网站与作品集，展示库存管理系统、扫码出入库、RAG 知识检索客服和 AI 内容工作台。查看项目过程、个人职责、交付阶段与验证记录，了解需求梳理、开发和测试的实际工作。"
+    },
+    "en": {
+      "title": "Eli | Business Systems & AI Workflow Portfolio",
+      "description": "Explore Eli’s inventory systems, barcode workflows, RAG support and AI content workbench. Read implementation approaches, individual roles, delivery stages and validation records."
+    }
+  },
+  "about": {
+    "zh-CN": {
+      "title": "关于 Eli - 开发经历、工作方法与联系方式",
+      "description": "了解 Eli 的项目经历与工作方式：从需求梳理、流程设计到 AI 辅助开发、测试与交付，并查看联系邮箱、电话和微信。"
+    },
+    "en": {
+      "title": "About Eli | Development Experience & Contact",
+      "description": "Learn about Eli’s project experience and approach to requirements, workflow design, AI-assisted development, testing and delivery. Find contact details."
+    }
+  },
+  "records": {
+    "zh-CN": {
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。"
+    },
+    "en": {
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project."
+    }
+  },
+  "case_titles": {
+    "P10": {
+      "zh-CN": "洁具库存管理系统开发案例 - Eli",
+      "en": "Inventory System Development | Eli Case Study"
+    },
+    "P09": {
+      "zh-CN": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "en": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    "P36": {
+      "zh-CN": "RAG 智能客服定制：知识库与检索实践 - Eli",
+      "en": "RAG Support: Knowledge & Retrieval | Eli Case Study"
+    },
+    "P12": {
+      "zh-CN": "织境 AI 内容工作台：内容流程与人工确认 - Eli",
+      "en": "Zhijing AI Content Workbench | Eli Case Study"
+    },
+    "P15": {
+      "zh-CN": "PetSocial / HelloTail：原生 iOS 开发实践 - Eli",
+      "en": "PetSocial / HelloTail: Native iOS | Eli Case Study"
+    },
+    "P04": {
+      "zh-CN": "律所 OA 办公系统开发案例 - Eli",
+      "en": "Law Firm Office Workflows | Eli Case Study"
+    },
+    "P02": {
+      "zh-CN": "慈善基金会官网开发案例 - Eli",
+      "en": "Nonprofit Website Development | Eli Case Study"
+    },
+    "P05": {
+      "zh-CN": "英国品牌全域营销协作案例 - Eli",
+      "en": "UK Brand Marketing Collaboration | Eli Case Study"
+    },
+    "P07": {
+      "zh-CN": "企业官网开发：家具品牌展示与浏览路径案例 - Eli",
+      "en": "Business Website: Brand & Buyer Paths | Eli Case Study"
+    }
+  },
+  "questions": [
+    {
+      "zh-CN": {
+        "question": "可以讨论哪些需求？",
+        "lead": "库存与扫码、企业官网、知识检索与内容工作流。",
+        "answer": "先核对业务流程和现有资料，再选择适合的实施范围。独立或团队分工见各案例。"
+      },
+      "en": {
+        "question": "What work can we discuss?",
+        "lead": "Inventory, business websites, knowledge retrieval and content workflows.",
+        "answer": "Review your workflow and existing material first, then define the scope. Each case identifies independent and team responsibilities."
+      },
+      "projects": [
+        "P10",
+        "P07",
+        "P36"
+      ]
+    },
+    {
+      "zh-CN": {
+        "question": "如何确定交付与费用？",
+        "lead": "先确认范围，再估算工作量。",
+        "answer": "功能、数据整理、第三方接入和运行环境影响周期与费用。代码、文档、部署、培训和维护分别确认，不默认打包。"
+      },
+      "en": {
+        "question": "How are delivery and cost scoped?",
+        "lead": "Define the scope before estimating the work.",
+        "answer": "Features, data preparation, integrations and the runtime affect timing and cost. Confirm code, documentation, deployment, training and maintenance separately."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "联系前准备什么？",
+        "lead": "现有流程、主要问题和希望改善的结果。",
+        "answer": "补充使用人数、已有资料和期望时间，通过下方邮箱、电话或微信讨论范围。"
+      },
+      "en": {
+        "question": "What should I share first?",
+        "lead": "Your workflow, main problem and desired outcome.",
+        "answer": "Include the number of users, available material and preferred timing. Use the email, phone or WeChat details below to discuss scope."
+      },
+      "projects": []
+    }
+  ]
+}

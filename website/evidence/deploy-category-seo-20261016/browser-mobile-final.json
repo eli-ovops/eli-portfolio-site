@@ -1,0 +1,25 @@
+{
+  "revision": "03985a2ddb6824f06f7f",
+  "mobileTrue390": [
+    {
+      "bodyWidth": 390,
+      "scrollWidth": 390,
+      "url": "https://www.eliai.cn/services/fde-consulting.html?pv=03985a2ddb6824f06f7f",
+      "width": 390
+    },
+    {
+      "bodyWidth": 390,
+      "scrollWidth": 390,
+      "url": "https://www.eliai.cn/services/ai-agent.html?pv=03985a2ddb6824f06f7f",
+      "width": 390
+    },
+    {
+      "bodyWidth": 390,
+      "scrollWidth": 390,
+      "url": "https://www.eliai.cn/services/workflow-automation.html?pv=03985a2ddb6824f06f7f",
+      "width": 390
+    }
+  ],
+  "viewportOverrides": "cleared",
+  "screenshots": "explicit390x844clip; avoids unused desktop surface captured by viewport screenshot"
+}

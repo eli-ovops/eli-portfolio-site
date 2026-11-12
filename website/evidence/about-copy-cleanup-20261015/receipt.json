@@ -1,0 +1,37 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "revision": "2f2b244afcfa46f64a45",
+  "changes": [
+    "Remove three per-card tools/contribution disclosures; detailed responsibilities remain in case pages",
+    "Remove duplicate independent/team participation section; existing #experience anchor retained on More projects",
+    "Remove repeated contact prompt and tools lists under extra project links",
+    "Shorten each workflow disclosure from two paragraphs to one; keep three-step component and FAQ source",
+    "Use case-specific inventory/support/content links in Chinese and English"
+  ],
+  "checks": {
+    "build": "PASS 84 HTML pages",
+    "static": "PASS",
+    "localization": "PASS 42+42 pages",
+    "seo": "PASS; unchanged metadata/FAQ source/indexing configuration",
+    "browser": "1440 desktop,390 Chinese and320 English simulated viewport; no horizontal overflow; consultation anchor and email/phone intact; Dither Veil WebGL2 animating",
+    "protected_sources": {
+      "assets/home-ambient.js": true,
+      "assets/home-ambient.css": true,
+      "assets/dither-veil.js": true,
+      "assets/bits-ui.js": true,
+      "assets/editorial.js": true,
+      "app.js": true,
+      "assets/page-version.js": true,
+      "templates/layout.html": true,
+      "styles.css": true,
+      "assets/bits-ui.css": true,
+      "assets/editorial.css": true,
+      "content/seo.json": true,
+      "content/social-links.json": true,
+      "content/projects.json": true,
+      "content/en.json": true
+    }
+  },
+  "server_access": false,
+  "published": false
+}

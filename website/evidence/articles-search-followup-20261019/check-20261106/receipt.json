@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T02:02:33Z",
+  "scope": "Windsor Search Console only; other platform and index status UNKNOWN today",
+  "account": "https://www.eliai.cn/",
+  "requested_window": [
+    "2026-10-29",
+    "2026-11-05"
+  ],
+  "final_daily": [
+    {
+      "date": "2026-10-29",
+      "impressions": 17,
+      "clicks": 0
+    },
+    {
+      "date": "2026-10-30",
+      "impressions": 40,
+      "clicks": 0
+    },
+    {
+      "date": "2026-10-31",
+      "impressions": 18,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-01",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-02",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-03",
+      "impressions": 0,
+      "clicks": 0
+    }
+  ],
+  "missing_final_dates": "2026-11-04 and 2026-11-05 UNKNOWN",
+  "fresh_observations": [
+    "2026-10-31 workflow service page 1 impression 0 clicks, matching query undisclosed, attribution UNKNOWN",
+    "2026-11-04 English agent-first-task article 1 impression 0 clicks, matching query undisclosed"
+  ],
+  "disclosed_queries": [
+    {
+      "date": "2026-10-30",
+      "query": "how can a renewal ai pilot be designed?",
+      "impressions": 1,
+      "clicks": 0
+    },
+    {
+      "date": "2026-10-30",
+      "query": "local preview",
+      "impressions": 1,
+      "clicks": 0
+    },
+    {
+      "date": "2026-10-30",
+      "query": "workbuddy是什么意思",
+      "impressions": 1,
+      "clicks": 0
+    }
+  ],
+  "data_fetched_at": "2026-11-06T02:02:33",
+  "note": "No confirmed new target natural service query or citation; zero impressions for Nov 1-3 do not alone establish a fault. Page and query reads include provisional data. No full native platform checks, model tests, submissions or website changes."
+}

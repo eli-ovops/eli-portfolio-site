@@ -1,0 +1,44 @@
+{
+  "checked_at": "2026-10-20T15:50:28.183650+08:00",
+  "status": "SERVICE_SEO_GEO_PRIORITY_AUDIT_AND_DISTRIBUTION_BRIEF_READY",
+  "website_revision": "fcafe9ca8a0e904465b2",
+  "data_reuse": "Existing complete 2026-10-20 search audit reused; no duplicate report refresh or index requests",
+  "performance_evidence": "evidence/articles-search-followup-20261019/check-20261020/receipt.json",
+  "natural_target_service_exposure": "NOT_CONFIRMED",
+  "natural_target_service_clicks": "NOT_CONFIRMED",
+  "natural_model_citations": "NOT_CONFIRMED",
+  "google_gen_ai_setting": {
+    "native_option": "Included; inherited from eliai.cn default",
+    "changed": false,
+    "proves_citation": false,
+    "report_not_exposed": "UNKNOWN, not zero"
+  },
+  "google_links_report": {
+    "external_displayed": 0,
+    "internal_displayed": 0,
+    "interpretation": "Report has no link rows; known real internal links exist. Do not infer no actual backlinks."
+  },
+  "public_pages_checked": 6,
+  "all_match_published_manifest": true,
+  "published_file_hashes_preserved": 369,
+  "presentation_asset_hashes_preserved": 32,
+  "distribution_brief": "next-actions.md",
+  "external_publication": "Not authorized by this task; three previous drafts remain local, destination account not selected",
+  "automation": "Existing seo heartbeat ACTIVE; not duplicated or rescheduled",
+  "website_changes": 0,
+  "builds": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "active_model_tests": 0,
+  "external_sends": 0,
+  "paid_resources": 0,
+  "evidence_retention": "New audit, screenshots and brief retained for review; no disposable files",
+  "evidence_sha256": {
+    "google-links.jpg": "d5ff8df941f54fe92f842ae0ddc15c228d424562ff8dc9c1bd0a167f8256a19b",
+    "published-service-sample-audit.json": "ad256f4b0b0ea87b37addd20134b4169b5f301e6c0dc129f46413bdd65850f5e",
+    "google-links.txt": "2b7fd14e0d9fdd2ecc035f9b526655cc925914cf719a0e647c1e5b5aec2d13f5",
+    "google-gen-ai-inclusion.jpg": "8d4a165f3a477fb26482bb963d0b9ca7c616749ece7993582547850fe6c1f705",
+    "next-actions.md": "8f3b765c93f2c58b0307f388b93aa1231f866277f835afc35da30962dcb4946f",
+    "google-gen-ai-inclusion.txt": "6da3e8432bd6a38a2102529452da7182f95e717726e5528ec708e197c9e2103d"
+  }
+}

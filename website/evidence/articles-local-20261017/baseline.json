@@ -1,0 +1,23 @@
+{
+  "protected": {
+    "styles.css": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+    "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7",
+    "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+    "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "assets/stacked-gallery.css": "9c476e02cb4eeda0e4714905324c6b9534e8fd3d92cd86a24d5c7a19e700654a",
+    "assets/depth-gallery.js": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609",
+    "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+    "assets/home-ambient.css": "3087e27bb0b8ef5652bc44737516d7c38aea64cafc72f5dae84baef2c60f5247",
+    "assets/editorial.js": "e78c26d12a9f0063f96062644863806648726595b38a6df251d199f663be30bc"
+  },
+  "modified_source_candidates": [
+    "scripts/build.py",
+    "scripts/components.py",
+    "scripts/seo.py",
+    "templates/home.html",
+    "assets/page-version.js",
+    "site.yaml"
+  ],
+  "scope": "Two Chinese articles and local article section; hypothetical calculations clearly labelled; no production, no external submissions; no new dependencies",
+  "sop_sha256": "5b70133e7a155a713c130d07d883afffbd1f57eaa7bfc7c2e2c3dfc9f9bb926a"
+}

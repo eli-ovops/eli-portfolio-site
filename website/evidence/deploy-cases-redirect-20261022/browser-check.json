@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-22T10:43:12.958Z",
+  "observations": [
+    {
+      "step": "redirect",
+      "url": "https://www.eliai.cn/records.html",
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    {
+      "step": "case-p10",
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Frecords.html%3Freturn%3Dp10",
+      "title": "洁具库存管理系统开发案例 - Eli"
+    },
+    {
+      "step": "case-return",
+      "url": "https://www.eliai.cn/records.html",
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    {
+      "step": "service",
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "title": "企业知识库搭建与客服辅助答疑服务 - Eli",
+      "h1": "企业知识库搭建与客服辅助答疑",
+      "contactLinks": 2
+    },
+    {
+      "step": "service",
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "title": "库存核对与重复录入自动化｜中小企业流程提效 - Eli",
+      "h1": "库存核对与重复录入自动化",
+      "contactLinks": 2
+    },
+    {
+      "step": "service",
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "title": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli",
+      "h1": "中小企业 AI 落地实施服务",
+      "contactLinks": 2
+    }
+  ],
+  "own_QA": true,
+  "submissions": 0
+}

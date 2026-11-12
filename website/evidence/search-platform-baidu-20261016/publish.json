@@ -1,0 +1,9 @@
+{
+  "status": "VERIFICATION_FILES_PUBLISHED",
+  "release": "20261016-090033-baidu-verification",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261015-211331-yandex-verification",
+  "ui_files_unchanged": 145,
+  "new_verification_files": 1,
+  "no_config_or_service_change": true,
+  "ui_revision": "ddeecaea4720bde0a52a"
+}

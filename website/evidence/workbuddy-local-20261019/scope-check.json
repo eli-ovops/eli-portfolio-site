@@ -1,0 +1,22 @@
+{
+  "revision": "e2be96987b2798068e82",
+  "normalized_changed_html": [
+    "articles.html",
+    "articles/what-is-workbuddy.html",
+    "en/articles.html",
+    "en/articles/what-is-workbuddy.html"
+  ],
+  "changed_page_count": 4,
+  "unrelated_pages_unchanged": 292,
+  "other_nine_workbuddy_sources_unchanged": true,
+  "protected_assets": 78,
+  "changed_assets": [],
+  "date_ledger_changed_routes": [
+    "articles.html",
+    "articles/what-is-workbuddy.html",
+    "en/articles.html",
+    "en/articles/what-is-workbuddy.html"
+  ],
+  "deployments": 0,
+  "search_submissions": 0
+}

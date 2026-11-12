@@ -1,0 +1,48 @@
+{
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "checked_at": "2026-10-19T11:31:49.735372+08:00",
+  "revision": "0e8f1d0f8a593578ab3e",
+  "release": "/srv/eli-sites/portfolio/domain-releases/20261019-about-bio-0e8f1d0f",
+  "previous_release_retained": "/srv/eli-sites/portfolio/domain-releases/20261018-article-metadata-066456f5",
+  "authorized_scope": "User2026-10-19: publish approved bilingual About biography and three reviewed fixes; preserve visuals/motion; no search submissions",
+  "semantic_html_changes": [
+    "about.html",
+    "en/about.html"
+  ],
+  "other_page_content_unchanged": 294,
+  "visual_motion_assets_unchanged": true,
+  "verification_files_preserved": 6,
+  "package_sha256": "a903639794ff83e7a6fb2bcd4e6acbf3f52c66f97305fd3544dd92462543ea90",
+  "public_file_hashes_on_server_verified": 365,
+  "independent_public_http_hash_checks": 14,
+  "mobile_widths": [
+    320,
+    390,
+    430
+  ],
+  "consultation_buttons_visible_in_first_screen": true,
+  "bilingual_switch_and_contact_hash": "PASS",
+  "consultation_scroll_target": "PASS: both languages contact section at approximately104px below fixed header",
+  "physical_phone_test": false,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_ip_preview_previous_release_unchanged": true,
+  "search_submissions": 0,
+  "external_contact_messages": 0,
+  "artifacts": {
+    "plan.json": "44c91a6a312b5c15a7d0c69bb07ca81a022dccde65302743f33c2998d210f072",
+    "package-checks.json": "d3a1bf5e48af7e21667582f6590c085fc02c512a300c4794616ffdbb01ce9332",
+    "preflight.json": "b3c5aaa8286afafa965cc0d25c419498749b2caf000eddf1d7a99266ea5325e3",
+    "validate.json": "7237d66cb6b79eeb9f79b9902196b107298f33b3130b2a17b9a7318ebf9232ef",
+    "publish.json": "aac3248fdf5049261b4957c1499532fcaa4b412d9d10fef3b78a5ca06f11dd59",
+    "postflight.json": "fcce9d5fb66f8e7bd056eb2bc4d63b8e125d8ddd5f779bdfad68d0794f09c063",
+    "public-http-checks.json": "af343b934cc36de999c7799bfaeff630c2985541461977e90e4623079734aab6",
+    "browser-checks.json": "ffcce5c88ae41afb1fdabaa6544e751ca143aec63f74ba4a0a4f4bd34428f5aa",
+    "live-mobile-zh.png": "8e38ec8346181655f16615b7b55bb7226ddc7e77e8e3b75e8b08f366cc9d4149",
+    "live-mobile-en.png": "b46cc75dbee5159f1032d91490f13c088314c994d88ed065705dc30b87124979"
+  }
+}

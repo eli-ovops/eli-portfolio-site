@@ -1,0 +1,8 @@
+Browser tab: 9, Title: "洁具库存管理系统开发案例 - Eli", URL: "http://127.0.0.1:4178/cases/p10.html#case-contact-title".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 101, 103, 105, 107
++					142 text 01 业务入口 Vue PC 与 H5
++					143 text 02 业务服务 Spring Boot 接口
++					144 text 03 数据存储 MySQL 与 Redis
++					145 text 04 试部署 Linux / Nginx 环境
+The focused UI element is 118 link Description: 免费聊聊, URL: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1

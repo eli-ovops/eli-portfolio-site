@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-20",
+  "drafts": [
+    {
+      "file": "01-企业知识库.md",
+      "characters_before": 653,
+      "characters_after": 603,
+      "unsupported_or_private_phrase_hits": [],
+      "changed": true,
+      "sha256": "3bae70261d6d880c0fa39698d24718aed5dd88471b9844ac63fa4cacf1037f37"
+    },
+    {
+      "file": "02-库存核对.md",
+      "characters_before": 671,
+      "characters_after": 620,
+      "unsupported_or_private_phrase_hits": [],
+      "changed": true,
+      "sha256": "6a25c582dc07bda8e8d7f108d4f88ef2b49eef9b2338339347631b6d3bb980c8"
+    },
+    {
+      "file": "03-AI实施.md",
+      "characters_before": 756,
+      "characters_after": 726,
+      "unsupported_or_private_phrase_hits": [],
+      "changed": true,
+      "sha256": "b5c10563c33999dbe3520df2f99cb64738cd8d871c24b8c1b7321ab7c9d4cda9"
+    }
+  ],
+  "selected_website_sources_unchanged": {
+    "content/projects.json": true,
+    "content/profile.json": true,
+    "content/seo.json": true,
+    "content/articles.json": true,
+    "content/articles-en.json": true,
+    "content/page-updates.json": true,
+    "site.yaml": true
+  },
+  "manual_review": "redteam-review.md",
+  "limitations": [
+    "No real customer readability or consultation experiment",
+    "No new customer-system runtime tests",
+    "No platform-specific publishing approval"
+  ],
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deploys": 0,
+    "external_sends": 0,
+    "search_submissions": 0
+  }
+}

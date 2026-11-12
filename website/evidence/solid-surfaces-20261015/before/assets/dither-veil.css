@@ -1,0 +1,15 @@
+.about-veil { min-width:0; margin:0; align-self:center; }
+.dither-surface { position:relative; aspect-ratio:3/2; width:100%; overflow:hidden; isolation:isolate; border:1px solid rgba(191,142,27,.35); border-radius:22px; background:#461b8e; touch-action:pan-y; }
+.dither-surface>img,.dither-surface>canvas { position:absolute; inset:0; display:block; width:100%; height:100%; object-fit:contain; }
+.dither-surface>canvas { opacity:0; pointer-events:none; transition:opacity .25s; }
+.dither-surface[data-renderer="webgl2"]>canvas { opacity:1; }
+.dither-surface[data-renderer="webgl2"]>img { opacity:0; }
+.dither-surface .veil-note { position:absolute; top:18px; left:20px; color:#fff; font-size:11px; letter-spacing:.08em; padding:6px 9px; border:1px solid rgba(255,255,255,.18); background:rgba(20,12,24,.65); border-radius:6px; pointer-events:none; }
+.about-veil>figcaption { display:flex; align-items:center; justify-content:space-between; gap:14px; color:var(--muted); font-size:12px; padding:10px 4px 0; }
+.about-veil button { min-height:44px; padding:8px 12px; border:0; border-radius:8px; background:transparent; color:#cfb9ff; cursor:pointer; font-size:12px; white-space:nowrap; }
+.about-veil button:hover { background:rgba(157,126,255,.08); }
+.about-veil button:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+.about-veil button[hidden] { display:none; }
+@media(max-width:650px) { .about-veil { margin-block:32px 4px; } .dither-surface { border-radius:16px; } .dither-surface .veil-note { left:12px; top:12px; font-size:10px; } .about-veil>figcaption { gap:8px; font-size:11px; } }
+@media(prefers-reduced-motion:reduce) { .dither-surface>canvas { transition:none; } }
+@media print { .dither-surface>canvas,.about-veil button { display:none; } .dither-surface>img { opacity:1!important; } }

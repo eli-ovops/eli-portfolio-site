@@ -1,0 +1,31 @@
+{
+  "cycle_receipts": [
+    "02 / 07",
+    "03 / 07",
+    "04 / 07",
+    "05 / 07",
+    "06 / 07",
+    "07 / 07",
+    "01 / 07"
+  ],
+  "reverse": "01 to07 PASS",
+  "native_scroll_wrap": "07 to01 PASS",
+  "exit_footer_top": 983.6875,
+  "viewport_height": 1202,
+  "return_after_exit": "01 /07 PASS",
+  "filters": "systems3 / all7",
+  "mobile_resize": {
+    "client": 360,
+    "scroll": 360,
+    "scene": 778,
+    "viewport": 812
+  },
+  "mobile_cold_load": {
+    "client": 360,
+    "scroll": 360
+  },
+  "reduced": "full list, no inert cases",
+  "runtime_uncaught_errors": [],
+  "build_privacy": "PASS",
+  "subjective_smoothness": "awaiting user feedback"
+}

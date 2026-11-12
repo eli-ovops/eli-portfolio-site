@@ -1,0 +1,66 @@
+tab group 回答模式标签页
+					49 tab (selected, settable, boolean) 答案, Value: 1, ID: radix-_r_8u_-trigger-default
+					63 tab (selectable, settable, boolean) 链接, Value: 0, ID: radix-_r_8u_-trigger-sources
+					64 tab (selectable, settable, boolean) 图片, Value: 0, ID: radix-_r_8u_-trigger-images
+				65 container
+					66 pop up button (collapsed) Description: 会话操作, Secondary Actions: Expand
+					67 pop up button (collapsed) 分享, Secondary Actions: Expand
+						68 text 分享
+					69 button 下载 Comet
+						70 text 下载 Comet
+				52 container
+					53 text 15:19
+					71 button 编辑查询
+					54 button 复制查询
+					55 text 请读取 
+					56 link Description: https://www.eliai.cn/services/fde-consulting.html?diag=perplexity-fresh-20261017, Value: eliai.cn/services/fde-consulting.html?diag=perplexity-fresh-20261017
+					57 text  。只需告诉我这个网页的服务对象、免费沟通与收费实施如何区分，并附上该页来源链接。没有读到正文就说明无法读取，不要猜测。
+					72 button (collapsed) 已研究 1秒, Secondary Actions: Expand
+						73 text 已研究
+						74 text 1秒
+						75 image
+					76 container
+						77 text 无法读取该网页正文：对来源链接的直接抓取返回了失败结果，因此我不能基于猜测回答服务对象或“免费沟通/收费实施”的区分。来源链接：
+						78 link Description: https://www.eliai.cn/services/fde-consulting.html?diag=perplexity-fresh-20261017, Value: eliai.cn/services/fde-consulting.html?diag=perplexity-fresh-20261017
+					79 button 复制
+					80 pop up button (collapsed) Description: 分享, Secondary Actions: Expand
+					81 button 有帮助
+					82 button 没有帮助
+					83 button 复刻
+					84 button 10 个来源
+						85 image
+						86 image
+						87 text 10 个来源
+					88 pop up button (collapsed) Description: 更多操作, Secondary Actions: Expand
+					89 button 告诉我如何联系他们进行免费沟通
+					90 button 总结一下这家公司的主要业务范围
+					91 button 这项咨询服务的具体收费标准是什么
+					92 button 有哪些类似的AI咨询服务可以对比
+					93 button 能否帮我检索其他渠道的相关介绍
+					59 button 收起面板
+				60 button (collapsed) 来源 10, Secondary Actions: Expand
+					61 text 来源
+					94 text 10
+					62 image
+				95 container
+					96 text 使用 Computer 整理更清晰的服务说明 Computer 可以协助梳理网页内容，概括服务对象及免费沟通与收费实施的区别。
+					97 button 运行任务
+						98 text 运行任务
+					99 button 关闭
+				100 container
+					101 container
+						102 text 您正处于隐身模式。
+						103 button 退出隐身模式
+							104 text 退出无痕模式
+					105 text entry area (settable) ID: ask-input, Value: 
+
+					106 pop up button (collapsed) Description: 添加文件或工具, Secondary Actions: Expand
+					107 container
+						108 checkbox 搜索, Value: 1, ID: radix-_r_af_
+						109 checkbox Computer, Value: 0
+					110 pop up button (collapsed) Description: 模型, Secondary Actions: Expand
+					111 button 语音输入
+					112 button (disabled) 提交
+		113 list Typeahead menu
+
+The focused UI element is 105 text entry area (settable) ID: ask-input, Value: 

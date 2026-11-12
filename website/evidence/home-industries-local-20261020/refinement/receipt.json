@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-20",
+  "status": "LOCAL_FINAL_CANDIDATE_QA_PASSED_AWAITING_USER_REVIEW",
+  "revision": "fcafe9ca8a0e904465b2",
+  "preview": "http://127.0.0.1:4178/index.html?pv=fcafe9ca8a0e904465b2#industries",
+  "scope": {
+    "revision": "fcafe9ca8a0e904465b2",
+    "presentation_hashes_unchanged": 32,
+    "content_changed_only": [
+      "en/index.html",
+      "index.html"
+    ],
+    "bilingual_mapping": "unchanged; 8 industries, 7 related-work groups, 10 case links each",
+    "new_outcome_claims": false,
+    "deployment": false,
+    "search_submissions": 0
+  },
+  "checks": {
+    "build": "PASS: 296 HTML",
+    "http_links_privacy": "PASS: existing scripts/check.py",
+    "seo": "seo-checks.json",
+    "browser": "browser-checks.json",
+    "browser_entries": 24,
+    "phone": "360px Chinese and 390px English browser simulation only",
+    "console_diagnostics": "Two existing native ViewTransition skipped/disabled messages; actual routes passed. See report."
+  },
+  "changed_files_sha256": {
+    "content/industry-scenarios.json": "3ac6afbd2eef09965a1d1c9c288e1e948ad42b9068217b437c4a1441e733b27b",
+    "scripts/industries.py": "6e42616b5da3f7601957b861de5aac17af61d888bed8edad5adf609bc339ce4e",
+    "content/page-updates.json": "fffaa6fbe452d30940d1865e2d2a879ecd751b712129dda94c62e67c50b3bf45",
+    "site.yaml": "6108b379c2fd03a79acc1b1bb1d5143f67c3cf620b666727e9aa0c92df8f32df"
+  },
+  "screenshots": [
+    "desktop-final.jpg",
+    "mobile-360-zh.jpg",
+    "mobile-390-en.jpg"
+  ],
+  "deployment": false,
+  "search_submissions": 0,
+  "external_sends": 0,
+  "next": "Local final candidate presented; stop additional changes, publication requires user instruction",
+  "evidence_retention": "All snapshots, diffs, screenshots and reports retained; no disposable files"
+}

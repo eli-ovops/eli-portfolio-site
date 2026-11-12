@@ -1,0 +1,66 @@
+{
+  "status": "PUBLISHED_AND_VERIFIED",
+  "verified_at": "2026-10-22T10:54:23.601801+00:00",
+  "configuration_sha256": "5a40bb27cb240fd1196306caa9e723d890a40441b531529f722a2e8990bc361d",
+  "backup": "/srv/eli-sites/portfolio/backups/20261022-directory-redirects/portfolio-domain-pending.before.conf",
+  "new_exact_redirects": 5,
+  "total_verified_redirects": 6,
+  "redirects": [
+    {
+      "source": "https://www.eliai.cn/articles/",
+      "status": 301,
+      "location": "https://www.eliai.cn/articles.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/articles.html"
+    },
+    {
+      "source": "https://www.eliai.cn/en/articles/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/articles.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/en/articles.html"
+    },
+    {
+      "source": "https://www.eliai.cn/en/cases/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/records.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/en/records.html"
+    },
+    {
+      "source": "https://www.eliai.cn/services/",
+      "status": 301,
+      "location": "https://www.eliai.cn/index.html#needs",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/index.html#needs"
+    },
+    {
+      "source": "https://www.eliai.cn/en/services/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/index.html#needs",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/en/index.html#needs"
+    },
+    {
+      "source": "https://www.eliai.cn/cases/",
+      "status": 301,
+      "location": "https://www.eliai.cn/records.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/records.html"
+    }
+  ],
+  "server_public_files_unchanged": 369,
+  "public_unchanged_page_checks": 22,
+  "browser_observations": 13,
+  "directory_listing_protected": true,
+  "other_configs_unchanged": true,
+  "service_states_and_pids_unchanged": true,
+  "website_content_revision": "cc132dc0e7da5cecf41d",
+  "content_builds": 0,
+  "search_submissions": 0,
+  "index_requests": 0,
+  "validate_fix_actions": 0,
+  "emails": 0,
+  "qa_traffic": "OWN_TEST_NOT_ORGANIC",
+  "google_report_clearance": "NOT_VERIFIED_REQUIRES_RECRAWL"
+}

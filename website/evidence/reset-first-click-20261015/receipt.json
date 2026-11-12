@@ -1,0 +1,33 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "date": "2026-10-15",
+  "revision": "90eb1f389143fe026465",
+  "owner": "current website execution chat",
+  "source": "/Users/USER/Documents/原点向量/个人网站/website",
+  "preview_url": "http://127.0.0.1:4178/records.html?pv=90eb1f389143fe026465",
+  "implementation": [
+    "templates/layout.html early pageswap cancellation only for history traversal to project library",
+    "scripts/check_first_pointer.cjs lifecycle regression including zh/en and deployment path prefixes"
+  ],
+  "facts_and_style": "18 protected source files unchanged; includes both search controllers, all site styles and motion component sources",
+  "before": "native-events-before.json; events-with-scroll-before.json; failed-first-click.png",
+  "after": "browser-checks.json; desktop-after-clear.jpg; mobile-reset.jpg",
+  "red_green": "new lifecycle regression fails against before/templates/layout.html (0 != 1), passes final layout",
+  "tests": "check-runs.json; seo-checks.json",
+  "browser_scope": [
+    "desktop rapid Back then single reset 3 consecutive runs",
+    "search/category/related P10-P09 return retains inventory/client conditions",
+    "clear then P10-P04 return stays all 38",
+    "keyboard reset",
+    "immediate category animation to mouse reset",
+    "Chinese 390px and English 320px simulated viewport rapid return reset; no horizontal overflow"
+  ],
+  "diagnostics_removed": true,
+  "indexing": "disabled; 84 HTML noindex; HTTP X-Robots-Tag noindex,nofollow; source seo configuration unchanged",
+  "deployment_performed": false,
+  "limitations": [
+    "IAB Chromium only; responsive viewport simulation, not real phone or Safari/Edge device acceptance",
+    "history traversal releases browser-native snapshot; GSAP entrance/filter animations and explicit navigation shared-title transition preserved",
+    "older unrelated fast header-click reports not claimed globally resolved"
+  ]
+}

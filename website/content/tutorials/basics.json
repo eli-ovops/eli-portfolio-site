@@ -1,0 +1,409 @@
+[
+  {
+    "slug": "what-is-ai",
+    "title": [
+      "AI 是什么？先从一件小事理解",
+      "What is AI? Start with one small task"
+    ],
+    "answer": [
+      "AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。这里先练能生成文字的 AI：让它整理一段文字，再核对遗漏。它给的是候选结果，不是自动正确的结论。",
+      "AI stands for artificial intelligence and includes recognition, prediction and generation, using approaches such as rules or learning from data. Here we practice text-generating AI by organizing a short passage and checking omissions. Its output is a candidate, not an automatically correct conclusion."
+    ],
+    "steps": [
+      [
+        "写下三条杂乱的采购备注，不含客户资料。",
+        "Write three messy purchasing notes without customer details."
+      ],
+      [
+        "请它按商品、数量、待确认事项整理。",
+        "Ask for item, quantity and unresolved questions."
+      ],
+      [
+        "逐项对照原文，把它补写的内容删掉。",
+        "Compare every field with the original and remove invented details."
+      ]
+    ],
+    "exercise": [
+      "把以下备注整理成表格，缺失字段写“待确认”，不要猜数量：[粘贴练习备注]。",
+      "Turn these notes into a table. Mark missing fields as unknown and do not guess quantities: [practice notes]."
+    ],
+    "problem": [
+      "如果它把“可能要”当成确定订单，要求单列“意向”和“已确认”，再重做。",
+      "If a possible purchase becomes a confirmed order, separate tentative and confirmed items and repeat."
+    ],
+    "check": [
+      "能指出一处整理得好的地方，也能找出需要人工确认的字段，才算完成第一次练习。",
+      "Finish when you can name a useful improvement and identify fields that still need human confirmation."
+    ],
+    "source": [
+      "ibm-ai"
+    ]
+  },
+  {
+    "slug": "ai-chat-vs-search",
+    "title": [
+      "AI 聊天和搜索引擎有什么区别？",
+      "AI chat or search: which should you use?"
+    ],
+    "answer": [
+      "搜索主要帮你找到网页，AI 聊天主要帮你组织答案。有些聊天产品能联网，但不能凭回答语气判断它是否真的搜索过。查政策、价格和近期消息，要看日期及原始来源。",
+      "Search helps you find pages; AI chat helps compose an answer. Some chat tools browse, but confident wording does not prove browsing occurred. For prices or recent changes, check dated original sources."
+    ],
+    "steps": [
+      [
+        "选一个需要最新资料的问题，如软件当前支持的系统。",
+        "Choose a question that needs current information, such as supported operating systems."
+      ],
+      [
+        "要求回答附官网链接与资料日期。",
+        "Request the official link and the source date."
+      ],
+      [
+        "打开链接核对，区分官网原话和模型建议。",
+        "Open the link and separate official facts from advice."
+      ]
+    ],
+    "exercise": [
+      "请查这个工具的官方系统要求。无法联网就明确说，给我需要自行核对的网址，不要凭记忆报版本。",
+      "Find the official system requirements. If you cannot browse, say so and give me a page to check rather than guessing versions."
+    ],
+    "problem": [
+      "链接打不开或内容不对应，就先标为未核实，换到官网导航查，不继续引用它。",
+      "If a link fails or does not support the claim, mark it unverified and use the official navigation."
+    ],
+    "check": [
+      "能用同一条官方信息确认答案，而不是只看两段相似的 AI 回复。",
+      "You can verify the answer against an official page rather than two similar AI responses."
+    ],
+    "source": [
+      "search",
+      "ibm-llm"
+    ]
+  },
+  {
+    "slug": "first-ai-task",
+    "title": [
+      "第一次用 AI，应该拿什么任务练手？",
+      "What should your first AI task be?"
+    ],
+    "answer": [
+      "选一个小、可检查、做错也容易恢复的任务，比如把个人笔记改成待办清单。不要第一天就交给它发客户邮件、改账或清空文件夹。先学会检查结果，再增加权限。",
+      "Choose something small, checkable and reversible, such as turning personal notes into tasks. Do not begin with sending client emails or changing accounts. Learn to check outputs before granting more access."
+    ],
+    "steps": [
+      [
+        "复制一段自己的非敏感笔记作为练习。",
+        "Copy a short set of non-sensitive personal notes."
+      ],
+      [
+        "要求只提取行动项，不新增负责人和日期。",
+        "Ask for action items without inventing owners or dates."
+      ],
+      [
+        "自己完成其中一项，检查清单是否可执行。",
+        "Carry out one item to see whether the instruction is usable."
+      ]
+    ],
+    "exercise": [
+      "只提取这些笔记中的待办。每项用动词开头，没写日期就留空：[笔记]。",
+      "Extract tasks only. Start each with a verb and leave dates blank when absent: [notes]."
+    ],
+    "problem": [
+      "出现“提升效率”等空话，就要求改写成能实际完成的动作，例如“核对三张收货单”。",
+      "Replace vague tasks such as improve efficiency with observable actions such as check three receipts."
+    ],
+    "check": [
+      "清单中的每一项都能回指原笔记，没有无中生有的任务。",
+      "Every task traces back to a note and none was invented."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "choose-ai-tool",
+    "title": [
+      "新手怎么选 AI 工具，避免买一堆会员？",
+      "How do beginners choose an AI tool?"
+    ],
+    "answer": [
+      "先列任务，再选工具。能写文章不代表能准确读表格，能聊天也不代表能操作你的文件。用同一份脱敏（去掉或替换能识别个人、客户的信息）样本比较结果、修改成本和权限，先不按宣传榜单购买。",
+      "Choose a task before choosing a tool. Good writing does not guarantee spreadsheet accuracy or file access. Compare results, correction effort and permissions using the same sanitized (with identifying personal or client details removed) sample before buying a subscription."
+    ],
+    "steps": [
+      [
+        "准备一段文字和你期望的输出格式。",
+        "Prepare one text sample and a target output format."
+      ],
+      [
+        "用两个可用工具做同一任务，记录错误。",
+        "Run the same task in two available tools and record mistakes."
+      ],
+      [
+        "核对当前价格、数据使用说明和退出方式。",
+        "Check current pricing, data terms and how to stop using the service."
+      ]
+    ],
+    "exercise": [
+      "按“符合要求、需要修改、无法完成”比较这两份摘要，只依据我提供的原文：[原文和摘要]。",
+      "Compare these summaries as meets requirements, needs correction or cannot complete, using only the supplied original."
+    ],
+    "problem": [
+      "如果一个工具回答漂亮却总丢数字，把数字准确性设为必过项，不能用文笔补分。",
+      "If polished prose keeps losing numbers, make numeric fidelity a requirement rather than compensating with style."
+    ],
+    "check": [
+      "能说出选择理由、不能做的事和下一次复查时间。",
+      "You can explain your choice, its limits and when to review it."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "ai-hallucination",
+    "title": [
+      "AI 一本正经胡说，怎么识别？",
+      "How do you spot an AI hallucination?"
+    ],
+    "answer": [
+      "AI 可能生成看似真实却没有依据的内容，常被叫作“幻觉”。姓名、论文、链接和数字尤其需要核对。让另一个模型赞同它，也不能代替查原始证据。",
+      "An AI hallucination is plausible content without adequate grounding. Check names, papers, links and numbers especially carefully. Agreement from another model is not a substitute for original evidence."
+    ],
+    "steps": [
+      [
+        "从一份回答中圈出三个可核实的事实。",
+        "Select three checkable factual claims from an answer."
+      ],
+      [
+        "要求每个事实对应具体来源段落。",
+        "Ask for a supporting source passage for each."
+      ],
+      [
+        "找不到依据的内容删掉或写成待核实。",
+        "Remove unsupported claims or label them unverified."
+      ]
+    ],
+    "exercise": [
+      "把答案拆成事实、推测、建议三栏。事实必须附可打开且支持该句的来源，缺少来源就标“未核实”。",
+      "Separate facts, inferences and advice. Attach a working supporting source to each fact or mark it unverified."
+    ],
+    "problem": [
+      "它引用的页面只讲相关话题却没证明结论时，不能算有效引用。",
+      "A page about a related topic does not count as evidence for the specific claim."
+    ],
+    "check": [
+      "最终版本的事实都有可定位依据，推测没有伪装成事实。",
+      "Facts have locatable evidence and inferences are clearly identified."
+    ],
+    "source": [
+      "ibm-llm"
+    ]
+  },
+  {
+    "slug": "ai-privacy-basics",
+    "title": [
+      "哪些资料不该直接发给 AI？",
+      "What should you avoid uploading to AI?"
+    ],
+    "answer": [
+      "先确认资料能否交给这个服务，再考虑怎样提问。客户名单、身份证、密码、未公开合同和业务明细不适合直接丢进个人聊天账号。删掉姓名也不一定足够，组合信息仍可能识别人。",
+      "Check whether a service is approved for the data before writing a prompt. Avoid sending client lists, identity documents, passwords or private contracts to a personal account. Removing names alone may not prevent identification."
+    ],
+    "steps": [
+      [
+        "先用虚构练习文本，不拿真实客户文件试功能。",
+        "Start with invented practice text rather than client files."
+      ],
+      [
+        "列出必须保留的字段和必须替换的标识。",
+        "List fields needed for the task and identifiers to replace."
+      ],
+      [
+        "核对所在组织的工具及数据规则。",
+        "Check your organization's tool and data rules."
+      ]
+    ],
+    "exercise": [
+      "请给这份虚构表格设计脱敏（去掉或替换能识别个人、客户的信息）规则：公司、联系人、单号、金额、日期。只列规则，不要求我上传原文件。",
+      "Design masking rules that remove or replace identifying details in a fictional table with company, contact, order ID, amount and date. Do not request the original file."
+    ],
+    "problem": [
+      "若任务必须使用真实明细，先确认合适的企业环境和授权，不靠一句“请保密”解决。",
+      "If real records are essential, confirm an approved environment and authorization; a keep this secret prompt is insufficient."
+    ],
+    "check": [
+      "你能解释哪些信息离开了电脑、交给谁，以及是否获准。",
+      "You can explain what leaves the device, who receives it and whether that is approved."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "ai-file-reading",
+    "title": [
+      "上传文件后，AI 真的读完了吗？",
+      "Did the AI actually read the whole file?"
+    ],
+    "answer": [
+      "上传成功只说明文件交给了产品，不证明每一页都被读懂。扫描页、复杂表格和超长附件可能漏读。先请它报告能看到的页码与字段，再问内容。",
+      "A successful upload does not prove every page was read. Scans, complex tables and long files may be missed. Ask what pages and fields are accessible before requesting conclusions."
+    ],
+    "steps": [
+      [
+        "做一份三页练习文件，每页放一个不同的标记。",
+        "Create a three-page practice file with a different marker on each page."
+      ],
+      [
+        "要求逐页列出标记，不告诉它答案。",
+        "Ask it to list the markers without giving the answers."
+      ],
+      [
+        "把漏读页转成可读文本或分开提交。",
+        "Convert unread pages to text or submit smaller sections."
+      ]
+    ],
+    "exercise": [
+      "先说明这份文件可读取的范围，逐页列出标题。无法辨认的地方写“无法读取”，不要补齐。",
+      "State the readable scope and list each page heading. Mark unreadable content instead of filling gaps."
+    ],
+    "problem": [
+      "如果它只总结第一页，缩小到指定页验证，不反复要求“认真读全部”。",
+      "If only page one is summarized, test a specified page rather than repeating read everything carefully."
+    ],
+    "check": [
+      "它能定位后面页的内容，且承认无法读的部分。",
+      "It can locate content on later pages and disclose unreadable sections."
+    ],
+    "source": [
+      "wb-files"
+    ]
+  },
+  {
+    "slug": "ai-generated-images",
+    "title": [
+      "AI 图片能直接当产品实拍图吗？",
+      "Can AI images replace product photos?"
+    ],
+    "answer": [
+      "AI 图片可以帮助讨论构图和风格，但可能改变产品尺寸、接口、文字和材质。卖真实商品时，示意图不能冒充实际产品。先明确用途，再决定用实拍、修图还是生成。",
+      "Generated images can help discuss composition and style, but may alter dimensions, ports, text or materials. Do not present a concept image as a photograph of the actual product. Decide the purpose first."
+    ],
+    "steps": [
+      [
+        "选一张有权使用的练习产品图。",
+        "Choose a practice image you have permission to use."
+      ],
+      [
+        "列出不可改的结构、标识和颜色。",
+        "List structural details, labels and colors that must stay accurate."
+      ],
+      [
+        "对照原图逐项检查生成结果。",
+        "Check the generated result against each original detail."
+      ]
+    ],
+    "exercise": [
+      "只给这张图片提出三种背景构图方案，不改变产品形状，不添加功能标识。",
+      "Suggest three background compositions without changing the product shape or adding feature labels."
+    ],
+    "problem": [
+      "若细节变形，回到原图做局部编辑或实拍，不用文案掩盖。",
+      "If details distort, use a local edit or photograph rather than explaining the distortion away."
+    ],
+    "check": [
+      "你能清楚区分实拍、编辑和概念示意，且展示标签不误导。",
+      "You can distinguish a photograph, an edit and a concept, with honest labels."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "ai-jargon-map",
+    "title": [
+      "AI 圈黑话太多？先分清这十个词",
+      "AI jargon: ten terms worth separating"
+    ],
+    "answer": [
+      "先按用途记：LLM 是语言模型；Token 是处理文字的单位；上下文是本次可用的信息；Prompt 是指令；RAG 是先检索资料再回答；Agent 会结合工具推进任务；Skill 是任务说明包；MCP 是连接规范；Harness 是运行配套；API 是程序接口。",
+      "Group the terms by purpose: LLM means language model; tokens are text units; context is available information; prompts are instructions; RAG adds retrieval; agents use tools; skills package instructions; MCP connects systems; a harness supports execution; APIs expose programmatic functions."
+    ],
+    "steps": [
+      [
+        "从一篇 AI 产品介绍中挑出三个陌生词。",
+        "Pick three unfamiliar terms from an AI product description."
+      ],
+      [
+        "给每个词写一句日常解释和一个用途。",
+        "Write a plain explanation and one use for each."
+      ],
+      [
+        "把概念和具体产品名分开记录。",
+        "Keep general concepts separate from product names."
+      ]
+    ],
+    "exercise": [
+      "用做饭类比解释 Agent、Skill 和 Harness，再说明这个类比在哪些地方不准确。",
+      "Explain agent, skill and harness using a cooking analogy, then explain where the analogy breaks down."
+    ],
+    "problem": [
+      "类比只帮助入门，不能推导出工具一定支持某功能，仍要查产品文档。",
+      "An analogy does not prove a product supports a feature; check its documentation."
+    ],
+    "check": [
+      "看到新工具时，你能问它连接什么、能做什么、怎样验收。",
+      "You can ask what a tool connects to, what it does and how its result is checked."
+    ],
+    "source": [
+      "mcp",
+      "skills",
+      "harness"
+    ],
+    "summary": [
+      "先分清模型、工具、连接和运行环境，再看产品介绍。",
+      "Separate models, tools, connections and execution support before reading product claims."
+    ]
+  },
+  {
+    "slug": "ai-learning-plan",
+    "title": [
+      "零基础学 AI，第一周怎么安排？",
+      "A first-week AI learning plan"
+    ],
+    "answer": [
+      "先把一件事做对，再学更多名词。第一周可以围绕文字整理、资料核对和结果检查建立习惯。这里是练习安排，不是七天掌握 AI 的能力承诺。",
+      "Build the habit of completing one task correctly before collecting jargon. Spend the first week practicing text organization, source checking and review. This is a practice plan, not a promise of mastery in seven days."
+    ],
+    "steps": [
+      [
+        "前两天整理笔记，记录它漏掉的内容。",
+        "Spend the first two days organizing notes and recording omissions."
+      ],
+      [
+        "接下来比较两种提问方式，再核对一个事实。",
+        "Next compare two prompts and verify one factual claim."
+      ],
+      [
+        "最后复做同一任务，整理可复用的步骤。",
+        "Repeat the task and save a reusable procedure at the end."
+      ]
+    ],
+    "exercise": [
+      "我每天有十五分钟，只用非敏感文字练习。请按“任务、检查点、失败后怎么办”安排一周，不推荐付费套餐。",
+      "Plan a week of fifteen-minute daily exercises with non-sensitive text. Include a task, a check and a fallback, without recommending paid plans."
+    ],
+    "problem": [
+      "如果每天都在换工具，把范围缩回同一工具同一任务，先观察改进。",
+      "If you keep changing tools, return to one tool and one task so improvements are observable."
+    ],
+    "check": [
+      "一周后留下一个可重做的流程和错误清单，而不只是收藏链接。",
+      "Finish with a repeatable workflow and an error log rather than a collection of links."
+    ],
+    "source": [
+      "prompt"
+    ]
+  }
+]

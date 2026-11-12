@@ -1,0 +1,223 @@
+[
+  {
+    "label": "desktop-webgl",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=02f6d60b2503c4ac55bf",
+    "width": 1332
+  },
+  {
+    "label": "desktop-paused",
+    "active": "false",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "false",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=02f6d60b2503c4ac55bf",
+    "width": 1332
+  },
+  {
+    "label": "desktop-resumed",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=02f6d60b2503c4ac55bf",
+    "width": 1332
+  },
+  {
+    "label": "gallery-next",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "02 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16#work",
+    "width": 1332
+  },
+  {
+    "label": "gallery-prev",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16#work",
+    "width": 1332
+  },
+  {
+    "label": "case-back",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16#work",
+    "width": 1332
+  },
+  {
+    "label": "zh-390",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      375,
+      720
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16",
+    "width": 390
+  },
+  {
+    "label": "en-320",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      305,
+      720
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/en/index.html?pv=bf0ba763ee15b549be16",
+    "width": 320
+  },
+  {
+    "label": "en-320-reduced",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      305,
+      720
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/en/index.html?pv=bf0ba763ee15b549be16",
+    "width": 320
+  },
+  {
+    "label": "en-390-reduced",
+    "active": "false",
+    "bgPointer": "none",
+    "canvas": [
+      375,
+      720
+    ],
+    "disabled": true,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "false",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/en/index.html?pv=bf0ba763ee15b549be16",
+    "width": 390
+  },
+  {
+    "label": "zh-320-reduced",
+    "active": "false",
+    "bgPointer": "none",
+    "canvas": [
+      305,
+      720
+    ],
+    "disabled": true,
+    "overflow": false,
+    "position": "",
+    "pressed": "false",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16",
+    "width": 320
+  },
+  {
+    "label": "final-pause",
+    "active": "false",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "false",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16",
+    "width": 1332
+  },
+  {
+    "label": "final-resumed",
+    "active": "true",
+    "bgPointer": "none",
+    "canvas": [
+      1317,
+      1202
+    ],
+    "disabled": false,
+    "overflow": false,
+    "position": "01 / 07",
+    "pressed": "true",
+    "renderer": "webgl2",
+    "robots": "noindex,nofollow",
+    "url": "http://127.0.0.1:4178/index.html?pv=bf0ba763ee15b549be16",
+    "width": 1332
+  }
+]

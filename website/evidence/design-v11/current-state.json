@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-06",
+  "version": "0.11.0",
+  "status": "Local visual trial; not user-approved final design",
+  "request": "User now requests a handoff document for an independent Open Design attempt",
+  "handoff_document": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/eli-opendesign-handoff-dbiegr_i/Eli_个人作品展示网站_OpenDesign交接_20261006.md",
+  "receiver_status": "Not dispatched / no receiver acceptance",
+  "implementation": "Poster gallery, kinetic name, category filtering and unified dark theme implemented; no site edits in handoff turn",
+  "checks_on_disk": "evidence/static-checks.json: v0.11 batch, 42 HTML pages / 38 records passed static links and HTTP checks",
+  "browser_observations_from_previous_turn": [
+    "Original 4178 URL directly opened successfully in IAB",
+    "Desktop poster layout reviewed",
+    "375px home / case / about / archive reviewed",
+    "Gallery 6 to 2 and back verified",
+    "Search inventory returned 2; no match showed empty state; clear restored 38",
+    "Case and return links verified",
+    "Public phone/email/QR links verified without dialing or sending",
+    "Keyboard solid 3px focus verified",
+    "Reduced motion showed complete name / transform none / transition 0s",
+    "Native mouse movement produced matrix3d and visible project cursor"
+  ],
+  "not_complete": [
+    "All breakpoint and 200% zoom coverage",
+    "Final consolidated screenshots and browser receipt",
+    "Physical QR scanning / dialing / email / mid-range device FPS",
+    "User visual acceptance",
+    "Formal deployment"
+  ],
+  "temporary_viewport": "Reset through supported browser capability in handoff turn",
+  "content_unchanged_since_design_brief": true,
+  "profile_unchanged_since_design_brief": true,
+  "latest_source_hashes": {
+    "styles.css": "e3f674d489e8d809fa6e8f8524da926aec6ce947f36c883a0474db2a41b441c7",
+    "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+    "motion.js": "283dd7c5cf6dcd63c4cd7441d4373e849e1b6ecdb2622f040a018f331304c749",
+    "app.js": "66b5ecd93473845de544f9ae484b24b3796501128145f185ac1b511dfbd7d55a",
+    "templates/home.html": "e998e8593f6e0a0358b54d13ae82a738764b66bc57ac95a1683f15a5a08ebf7c",
+    "scripts/components.py": "7333ce1cf7a948d25a700bfaa54a2061e14fa7f0ba541583f7158606603778e5",
+    "scripts/pages.py": "0104651539b0b8b9eb332e8b26000de40a4a0fb3a7c2651771e83c33680dccc0"
+  }
+}

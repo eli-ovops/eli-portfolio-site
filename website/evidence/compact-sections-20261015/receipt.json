@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-15",
+  "revision": "5d50bf9de6fc9f375771",
+  "status": "LOCAL_LAYOUT_VALIDATED_WITH_OPEN_INTERACTION_ISSUE",
+  "preview": "http://127.0.0.1:4178/index.html?pv=5d50bf9de6fc9f375771",
+  "scope": [
+    "Compact home business topics with three finite SVG motions",
+    "About open image strip",
+    "Always-visible three-stop route"
+  ],
+  "changed_sources": [
+    "DESIGN.md",
+    "assets/bits-ui.css",
+    "assets/bits-ui.js",
+    "assets/editorial.js",
+    "docs/\u4ea4\u4ed8\u4e0e\u9a8c\u8bc1.md",
+    "scripts/pages.py",
+    "site.yaml",
+    "templates/about.html"
+  ],
+  "deployed": false,
+  "indexing_enabled": false,
+  "business_content_unchanged": true,
+  "checks": "check-runs.json",
+  "browser": "browser-checks.json",
+  "report": "report.md",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "user_visual_acceptance": "PENDING",
+  "open_issues": [
+    "Rapid clear-filter first-click failed once; stable retry worked",
+    "Prior rapid-header first-click remains open"
+  ]
+}

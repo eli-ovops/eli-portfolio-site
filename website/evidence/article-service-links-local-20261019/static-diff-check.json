@@ -1,0 +1,33 @@
+{
+  "semantic_html_changed": [
+    "articles/ai-inventory-exceptions.html",
+    "articles/ai-knowledge-base-start.html",
+    "articles/ai-spreadsheet-cleaning.html",
+    "articles/fine-tuning-or-rag.html",
+    "articles/rag-explained.html",
+    "en/articles/ai-inventory-exceptions.html",
+    "en/articles/ai-knowledge-base-start.html",
+    "en/articles/ai-spreadsheet-cleaning.html",
+    "en/articles/fine-tuning-or-rag.html",
+    "en/articles/rag-explained.html"
+  ],
+  "unchanged_other_html_count": 286,
+  "only_visible_change": "10 article-service anchors; main content excluding this slot identical in all 296 pages",
+  "non_html_changed": [
+    "sitemap.xml"
+  ],
+  "changed_ledger_rows": [
+    "articles/ai-inventory-exceptions.html",
+    "articles/ai-knowledge-base-start.html",
+    "articles/ai-spreadsheet-cleaning.html",
+    "articles/fine-tuning-or-rag.html",
+    "articles/rag-explained.html",
+    "en/articles/ai-inventory-exceptions.html",
+    "en/articles/ai-knowledge-base-start.html",
+    "en/articles/ai-spreadsheet-cleaning.html",
+    "en/articles/fine-tuning-or-rag.html",
+    "en/articles/rag-explained.html"
+  ],
+  "recorded_date": "2026-10-19",
+  "css_js_bytes_unchanged": true
+}

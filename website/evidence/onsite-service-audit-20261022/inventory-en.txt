@@ -1,0 +1,147 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: ../index.html
+    - link "Projects":
+      - /url: ../records.html
+    - link "Articles":
+      - /url: ../articles.html
+    - link "About":
+      - /url: ../about.html
+    - link "Switch to Chinese":
+      - /url: ../../services/workflow-automation.html
+      - text: 中文
+- main:
+  - link "← Explore business needs":
+    - /url: ../index.html#needs
+  - generic: AI services
+  - heading "Inventory reconciliation and data entry automation" [level=1]:
+    - generic: Inventory reconciliation and data entry automation
+  - paragraph: "Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed."
+  - paragraph: Possible deliverables
+  - list:
+    - listitem: ↳One workflow change plan
+    - listitem: ↳A usable tool or software pilot
+    - listitem: ↳Checking and operating guidance
+  - paragraph: "Led barcode inventory development: stock movements, duplicate requests and corrections."
+  - link "View the barcode inventory case ↗":
+    - /url: ../cases/p09.html
+  - link "Discuss your entry and stock-checking needs for free ↗":
+    - /url: ../about.html#contact
+  - link "More related cases ↓":
+    - /url: "#cases"
+  - complementary:
+    - heading "On this page" [level=2]
+    - navigation "On this page":
+      - link "Which step should change first?":
+        - /url: "#priority"
+      - link "Entry and inventory checks":
+        - /url: "#inventory"
+      - link "Product information, copy and images":
+        - /url: "#content"
+      - link "Check the improvement, not just the tool":
+        - /url: "#acceptance"
+      - link "Inventory and content workflow experience":
+        - /url: "#cases"
+      - link "Questions before starting":
+        - /url: "#questions"
+  - heading "Which step should change first?" [level=2]
+  - paragraph: Look for frequent work with reasonably clear rules and checkable inputs and outputs. Record who owns it, how long it takes and why rework happens. Identify repeated transfer or checking.
+  - paragraph: Include subscriptions, staff learning, integrations and maintenance in the cost. A small change that works can be enough; do not add process just to use AI.
+  - heading "Entry and inventory checks" [level=2]
+  - paragraph: Discuss duplicate entry, scattered stock movement records or manual reconciliation. Confirm business rules and access before choosing existing tools or custom inventory software.
+  - paragraph: Quantities, documents and movement records must reconcile. Define correction, reversal and activity records. Use software validation for fixed rules and assess AI when unstructured content needs interpretation.
+  - heading "Product information, copy and images" [level=2]
+  - paragraph: Organize product facts, specifications and reusable assets, then assess AI for drafting copy or preparing images. A responsible person checks prices, specifications and brand wording before publication.
+  - paragraph: Try one product type or channel. Check source completeness and the amount of editing required. Generation, human review and publication are separate steps with separate checks.
+  - heading "Check the improvement, not just the tool" [level=2]
+  - paragraph: Compare similar tasks before and after the change for duration, repeated entry and rework while checking correctness. Staff understanding and recovery from mistakes are part of acceptance.
+  - paragraph: Agree pilot scope and cost first, then expand only if results justify it. Existing tools such as WorkBuddy can be a starting point. Agree custom development, training and maintenance separately.
+  - heading "Inventory and content workflow experience" [level=2]
+  - paragraph: These projects illustrate different workflows. Each case distinguishes role, delivery status and validation scope; generating content does not establish automated publication.
+  - heading "Sanitaryware manufacturer inventory system ↗" [level=3]:
+    - link "Sanitaryware manufacturer inventory system ↗":
+      - /url: ../cases/p10.html
+  - paragraph: Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.
+  - heading "Furniture barcode inventory system ↗" [level=3]:
+    - link "Furniture barcode inventory system ↗":
+      - /url: ../cases/p09.html
+  - paragraph: Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.
+  - heading "Zhijing · AI content workbench ↗" [level=3]:
+    - link "Zhijing · AI content workbench ↗":
+      - /url: ../cases/p12.html
+  - paragraph: Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.
+  - heading "Questions before starting" [level=2]
+  - heading "Does efficiency require AI?" [level=3]
+  - paragraph: No. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first.
+  - heading "Can you promise a specific saving?" [level=3]
+  - paragraph: Assess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement.
+  - heading "Start with one task" [level=2]
+  - paragraph: Describe the current process, its slowest step and the result you want.
+  - link "Discuss your entry and stock-checking needs for free ↗":
+    - /url: ../about.html#contact
+  - paragraph: Related services
+  - paragraph:
+    - link "AI implementation for small businesses ↗":
+      - /url: fde-consulting.html
+    - text: ·
+    - link "Knowledge base setup and AI-assisted support ↗":
+      - /url: ai-agent.html
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: ../records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

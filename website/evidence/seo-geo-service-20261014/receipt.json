@@ -1,0 +1,42 @@
+{
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "revision": "52b6291edac4f1ebddad",
+  "accepted_at": "2026-10-14T13:44:14.173569+08:00",
+  "scope": "Business AI consultation metadata, existing visible services and FAQ structured-data consistency, private optional same-source AI context candidate",
+  "published": false,
+  "indexing": "DISABLED",
+  "html_pages": 84,
+  "body_scope": "84 HTML bodies identical after normalizing revision query; no extra paragraphs or layout changes",
+  "protected_files": 15,
+  "tests": {
+    "html_pages": 84,
+    "unique_titles": 84,
+    "unique_descriptions": 84,
+    "paired_hreflang": "PASS",
+    "self_canonical": "PASS",
+    "structured_data": "82 valid JSON graphs",
+    "same_as_existing_profiles": "PASS",
+    "project_lists": "2 x 38",
+    "case_breadcrumbs": 76,
+    "visible_bilingual_questions": "PASS",
+    "visible_service_consistency": "2 x 4 Service nodes PASS",
+    "faq_consistency": "2 x 3 answers PASS",
+    "ai_context": "PRIVATE candidate only; same-source; future-domain dry run PASS",
+    "share_images": "Existing visitor images only",
+    "candidate_sitemap_urls": 82,
+    "indexing": "DISABLED",
+    "body_scope": "Not compared; no batch baseline supplied",
+    "future_domain_dry_run": "PASS"
+  },
+  "browser_checks": "FOCUSED_BROWSER_PASS",
+  "context_candidate": "evidence/seo-foundation/llms-candidate.txt; not public while indexing disabled",
+  "private_http_checks": "llms.txt, sitemap.xml, content/seo.json and candidate evidence HTTP404",
+  "production_unchanged": "20261014-133040-boss-consult / afc3f340d7a7bf1053c5",
+  "limits": [
+    "IAB desktop/simulated320, not physical phones or all browser engines",
+    "No actual indexing, search impressions, AI citations or lead attribution measured",
+    "No Google rich-result eligibility/SEO ranking/AI recommendation measured or promised",
+    "No new third-party tracking, search-platform submissions, accounts, DNS/HTTPS/ICP or server changes"
+  ],
+  "artifacts": "/Users/USER/Documents/原点向量/个人网站/website/evidence/seo-geo-service-20261014"
+}

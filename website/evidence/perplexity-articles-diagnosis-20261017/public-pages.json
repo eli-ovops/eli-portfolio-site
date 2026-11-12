@@ -1,0 +1,95 @@
+[
+  {
+    "path": "/articles/inventory-reconciliation.html",
+    "at": "2026-10-17T18:56:54.826370+08:00",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+    "bytes": 59261,
+    "sha256": "198327352850bea2c47e9b0a6755f7ff59339c1a374f5de946c253437586f2a8",
+    "content_type": "text/html",
+    "x_robots_tag": null,
+    "title": [
+      "库存每天靠人工核对，先改哪一步？ - Eli"
+    ],
+    "canonical": [
+      "https://www.eliai.cn/articles/inventory-reconciliation.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "body_text_chars": 5998,
+    "text": null
+  },
+  {
+    "path": "/articles/enterprise-knowledge-base.html",
+    "at": "2026-10-17T18:56:54.826496+08:00",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+    "bytes": 60429,
+    "sha256": "2e889c0a6e639e6df74e0107b7d3ba1954a808c2888b74aaa8b6e1d1df091870",
+    "content_type": "text/html",
+    "x_robots_tag": null,
+    "title": [
+      "企业资料太散，做知识库答疑前要准备什么？ - Eli"
+    ],
+    "canonical": [
+      "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "body_text_chars": 5986,
+    "text": null
+  },
+  {
+    "path": "/articles/what-is-agent.html",
+    "at": "2026-10-17T18:56:54.826612+08:00",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/articles/what-is-agent.html",
+    "bytes": 44460,
+    "sha256": "75d80f7818864ec6e17a39a92f7e945ce0269db2dcca9e17e558e29eb951b458",
+    "content_type": "text/html",
+    "x_robots_tag": null,
+    "title": [
+      "Agent 是什么？跟普通 AI 聊天差在哪？ - Eli"
+    ],
+    "canonical": [
+      "https://www.eliai.cn/articles/what-is-agent.html"
+    ],
+    "robots": [
+      "index,follow"
+    ],
+    "body_text_chars": 4887,
+    "text": null
+  },
+  {
+    "path": "/robots.txt",
+    "at": "2026-10-17T18:56:54.826704+08:00",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/robots.txt",
+    "bytes": 65,
+    "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+    "content_type": "text/plain",
+    "x_robots_tag": null,
+    "title": [],
+    "canonical": [],
+    "robots": [],
+    "body_text_chars": 65,
+    "text": "User-agent: *\nAllow: /\nSitemap: https://www.eliai.cn/sitemap.xml\n"
+  },
+  {
+    "path": "/llms.txt",
+    "at": "2026-10-17T18:56:54.826795+08:00",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/llms.txt",
+    "bytes": 5765,
+    "sha256": "e253f5b6957196cbd9c48472248c9876fec447407b38ac1c1c7e52da200b7c7e",
+    "content_type": "text/plain",
+    "x_robots_tag": null,
+    "title": [],
+    "canonical": [],
+    "robots": [],
+    "body_text_chars": 4264,
+    "text": "# Eli\n\n## FDE 企业 AI 落地咨询｜AI Agent 与流程自动化 - Eli\nEli，FDE 前沿部署工程师，帮助中小企业用 AI 提效减负。从选工具、改流程和小范围软件开发开始，提供免费初次沟通。实施服务低至500元起，具体范围与费用按需求确认。\n\n[联系与合作](https://www.eliai.cn/about.html#contact)\n\n### 文章与教程\n[AI 入门教程与实践文章（中文）](https://www.eliai.cn/articles.html)\n\n### 录入和库存靠人核对\n录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。\n[看库存案例](https://www.eliai.cn/cases/p10.html)\n[看扫码案例](https://www.eliai.cn/cases/p09.html)\n\n### 资料难找、问题反复问\n产品资料太散、同样的问题反复回答？先整理知识库，再评估 AI Agent 或答疑助手是否适合，回答能查到依据，重要问题由人确认。\n[看答疑案例](https://www.eliai.cn/cases/p36.html)\n\n### 产品内容总要重做\n产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。\n[看内容案例](https://www.eliai.cn/cases/p12.html)\n\n### 想用 AI，但不知道从哪开始？\n可以先免费聊聊公司最费时间的一件事。\n员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。\n\n### 会怎么推进，费用怎么定？\n先梳理流程，再选一个小场景。\n初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。工具订阅、开发、培训与维护的范围和费用另行确认。\n\n### 一定要开发一套系统吗？\n用好一个工具，改善一个步骤，也可以开始。\n可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。\n\n### FDE 企业 AI 落地咨询\nFDE 帮助中小企业提效减负。先免费沟通，拒绝 AI 焦虑；选工具、改流程，需要时再做软件。实施服务低至500元起，具体费用按需求确认。\n[FDE 企业 AI 落地咨询](https://www.eliai.cn/services/fde-consulting.html)\n\n### 企业 AI Agent 与知识库应用\n帮员工查资料、帮客服找答复。先做能查来源的知识库问答；要让 Agent 改订单、写库存，再单独验证接口、权限和人工确认。\n[企业 AI Agent 与知识库应用](https://www.eliai.cn/services/ai-agent.html)\n\n### 企业提效，从一项重复工作开始\n把重复录入、库存核对或产品内容准备，改成更少搬运、更容易核对的流程。先试一项，再看耗时、正确性和返工情况。\n[企业提效，从一项重复工作开始](https://www.eliai.cn/services/workflow-automation.html)\n\n## FDE Consulting, AI Agents & Workflow Automation | Eli\nEli provides FDE support for small and medium-sized businesses: AI tools, workflow improvements and scoped software. Free initial conversation; services from CNY 500, with scope and fees agreed before implementation.\n\n[Contact and cooperation](https://www.eliai.cn/en/about.html#contact)\n\n### Articles and tutorials\n[AI tutorials and practical notes (English)](https://www.eliai.cn/en/articles.html)\n\n### Repeated entry and stock checks\nReview entry and stock-checking steps to see where software can reduce repeated handling.\n[Inventory case](https://www.eliai.cn/en/cases/p10.html)\n[Barcode case](https://www.eliai.cn/en/cases/p09.html)\n\n### Information lookup and repeated questions\nOrganize scattered product knowledge, then assess whether an AI agent or support assistant fits. Keep sources available and important answers subject to human review.\n[Support case](https://www.eliai.cn/en/cases/p36.html)\n\n### Product content takes time\nReview how product information becomes copy and images, with people reviewing the output.\n[Content case](https://www.eliai.cn/en/cases/p12.html)\n\n### Want AI, but unsure where to start?\nStart with a free conversation about one time-consuming task.\nWhat do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan.\n\n### How do we proceed and estimate cost?\nReview the workflow, then choose one small use case.\nThe initial conversation is free. Implementation starts at CNY 500, with scope and fees agreed before work begins. Agree tool subscriptions, development, training and maintenance separately.\n\n### Do we need to build a whole system?\nOne useful tool or one better step can be a starting point.\nWe can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding.\n\n### FDE consulting for business AI\nFDE support helps small and medium-sized businesses reduce repetitive work. Start with a free initial conversation, then choose tools, improve workflows or scope software changes. Services start at CNY 500; scope and fees are agreed before implementation.\n[FDE consulting for business AI](https://www.eliai.cn/en/services/fde-consulting.html)\n\n### AI agents and knowledge support\nHelp staff find information and support teams answer questions with sources. Agents that change orders or stock need separate checks for tools, access and human approval.\n[AI agents and knowledge support](https://www.eliai.cn/en/services/ai-agent.html)\n\n### Automate one business task\nReduce repeated entry, stock checks or product content handling. Try one workflow, then check time, correctness and rework.\n[Automate one business task](https://www.eliai.cn/en/services/workflow-automation.html)\n"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "styles.css": true,
+  "motion.css": true,
+  "motion.js": true,
+  "app.js": true,
+  "assets/stacked-gallery.css": true,
+  "assets/depth-gallery.js": true,
+  "assets/home-ambient.js": true,
+  "assets/home-ambient.css": true,
+  "assets/editorial.js": true,
+  "assets/articles.css": true,
+  "assets/article-library.js": true
+}

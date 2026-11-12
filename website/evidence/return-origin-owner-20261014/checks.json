@@ -1,0 +1,20 @@
+{
+  "baseline_regression": {
+    "exit_code": 1,
+    "stderr": "node:assert:95\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: homepage must not resurrect a cleared query\n\ntrue !== false\n\n    at Object.<anonymous> (/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/scripts/check_return_owner.cjs:39:10)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49 {\n  generatedMessage: false,\n  code: 'ERR_ASSERTION',\n  actual: true,\n  expected: false,\n  operator: 'strictEqual'\n}\n\nNode.js v22.16.0\n"
+  },
+  "current_regression": {
+    "exit_code": 0,
+    "stdout": "PASS: homepage/cleared origin stays clean; real explicit/history/legacy list origins retained in both controllers\n"
+  },
+  "other_checks_observed_this_turn": {
+    "build": "84 HTML / 38 records PASS",
+    "check_related_return.cjs": "PASS",
+    "check_navigation_version.cjs": "PASS",
+    "check_first_pointer.cjs": "PASS",
+    "check_search_reset.cjs": "PASS",
+    "check.py": "84 pages/links/anchors/privacy404 PASS",
+    "check_seo.py": "DISABLED / 84 pages PASS",
+    "check_localization.py": "42 en /42 zh PASS"
+  }
+}

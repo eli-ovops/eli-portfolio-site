@@ -1,0 +1,59 @@
+{
+  "revision": "5d50bf9de6fc9f375771",
+  "desktop": {
+    "width": 1332,
+    "height": 1000,
+    "before": {
+      "home_section": 463,
+      "home_grid": 292,
+      "capability_grid": 662,
+      "workflow": 485,
+      "method_section": 690
+    },
+    "after": {
+      "home_section": 306,
+      "home_grid": 167,
+      "capability_grid": 347,
+      "workflow": 146,
+      "method_section": 315
+    }
+  },
+  "native_mobile": {
+    "width": 403,
+    "height": 1202,
+    "before": {
+      "home_section": 1036,
+      "home_grid": 854,
+      "capability_grid": 1498,
+      "workflow": 433,
+      "method_section": 597
+    },
+    "after": {
+      "home_section": 689,
+      "home_grid": 526,
+      "capability_grid": 609,
+      "workflow": 343,
+      "method_section": 477
+    }
+  },
+  "checks": {
+    "all_three_steps_visible": true,
+    "previous_next_tab_controls": 0,
+    "capability_and_route_native_details_keyboard": "PASS",
+    "about_case_browser_back": "P10 to About returned;3 route stops still visible",
+    "mini_animations": "Observed flow-transfer / flow-write / flow-typeset in real computed styles; later flow-playing count0",
+    "no_glass": "No background image or backdrop filter on topics; no parent tile backgrounds",
+    "english_320": "No page overflow;3 capabilities;3 steps; contact top103.71875",
+    "reduced_motion": "Route transition0s; all steps visible",
+    "search_case_back": "Inventory+website/tools2rows; case and browserBack retain query/category",
+    "reset_stable": "all38 / empty query",
+    "rapid_reset": "One first click failed during fast interaction, not accepted; later stable click succeeded"
+  },
+  "limits": [
+    "Real physical touch/iOS Safari/full-browser/FPS not covered",
+    "One CDP1332 screenshot repeated403px strips; retained as diagnostic only; browser viewport API produced valid desktop layout; some desktop captures low-resolution",
+    "Early route screenshots may capture transient entrance; final mobile screenshots are stable",
+    "Rapid reset and prior rapid header first-click observations remain open",
+    "User visual acceptance pending"
+  ]
+}

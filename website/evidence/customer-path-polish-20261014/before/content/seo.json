@@ -1,0 +1,116 @@
+{
+  "base_url": "http://[REDACTED_HOST]/sites/portfolio/",
+  "planned_base_url": "https://www.eliai.cn/",
+  "indexing_enabled": false,
+  "note": "Prepare locally while domain identity, HTTPS and ICP filing remain pending. Change base_url only after the domain serves this site; enable indexing only with launch authorization.",
+  "home": {
+    "zh-CN": {
+      "title": "Eli - 业务系统开发与 AI 工作流作品集",
+      "description": "Eli 的个人网站与作品集，展示库存管理系统、扫码出入库、RAG 知识检索客服和 AI 内容工作台。查看项目过程、个人职责、交付阶段与验证记录，了解需求梳理、开发和测试的实际工作。"
+    },
+    "en": {
+      "title": "Eli | Business Systems & AI Workflow Portfolio",
+      "description": "Explore Eli’s inventory systems, barcode workflows, RAG support and AI content workbench. Read implementation approaches, individual roles, delivery stages and validation records."
+    }
+  },
+  "about": {
+    "zh-CN": {
+      "title": "关于 Eli - 开发经历、工作方法与联系方式",
+      "description": "了解 Eli 的项目经历与工作方式：从需求梳理、流程设计到 AI 辅助开发、测试与交付，并查看联系邮箱、电话和微信。"
+    },
+    "en": {
+      "title": "About Eli | Development Experience & Contact",
+      "description": "Learn about Eli’s project experience and approach to requirements, workflow design, AI-assisted development, testing and delivery. Find contact details."
+    }
+  },
+  "records": {
+    "zh-CN": {
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。"
+    },
+    "en": {
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project."
+    }
+  },
+  "case_titles": {
+    "P10": {
+      "zh-CN": "洁具库存管理系统开发案例 - Eli",
+      "en": "Inventory System Development | Eli Case Study"
+    },
+    "P09": {
+      "zh-CN": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "en": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    "P36": {
+      "zh-CN": "RAG 智能客服定制：知识库与检索实践 - Eli",
+      "en": "RAG Support: Knowledge & Retrieval | Eli Case Study"
+    },
+    "P12": {
+      "zh-CN": "织境 AI 内容工作台：内容流程与人工确认 - Eli",
+      "en": "Zhijing AI Content Workbench | Eli Case Study"
+    },
+    "P15": {
+      "zh-CN": "PetSocial / HelloTail：原生 iOS 开发实践 - Eli",
+      "en": "PetSocial / HelloTail: Native iOS | Eli Case Study"
+    },
+    "P04": {
+      "zh-CN": "律所 OA 办公系统开发案例 - Eli",
+      "en": "Law Firm Office Workflows | Eli Case Study"
+    },
+    "P02": {
+      "zh-CN": "慈善基金会官网开发案例 - Eli",
+      "en": "Nonprofit Website Development | Eli Case Study"
+    },
+    "P05": {
+      "zh-CN": "英国品牌全域营销协作案例 - Eli",
+      "en": "UK Brand Marketing Collaboration | Eli Case Study"
+    }
+  },
+  "questions": [
+    {
+      "zh-CN": {
+        "question": "独立开发还是团队协作？",
+        "lead": "PetSocial / HelloTail 由我独立开发。",
+        "answer": "独立项目负责需求、开发和测试；团队项目的具体分工见各案例。"
+      },
+      "en": {
+        "question": "Independent or team work?",
+        "lead": "I built PetSocial / HelloTail independently.",
+        "answer": "I handle requirements, development and testing for independent work. Team contributions are identified in each case."
+      },
+      "projects": [
+        "P15"
+      ]
+    },
+    {
+      "zh-CN": {
+        "question": "如何查看项目的实际成果？",
+        "lead": "看实现过程，也看验证范围。",
+        "answer": "库存案例有操作与验证记录；RAG 问答是 AI 示意，非真实客服记录。"
+      },
+      "en": {
+        "question": "How can I assess the results?",
+        "lead": "Read the approach and validation scope.",
+        "answer": "Inventory cases include operation and validation records. RAG answers are AI illustrations, not real support records."
+      },
+      "projects": [
+        "P09",
+        "P36"
+      ]
+    },
+    {
+      "zh-CN": {
+        "question": "联系前准备什么？",
+        "lead": "说清流程、问题和目标。",
+        "answer": "通过下方邮箱、电话或微信联系，再讨论实施范围。"
+      },
+      "en": {
+        "question": "What should I share first?",
+        "lead": "Your workflow, problem and goal.",
+        "answer": "Get in touch by email, phone or WeChat below to discuss the scope."
+      },
+      "projects": []
+    }
+  ]
+}

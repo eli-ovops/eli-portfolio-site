@@ -1,0 +1,120 @@
+{
+  "files": {
+    "ip": 138,
+    "domain": 138
+  },
+  "requests": [
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/index.html",
+      "status": 200,
+      "sha256": "3e250e967ccb28ab431869c6f6037fe6a307d62b48cf2a39da9feee65a5da5a4",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/about.html",
+      "status": 200,
+      "sha256": "cd948d559c9681b0fef802434884dbca897955aeb14f3d84ea09c5fba02cea55",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html",
+      "status": 200,
+      "sha256": "03b7cbd3e0a9a42c1f8d63a52f1f6f7e37f0b3b8af2085e43e8627262c2ab910",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/index.html",
+      "status": 200,
+      "sha256": "e9db111984af0ee58dbd94a299e875f3f948e75fcf365f8163b313878fb7ec61",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/records.html",
+      "status": 200,
+      "sha256": "9905209c6e8d39e6d01f7f8da41787e55e531e69527b1d0b7cbecc80873cfd05",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html",
+      "status": 200,
+      "sha256": "d9b5a3db3745137eea37b99af2c1fe01a2a45f2bd6150e9fac2db9407461220b",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/assets/social-footer.css",
+      "status": 200,
+      "sha256": "c0ebaf390cc42f170f969596b7158a2ead4c3106ddc103407064137f1fbc19df",
+      "noindex_header": null
+    },
+    {
+      "url": "http://[REDACTED_HOST]/sites/portfolio/robots.txt",
+      "status": 200,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+      "noindex_header": null
+    },
+    {
+      "url": "http://www.eliai.cn/index.html",
+      "status": 200,
+      "sha256": "423e7829c5d30ced41c570cad1416e5bb6574c7b77326c11dd37cd2b6d12f992",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/about.html",
+      "status": 200,
+      "sha256": "1462e3c5f0e0bcac400adcba383d143776b9e517de24c7fc45c99800d03909e8",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/records.html",
+      "status": 200,
+      "sha256": "823a3ea866eae50ce6d07d0b7740469d9050809a95a6c015bce8de348f86c035",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/en/index.html",
+      "status": 200,
+      "sha256": "4f785f63cc4957848fe2ba43c2a1f904f4cfaec6d43c6b3aee3223966e7840d3",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/en/records.html",
+      "status": 200,
+      "sha256": "bd7f4a3a284477ffc97fd84a35bfa271e7db762819302a3131de9cba1f91ad02",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/cases/p10.html",
+      "status": 200,
+      "sha256": "3fb3275c120a4eef94205dd998a3d8fb86bf69111c41070d4762b7ef6ec4862e",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/assets/social-footer.css",
+      "status": 200,
+      "sha256": "c0ebaf390cc42f170f969596b7158a2ead4c3106ddc103407064137f1fbc19df",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://www.eliai.cn/robots.txt",
+      "status": 200,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+      "noindex_header": "noindex, nofollow"
+    },
+    {
+      "url": "http://[REDACTED_HOST]/login",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "url": "http://[REDACTED_HOST]/mobile/",
+      "status": 200,
+      "unchanged": true
+    }
+  ],
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  }
+}

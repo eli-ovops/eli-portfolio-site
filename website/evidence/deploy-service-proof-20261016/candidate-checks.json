@@ -1,0 +1,11 @@
+{
+  "status": "CANDIDATE_PASS",
+  "pages": 90,
+  "sitemap_urls": 88,
+  "files": 153,
+  "asset_versions": "Match candidate bytes",
+  "links_and_anchors": "PASS",
+  "five_verification_files": "Retained",
+  "production_styles_and_scripts": "Only service-scoped CSS and unified navigation changed",
+  "unrelated_local_catalogue": "EXCLUDED"
+}

@@ -1,0 +1,13 @@
+{
+  "revision": "ee333e5fb82b7096a06c",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261021-stable-urls-cc132dc0",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261022-canonical-home-ee333e5f",
+  "production_switches": 1,
+  "nginx_reload_count": 0,
+  "published_at": "2026-10-22T11:19:33.879069+00:00",
+  "status": "PUBLISHED_AND_SERVER_VERIFIED",
+  "server_public_hash_checks": 11,
+  "file_hashes_verified": 369,
+  "services_and_pids_unchanged": true,
+  "configs_and_ip_preview_unchanged": true
+}

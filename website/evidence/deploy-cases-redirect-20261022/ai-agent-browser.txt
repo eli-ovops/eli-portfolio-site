@@ -1,0 +1,139 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: ../en/services/ai-agent.html
+      - text: EN
+- main:
+  - link "← 返回业务场景":
+    - /url: ../index.html#needs
+  - generic: 企业 AI 服务
+  - heading "企业知识库搭建与客服辅助答疑" [level=1]:
+    - generic: 企业知识库搭建与客服辅助答疑
+  - paragraph: 产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。
+  - paragraph: 可约定的交付
+  - list:
+    - listitem: ↳可维护的知识库
+    - listitem: ↳带来源的问答试用
+    - listitem: ↳问题清单与人工转接规则
+  - paragraph: 相关经验：参与 RAG 客服，负责知识库整理、检索配置与测试。
+  - link "看知识库答疑案例 ↗":
+    - /url: ../cases/p36.html
+  - link "免费聊聊资料查找和答疑问题 ↗":
+    - /url: ../about.html#contact
+  - link "更多相关案例 ↓":
+    - /url: "#cases"
+  - complementary:
+    - heading "内容导航" [level=2]
+    - navigation "内容导航":
+      - link "问答助手和 AI Agent 有什么区别？":
+        - /url: "#difference"
+      - link "先从资料检索和重复答疑开始":
+        - /url: "#knowledge"
+      - link "小范围试用需要准备什么？":
+        - /url: "#pilot"
+      - link "看哪些结果，而不只看回答好不好听？":
+        - /url: "#acceptance"
+      - link "知识库与客服协作案例":
+        - /url: "#cases"
+      - link "开始前常见问题":
+        - /url: "#questions"
+  - heading "问答助手和 AI Agent 有什么区别？" [level=2]
+  - paragraph: 知识库问答助手侧重“找到资料并回答”；AI Agent 通常还会调用工具、串联步骤或执行动作。能回答问题，不等于已经能可靠地改订单、更新库存或代替员工处理业务。
+  - paragraph: 企业知识问答常用 RAG，也就是先检索相关资料，再据此生成回答。是否需要更复杂的 Agent，要看任务是否有明确步骤、可用接口和可控的执行权限。
+  - heading "先从资料检索和重复答疑开始" [level=2]
+  - paragraph: 可以先讨论产品手册、服务规则、内部操作说明等场景：资料由谁维护、哪个版本有效、哪些员工能看、回答应该引用哪一段。
+  - paragraph: 如果资料冲突、内容过期或找不到依据，助手应说明无法确认，并转给负责的人。重要承诺和对外答复保留人工确认，不靠听起来流畅的回答判断正确。
+  - heading "小范围试用需要准备什么？" [level=2]
+  - paragraph: 选一组有权使用、已脱敏且版本明确的文档，再整理员工或客户常问的问题。区分能直接回答、需要补问和必须转人工的问题。
+  - paragraph: 先试检索、引用和回答；需要执行动作时，再评估接口、读写权限、确认步骤、操作记录与失败处理。涉及现有系统的修改，单独明确范围和负责人。
+  - heading "看哪些结果，而不只看回答好不好听？" [level=2]
+  - paragraph: 用业务人员确认过的问题核对：是否找到正确资料，引用是否支持答案，过期内容能否排除，无依据的问题是否正确停止。记录错误类型，再决定是否扩大试用。
+  - paragraph: 如果加入执行动作，还要核对操作对象、重复执行、失败恢复和人工接管。模型、数据量、接口与维护都会影响费用，实施前单独确认。
+  - heading "知识库与客服协作案例" [level=2]
+  - paragraph: 相关 RAG 客服项目中，我负责知识库整理、检索配置与测试。案例中的问答示意与实际项目记录有明确区分；涉及执行工具的 Agent 需另行评估。
+  - heading "英国某净水品牌 RAG 智能客服定制 ↗" [level=3]:
+    - link "英国某净水品牌 RAG 智能客服定制 ↗":
+      - /url: ../cases/p36.html
+  - paragraph: 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。
+  - heading "开始前常见问题" [level=2]
+  - heading "一定要训练自己的模型吗？" [level=3]
+  - paragraph: 不一定。先评估现有模型、资料检索和工具配置能否满足任务，避免在问题尚未明确时投入模型训练。
+  - heading "可以直接让 Agent 全自动处理客户业务吗？" [level=3]
+  - paragraph: 先验证具体任务。涉及订单、付款、对外承诺或数据修改时，需要明确权限、确认和异常处理，再决定自动化程度。
+  - heading "先聊一项具体工作" [level=2]
+  - paragraph: 说说现在怎么做、哪一步最费时间、希望变成什么样。
+  - link "免费聊聊资料查找和答疑问题 ↗":
+    - /url: ../about.html#contact
+  - paragraph: 相关服务
+  - paragraph:
+    - link "中小企业 AI 落地实施服务 ↗":
+      - /url: fde-consulting.html
+    - text: ·
+    - link "库存核对与重复录入自动化 ↗":
+      - /url: workflow-automation.html
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

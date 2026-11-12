@@ -1,0 +1,183 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: https://www.eliai.cn/en/articles/inventory-reconciliation.html
+      - text: EN
+- main:
+  - link "← 返回文章":
+    - /url: ../articles.html
+  - generic: 库存与流程
+  - paragraph:
+    - text: Eli · 写于
+    - time: 2026-10-17
+    - text: · 约 6 分钟
+  - heading "库存每天靠人工核对，先改哪一步？" [level=1]:
+    - generic: 库存每天靠人工核对，先改哪一步？
+  - paragraph: 同一笔入库要写进几张表，移库后要问东西放在哪里，盘点发现差异又得重新找单据。想减少这些重复工作，可以先挑一条库存路径，把数量和责任核对清楚，再决定用什么工具。
+  - paragraph: 先选一种货品、一个库位或一类单据，打通记录、核对和纠错，再评估是否扩大。
+  - complementary:
+    - heading "文章目录" [level=2]
+    - navigation "文章目录":
+      - link "先找出重复核对发生在哪一步":
+        - /url: "#start"
+      - link "我在两个库存项目中实际做了什么":
+        - /url: "#case-records"
+      - link "第一轮试用，范围可以这样定":
+        - /url: "#scope"
+      - link "算一笔时间账，再决定值不值得做":
+        - /url: "#estimate"
+      - link "验收时，把能纠错也算进去":
+        - /url: "#acceptance"
+      - link "第一次沟通，带一个具体问题就够了":
+        - /url: "#contact"
+  - article:
+    - heading "先找出重复核对发生在哪一步" [level=2]
+    - paragraph: 先拿一笔最近处理过的业务，从头走一遍：谁收货，谁登记，谁确认数量，最后谁要看这份结果。重点看同一份信息是否被重复抄写，以及数量变动后能不能找到原单。
+    - paragraph: 如果每次都要重新问人、翻聊天记录，或在几张表之间搬运数据，先处理记录方式可能比直接增加一个 AI 工具更有帮助。
+    - list:
+      - listitem: 登记：一笔业务是否只需要录入一次？
+      - listitem: 核对：单据、库存和变动流水能否互相对应？
+      - listitem: 纠错：录错、退货、撤销以后，能否查清改了什么？
+    - heading "我在两个库存项目中实际做了什么" [level=2]
+    - paragraph: 在洁具行业库存管理系统中，我独立负责需求沟通、业务梳理、底座适配开发及交付。项目以库存管理为核心，连接产品规格、采购、退货与盘点，并提供 PC 与手机端入口。复查时交叉核对单据、库存和流水，而不只看页面有没有提示成功。
+    - paragraph: 在某家具品牌的按箱扫码库存项目中，我主导需求分析、流程设计和开发，覆盖入库、移库、出库与撤销纠错。重复请求、库存不足和作废重试都是需要核对的环节，移库还要同时检查来源、目标和总量。
+    - paragraph: 这些经历能说明实现和验证过哪些流程。现有公开资料没有客户日常节省工时的量化数据；扫码案例中的数量变化来自历史虚拟库存测试，不代表客户真实经营数据。
+    - paragraph: 现有项目说明还记载：洁具库存系统已交付，但客户尚未全面投入使用，实际使用效果暂无结论。这里说明的是项目记录中的状态，不把交付直接当成已经提效。
+    - navigation "相关案例":
+      - link "洁具行业某大型 B 端厂商库存管理系统 ↗":
+        - /url: ../cases/p10.html
+      - link "某家具品牌扫码库存系统 ↗":
+        - /url: ../cases/p09.html
+    - heading "第一轮试用，范围可以这样定" [level=2]
+    - paragraph: 先选一条相对清楚的路径，例如一种货品在一个仓库里的入库与出库。把输入、负责人、数量变化和结果交接写在同一张流程清单上。
+    - paragraph: 范围确定后，再判断现成表格或工具是否足够，还是确实需要扫码界面、权限控制或系统连接。数量校验和重复提交属于明确规则的问题，不必都交给 AI 判断。
+    - list:
+      - listitem: 正常流程：登记一笔业务，核对单据、库存和流水。
+      - listitem: 异常流程：重复点提交、数量不足或录错后，系统如何处理？
+      - listitem: 人工环节：谁确认异常，谁有权撤销，撤销是否留记录？
+      - listitem: 交付范围：要做哪些功能，用什么样例核对，后续由谁维护？
+    - heading "算一笔时间账，再决定值不值得做" [level=2]
+    - paragraph: 假设测算，不是上述客户的实测结果
+    - paragraph: 为了说明怎么算，假设每天有 30 笔记录需要核对，平均每笔 3 分钟；每月按 20 个工作日估算。下面的数字是人为设定的示例，请用你们实际记录替换。
+    - term: 目前投入（假设）
+    - definition: 30 笔 × 3 分钟 = 每天 90 分钟
+    - term: 若试用后实测为每笔 2 分钟
+    - definition: 每天少 30 分钟
+    - term: 对应的月度时间差
+    - definition: 30 分钟 × 20 天 = 10 小时
+    - paragraph: 只有试用真的测出“每笔 2 分钟”，后两行才对这项工作有意义。还要把学习、纠错和维护所花的时间加回去；少花的时间也不等于现金成本已经下降。
+    - paragraph: 不需要先承诺提效百分比。找同类任务，保留改造前后的操作记录，同时核对结果是否正确，判断才有依据。
+    - heading "验收时，把能纠错也算进去" [level=2]
+    - paragraph: 一个流程是否好用，不只看正常操作走得通。把异常交给实际使用的人试：录错后能否修正，重复提交会不会重复记账，换人接手能否查到发生过什么。
+    - paragraph: 如果只是少填了一张表，却让另一位员工多花时间对账，这项调整未必值得扩展。先比较整条流程的投入，再决定继续、缩小范围或保留现有做法。
+    - heading "第一次沟通，带一个具体问题就够了" [level=2]
+    - paragraph: 可以按平时说话的方式描述：“我们现在用表格记入库，出库后再补一遍。最费时间的是每天对数量，想看看有没有小范围改法。”
+    - paragraph: 初次沟通免费。实施服务低至500元起，具体范围和费用在开始前确认。起价不代表一套完整库存系统；工具订阅、开发、培训与维护按实际需求另行约定。
+    - paragraph: 你可以先提供脱敏样例，不需要先交出账号密码、客户个人信息或完整业务数据。
+  - heading "先聊一项具体工作" [level=2]
+  - paragraph: 说说现在怎么做、哪一步最费时间。初次沟通免费。
+  - link "免费聊聊 ↗":
+    - /url: ../about.html#contact
+  - link "了解库存与流程提效服务 ↗":
+    - /url: ../services/workflow-automation.html
+  - region "继续阅读":
+    - heading "继续阅读" [level=2]
+    - article:
+      - generic: 知识库与答疑
+      - generic: 约 6 分钟
+      - heading "企业资料太散，做知识库答疑前要准备什么？" [level=3]:
+        - link "企业资料太散，做知识库答疑前要准备什么？":
+          - /url: ../articles/enterprise-knowledge-base.html
+      - paragraph: 结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。
+      - 'link "阅读: 企业资料太散，做知识库答疑前要准备什么？"':
+        - /url: ../articles/enterprise-knowledge-base.html
+        - text: 阅读
+        - generic: ↗
+    - article:
+      - generic: AI 入门
+      - generic: 约 1 分钟阅读
+      - heading "AI 是什么？先从一件小事理解" [level=3]:
+        - link "AI 是什么？先从一件小事理解":
+          - /url: ../articles/what-is-ai.html
+      - paragraph: AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。
+      - 'link "阅读: AI 是什么？先从一件小事理解"':
+        - /url: ../articles/what-is-ai.html
+        - text: 阅读
+        - generic: ↗
+    - article:
+      - generic: AI 入门
+      - generic: 约 2 分钟阅读
+      - heading "AI 聊天和搜索引擎有什么区别？" [level=3]:
+        - link "AI 聊天和搜索引擎有什么区别？":
+          - /url: ../articles/ai-chat-vs-search.html
+      - paragraph: 搜索主要帮你找到网页，AI 聊天主要帮你组织答案。
+      - 'link "阅读: AI 聊天和搜索引擎有什么区别？"':
+        - /url: ../articles/ai-chat-vs-search.html
+        - text: 阅读
+        - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

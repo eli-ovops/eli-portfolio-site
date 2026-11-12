@@ -1,0 +1,80 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "revision": "c0038c82900507e8955e",
+  "owner": "current personal website execution thread",
+  "scope": "Plan A names, filter explanation, readable small text, compact spacing and mobile categories; animation independently verified",
+  "local_url": "http://127.0.0.1:4178/records.html?pv=c0038c82900507e8955e",
+  "plan_a": {
+    "unique_records": 38,
+    "client_matches": 9,
+    "cross_type_overlap": [
+      "p07",
+      "p08",
+      "p09",
+      "p10"
+    ],
+    "persisted_keys_unchanged": true
+  },
+  "changes": [
+    "Shared bilingual visitor-facing category labels for controls, records and case breadcrumbs",
+    "Visible note explaining client filter overlaps project types",
+    "12–13px auxiliary text, 14px desktop summaries, smaller directory row spacing",
+    "Mobile six categories in three columns and two rows with 44px minimum height; English wraps at 320px",
+    "Sort label separated from dynamically updated result count"
+  ],
+  "automated_checks": {
+    "all_passed": true,
+    "count": 11,
+    "details": "check-runs.json",
+    "generated_pages": 84
+  },
+  "browser_checks": {
+    "details": "browser-checks.json",
+    "tested": [
+      "Desktop quick Back and first mouse clear",
+      "Search plus client filter, related-case return retains conditions",
+      "Clear then related-case return stays empty and All",
+      "Website shortcut retains four concrete website cases",
+      "Chinese 390/320 and English 320 browser viewports",
+      "Reduced-motion search and filtering"
+    ]
+  },
+  "animation": {
+    "controller_unchanged": true,
+    "evidence": [
+      "motion-final-fast.json",
+      "motion-settled.json"
+    ],
+    "result": "Existing entrance masks settle; sampled link hit areas stayed stable during native scrolling; no persistent clipping observed in tested paths"
+  },
+  "protected_files": {
+    "app.js": true,
+    "templates/layout.html": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "styles.css": true,
+    "assets/bits-ui.css": true,
+    "assets/bits-ui.js": true,
+    "templates/about.html": true,
+    "templates/home.html": true,
+    "content/projects.json": true,
+    "content/en.json": true,
+    "content/seo.json": true,
+    "scripts/localization.py": true,
+    "scripts/project_order.py": true,
+    "assets/editorial.js": true
+  },
+  "indexing": "DISABLED; noindex meta/header and robots preserved; SEO checker passed",
+  "publication": {
+    "deployed": false,
+    "server_accessed": false,
+    "production_revision_unchanged_by_task": "8b38e3e30012cfd1e243"
+  },
+  "limits": [
+    "Browser viewport simulation, not physical phones",
+    "No all-browser, FPS, real touch or user aesthetic acceptance claim"
+  ],
+  "retained_artifacts": "Before snapshots, check receipts, browser screenshots and motion samples retained for traceability; preview server log remains in use"
+}

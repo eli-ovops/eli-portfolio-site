@@ -1,0 +1,1766 @@
+{
+  "date": "2026-10-16",
+  "method": "Live public HTTP, not search-engine indexing evidence or rendered performance test",
+  "sitemap_status": 200,
+  "sitemap_urls": 82,
+  "robots_status": 200,
+  "robots_body": "User-agent: *\nAllow: /\nSitemap: https://www.eliai.cn/sitemap.xml\n",
+  "pages_checked": 82,
+  "pages_with_issues": 0,
+  "pages": [
+    {
+      "url": "https://www.eliai.cn/about.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/about.html",
+      "title": "关于 Eli｜FDE 工作方式、免费 AI 咨询与联系",
+      "description": "了解 Eli 如何帮助企业用好 AI：先免费讨论一项重复工作，再选择现成工具或小范围定制。初次咨询免费，工具订阅、开发、培训和维护的范围与费用另行确认；可通过邮箱、电话或微信联系。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/about.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/about.html",
+        "en": "https://www.eliai.cn/en/about.html",
+        "x-default": "https://www.eliai.cn/about.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/n01.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/n01.html",
+      "title": "APNs 远程通知验证案例 - Eli",
+      "description": "搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/n01.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/n01.html",
+        "en": "https://www.eliai.cn/en/cases/n01.html",
+        "x-default": "https://www.eliai.cn/cases/n01.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/n02.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/n02.html",
+      "title": "OpenAI DevDay · 官方内容研究案例 - Eli",
+      "description": "建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/n02.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/n02.html",
+        "en": "https://www.eliai.cn/en/cases/n02.html",
+        "x-default": "https://www.eliai.cn/cases/n02.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p01.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p01.html",
+      "title": "企业客户项目合作案例 - Eli",
+      "description": "参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p01.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p01.html",
+        "en": "https://www.eliai.cn/en/cases/p01.html",
+        "x-default": "https://www.eliai.cn/cases/p01.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p02.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p02.html",
+      "title": "慈善基金会官网开发案例 - Eli",
+      "description": "参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p02.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p02.html",
+        "en": "https://www.eliai.cn/en/cases/p02.html",
+        "x-default": "https://www.eliai.cn/cases/p02.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p03.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p03.html",
+      "title": "深圳某律师事务所案例 - Eli",
+      "description": "参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p03.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p03.html",
+        "en": "https://www.eliai.cn/en/cases/p03.html",
+        "x-default": "https://www.eliai.cn/cases/p03.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p04.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p04.html",
+      "title": "律所 OA 办公系统开发案例 - Eli",
+      "description": "依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p04.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p04.html",
+        "en": "https://www.eliai.cn/en/cases/p04.html",
+        "x-default": "https://www.eliai.cn/cases/p04.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p05.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p05.html",
+      "title": "英国品牌全域营销协作案例 - Eli",
+      "description": "参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p05.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p05.html",
+        "en": "https://www.eliai.cn/en/cases/p05.html",
+        "x-default": "https://www.eliai.cn/cases/p05.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p06.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p06.html",
+      "title": "AI 录单交互原型案例 - Eli",
+      "description": "制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p06.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p06.html",
+        "en": "https://www.eliai.cn/en/cases/p06.html",
+        "x-default": "https://www.eliai.cn/cases/p06.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p07.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p07.html",
+      "title": "企业官网开发：家具品牌展示与浏览路径案例 - Eli",
+      "description": "主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p07.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p07.html",
+        "en": "https://www.eliai.cn/en/cases/p07.html",
+        "x-default": "https://www.eliai.cn/cases/p07.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p08.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p08.html",
+      "title": "某家具品牌产品目录案例 - Eli",
+      "description": "整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p08.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p08.html",
+        "en": "https://www.eliai.cn/en/cases/p08.html",
+        "x-default": "https://www.eliai.cn/cases/p08.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p09.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p09.html",
+      "title": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "description": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p09.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p09.html",
+        "en": "https://www.eliai.cn/en/cases/p09.html",
+        "x-default": "https://www.eliai.cn/cases/p09.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p10.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p10.html",
+      "title": "洁具库存管理系统开发案例 - Eli",
+      "description": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p10.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p10.html",
+        "en": "https://www.eliai.cn/en/cases/p10.html",
+        "x-default": "https://www.eliai.cn/cases/p10.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p11.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p11.html",
+      "title": "英国／澳大利亚小商户网站改版与获客实验案例 - Eli",
+      "description": "整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p11.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p11.html",
+        "en": "https://www.eliai.cn/en/cases/p11.html",
+        "x-default": "https://www.eliai.cn/cases/p11.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p12.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p12.html",
+      "title": "产品文案与配图的 AI 内容工作台开发案例 - Eli",
+      "description": "主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p12.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p12.html",
+        "en": "https://www.eliai.cn/en/cases/p12.html",
+        "x-default": "https://www.eliai.cn/cases/p12.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p13.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p13.html",
+      "title": "Pocket Rove案例 - Eli",
+      "description": "主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p13.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p13.html",
+        "en": "https://www.eliai.cn/en/cases/p13.html",
+        "x-default": "https://www.eliai.cn/cases/p13.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p14.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p14.html",
+      "title": "Focumi案例 - Eli",
+      "description": "开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p14.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p14.html",
+        "en": "https://www.eliai.cn/en/cases/p14.html",
+        "x-default": "https://www.eliai.cn/cases/p14.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p15.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p15.html",
+      "title": "PetSocial / HelloTail：原生 iOS 开发实践 - Eli",
+      "description": "开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p15.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p15.html",
+        "en": "https://www.eliai.cn/en/cases/p15.html",
+        "x-default": "https://www.eliai.cn/cases/p15.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p16.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p16.html",
+      "title": "LocalStamp · 地点水印相机案例 - Eli",
+      "description": "制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p16.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p16.html",
+        "en": "https://www.eliai.cn/en/cases/p16.html",
+        "x-default": "https://www.eliai.cn/cases/p16.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p17.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p17.html",
+      "title": "周易留白 · 阅读原型案例 - Eli",
+      "description": "制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p17.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p17.html",
+        "en": "https://www.eliai.cn/en/cases/p17.html",
+        "x-default": "https://www.eliai.cn/cases/p17.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p18.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p18.html",
+      "title": "学习时长提醒原型案例 - Eli",
+      "description": "制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p18.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p18.html",
+        "en": "https://www.eliai.cn/en/cases/p18.html",
+        "x-default": "https://www.eliai.cn/cases/p18.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p19.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p19.html",
+      "title": "发型试戴与发型师参考卡案例 - Eli",
+      "description": "制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p19.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p19.html",
+        "en": "https://www.eliai.cn/en/cases/p19.html",
+        "x-default": "https://www.eliai.cn/cases/p19.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p20.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p20.html",
+      "title": "ClaimFlow · 理赔产品概念页案例 - Eli",
+      "description": "制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p20.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p20.html",
+        "en": "https://www.eliai.cn/en/cases/p20.html",
+        "x-default": "https://www.eliai.cn/cases/p20.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p21.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p21.html",
+      "title": "自动挂单流程修复案例 - Eli",
+      "description": "修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p21.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p21.html",
+        "en": "https://www.eliai.cn/en/cases/p21.html",
+        "x-default": "https://www.eliai.cn/cases/p21.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p22.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p22.html",
+      "title": "跨交易所盘口价差取证系统案例 - Eli",
+      "description": "搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p22.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p22.html",
+        "en": "https://www.eliai.cn/en/cases/p22.html",
+        "x-default": "https://www.eliai.cn/cases/p22.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p23.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p23.html",
+      "title": "策略研究框架案例 - Eli",
+      "description": "构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p23.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p23.html",
+        "en": "https://www.eliai.cn/en/cases/p23.html",
+        "x-default": "https://www.eliai.cn/cases/p23.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p24.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p24.html",
+      "title": "Serenity · 公司与产业研究案例 - Eli",
+      "description": "整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p24.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p24.html",
+        "en": "https://www.eliai.cn/en/cases/p24.html",
+        "x-default": "https://www.eliai.cn/cases/p24.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p25.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p25.html",
+      "title": "个性化AI新闻简报案例 - Eli",
+      "description": "梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p25.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p25.html",
+        "en": "https://www.eliai.cn/en/cases/p25.html",
+        "x-default": "https://www.eliai.cn/cases/p25.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p26.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p26.html",
+      "title": "AI短视频制作与App推广资产案例 - Eli",
+      "description": "把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p26.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p26.html",
+        "en": "https://www.eliai.cn/en/cases/p26.html",
+        "x-default": "https://www.eliai.cn/cases/p26.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p27.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p27.html",
+      "title": "无脸播客／真实历史奇事频道研究案例 - Eli",
+      "description": "研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p27.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p27.html",
+        "en": "https://www.eliai.cn/en/cases/p27.html",
+        "x-default": "https://www.eliai.cn/cases/p27.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p28.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p28.html",
+      "title": "独立App机会与海外本土化研究案例 - Eli",
+      "description": "围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p28.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p28.html",
+        "en": "https://www.eliai.cn/en/cases/p28.html",
+        "x-default": "https://www.eliai.cn/cases/p28.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p29.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p29.html",
+      "title": "AI Project Radar · 项目情报案例 - Eli",
+      "description": "整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p29.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p29.html",
+        "en": "https://www.eliai.cn/en/cases/p29.html",
+        "x-default": "https://www.eliai.cn/cases/p29.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p30.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p30.html",
+      "title": "AI 协作规则与工作方式案例 - Eli",
+      "description": "整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p30.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p30.html",
+        "en": "https://www.eliai.cn/en/cases/p30.html",
+        "x-default": "https://www.eliai.cn/cases/p30.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p31.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p31.html",
+      "title": "Mac磁盘审计与安全清理案例 - Eli",
+      "description": "按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p31.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p31.html",
+        "en": "https://www.eliai.cn/en/cases/p31.html",
+        "x-default": "https://www.eliai.cn/cases/p31.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p32.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p32.html",
+      "title": "Skills 与知识整理案例 - Eli",
+      "description": "整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p32.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p32.html",
+        "en": "https://www.eliai.cn/en/cases/p32.html",
+        "x-default": "https://www.eliai.cn/cases/p32.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p33.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p33.html",
+      "title": "Ox Alpha · 远程模型客户端案例 - Eli",
+      "description": "制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p33.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p33.html",
+        "en": "https://www.eliai.cn/en/cases/p33.html",
+        "x-default": "https://www.eliai.cn/cases/p33.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p34.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p34.html",
+      "title": "Upwork／UUMIT · 合作准备案例 - Eli",
+      "description": "整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p34.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p34.html",
+        "en": "https://www.eliai.cn/en/cases/p34.html",
+        "x-default": "https://www.eliai.cn/cases/p34.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p35.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p35.html",
+      "title": "化工毕业论文与资料整理案例 - Eli",
+      "description": "整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p35.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p35.html",
+        "en": "https://www.eliai.cn/en/cases/p35.html",
+        "x-default": "https://www.eliai.cn/cases/p35.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p36.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p36.html",
+      "title": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+      "description": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/cases/p36.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p36.html",
+        "en": "https://www.eliai.cn/en/cases/p36.html",
+        "x-default": "https://www.eliai.cn/cases/p36.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/about.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/about.html",
+      "title": "About Eli | FDE Approach & Free AI Consultation",
+      "description": "Discuss one repetitive business task with Eli in a free initial consultation. Review tools or custom work, agree implementation costs, and get in touch.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/about.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/about.html",
+        "en": "https://www.eliai.cn/en/about.html",
+        "x-default": "https://www.eliai.cn/about.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/n01.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/n01.html",
+      "title": "APNs remote notification validation | Eli Case Study",
+      "description": "Built a minimal notification validation interface, handling permission and device registration and preparing a single-device experiment and evidence plan.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/n01.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/n01.html",
+        "en": "https://www.eliai.cn/en/cases/n01.html",
+        "x-default": "https://www.eliai.cn/cases/n01.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/n02.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/n02.html",
+      "title": "OpenAI DevDay · official content research | Eli Case Study",
+      "description": "Organized research into official DevDay content, focusing on developer capabilities, availability and the boundaries of potential startup applications.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/n02.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/n02.html",
+        "en": "https://www.eliai.cn/en/cases/n02.html",
+        "x-default": "https://www.eliai.cn/cases/n02.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p01.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p01.html",
+      "title": "Enterprise client projects | Eli Case Study",
+      "description": "Contributed to nonprofit and law firm websites, an office system, UK brand marketing and AI support, with work on requirements, planning and demo development.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p01.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p01.html",
+        "en": "https://www.eliai.cn/en/cases/p01.html",
+        "x-default": "https://www.eliai.cn/cases/p01.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p02.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p02.html",
+      "title": "Nonprofit Website Development | Eli Case Study",
+      "description": "Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p02.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p02.html",
+        "en": "https://www.eliai.cn/en/cases/p02.html",
+        "x-default": "https://www.eliai.cn/cases/p02.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p03.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p03.html",
+      "title": "Shenzhen law firm website | Eli Case Study",
+      "description": "Contributed to a law firm website, bringing together services, lawyer profiles, news and inquiry channels through a coherent content structure.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p03.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p03.html",
+        "en": "https://www.eliai.cn/en/cases/p03.html",
+        "x-default": "https://www.eliai.cn/cases/p03.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p04.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p04.html",
+      "title": "Law Firm Office Workflows | Eli Case Study",
+      "description": "Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p04.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p04.html",
+        "en": "https://www.eliai.cn/en/cases/p04.html",
+        "x-default": "https://www.eliai.cn/cases/p04.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p05.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p05.html",
+      "title": "UK Brand Marketing Collaboration | Eli Case Study",
+      "description": "Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p05.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p05.html",
+        "en": "https://www.eliai.cn/en/cases/p05.html",
+        "x-default": "https://www.eliai.cn/cases/p05.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p06.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p06.html",
+      "title": "AI order entry interaction prototype | Eli Case Study",
+      "description": "Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p06.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p06.html",
+        "en": "https://www.eliai.cn/en/cases/p06.html",
+        "x-default": "https://www.eliai.cn/cases/p06.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p07.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p07.html",
+      "title": "Business Website: Brand & Buyer Paths | Eli Case Study",
+      "description": "Led development of a website for international buyers, combining product, factory and gallery content with language switching and a structured inquiry flow.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p07.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p07.html",
+        "en": "https://www.eliai.cn/en/cases/p07.html",
+        "x-default": "https://www.eliai.cn/cases/p07.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p08.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p08.html",
+      "title": "Furniture product catalog | Eli Case Study",
+      "description": "Organized product images, models, dimensions and specifications into print and mobile catalogs, distinguishing real product photos from generated scene imagery.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p08.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p08.html",
+        "en": "https://www.eliai.cn/en/cases/p08.html",
+        "x-default": "https://www.eliai.cn/cases/p08.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p09.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p09.html",
+      "title": "Barcode Inventory: Stock Movement | Eli Case Study",
+      "description": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p09.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p09.html",
+        "en": "https://www.eliai.cn/en/cases/p09.html",
+        "x-default": "https://www.eliai.cn/cases/p09.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p10.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p10.html",
+      "title": "Inventory System Development | Eli Case Study",
+      "description": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p10.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p10.html",
+        "en": "https://www.eliai.cn/en/cases/p10.html",
+        "x-default": "https://www.eliai.cn/cases/p10.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p11.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p11.html",
+      "title": "UK and Australia small business website experiments | Eli Case Study",
+      "description": "Researched public information on small businesses, built website redesign demos, checked mobile browsing and inquiry flows, and prepared quotes and collaboration materials.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p11.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p11.html",
+        "en": "https://www.eliai.cn/en/cases/p11.html",
+        "x-default": "https://www.eliai.cn/cases/p11.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p12.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p12.html",
+      "title": "AI Product Copy & Image Workflow | Eli Case Study",
+      "description": "Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p12.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p12.html",
+        "en": "https://www.eliai.cn/en/cases/p12.html",
+        "x-default": "https://www.eliai.cn/cases/p12.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p13.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p13.html",
+      "title": "Pocket Rove | Eli Case Study",
+      "description": "Led a bilingual daily task app with completion tracking, history and souvenirs, adding notification and payment entry points and preparing App Store presentation assets.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p13.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p13.html",
+        "en": "https://www.eliai.cn/en/cases/p13.html",
+        "x-default": "https://www.eliai.cn/cases/p13.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p14.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p14.html",
+      "title": "Focumi | Eli Case Study",
+      "description": "Developed a pet companion focus app with pet adoption, duration goals and state transitions, integrating permissions, Live Activities and notifications.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p14.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p14.html",
+        "en": "https://www.eliai.cn/en/cases/p14.html",
+        "x-default": "https://www.eliai.cn/cases/p14.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p15.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p15.html",
+      "title": "PetSocial / HelloTail: Native iOS | Eli Case Study",
+      "description": "Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p15.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p15.html",
+        "en": "https://www.eliai.cn/en/cases/p15.html",
+        "x-default": "https://www.eliai.cn/cases/p15.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p16.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p16.html",
+      "title": "LocalStamp · location watermark camera | Eli Case Study",
+      "description": "Built a location and time watermark camera with capture, positioning, three watermark styles, local image generation, photo saving and sharing, including permission failure feedback.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p16.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p16.html",
+        "en": "https://www.eliai.cn/en/cases/p16.html",
+        "x-default": "https://www.eliai.cn/cases/p16.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p17.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p17.html",
+      "title": "I Ching · reading prototype | Eli Case Study",
+      "description": "Built a six-round casting and reading prototype with the original texts of 64 hexagrams, open reflection questions, local history and record import and export.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p17.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p17.html",
+        "en": "https://www.eliai.cn/en/cases/p17.html",
+        "x-default": "https://www.eliai.cn/cases/p17.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p18.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p18.html",
+      "title": "Study duration reminder prototype | Eli Case Study",
+      "description": "Built a study reminder prototype with app goals and reminder times, usage callbacks, date isolation and status display to validate reminder logic.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p18.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p18.html",
+        "en": "https://www.eliai.cn/en/cases/p18.html",
+        "x-default": "https://www.eliai.cn/cases/p18.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p19.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p19.html",
+      "title": "Hairstyle try-on and stylist reference cards | Eli Case Study",
+      "description": "Built a hairstyle try-on prototype with three-view inputs, hair conditions and candidate comparisons, exploring landmark alignment, tracking and reference exports.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p19.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p19.html",
+        "en": "https://www.eliai.cn/en/cases/p19.html",
+        "x-default": "https://www.eliai.cn/cases/p19.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p20.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p20.html",
+      "title": "ClaimFlow · insurance claims concept | Eli Case Study",
+      "description": "Created a static insurance claims concept page presenting workflows, features, FAQs and illustrative interfaces to communicate product positioning and use cases.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p20.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p20.html",
+        "en": "https://www.eliai.cn/en/cases/p20.html",
+        "x-default": "https://www.eliai.cn/cases/p20.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p21.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p21.html",
+      "title": "Automated order workflow repair | Eli Case Study",
+      "description": "Repaired interrupted order and reconnection flows, adding order verification, protective-order checks, persistent auditing, notification backoff and duplicate-deployment prevention.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p21.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p21.html",
+        "en": "https://www.eliai.cn/en/cases/p21.html",
+        "x-default": "https://www.eliai.cn/cases/p21.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p22.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p22.html",
+      "title": "Cross-exchange order book evidence system | Eli Case Study",
+      "description": "Built a price-spread evidence pipeline that checks quote freshness, market depth, fees and quantity rules, preserving raw events for independent replay.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p22.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p22.html",
+        "en": "https://www.eliai.cn/en/cases/p22.html",
+        "x-default": "https://www.eliai.cn/cases/p22.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p23.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p23.html",
+      "title": "Trading strategy research framework | Eli Case Study",
+      "description": "Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p23.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p23.html",
+        "en": "https://www.eliai.cn/en/cases/p23.html",
+        "x-default": "https://www.eliai.cn/cases/p23.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p24.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p24.html",
+      "title": "Serenity · company and industry research | Eli Case Study",
+      "description": "Organized company and industry candidates, checking catalysts, valuation assumptions and counterevidence against company disclosures and official sources.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p24.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p24.html",
+        "en": "https://www.eliai.cn/en/cases/p24.html",
+        "x-default": "https://www.eliai.cn/cases/p24.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p25.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p25.html",
+      "title": "Personalized AI news brief | Eli Case Study",
+      "description": "Designed interest profiles, source selection, deduplication and briefing flows, tested public feed parsing, and documented sample outputs and development requirements.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p25.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p25.html",
+        "en": "https://www.eliai.cn/en/cases/p25.html",
+        "x-default": "https://www.eliai.cn/cases/p25.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p26.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p26.html",
+      "title": "AI short videos and app promotion assets | Eli Case Study",
+      "description": "Turned app features into video scripts and storyboards, producing subtitles, screenshots and audio edits with versioned assets for different social platforms.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p26.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p26.html",
+        "en": "https://www.eliai.cn/en/cases/p26.html",
+        "x-default": "https://www.eliai.cn/cases/p26.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p27.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p27.html",
+      "title": "Faceless podcast and history channel research | Eli Case Study",
+      "description": "Researched sample channels, topics and production costs for faceless podcasts and historical stories, preparing a first-episode plan and production guidelines.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p27.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p27.html",
+        "en": "https://www.eliai.cn/en/cases/p27.html",
+        "x-default": "https://www.eliai.cn/cases/p27.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p28.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p28.html",
+      "title": "Independent app opportunities and localization | Eli Case Study",
+      "description": "Researched small app opportunities in knitting, photography, travel and fitness, comparing needs and alternatives to produce screening reports and direction scores.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p28.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p28.html",
+        "en": "https://www.eliai.cn/en/cases/p28.html",
+        "x-default": "https://www.eliai.cn/cases/p28.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p29.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p29.html",
+      "title": "AI Project Radar | Eli Case Study",
+      "description": "Organized AI ecosystem leads, public sources, scoring rules and daily report templates into an intelligence task package that can be triggered manually.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p29.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p29.html",
+        "en": "https://www.eliai.cn/en/cases/p29.html",
+        "x-default": "https://www.eliai.cn/cases/p29.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p30.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p30.html",
+      "title": "AI collaboration workflows | Eli Case Study",
+      "description": "Organized task ownership, tool selection and output checks into clear project continuation and file management workflows.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p30.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p30.html",
+        "en": "https://www.eliai.cn/en/cases/p30.html",
+        "x-default": "https://www.eliai.cn/cases/p30.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p31.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p31.html",
+      "title": "Mac storage audit and safe cleanup | Eli Case Study",
+      "description": "Audited storage and cleanup scope by project, protecting unique data and runtime dependencies while checking external copies, file hashes and space changes.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p31.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p31.html",
+        "en": "https://www.eliai.cn/en/cases/p31.html",
+        "x-default": "https://www.eliai.cn/cases/p31.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p32.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p32.html",
+      "title": "Skills and knowledge organization | Eli Case Study",
+      "description": "Organized skill sources, knowledge indexes and learning steps, documenting tool scope, dependencies and reuse through searchable entry points.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p32.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p32.html",
+        "en": "https://www.eliai.cn/en/cases/p32.html",
+        "x-default": "https://www.eliai.cn/cases/p32.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p33.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p33.html",
+      "title": "Ox Alpha · remote model client | Eli Case Study",
+      "description": "Built an isolated remote model trial client with pricing and availability checks, masked key input, separate configuration and a specified invocation interface.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p33.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p33.html",
+        "en": "https://www.eliai.cn/en/cases/p33.html",
+        "x-default": "https://www.eliai.cn/cases/p33.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p34.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p34.html",
+      "title": "Upwork / UUMIT · collaboration preparation | Eli Case Study",
+      "description": "Prepared service scopes, opportunity scores and proposals from personal capabilities and project experience to match potential client needs.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p34.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p34.html",
+        "en": "https://www.eliai.cn/en/cases/p34.html",
+        "x-default": "https://www.eliai.cn/cases/p34.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p35.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p35.html",
+      "title": "Chemical engineering thesis preparation | Eli Case Study",
+      "description": "Organized university requirements, topic materials and working files into a handover package to support research, writing and progress tracking.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p35.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p35.html",
+        "en": "https://www.eliai.cn/en/cases/p35.html",
+        "x-default": "https://www.eliai.cn/cases/p35.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p36.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/cases/p36.html",
+      "title": "AI Customer Support & Knowledge Retrieval | Eli Case Study",
+      "description": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p36.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/cases/p36.html",
+        "en": "https://www.eliai.cn/en/cases/p36.html",
+        "x-default": "https://www.eliai.cn/cases/p36.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/",
+      "title": "FDE & AI Consulting for Business | Eli",
+      "description": "Work with Eli, a forward deployed engineer (FDE), to choose AI tools, improve workflows or build software. Free initial consultation; start with one use case.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/",
+        "en": "https://www.eliai.cn/en/",
+        "x-default": "https://www.eliai.cn/"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/en/records.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/en/records.html",
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project.",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/en/records.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/records.html",
+        "en": "https://www.eliai.cn/en/records.html",
+        "x-default": "https://www.eliai.cn/records.html"
+      },
+      "lang": "en",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/",
+      "title": "FDE 前沿部署工程师｜企业 AI 应用咨询与自动化 - Eli",
+      "description": "Eli 是 FDE（前沿部署工程师），贴近企业业务，帮助选工具、改流程，需要时开发软件。提供免费初次咨询，可从 WorkBuddy 等现成工具、资料查找、库存核对或内容整理开始，先试一个小场景，再判断效果。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/",
+        "en": "https://www.eliai.cn/en/",
+        "x-default": "https://www.eliai.cn/"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    },
+    {
+      "url": "https://www.eliai.cn/records.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/records.html",
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。",
+      "robots": "index,follow",
+      "x_robots_tag": null,
+      "canonical": [
+        "https://www.eliai.cn/records.html"
+      ],
+      "hreflang": {
+        "zh-CN": "https://www.eliai.cn/records.html",
+        "en": "https://www.eliai.cn/en/records.html",
+        "x-default": "https://www.eliai.cn/records.html"
+      },
+      "lang": "zh-CN",
+      "h1": 1,
+      "images_missing_alt": 0,
+      "issues": []
+    }
+  ],
+  "aliases_and_404": [
+    {
+      "requested": "http://eliai.cn/",
+      "status": 200,
+      "final": "https://www.eliai.cn/",
+      "x_robots_tag": null
+    },
+    {
+      "requested": "http://www.eliai.cn/",
+      "status": 200,
+      "final": "https://www.eliai.cn/",
+      "x_robots_tag": null
+    },
+    {
+      "requested": "https://eliai.cn/",
+      "status": 200,
+      "final": "https://www.eliai.cn/",
+      "x_robots_tag": null
+    },
+    {
+      "requested": "https://www.eliai.cn/index.html",
+      "status": 200,
+      "final": "https://www.eliai.cn/index.html",
+      "x_robots_tag": null
+    },
+    {
+      "requested": "https://www.eliai.cn/not-a-real-page-seo-check-20261016",
+      "status": 404,
+      "final": "https://www.eliai.cn/not-a-real-page-seo-check-20261016",
+      "x_robots_tag": null
+    }
+  ]
+}

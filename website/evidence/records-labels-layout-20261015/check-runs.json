@@ -1,0 +1,123 @@
+[
+  {
+    "cmd": "python3 scripts/check.py",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "65a791",
+      "wall_time_seconds": 0.781635708,
+      "exit_code": 0,
+      "original_token_count": 106,
+      "output": "{\n  \"date\": \"2026-10-06\",\n  \"version\": \"0.11.0\",\n  \"html_pages_checked\": 84,\n  \"internal_links\": \"PASS\",\n  \"fragment_links\": \"PASS\",\n  \"one_h1_per_page\": \"PASS\",\n  \"private_paths_in_output\": \"NONE\",\n  \"http_pages\": \"PASS\",\n  \"source_and_directory_exposure\": \"BLOCKED_404\",\n  \"retired_experiments_page\": \"404\",\n  \"public_customer_identifiers\": \"NONE_IN_HTML_ATTRIBUTES_JS_CSS_MANIFEST\",\n  \"raw_customer_asset_urls\": \"404\"\n}\n"
+    }
+  },
+  {
+    "cmd": "python3 scripts/check_localization.py",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "e46b33",
+      "wall_time_seconds": 0.110012958,
+      "exit_code": 0,
+      "original_token_count": 53,
+      "output": "{\n  \"english_pages\": 42,\n  \"chinese_pages\": 42,\n  \"visitor_copy\": \"English; Chinese only in language switch\",\n  \"same_page_switches\": \"PASS\",\n  \"asset_and_srcset_paths\": \"PASS\",\n  \"project_translations\": 38\n}\n"
+    }
+  },
+  {
+    "cmd": "python3 scripts/check_records_labels.py",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "ef56c4",
+      "wall_time_seconds": 0.000010042,
+      "exit_code": 0,
+      "original_token_count": 27,
+      "output": "PASS: bilingual visible labels; original filter keys; 38 unique rows; 9 clients with 4 cross-type matches\n"
+    }
+  },
+  {
+    "cmd": "python3 scripts/check_customer_search.py",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "53797e",
+      "wall_time_seconds": 0.000009042,
+      "exit_code": 0,
+      "original_token_count": 19,
+      "output": "PASS: bilingual business vocabulary, website relevance, inventory aliases\n"
+    }
+  },
+  {
+    "cmd": "python3 scripts/check_seo.py --output evidence/records-labels-layout-20261015/seo-checks.json",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "433a97",
+      "wall_time_seconds": 0.148778375,
+      "exit_code": 0,
+      "original_token_count": 176,
+      "output": "{\n  \"html_pages\": 84,\n  \"unique_titles\": 84,\n  \"unique_descriptions\": 84,\n  \"paired_hreflang\": \"PASS\",\n  \"self_canonical\": \"PASS\",\n  \"structured_data\": \"82 valid JSON graphs\",\n  \"same_as_existing_profiles\": \"PASS\",\n  \"project_lists\": \"2 x 38\",\n  \"case_breadcrumbs\": 76,\n  \"visible_bilingual_questions\": \"PASS\",\n  \"visible_service_consistency\": \"2 x 4 Service nodes PASS\",\n  \"faq_consistency\": \"2 x 3 answers PASS\",\n  \"ai_context\": \"PRIVATE candidate only; same-source; future-domain dry run PASS\",\n  \"share_images\": \"Existing visitor images only\",\n  \"candidate_sitemap_urls\": 82,\n  \"indexing\": \"DISABLED\",\n  \"body_scope\": \"Not compared; no batch baseline supplied\",\n  \"future_domain_dry_run\": \"PASS\"\n}\n"
+    }
+  },
+  {
+    "cmd": "node --check assets/editorial.js",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "2ba0d2",
+      "wall_time_seconds": 0.000027417,
+      "exit_code": 0,
+      "original_token_count": 0,
+      "output": ""
+    }
+  },
+  {
+    "cmd": "node scripts/check_search_reset.cjs",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "65ad68",
+      "wall_time_seconds": 0.000022625,
+      "exit_code": 0,
+      "original_token_count": 26,
+      "output": "PASS: mouse focus continuity, cancelled press, keyboard reset, fresh search, bilingual URL/result state\n"
+    }
+  },
+  {
+    "cmd": "node scripts/check_first_pointer.cjs",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "a16549",
+      "wall_time_seconds": 0.000032875,
+      "exit_code": 0,
+      "original_token_count": 26,
+      "output": "PASS: history list first-pointer release, shared title on explicit navigation, prefixes and fallback\n"
+    }
+  },
+  {
+    "cmd": "node scripts/check_return_owner.cjs",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "6874d3",
+      "wall_time_seconds": 0.000015292,
+      "exit_code": 0,
+      "original_token_count": 29,
+      "output": "PASS: homepage/cleared origin stays clean; real explicit/history/legacy list origins retained in both controllers\n"
+    }
+  },
+  {
+    "cmd": "node scripts/check_related_return.cjs",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "f248ac",
+      "wall_time_seconds": 0.000022542,
+      "exit_code": 0,
+      "original_token_count": 30,
+      "output": "PASS: related cases preserve list query/category/origin without GSAP; external/foreign-language/invalid origins ignored\n"
+    }
+  },
+  {
+    "cmd": "node scripts/check_home_entry.cjs",
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "06b46b",
+      "wall_time_seconds": 0.000016584,
+      "exit_code": 0,
+      "original_token_count": 29,
+      "output": "PASS: early home/unrelated-route snapshot cancellation; shared title routes retained; snapshots cannot take input\n"
+    }
+  }
+]

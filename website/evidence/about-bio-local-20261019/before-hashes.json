@@ -1,0 +1,11 @@
+{
+  "content/profile.json": "41138a317e3b1db8debad6d2f138838c528d8ee5dcbd84e92b58923ea4610892",
+  "content/en.json": "cdd044ff5aa683510b1e2b2310066c05351a89aeb12b30aab6375178d344090d",
+  "templates/about.html": "3000f417d679f05b88d290f85fa0b3ce7ae5e6bd23d9bf3e96f5814d8629c174",
+  "scripts/pages.py": "d03f9bbf88e4fb7c798ed9587b630ced44f95948ff44f5d687ee824b767f3bb0",
+  "assets/editorial.css": "0e38f6182abf059b6da1ff41abe07974805ad163eb5ea4a236ed15c62ff7e217",
+  "styles.css": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+  "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+  "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+  "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7"
+}

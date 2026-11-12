@@ -1,0 +1,105 @@
+- link:
+  - /url: /
+- link "首页":
+  - /url: /
+- link "网站工具":
+  - /url: /page/inner/site/manage
+- link "站长学院":
+  - /url: /page/outer/docs
+- link "联系我们":
+  - /url: /page/outer/contact
+- img "avatar"
+- generic "俊俏旭日IS"
+- complementary:
+  - link "站点管理":
+    - /url: /page/inner/site/manage
+    - text: 站点管理
+  - text: 数据提交
+  - link "链接提交":
+    - /url: /page/inner/link/info
+  - link "死链提交":
+    - /url: /page/inner/link/deadlink
+  - link "自动收录":
+    - /url: /page/inner/link/auto_include
+  - link "时间因子":
+    - /url: /page/inner/link/time_factor
+  - link "移动适配":
+    - /url: /page/inner/link/mobile_fit
+  - text: 数据监控
+  - link "流量与展示量":
+    - /url: /page/inner/data/traffic
+  - link "索引量":
+    - /url: /page/inner/data/index
+  - link "抓取频次":
+    - /url: /page/inner/data/frequency
+- main:
+  - generic: 选择站点
+  - generic: www.eliai.cn
+  - generic: 设置为默认站点
+  - generic: 链接提交
+  - generic: 使用说明
+  - generic: 1.链接提交工具是网站主动向头条搜索提供数据的工具，本工具可加快爬虫抓取速度，无法解决网站内容是否收录问题
+  - generic: 2.头条搜索站长平台为站长提供链接提交渠道，您可以提交想被头条搜索收录的链接，头条搜索会按照收录标准进行处理，但无法保证一定能够收录您提交的链接
+  - generic: 3.本工具可支持小时级、天级更新，可根据网站数据更新情况进行选择
+  - generic: SiteMap提交
+  - generic: URL提交
+  - generic: 文件更新周期
+  - spinbutton: "24"
+  - generic: 小时
+  - generic: 更新一次
+  - generic: 数据链接地址
+  - textbox "每行一个链接，示例如下： https://www.toutiao.com/sitemap.xml https://www.toutiao.com/sitemap.txt ...":
+    - /placeholder: "每行一个链接，示例如下：\nhttps://www.toutiao.com/sitemap.xml\nhttps://www.toutiao.com/sitemap.txt\n..."
+  - generic: · 一次最多提交50个链接地址
+  - text: · Sitemap文件支持xml或txt格式，每个地址文件最多包含50,000个网址且需小于10MB
+  - link "Sitemap提交帮助文档":
+    - /url: /page/outer/docs/26886
+  - generic: · 只能添加验证通过后站点的网址
+  - generic: · Sitemap索引文件和Sitemap文件支持不超过300条链接的提交
+  - button "提交"
+  - generic: Sitemap更新信息
+  - table:
+    - rowgroup:
+      - row "sitemap地址 状态 原因 url数量 提交时间 最后抓取时间 操作":
+        - columnheader
+        - columnheader "sitemap地址":
+          - generic: sitemap地址
+        - columnheader "状态":
+          - generic: 状态
+        - columnheader "原因":
+          - generic: 原因
+        - columnheader "url数量":
+          - generic: url数量
+        - columnheader "提交时间":
+          - generic: 提交时间
+        - columnheader "最后抓取时间":
+          - generic: 最后抓取时间
+        - columnheader "操作":
+          - generic: 操作
+  - table:
+    - rowgroup:
+      - row "https://www.eliai.cn/sitemap.xml 正常 - 294 2026-10-17 15:00:40 2026-10-22 05:39:34 删除":
+        - cell
+        - cell "https://www.eliai.cn/sitemap.xml":
+          - generic "https://www.eliai.cn/sitemap.xml"
+        - cell "正常":
+          - generic: 正常
+        - cell "-":
+          - generic: "-"
+        - cell "294":
+          - generic: "294"
+        - cell "2026-10-17 15:00:40":
+          - generic: 2026-10-17 15:00:40
+        - cell "2026-10-22 05:39:34":
+          - generic: 2026-10-22 05:39:34
+        - cell "删除":
+          - button "删除"
+  - list:
+    - listitem: "1"
+  - generic: 共 1 条
+  - generic: 链接提交量
+  - generic: 最近有数
+  - spinbutton: "7"
+  - text: 天
+  - button "确定"
+  - generic: 链接提交量会根据sitemap数据量级返回，每个站点返回数据时间不同，请关注。

@@ -1,0 +1,521 @@
+{
+  "status": "FOCUSED_BROWSER_PASS",
+  "samples": [
+    {
+      "case": "EN→ZH immediate next",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1271.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "after": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 382.578125
+        },
+        "depth": "0.875",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 382.578125
+        },
+        "depth": "0.904",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      }
+    },
+    {
+      "case": "language immediate next 2",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1321.296875
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "immediate": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 384.296875
+        },
+        "depth": "0.884",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 384.296875
+        },
+        "depth": "0.911",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156#work"
+      }
+    },
+    {
+      "case": "language immediate next 3",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1273.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "immediate": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 384.578125
+        },
+        "depth": "0.882",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 384.578125
+        },
+        "depth": "0.919",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      }
+    },
+    {
+      "case": "language immediate next 4",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1321.296875
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "immediate": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 384.296875
+        },
+        "depth": "0.884",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 384.296875
+        },
+        "depth": "0.911",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156#work"
+      }
+    },
+    {
+      "case": "language immediate project tab",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1271.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 443.578125
+        },
+        "depth": "1.790",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "03 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      }
+    },
+    {
+      "case": "case Back immediate next",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 19.578125
+        },
+        "depth": "2.000",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "03 / 07",
+        "rootName": "none",
+        "transition": true,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "restoredDetails": {
+        "expanded": true,
+        "scroll": 1256
+      },
+      "immediate": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 387.578125
+        },
+        "depth": "2.885",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "04 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 387.578125
+        },
+        "depth": "2.912",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "04 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156#work"
+      }
+    },
+    {
+      "case": "About→Home first previous after DOM ready",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1275.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=98e22f34c3c60b1fc595"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 387.578125
+        },
+        "depth": "6.115",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "07 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=98e22f34c3c60b1fc595"
+      }
+    },
+    {
+      "case": "Final About→Home previous 1",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1275.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 387.578125
+        },
+        "depth": "6.105",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "07 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      }
+    },
+    {
+      "case": "Final About→Home previous 2",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1275.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 387.578125
+        },
+        "depth": "6.106",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "07 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      }
+    },
+    {
+      "case": "Final About→Home previous 3",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 1275.578125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 1157,
+          "y": 387.578125
+        },
+        "depth": "6.105",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "07 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      }
+    },
+    {
+      "case": "English390 route first next",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 326,
+          "y": 2122.859375
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 326,
+          "y": 411.859375
+        },
+        "depth": "0.895",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "overflow": false
+    },
+    {
+      "case": "English390 previous button",
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 326,
+          "y": 411.859375
+        },
+        "depth": "0.119",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "touch": "Not verified: IAB Input.dispatchTouchEvent unsupported; emulation restored"
+    },
+    {
+      "case": "Chinese320 route first next",
+      "before": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 256,
+          "y": 1909.078125
+        },
+        "depth": "0.000",
+        "hitIsNext": false,
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 256,
+          "y": 360.078125
+        },
+        "depth": "0.884",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "02 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      },
+      "overflow": false
+    },
+    {
+      "case": "Chinese320 keyboard left",
+      "settled": {
+        "button": {
+          "height": 44,
+          "width": 44,
+          "x": 256,
+          "y": 182.078125
+        },
+        "depth": "0.405",
+        "hitIsNext": true,
+        "hitTag": "BUTTON",
+        "position": "01 / 07",
+        "rootName": "none",
+        "transition": false,
+        "url": "http://127.0.0.1:4178/index.html?pv=b02da1003bbcdddc1156"
+      }
+    },
+    {
+      "case": "Reduced motion",
+      "controlsHidden": true,
+      "projects": 7,
+      "overflow": false
+    }
+  ],
+  "viewport_and_media_restored": true,
+  "limits": [
+    "IAB desktop, English390 and Chinese320 simulated viewports; not physical iOS/Android or all browser engines",
+    "IAB touch injection unsupported; actual touch gestures unverified",
+    "Navigation arrival is confirmed; no waiting for transition completion before first click",
+    "An early About→Home batch without explicit navigation wait had an inconclusive miss; trace and final DOM-ready repeats passed"
+  ]
+}

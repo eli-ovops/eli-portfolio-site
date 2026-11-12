@@ -1,0 +1,12 @@
+[
+  {
+    "lang": "zh-CN",
+    "url": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "contactVisible": true
+  },
+  {
+    "lang": "en",
+    "url": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "contactVisible": true
+  }
+]

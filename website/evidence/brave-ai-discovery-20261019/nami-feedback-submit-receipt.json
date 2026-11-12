@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-19T06:07:05.383Z",
+  "status": "SUBMIT_ACTION_COMPLETED_ACCEPTANCE_UNCONFIRMED",
+  "approved_body": "2026-10-19，纳米网页版读取 https://www.eliai.cn/services/fde-consulting.html 失败；同一会话读取 https://example.com/ 也报告“Download Failed”。本站普通访问200、正文为静态HTML、robots允许抓取。请核查失败环节及错误码，提供官方访问要求；根因未确认。两次原生结果见附图。",
+  "body_characters": 189,
+  "attachments": [
+    "nami-read-failure-detail.png",
+    "nami-control-test-detail.png"
+  ],
+  "attachment_count_before_submit": "2/4",
+  "callback_contact": "Public website business contact email used only as required callback field",
+  "clicks_total": 2,
+  "validation_blocked_clicks": 1,
+  "first_validation_message": "请输入您的联系方式",
+  "submission_attempts_after_validation": 1,
+  "native_postcondition": "Feedback dialog closed after submitting with contact; no explicit success receipt or case number observed",
+  "success_receipt_observed": false,
+  "case_id": "UNKNOWN",
+  "accepted_submission_count": "UNKNOWN",
+  "do_not_repeat": true,
+  "existing_network_receipt_events": "Unavailable: buffered response events empty; historical coverage truncated; no request resent",
+  "website_changes": 0,
+  "search_submissions": 0,
+  "emails_sent": 0,
+  "evidence": [
+    "nami-feedback-prepared.png",
+    "nami-feedback-submit-result.png",
+    "nami-feedback-submit-native.txt"
+  ],
+  "acceptance_recheck": {
+    "checked_at": "2026-10-19T06:10:33.691527+00:00",
+    "new_submit_clicks": 0,
+    "new_feedback_requests": 0,
+    "native_success_receipt": "not observed",
+    "native_case_id": "UNKNOWN",
+    "existing_console_feedback_entries": 0,
+    "public_ui_logic": "Feedback component closes on report promise resolve; report wrapper only parses response JSON, without HTTP-status or business-code checking in the inspected functions. Thus closure is not proof of business acceptance.",
+    "history_lookup": "No feedback history or case identifier found in current visible page; referenced standalone feedback component has form/help labels, no discovered query surface. Not a claim about every Nami channel.",
+    "source_files": [
+      "nami-feedback-public-ui-logic.json",
+      "nami-feedback-report-wrapper.json",
+      "nami-feedback-page-component.json"
+    ],
+    "limits": "Static official client code and UI postcondition, not the actual server response; inspected main asset prefix is partial and no absence inference made about unread portions."
+  }
+}

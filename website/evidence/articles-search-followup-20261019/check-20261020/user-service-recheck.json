@@ -1,0 +1,546 @@
+{
+  "checked_at": "2026-10-20T06:32:48.129Z",
+  "purpose": "User-requested read-only service demand recheck",
+  "requests": [
+    {
+      "connector": "searchconsole",
+      "accounts": [
+        "https://www.eliai.cn/"
+      ],
+      "date_from": "2026-10-13",
+      "date_to": "2026-10-19",
+      "fields": [
+        "date",
+        "impressions",
+        "clicks",
+        "data_fetched_at"
+      ],
+      "options": {
+        "include_fresh_data": false
+      }
+    },
+    {
+      "connector": "searchconsole",
+      "accounts": [
+        "https://www.eliai.cn/"
+      ],
+      "date_from": "2026-10-13",
+      "date_to": "2026-10-19",
+      "fields": [
+        "date",
+        "page",
+        "impressions",
+        "clicks",
+        "position",
+        "data_fetched_at"
+      ],
+      "options": {
+        "include_fresh_data": true
+      }
+    },
+    {
+      "connector": "searchconsole",
+      "accounts": [
+        "https://www.eliai.cn/"
+      ],
+      "date_from": "2026-10-13",
+      "date_to": "2026-10-19",
+      "fields": [
+        "date",
+        "query",
+        "page",
+        "impressions",
+        "clicks",
+        "position",
+        "data_fetched_at"
+      ],
+      "options": {
+        "include_fresh_data": true
+      }
+    }
+  ],
+  "responses": [
+    {
+      "status": "done",
+      "data": [
+        {
+          "date": "2026-10-14",
+          "impressions": 0,
+          "clicks": 0,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "impressions": 2,
+          "clicks": 0,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "impressions": 4,
+          "clicks": 0,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-17",
+          "impressions": 6,
+          "clicks": 0,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        }
+      ],
+      "total_rows": 4
+    },
+    {
+      "status": "done",
+      "data": [
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 6,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/about.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 5,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/cases/p12.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 7,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/cases/p26.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/cases/p27.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 10,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/en/",
+          "impressions": 2,
+          "clicks": 0,
+          "position": 1.5,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-15",
+          "page": "https://www.eliai.cn/en/about.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 3,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 1,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/about.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 4,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/cases/p02.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 9.3333,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/cases/p05.html",
+          "impressions": 2,
+          "clicks": 0,
+          "position": 10,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/cases/p09.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 6,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/cases/p10.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 5,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/cases/p12.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 7,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/cases/p36.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 8,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/en/",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 2,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/en/about.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/en/cases/p20.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 43,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-16",
+          "page": "https://www.eliai.cn/records.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 3,
+          "data_fetched_at": "2026-10-20T06:31:42"
+        },
+        {
+          "date": "2026-10-17",
+          "page": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 7,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-17",
+          "page": "https://www.eliai.cn/cases/p13.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 2,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-17",
+          "page": "https://www.eliai.cn/en/articles/github-public-private.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-17",
+          "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 10,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-17",
+          "page": "https://www.eliai.cn/records.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 1,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 60,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 7,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 91,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/issue-basics.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 34,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/readme-basics.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 1,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/what-is-ai.html",
+          "impressions": 3,
+          "clicks": 0,
+          "position": 1,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/what-is-skill.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 45,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/what-is-token.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 70,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+          "impressions": 2,
+          "clicks": 0,
+          "position": 40.5,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "page": "https://www.eliai.cn/articles/what-is-token.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 74,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "page": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 95,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "page": "https://www.eliai.cn/en/articles/github-public-private.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 54,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "page": "https://www.eliai.cn/en/articles/repository-basics.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 87,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        }
+      ],
+      "total_rows": 39
+    },
+    {
+      "status": "done",
+      "data": [
+        {
+          "date": "2026-10-16",
+          "query": "claimflow.co",
+          "page": "https://www.eliai.cn/en/cases/p20.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 43,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-17",
+          "query": "workbuddy.ai",
+          "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 10,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "query": "token是什么意思",
+          "page": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 60,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "query": "ai implementation cost",
+          "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 91,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "query": "local preview",
+          "page": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "query": "work buddy ne demek",
+          "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 72,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-18",
+          "query": "workbuddy ai",
+          "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 9,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "query": "token 是 什么",
+          "page": "https://www.eliai.cn/articles/what-is-token.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 74,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "query": "ai receipt ocr",
+          "page": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 95,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-19",
+          "query": "repository file meaning",
+          "page": "https://www.eliai.cn/en/articles/repository-basics.html",
+          "impressions": 1,
+          "clicks": 0,
+          "position": 87,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        }
+      ],
+      "total_rows": 10
+    }
+  ],
+  "summary": {
+    "article_paths": 14,
+    "article_page_impressions": 21,
+    "article_clicks": 0,
+    "service_page_rows": 0,
+    "candidate": [
+      {
+        "date": "2026-10-18",
+        "query": "ai implementation cost",
+        "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+        "impressions": 1,
+        "clicks": 0,
+        "position": 91,
+        "data_fetched_at": "2026-10-20T01:56:19"
+      }
+    ],
+    "change_from_same_day_check": "No new recent rows or target-service clicks. Fresh recent rows still cached 2026-10-20T01:56:19 UTC; finalized rows freshly read but still end Oct17.",
+    "natural_target_attribution": "NOT_CONFIRMED"
+  },
+  "reused_evidence": {
+    "bing_baidu": "check-20261020/receipt.json and native txt/jpg, same-day completed round not refreshed",
+    "model_tests": "2026-10-19 model-citation-links.json; ChatGPT and Doubao unbranded tests selected other sites, not repeated"
+  },
+  "own_testing": {
+    "new_search_queries": 0,
+    "new_model_prompts": 0,
+    "direct_site_visits": 0,
+    "previous_qa": "Excluded from natural customer outcomes; unattributable Search Console records kept UNKNOWN"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deploys": 0,
+    "search_submissions": 0,
+    "index_requests": 0,
+    "emails": 0
+  },
+  "evidence_purpose": "Retained user-requested check receipt; no disposable files created"
+}

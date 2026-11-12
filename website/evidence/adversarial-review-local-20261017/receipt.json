@@ -1,0 +1,25 @@
+{
+  "revision": "edc76010eb051e61ac89",
+  "mode": "read-only-review",
+  "website_sources_changed": false,
+  "production_changed": false,
+  "confirmed_issue": "Desktop wheel over expanded caption changes project instead of scrolling page",
+  "finding_count": {
+    "P1": 1,
+    "P2_content": 1,
+    "optional_contact_friction": 1
+  },
+  "evidence": [
+    "report.md",
+    "reviewed-hashes.json",
+    "scroll-before.png",
+    "scroll-after.png",
+    "scroll-after.json"
+  ],
+  "simulated_viewports": [
+    1335,
+    390,
+    320
+  ],
+  "physical_device_test": false
+}

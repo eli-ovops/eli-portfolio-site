@@ -1,0 +1,7 @@
+{
+  "automation": "seo",
+  "scope": "Read Baidu subject review and native quota only; submit sitemap or six service URLs only if explicitly eligible. No website/server changes.",
+  "baseline": "Submitted identity review,2–5workingdays; sitemap daily0; no confirmed Baidu submissions.",
+  "observed_sitemap": "Daily limit0,balance0; stored-file limit1,balance1; submit disabled; no files.",
+  "observed_manual": "Textarea and submit enabled, but no explicit quota visible; nothing filled or submitted."
+}

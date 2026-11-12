@@ -1,0 +1,257 @@
+{
+  "checked_at": "2026-10-22T11:25:15.737586+00:00",
+  "revision": "ee333e5fb82b7096a06c",
+  "public_file_checks": [
+    {
+      "url": "https://www.eliai.cn/",
+      "status": 200,
+      "sha256": "2b309f387e39dbc222d141172265fe4e01d977c8d2df124dec5a12afb7118e2d",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/",
+      "status": 200,
+      "sha256": "815c9aac8986d32bf14f3de719ba91ebfe8dced49421c12e95dc715cf8eb69fb",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/index.html",
+      "status": 200,
+      "sha256": "2b309f387e39dbc222d141172265fe4e01d977c8d2df124dec5a12afb7118e2d",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/index.html",
+      "status": 200,
+      "sha256": "815c9aac8986d32bf14f3de719ba91ebfe8dced49421c12e95dc715cf8eb69fb",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/records.html",
+      "status": 200,
+      "sha256": "a2fa3911c41d2872aef3735a0d9ffde28ae8f8dd294f5695a05c4e58abb760eb",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/records.html",
+      "status": 200,
+      "sha256": "2abb7aaac9bdd2bcee61afac5b29f3e71e29226723da83ab12b1f8defe25a8bd",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/about.html",
+      "status": 200,
+      "sha256": "7e33598f356ab0dbcda0824b361bb55eab8c023a8b05b87f11caddb6ee8399b9",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/about.html",
+      "status": 200,
+      "sha256": "7dae90b01cb3e6b1b915b369cb9b78c03b00ea7fb71d85044203abca98d9b7ea",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/articles.html",
+      "status": 200,
+      "sha256": "08fbc3579e511d911bcdef8bef53f7e2b81c7abc2089a65a1ff9446f69714000",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles.html",
+      "status": 200,
+      "sha256": "fe38d6a4c1bee5a3f6a135842ed4e555943ddf56366ee7ec5573edd592460161",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/assets/page-version.js",
+      "status": 200,
+      "sha256": "76c43426e461dcbf45440a963a38a53b03e5ee514f3b0100d9e9d71326bb0b43",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/sitemap.xml",
+      "status": 200,
+      "sha256": "bd58866398c6bdccc5e4d017059ed287c30ff55c8c4fc77af036135b0791a242",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/llms.txt",
+      "status": 200,
+      "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p09.html",
+      "status": 200,
+      "sha256": "088e08e68a525d7771cc4f7fe097c701b359901b4d7f988c8823a477a535820b",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p10.html",
+      "status": 200,
+      "sha256": "59d6bd6d686b368f2ad098029a713f6a2ec15864ca7c01e83556a631056a8685",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p36.html",
+      "status": 200,
+      "sha256": "5b6294741a625f03474ad14ed3282916a06757772e349432d6fcac862b37222f",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p09.html",
+      "status": 200,
+      "sha256": "e50ba582aa1b9f8450d4aaf711eeca028948dd1ec2f2d677c4e93635df15ddb8",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p10.html",
+      "status": 200,
+      "sha256": "eb47ce3ebc7a028e1d0dddb9dd687b01f2ae524b45c75162a9767d8b416cd37c",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p36.html",
+      "status": 200,
+      "sha256": "15ece1bed1d8e4c9f7a9d84d5e3069604a76dbd783759b562fdb10213e7db9d0",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "status": 200,
+      "sha256": "f0b89ff32ddff29f4f0812ce2e9e298c38a39cc8eef8f94be0ca997072f6e0c9",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "d34bce11c27cb9d74d665d2e324294f5132e46f02f21c5bb25087b77efac2e5a",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": 200,
+      "sha256": "0cdfee38fa48890bfd399724d2e09bbe7ef020deb26ff79caa715fa0326a1d2a",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/ai-agent.html",
+      "status": 200,
+      "sha256": "72db37f84c1fa725e10fefed6db24075f49942c458a0dfe91785e1ee82c1aad9",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "ac25281488fdfaa9caad2f830db7e409d6ca931d0e7d668af8be71857c7e36a5",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "status": 200,
+      "sha256": "05bd46b339de9149de5468556fefcc87831ca60db6e9399994bc33d1343a2263",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "status": 200,
+      "sha256": "88fea9f835f170890349f8396d08b064300f13e3ebe5e0dfb79f17df0eff962f",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "sha256": "149c0d5d7aac00e5fabdacc5f8da6935d393c4a4bdb4064305830e17a93589e1",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+      "status": 200,
+      "sha256": "9298c6ae3926ec66fdacdcca8240937a324cd8674b74fbdf36dcbaa11901ae42",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "sha256": "4e11e143f070ebba7e191f204ba7f21ba5f684c7eef98e92b250285ea5fdcec9",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/google0fc37373bc2d604d.html",
+      "status": 200,
+      "sha256": "3830ee36cd6cfcac2f70d9c529dd24c9a7eb91051facd82373e000f7203dcf6f",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/BingSiteAuth.xml",
+      "status": 200,
+      "sha256": "9619192a0881925168f97bf6e27c1fb4b478d51644fbe5252659c4592a76f2cd",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/yandex_56b4e9c66008d8fa.html",
+      "status": 200,
+      "sha256": "0051852cb97d69d6ce1c4613e0e340801c46fd018e59bc21f37927d461fe0234",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/baidu_verify_codeva-UabAhVS0s3.html",
+      "status": 200,
+      "sha256": "431f2f8309ecb3e9ffeb44129a9bf2b2a0f690316cb73c4a5256a62ab8a6e080",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/sogousiteverification.txt",
+      "status": 200,
+      "sha256": "a49bf019beb593aac8c035d832e8f3d07f2b94d8743745293593ac6e8b4c5ff0",
+      "matches_candidate": true
+    },
+    {
+      "url": "https://www.eliai.cn/ByteDanceVerify.html",
+      "status": 200,
+      "sha256": "6143c7fdb126815e9d95618f7ae7b65dc64025ba61c34ab7c9038b39c621fd53",
+      "matches_candidate": true
+    }
+  ],
+  "count": 36,
+  "redirects_unchanged": [
+    {
+      "url": "https://www.eliai.cn/cases/",
+      "status": 301,
+      "location": "https://www.eliai.cn/records.html"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/",
+      "status": 301,
+      "location": "https://www.eliai.cn/articles.html"
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/records.html"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/articles.html"
+    },
+    {
+      "url": "https://www.eliai.cn/services/",
+      "status": 301,
+      "location": "https://www.eliai.cn/index.html#needs"
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/index.html#needs"
+    }
+  ],
+  "status": "PASS",
+  "traffic": "OWN_QA_NOT_ORGANIC"
+}

@@ -1,0 +1,252 @@
+{
+  "checked_at": "2026-10-25T02:02:40.813124+00:00",
+  "checked_date": "2026-10-25",
+  "previous_check": "check-20261024/receipt.json",
+  "current_production_revision_baseline": "ee333e5fb82b7096a06c",
+  "live_website_hash_or_version_rechecked": false,
+  "scope": {
+    "article_topics": 102,
+    "bilingual_article_details": 204,
+    "article_directories": 2,
+    "chinese_service_pages": 3
+  },
+  "google": {
+    "index_report_updated_label": "2026/10/16",
+    "whole_site_indexed_urls": 77,
+    "canonical_alternates": 139,
+    "crawled_not_indexed": 223,
+    "403_count": 1,
+    "403_example": "https://www.eliai.cn/cases/",
+    "403_last_crawl": "2026-10-15",
+    "first_detected_label": "2026-10-17",
+    "postfix_recrawl_or_clearance": "NOT_CONFIRMED; unchanged stale report, not evidence fix failed",
+    "article_index_total": "UNKNOWN",
+    "three_services_index": "historical2026-10-22 confirmed; not rechecked today",
+    "native_service_performance": {
+      "selected": "7days",
+      "actual_window": [
+        "2026-10-16",
+        "2026-10-22"
+      ],
+      "updated_label": "3.5小时前",
+      "impressions": 1,
+      "clicks": 0,
+      "average_position": 36,
+      "landing_page": "https://www.eliai.cn/services/workflow-automation.html",
+      "query": "UNDISCLOSED; table no data, not0",
+      "interpretation": "same22Oct workflow impression previously seen provisional, now native finalized; not a new confirmed natural service query"
+    },
+    "ai_citation_report": "not available in observed navigation; AI report customizer is not a citation report"
+  },
+  "windsor": {
+    "account": "https://www.eliai.cn/",
+    "requested_window": [
+      "2026-10-18",
+      "2026-10-24"
+    ],
+    "final_actual_window": [
+      "2026-10-18",
+      "2026-10-22"
+    ],
+    "final_whole_site_impressions": 94,
+    "final_whole_site_clicks": 0,
+    "same_window_comparison": {
+      "window": [
+        "2026-10-18",
+        "2026-10-21"
+      ],
+      "current": 77,
+      "previous": 77,
+      "note": "new22Oct data coverage is not full7day trend"
+    },
+    "fresh_article_paths": 46,
+    "fresh_article_raw_urls": 51,
+    "fresh_article_page_impressions": 119,
+    "fresh_article_clicks": 1,
+    "fresh_service_rows": [
+      {
+        "date": "2026-10-22",
+        "page": "https://www.eliai.cn/services/workflow-automation.html",
+        "impressions": 1,
+        "clicks": 0,
+        "position": 36,
+        "data_fetched_at": "2026-10-25T01:58:21"
+      },
+      {
+        "date": "2026-10-23",
+        "page": "https://www.eliai.cn/services/ai-agent.html",
+        "impressions": 3,
+        "clicks": 0,
+        "position": 4.3333,
+        "data_fetched_at": "2026-10-25T01:58:21"
+      },
+      {
+        "date": "2026-10-23",
+        "page": "https://www.eliai.cn/services/fde-consulting.html",
+        "impressions": 3,
+        "clicks": 0,
+        "position": 2.6667,
+        "data_fetched_at": "2026-10-25T01:58:21"
+      },
+      {
+        "date": "2026-10-23",
+        "page": "https://www.eliai.cn/services/workflow-automation.html",
+        "impressions": 3,
+        "clicks": 0,
+        "position": 5.3333,
+        "data_fetched_at": "2026-10-25T01:58:21"
+      }
+    ],
+    "fresh_article_case_core_rows": [],
+    "no_core_rows_note": "does not prove not indexed",
+    "fresh_disclosed_query_rows": 23,
+    "fresh_disclosed_query_impressions": 26,
+    "fresh_disclosed_query_clicks": 0,
+    "latest_query_date": "2026-10-23",
+    "unattributed_click_rows": [
+      {
+        "date": "2026-10-24",
+        "page": "https://www.eliai.cn/en/articles/github-public-private.html",
+        "impressions": 2,
+        "clicks": 1,
+        "position": 9,
+        "data_fetched_at": "2026-10-25T01:58:21"
+      }
+    ],
+    "unattributed_click_interpretation": "first provisional click observed on English GitHub public/private tutorial24Oct; query undisclosed, cannot exclude own/user testing; not one of three target service needs, not confirmed natural acquisition",
+    "fetch_note": "latest2026-10-25T01:58:21; earlier caches preserved per row",
+    "natural_attribution": "UNKNOWN",
+    "force_refresh": false
+  },
+  "bing": {
+    "indexed_urls_explorer": 1,
+    "indexed_root": "https://eliai.cn",
+    "root_detail_current_note": "nativeExplorer still1indexed root; yesterdaywww andnonwww homepage inspections confirmed indexed, not repeated",
+    "service_sample": {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": "Discovered but not crawled / URL cannot appear on Bing",
+      "discovered": "16 Oct2026",
+      "specific_cause": "UNKNOWN"
+    },
+    "url_inspection_count": 1,
+    "search": {
+      "window": [
+        "2026-10-18",
+        "2026-10-24"
+      ],
+      "impressions": 0,
+      "clicks": 0,
+      "query_rows": 0,
+      "scope": "whole site All traffic"
+    },
+    "ai": {
+      "window": [
+        "2026-10-18",
+        "2026-10-24"
+      ],
+      "citations": 0,
+      "avg_cited_pages": 0,
+      "query_rows": 0,
+      "scope": "Microsoft Copilots and Partners sample"
+    },
+    "support": {
+      "ticket": "REQ00369079",
+      "reply_thread": "1a163c9d4f169874",
+      "latest_reply_id": "1a163c9d4f169874",
+      "receipt_thread": "1a163936885709dc",
+      "latest_receipt_id": "1a163936885709dc",
+      "new_messages": 0,
+      "official_finding": "historicalOct22 reply already notifiedOct24; no new remedy; conditional estimate not promise"
+    }
+  },
+  "baidu": {
+    "index": "UNKNOWN-calculating",
+    "subject": "未关联",
+    "subject_icp": "未填写",
+    "all_messages": "暂无消息提醒",
+    "review_approved_or_rejected": "UNKNOWN",
+    "feedback_history": {
+      "submitted_label": "2026-10-23 13:36:40",
+      "state": "未处理"
+    },
+    "pc": {
+      "selected": "最近7天",
+      "impressions": 0,
+      "clicks": 0,
+      "queries": "暂无数据",
+      "exact_dates": "UNKNOWN-not visually verified"
+    },
+    "mobile": "UNKNOWN-not reread today; prior native numbers unavailable",
+    "ai": {
+      "selected": "最近7天",
+      "visual_chart_window": [
+        "2026-10-18",
+        "2026-10-24"
+      ],
+      "citations": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "query_rows": 0,
+      "scope": "traditional search scene only"
+    }
+  },
+  "so360": {
+    "site": "www.eliai.cn",
+    "native_management": "未检测到备案;请验证disabled",
+    "index": "UNKNOWN-no verified site data",
+    "original_feedback": "Oct23 independent official form accepted; no relevant emails returned under one narrow domain+site query, not proof no reply anywhere"
+  },
+  "sogou": {
+    "session": "valid",
+    "site": "www.eliai.cn",
+    "native_index": "查询站点暂时没有收录和索引数据",
+    "index_total": "UNKNOWN",
+    "historical_verification": "Oct23 confirmedroot/senior admin, not resubmitted"
+  },
+  "toutiao": {
+    "site": "www.eliai.cn",
+    "native_index": "您的网站暂时未被收录"
+  },
+  "yandex": {
+    "site": "https://www.eliai.cn",
+    "native_pages_in_search": "temporarily unavailable, data may be delayed; All pages/Excluded disabled; No changes is not0",
+    "index_total": "UNKNOWN",
+    "sitemap_read_only": "historicalOct24 evidence not reread today"
+  },
+  "attribution": {
+    "new_confirmed_target_service_natural_exposure": false,
+    "new_confirmed_target_service_natural_click": false,
+    "new_confirmed_unbranded_model_citation": false,
+    "unknown": "fresh page and click rows have no disclosed matching query/person identity; cannot exclude tests",
+    "own_tests": "deploymentQA/case/language/filter/contact tests and directed model reads remain separate; today backend reads only",
+    "pv_rule": "no natural/test classification frompv presence alone"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deployments": 0,
+    "server_changes": 0,
+    "search_submissions": 0,
+    "sitemap_submissions": 0,
+    "url_submissions": 0,
+    "index_requests": 0,
+    "live_fetch_tests": 0,
+    "validate_fix_clicks": 0,
+    "new_feedback": 0,
+    "emails_sent": 0,
+    "mail_label_changes": 0,
+    "google_url_checks": 0,
+    "bing_url_checks": 1,
+    "baidu_url_checks": 0,
+    "active_model_queries": 0
+  },
+  "last_unbranded_model_test": "2026-10-19",
+  "next_ordinary_model_round_not_before": "2026-10-26",
+  "known_notification_fingerprints": [
+    "bing-home-index-confirmed-20261024",
+    "bing-support-REQ00369079-reply-1a163c9d4f169874"
+  ],
+  "new_unknown_observation_fingerprint": "provisional-github-public-private-click-20261024-first-seen20261025",
+  "decision": "DONT_NOTIFY_NO_NEW_CONFIRMED_TARGET_SERVICE_OR_INDEX_PROGRESS",
+  "requires_user_action": false
+}

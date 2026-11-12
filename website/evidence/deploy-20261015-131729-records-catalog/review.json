@@ -1,0 +1,15 @@
+{
+  "status": "REVIEWED_READY",
+  "release": "20261015-131729-records-catalog",
+  "files": 138,
+  "archive_sha256": "e85a44f5f5993997477e3086f2d22c7e125711aaa0222e05a03d0ad80ac5c07c",
+  "manifest_sha256": "ae5f8488cfac0b93b3c7f565616785992b75b76e63e9e97043f1afd034490143",
+  "noindex_pages": 84,
+  "source_equals_checked_local": "8b38e3e30012cfd1e243",
+  "scope": "isolated static release, private backup and atomic portfolio symlink only",
+  "scripts": {
+    "prepare-remote.py": "7c7b7116ab795b8910745d6a7dae907d9511f9640d44d1d11bf00652f5909c84",
+    "switch-remote.py": "7c97ee93fdd6a8e2bcb1fde748ee4c5f5e41db6ff341b1441bc231ea0d7543c8",
+    "postcheck-remote.py": "4253a8e9d0f6c6b70d78749509d8834c47348c538fa8be7d8ccda6a55900d79d"
+  }
+}

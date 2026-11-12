@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-17",
+  "status": "LOCAL_IMPLEMENTED_AND_BROWSER_CHECKED",
+  "revision": "f44db3901ef223fc8f21",
+  "production_changed": false,
+  "production_baseline": "4214c0d6f6cd8e3dd8ce",
+  "preview": "http://127.0.0.1:4178/index.html?pv=f44db3901ef223fc8f21#work",
+  "implementation": {
+    "registry": "https://reactbits.dev/r/FlexCarousel-JS-CSS.json",
+    "upstream_source": "byte-for-byte match; source-verification.json",
+    "runtime": "actual React / React DOM / OGL WebGL2 canvas; old native adapter not loaded",
+    "configuration": {
+      "preset": "liquid",
+      "intro": "rise",
+      "cardHeight": 0.5,
+      "gap": 12,
+      "squeeze": 0.2,
+      "focusOnClick": true,
+      "captions": true
+    },
+    "website_integration": "6 existing featured project screenshots; synchronized captions, keyboard-driven controls, original image viewer and case return restoration; desktop560px/mobile420px; mobile vertical wheel passes to page"
+  },
+  "browser_checks": {
+    "desktop": "1335px: actual curved/dispersed edges visually verified; desktop.png",
+    "mobile": "390px Chinese and320px English emulated viewport: no horizontal overflow; mobile.png. Not a physical handset test.",
+    "interaction": "Drag changed selected project; rapid nav settled on requested project; actual mouse click focused image (lift1.2997), Escape exited; original screenshot dialog opened/closed.",
+    "case_return": "Homepage p09 -> full case -> return index.html?project=p09#work restored p09 with official canvas.",
+    "consultation": "Mobile homepage consultation -> about.html#contact; contact present, QR natural width728, no horizontal overflow. No messages sent.",
+    "reduced_motion": "Live reduced-motion remount and restoration passed after ignoring context-loss events from already removed upstream canvases.",
+    "console": "No errors returned by browser log check.",
+    "limitations": "Unsupported-WebGL2 and actual context-loss fallback implemented but not force-tested. No physical-device or production tests."
+  },
+  "checks": {
+    "build": "90 HTML pages /38records PASS",
+    "static_links_privacy_http": "PASS",
+    "localization": "45pairs /38translations PASS",
+    "seo": "88sitemap URLs and structured graphs PASS",
+    "regression_suites": "9 PASS; source-and-regressions.json",
+    "protected_content_analytics_motion": "all recorded hashes unchanged"
+  },
+  "changed_source": [
+    "components/react-bits/",
+    "assets/flex-carousel.css",
+    "scripts/build.py",
+    "scripts/components.py",
+    "package.json",
+    "site.yaml",
+    "assets/vendor/react-bits-components/NOTICE.md"
+  ],
+  "generated_assets": [
+    "assets/flex-carousel-official.js",
+    "assets/flex-carousel-official.css",
+    "assets/flex-carousel-official.js.LEGAL.txt",
+    "dist/"
+  ],
+  "screenshots": [
+    "desktop.png",
+    "mobile.png"
+  ]
+}

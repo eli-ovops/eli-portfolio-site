@@ -1,0 +1,13 @@
+{
+  "build": "PASS,93 HTML pages and38 records",
+  "static_links_anchors_privacy_http": "PASS all93 pages",
+  "article_metadata": "PASS noindex,nofollow; no phantom English alternate",
+  "local_http_headers": "PASS noindex,nofollow",
+  "sitemap": "PASS still88 public URLs; local drafts excluded",
+  "mobile": "Native browser responsive emulation at320 and390; no horizontal overflow; not a physical handset test",
+  "article_case_return": "Inventory → P10 → related P09 → original article; knowledge article → P36 → original article; PASS",
+  "existing_service_case_return": "FDE service → P10 returns to service proof; PASS",
+  "consultation": "Article consultation link opens local about#contact; public contact methods present; no email/phone/WhatsApp message sent",
+  "console": "No console errors in checked local article-list tab",
+  "historical_service_seo_script": "Content/schema/link assertions passed; later historical20261016 asset-baseline assertion fails on previously changed styles.css; not counted as full pass"
+}

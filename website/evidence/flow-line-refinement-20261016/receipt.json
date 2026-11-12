@@ -1,0 +1,21 @@
+{
+  "status": "LOCAL_VALIDATED_NOT_PUBLISHED",
+  "scope": "About workflow lines only, shared Chinese/English CSS",
+  "source": "assets/bits-ui.css",
+  "after_sha256": "41df0f4ddbdd8315af41c517d5e85200b4f7d3e7ecae1209b228a1843f6686e0",
+  "local_revision": "bfd3a912701fa58a7d46",
+  "production_revision_unchanged": "03985a2ddb6824f06f7f",
+  "change": "Replace full-width ol pseudo line with88px maximum step ticks; mobile24px vertical ticks below numbers, no final trailing line; faint accent and staggered draw retained",
+  "checks": [
+    "Build90 HTML pages /38 records",
+    "SEO90 titles,88 indexable routes",
+    "45 language pairs",
+    "1280px English desktop: no overflow; long line none; segment88px",
+    "390px English mobile: no overflow,1px by24px ticks",
+    "320px Chinese mobile: no overflow, last tick hidden",
+    "Second disclosure opened and second number became current"
+  ],
+  "production_write": false,
+  "javascript_changed": false,
+  "artifacts": "Before CSS, screenshots, metadata and interaction receipts retained; no disposable intermediates"
+}

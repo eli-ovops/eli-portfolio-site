@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-16T05:45:24.389341+00:00",
+  "status": "READ_ONLY_AUDIT_COMPLETE",
+  "revision": "03985a2ddb6824f06f7f",
+  "pages": 3,
+  "browser_evidence": [
+    "desktop-facts.json",
+    "mobile-facts.json",
+    "interaction-checks.json"
+  ],
+  "production_changes": false,
+  "report": "report.md",
+  "limitations": [
+    "Simulated mobile viewport only",
+    "Buyer interpretations are reviewer judgments",
+    "No ranking test",
+    "One optional screenshot failed"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "compiled_date_Asia_Shanghai": "2026-10-19",
+  "compilation_only_no_new_platform_query": true,
+  "metrics_snapshot_checked_at": "2026-10-19T03:05:06.782Z",
+  "article_metric_dates": [
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "metrics_provisional": true,
+  "article_paths_with_impressions": {
+    "/articles/workbuddy-task-failed.html": {
+      "impressions": 2,
+      "clicks": 0,
+      "raw_urls": [
+        "https://www.eliai.cn/articles/workbuddy-task-failed.html"
+      ]
+    },
+    "/en/articles/github-public-private.html": {
+      "impressions": 1,
+      "clicks": 0,
+      "raw_urls": [
+        "https://www.eliai.cn/en/articles/github-public-private.html?pv=e3304385905f8d1cdd01"
+      ]
+    },
+    "/en/articles/what-is-workbuddy.html": {
+      "impressions": 2,
+      "clicks": 0,
+      "raw_urls": [
+        "https://www.eliai.cn/en/articles/what-is-workbuddy.html"
+      ]
+    },
+    "/en/articles/readme-basics.html": {
+      "impressions": 1,
+      "clicks": 0,
+      "raw_urls": [
+        "https://www.eliai.cn/en/articles/readme-basics.html?pv=e3304385905f8d1cdd01"
+      ]
+    },
+    "/en/articles/what-is-ai.html": {
+      "impressions": 2,
+      "clicks": 0,
+      "raw_urls": [
+        "https://www.eliai.cn/en/articles/what-is-ai.html"
+      ]
+    }
+  },
+  "article_impressions": 8,
+  "article_clicks": 0,
+  "visitor_origin": "UNKNOWN; cannot attribute each impression to independent users or own tests",
+  "confirmed_indexed_by_native_URL_inspection": [
+    "/articles/inventory-reconciliation.html",
+    "/articles/enterprise-knowledge-base.html",
+    "/articles/what-is-agent.html"
+  ],
+  "article_index_total": "UNKNOWN; three URL inspections are not a census",
+  "service_performance": "No returned rows for the three Chinese services; not proof of zero traffic or non-indexing",
+  "search_queries_disclosed": [
+    {
+      "date": "2026-10-17",
+      "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "query": "workbuddy.ai",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 10,
+      "classification": "TOOL_PRODUCT_TERM; not own brand or implementation-service query",
+      "visitor_origin": "UNKNOWN"
+    },
+    {
+      "date": "2026-10-18",
+      "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "query": "workbuddy ai",
+      "clicks": 0,
+      "impressions": 1,
+      "position": 9,
+      "classification": "TOOL_PRODUCT_TERM; not own brand or implementation-service query",
+      "visitor_origin": "UNKNOWN"
+    }
+  ],
+  "natural_model_recommendation_or_citation_confirmed": false,
+  "directed_ChatGPT_article_reads_and_clickable_citations": 3,
+  "directed_tests_are_natural_traffic": false,
+  "site_changes": 0,
+  "search_submissions": 0,
+  "new_model_prompts": 0,
+  "source_hashes": {
+    "receipt.json": "2ed177a63269e1aa5347056bca804d2908fcb58d9ad57732778245f0d839456c",
+    "windsor-performance-read.json": "81ad2b4f7fbdb3e25d066b374ae6d5923a18252c8f19850345ef07910fa48d10",
+    "model-citation-links.json": "fa497122bed7f7c84c8699766de2e188bd4ebdc1c2d795714c711a4325b39802",
+    "google-inventory-zh.txt": "cf6283c8714763ff7a17a66b43ac2c7205284afdce13193d5e050afa150aaf28",
+    "google-knowledge-zh.txt": "34947a54e25c123b27ba2fe9f4d674133e52043f2a171ad39425c83574cb0f0a",
+    "google-agent-zh.txt": "8674afaa6774a34d174867b37e987b0d70d2001a24a9fb5b61a0cb35debefeb2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-23T06:13:48.492Z",
+  "login": "Existing authenticated account",
+  "site": "www.eliai.cn",
+  "sitemap": {
+    "url": "https://www.eliai.cn/sitemap.xml",
+    "state": "正常",
+    "urls": 294,
+    "submitted_display": "2026-10-17 15:00:40",
+    "last_crawl_display": "2026-10-22 05:39:34",
+    "timezone": "UNKNOWN"
+  },
+  "index": "Today native index report explicitly not indexed; reused same-day evidence",
+  "official_note": "Submission tool accelerates crawl but cannot determine or guarantee indexing",
+  "support_contact": "Official contact page gives webmaster feedback email; no new email sent or feedback created because no new concrete submission failure",
+  "new_registration": 0,
+  "search_submissions": 0,
+  "next": "Wait for index/crawl evidence; contact official support if a concrete processing/crawl failure appears"
+}

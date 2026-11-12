@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-05",
+  "version": "0.5.0",
+  "browser": "Codex IAB",
+  "scope": "local preview only",
+  "desktop": {
+    "viewport": [
+      1280,
+      720
+    ],
+    "scroll_width": 1265,
+    "broken_images": 0,
+    "nav": [
+      "首页",
+      "作品",
+      "关于"
+    ],
+    "main_cases": [
+      "P02",
+      "P03",
+      "P04",
+      "P05",
+      "P36"
+    ],
+    "experiment_links": 0
+  },
+  "mobile": {
+    "viewport": [
+      375,
+      812
+    ],
+    "scroll_width": 360,
+    "broken_images": 0,
+    "navigation_targets": [
+      44,
+      44
+    ],
+    "pages_checked": [
+      "index.html",
+      "cases/p36.html",
+      "cases/p13.html",
+      "records.html",
+      "about.html"
+    ],
+    "client_role": "demand, plan/PRD, Demo/MVP, initial version; no testing; operations conditional",
+    "personal_role": "self-led demand/process, AI-assisted development, testing and maintenance",
+    "rag_heading_balanced": "PASS",
+    "case_chapters": 6
+  },
+  "library": {
+    "query": "OtherWater",
+    "category": "客户参与",
+    "visible_count": 2,
+    "return_state_restored": "PASS"
+  },
+  "about": {
+    "client_count": 5,
+    "contact_and_resume": "pending, no fake action",
+    "experiment_links": 0
+  },
+  "captured_console_warn_error": [],
+  "temporary_viewport": "reset",
+  "unverified": [
+    "visual acceptance by user",
+    "real phone",
+    "cross browser",
+    "customer acceptance",
+    "production state",
+    "publication rights",
+    "deployment"
+  ],
+  "screenshots": [
+    "v05-desktop-clients.jpg",
+    "v05-home-overview.jpg",
+    "v05-desktop-rag.jpg",
+    "v05-mobile-home.jpg",
+    "v05-mobile-rag.jpg",
+    "v05-mobile-client-role.jpg",
+    "v05-mobile-personal-role.jpg",
+    "v05-mobile-library.jpg",
+    "v05-final-preview.jpg"
+  ],
+  "final_user_preview": {
+    "url": "http://127.0.0.1:4178/index.html#work",
+    "viewport": [
+      1080,
+      1202
+    ],
+    "scroll_width": 1065,
+    "screenshot": "v05-final-preview.jpg"
+  }
+}

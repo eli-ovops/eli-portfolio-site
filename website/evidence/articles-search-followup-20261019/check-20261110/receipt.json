@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-11-10T01:58:32Z",
+  "scope": "Windsor Search Console only; native index and AI reports not read today",
+  "account": "https://www.eliai.cn/",
+  "requested_window": [
+    "2026-11-03",
+    "2026-11-09"
+  ],
+  "final_daily": [
+    {
+      "date": "2026-11-03",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-04",
+      "impressions": 1,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-05",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-06",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-07",
+      "impressions": 0,
+      "clicks": 0
+    }
+  ],
+  "final_missing": [
+    "2026-11-08",
+    "2026-11-09"
+  ],
+  "fresh_page_rows": [
+    {
+      "date": "2026-11-04",
+      "page": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "impressions": 1,
+      "clicks": 0,
+      "query": "UNDISCLOSED",
+      "attribution": "UNKNOWN"
+    }
+  ],
+  "fresh_disclosed_query_rows": 0,
+  "note": "Nov 4 exposure first observed Nov 6; missing dates and query UNKNOWN. Other platforms and native reports not checked today. No active model tests or external writes."
+}

@@ -1,0 +1,119 @@
+Browser tab: 43, Title: "AI Performance - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/aiperformance?siteUrl=https://www.eliai.cn/".
+1 AXWebArea AI Performance - Bing Webmaster Tools, URL: bing.com/webmasters/aiperformance?siteUrl=https://www.eliai.cn/
+	2 container
+		3 container root
+			4 container
+				5 link Description: Skip to main content, Value: bing.com/webmasters/aiperformance?siteUrl=https://www.eliai.cn/#content
+				6 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				7 image white bwt logo microsoft bing webmaster
+				8 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				13 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					14 image
+			15 container
+				16 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					17 text www.eliai.cn/
+				18 container Main menu
+					19 outline
+						20 row (selectable) Home
+							21 text Home
+						22 row (selectable) Search Performance
+							23 text Search Performance
+						24 row (selectable) AI Performance BETA
+							25 text AI Performance
+							26 text BETA
+						27 row (selectable) URL Inspection
+							28 text URL Inspection
+						29 row (selectable) Site Explorer
+							30 text Site Explorer
+						31 row (selectable) Sitemaps
+							32 text Sitemaps
+						33 row (selectable) IndexNow
+							34 text IndexNow
+						35 row (selectable) URL Submission
+							36 text URL Submission
+						37 row (selectable) Backlinks
+							38 text Backlinks
+						39 row (selectable) Keyword Research
+							40 text Keyword Research
+						41 row (selectable) Recommendations
+							42 text Recommendations
+						43 row (selectable) Site Scan
+							44 text Site Scan
+						45 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							46 text CONFIGURATION
+						47 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							48 text TOOLS & ENHANCEMENTS
+						49 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							50 text SECURITY & PRIVACY
+						51 row (selectable) User management
+							52 text User management
+						53 row (selectable) Microsoft Clarity
+							54 text Microsoft Clarity
+			55 container content
+				56 heading AI Performance, Value: 2
+					57 text AI Performance
+				58 container
+					59 text Citation sources:  Microsoft Copilots and Partners
+				60 container
+					61 tab group
+						62 tab (selected, settable, boolean) 7 D, Value: 1, ID: Pivot60-Tab0
+							141 text 7 D
+						63 tab (selectable, settable, boolean) 30 D, ID: Pivot60-Tab1, Value: 0
+30 D
+						64 tab (selectable, settable, boolean) 3 M, ID: Pivot60-Tab2, Value: 0
+3 M
+						65 tab (selectable, settable, boolean) 6 M, ID: Pivot60-Tab3, Value: 0
+6 M
+						66 tab (selectable, settable, boolean) Custom, ID: Pivot60-Tab4, Value: 0
+Custom
+						67 tab (selectable, settable, boolean) Compare, ID: Pivot60-Tab5, Value: 0
+Compare
+					142 container 7 D
+				69 button (disabled) Download
+					70 text Download
+				103 heading List By, Value: 3
+					104 text List By
+				105 container
+					106 tab group List By
+						107 tab (selected, settable, boolean) Grounding Queries, ID: Pivot86-Tab0, Value: 1
+Grounding Queries
+						108 tab (selectable, settable, boolean) Pages, ID: Pivot86-Tab1, Value: 0
+Pages
+					109 container Grounding Queries
+				110 button (disabled) Download all
+					111 text Download all
+				112 container
+					113 text field (settable) Search your query, ID: TextField97
+				114 button Search
+					115 text Search
+				143 text No data available
+				117 table AI Search Queries Report
+					118 row Grounding Query, sortable Intent, sortable Topic, sortable Citations, sortable, sorted descending order Citation Share, sortable
+						119 cell
+							120 button Description: Grounding Query, sortable, ID: header106-Query
+								121 text Grounding Query
+						122 cell
+							123 button Description: Intent, sortable, ID: header106-Intent
+								124 text Intent
+						125 cell
+							126 button Description: Topic, sortable, ID: header106-Topic
+								127 text Topic
+						128 cell
+							129 button Description: Citations, sortable, sorted descending order, ID: header106-Citations
+								130 text Citations
+						131 cell
+							132 button Description: Citation Share, sortable, ID: header106-CitationRate
+								133 text Citation Share
+					144 text No data available
+				145 container
+					146 text 0 rows
+				137 text The data shown below represents a sample of overall activity. Results may be refined as additional data is processed
+				138 link Description: learnmore, Value: bing.com/webmasters/help/9f8e7d6c
+				139 text Intent and topic labels are AI generated and can filter potentially unsafe queries.
+				140 link Description: learnmore, Value: bing.com/webmasters/help/9f8e7d6c
+
+The focused UI element is 62 tab (selected, settable, boolean) 7 D, Value: 1, ID: Pivot60-Tab0

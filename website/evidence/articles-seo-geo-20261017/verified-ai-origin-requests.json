@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-10-17T17:40:25.588254+08:00",
+  "scope": "Current access.log;2026-10-17;official-range plus UA verification;no raw IPs retained",
+  "bots": {
+    "ChatGPT-User": {
+      "verified_article_requests": 3,
+      "unverified_article_requests": 0,
+      "paths": {
+        "/articles/enterprise-knowledge-base.html": 1,
+        "/articles/what-is-agent.html": 1,
+        "/articles/inventory-reconciliation.html": 1
+      },
+      "statuses": {
+        "200": 3
+      }
+    },
+    "OAI-SearchBot": {
+      "verified_article_requests": 0,
+      "unverified_article_requests": 0,
+      "paths": {},
+      "statuses": {}
+    },
+    "PerplexityBot": {
+      "verified_article_requests": 0,
+      "unverified_article_requests": 0,
+      "paths": {},
+      "statuses": {}
+    },
+    "Perplexity-User": {
+      "verified_article_requests": 0,
+      "unverified_article_requests": 0,
+      "paths": {},
+      "statuses": {}
+    }
+  }
+}

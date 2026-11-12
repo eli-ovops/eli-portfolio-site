@@ -1,0 +1,10 @@
+<main id="main" class="records-main records-catalog">
+  <header class="records-heading"><h1>项目索引</h1><p>客户项目、产品实践与专题研究。</p></header>
+  <section id="archive"><div class="archive-disclosure">
+    <div class="archive-tools" data-enhance><div class="filters" aria-label="${filters_aria_label}">${filters}</div><div class="search-field"><label for="search">搜索项目</label><input type="search" id="search" placeholder="项目名称、功能或方向" autocomplete="off"></div></div>
+    <p class="filter-note" id="client-filter-note">${client_filter_note}</p>
+    <div class="archive-overview"><div class="archive-result-summary"><p class="result-count" aria-live="polite">38 项记录</p><span class="archive-sort">${sort_label}</span></div><details class="archive-search-guide"><summary>${search_guide_label}<span aria-hidden="true">+</span></summary>${customer_search_help}</details></div>
+    <ul class="archive-list">${archive}</ul>
+    <div class="empty" hidden><p>未找到匹配的项目。</p><button type="button" class="reset-search text-link">清除筛选 ↗</button></div>
+  </div></section>
+</main>

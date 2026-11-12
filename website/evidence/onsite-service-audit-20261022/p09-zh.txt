@@ -1,0 +1,177 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: ../en/cases/p09.html
+      - text: EN
+- main:
+  - link "← 返回项目库":
+    - /url: ../records.html
+  - generic: 网站与工具
+  - heading "某家具品牌扫码库存系统" [level=1]:
+    - generic: 某家具品牌扫码库存系统
+  - paragraph: 已交付
+  - paragraph: 按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。
+  - figure "查看图片 ↗":
+    - link "放大截图：某家具品牌扫码库存系统":
+      - /url: ../assets/public-cases/p09.png
+      - img "某家具品牌扫码库存系统脱敏界面展示"
+    - link "查看图片 ↗":
+      - /url: ../assets/public-cases/p09.png
+  - term: 我的工作
+  - definition: 主导需求与开发，负责测试维护
+  - term: 交付状态
+  - definition: 已交付
+  - complementary:
+    - heading "内容概览" [level=2]
+    - navigation "案例内容":
+      - link "项目背景":
+        - /url: "#why"
+      - link "承担职责":
+        - /url: "#role"
+      - link "工作内容":
+        - /url: "#outputs"
+      - link "实施方法":
+        - /url: "#process"
+      - link "交付与验证":
+        - /url: "#result"
+      - link "技术与实现":
+        - /url: "#technical"
+  - heading "项目背景" [level=2]
+  - paragraph: 单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。
+  - heading "承担职责" [level=2]
+  - paragraph: 我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。
+  - heading "工作内容" [level=2]
+  - paragraph: 实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。
+  - heading "实施方法" [level=2]
+  - paragraph: 先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。
+  - heading "一次库存闭环" [level=3]
+  - paragraph: 按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。
+  - table "一次库存闭环":
+    - rowgroup:
+      - row "操作 A 库位 B 库位 总库存":
+        - columnheader "操作"
+        - columnheader "A 库位"
+        - columnheader "B 库位"
+        - columnheader "总库存"
+    - rowgroup:
+      - row "入库 10 箱 10 0 10":
+        - rowheader "入库 10 箱"
+        - cell "10"
+        - cell "0"
+        - cell "10"
+      - row "移库 4 箱 6 4 10":
+        - rowheader "移库 4 箱"
+        - cell "6"
+        - cell "4"
+        - cell "10"
+      - row "出库 3 箱 3 4 7":
+        - rowheader "出库 3 箱"
+        - cell "3"
+        - cell "4"
+        - cell "7"
+  - paragraph: 云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。
+  - heading "交付与验证" [level=2]
+  - paragraph: 已交付客户，范围包括扫码入库、移库、出库与撤销纠错。下方技术说明对应现有实现。
+  - heading "技术与实现" [level=2]
+  - list:
+    - listitem: TypeScript
+    - listitem: React
+    - listitem: Vite
+    - listitem: Cloudflare Workers
+    - listitem: D1 / SQLite
+    - listitem: Playwright
+  - paragraph: 按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。
+  - heading "实现流程" [level=3]
+  - list "实现流程":
+    - strong: 扫码与操作
+    - paragraph: React 录入与确认
+    - strong: 业务校验
+    - paragraph: Workers 处理重复提交
+    - strong: 库存变更
+    - paragraph: D1 / SQLite 核对数量
+    - strong: 纠错与回放
+    - paragraph: 撤销操作与测试核对
+  - heading "验证范围" [level=3]
+  - paragraph: 本地与云端记录核对了库存闭环、重复提交和库存不足等情况。具体数量变化与测试来源见上方表格。
+  - region "聊聊你的业务":
+    - heading "聊聊你的业务" [level=2]
+    - paragraph: 不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。
+    - paragraph:
+      - link "查看库存核对与流程自动化服务":
+        - /url: ../services/workflow-automation.html
+        - text: 查看库存核对与流程自动化服务
+        - generic: ↗
+    - link "免费聊聊":
+      - /url: ../about.html#contact
+      - text: 免费聊聊
+      - generic: ↗
+  - link "更多项目":
+    - /url: ../records.html
+    - text: 更多项目
+    - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

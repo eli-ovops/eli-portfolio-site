@@ -1,0 +1,19 @@
+{
+  "desktop_footer_before": 401.3125,
+  "desktop_footer_after": 131.6875,
+  "reduction_percent": 67.2,
+  "mobile_footer_after": 207.671875,
+  "mobile_client_scroll": [
+    360,
+    360
+  ],
+  "annotations": {
+    "nav_label": "社媒自动化营销",
+    "help_removed": true,
+    "exit_button_removed": true,
+    "screenshot_text_removed": true,
+    "image_click_opens_dialog": true,
+    "process_disclosure": true
+  },
+  "build_privacy": "PASS"
+}

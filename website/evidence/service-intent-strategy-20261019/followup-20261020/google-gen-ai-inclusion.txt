@@ -1,0 +1,89 @@
+Browser tab: 1, Title: "生成式 AI 搜索", URL: "https://search.google.com/search-console/settings/search-gen-ai?resource_id=https%3A%2F%2Fwww.eliai.cn%2F".
+0 AXWebArea 生成式 AI 搜索, URL: search.google.com/search-console/settings/search-gen-ai?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+	1 container
+		2 container yDmH0d
+			3 container gb
+				4 container
+					5 button (collapsed) Description: 主菜单, Secondary Actions: Expand
+						6 image
+					7 link Description: Google Search Console, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F, ID: sdgBod
+					8 container
+						9 combo box (collapsed, settable) Description: 检查 https://www.eliai.cn/ 中的任何网址, Secondary Actions: Expand
+					10 button 搜索
+						11 image
+					12 button 帮助
+					13 button 用户设置
+					14 container
+						15 button 未读消息：2 条
+						54 text 2
+					17 button (collapsed) Description: Google 应用, Secondary Actions: Expand
+					18 button (collapsed) Description: Google 账号： Eli Chao ([REDACTED_EMAIL]), Secondary Actions: Expand
+			19 container navigational drawer
+				20 container
+					21 container 主要
+						22 pop up button (collapsed) Description: 搜索资源, Secondary Actions: Expand
+							23 image 网站图标
+							24 combo box (collapsed, settable) Description: https://www.eliai.cn/, Secondary Actions: Expand
+						25 container
+							26 link Description: 概述, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							27 link Description: 数据洞见, Value: search.google.com/search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							28 link Description: 效果, Value: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							29 button 网址检查
+								30 text 网址检查
+							31 container
+								32 text 编制索引
+								33 button (expanded) Description: “编制索引”报告部分, Secondary Actions: Collapse
+								34 link Description: 网页, Value: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								35 link Description: 站点地图, Value: search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								36 link Description: 移除, Value: search.google.com/search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							37 container
+								38 text 体验
+								39 button (expanded) Description: “体验”报告部分, Secondary Actions: Collapse
+								40 link Description: 核心网页指标, Value: search.google.com/search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								41 link Description: HTTPS, Value: search.google.com/search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							42 container
+								43 text 安全问题和人工处置措施
+								44 button (collapsed) Description: “安全问题和人工处置措施”报告部分, Secondary Actions: Expand
+							45 link Description: “链接”报告, Value: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							46 link Description: 成就, Value: search.google.com/search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							47 link Description: 设置, Value: search.google.com/search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							48 button 提交反馈
+								49 text 提交反馈
+							50 button Search Console 简介
+								51 text Search Console 简介
+							52 link Description: 隐私权, Value: myaccount.google.com/privacypolicy?hl=zh-CN
+							53 link Description: 条款, Value: myaccount.google.com/termsofservice?hl=zh-CN
+			55 container
+				56 container 路径
+					57 link Description: 设置, Value: search.google.com/search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+					58 heading 生成式 AI 搜索, Value: 1
+						59 text 生成式 AI 搜索
+				60 container
+					61 heading 生成式 AI 搜索, Value: 2
+						62 text 生成式 AI 搜索
+					63 text 控制您的网站在 
+					64 link Description: Google 搜索中的生成式 AI 功能（在新标签页中打开）, Value: support.google.com/webmasters/answer/16908024?hl=zh_CN#gen-ai-features
+					65 text （例如 AI 概览和 AI 模式）中的曝光度。
+					66 link Description: 详细了解此控制设置（在新标签页中打开）, Value: support.google.com/webmasters/answer/16908024?hl=zh_CN
+					67 text 。
+					68 container
+						69 container
+							70 checkbox (settable, integer) Description: 控制选项继承自：eliai.cn 默认 当前控制选项：包含, Value: 1, ID: c4
+						71 container
+							72 text 控制选项继承自： eliai.cn 默认
+							73 text 当前控制选项： 包含
+						74 container
+							75 container
+								76 radio button (disabled, settable, integer) Description: 在搜索生成式 AI 功能中包含我的网站链接和内容, Value: 0
+							77 text 在搜索生成式 AI 功能中包含我的网站链接和内容 让您的网站出现在搜索生成式 AI 功能中，包括以链接形式呈现，以及为这些功能中的 AI 回答提供依据，最大限度地提升网站的曝光度。您的网站可以通过这些功能获得展示机会和流量。
+						78 container
+							79 container
+								80 radio button (disabled, settable, integer) Description: 从搜索生成式 AI 功能中排除我的网站链接和内容, Value: 0
+							81 text 从搜索生成式 AI 功能中排除我的网站链接和内容 禁止在搜索生成式 AI 功能中向用户展示您的网站，包括在这些功能中提供指向您网站的链接，以及为 AI 回答提供依据。您不会通过这些功能获得任何流量或展示机会。详细了解
+							82 link Description: 排除网站的具体影响。（在新标签页中打开）, Value: support.google.com/webmasters/answer/16908024?hl=zh_CN#exclusion
+						83 button (disabled) 保存
+							84 text 保存
+						85 text 更改此控制设置会影响您资源中的所有网页，包括子级资源。子级资源默认会继承此控制设置，但其所有者可以选择覆盖此控制设置。
+						86 link Description: 详细了解继承机制的工作原理。（在新标签页中打开）, Value: support.google.com/webmasters/answer/16908024?hl=zh_CN#inheritance
+
+The focused UI element is 0 AXWebArea 生成式 AI 搜索, URL: search.google.com/search-console/settings/search-gen-ai?resource_id=https%3A%2F%2Fwww.eliai.cn%2F

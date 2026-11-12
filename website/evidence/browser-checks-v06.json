@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-05",
+  "version": "0.6.0",
+  "scope": "local preview",
+  "entry": {
+    "enhanced": true,
+    "headings": 1,
+    "lines": 2,
+    "scrollWidth": 1265,
+    "titleTransforms": [
+      "matrix(0.999731, 0.0232074, -0.0232074, 0.999731, 0, 54.9792)",
+      "matrix(0.999657, 0.0261769, -0.0261769, 0.999657, 0, 62.0156)"
+    ],
+    "width": 1280
+  },
+  "hover": {
+    "active": true,
+    "cursorOpacity": "1",
+    "cursorPosition": {
+      "x": "479.219970703125px",
+      "y": "151.01437377929688px"
+    },
+    "scrollWidth": 1265,
+    "transform": "matrix3d(0.998247, 0.00115329, -0.059167, 5.37882e-05, 0, 0.99981, 0.0194883, -1.77167e-05, 0.0591782, -0.0194542, 0.998058, -0.000907325, 0, 0, 0, 1)"
+  },
+  "magnet": {
+    "transform": "matrix(1, 0, 0, 1, 5.79337, 1.43837)",
+    "x": "5.799938354492188px",
+    "y": "1.44000244140625px"
+  },
+  "rows": {
+    "back": "matrix(1, 0, 0, 1, 0, 0)",
+    "front": "matrix(1, 0, 0, 1, 0, -37.95)",
+    "progress": "0.41382605925453964",
+    "scrollWidth": 1265
+  },
+  "mobile": {
+    "chapterCount": 6,
+    "coarse": true,
+    "role": "02\n\n我的角色\n\n我负责梳理品牌独立站的产品与知识问答需求，制定计划和 PRD，开发 Demo 和 MVP，再完成项目初版。\n\n测试不属于我的职责。运维是否由我承担，以及具体维护范围，根据客户需求确定。",
+    "scrollWidth": 375,
+    "title": "OtherWater RAG 客服",
+    "width": 375
+  },
+  "reduced": {
+    "entryLines": 0,
+    "progressDisplay": "none",
+    "reduce": true,
+    "scrollWidth": 360,
+    "transition": "none",
+    "width": 375
+  },
+  "noJS": {
+    "status": "not_verified",
+    "reason": "Disabling script execution also prevents the browser automation Runtime.evaluate used by locators; restored without repeating the click."
+  },
+  "console": [],
+  "temporarySettings": "Script execution enabled; emulated media cleared; touch disabled; viewport reset.",
+  "transition": {
+    "animation": "page-curtain",
+    "clipPath": "inset(0px 0px 54.0978%)",
+    "chapterCount": 6,
+    "width": 1280,
+    "scrollWidth": 1280
+  },
+  "touchHome": {
+    "fine": false,
+    "coarse": true,
+    "cursorDisplay": "none",
+    "navTargets": {
+      "width": 44,
+      "height": 44
+    },
+    "brokenImages": 0,
+    "width": 375,
+    "scrollWidth": 360
+  },
+  "mobileSettled": {
+    "title": "OtherWater RAG 客服",
+    "chapterCount": 6,
+    "titleTransform": "none",
+    "width": 375,
+    "scrollWidth": 360
+  },
+  "screenshots": [
+    "v06-desktop-home.jpg",
+    "v06-desktop-hover.jpg",
+    "v06-desktop-rows.jpg",
+    "v06-mobile-home.jpg",
+    "v06-mobile-case.jpg",
+    "v06-mobile-reduced.jpg"
+  ],
+  "notVerified": [
+    "real phone",
+    "cross browser",
+    "frame rate",
+    "user aesthetic acceptance",
+    "full no-JS browser path",
+    "public deployment"
+  ]
+}

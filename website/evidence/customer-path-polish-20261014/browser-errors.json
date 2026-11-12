@@ -1,0 +1,38 @@
+[
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T03:40:00.961Z",
+    "url": "http://127.0.0.1:4178/about.html?pv=54cb0f82f519d608da59#contact"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T03:40:14.231Z",
+    "url": "http://127.0.0.1:4178/records.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T03:41:04.712Z",
+    "url": "http://127.0.0.1:4178/cases/p04.html?pv=54cb0f82f519d608da59&from=%2Frecords.html%3Fpv%3D54cb0f82f519d608da59%26q%3D%25E8%25BF%259B%25E9%2594%2580%25E5%25AD%2598%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26return%3Dp10"
+  },
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "timestamp": "2026-10-14T03:42:13.877Z",
+    "url": "http://127.0.0.1:4178/index.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T03:42:50.532Z",
+    "url": "http://127.0.0.1:4178/records.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "timestamp": "2026-10-14T03:44:07.081Z",
+    "url": "http://127.0.0.1:4178/index.html?pv=54cb0f82f519d608da59"
+  }
+]

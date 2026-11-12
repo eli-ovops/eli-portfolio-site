@@ -1,0 +1,516 @@
+[
+  {
+    "name": "home",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/",
+      "description": "Eli 的个人网站与作品集，展示库存管理系统、扫码出入库、RAG 知识检索客服和 AI 内容工作台。查看项目过程、个人职责、交付阶段与验证记录，了解需求梳理、开发和测试的实际工作。",
+      "h1": "业务系统开发\nAI 工作流",
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schema": [
+        "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#eli\", \"name\": \"Eli\", \"url\": \"http://[REDACTED_HOST]/sites/portfolio/about.html\", \"description\": \"我将业务流程做成可运行的软件：库存管理、扫码出入库、知识检索客服与内容工作台。独立项目负责需求、开发与测试；团队项目按分工参与。\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#website\", \"name\": \"Eli\", \"url\": \"http://[REDACTED_HOST]/sites/portfolio/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#eli\"}}, {\"@type\": \"WebPage\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#page\", \"url\": \"http://[REDACTED_HOST]/sites/portfolio/\", \"name\": \"Eli - 业务系统开发与 AI 工作流作品集\", \"description\": \"Eli 的个人网站与作品集，展示库存管理系统、扫码出入库、RAG 知识检索客服和 AI 内容工作台。查看项目过程、个人职责、交付阶段与验证记录，了解需求梳理、开发和测试的实际工作。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#website\"}, \"author\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#eli\"}}]}"
+      ],
+      "title": "Eli - 业务系统开发与 AI 工作流作品集"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: en/index.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - region \"个人介绍\":\n    - generic: HELLO,\n    - paragraph:\n      - generic: I’M\n      - generic: E\n      - generic: L\n      - generic: I\n    - paragraph: FDE · 前沿部署工程师\n    - heading \"业务系统开发 AI 工作流\" [level=1]:\n      - generic: 业务系统开发\n      - generic: AI 工作流\n    - paragraph: 我将业务流程做成可运行的软件：库存管理、扫码出入库、知识检索客服与内容工作台。独立项目负责需求、开发与测试；团队项目按分工参与。\n    - link \"浏览项目\":\n      - /url: \"#work\"\n      - text: 浏览项目\n      - generic: ↓\n    - link \"联系我\":\n      - /url: about.html?pv=05f7213ef85c4cd8a350#contact\n      - text: 联系我\n      - generic: ↗\n  - region \"代表项目\":\n    - heading \"代表项目\" [level=2]\n    - link \"项目库\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n      - text: 项目库\n      - generic: ↗\n    - navigation \"快速选择项目\":\n      - button \"查看洁具行业某大型 B 端厂商库存管理系统\" [pressed]: 洁具库存\n      - button \"查看英国某净水品牌 RAG 智能客服定制\": RAG 客服\n      - button \"查看某家具品牌扫码库存系统\": 扫码库存\n      - button \"查看某律师事务所 OA 系统\": 律所 OA\n      - button \"查看深圳某慈善基金会\": 慈善基金会\n      - button \"查看织境 · AI 内容工作台\": AI 内容工作台\n      - button \"查看英国某净水品牌全域营销\": 全域营销\n    - generic \"代表项目：洁具行业某大型 B 端厂商库存管理系统。展示区内滚动切换 · 区外滚动页面。\":\n      - paragraph: 01 / 07\n      - paragraph: 展示区内滚动切换 · 区外滚动页面\n      - button \"上一个案例\": ←\n      - button \"下一个案例\": →\n      - article:\n        - link \"查看 洁具行业某大型 B 端厂商库存管理系统 截图\":\n          - /url: assets/public-cases/p10.png\n          - img \"洁具行业某大型 B 端厂商库存管理系统脱敏界面展示\"\n          - generic: 放大截图 ↗\n        - paragraph: 库存管理\n        - heading \"洁具行业某大型 B 端厂商库存管理系统\" [level=3]\n        - paragraph: 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。\n        - generic \"查看项目过程 ＋\"\n        - link \"完整案例：洁具行业某大型 B 端厂商库存管理系统\":\n          - /url: cases/p10.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n      - article:\n        - link:\n          - /url: assets/public-cases/p36.png\n          - generic: 放大截图 ↗\n        - paragraph: AI 客服\n        - heading [level=3]: 英国某净水品牌 RAG 智能客服定制\n        - paragraph: 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\n        - generic: 查看项目过程 ＋\n        - link:\n          - /url: cases/p36.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n      - article:\n        - link:\n          - /url: assets/public-cases/p09.png\n          - generic: 放大截图 ↗\n        - paragraph: 扫码库存\n        - heading [level=3]: 某家具品牌扫码库存系统\n        - paragraph: 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。\n        - generic: 查看项目过程 ＋\n        - link:\n          - /url: cases/p09.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n      - article:\n        - button:\n        - paragraph: 办公协同\n        - heading [level=3]: 某律师事务所 OA 系统\n        - paragraph: 依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。\n        - paragraph: 流程示意 · 非客户系统截图\n        - generic: 查看项目过程 ＋\n        - link:\n          - /url: cases/p04.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n      - article:\n        - link:\n          - /url: assets/public-cases/p02.png\n          - generic: 放大截图 ↗\n        - paragraph: 公益网站\n        - heading [level=3]: 深圳某慈善基金会\n        - paragraph: 参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。\n        - generic: 查看项目过程 ＋\n        - link:\n          - /url: cases/p02.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n      - article:\n        - link:\n          - /url: assets/img10.png\n          - generic: 放大截图 ↗\n        - paragraph: 内容工作台\n        - heading [level=3]: 织境 · AI 内容工作台\n        - paragraph: 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。\n        - generic: 查看项目过程 ＋\n        - link:\n          - /url: cases/p12.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n      - article:\n        - link:\n          - /url: assets/public-cases/p05.png\n          - generic: 放大截图 ↗\n        - paragraph: 品牌营销\n        - heading [level=3]: 英国某净水品牌全域营销\n        - paragraph: 参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。\n        - generic: 查看项目过程 ＋\n        - link:\n          - /url: cases/p05.html?pv=05f7213ef85c4cd8a350\n          - text: 完整案例 ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "inventory-p10",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html",
+      "description": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schema": [
+        "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#eli\", \"name\": \"Eli\", \"url\": \"http://[REDACTED_HOST]/sites/portfolio/about.html\", \"description\": \"我将业务流程做成可运行的软件：库存管理、扫码出入库、知识检索客服与内容工作台。独立项目负责需求、开发与测试；团队项目按分工参与。\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#website\", \"name\": \"Eli\", \"url\": \"http://[REDACTED_HOST]/sites/portfolio/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#eli\"}}, {\"@type\": \"BreadcrumbList\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/cases/p10.html#breadcrumb\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"项目库\", \"item\": \"http://[REDACTED_HOST]/sites/portfolio/records.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"洁具行业某大型 B 端厂商库存管理系统\", \"item\": \"http://[REDACTED_HOST]/sites/portfolio/cases/p10.html\"}]}, {\"@type\": \"WebPage\", \"@id\": \"http://[REDACTED_HOST]/sites/portfolio/cases/p10.html#page\", \"url\": \"http://[REDACTED_HOST]/sites/portfolio/cases/p10.html\", \"name\": \"洁具库存管理系统开发案例 - Eli\", \"description\": \"独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#website\"}, \"author\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/#eli\"}, \"breadcrumb\": {\"@id\": \"http://[REDACTED_HOST]/sites/portfolio/cases/p10.html#breadcrumb\"}, \"about\": {\"@type\": \"Thing\", \"name\": \"洁具行业某大型 B 端厂商库存管理系统\"}}]}"
+      ],
+      "title": "洁具库存管理系统开发案例 - Eli"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: ../about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: ../en/cases/p10.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - link \"← 返回项目库\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n  - generic: 网站与工具\n  - heading \"洁具行业某大型 B 端厂商库存管理系统\" [level=1]:\n    - generic: 洁具行业某大型 B 端厂商库存管理系统\n  - paragraph: 成熟底座业务适配\n  - paragraph: 围绕产品规格、采购、退货与盘点适配库存流程，连接 PC 与 H5 入口。\n  - figure \"查看大图 ↗\":\n    - link \"放大截图：洁具行业某大型 B 端厂商库存管理系统\":\n      - /url: ../assets/public-cases/p10.png\n      - img \"洁具行业某大型 B 端厂商库存管理系统脱敏界面展示\"\n    - link \"查看大图 ↗\":\n      - /url: ../assets/public-cases/p10.png\n  - term: 我的工作\n  - definition: 独立负责需求、底座适配及交付\n  - term: 使用状态\n  - definition: 已交付，尚未全面使用\n  - complementary:\n    - heading \"内容概览\" [level=2]\n    - navigation \"案例内容\":\n      - link \"项目背景\":\n        - /url: \"#why\"\n      - link \"承担职责\":\n        - /url: \"#role\"\n      - link \"工作内容\":\n        - /url: \"#outputs\"\n      - link \"实施方法\":\n        - /url: \"#process\"\n      - link \"交付与反馈\":\n        - /url: \"#result\"\n      - link \"技术与实现\":\n        - /url: \"#technical\"\n  - heading \"项目背景\" [level=2]\n  - paragraph: 客户需要以库存管理为核心，连接产品规格、采购、退货与盘点。系统中的数量和状态需要与实际业务操作一致。\n  - heading \"承担职责\" [level=2]\n  - paragraph: 独立负责需求沟通、业务梳理、底座适配开发及交付。\n  - heading \"工作内容\" [level=2]\n  - paragraph: 基于成熟底座适配库存业务，连接 PC 与 H5 入口，包含资料、采购、库存及业务概览。\n  - heading \"实施方法\" [level=2]\n  - paragraph: 半天需求沟通后明确范围。客户后续沟通有限，我结合前期调研和行业理解推进实现。\n  - paragraph: 复查时交叉核对单据、库存和流水，避免只凭页面提示判断成功。下方展示一次盘点样例。\n  - heading \"一次盘点复查\" [level=3]\n  - paragraph: 2026 年 9 月 23 日的测试记录：测试仓内某规格账面 1 件，实盘 0 件。提交后交叉核对三个结果。\n  - table \"一次盘点复查\":\n    - rowgroup:\n      - row \"核对对象 记录结果\":\n        - columnheader \"核对对象\"\n        - columnheader \"记录结果\"\n    - rowgroup:\n      - row \"盘点单据 原数量 1，实盘 0，状态已盘\":\n        - rowheader \"盘点单据\"\n        - cell \"原数量 1，实盘 0，状态已盘\"\n      - row \"测试仓库存 从 1 件扣减为 0 件\":\n        - rowheader \"测试仓库存\"\n        - cell \"从 1 件扣减为 0 件\"\n      - row \"出入库流水 对应规格记 −1 件\":\n        - rowheader \"出入库流水\"\n        - cell \"对应规格记 −1 件\"\n  - paragraph: 这是历史盘亏样例，不代表所有业务组合均通过。同期九项复查为八项具体样例通过、一项发现问题；此处不据旧记录判断系统当前状态。\n  - heading \"交付与反馈\" [level=2]\n  - paragraph: 历时约两个月完成系统交付。客户尚未全面投入使用，实际使用效果暂无结论。\n  - heading \"技术与实现\" [level=2]\n  - list:\n    - listitem: Java\n    - listitem: Spring Boot\n    - listitem: Vue\n    - listitem: MySQL\n    - listitem: Redis\n    - listitem: Nginx\n  - paragraph: PC 与 H5 入口连接业务后端，围绕库存、采购、退货与盘点组织流程；基于成熟底座进行业务适配。\n  - heading \"实现流程\" [level=3]\n  - list \"实现流程\":\n    - strong: 业务入口\n    - paragraph: Vue PC 与 H5\n    - strong: 业务服务\n    - paragraph: Spring Boot 接口\n    - strong: 数据存储\n    - paragraph: MySQL 与 Redis\n    - strong: 试部署\n    - paragraph: Linux / Nginx 环境\n  - heading \"验证范围\" [level=3]\n  - paragraph: 已有构建、试部署及业务复查记录。交付、试运行和客户全面采用分别说明。\n  - paragraph:\n    - link \"某家具品牌扫码库存系统 ↗\":\n      - /url: p09.html?pv=05f7213ef85c4cd8a350\n  - paragraph:\n    - link \"某律师事务所 OA 系统 ↗\":\n      - /url: p04.html?pv=05f7213ef85c4cd8a350\n  - link \"更多项目\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - text: 更多项目\n    - generic: ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "barcode-p09",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "body": "← 返回项目库\n网站与工具\n某家具品牌扫码库存系统\n\n虚拟库存试点\n\n按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。\n\n查看大图 ↗\n我的工作\n主导需求与开发，负责测试维护\n验收边界\n虚拟库存通过；现场使用待核\n内容概览\n项目背景\n承担职责\n工作内容\n实施方法\n验证与阶段\n技术与实现\n项目背景\n\n单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。\n\n承担职责\n\n我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。\n\n工作内容\n\n实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。\n\n实施方法\n\n先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。\n\n一次库存闭环\n\n按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。\n\n操作\tA 库位\tB 库位\t总库存\n入库 10 箱\t10\t0\t10\n移库 4 箱\t6\t4\t10\n出库 3 箱\t3\t4\t7\n\n云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。\n\n验证与阶段\n\n2026 年 9 月 8 日的资料保留本地及云端虚拟库存验收记录。真实手机摄像头和工厂网络仍需现场验证，尚不代表工厂正式采用。\n\n技术与实现\nTypeScript\nReact\nVite\nCloudflare Workers\nD1 / SQLite\nPlaywright\n\n按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。\n\n实现流程\n扫码与操作\n\nReact 录入与确认\n\n业务校验\n\nWorkers 处理重复提交\n\n库存变更\n\nD1 / SQLite 核对数量\n\n纠错与回放\n\n撤销操作与测试核对\n\n验证范围\n\n已有本地与云端虚拟库存测试记录；例如 10 箱入库、3 箱出库后，总量为 7 箱。真实工厂使用效果另行验证。\n\n更多项目\n↗",
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html",
+      "description": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "h1": "某家具品牌扫码库存系统",
+      "links": [
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "← 返回项目库"
+        },
+        {
+          "href": "../assets/public-cases/p09.png",
+          "text": ""
+        },
+        {
+          "href": "../assets/public-cases/p09.png",
+          "text": "查看大图 ↗"
+        },
+        {
+          "href": "#why",
+          "text": "项目背景"
+        },
+        {
+          "href": "#role",
+          "text": "承担职责"
+        },
+        {
+          "href": "#outputs",
+          "text": "工作内容"
+        },
+        {
+          "href": "#process",
+          "text": "实施方法"
+        },
+        {
+          "href": "#result",
+          "text": "验证与阶段"
+        },
+        {
+          "href": "#technical",
+          "text": "技术与实现"
+        },
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "更多项目 ↗"
+        }
+      ],
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schemaCount": 1,
+      "title": "扫码库存系统：入库、移库与出库案例 - Eli"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: ../about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: ../en/cases/p09.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - link \"← 返回项目库\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n  - generic: 网站与工具\n  - heading \"某家具品牌扫码库存系统\" [level=1]:\n    - generic: 某家具品牌扫码库存系统\n  - paragraph: 虚拟库存试点\n  - paragraph: 按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。\n  - figure \"查看大图 ↗\":\n    - link \"放大截图：某家具品牌扫码库存系统\":\n      - /url: ../assets/public-cases/p09.png\n      - img \"某家具品牌扫码库存系统脱敏界面展示\"\n    - link \"查看大图 ↗\":\n      - /url: ../assets/public-cases/p09.png\n  - term: 我的工作\n  - definition: 主导需求与开发，负责测试维护\n  - term: 验收边界\n  - definition: 虚拟库存通过；现场使用待核\n  - complementary:\n    - heading \"内容概览\" [level=2]\n    - navigation \"案例内容\":\n      - link \"项目背景\":\n        - /url: \"#why\"\n      - link \"承担职责\":\n        - /url: \"#role\"\n      - link \"工作内容\":\n        - /url: \"#outputs\"\n      - link \"实施方法\":\n        - /url: \"#process\"\n      - link \"验证与阶段\":\n        - /url: \"#result\"\n      - link \"技术与实现\":\n        - /url: \"#technical\"\n  - heading \"项目背景\" [level=2]\n  - paragraph: 单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。\n  - heading \"承担职责\" [level=2]\n  - paragraph: 我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。\n  - heading \"工作内容\" [level=2]\n  - paragraph: 实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。\n  - heading \"实施方法\" [level=2]\n  - paragraph: 先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。\n  - heading \"一次库存闭环\" [level=3]\n  - paragraph: 按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。\n  - table \"一次库存闭环\":\n    - rowgroup:\n      - row \"操作 A 库位 B 库位 总库存\":\n        - columnheader \"操作\"\n        - columnheader \"A 库位\"\n        - columnheader \"B 库位\"\n        - columnheader \"总库存\"\n    - rowgroup:\n      - row \"入库 10 箱 10 0 10\":\n        - rowheader \"入库 10 箱\"\n        - cell \"10\"\n        - cell \"0\"\n        - cell \"10\"\n      - row \"移库 4 箱 6 4 10\":\n        - rowheader \"移库 4 箱\"\n        - cell \"6\"\n        - cell \"4\"\n        - cell \"10\"\n      - row \"出库 3 箱 3 4 7\":\n        - rowheader \"出库 3 箱\"\n        - cell \"3\"\n        - cell \"4\"\n        - cell \"7\"\n  - paragraph: 云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。\n  - heading \"验证与阶段\" [level=2]\n  - paragraph: 2026 年 9 月 8 日的资料保留本地及云端虚拟库存验收记录。真实手机摄像头和工厂网络仍需现场验证，尚不代表工厂正式采用。\n  - heading \"技术与实现\" [level=2]\n  - list:\n    - listitem: TypeScript\n    - listitem: React\n    - listitem: Vite\n    - listitem: Cloudflare Workers\n    - listitem: D1 / SQLite\n    - listitem: Playwright\n  - paragraph: 按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。\n  - heading \"实现流程\" [level=3]\n  - list \"实现流程\":\n    - strong: 扫码与操作\n    - paragraph: React 录入与确认\n    - strong: 业务校验\n    - paragraph: Workers 处理重复提交\n    - strong: 库存变更\n    - paragraph: D1 / SQLite 核对数量\n    - strong: 纠错与回放\n    - paragraph: 撤销操作与测试核对\n  - heading \"验证范围\" [level=3]\n  - paragraph: 已有本地与云端虚拟库存测试记录；例如 10 箱入库、3 箱出库后，总量为 7 箱。真实工厂使用效果另行验证。\n  - link \"更多项目\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - text: 更多项目\n    - generic: ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "about",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "body": "← 返回项目库\n网站与工具\n某家具品牌扫码库存系统\n\n虚拟库存试点\n\n按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。\n\n查看大图 ↗\n我的工作\n主导需求与开发，负责测试维护\n验收边界\n虚拟库存通过；现场使用待核\n内容概览\n项目背景\n承担职责\n工作内容\n实施方法\n验证与阶段\n技术与实现\n项目背景\n\n单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。\n\n承担职责\n\n我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。\n\n工作内容\n\n实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。\n\n实施方法\n\n先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。\n\n一次库存闭环\n\n按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。\n\n操作\tA 库位\tB 库位\t总库存\n入库 10 箱\t10\t0\t10\n移库 4 箱\t6\t4\t10\n出库 3 箱\t3\t4\t7\n\n云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。\n\n验证与阶段\n\n2026 年 9 月 8 日的资料保留本地及云端虚拟库存验收记录。真实手机摄像头和工厂网络仍需现场验证，尚不代表工厂正式采用。\n\n技术与实现\nTypeScript\nReact\nVite\nCloudflare Workers\nD1 / SQLite\nPlaywright\n\n按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。\n\n实现流程\n扫码与操作\n\nReact 录入与确认\n\n业务校验\n\nWorkers 处理重复提交\n\n库存变更\n\nD1 / SQLite 核对数量\n\n纠错与回放\n\n撤销操作与测试核对\n\n验证范围\n\n已有本地与云端虚拟库存测试记录；例如 10 箱入库、3 箱出库后，总量为 7 箱。真实工厂使用效果另行验证。\n\n更多项目\n↗",
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html",
+      "description": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "h1": "某家具品牌扫码库存系统",
+      "links": [
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "← 返回项目库"
+        },
+        {
+          "href": "../assets/public-cases/p09.png",
+          "text": ""
+        },
+        {
+          "href": "../assets/public-cases/p09.png",
+          "text": "查看大图 ↗"
+        },
+        {
+          "href": "#why",
+          "text": "项目背景"
+        },
+        {
+          "href": "#role",
+          "text": "承担职责"
+        },
+        {
+          "href": "#outputs",
+          "text": "工作内容"
+        },
+        {
+          "href": "#process",
+          "text": "实施方法"
+        },
+        {
+          "href": "#result",
+          "text": "验证与阶段"
+        },
+        {
+          "href": "#technical",
+          "text": "技术与实现"
+        },
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "更多项目 ↗"
+        }
+      ],
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schemaCount": 1,
+      "title": "扫码库存系统：入库、移库与出库案例 - Eli"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: ../about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: ../en/cases/p09.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - link \"← 返回项目库\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n  - generic: 网站与工具\n  - heading \"某家具品牌扫码库存系统\" [level=1]:\n    - generic: 某家具品牌扫码库存系统\n  - paragraph: 虚拟库存试点\n  - paragraph: 按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。\n  - figure \"查看大图 ↗\":\n    - link \"放大截图：某家具品牌扫码库存系统\":\n      - /url: ../assets/public-cases/p09.png\n      - img \"某家具品牌扫码库存系统脱敏界面展示\"\n    - link \"查看大图 ↗\":\n      - /url: ../assets/public-cases/p09.png\n  - term: 我的工作\n  - definition: 主导需求与开发，负责测试维护\n  - term: 验收边界\n  - definition: 虚拟库存通过；现场使用待核\n  - complementary:\n    - heading \"内容概览\" [level=2]\n    - navigation \"案例内容\":\n      - link \"项目背景\":\n        - /url: \"#why\"\n      - link \"承担职责\":\n        - /url: \"#role\"\n      - link \"工作内容\":\n        - /url: \"#outputs\"\n      - link \"实施方法\":\n        - /url: \"#process\"\n      - link \"验证与阶段\":\n        - /url: \"#result\"\n      - link \"技术与实现\":\n        - /url: \"#technical\"\n  - heading \"项目背景\" [level=2]\n  - paragraph: 单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。\n  - heading \"承担职责\" [level=2]\n  - paragraph: 我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。\n  - heading \"工作内容\" [level=2]\n  - paragraph: 实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。\n  - heading \"实施方法\" [level=2]\n  - paragraph: 先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。\n  - heading \"一次库存闭环\" [level=3]\n  - paragraph: 按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。\n  - table \"一次库存闭环\":\n    - rowgroup:\n      - row \"操作 A 库位 B 库位 总库存\":\n        - columnheader \"操作\"\n        - columnheader \"A 库位\"\n        - columnheader \"B 库位\"\n        - columnheader \"总库存\"\n    - rowgroup:\n      - row \"入库 10 箱 10 0 10\":\n        - rowheader \"入库 10 箱\"\n        - cell \"10\"\n        - cell \"0\"\n        - cell \"10\"\n      - row \"移库 4 箱 6 4 10\":\n        - rowheader \"移库 4 箱\"\n        - cell \"6\"\n        - cell \"4\"\n        - cell \"10\"\n      - row \"出库 3 箱 3 4 7\":\n        - rowheader \"出库 3 箱\"\n        - cell \"3\"\n        - cell \"4\"\n        - cell \"7\"\n  - paragraph: 云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。\n  - heading \"验证与阶段\" [level=2]\n  - paragraph: 2026 年 9 月 8 日的资料保留本地及云端虚拟库存验收记录。真实手机摄像头和工厂网络仍需现场验证，尚不代表工厂正式采用。\n  - heading \"技术与实现\" [level=2]\n  - list:\n    - listitem: TypeScript\n    - listitem: React\n    - listitem: Vite\n    - listitem: Cloudflare Workers\n    - listitem: D1 / SQLite\n    - listitem: Playwright\n  - paragraph: 按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。\n  - heading \"实现流程\" [level=3]\n  - list \"实现流程\":\n    - strong: 扫码与操作\n    - paragraph: React 录入与确认\n    - strong: 业务校验\n    - paragraph: Workers 处理重复提交\n    - strong: 库存变更\n    - paragraph: D1 / SQLite 核对数量\n    - strong: 纠错与回放\n    - paragraph: 撤销操作与测试核对\n  - heading \"验证范围\" [level=3]\n  - paragraph: 已有本地与云端虚拟库存测试记录；例如 10 箱入库、3 箱出库后，总量为 7 箱。真实工厂使用效果另行验证。\n  - link \"更多项目\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - text: 更多项目\n    - generic: ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "about-confirmed",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/about.html?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "body": "关于我\n\n更习惯以作品表达自己。\n\n01\n独立项目\n\n从需求推进到开发与测试。\n\n看独立开发案例\n↗\n02\n团队协作\n\n按明确职责推进项目。\n\n看团队项目案例\n↗\n业务理解，\n工程实践。\n\n先明确问题，再推进实现。\n\n从业务调研到价值复盘\n\n01 / 06\n\n业务调研\n\n观察流程，了解各岗位的重复工作与实际困难。\n\n场景筛选\n\n综合业务价值、数据条件与实施成本，确定首个场景。\n\n原型验证\n\n用可演示的方案明确流程与范围，及时收集反馈。\n\n协同迭代\n\n结合实际使用调整功能，逐步推进测试与验收。\n\n成果沉淀\n\n整理代码、文档与操作说明，做好移交和版本管理。\n\n价值复盘\n\n回顾使用效果与未解决的问题，为下一轮改进提供依据。\n\n技术与实践\n\n技术选择，落在具体项目与流程里。\n\n网页交互\nReact\nTypeScript\nVite\n查看案例\n↗\n业务系统\nJava\nSpring Boot\nVue\nMySQL\n查看案例\n↗\n云端库存\nCloudflare Workers\nD1 / SQLite\nPlaywright\n查看案例\n↗\nAI 内容工作流\nTypeScript\nNode.js\nProvider abstraction\n查看案例\n↗\n原生 iOS\nSwiftUI\nSwiftData\nStoreKit\nXCTest\n查看案例\n↗\n常见合作问题\n01\n独立开发还是团队协作？\n02\n如何查看项目的实际成果？\n03\n联系前准备什么？\n\n你的工作，也许能用 AI 提效。\n\n邮箱\n\[REDACTED_EMAIL] ↗\n\n电话\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\n微信",
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/about.html",
+      "description": "了解 Eli 的项目经历与工作方式：从需求梳理、流程设计到 AI 辅助开发、测试与交付，并查看联系邮箱、电话和微信。",
+      "h1": "关于我",
+      "links": [
+        {
+          "href": "cases/p15.html?pv=05f7213ef85c4cd8a350",
+          "text": "看独立开发案例 ↗"
+        },
+        {
+          "href": "cases/p36.html?pv=05f7213ef85c4cd8a350",
+          "text": "看团队项目案例 ↗"
+        },
+        {
+          "href": "cases/p06.html?pv=05f7213ef85c4cd8a350",
+          "text": "查看案例 ↗"
+        },
+        {
+          "href": "cases/p10.html?pv=05f7213ef85c4cd8a350",
+          "text": "查看案例 ↗"
+        },
+        {
+          "href": "cases/p09.html?pv=05f7213ef85c4cd8a350",
+          "text": "查看案例 ↗"
+        },
+        {
+          "href": "cases/p12.html?pv=05f7213ef85c4cd8a350",
+          "text": "查看案例 ↗"
+        },
+        {
+          "href": "cases/p13.html?pv=05f7213ef85c4cd8a350",
+          "text": "查看案例 ↗"
+        },
+        {
+          "href": "cases/p15.html?pv=05f7213ef85c4cd8a350",
+          "text": "PetSocial（现名 HelloTail） ↗"
+        },
+        {
+          "href": "cases/p09.html?pv=05f7213ef85c4cd8a350",
+          "text": "某家具品牌扫码库存系统 ↗"
+        },
+        {
+          "href": "cases/p36.html?pv=05f7213ef85c4cd8a350",
+          "text": "英国某净水品牌 RAG 智能客服定制 ↗"
+        },
+        {
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "href": "tel:[REDACTED_PHONE]",
+          "text": "[REDACTED_PHONE] ↗"
+        },
+        {
+          "href": "https://wa.me/[REDACTED_PHONE]",
+          "text": "[REDACTED_PHONE] ↗"
+        },
+        {
+          "href": "assets/wechat-qr.png",
+          "text": ""
+        }
+      ],
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schemaCount": 1,
+      "title": "关于 Eli - 开发经历、工作方法与联系方式"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: en/about.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - heading \"关于我\" [level=1]:\n    - generic: 关于我\n  - paragraph: 更习惯以作品表达自己。\n  - generic: \"01\"\n  - heading \"独立项目\" [level=2]\n  - paragraph: 从需求推进到开发与测试。\n  - link \"看独立开发案例\":\n    - /url: cases/p15.html?pv=05f7213ef85c4cd8a350\n    - text: 看独立开发案例\n    - generic: ↗\n  - generic: \"02\"\n  - heading \"团队协作\" [level=2]\n  - paragraph: 按明确职责推进项目。\n  - link \"看团队项目案例\":\n    - /url: cases/p36.html?pv=05f7213ef85c4cd8a350\n    - text: 看团队项目案例\n    - generic: ↗\n  - region \"业务理解， 工程实践。\":\n    - heading \"业务理解， 工程实践。\" [level=2]:\n      - text: 业务理解，\n      - text: 工程实践。\n    - paragraph: 先明确问题，再推进实现。\n    - heading \"从业务调研到价值复盘\" [level=3]\n    - paragraph:\n      - generic: \"01\"\n      - text: / 06\n    - list:\n      - heading \"业务调研\" [level=4]\n      - paragraph: 观察流程，了解各岗位的重复工作与实际困难。\n      - heading \"场景筛选\" [level=4]\n      - paragraph: 综合业务价值、数据条件与实施成本，确定首个场景。\n      - heading \"原型验证\" [level=4]\n      - paragraph: 用可演示的方案明确流程与范围，及时收集反馈。\n      - heading \"协同迭代\" [level=4]\n      - paragraph: 结合实际使用调整功能，逐步推进测试与验收。\n      - heading \"成果沉淀\" [level=4]\n      - paragraph: 整理代码、文档与操作说明，做好移交和版本管理。\n      - heading \"价值复盘\" [level=4]\n      - paragraph: 回顾使用效果与未解决的问题，为下一轮改进提供依据。\n  - heading \"技术与实践\" [level=2]\n  - paragraph: 技术选择，落在具体项目与流程里。\n  - term: 网页交互\n  - definition:\n    - list:\n      - listitem: React\n      - listitem: TypeScript\n      - listitem: Vite\n    - link \"AI 录单交互原型\":\n      - /url: cases/p06.html?pv=05f7213ef85c4cd8a350\n      - text: 查看案例\n      - generic: ↗\n  - term: 业务系统\n  - definition:\n    - list:\n      - listitem: Java\n      - listitem: Spring Boot\n      - listitem: Vue\n      - listitem: MySQL\n    - link \"洁具行业某大型 B 端厂商库存管理系统\":\n      - /url: cases/p10.html?pv=05f7213ef85c4cd8a350\n      - text: 查看案例\n      - generic: ↗\n  - term: 云端库存\n  - definition:\n    - list:\n      - listitem: Cloudflare Workers\n      - listitem: D1 / SQLite\n      - listitem: Playwright\n    - link \"某家具品牌扫码库存系统\":\n      - /url: cases/p09.html?pv=05f7213ef85c4cd8a350\n      - text: 查看案例\n      - generic: ↗\n  - term: AI 内容工作流\n  - definition:\n    - list:\n      - listitem: TypeScript\n      - listitem: Node.js\n      - listitem: Provider abstraction\n    - link \"织境 · AI 内容工作台\":\n      - /url: cases/p12.html?pv=05f7213ef85c4cd8a350\n      - text: 查看案例\n      - generic: ↗\n  - term: 原生 iOS\n  - definition:\n    - list:\n      - listitem: SwiftUI\n      - listitem: SwiftData\n      - listitem: StoreKit\n      - listitem: XCTest\n    - link \"Pocket Rove\":\n      - /url: cases/p13.html?pv=05f7213ef85c4cd8a350\n      - text: 查看案例\n      - generic: ↗\n  - region \"常见合作问题\":\n    - heading \"常见合作问题\" [level=2]\n    - generic \"独立开发还是团队协作？\":\n      - generic: \"01\"\n      - generic: 独立开发还是团队协作？\n      - generic: +\n    - generic \"如何查看项目的实际成果？\":\n      - generic: \"02\"\n      - generic: 如何查看项目的实际成果？\n      - generic: +\n    - generic \"联系前准备什么？\":\n      - generic: \"03\"\n      - generic: 联系前准备什么？\n      - generic: +\n  - paragraph: 你的工作，也许能用 AI 提效。\n  - paragraph: 邮箱\n  - link \"[REDACTED_EMAIL] ↗\":\n    - /url: mailto:[REDACTED_EMAIL]\n  - paragraph: 电话\n  - link \"[REDACTED_PHONE] ↗\":\n    - /url: tel:[REDACTED_PHONE]\n  - paragraph: WhatsApp\n  - link \"[REDACTED_PHONE] ↗\":\n    - /url: https://wa.me/[REDACTED_PHONE]\n  - figure:\n    - heading \"微信\" [level=3]\n    - link \"放大微信二维码\":\n      - /url: assets/wechat-qr.png\n      - img \"Eli 的微信二维码\"\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "rag-p36",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "body": "← 返回项目库\n客户参与\n英国某净水品牌 RAG 智能客服定制\n\n团队定制与交付\n\n面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。\n\n查看大图 ↗\n我的工作\n知识库整理、检索配置与测试\n证据范围\n本人说明、初始界面；问答为示意\n内容概览\n项目背景\n承担职责\n工作内容\n实施方法\n交付与反馈\n问答与引用示意\n已有证据与缺口\n项目背景\n\n独立站访客需要查询净水产品与品牌知识。\n\n承担职责\n\n我负责知识库整理、检索配置与测试。版本备份、上线及升级回滚准备由团队负责。\n\n工作内容\n\n客服界面提供欢迎信息、快捷支持、问答输入和联系入口。\n\n实施方法\n\n团队基于成熟底座定制，项目由咨询范围梳理、知识库与检索配置，推进至演示、客户确认和上线实测。\n\n交付与反馈\n\n据本人项目说明，约两个月完成交付；回答准确率和客服效率没有量化数据。\n\n问答与引用示意\n\n问题、答复和资料摘录均由 AI 拟写，用于解释引用及信息不足时的处理，不是客户文档、真实问答或测试结果。\n\n申请售后需要提供哪些信息？\n\nAI 拟写示意 · 非真实客服记录\n\n示意答复：示意资料要求提供产品型号、问题描述和购买凭证，未规定处理时限，因此不能承诺解决时间。\n\n示意资料 A（AI 拟写） ↓\n\n“售后咨询需提供产品型号、问题描述及购买凭证。客服核对信息后跟进。本条资料未规定处理时限。”\n\n示意资料 A（AI 拟写）\n这个型号的滤芯能去除铅吗？\n\nAI 拟写示意 · 非真实客服记录\n\n示意答复：示意资料没有该型号的污染物测试结果，不能确认。需核对对应检测报告或转人工客服，不能从其他型号推断。\n\n示意资料 B（AI 拟写） ↓\n\n“本条资料介绍安装方式与配件清单，不包含污染物去除测试结果。”\n\n示意资料 B（AI 拟写）\n已有证据与缺口\n\n已有本人职责说明及 2026 年 10 月 6 日客服初始截图；该次未发送问题，图片只能证明界面与入口。\n\n真实问答、知识库原文、检索参数与命中记录、测试题集及失败修正对照尚缺。示意不替代这些证据，也不证明客户采用或业务收益。\n\n企业客户项目合作 ↗\n\n英国某净水品牌全域营销 ↗\n\n更多项目\n↗",
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html",
+      "description": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。 问答为 AI 拟写示意，非真实客服记录。",
+      "h1": "英国某净水品牌 RAG 智能客服定制",
+      "links": [
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "← 返回项目库"
+        },
+        {
+          "href": "../assets/public-cases/p36.png",
+          "text": ""
+        },
+        {
+          "href": "../assets/public-cases/p36.png",
+          "text": "查看大图 ↗"
+        },
+        {
+          "href": "#why",
+          "text": "项目背景"
+        },
+        {
+          "href": "#role",
+          "text": "承担职责"
+        },
+        {
+          "href": "#outputs",
+          "text": "工作内容"
+        },
+        {
+          "href": "#process",
+          "text": "实施方法"
+        },
+        {
+          "href": "#result",
+          "text": "交付与反馈"
+        },
+        {
+          "href": "#qa",
+          "text": "问答与引用示意"
+        },
+        {
+          "href": "#evidence",
+          "text": "已有证据与缺口"
+        },
+        {
+          "href": "#rag-demo-source-a",
+          "text": "示意资料 A（AI 拟写） ↓"
+        },
+        {
+          "href": "#rag-demo-source-b",
+          "text": "示意资料 B（AI 拟写） ↓"
+        },
+        {
+          "href": "p01.html?pv=05f7213ef85c4cd8a350",
+          "text": "企业客户项目合作 ↗"
+        },
+        {
+          "href": "p05.html?pv=05f7213ef85c4cd8a350",
+          "text": "英国某净水品牌全域营销 ↗"
+        },
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "更多项目 ↗"
+        }
+      ],
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schemaCount": 1,
+      "title": "RAG 智能客服定制：知识库与检索实践 - Eli"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: ../about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: ../en/cases/p36.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - link \"← 返回项目库\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n  - generic: 客户参与\n  - heading \"英国某净水品牌 RAG 智能客服定制\" [level=1]:\n    - generic: 英国某净水品牌 RAG 智能客服定制\n  - paragraph: 团队定制与交付\n  - paragraph: 面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。\n  - figure \"查看大图 ↗\":\n    - link \"放大截图：英国某净水品牌 RAG 智能客服定制\":\n      - /url: ../assets/public-cases/p36.png\n      - img \"英国某净水品牌 RAG 智能客服定制脱敏界面展示\"\n    - link \"查看大图 ↗\":\n      - /url: ../assets/public-cases/p36.png\n  - term: 我的工作\n  - definition: 知识库整理、检索配置与测试\n  - term: 证据范围\n  - definition: 本人说明、初始界面；问答为示意\n  - complementary:\n    - heading \"内容概览\" [level=2]\n    - navigation \"案例内容\":\n      - link \"项目背景\":\n        - /url: \"#why\"\n      - link \"承担职责\":\n        - /url: \"#role\"\n      - link \"工作内容\":\n        - /url: \"#outputs\"\n      - link \"实施方法\":\n        - /url: \"#process\"\n      - link \"交付与反馈\":\n        - /url: \"#result\"\n      - link \"问答与引用示意\":\n        - /url: \"#qa\"\n      - link \"已有证据与缺口\":\n        - /url: \"#evidence\"\n  - heading \"项目背景\" [level=2]\n  - paragraph: 独立站访客需要查询净水产品与品牌知识。\n  - heading \"承担职责\" [level=2]\n  - paragraph: 我负责知识库整理、检索配置与测试。版本备份、上线及升级回滚准备由团队负责。\n  - heading \"工作内容\" [level=2]\n  - paragraph: 客服界面提供欢迎信息、快捷支持、问答输入和联系入口。\n  - heading \"实施方法\" [level=2]\n  - paragraph: 团队基于成熟底座定制，项目由咨询范围梳理、知识库与检索配置，推进至演示、客户确认和上线实测。\n  - heading \"交付与反馈\" [level=2]\n  - paragraph: 据本人项目说明，约两个月完成交付；回答准确率和客服效率没有量化数据。\n  - heading \"问答与引用示意\" [level=2]\n  - paragraph: 问题、答复和资料摘录均由 AI 拟写，用于解释引用及信息不足时的处理，不是客户文档、真实问答或测试结果。\n  - article:\n    - heading \"申请售后需要提供哪些信息？\" [level=3]\n    - paragraph: AI 拟写示意 · 非真实客服记录\n    - paragraph:\n      - strong: 示意答复：\n      - text: 示意资料要求提供产品型号、问题描述和购买凭证，未规定处理时限，因此不能承诺解决时间。\n    - paragraph:\n      - link \"示意资料 A（AI 拟写） ↓\":\n        - /url: \"#rag-demo-source-a\"\n    - blockquote:\n      - paragraph: “售后咨询需提供产品型号、问题描述及购买凭证。客服核对信息后跟进。本条资料未规定处理时限。”\n      - text: 示意资料 A（AI 拟写）\n  - article:\n    - heading \"这个型号的滤芯能去除铅吗？\" [level=3]\n    - paragraph: AI 拟写示意 · 非真实客服记录\n    - paragraph:\n      - strong: 示意答复：\n      - text: 示意资料没有该型号的污染物测试结果，不能确认。需核对对应检测报告或转人工客服，不能从其他型号推断。\n    - paragraph:\n      - link \"示意资料 B（AI 拟写） ↓\":\n        - /url: \"#rag-demo-source-b\"\n    - blockquote:\n      - paragraph: “本条资料介绍安装方式与配件清单，不包含污染物去除测试结果。”\n      - text: 示意资料 B（AI 拟写）\n  - heading \"已有证据与缺口\" [level=2]\n  - paragraph: 已有本人职责说明及 2026 年 10 月 6 日客服初始截图；该次未发送问题，图片只能证明界面与入口。\n  - paragraph: 真实问答、知识库原文、检索参数与命中记录、测试题集及失败修正对照尚缺。示意不替代这些证据，也不证明客户采用或业务收益。\n  - paragraph:\n    - link \"企业客户项目合作 ↗\":\n      - /url: p01.html?pv=05f7213ef85c4cd8a350\n  - paragraph:\n    - link \"英国某净水品牌全域营销 ↗\":\n      - /url: p05.html?pv=05f7213ef85c4cd8a350\n  - link \"更多项目\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - text: 更多项目\n    - generic: ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "records",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=05f7213ef85c4cd8a350",
+    "meta": {
+      "body": "项目索引\n\n客户项目、产品实践与专题研究。\n\n全部\n客户项目\n网站与工具\n移动应用\n内容与研究\n方法与工具\n搜索项目\n\n38 项记录\n\nP10\n网站与工具\n洁具行业某大型 B 端厂商库存管理系统\n独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。\n↗\nP36\n客户参与\n英国某净水品牌 RAG 智能客服定制\n参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\n↗\nP09\n网站与工具\n某家具品牌扫码库存系统\n主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。\n↗\nP04\n客户参与\n某律师事务所 OA 系统\n依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。\n↗\nP02\n客户参与\n深圳某慈善基金会\n参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。\n↗\nP12\n网站与工具\n织境 · AI 内容工作台\n主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。\n↗\nP05\n客户参与\n英国某净水品牌全域营销\n参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。\n↗\nP01\n方法与支持\n企业客户项目合作\n参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。\n↗\nP03\n客户参与\n深圳某律师事务所\n参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。\n↗\nP06\n网站与工具\nAI 录单交互原型\n制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。\n↗\nP07\n网站与工具\n某家具品牌官网\n主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。\n↗\nP08\n网站与工具\n某家具品牌产品目录\n整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。\n↗\nP11\n网站与工具\n英国／澳大利亚小商户网站改版与获客实验\n整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。\n↗\nP13\nApp 实践\nPocket Rove\n主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。\n↗\nP14\nApp 实践\nFocumi\n开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。\n↗\nP15\nApp 实践\nPetSocial（现名 HelloTail）\n开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。\n↗\nP16\nApp 实践\nLocalStamp · 地点水印相机\n制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。\n↗\nP17\nApp 实践\n周易留白 · 阅读原型\n制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。\n↗\nP18\nApp 实践\n学习时长提醒原型\n制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。\n↗\nP19\nApp 实践\n发型试戴与发型师参考卡\n制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。\n↗\nP20\n网站与工具\nClaimFlow · 理赔产品概念页\n制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。\n↗\nP21\n内容与研究\n自动挂单流程修复\n修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。\n↗\nP22\n内容与研究\n跨交易所盘口价差取证系统\n搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。\n↗\nP23\n内容与研究\n策略研究框架\n构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。\n↗\nP24\n内容与研究\nSerenity · 公司与产业研究\n整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。\n↗\nP25\nApp 实践\n个性化AI新闻简报\n梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。\n↗\nP26\n内容与研究\nAI短视频制作与App推广资产\n把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。\n↗\nP27\n内容与研究\n无脸播客／真实历史奇事频道研究\n研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。\n↗\nP28\n内容与研究\n独立App机会与海外本土化研究\n围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。\n↗\nP29\n内容与研究\nAI Project Radar · 项目情报\n整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。\n↗\nP30\n方法与支持\nAI 协作规则与工作方式\n整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。\n↗\nP31\n方法与支持\nMac磁盘审计与安全清理\n按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。\n↗\nP32\n方法与支持\nSkills 与知识整理\n整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。\n↗\nP33\n方法与支持\nOx Alpha · 远程模型客户端\n制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。\n↗\nP34\n方法与支持\nUpwork／UUMIT · 合作准备\n整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。\n↗\nP35\n内容与研究\n化工毕业论文与资料整理\n整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。\n↗\nN01\nApp 实践\nAPNs 远程通知验证\n搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。\n↗\nN02\n内容与研究\nOpenAI DevDay · 官方内容研究\n建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。\n↗",
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/records.html",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。",
+      "h1": "项目索引",
+      "links": [
+        {
+          "href": "cases/p10.html?pv=05f7213ef85c4cd8a350",
+          "text": "P10 网站与工具洁具行业某大型 B 端厂商库存管理系统\n    独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。\n    ↗"
+        },
+        {
+          "href": "cases/p36.html?pv=05f7213ef85c4cd8a350",
+          "text": "P36 客户参与英国某净水品牌 RAG 智能客服定制\n    参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\n    ↗"
+        },
+        {
+          "href": "cases/p09.html?pv=05f7213ef85c4cd8a350",
+          "text": "P09 网站与工具某家具品牌扫码库存系统\n    主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。\n    ↗"
+        },
+        {
+          "href": "cases/p04.html?pv=05f7213ef85c4cd8a350",
+          "text": "P04 客户参与某律师事务所 OA 系统\n    依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。\n    ↗"
+        },
+        {
+          "href": "cases/p02.html?pv=05f7213ef85c4cd8a350",
+          "text": "P02 客户参与深圳某慈善基金会\n    参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。\n    ↗"
+        },
+        {
+          "href": "cases/p12.html?pv=05f7213ef85c4cd8a350",
+          "text": "P12 网站与工具织境 · AI 内容工作台\n    主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。\n    ↗"
+        },
+        {
+          "href": "cases/p05.html?pv=05f7213ef85c4cd8a350",
+          "text": "P05 客户参与英国某净水品牌全域营销\n    参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。\n    ↗"
+        },
+        {
+          "href": "cases/p01.html?pv=05f7213ef85c4cd8a350",
+          "text": "P01 方法与支持企业客户项目合作\n    参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。\n    ↗"
+        },
+        {
+          "href": "cases/p03.html?pv=05f7213ef85c4cd8a350",
+          "text": "P03 客户参与深圳某律师事务所\n    参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。\n    ↗"
+        },
+        {
+          "href": "cases/p06.html?pv=05f7213ef85c4cd8a350",
+          "text": "P06 网站与工具AI 录单交互原型\n    制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。\n    ↗"
+        },
+        {
+          "href": "cases/p07.html?pv=05f7213ef85c4cd8a350",
+          "text": "P07 网站与工具某家具品牌官网\n    主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。\n    ↗"
+        },
+        {
+          "href": "cases/p08.html?pv=05f7213ef85c4cd8a350",
+          "text": "P08 网站与工具某家具品牌产品目录\n    整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。\n    ↗"
+        },
+        {
+          "href": "cases/p11.html?pv=05f7213ef85c4cd8a350",
+          "text": "P11 网站与工具英国／澳大利亚小商户网站改版与获客实验\n    整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。\n    ↗"
+        },
+        {
+          "href": "cases/p13.html?pv=05f7213ef85c4cd8a350",
+          "text": "P13 App 实践Pocket Rove\n    主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。\n    ↗"
+        },
+        {
+          "href": "cases/p14.html?pv=05f7213ef85c4cd8a350",
+          "text": "P14 App 实践Focumi\n    开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。\n    ↗"
+        },
+        {
+          "href": "cases/p15.html?pv=05f7213ef85c4cd8a350",
+          "text": "P15 App 实践PetSocial（现名 HelloTail）\n    开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。\n    ↗"
+        },
+        {
+          "href": "cases/p16.html?pv=05f7213ef85c4cd8a350",
+          "text": "P16 App 实践LocalStamp · 地点水印相机\n    制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。\n    ↗"
+        },
+        {
+          "href": "cases/p17.html?pv=05f7213ef85c4cd8a350",
+          "text": "P17 App 实践周易留白 · 阅读原型\n    制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。\n    ↗"
+        },
+        {
+          "href": "cases/p18.html?pv=05f7213ef85c4cd8a350",
+          "text": "P18 App 实践学习时长提醒原型\n    制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。\n    ↗"
+        },
+        {
+          "href": "cases/p19.html?pv=05f7213ef85c4cd8a350",
+          "text": "P19 App 实践发型试戴与发型师参考卡\n    制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。\n    ↗"
+        },
+        {
+          "href": "cases/p20.html?pv=05f7213ef85c4cd8a350",
+          "text": "P20 网站与工具ClaimFlow · 理赔产品概念页\n    制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。\n    ↗"
+        },
+        {
+          "href": "cases/p21.html?pv=05f7213ef85c4cd8a350",
+          "text": "P21 内容与研究自动挂单流程修复\n    修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。\n    ↗"
+        },
+        {
+          "href": "cases/p22.html?pv=05f7213ef85c4cd8a350",
+          "text": "P22 内容与研究跨交易所盘口价差取证系统\n    搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。\n    ↗"
+        },
+        {
+          "href": "cases/p23.html?pv=05f7213ef85c4cd8a350",
+          "text": "P23 内容与研究策略研究框架\n    构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。\n    ↗"
+        },
+        {
+          "href": "cases/p24.html?pv=05f7213ef85c4cd8a350",
+          "text": "P24 内容与研究Serenity · 公司与产业研究\n    整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。\n    ↗"
+        },
+        {
+          "href": "cases/p25.html?pv=05f7213ef85c4cd8a350",
+          "text": "P25 App 实践个性化AI新闻简报\n    梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。\n    ↗"
+        },
+        {
+          "href": "cases/p26.html?pv=05f7213ef85c4cd8a350",
+          "text": "P26 内容与研究AI短视频制作与App推广资产\n    把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。\n    ↗"
+        },
+        {
+          "href": "cases/p27.html?pv=05f7213ef85c4cd8a350",
+          "text": "P27 内容与研究无脸播客／真实历史奇事频道研究\n    研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。\n    ↗"
+        },
+        {
+          "href": "cases/p28.html?pv=05f7213ef85c4cd8a350",
+          "text": "P28 内容与研究独立App机会与海外本土化研究\n    围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。\n    ↗"
+        },
+        {
+          "href": "cases/p29.html?pv=05f7213ef85c4cd8a350",
+          "text": "P29 内容与研究AI Project Radar · 项目情报\n    整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。\n    ↗"
+        },
+        {
+          "href": "cases/p30.html?pv=05f7213ef85c4cd8a350",
+          "text": "P30 方法与支持AI 协作规则与工作方式\n    整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。\n    ↗"
+        },
+        {
+          "href": "cases/p31.html?pv=05f7213ef85c4cd8a350",
+          "text": "P31 方法与支持Mac磁盘审计与安全清理\n    按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。\n    ↗"
+        },
+        {
+          "href": "cases/p32.html?pv=05f7213ef85c4cd8a350",
+          "text": "P32 方法与支持Skills 与知识整理\n    整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。\n    ↗"
+        },
+        {
+          "href": "cases/p33.html?pv=05f7213ef85c4cd8a350",
+          "text": "P33 方法与支持Ox Alpha · 远程模型客户端\n    制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。\n    ↗"
+        },
+        {
+          "href": "cases/p34.html?pv=05f7213ef85c4cd8a350",
+          "text": "P34 方法与支持Upwork／UUMIT · 合作准备\n    整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。\n    ↗"
+        },
+        {
+          "href": "cases/p35.html?pv=05f7213ef85c4cd8a350",
+          "text": "P35 内容与研究化工毕业论文与资料整理\n    整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。\n    ↗"
+        },
+        {
+          "href": "cases/n01.html?pv=05f7213ef85c4cd8a350",
+          "text": "N01 App 实践APNs 远程通知验证\n    搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。\n    ↗"
+        },
+        {
+          "href": "cases/n02.html?pv=05f7213ef85c4cd8a350",
+          "text": "N02 内容与研究OpenAI DevDay · 官方内容研究\n    建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。\n    ↗"
+        }
+      ],
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schemaCount": 1,
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: en/records.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - heading \"项目索引\" [level=1]:\n    - generic: 项目索引\n  - paragraph: 客户项目、产品实践与专题研究。\n  - generic \"项目分类\":\n    - button \"全部\" [pressed]\n    - button \"客户项目\"\n    - button \"网站与工具\"\n    - button \"移动应用\"\n    - button \"内容与研究\"\n    - button \"方法与工具\"\n  - generic: 搜索项目\n  - searchbox \"搜索项目\"\n  - paragraph: 38 项记录\n  - list:\n    - link \"P10 网站与工具 洁具行业某大型 B 端厂商库存管理系统 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。\":\n      - /url: cases/p10.html?pv=05f7213ef85c4cd8a350\n      - text: P10\n      - generic: 网站与工具\n      - generic: 洁具行业某大型 B 端厂商库存管理系统\n      - generic: 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。\n      - generic: ↗\n    - link \"P36 客户参与 英国某净水品牌 RAG 智能客服定制 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\":\n      - /url: cases/p36.html?pv=05f7213ef85c4cd8a350\n      - text: P36\n      - generic: 客户参与\n      - generic: 英国某净水品牌 RAG 智能客服定制\n      - generic: 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\n      - generic: ↗\n    - link \"P09 网站与工具 某家具品牌扫码库存系统 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。\":\n      - /url: cases/p09.html?pv=05f7213ef85c4cd8a350\n      - text: P09\n      - generic: 网站与工具\n      - generic: 某家具品牌扫码库存系统\n      - generic: 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。\n      - generic: ↗\n    - link \"P04 客户参与 某律师事务所 OA 系统 依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。\":\n      - /url: cases/p04.html?pv=05f7213ef85c4cd8a350\n      - text: P04\n      - generic: 客户参与\n      - generic: 某律师事务所 OA 系统\n      - generic: 依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。\n      - generic: ↗\n    - link \"P02 客户参与 深圳某慈善基金会 参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。\":\n      - /url: cases/p02.html?pv=05f7213ef85c4cd8a350\n      - text: P02\n      - generic: 客户参与\n      - generic: 深圳某慈善基金会\n      - generic: 参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。\n      - generic: ↗\n    - link \"P12 网站与工具 织境 · AI 内容工作台 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。\":\n      - /url: cases/p12.html?pv=05f7213ef85c4cd8a350\n      - text: P12\n      - generic: 网站与工具\n      - generic: 织境 · AI 内容工作台\n      - generic: 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。\n      - generic: ↗\n    - link \"P05 客户参与 英国某净水品牌全域营销 参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。\":\n      - /url: cases/p05.html?pv=05f7213ef85c4cd8a350\n      - text: P05\n      - generic: 客户参与\n      - generic: 英国某净水品牌全域营销\n      - generic: 参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。\n      - generic: ↗\n    - link \"P01 方法与支持 企业客户项目合作 参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。\":\n      - /url: cases/p01.html?pv=05f7213ef85c4cd8a350\n      - text: P01\n      - generic: 方法与支持\n      - generic: 企业客户项目合作\n      - generic: 参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。\n      - generic: ↗\n    - link \"P03 客户参与 深圳某律师事务所 参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。\":\n      - /url: cases/p03.html?pv=05f7213ef85c4cd8a350\n      - text: P03\n      - generic: 客户参与\n      - generic: 深圳某律师事务所\n      - generic: 参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。\n      - generic: ↗\n    - link \"P06 网站与工具 AI 录单交互原型 制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。\":\n      - /url: cases/p06.html?pv=05f7213ef85c4cd8a350\n      - text: P06\n      - generic: 网站与工具\n      - generic: AI 录单交互原型\n      - generic: 制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。\n      - generic: ↗\n    - link \"P07 网站与工具 某家具品牌官网 主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。\":\n      - /url: cases/p07.html?pv=05f7213ef85c4cd8a350\n      - text: P07\n      - generic: 网站与工具\n      - generic: 某家具品牌官网\n      - generic: 主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。\n      - generic: ↗\n    - link \"P08 网站与工具 某家具品牌产品目录 整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。\":\n      - /url: cases/p08.html?pv=05f7213ef85c4cd8a350\n      - text: P08\n      - generic: 网站与工具\n      - generic: 某家具品牌产品目录\n      - generic: 整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。\n      - generic: ↗\n    - link \"P11 网站与工具 英国／澳大利亚小商户网站改版与获客实验 整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。\":\n      - /url: cases/p11.html?pv=05f7213ef85c4cd8a350\n      - text: P11\n      - generic: 网站与工具\n      - generic: 英国／澳大利亚小商户网站改版与获客实验\n      - generic: 整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。\n      - generic: ↗\n    - link \"P13 App 实践 Pocket Rove 主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。\":\n      - /url: cases/p13.html?pv=05f7213ef85c4cd8a350\n      - text: P13\n      - generic: App 实践\n      - generic: Pocket Rove\n      - generic: 主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。\n      - generic: ↗\n    - link \"P14 App 实践 Focumi 开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。\":\n      - /url: cases/p14.html?pv=05f7213ef85c4cd8a350\n      - text: P14\n      - generic: App 实践\n      - generic: Focumi\n      - generic: 开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。\n      - generic: ↗\n    - link \"P15 App 实践 PetSocial（现名 HelloTail） 开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。\":\n      - /url: cases/p15.html?pv=05f7213ef85c4cd8a350\n      - text: P15\n      - generic: App 实践\n      - generic: PetSocial（现名 HelloTail）\n      - generic: 开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。\n      - generic: ↗\n    - link \"P16 App 实践 LocalStamp · 地点水印相机 制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。\":\n      - /url: cases/p16.html?pv=05f7213ef85c4cd8a350\n      - text: P16\n      - generic: App 实践\n      - generic: LocalStamp · 地点水印相机\n      - generic: 制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。\n      - generic: ↗\n    - link \"P17 App 实践 周易留白 · 阅读原型 制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。\":\n      - /url: cases/p17.html?pv=05f7213ef85c4cd8a350\n      - text: P17\n      - generic: App 实践\n      - generic: 周易留白 · 阅读原型\n      - generic: 制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。\n      - generic: ↗\n    - link \"P18 App 实践 学习时长提醒原型 制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。\":\n      - /url: cases/p18.html?pv=05f7213ef85c4cd8a350\n      - text: P18\n      - generic: App 实践\n      - generic: 学习时长提醒原型\n      - generic: 制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。\n      - generic: ↗\n    - link \"P19 App 实践 发型试戴与发型师参考卡 制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。\":\n      - /url: cases/p19.html?pv=05f7213ef85c4cd8a350\n      - text: P19\n      - generic: App 实践\n      - generic: 发型试戴与发型师参考卡\n      - generic: 制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。\n      - generic: ↗\n    - link \"P20 网站与工具 ClaimFlow · 理赔产品概念页 制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。\":\n      - /url: cases/p20.html?pv=05f7213ef85c4cd8a350\n      - text: P20\n      - generic: 网站与工具\n      - generic: ClaimFlow · 理赔产品概念页\n      - generic: 制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。\n      - generic: ↗\n    - link \"P21 内容与研究 自动挂单流程修复 修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。\":\n      - /url: cases/p21.html?pv=05f7213ef85c4cd8a350\n      - text: P21\n      - generic: 内容与研究\n      - generic: 自动挂单流程修复\n      - generic: 修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。\n      - generic: ↗\n    - link \"P22 内容与研究 跨交易所盘口价差取证系统 搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。\":\n      - /url: cases/p22.html?pv=05f7213ef85c4cd8a350\n      - text: P22\n      - generic: 内容与研究\n      - generic: 跨交易所盘口价差取证系统\n      - generic: 搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。\n      - generic: ↗\n    - link \"P23 内容与研究 策略研究框架 构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。\":\n      - /url: cases/p23.html?pv=05f7213ef85c4cd8a350\n      - text: P23\n      - generic: 内容与研究\n      - generic: 策略研究框架\n      - generic: 构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。\n      - generic: ↗\n    - link \"P24 内容与研究 Serenity · 公司与产业研究 整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。\":\n      - /url: cases/p24.html?pv=05f7213ef85c4cd8a350\n      - text: P24\n      - generic: 内容与研究\n      - generic: Serenity · 公司与产业研究\n      - generic: 整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。\n      - generic: ↗\n    - link \"P25 App 实践 个性化AI新闻简报 梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。\":\n      - /url: cases/p25.html?pv=05f7213ef85c4cd8a350\n      - text: P25\n      - generic: App 实践\n      - generic: 个性化AI新闻简报\n      - generic: 梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。\n      - generic: ↗\n    - link \"P26 内容与研究 AI短视频制作与App推广资产 把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。\":\n      - /url: cases/p26.html?pv=05f7213ef85c4cd8a350\n      - text: P26\n      - generic: 内容与研究\n      - generic: AI短视频制作与App推广资产\n      - generic: 把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。\n      - generic: ↗\n    - link \"P27 内容与研究 无脸播客／真实历史奇事频道研究 研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。\":\n      - /url: cases/p27.html?pv=05f7213ef85c4cd8a350\n      - text: P27\n      - generic: 内容与研究\n      - generic: 无脸播客／真实历史奇事频道研究\n      - generic: 研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。\n      - generic: ↗\n    - link \"P28 内容与研究 独立App机会与海外本土化研究 围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。\":\n      - /url: cases/p28.html?pv=05f7213ef85c4cd8a350\n      - text: P28\n      - generic: 内容与研究\n      - generic: 独立App机会与海外本土化研究\n      - generic: 围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。\n      - generic: ↗\n    - link \"P29 内容与研究 AI Project Radar · 项目情报 整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。\":\n      - /url: cases/p29.html?pv=05f7213ef85c4cd8a350\n      - text: P29\n      - generic: 内容与研究\n      - generic: AI Project Radar · 项目情报\n      - generic: 整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。\n      - generic: ↗\n    - link \"P30 方法与支持 AI 协作规则与工作方式 整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。\":\n      - /url: cases/p30.html?pv=05f7213ef85c4cd8a350\n      - text: P30\n      - generic: 方法与支持\n      - generic: AI 协作规则与工作方式\n      - generic: 整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。\n      - generic: ↗\n    - link \"P31 方法与支持 Mac磁盘审计与安全清理 按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。\":\n      - /url: cases/p31.html?pv=05f7213ef85c4cd8a350\n      - text: P31\n      - generic: 方法与支持\n      - generic: Mac磁盘审计与安全清理\n      - generic: 按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。\n      - generic: ↗\n    - link \"P32 方法与支持 Skills 与知识整理 整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。\":\n      - /url: cases/p32.html?pv=05f7213ef85c4cd8a350\n      - text: P32\n      - generic: 方法与支持\n      - generic: Skills 与知识整理\n      - generic: 整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。\n      - generic: ↗\n    - link \"P33 方法与支持 Ox Alpha · 远程模型客户端 制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。\":\n      - /url: cases/p33.html?pv=05f7213ef85c4cd8a350\n      - text: P33\n      - generic: 方法与支持\n      - generic: Ox Alpha · 远程模型客户端\n      - generic: 制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。\n      - generic: ↗\n    - link \"P34 方法与支持 Upwork／UUMIT · 合作准备 整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。\":\n      - /url: cases/p34.html?pv=05f7213ef85c4cd8a350\n      - text: P34\n      - generic: 方法与支持\n      - generic: Upwork／UUMIT · 合作准备\n      - generic: 整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。\n      - generic: ↗\n    - link \"P35 内容与研究 化工毕业论文与资料整理 整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。\":\n      - /url: cases/p35.html?pv=05f7213ef85c4cd8a350\n      - text: P35\n      - generic: 内容与研究\n      - generic: 化工毕业论文与资料整理\n      - generic: 整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。\n      - generic: ↗\n    - link \"N01 App 实践 APNs 远程通知验证 搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。\":\n      - /url: cases/n01.html?pv=05f7213ef85c4cd8a350\n      - text: N01\n      - generic: App 实践\n      - generic: APNs 远程通知验证\n      - generic: 搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。\n      - generic: ↗\n    - link \"N02 内容与研究 OpenAI DevDay · 官方内容研究 建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。\":\n      - /url: cases/n02.html?pv=05f7213ef85c4cd8a350\n      - text: N02\n      - generic: 内容与研究\n      - generic: OpenAI DevDay · 官方内容研究\n      - generic: 建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。\n      - generic: ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  },
+  {
+    "name": "website-p07",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p07.html?pv=05f7213ef85c4cd8a350&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D05f7213ef85c4cd8a350%26q%3D%25E7%25BD%2591%25E7%25AB%2599%26return%3Dp07",
+    "meta": {
+      "body": "← 返回项目库\n网站与工具\n某家具品牌官网\n\n以英文网站呈现产品、工厂、品牌与图库，提供语言切换入口。\n\n查看大图 ↗\n我的工作\n主导需求、开发、测试与维护\n内容概览\n项目背景\n承担职责\n工作内容\n项目背景\n\n让国际采购商能通过网站了解产品、工厂和品牌。\n\n承担职责\n\n主导需求分析与流程设计，以 AI 辅助开发，并承担测试与后续维护。\n\n工作内容\n\n英文品牌前台、产品与工厂信息、图库和语言切换。\n\n某家具品牌产品目录 ↗\n\n更多项目\n↗",
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/cases/p07.html",
+      "description": "主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。",
+      "h1": "某家具品牌官网",
+      "links": [
+        {
+          "href": "/sites/portfolio/records.html?pv=05f7213ef85c4cd8a350&q=%E7%BD%91%E7%AB%99&return=p07",
+          "text": "← 返回项目库"
+        },
+        {
+          "href": "../assets/public-cases/p07.png",
+          "text": ""
+        },
+        {
+          "href": "../assets/public-cases/p07.png",
+          "text": "查看大图 ↗"
+        },
+        {
+          "href": "#why",
+          "text": "项目背景"
+        },
+        {
+          "href": "#role",
+          "text": "承担职责"
+        },
+        {
+          "href": "#outputs",
+          "text": "工作内容"
+        },
+        {
+          "href": "/sites/portfolio/cases/p08.html?pv=05f7213ef85c4cd8a350&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D05f7213ef85c4cd8a350%26q%3D%25E7%25BD%2591%25E7%25AB%2599%26return%3Dp07",
+          "text": "某家具品牌产品目录 ↗"
+        },
+        {
+          "href": "../records.html?pv=05f7213ef85c4cd8a350",
+          "text": "更多项目 ↗"
+        }
+      ],
+      "revision": "05f7213ef85c4cd8a350",
+      "robots": "noindex,nofollow",
+      "schemaCount": 1,
+      "title": "某家具品牌官网案例 - Eli"
+    },
+    "dom": "- link \"跳到正文\":\n  - /url: \"#main\"\n- banner:\n  - link \"Eli首页\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - generic: \"*\"\n    - generic: Eli\n  - navigation \"主导航\":\n    - link \"首页\":\n      - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - link \"项目库\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"关于\":\n      - /url: ../about.html?pv=05f7213ef85c4cd8a350\n    - link \"切换到英文版\":\n      - /url: ../en/cases/p07.html?pv=05f7213ef85c4cd8a350\n      - text: EN\n- main:\n  - link \"← 返回项目库\":\n    - /url: /sites/portfolio/records.html?pv=05f7213ef85c4cd8a350&q=%E7%BD%91%E7%AB%99&return=p07\n  - generic: 网站与工具\n  - heading \"某家具品牌官网\" [level=1]:\n    - generic: 某家具品牌官网\n  - paragraph: 以英文网站呈现产品、工厂、品牌与图库，提供语言切换入口。\n  - figure \"查看大图 ↗\":\n    - link \"放大截图：某家具品牌官网\":\n      - /url: ../assets/public-cases/p07.png\n      - img \"某家具品牌官网脱敏界面展示\"\n    - link \"查看大图 ↗\":\n      - /url: ../assets/public-cases/p07.png\n  - term: 我的工作\n  - definition: 主导需求、开发、测试与维护\n  - complementary:\n    - heading \"内容概览\" [level=2]\n    - navigation \"案例内容\":\n      - link \"项目背景\":\n        - /url: \"#why\"\n      - link \"承担职责\":\n        - /url: \"#role\"\n      - link \"工作内容\":\n        - /url: \"#outputs\"\n  - heading \"项目背景\" [level=2]\n  - paragraph: 让国际采购商能通过网站了解产品、工厂和品牌。\n  - heading \"承担职责\" [level=2]\n  - paragraph: 主导需求分析与流程设计，以 AI 辅助开发，并承担测试与后续维护。\n  - heading \"工作内容\" [level=2]\n  - paragraph: 英文品牌前台、产品与工厂信息、图库和语言切换。\n  - paragraph:\n    - link \"某家具品牌产品目录 ↗\":\n      - /url: /sites/portfolio/cases/p08.html?pv=05f7213ef85c4cd8a350&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D05f7213ef85c4cd8a350%26q%3D%25E7%25BD%2591%25E7%25AB%2599%26return%3Dp07\n  - link \"更多项目\":\n    - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - text: 更多项目\n    - generic: ↗\n- contentinfo:\n  - link \"Eli FDE / SELECTED WORK\":\n    - /url: ../index.html?pv=05f7213ef85c4cd8a350\n    - text: Eli\n    - generic: FDE / SELECTED WORK\n  - generic \"联系方式\":\n    - paragraph: 邮箱\n    - link \"[REDACTED_EMAIL] ↗\":\n      - /url: mailto:[REDACTED_EMAIL]\n    - paragraph: 电话\n    - link \"[REDACTED_PHONE] ↗\":\n      - /url: tel:[REDACTED_PHONE]\n  - navigation \"页面导航\":\n    - link \"项目库 ↗\":\n      - /url: ../records.html?pv=05f7213ef85c4cd8a350\n    - link \"回到顶部 ↑\":\n      - /url: \"#main\"\n  - navigation \"社交主页\":\n    - link \"小红书\":\n      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\n      - generic: 小红书\n    - link \"B站\":\n      - /url: https://space.bilibili.com/432834855\n      - generic: B站\n    - link \"抖音\":\n      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\n      - generic: 抖音\n    - link \"YouTube\":\n      - /url: https://www.youtube.com/@EliChao-m9o6r\n      - generic: YouTube\n    - link \"LinkedIn\":\n      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/\n      - generic: LinkedIn\n    - link \"X\":\n      - /url: https://x.com/cczij1112\n      - generic: X\n    - link \"微博\":\n      - /url: https://weibo.com/u/7720929036\n      - generic: 微博\n    - link \"TikTok\":\n      - /url: https://www.tiktok.com/@elimakesapps\n      - generic: TikTok\n    - link \"Instagram\":\n      - /url: https://www.instagram.com/eliaifde/\n      - generic: Instagram\n    - link \"Facebook\":\n      - /url: https://www.facebook.com/profile.php?id=61594512757125\n      - generic: Facebook"
+  }
+]

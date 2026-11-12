@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-16",
+  "property": "https://www.eliai.cn/",
+  "scope": "User asks to continue Google, Bing and Baidu; Shenma registration and360 forum paused; preserve visual/motion",
+  "Google": {
+    "sitemap": "SUCCESS",
+    "discovered": 82,
+    "inspected_indexed_urls": [
+      "https://www.eliai.cn/",
+      "https://www.eliai.cn/about.html",
+      "https://www.eliai.cn/records.html",
+      "https://www.eliai.cn/cases/p10.html",
+      "https://www.eliai.cn/cases/p36.html"
+    ],
+    "total_indexed": "UNKNOWN",
+    "new_submissions": 0,
+    "evidence": [
+      "google-home-indexed.png",
+      "google-about-indexed.png",
+      "google-records-indexed.png",
+      "google-sitemap-success82.png",
+      "google-p10-indexed.png",
+      "google-p36-indexed.png"
+    ],
+    "coverage_report": "Processing; no complete sitewide indexed count yet",
+    "case_breadcrumbs": "P10 and P36 each1 valid Breadcrumb item per native inspection"
+  },
+  "Bing": {
+    "sitemap": "SUCCESS",
+    "discovered": 82,
+    "errors": 0,
+    "warnings": 0,
+    "site_scan_quota": 0,
+    "site_scan_started": false,
+    "url_inspection": "Native entry now opens successfully; Inspect and Enter returned no result, indexed state UNKNOWN; stopped repeating",
+    "evidence": [
+      "bing-scan-quota0.png",
+      "bing-82-submitted.png"
+    ],
+    "direct_url_submission": {
+      "status": "SUCCESS",
+      "count": 82,
+      "attempts": 1,
+      "quota_before": 100,
+      "quota_after": 18,
+      "native_receipt": "Success: 82 URLs submitted Succesfully",
+      "list_total": 82,
+      "submission_date": "2026-10-16",
+      "submission_time_displayed": "10:17",
+      "indexed": "UNKNOWN"
+    }
+  },
+  "Yandex": {
+    "sitemap": "BLOCKED_PLATFORM_READ_ONLY",
+    "add_disabled": true
+  },
+  "Shenma": {
+    "registration": "DEFERRED_BY_USER",
+    "submission": "NOT_STARTED"
+  },
+  "Baidu": {
+    "subject_submission_receipt": "Submitted,2-5business-day review; observed this turn; current approval not established",
+    "crawl_diagnostic": {
+      "url": "https://www.eliai.cn/index.html",
+      "ua": "PC",
+      "status": "FAILED_DNS_RESOLUTION",
+      "quota_displayed": 70,
+      "evidence": "baidu-dns-crawl-failed.png",
+      "time_displayed": "2026-10-16 10:19:29",
+      "duration_seconds": 0.002,
+      "detail_id": "424107756",
+      "error": "DNS无法解析IP",
+      "quota_remaining": 69
+    },
+    "new_url_submissions": 0,
+    "sitemap_quota": "Previously0; not revisited while diagnostic challenge pending",
+    "dns_refresh": {
+      "action": "Native 网站IP 报错 clicked once",
+      "receipt": "已反馈，预计几分钟内完成更新",
+      "status": "NATIVE_REFRESH_ACCEPTED_THEN_SAME_URL_PC_RETEST_SUCCEEDED; no site DNS changes",
+      "evidence": "baidu-dns-update-requested.png"
+    },
+    "dns_crosscheck": {
+      "file": "baidu-dns-crosscheck.json",
+      "providers": [
+        "AliDNS",
+        "Google",
+        "Cloudflare"
+      ],
+      "www_A": "[REDACTED_HOST]",
+      "apex_A": "[REDACTED_HOST]",
+      "AAAA": "NOERROR no answer; IPv4-only not treated as failure",
+      "direct_authoritative": "Not verified; local dig intercepted by fake-IP; discarded as public DNS evidence"
+    },
+    "robots": {
+      "status": "EFFECTIVE_NO_ERRORS",
+      "native_receipts": [
+        "您的Robots文件已生效",
+        "robots没有错误"
+      ],
+      "body": "User-agent: *\nAllow: /\nSitemap: https://www.eliai.cn/sitemap.xml\n",
+      "evidence": "baidu-robots-effective.png"
+    },
+    "diagnostic_retest": {
+      "url": "https://www.eliai.cn/index.html",
+      "ua": "PC",
+      "status": "SUCCESS",
+      "detail_id": "424108167",
+      "time_displayed": "2026-10-16 10:28:04",
+      "http_status": 200,
+      "download_seconds": 0.048,
+      "robots": "index,follow",
+      "canonical": "https://www.eliai.cn/",
+      "body_and_title": "VISIBLE_IN_NATIVE_CAPTURE",
+      "dns_error": false,
+      "quota_remaining": 68,
+      "evidence": [
+        "baidu-crawl-success-list.png",
+        "baidu-crawl-success-detail.png",
+        "baidu-success-receipt.json"
+      ]
+    },
+    "indexing": "Not established by successful diagnostic; subject review still pending per last receipt"
+  },
+  "Sogou": {
+    "status": "MANUAL_SUBMISSION_REMAINS_PAUSED",
+    "confirmed_last_batch_count": 60,
+    "source": "Prior receipts, not rechecked this turn"
+  },
+  "website_changes": false,
+  "server_changes": false,
+  "forum_post_published": false,
+  "created_files_purpose": "This directory contains retained browser verification evidence and this receipt; no disposable intermediates",
+  "live_public_audit": {
+    "file": "live-public-seo-audit.json",
+    "pages_checked": 82,
+    "issues": 0,
+    "images_missing_alt": 0,
+    "scope": "HTTP availability,unique titles/descriptions,canonical,robots,index directive,h1,hreflang reciprocity,JSON-LD syntax; not rendered performance/full content quality audit"
+  },
+  "next_action": "Await Baidu subject review and indexing; no further CAPTCHA or submission needed for this completed diagnostic"
+}

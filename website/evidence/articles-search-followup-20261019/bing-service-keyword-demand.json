@@ -1,0 +1,91 @@
+{
+  "checked_at": "2026-10-19T15:51:35.342611+08:00",
+  "source": "Bing Webmaster Tools native Keyword Research",
+  "country": "People's Republic of China",
+  "language": "All",
+  "device": "All",
+  "duration": "3 M",
+  "distinct_root_keywords_queried": 4,
+  "country_refinement_of_first_root": true,
+  "rows": [
+    {
+      "keyword": "企业知识库",
+      "ui_metric": "Impressions",
+      "value": 535,
+      "window_display": "19 Jul 2026–16 Oct 2026",
+      "evidence": "bing-keyword-enterprise-knowledge-base-cn.txt"
+    },
+    {
+      "keyword": "企业知识库搭建",
+      "ui_metric": "Related keyword Impressions",
+      "value": 56,
+      "window_display": "19 Jul 2026–16 Oct 2026",
+      "evidence": "bing-keyword-enterprise-knowledge-base-cn.txt"
+    },
+    {
+      "keyword": "rag知识库搭建",
+      "ui_metric": "Related keyword Impressions",
+      "value": 404,
+      "window_display": "19 Jul 2026–16 Oct 2026",
+      "evidence": "bing-keyword-enterprise-knowledge-base-cn.txt"
+    },
+    {
+      "keyword": "库存核对",
+      "value": null,
+      "status": "INSUFFICIENT_DATA_NOT_ZERO",
+      "duration_selected": "3 M",
+      "explicit_date_range_display": "NOT_SHOWN",
+      "evidence": "bing-keyword-inventory-reconciliation-cn.txt"
+    },
+    {
+      "keyword": "AI实施",
+      "value": null,
+      "status": "INSUFFICIENT_DATA_NOT_ZERO",
+      "duration_selected": "3 M",
+      "explicit_date_range_display": "NOT_SHOWN",
+      "evidence": "bing-keyword-ai-implementation-cn.txt"
+    },
+    {
+      "keyword": "企业提效",
+      "value": null,
+      "status": "INSUFFICIENT_DATA_NOT_ZERO",
+      "duration_selected": "3 M",
+      "explicit_date_range_display": "NOT_SHOWN",
+      "evidence": "bing-keyword-business-efficiency-cn.txt"
+    }
+  ],
+  "global_control": {
+    "keyword": "企业知识库",
+    "all_countries_impressions": 647,
+    "related_enterprise_kb_setup": 65,
+    "evidence": "bing-keyword-enterprise-knowledge-base-all.txt"
+  },
+  "limits": [
+    "Bing market keyword demand, not eliai.cn Search Performance, unique people or natural traffic.",
+    "Not Google/Baidu volume, monthly average, buyer identity or purchase intent proof.",
+    "Do not sum related keyword metrics or infer zero from insufficient data.",
+    "Top URL panel is not a target-site rank audit."
+  ],
+  "official_help": "https://www.bing.com/webmasters/help/keyword-research-628070b6",
+  "source_hashes": {
+    "bing-keyword-enterprise-knowledge-base-all.txt": "9558650123a4a80e78171596db4ddb0dc04d85555e3973a7e99ef992bb491396",
+    "bing-keyword-enterprise-knowledge-base-cn.txt": "85bdac55b40ad1804e5ebff80c8caa868ad0a7d460d77005ac62cbf37f91759c",
+    "bing-keyword-inventory-reconciliation-cn.txt": "9f1ac95b73d2d6cc36dd8331824f68f907d1cd85d4807030cf7619bf74735c63",
+    "bing-keyword-ai-implementation-cn.txt": "341aa545de5a0f16d6402c3175a1abb58165f2f4c8825c3e77462ee7f23dba50",
+    "bing-keyword-business-efficiency-cn.txt": "65d62c259dbcb96c3742f42e7190bc6b96092160961be3fb00df6f6caf66bb07",
+    "bing-keyword-research-official-help.txt": "6a5bcd647706f8ee017fac10d4639a6ecb73eec17de9410229ea81d3773b058c"
+  },
+  "screenshots": [
+    "bing-keyword-enterprise-knowledge-base-all.jpg",
+    "bing-keyword-enterprise-knowledge-base-cn.jpg",
+    "bing-keyword-inventory-reconciliation-cn.jpg",
+    "bing-keyword-ai-implementation-cn.jpg",
+    "bing-keyword-business-efficiency-cn.jpg"
+  ],
+  "evidence_format_note": "Native screenshot bytes are JPEG; corrected the five new evidence filenames before verification. No image edit or website change.",
+  "website_changes": 0,
+  "search_submissions": 0,
+  "active_model_queries": 0,
+  "emails_sent": 0,
+  "paid_changes": 0
+}

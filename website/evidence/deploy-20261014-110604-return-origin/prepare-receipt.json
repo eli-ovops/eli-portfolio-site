@@ -1,0 +1,10 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261014-110604-return-origin",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-103100-navigation-reset",
+  "target": "/srv/eli-sites/portfolio/releases/20261014-110604-return-origin",
+  "backup": "/srv/eli-sites/portfolio/backups/20261014-110604-return-origin",
+  "files_verified": 144,
+  "package_sha256": "4845ed617e1ce33ed42630b9e120a804a5a3bfde1123c2ace6a9844d8a583877",
+  "indexing": "DISABLED"
+}

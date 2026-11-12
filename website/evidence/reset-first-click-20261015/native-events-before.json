@@ -1,0 +1,88 @@
+{
+  "count": "0 项记录",
+  "q": "zzzz",
+  "route": "local",
+  "trace": [
+    {
+      "at": 66,
+      "cls": "",
+      "count": "2 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 320,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "focusin"
+    },
+    {
+      "at": 66,
+      "cls": "",
+      "count": "2 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 320,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "focusin"
+    },
+    {
+      "at": 68,
+      "cls": "",
+      "count": "2 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 320,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "input"
+    },
+    {
+      "at": 76,
+      "cls": "",
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 548.859375
+      },
+      "routeMotion": "local",
+      "scroll": 320,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "input"
+    }
+  ],
+  "transition": "finished"
+}

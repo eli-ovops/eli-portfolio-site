@@ -1,0 +1,403 @@
+[
+  {
+    "slug": "prompt-basics",
+    "title": [
+      "Prompt 是什么？怎么把一句话需求讲清？",
+      "What is a prompt, and how do you write one?"
+    ],
+    "answer": [
+      "Prompt 就是交给模型的指令及相关信息。有效提问通常说明要做什么、用什么材料、输出什么、哪些事不做。身份设定不是魔法，缺少输入时再专业的角色也会猜。",
+      "A prompt contains instructions and relevant information. State the task, material, output and limits. Assigning an expert role does not compensate for missing input."
+    ],
+    "steps": [
+      [
+        "先写“把这段文字整理成三条待办”。",
+        "Start with Turn this text into three action items."
+      ],
+      [
+        "补上原文、受众和不许新增的信息。",
+        "Add the text, audience and information that must not be invented."
+      ],
+      [
+        "检查答案是否符合数量与格式。",
+        "Check the requested count and format."
+      ]
+    ],
+    "exercise": [
+      "把以下笔记整理成三条给同事看的待办，不编日期。若不足三条就按实际数量输出：[练习笔记]。",
+      "Turn these notes into up to three action items for a colleague. Do not invent dates or pad the count: [practice notes]."
+    ],
+    "problem": [
+      "答案太宽泛时补具体输入，不继续追加“专业一点、厉害一点”。",
+      "When the answer is vague, add concrete input instead of asking for more impressive wording."
+    ],
+    "check": [
+      "别人拿到你的指令也能理解要交付什么。",
+      "Another person could understand the expected deliverable from your prompt."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "provide-context",
+    "title": [
+      "怎么给 AI 背景信息，又不写成一大篇？",
+      "How much background should you give AI?"
+    ],
+    "answer": [
+      "只给影响判断的背景：谁在用、现在怎么做、卡在哪里、希望得到什么。资料太长时先给目录和关键片段。把已知事实与自己的猜测分开，能减少模型替你补故事。",
+      "Provide background that changes the decision: who uses the result, the current process, the blockage and the desired outcome. For long material, start with a map and relevant excerpts. Separate facts from assumptions."
+    ],
+    "steps": [
+      [
+        "用四行写当前流程，而不是写完整公司历史。",
+        "Describe the current process in four lines instead of a company history."
+      ],
+      [
+        "标记必须遵守的限制，如只读、不发送。",
+        "State constraints such as read-only or do not send."
+      ],
+      [
+        "让模型指出哪些缺口真的影响下一步。",
+        "Ask which missing facts materially affect the next step."
+      ]
+    ],
+    "exercise": [
+      "背景：两人手工核对收货表。问题：商品名不统一。目标：先列异常。不做：改库存。请先给核对步骤。",
+      "Two people reconcile receipt sheets manually. Names vary. The goal is to list exceptions without changing stock. Propose checking steps."
+    ],
+    "problem": [
+      "它开始设计完整 ERP（管理订单、库存等业务的软件） 时，重申只处理名称核对这一个环节。",
+      "If it designs an entire ERP (software for orders, stock and related operations), narrow the scope back to matching names."
+    ],
+    "check": [
+      "回答围绕实际卡点展开，没有扩大成你没要求的大系统。",
+      "The answer addresses the actual blockage without expanding into an unrequested system."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "prompt-with-example",
+    "title": [
+      "给 AI 一个例子，为什么比反复解释更好？",
+      "How does an example improve your prompt?"
+    ],
+    "answer": [
+      "示例能把“简洁”“统一”等模糊要求变成可观察的格式。但示例也可能带偏模型，所以至少给一个正常例子和一个缺信息的例子，说明哪些内容不能照抄。",
+      "Examples turn vague requirements into visible output patterns. They can also bias the response. Include a normal case and an incomplete case, and identify details that should not be copied."
+    ],
+    "steps": [
+      [
+        "写一组输入与理想输出。",
+        "Write one input and its desired output."
+      ],
+      [
+        "再加一个缺日期的输入，示范留空。",
+        "Add an input without a date and show the field left blank."
+      ],
+      [
+        "换新内容测试，不重复原例。",
+        "Test on new material rather than repeating the example."
+      ]
+    ],
+    "exercise": [
+      "示例：“铅笔3盒”→商品：铅笔；数量：3；单位：盒。“橡皮”→数量：待确认。按同样规则处理：[新文本]。",
+      "Examples: pencils 3 boxes becomes item pencils, quantity 3, unit boxes; erasers has unknown quantity. Apply this rule to: [new text]."
+    ],
+    "problem": [
+      "模型把例子里的“3”复制到新项目时，说明示例是格式，不是默认值。",
+      "If it copies the example quantity, clarify that the example defines structure, not default values."
+    ],
+    "check": [
+      "新输入能套用规则，缺失信息仍保留为未知。",
+      "New inputs follow the pattern while missing information stays unknown."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "structured-ai-output",
+    "title": [
+      "怎么让 AI 稳定输出表格或固定字段？",
+      "How do you get a consistent table or field format?"
+    ],
+    "answer": [
+      "先确定字段名称、顺序、允许值和缺失处理。表格适合人读，JSON（一种按字段和值组织数据的文本格式） 等格式适合程序处理。格式看起来正确仍可能内容错，必须同时核对字段和原文。",
+      "Define field names, order, allowed values and missing-data handling. Tables help people read; formats such as JSON (a text format for fields and values) help programs process data. Valid structure can still contain wrong facts."
+    ],
+    "steps": [
+      [
+        "只选真正要用的四五个字段。",
+        "Select only four or five necessary fields."
+      ],
+      [
+        "写清“未知”和“无”不同，金额附币种。",
+        "Distinguish unknown from none and attach currencies to amounts."
+      ],
+      [
+        "用一条缺信息的样本检查行为。",
+        "Test with an incomplete sample."
+      ]
+    ],
+    "exercise": [
+      "按商品、数量、单位、待确认事项输出表格。不允许新增列；数量未知写“待确认”，不要写0。",
+      "Return a table with item, quantity, unit and questions. Add no columns and mark unknown quantities as unknown, not zero."
+    ],
+    "problem": [
+      "列错位时先减少字段和嵌套，再补边界例子，不靠肉眼看像表格就算通过。",
+      "If fields drift, simplify them and add edge examples; a table-like appearance is not enough."
+    ],
+    "check": [
+      "每个字段都有清楚含义，缺失值不会被误当成业务数字。",
+      "Fields have clear meanings and missing values cannot be mistaken for business numbers."
+    ],
+    "source": [
+      "json",
+      "prompt"
+    ]
+  },
+  {
+    "slug": "break-down-task",
+    "title": [
+      "任务太大做不好？怎么拆给 AI？",
+      "How do you split a task AI keeps getting wrong?"
+    ],
+    "answer": [
+      "把长任务按可检查的中间结果拆开：先读资料，再列问题，再写草稿，最后核对。不要一次要求它分析、决定、发送和追踪。每一步有明确输入，错误更容易定位。",
+      "Split work into checkable stages: read, identify questions, draft and verify. Avoid bundling analysis, decisions, sending and follow-up into one request. Clear stage inputs make failures easier to locate."
+    ],
+    "steps": [
+      [
+        "把“做客户方案”拆成资料摘要和缺口清单。",
+        "Split make a client proposal into a source summary and gap list."
+      ],
+      [
+        "确认信息后再写方案草稿。",
+        "Confirm the information before drafting."
+      ],
+      [
+        "单独核对承诺、价格和引用。",
+        "Review promises, prices and citations separately."
+      ]
+    ],
+    "exercise": [
+      "先只整理已知需求与未知项，不选产品、不报价。等我确认后再起草方案。",
+      "First list known requirements and unknowns. Do not select products or quote prices. Draft only after confirmation."
+    ],
+    "problem": [
+      "前一步有错，修正该步后再生成下游，不只在最终稿上补补改改。",
+      "Correct the failed stage before regenerating downstream work rather than patching the final document alone."
+    ],
+    "check": [
+      "能指出每一步的输入、产物和谁负责确认。",
+      "You can name each stage's input, output and reviewer."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "ask-clarifying-questions",
+    "title": [
+      "怎么让 AI 先问关键问题，又不一直问？",
+      "How can AI ask useful questions without stalling?"
+    ],
+    "answer": [
+      "要求它只问会改变范围、费用或正确性的缺口。普通格式选择可采用明确默认值。这样能避免两种极端：什么都猜，或者每一步都要你确认。",
+      "Ask only about missing details that change scope, cost or correctness. Let routine formatting use stated defaults. This avoids both reckless guessing and endless confirmation."
+    ],
+    "steps": [
+      [
+        "区分必需信息和可默认信息。",
+        "Separate essential facts from routine defaults."
+      ],
+      [
+        "限定最多三个关键问题。",
+        "Limit the first round to three material questions."
+      ],
+      [
+        "让它先做不依赖答案的部分。",
+        "Have it complete independent work while waiting."
+      ]
+    ],
+    "exercise": [
+      "只问影响方案的三个关键缺口。排版按简洁表格默认处理，先整理已有资料，不等待无关细节。",
+      "Ask up to three questions that change the proposal. Default to a simple table and organize existing material without waiting for unrelated details."
+    ],
+    "problem": [
+      "它问十几个审美偏好时，要求说明每个问题会改变哪个具体决策。",
+      "If it asks many preference questions, ask what decision each answer would change."
+    ],
+    "check": [
+      "问题数量少，但重要事实没有靠猜补上。",
+      "Questions are limited while essential facts remain explicit."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "rewrite-with-ai",
+    "title": [
+      "让 AI 改文案，怎样不改掉原意？",
+      "How do you rewrite text without changing its meaning?"
+    ],
+    "answer": [
+      "先固定事实和承诺，再改表达。把不能变的数字、条件和限制单列出来。文案变顺口却把“可能”改成“保证”，是内容错误，不是优化。",
+      "Freeze facts and commitments before improving wording. List numbers, conditions and limits that must stay. Replacing may with guaranteed is an error even if the sentence sounds better."
+    ],
+    "steps": [
+      [
+        "圈出价格、时间、范围和例外。",
+        "Mark prices, dates, scope and exceptions."
+      ],
+      [
+        "要求仅调整表达，保留所有限定。",
+        "Request wording changes without altering qualifications."
+      ],
+      [
+        "把原稿与改稿逐句比较。",
+        "Compare the original and rewrite sentence by sentence."
+      ]
+    ],
+    "exercise": [
+      "把下面说明改成外行能懂的短句。不得新增效果、客户或保证；改动事实的位置单列说明：[原文]。",
+      "Rewrite this in short plain sentences. Add no results, clients or guarantees. Flag any factual change separately: [text]."
+    ],
+    "problem": [
+      "出现“领先”“必然提效”时，回到事实清单删掉没有依据的修饰。",
+      "Remove claims such as leading or guaranteed gains unless supported by the fact list."
+    ],
+    "check": [
+      "读起来更清楚，事实边界与原稿一致。",
+      "The text is clearer while preserving the original factual boundaries."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "ai-compare-options",
+    "title": [
+      "让 AI 比方案，怎么避免凭空打分？",
+      "How do you compare options without invented scores?"
+    ],
+    "answer": [
+      "先确定评价标准和证据，再讨论权重。没有数据的“综合评分 9.5”只是装饰。对未知项保留空白，把影响决策的缺口变成下一步验证。",
+      "Choose criteria and evidence before weights. A score such as 9.5 without data is decoration. Leave unknowns explicit and turn material gaps into tests."
+    ],
+    "steps": [
+      [
+        "选三个与你任务有关的标准。",
+        "Choose three criteria relevant to your task."
+      ],
+      [
+        "逐项填来源和已知事实。",
+        "Attach evidence to each known fact."
+      ],
+      [
+        "只对已验证项比较，未知项列测试办法。",
+        "Compare verified items and propose tests for unknowns."
+      ]
+    ],
+    "exercise": [
+      "比较方案A和B：使用门槛、数据导出、人工复核。只用我提供的材料，不编分数；每项写证据和未知点。",
+      "Compare A and B on learning effort, export and human review using supplied material only. Provide evidence and unknowns, not invented scores."
+    ],
+    "problem": [
+      "如果结果全是优缺点套话，补入一个真实工作样本作为共同测试。",
+      "If the comparison is generic, add one work sample as a common test."
+    ],
+    "check": [
+      "结论能回到具体标准，换权重时也能解释为什么会变。",
+      "The conclusion traces to criteria and changes in priorities have explainable effects."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "fix-bad-ai-answer",
+    "title": [
+      "AI 答偏了，怎么反馈才有效？",
+      "How should you correct an off-target AI answer?"
+    ],
+    "answer": [
+      "指出哪句话错、错在什么、正确规则是什么，比说“重写”更有用。每次优先修一个主要问题，保留已经正确的部分，避免整篇反复漂移。",
+      "Identify the wrong passage, the reason and the correct rule. Fix the main error first while preserving correct material instead of repeatedly regenerating everything."
+    ],
+    "steps": [
+      [
+        "复制错误句子并附原始依据。",
+        "Copy the error and attach the original evidence."
+      ],
+      [
+        "说明要保留哪些正确内容。",
+        "Name the correct content that should remain."
+      ],
+      [
+        "让它解释修正点，再检查同类错误。",
+        "Request a correction note and check similar passages."
+      ]
+    ],
+    "exercise": [
+      "第2条把意向订单当成已确认。请按原文修正状态，其他四条保持不变，再检查有没有同类错误。",
+      "Item 2 treats a tentative order as confirmed. Correct its status from the source, keep the other four items, and check for similar errors."
+    ],
+    "problem": [
+      "它一改又漏别处时，改用逐项核对清单，不继续整段重写。",
+      "If each rewrite introduces omissions, switch to an item-by-item checklist."
+    ],
+    "check": [
+      "错误被定位修复，原来正确的信息没有丢失。",
+      "The error is corrected without losing information that was already right."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "save-prompt-template",
+    "title": [
+      "好用的提示词怎么保存成模板？",
+      "How do you save a useful prompt as a template?"
+    ],
+    "answer": [
+      "保存的是可复用的任务说明，不是一次回答。把输入位置、限制、输出和检查点写清楚，再用另一份样本复试。模板也要有版本，过时业务规则不能一直沿用。",
+      "Save the task specification rather than one successful answer. Define inputs, limits, output and checks, then test with a different sample. Version templates so obsolete business rules do not persist."
+    ],
+    "steps": [
+      [
+        "把姓名和具体商品换成占位符。",
+        "Replace names and specific items with placeholders."
+      ],
+      [
+        "附一个正常样例和一个缺信息样例。",
+        "Include a normal and an incomplete example."
+      ],
+      [
+        "记录修改日期及适用范围。",
+        "Record the revision date and intended scope."
+      ]
+    ],
+    "exercise": [
+      "帮我把这次有效指令整理成模板，保留输入占位符、不能做的事、输出字段和核对清单，不保留私人信息。",
+      "Turn this working instruction into a template with input placeholders, exclusions, output fields and checks. Remove private information."
+    ],
+    "problem": [
+      "模板越写越长时，移除与当前任务无关的旧补丁，重新测试典型样例。",
+      "When a template becomes bloated, remove unrelated patches and retest representative samples."
+    ],
+    "check": [
+      "换一个同类任务仍能用，并清楚知道哪些规则需要更新。",
+      "It works on another task of the same type and identifies rules that need updating."
+    ],
+    "source": [
+      "prompt"
+    ]
+  }
+]

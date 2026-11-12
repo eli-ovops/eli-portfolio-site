@@ -1,0 +1,44 @@
+{
+  "zh390": {
+    "clientWidth": 375,
+    "description": "腾讯 WorkBuddy 入门：认准 workbuddy.cn 官方入口，从一份练习材料开始，了解任务、文件产物与权限边界，核对结果后再用于正式工作。",
+    "scrollWidth": 375,
+    "title": "腾讯 WorkBuddy 是什么？新手怎么用它协助办公？",
+    "url": "http://127.0.0.1:4178/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 390
+  },
+  "en390": {
+    "description": "Learn what Tencent WorkBuddy at workbuddy.cn does. Start with practice files, check task outputs and permissions, then decide how it fits office work.",
+    "heading": "What is Tencent WorkBuddy? A beginner’s guide to office tasks",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  "en360": {
+    "clientWidth": 345,
+    "heading": "What is Tencent WorkBuddy? A beginner’s guide to office tasks",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/en/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 360
+  },
+  "zh360": {
+    "width": 360,
+    "clientWidth": 345,
+    "scrollWidth": 345
+  },
+  "zhContact": {
+    "contactBottom": 1443.453125,
+    "contactExists": true,
+    "contactTop": 426.734375,
+    "url": "http://127.0.0.1:4178/about.html?pv=e2be96987b2798068e82#contact",
+    "viewportHeight": 844
+  },
+  "enContact": {
+    "contactBottom": 1624.234375,
+    "contactExists": true,
+    "contactTop": 505.984375,
+    "url": "http://127.0.0.1:4178/en/about.html?pv=e2be96987b2798068e82#contact",
+    "viewportHeight": 844
+  },
+  "languageSwitch": "Chinese -> English -> Chinese -> English, same article slug",
+  "viewport": "Browser emulation only, not a physical phone"
+}

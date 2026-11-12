@@ -1,0 +1,117 @@
+- main:
+  - button "收起侧栏":
+  - button:
+  - generic: 中小企业老板入门教程推荐
+  - generic: AI 生成可能有误 请核实
+  - button "开启自动播报":
+  - button "更多":
+  - generic "doc_editor":
+    - generic: 请联网为完全不懂技术的中小企业老板找 3 篇中文入门教程，分别讲：库存每天靠人工核对先改哪一步、企业知识库如何从少量资料开始、Agent 是什么以及与聊天机器人的区别。优先浅显、有实际步骤和例子的文章。请给出可点击的真实原文链接，说明每篇适合解决什么问题；找不到就明确说，不要编造网址。
+    - generic: 已完成思考，参考 32 篇资料
+    - generic: 以下是为您找到的 3 篇中文入门教程，均面向非技术背景的中小企业管理者，浅显易懂且有实际步骤：
+    - separator
+    - heading "第一篇：库存每天靠人工核对，先改哪一步？" [level=3]
+    - strong: 文章标题
+    - text: ：中小企业如何轻松搞定条码管理？高效解决方案揭秘！
+    - strong: 原文链接
+    - text: ：
+    - link "https://www.zdsztech.com/blog/small-business-barcode-management-solutions/":
+      - /url: https://link.wtturl.cn/?target=https%3A%2F%2Fwww.zdsztech.com%2Fblog%2Fsmall-business-barcode-management-solutions%2F&scene=im&aid=497858&lang=zh
+    - strong: 适合解决的问题
+    - text: ：
+    - text: 仓库每天人工核对库存又慢又不准，想改进但不知道从哪下手，纠结是先买软件、先买扫码枪还是先改流程。文章明确给出了
+    - strong: 第一步不是买设备，而是先统一商品信息和编码规则
+    - text: —— 把所有商品的品名、规格、单位整理标准化，建立唯一编码。这是所有后续改进的地基，没有干净的数据，上任何系统都是白花钱。
+    - strong: 核心实操步骤
+    - text: ：
+    - list:
+      - listitem: 先统一商品信息，建立编码规则（基础准备）
+      - listitem: 再选标签打印机和扫码枪（硬件选型）
+      - listitem: 先拿一个品类试点跑通全流程，再逐步推广（流程试点）
+    - generic: 文章还给出了 Excel + 扫码枪、独立条码系统、一体化进销存三个阶段的演进路径，老板可以对照自己企业规模判断处于哪一步。
+    - separator
+    - heading "第二篇：企业知识库如何从少量资料开始搭建？" [level=3]
+    - strong: 文章标题
+    - text: ：企业内部知识库搭建流程，5 步从 0 到 1 构建高效知识体系
+    - strong: 原文链接
+    - text: ：
+    - link "https://www.udesk.cn/ucm/faq/67573/":
+      - /url: https://link.wtturl.cn/?target=https%3A%2F%2Fwww.udesk.cn%2Fucm%2Ffaq%2F67573%2F&scene=im&aid=497858&lang=zh
+    - strong: 适合解决的问题
+    - text: ：
+    - text: 公司资料散落在各人口中、聊天记录、个人电脑里，想建知识库但觉得资料太少、不知道从哪开始、怕投入太大。文章用 5 步拆解了从 0 到 1 的完整过程，特别适合只有少量资料的中小企业起步。
+    - strong: 核心实操步骤
+    - text: ：
+    - list:
+      - strong: 先定目标和范围
+      - text: ：别想一口吃成胖子，先明确是解决新人培训、还是沉淀销售话术，划定一个小范围
+      - strong: 梳理现有资料分类归档
+      - text: ：把已有的文档、表格、话术收集起来，按 "一级→二级→三级" 分类，比如 "业务板块→销售流程→客户跟进话术"
+      - strong: 选一个简单好用的工具
+      - text: ：不用追求功能复杂，能上传、能搜索、有权限控制就行
+      - strong: 推给员工用起来
+      - text: ：培训 + 简单激励，让大家养成查知识库的习惯
+      - strong: 慢慢迭代补充
+      - text: ：不用一开始就完美，边用边补
+    - generic: 文章末尾还有 FAQ 专门解答 "中小企业投入成本高吗"" 资料安全吗 " 等老板最关心的问题。
+    - separator
+    - heading "第三篇：Agent 是什么？和聊天机器人有什么区别？" [level=3]
+    - strong: 文章标题
+    - text: ：Agent 与 Chatbot 的区别
+    - strong: 原文链接
+    - text: ：
+    - link "https://cloud.tencent.com.cn/developer/article/2752412":
+      - /url: https://link.wtturl.cn/?target=https%3A%2F%2Fcloud.tencent.com.cn%2Fdeveloper%2Farticle%2F2752412&scene=im&aid=497858&lang=zh
+    - strong: 适合解决的问题
+    - text: ：
+    - text: 总听人说 Agent、智能体，但搞不清跟平时用的聊天机器人（比如豆包、ChatGPT）到底有啥不一样，不知道对自己企业有啥用。这篇文章用非常通俗的比喻讲清了本质区别，完全不用技术背景也能看懂。
+    - strong: 核心区别（一句话版）
+    - text: ：
+    - blockquote:
+      - strong: Chatbot 陪你聊，Agent 替你干。
+    - strong: 通俗比喻
+    - text: ：
+    - list:
+      - strong: 聊天机器人 = 随叫随到的百科客服
+      - text: ：你问一句它答一句，只出文字建议，不会真的帮你操作什么事
+      - strong: Agent = 被交代任务的实习生
+      - text: ：你给个目标，它自己拆步骤、查资料、操作软件、跑流程，跑完了把结果交给你，中间不用你盯着
+    - strong: 5 个具体差异
+    - text: ：
+    - list:
+      - listitem: 谁在驱动：你一步步问 vs 你给目标它自己推进
+      - listitem: 能不能动真东西：只出文字 vs 能调数据、发邮件、填表格
+      - listitem: 单步还是多步：一问一答 vs 规划→行动→检查→再规划的循环
+      - listitem: 记不记事儿：只记当前对话 vs 有长期记忆
+      - listitem: 做完没做完：你停它就停 vs 自己判断 "搞定了"
+    - separator
+    - generic: 如果需要我针对其中某一篇帮你划出重点或提炼成一页执行清单，可以告诉我。
+    - button:
+    - button "朗读":
+    - button:
+    - button:
+    - button:
+    - button:
+    - button:
+    - button:
+      - button:
+    - generic: 推荐一些关于“Agent是什么以及与聊天机器人的区别”的入门教程
+    - generic: 如何快速上手企业知识库的搭建？
+    - generic: 有哪些适合中小企业老板的库存管理软件？
+  - button:
+  - button [expanded]
+  - button "对话":
+    - generic "对话"
+  - button "项目":
+    - generic "项目"
+  - button "PPT 生成":
+    - generic: PPT 生成
+  - button "图像生成":
+    - generic: 图像生成
+  - button "更多技能":
+    - text: 更多技能
+  - button "豆包 专家":
+    - text: 豆包 专家
+  - paragraph: 发消息或按住空格说话...
+- complementary
+- region "Notifications alt+T"

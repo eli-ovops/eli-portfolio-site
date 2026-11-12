@@ -1,0 +1,46 @@
+{
+  "status": "READ_ONLY_AUDIT_COMPLETED",
+  "finished_at": "2026-10-22T11:03:00.193048+00:00",
+  "public_canonical_urls_checked": 294,
+  "http200": 294,
+  "article_detail_pages": 204,
+  "bilingual_service_pages": 6,
+  "focus_canonical_and_hreflang_correct": 210,
+  "focus_single_h1": 210,
+  "focus_duplicate_exact_titles_descriptions_maintext": 0,
+  "public_resource_checks": 16,
+  "resource_http200": 16,
+  "rendered_browser_samples": 4,
+  "raw_article_links_each_language": 102,
+  "raw_internal_article_reachability": "all204 within3links from Chinese home allowing language navigation",
+  "missing_fragment_targets": 0,
+  "live_page_hashes_match_current_release_baseline": 294,
+  "new_confirmed_indexing_blockers": 0,
+  "historical_crawled_not_indexed_article_urls": 167,
+  "historical_count_is_not_current_unindexed_count": true,
+  "current_total_article_indexed": "UNKNOWN",
+  "recommendations": [
+    {
+      "priority": "P1 evidence follow-up, not repair",
+      "item": "Follow Google revised403 report and rotate current URL checks for service-relevant articles listed historically; do not bulk rewrite167 or resubmit."
+    },
+    {
+      "priority": "P2 optional consistency",
+      "item": "Use canonical root URLs consistently for home navigation. Both /index.html aliases currently200, declare correct root canonical; no confirmed index loss."
+    }
+  ],
+  "site_source_changes": 0,
+  "builds": 0,
+  "server_changes": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "google_url_inspections_this_audit": 0,
+  "active_model_queries": 0,
+  "qa_traffic": "OWN_TEST_NOT_ORGANIC",
+  "limitations": [
+    "Anonymous public HTTP is not a Googlebot crawl or indexing receipt.",
+    "No actual mobile-device or CWV field assessment.",
+    "No current per-URL native checks for204articles; historical GSC rows are not current index states.",
+    "No claim that robots allowance guarantees model retrieval or citations."
+  ]
+}

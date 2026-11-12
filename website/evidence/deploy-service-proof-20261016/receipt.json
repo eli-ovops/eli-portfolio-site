@@ -1,0 +1,60 @@
+{
+  "time": "2026-10-16T06:03:41.241519+00:00",
+  "status": "PUBLISHED_AND_VALIDATED",
+  "revision": "5c339ba5abc7de987497",
+  "source_local_revision": "93c0170f65a3847d1b0f",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261016-service-proof-5c339ba5",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-service-keywords-03985a2d",
+  "package_sha256": "1dd2fbbb44f5b8a81991a7bbe755fb6475b85f221dd385fec827971b51f2f627",
+  "files": 153,
+  "changed_assets": [
+    "assets/editorial.css",
+    "assets/page-version.js"
+  ],
+  "service_pages": [
+    "services/fde-consulting.html",
+    "services/ai-agent.html",
+    "services/workflow-automation.html",
+    "en/services/fde-consulting.html",
+    "en/services/ai-agent.html",
+    "en/services/workflow-automation.html"
+  ],
+  "unrelated_pages": "Body content unchanged; only revision and changed-asset fingerprint updated",
+  "unchanged": [
+    "motion controllers and all other assets",
+    "unpublished local catalogue",
+    "previous local About line refinement not in this publication scope",
+    "robots.txt and sitemap.xml",
+    "5 search verification files",
+    "nginx config, DNS, SSL and IP preview"
+  ],
+  "checks": {
+    "candidate": "90 HTML pages;88 sitemap URLs;153 files; internal links/anchors and fingerprints PASS",
+    "navigation_regressions": [
+      "service source",
+      "catalogue owner",
+      "related return",
+      "navigation version",
+      "search reset"
+    ],
+    "remote_archive": "USTAR regular files only; no dotfiles/symlinks/PAX; all archive members and extracted file SHA256 checked",
+    "public": "16 public HTTPS paths match release hashes;14 in switch smoke;services active",
+    "browser": "390 Chinese all3 page layouts and proof/case entries; FDE related chain retains original service; Agent return; workflow browser Back; English Agent320 return/contact; Chinese Agent320; no horizontal overflow"
+  },
+  "limits": [
+    "Browser simulated mobile only; no physical device",
+    "English Agent320 consultation below initial fold, accessible by normal scroll",
+    "Contact destination and links checked; no message/call sent"
+  ],
+  "analytics": {
+    "production_snapshot": "/srv/eli-sites/portfolio/domain-releases/20261016-service-keywords-03985a2d",
+    "known_analytics_embed_matches": [],
+    "note": "No known provider embeds found; server logs and webmaster search reports are separate. No installation performed."
+  },
+  "indexing": "UNCHANGED enabled",
+  "server_other_projects": "UNCHANGED; ERP/nginx/mysql/redis active",
+  "rollback": "Atomic relink domain-current to previous_retained; previous immutable release and preflight snapshot retained; no database involved",
+  "artifacts": "Task-created package, public candidate, before-public snapshot, scripts, logs and screenshots retained for recovery/acceptance. No asset deletion.",
+  "preparation_note": "Initial local candidate guard rejected unnecessary v query additions to unchanged vendor scripts. Corrected packaging to retain unversioned references; no production mutation occurred before corrected candidate passed.",
+  "actual_model_effort": "UNKNOWN"
+}

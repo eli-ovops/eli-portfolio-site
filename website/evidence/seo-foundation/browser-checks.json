@@ -1,0 +1,106 @@
+[
+  {
+    "path": "index.html",
+    "alternates": [
+      {
+        "lang": "zh-CN",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/"
+      },
+      {
+        "lang": "en",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/en/"
+      },
+      {
+        "lang": "x-default",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/"
+      }
+    ],
+    "canonical": "http://[REDACTED_HOST]/sites/portfolio/",
+    "lang": "zh-CN",
+    "robots": "noindex,nofollow",
+    "schema": [
+      "Person",
+      "WebSite",
+      "WebPage"
+    ],
+    "title": "Eli｜前沿部署工程师 · AI 与业务系统实践"
+  },
+  {
+    "path": "en/index.html",
+    "alternates": [
+      {
+        "lang": "zh-CN",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/"
+      },
+      {
+        "lang": "en",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/en/"
+      },
+      {
+        "lang": "x-default",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/"
+      }
+    ],
+    "canonical": "http://[REDACTED_HOST]/sites/portfolio/en/",
+    "lang": "en",
+    "robots": "noindex,nofollow",
+    "schema": [
+      "Person",
+      "WebSite",
+      "WebPage"
+    ],
+    "title": "Eli | Forward Deployed Engineer & AI Projects"
+  },
+  {
+    "path": "cases/p36.html",
+    "alternates": [
+      {
+        "lang": "zh-CN",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html"
+      },
+      {
+        "lang": "en",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/en/cases/p36.html"
+      },
+      {
+        "lang": "x-default",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html"
+      }
+    ],
+    "canonical": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html",
+    "lang": "zh-CN",
+    "robots": "noindex,nofollow",
+    "schema": [
+      "Person",
+      "WebSite",
+      "WebPage"
+    ],
+    "title": "英国某净水品牌 RAG 智能客服定制｜Eli 项目案例"
+  },
+  {
+    "path": "en/cases/p36.html",
+    "alternates": [
+      {
+        "lang": "zh-CN",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html"
+      },
+      {
+        "lang": "en",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/en/cases/p36.html"
+      },
+      {
+        "lang": "x-default",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html"
+      }
+    ],
+    "canonical": "http://[REDACTED_HOST]/sites/portfolio/en/cases/p36.html",
+    "lang": "en",
+    "robots": "noindex,nofollow",
+    "schema": [
+      "Person",
+      "WebSite",
+      "WebPage"
+    ],
+    "title": "UK water purification brand · RAG support | Eli"
+  }
+]

@@ -1,0 +1,540 @@
+{
+  "P09": {
+    "stage": {
+      "zh-CN": "已交付",
+      "en": "Delivered"
+    },
+    "heading": {
+      "zh-CN": "一次库存闭环",
+      "en": "One inventory sequence"
+    },
+    "intro": {
+      "zh-CN": "按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。",
+      "en": "Quantities below follow the acceptance sequence dated September 8, 2026. The recorded final result is 3 cartons in A, 4 in B and 7 in total."
+    },
+    "headers": {
+      "zh-CN": [
+        "操作",
+        "A 库位",
+        "B 库位",
+        "总库存"
+      ],
+      "en": [
+        "Operation",
+        "Location A",
+        "Location B",
+        "Total"
+      ]
+    },
+    "rows": {
+      "zh-CN": [
+        [
+          "入库 10 箱",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "移库 4 箱",
+          "6",
+          "4",
+          "10"
+        ],
+        [
+          "出库 3 箱",
+          "3",
+          "4",
+          "7"
+        ]
+      ],
+      "en": [
+        [
+          "Receive 10 cartons",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Transfer 4 cartons",
+          "6",
+          "4",
+          "10"
+        ],
+        [
+          "Dispatch 3 cartons",
+          "3",
+          "4",
+          "7"
+        ]
+      ]
+    },
+    "note": {
+      "zh-CN": "云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。",
+      "en": "The cloud record also confirms that four concurrent identical requests do not double-count, insufficient stock is rejected and a cancelled request cannot commit. This is historical virtual-test evidence, not a new system test."
+    },
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "主导需求与开发，负责测试维护"
+        ],
+        [
+          "交付状态",
+          "已交付"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Led requirements and development; testing and maintenance"
+        ],
+        [
+          "Delivery",
+          "Delivered"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。",
+      "en": "Connect carton scanning with receiving, transfers and dispatch, handling duplicate requests, stock shortages and corrections."
+    },
+    "hero_stage": {
+      "zh-CN": "已交付",
+      "en": "Delivered"
+    }
+  },
+  "P10": {
+    "stage": {
+      "zh-CN": "已交付",
+      "en": "Delivered"
+    },
+    "heading": {
+      "zh-CN": "一次盘点复查",
+      "en": "One stocktake review"
+    },
+    "intro": {
+      "zh-CN": "2026 年 9 月 23 日的测试记录：测试仓内某规格账面 1 件，实盘 0 件。提交后交叉核对三个结果。",
+      "en": "In a test record dated September 23, 2026, a product variant had 1 unit on the books and 0 counted. Three results were cross-checked after submission."
+    },
+    "headers": {
+      "zh-CN": [
+        "核对对象",
+        "记录结果"
+      ],
+      "en": [
+        "Check",
+        "Recorded result"
+      ]
+    },
+    "rows": {
+      "zh-CN": [
+        [
+          "盘点单据",
+          "原数量 1，实盘 0，状态已盘"
+        ],
+        [
+          "测试仓库存",
+          "从 1 件扣减为 0 件"
+        ],
+        [
+          "出入库流水",
+          "对应规格记 −1 件"
+        ]
+      ],
+      "en": [
+        [
+          "Stocktake document",
+          "Original 1, counted 0, stocktake completed"
+        ],
+        [
+          "Test-location inventory",
+          "Reduced from 1 unit to 0"
+        ],
+        [
+          "Inventory transaction",
+          "The matching variant records −1 unit"
+        ]
+      ]
+    },
+    "note": {
+      "zh-CN": "这是历史盘亏样例，不代表所有业务组合均通过。同期九项复查为八项具体样例通过、一项发现问题；此处不据旧记录判断系统当前状态。",
+      "en": "This historical shortage example does not establish acceptance of every workflow. The same review recorded eight passing examples and one issue across nine checks; it does not determine the current system state."
+    },
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "独立负责需求、底座适配及交付"
+        ],
+        [
+          "交付状态",
+          "已交付"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Independent requirements, foundation adaptation and delivery"
+        ],
+        [
+          "Delivery",
+          "Delivered"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "围绕产品规格、采购、退货与盘点适配库存流程，连接 PC 与 H5 入口。",
+      "en": "Connect product specifications, purchasing, returns and stocktaking through inventory workflows and PC/H5 entry points."
+    },
+    "hero_stage": {
+      "zh-CN": "已交付",
+      "en": "Delivered"
+    }
+  },
+  "P36": {
+    "stage": {
+      "zh-CN": "团队定制与交付 · 本人负责知识库、检索和测试",
+      "en": "Team customization and delivery · knowledge base, retrieval and testing"
+    },
+    "illustrations": {
+      "zh-CN": [
+        {
+          "source_id": "rag-demo-source-a",
+          "question": "申请售后需要提供哪些信息？",
+          "answer": "示意资料要求提供产品型号、问题描述和购买凭证，未规定处理时限，因此不能承诺解决时间。",
+          "source_label": "示意资料 A（AI 拟写）",
+          "excerpt": "“售后咨询需提供产品型号、问题描述及购买凭证。客服核对信息后跟进。本条资料未规定处理时限。”"
+        },
+        {
+          "source_id": "rag-demo-source-b",
+          "question": "这个型号的滤芯能去除铅吗？",
+          "answer": "示意资料没有该型号的污染物测试结果，不能确认。需核对对应检测报告或转人工客服，不能从其他型号推断。",
+          "source_label": "示意资料 B（AI 拟写）",
+          "excerpt": "“本条资料介绍安装方式与配件清单，不包含污染物去除测试结果。”"
+        }
+      ],
+      "en": [
+        {
+          "source_id": "rag-demo-source-a",
+          "question": "What information should I provide for after-sales support?",
+          "answer": "The illustrative source asks for the model, problem description and proof of purchase. It sets no deadline, so a resolution time cannot be promised.",
+          "source_label": "Illustrative source A (AI-written)",
+          "excerpt": "“For after-sales enquiries, provide the product model, a description of the problem and proof of purchase. Support follows up after checking the information. This material sets no handling deadline.”"
+        },
+        {
+          "source_id": "rag-demo-source-b",
+          "question": "Does this cartridge model remove lead?",
+          "answer": "The illustrative source has no contaminant test result for this model. Check its report or refer to human support; do not infer performance from another model.",
+          "source_label": "Illustrative source B (AI-written)",
+          "excerpt": "“This material describes installation and the accessory list. It contains no contaminant-removal test results.”"
+        }
+      ]
+    },
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "知识库整理、检索配置与测试"
+        ],
+        [
+          "页面记录",
+          "客服初始界面与入口"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Knowledge base, retrieval configuration and testing"
+        ],
+        [
+          "Interface record",
+          "Initial support interface and entry points"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。",
+      "en": "Provide question input, quick support and contact entry points for product and brand knowledge on an independent website."
+    },
+    "hero_stage": {
+      "zh-CN": "团队定制与交付",
+      "en": "Team customization and delivery"
+    }
+  },
+  "P12": {
+    "stage": {
+      "zh-CN": "本地工作台 · 图文与发布全链路待核",
+      "en": "Local workbench · complete generation and publishing still to verify"
+    },
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "主导工作台开发与验证"
+        ],
+        [
+          "验收边界",
+          "局部验证；图文发布全链路未通过"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Led workbench development and validation"
+        ],
+        [
+          "Validation",
+          "Partial checks; generation and publishing have not passed end to end"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "串联产品资料、风格设置、内容编辑与人工审核，保留导出路径。",
+      "en": "Connect product facts, style settings, editing and human review with export paths."
+    },
+    "hero_stage": {
+      "zh-CN": "本地工作台",
+      "en": "Local workbench"
+    }
+  },
+  "P15": {
+    "stage": {
+      "zh-CN": "个人开发 · 原生 iOS 迭代，配图为独立 Demo",
+      "en": "Developed by me · native iOS iteration, separate demo image"
+    },
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "全部开发由我完成"
+        ],
+        [
+          "项目进度",
+          "原生候选迭代，发行闭环待核"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Entire project developed by me"
+        ],
+        [
+          "Progress",
+          "Native candidate iteration; release completion unverified"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "以宠物资料连接发现、邀请和聊天，处理消息状态与重启恢复。",
+      "en": "Connect pet profiles with discovery, invitations and chat, handling message state and recovery after restart."
+    },
+    "hero_stage": {
+      "zh-CN": "原生 iOS · 配图为独立 Demo",
+      "en": "Native iOS · separate demo image"
+    }
+  },
+  "P01": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "团队项目开发；RAG 知识库与检索测试"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Team development; RAG knowledge base and retrieval testing"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "公益官网、律所办公、品牌营销与客服等合作记录；各案例分别说明工作内容与交付过程。",
+      "en": "A collection of nonprofit, office, brand marketing and support work, with roles and delivery described in the individual cases."
+    }
+  },
+  "P02": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "公益官网开发"
+        ],
+        [
+          "项目进度",
+          "一期官网已交付验收"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Nonprofit website development"
+        ],
+        [
+          "Progress",
+          "First-phase websites delivered and accepted"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "集中呈现机构介绍、公益项目、新闻资讯与信息公开，连接首页和内容页面。",
+      "en": "Connect the homepage with organization information, nonprofit projects, news and public disclosures."
+    }
+  },
+  "P03": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "律所官网开发"
+        ],
+        [
+          "项目进度",
+          "一期官网已交付验收"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Law firm website development"
+        ],
+        [
+          "Progress",
+          "First-phase websites delivered and accepted"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "组织专业服务、律师团队与资讯内容，让访客找到咨询入口。",
+      "en": "Organize services, lawyer profiles and news so visitors can find the consultation entry point."
+    }
+  },
+  "P04": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "依据团队调研开发 OA"
+        ],
+        [
+          "项目进度",
+          "二期开发、培训及交付完成"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Office development from team discovery"
+        ],
+        [
+          "Progress",
+          "Second-phase development, training and handover complete"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "围绕岗位需求整合办公流程与分散资料，配套演示和产品文档。",
+      "en": "Connect office workflows and scattered information around staff needs, with a demo and product documentation."
+    }
+  },
+  "P05": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "团队内容制作与推广"
+        ],
+        [
+          "项目进度",
+          "稳定运营后由客户接续"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Team content and promotion"
+        ],
+        [
+          "Progress",
+          "Client took over after stable operation"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "结合活动内容、AI 视频和 KOC 合作，连接社交平台与品牌独立站。",
+      "en": "Connect campaign content, AI videos and KOC collaboration with social channels and the brand website."
+    }
+  },
+  "P07": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "主导需求、开发、测试与维护"
+        ],
+        [
+          "现有产物",
+          "英文前台、网站目录与交付包"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Led requirements, development, testing and maintenance"
+        ],
+        [
+          "Available work",
+          "English front end, website files and delivery package"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "以英文网站呈现产品、工厂、品牌与图库，提供语言切换入口。",
+      "en": "Present products, factory information, the brand and galleries on an English website with language switching."
+    },
+    "hero_stage": {
+      "zh-CN": "品牌展示前台",
+      "en": "Brand website front end"
+    }
+  },
+  "P08": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "主导产品目录制作"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Led product catalog work"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "用纸张与手机两种布局呈现图片、型号、尺寸和规格，方便产品比较。",
+      "en": "Present images, models, dimensions and specifications in print and mobile layouts for product comparison."
+    }
+  },
+  "P13": {
+    "facts": {
+      "zh-CN": [
+        [
+          "我的工作",
+          "主导需求、AI 辅助开发与测试维护"
+        ]
+      ],
+      "en": [
+        [
+          "My work",
+          "Led requirements, AI-assisted development, testing and maintenance"
+        ]
+      ]
+    },
+    "hero_intro": {
+      "zh-CN": "以双语每日任务连接行动、完成记录与纪念品，并保留通知和付费入口。",
+      "en": "Connect bilingual daily tasks with completion records and souvenirs, with notification and payment entry points."
+    }
+  }
+}

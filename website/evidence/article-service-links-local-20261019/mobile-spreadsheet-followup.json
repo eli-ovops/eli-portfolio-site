@@ -1,0 +1,12 @@
+{
+  "reason": "Initial immediate post-navigation observation showed overflow. Same revision completed rendering without source changes; retained initial observation.",
+  "result": {
+    "consultHref": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "fonts": "loaded",
+    "ready": "complete",
+    "scrollWidth": 345,
+    "serviceHref": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+    "url": "http://127.0.0.1:4178/en/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360
+  }
+}

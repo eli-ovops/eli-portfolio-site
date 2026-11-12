@@ -1,0 +1,13 @@
+{
+  "site_config": "# Prepared only; not installed. Certificate must exist and be verified first.\nserver {\n    listen 80;\n    server_name eliai.cn www.eliai.cn;\n    location ^~ /.well-known/acme-challenge/ {\n        root /srv/eli-sites/portfolio/acme;\n        default_type text/plain;\n        try_files $uri =404;\n    }\n    location / { return 301 https://www.eliai.cn$request_uri; }\n}\nserver {\n    listen 443 ssl;\n    server_name eliai.cn;\n    ssl_certificate /etc/letsencrypt/live/www.eliai.cn/fullchain.pem;\n    ssl_certificate_key /etc/letsencrypt/live/www.eliai.cn/privkey.pem;\n    ssl_protocols TLSv1.2 TLSv1.3;\n    return 301 https://www.eliai.cn$request_uri;\n}\nserver {\n    listen 443 ssl;\n    server_name www.eliai.cn;\n    ssl_certificate /etc/letsencrypt/live/www.eliai.cn/fullchain.pem;\n    ssl_certificate_key /etc/letsencrypt/live/www.eliai.cn/privkey.pem;\n    ssl_protocols TLSv1.2 TLSv1.3;\n    root /srv/eli-sites/portfolio/domain-current;\n    index index.html;\n    autoindex off;\n    add_header X-Content-Type-Options nosniff always;\n    location / { try_files $uri $uri/ =404; }\n    location ~ /\\. { deny all; }\n    error_page 404 /404.html;\n}\n",
+  "site_config_sha256": "5570323d452fc558369ebe860076dea84ad4490bce7e7ed3dfcdad6b78e0f759",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261017-toutiao-verification",
+  "nginx_log_directives": [
+    "access_log /var/log/nginx/access.log;",
+    "error_log /var/log/nginx/error.log;"
+  ],
+  "dns": {
+    "www.eliai.cn": "[REDACTED_HOST]   STREAM www.eliai.cn\n117.72.148.45   DGRAM  \n117.72.148.45   RAW",
+    "eliai.cn": "[REDACTED_HOST]   STREAM eliai.cn\n117.72.148.45   DGRAM  \n117.72.148.45   RAW"
+  }
+}

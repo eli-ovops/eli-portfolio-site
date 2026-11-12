@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "configured_phone_width": 400,
+  "tests": [
+    {
+      "description": "Agent 要读文件、写文件或发消息时，如何判断该给哪些权限？列出任务必需范围，先从只读或单目录开始，再核对新增请求。",
+      "h1": "Agent 要读文件、联网、发消息，都该允许吗？",
+      "language": "zh-CN",
+      "revision": "066456f5df9368a90560",
+      "scrollWidth": 1265,
+      "url": "https://www.eliai.cn/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+      "width": 1265
+    },
+    {
+      "description": "Decide which permissions an AI agent needs. Separate file reading, writes and external actions, and start with read-only or single-folder access.",
+      "h1": "Which permissions should you give an agent?",
+      "language": "en",
+      "revision": "066456f5df9368a90560",
+      "scrollWidth": 1265,
+      "url": "https://www.eliai.cn/en/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+      "width": 1265
+    },
+    {
+      "description": "Agent 要读文件、写文件或发消息时，如何判断该给哪些权限？列出任务必需范围，先从只读或单目录开始，再核对新增请求。",
+      "h1": "Agent 要读文件、联网、发消息，都该允许吗？",
+      "language": "zh-CN",
+      "scrollWidth": 385,
+      "url": "https://www.eliai.cn/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+      "width": 385
+    },
+    {
+      "description": "Decide which permissions an AI agent needs. Separate file reading, writes and external actions, and start with read-only or single-folder access.",
+      "h1": "Which permissions should you give an agent?",
+      "language": "en",
+      "scrollWidth": 385,
+      "url": "https://www.eliai.cn/en/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+      "width": 385
+    },
+    {
+      "articleRows": 102,
+      "h1": "AI 入门教程与实践文章",
+      "language": "zh-CN",
+      "scrollWidth": 385,
+      "url": "https://www.eliai.cn/articles.html?pv=066456f5df9368a90560",
+      "width": 385
+    },
+    {
+      "articleRows": 102,
+      "h1": "AI tutorials and practical notes",
+      "language": "en",
+      "scrollWidth": 385,
+      "url": "https://www.eliai.cn/en/articles.html?pv=066456f5df9368a90560",
+      "width": 385
+    }
+  ],
+  "detail_roundtrip": true,
+  "list_roundtrip": true,
+  "physical_phone": false
+}

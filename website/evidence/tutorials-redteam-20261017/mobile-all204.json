@@ -1,0 +1,1838 @@
+[
+  {
+    "documentWidth": 305,
+    "heading": "库存每天靠人工核对，先改哪一步？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/inventory-reconciliation.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/inventory-reconciliation.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "企业资料太散，做知识库答疑前要准备什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/enterprise-knowledge-base.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 是什么？先从一件小事理解",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-ai.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-ai.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 聊天和搜索引擎有什么区别？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-chat-vs-search.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-chat-vs-search.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "第一次用 AI，应该拿什么任务练手？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/first-ai-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/first-ai-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "新手怎么选 AI 工具，避免买一堆会员？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/choose-ai-tool.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/choose-ai-tool.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 一本正经胡说，怎么识别？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-hallucination.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-hallucination.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "哪些资料不该直接发给 AI？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-privacy-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-privacy-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "上传文件后，AI 真的读完了吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-file-reading.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-file-reading.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 图片能直接当产品实拍图吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-generated-images.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-generated-images.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 圈黑话太多？先分清这十个词",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-jargon-map.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-jargon-map.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "零基础学 AI，第一周怎么安排？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-learning-plan.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-learning-plan.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "LLM 是什么？和聊天软件是一回事吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-llm.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-llm.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "大模型怎么一句一句生成回答？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/how-llm-generates.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/how-llm-generates.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Token 是什么？为什么不是一个字一个 Token？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-token.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-token.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "上下文窗口是什么？为什么聊久了忘事？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/context-window.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/context-window.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "训练和推理有什么区别？聊天是在训练它吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/training-vs-inference.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/training-vs-inference.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "神经网络是什么？不学公式怎么理解？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/neural-network-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/neural-network-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Embedding 是什么？资料为什么能按意思查？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/embeddings-explained.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/embeddings-explained.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "RAG 是什么？为什么企业知识库常用它？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/rag-explained.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/rag-explained.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "微调、知识库和提示词，先用哪个？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/fine-tuning-or-rag.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/fine-tuning-or-rag.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "模型越大越好吗？怎么判断够不够用？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/model-size-and-cost.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/model-size-and-cost.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Prompt 是什么？怎么把一句话需求讲清？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/prompt-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/prompt-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "怎么给 AI 背景信息，又不写成一大篇？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/provide-context.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/provide-context.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "给 AI 一个例子，为什么比反复解释更好？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/prompt-with-example.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/prompt-with-example.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "怎么让 AI 稳定输出表格或固定字段？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/structured-ai-output.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/structured-ai-output.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "任务太大做不好？怎么拆给 AI？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/break-down-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/break-down-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "怎么让 AI 先问关键问题，又不一直问？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ask-clarifying-questions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ask-clarifying-questions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "让 AI 改文案，怎样不改掉原意？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/rewrite-with-ai.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/rewrite-with-ai.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "让 AI 比方案，怎么避免凭空打分？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-compare-options.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-compare-options.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 答偏了，怎么反馈才有效？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/fix-bad-ai-answer.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/fix-bad-ai-answer.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "好用的提示词怎么保存成模板？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/save-prompt-template.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/save-prompt-template.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Agent 是什么？跟普通 AI 聊天差在哪？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-agent.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-agent.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "新手第一次用 Agent，该选什么任务？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-first-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-first-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Agent 要读文件、联网、发消息，都该允许吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-tools-permissions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-tools-permissions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Agent 写了计划，为什么不算完成？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-plan-and-act.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-plan-and-act.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "工作流和 Agent，企业先用哪种？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-workflow-difference.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-workflow-difference.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Agent 为什么要边做边检查？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-feedback-loop.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-feedback-loop.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Agent 的记忆靠谱吗？重要规则放哪里？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-memory.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-memory.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "怎么防止 Agent 一直重试、一直花钱？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-stop-rules.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-stop-rules.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "多 Agent 是什么？一个人用 AI 需要吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/multi-agent-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/multi-agent-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Agent 上岗前，老板应该检查哪几件事？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/agent-risk-checklist.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/agent-risk-checklist.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Skill 是什么？是不是另一个 AI？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-skill.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-skill.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "SKILL.md 是什么？一个技能包里放什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/skill-file-structure.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/skill-file-structure.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Skill 和提示词模板，什么时候用哪个？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/skill-vs-prompt.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/skill-vs-prompt.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "网上下载的 Skill，安装前看什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/skill-install-safely.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/skill-install-safely.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "会议纪要 Skill 怎么写成能反复检查的规则？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/create-first-skill.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/create-first-skill.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "MCP 是什么？为什么叫连接 AI 的接口？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-mcp.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-mcp.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "MCP 连上却查询失败？它和 API 分别负责什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/mcp-vs-api.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/mcp-vs-api.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "第一次接 MCP，为什么先用只读？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/mcp-read-only.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/mcp-read-only.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "技能装好了却不生效，先查哪里？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/skill-not-working.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/skill-not-working.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "提示词注入是什么？网页为什么会指挥 AI？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/prompt-injection-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/prompt-injection-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Harness 是什么？为什么光有模型还不够？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-harness.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-harness.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "不会编程，能让 AI 写一个小工具吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-coding-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-coding-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 改代码前，外行要看懂什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/read-ai-code-plan.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/read-ai-code-plan.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "终端是什么？为什么 AI 总让我运行命令？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/terminal-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/terminal-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "本地预览和正式上线，有什么区别？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-local-preview.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-local-preview.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "验收测试是什么？怎么判断 AI 写完了？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/acceptance-tests.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/acceptance-tests.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 修 Bug，怎么避免越修越乱？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-debugging.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-debugging.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "长任务的检查点，应该记哪些信息？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-checkpoints.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-checkpoints.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "依赖是什么？装一个包为什么带来很多文件？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/dependency-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/dependency-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "让 AI 看代码，API Key 应该怎么处理？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/coding-without-secrets.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/coding-without-secrets.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "GitHub 是什么？外行可以用来干什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-github.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-github.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Repository 仓库是什么？不是网盘吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/repository-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/repository-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "README 怎么看？先找这五类信息",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/readme-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/readme-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "下载源码 ZIP 和 Release，有什么区别？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/download-release-or-source.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/download-release-or-source.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Commit 提交是什么？和保存文件一样吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/commit-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/commit-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Branch 分支是什么？新手为什么要用？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/branch-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/branch-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Pull Request 是什么？不是点了就上线吧？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/pull-request-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/pull-request-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "怎么在 GitHub 提问，别人更容易帮你？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/issue-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/issue-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "开源就是免费随便商用吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/open-source-license.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/open-source-license.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "GitHub 公开与私有仓库，怎么避免泄露？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/github-public-private.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/github-public-private.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 是什么？能怎么协助办公？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-workbuddy.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-workbuddy.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 第一个任务怎么建，产物在哪里找？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-first-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-first-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "用 WorkBuddy 整理文件，怎么先预览再改名？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-file-organizing.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-file-organizing.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "用 WorkBuddy 把会议文字存成纪要文件，怎么核对？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-meeting-notes.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-meeting-notes.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 能帮我看 Excel 吗？先从异常清单开始",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-spreadsheet.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-spreadsheet.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "用 WorkBuddy 写文档，怎么避免生成空话？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-write-document.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-write-document.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 的技能怎么选，不要一次全装？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-skills.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-skills.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 连接邮箱或文档前，要弄清什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-connectors.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-connectors.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 权限提示看不懂，怎么决定？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-permissions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-permissions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "WorkBuddy 卡住或没产物，怎么排查？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/workbuddy-task-failed.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/workbuddy-task-failed.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "用 AI 写邮件，怎么做到有用又不乱承诺？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-email-draft.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-email-draft.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "会议纪要里怎么区分决定和建议？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-meeting-actions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-meeting-actions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "表格太乱，AI 清洗前先定什么规则？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-spreadsheet-cleaning.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-spreadsheet-cleaning.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "用 AI 核对库存，第一步为什么只列异常？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-inventory-exceptions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-inventory-exceptions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 写产品文案，哪些信息绝对不能编？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-product-copy.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-product-copy.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 翻译能直接发客户吗？怎么检查？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-translation-review.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-translation-review.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "周报怎么用 AI 整理，不把计划写成成果？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-weekly-report.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-weekly-report.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "OCR 是什么？识别单据后还要核对什么？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-ocr-check.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-ocr-check.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "企业知识库从哪里开始，不是把文件全上传？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-knowledge-base-start.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-knowledge-base-start.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 怎么把老师傅经验整理成操作步骤？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-sop-writing.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-sop-writing.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "老板想用 AI 提效，第一步不是买系统",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/owner-ai-first-step.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/owner-ai-first-step.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "哪些工作适合先用 AI，哪些先别碰？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-task-selection.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-task-selection.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 小试点怎么做，避免一上来花大钱？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-pilot-design.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-pilot-design.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 提效要花哪些钱？别只看会员费",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-cost-breakdown.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-cost-breakdown.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 到底有没有提效？老板怎么量？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/measure-ai-benefit.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/measure-ai-benefit.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "怎么挑企业 AI 提效服务商，不被术语绕晕？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/choose-ai-provider.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/choose-ai-provider.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "FDE 是什么？中小企业需要关心这个职位吗？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/what-is-fde-business.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/what-is-fde-business.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "员工不愿用 AI，怎么安排入门培训？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-employee-training.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-employee-training.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI 工具交付后，谁负责更新和修问题？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-maintenance-owner.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-maintenance-owner.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "免费咨询前，老板准备哪三句话就够了？",
+    "lang": "zh-CN",
+    "languageHref": "http://127.0.0.1:4178/en/articles/ai-consultation-prepare.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/articles/ai-consultation-prepare.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Manual inventory checks every day: where should you start?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/inventory-reconciliation.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Company information is scattered: what should you prepare for a knowledge base?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/enterprise-knowledge-base.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/enterprise-knowledge-base.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is AI? Start with one small task",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-ai.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-ai.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI chat or search: which should you use?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-chat-vs-search.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-chat-vs-search.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should your first AI task be?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/first-ai-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/first-ai-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do beginners choose an AI tool?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/choose-ai-tool.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/choose-ai-tool.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you spot an AI hallucination?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-hallucination.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-hallucination.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should you avoid uploading to AI?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-privacy-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-privacy-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Did the AI actually read the whole file?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-file-reading.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-file-reading.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Can AI images replace product photos?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-generated-images.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-generated-images.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "AI jargon: ten terms worth separating",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-jargon-map.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-jargon-map.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "A first-week AI learning plan",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-learning-plan.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-learning-plan.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is an LLM, and is it the chat app?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-llm.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-llm.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How does a language model generate an answer?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/how-llm-generates.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/how-llm-generates.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a token, and is it one character?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-token.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-token.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a context window, and why does chat lose details?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/context-window.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/context-window.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Training versus inference: does chatting train the model?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/training-vs-inference.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/training-vs-inference.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a neural network without the equations?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/neural-network-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/neural-network-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What are embeddings, and how does semantic search work?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/embeddings-explained.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/embeddings-explained.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is RAG, and why use it for a knowledge base?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/rag-explained.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/rag-explained.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Prompting, RAG or fine-tuning: where should you start?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/fine-tuning-or-rag.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/fine-tuning-or-rag.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Is a bigger model always better for your task?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/model-size-and-cost.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/model-size-and-cost.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a prompt, and how do you write one?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/prompt-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/prompt-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How much background should you give AI?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/provide-context.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/provide-context.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How does an example improve your prompt?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/prompt-with-example.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/prompt-with-example.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you get a consistent table or field format?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/structured-ai-output.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/structured-ai-output.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you split a task AI keeps getting wrong?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/break-down-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/break-down-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How can AI ask useful questions without stalling?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ask-clarifying-questions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ask-clarifying-questions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you rewrite text without changing its meaning?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/rewrite-with-ai.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/rewrite-with-ai.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you compare options without invented scores?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-compare-options.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-compare-options.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How should you correct an off-target AI answer?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/fix-bad-ai-answer.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/fix-bad-ai-answer.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you save a useful prompt as a template?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/save-prompt-template.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/save-prompt-template.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is an AI agent compared with chat?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-agent.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-agent.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "A safe first task for an agent",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-first-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-first-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Which permissions should you give an agent?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-tools-permissions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-tools-permissions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Why is an agent's plan not proof of completion?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-plan-and-act.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-plan-and-act.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Workflow or agent: which should a business try first?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-workflow-difference.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-workflow-difference.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Why should an agent check between actions?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-feedback-loop.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-feedback-loop.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Can you rely on agent memory?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-memory.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-memory.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you stop endless agent retries?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-stop-rules.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-stop-rules.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What are multiple agents, and do you need them?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/multi-agent-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/multi-agent-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should an owner check before using an agent?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/agent-risk-checklist.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/agent-risk-checklist.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is an agent skill? Is it another AI?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-skill.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-skill.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is SKILL.md, and what belongs in a skill folder?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/skill-file-structure.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/skill-file-structure.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Skill or prompt template: which do you need?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/skill-vs-prompt.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/skill-vs-prompt.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should you check before installing a skill?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/skill-install-safely.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/skill-install-safely.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you make a meeting-notes skill repeatable and testable?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/create-first-skill.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/create-first-skill.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is MCP in plain language?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-mcp.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-mcp.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "MCP connects but a query fails: how is it different from an API?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/mcp-vs-api.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/mcp-vs-api.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Why start an MCP connection with read-only access?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/mcp-read-only.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/mcp-read-only.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "A skill is installed but not working. What now?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/skill-not-working.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/skill-not-working.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is prompt injection in a webpage?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/prompt-injection-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/prompt-injection-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is an agent harness, and why does it matter?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-harness.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-harness.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Can a non-programmer make a small tool with AI?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-coding-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-coding-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should you understand before AI edits code?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/read-ai-code-plan.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/read-ai-code-plan.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a terminal, and why does AI suggest commands?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/terminal-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/terminal-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Local preview versus publishing: what's the difference?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-local-preview.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-local-preview.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is an acceptance test for AI-generated software?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/acceptance-tests.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/acceptance-tests.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you stop AI bug fixes from causing more bugs?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-debugging.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-debugging.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What belongs in a checkpoint for a long AI task?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-checkpoints.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-checkpoints.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a dependency, and why does installation add files?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/dependency-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/dependency-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How should you handle API keys when AI reads code?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/coding-without-secrets.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/coding-without-secrets.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is GitHub useful for if you do not code?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-github.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-github.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a repository, and is it a cloud drive?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/repository-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/repository-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you read a README?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/readme-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/readme-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Source ZIP or release: what should you download?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/download-release-or-source.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/download-release-or-source.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a commit compared with saving a file?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/commit-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/commit-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a branch, and why use one?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/branch-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/branch-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is a pull request, and does it publish changes?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/pull-request-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/pull-request-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you write a useful GitHub issue?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/issue-basics.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/issue-basics.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Does open source mean unrestricted commercial use?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/open-source-license.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/open-source-license.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do public and private repositories affect privacy?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/github-public-private.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/github-public-private.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is WorkBuddy useful for at work?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-workbuddy.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-workbuddy.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you create a WorkBuddy task and find its output?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-first-task.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-first-task.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How can WorkBuddy preview file organization first?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-file-organizing.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-file-organizing.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you create and check a meeting-notes file in WorkBuddy?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-meeting-notes.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-meeting-notes.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Using WorkBuddy for spreadsheets: start with exceptions",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-spreadsheet.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-spreadsheet.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you get a useful WorkBuddy document draft?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-write-document.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-write-document.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How should you choose WorkBuddy skills?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-skills.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-skills.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should you check before connecting WorkBuddy accounts?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-connectors.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-connectors.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How should you respond to WorkBuddy permission prompts?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-permissions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-permissions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What if a WorkBuddy task stalls or produces no file?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/workbuddy-task-failed.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/workbuddy-task-failed.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you draft email without inventing commitments?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-email-draft.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-email-draft.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you separate meeting decisions from suggestions?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-meeting-actions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-meeting-actions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What rules come before AI spreadsheet cleaning?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-spreadsheet-cleaning.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-spreadsheet-cleaning.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Why start AI inventory checking with an exception list?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-inventory-exceptions.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-inventory-exceptions.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What must AI never invent in product copy?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-product-copy.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-product-copy.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How should you review an AI translation before sharing?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-translation-review.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-translation-review.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you use AI for a weekly report honestly?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-weekly-report.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-weekly-report.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is OCR, and what should you check on a receipt?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-ocr-check.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-ocr-check.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you start a business knowledge base?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-knowledge-base-start.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-knowledge-base-start.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you turn experience into a usable procedure?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-sop-writing.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-sop-writing.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "An owner's first AI step is not buying a system",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/owner-ai-first-step.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/owner-ai-first-step.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Which business tasks should AI try first?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-task-selection.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-task-selection.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you design a small AI pilot?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-pilot-design.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-pilot-design.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What costs belong in an AI implementation budget?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-cost-breakdown.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-cost-breakdown.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How should an owner measure AI's benefit?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/measure-ai-benefit.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/measure-ai-benefit.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you evaluate an AI implementation provider?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/choose-ai-provider.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/choose-ai-provider.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What is FDE, and why might a business owner care?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/what-is-fde-business.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/what-is-fde-business.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "How do you train staff who are reluctant to use AI?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-employee-training.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-employee-training.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Who maintains an AI tool after delivery?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-maintenance-owner.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-maintenance-owner.html",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "heading": "What should an owner prepare for an initial consultation?",
+    "lang": "en",
+    "languageHref": "http://127.0.0.1:4178/articles/ai-consultation-prepare.html?pv=6bb2818c1aab690a77d4",
+    "overflow": [],
+    "path": "/en/articles/ai-consultation-prepare.html",
+    "width": 320
+  }
+]

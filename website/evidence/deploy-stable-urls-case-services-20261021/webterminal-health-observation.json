@@ -1,0 +1,27 @@
+{
+  "observed_at": "2026-10-21T01:10:51.933619+00:00",
+  "source": "Authenticated JDCloud WebTerminal; native screenshot directly reviewed, no password read or saved",
+  "server_utc": "2026-10-21T01:07:04.596260+00:00",
+  "hostname": "lavm-zm3gcu3m6m",
+  "uptime_seconds": 1378554.69,
+  "load_average": [
+    0.0,
+    0.01220703125,
+    0.0
+  ],
+  "disk_free_bytes": 11011723264,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "current_release": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+  "matching_authorized_key_count": 1,
+  "key_expiry": "20261020235959",
+  "key_restrict_preserved": true,
+  "ssh_key_expiry_log_count": 0,
+  "diagnosis": "Authorized key expiry is confirmed in its options. Journal expiry-message count was 0; no log-specific attribution established yet. Current healthy uptime does not establish causes of historical outages.",
+  "security_changes": 0,
+  "next_method": "Use the owner-authenticated WebTerminal session for the already-authorized isolated static release; do not renew or replace key"
+}

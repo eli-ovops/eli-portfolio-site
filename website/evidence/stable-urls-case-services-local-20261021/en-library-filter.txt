@@ -1,0 +1,11 @@
+Browser tab: 9, Title: "Eli Projects | Business Systems, AI & Product Work", URL: "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 28, 34, 36-70
+~1 AXWebArea Eli Projects | Business Systems, AI & Product Work, URL: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory
+~	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory#main
+~				18 checkbox All, Value: 0
+~				19 checkbox Client work, Value: 1
+~				26 search text field (settable) Search projects, Value: inventory, ID: search
++			93 text 2 projects
+~			80 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory#main
+The focused UI element is 26 search text field (settable) Search projects, Value: inventory, ID: search

@@ -1,0 +1,91 @@
+{
+  "checked_at": "2026-10-22T11:27:23.367Z",
+  "observations": [
+    {
+      "test": "Chinese canonical home project selection",
+      "url": "https://www.eliai.cn/?project=p36#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Language switch retains selected project and work anchor",
+      "url": "https://www.eliai.cn/en/?project=p36#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "English home to case, explicit origin",
+      "url": "https://www.eliai.cn/en/cases/p36.html?from=%2Fen%2F%3Fproject%3Dp36%23work",
+      "revision": "ee333e5fb82b7096a06c",
+      "back": "https://www.eliai.cn/en/?project=p36#work"
+    },
+    {
+      "test": "English case returns to canonical home and selected project",
+      "url": "https://www.eliai.cn/en/?project=p36#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Switch back to Chinese keeps project and anchor",
+      "url": "https://www.eliai.cn/?project=p36#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Chinese home to case",
+      "url": "https://www.eliai.cn/cases/p36.html?from=%2F%3Fproject%3Dp36%23work",
+      "revision": "ee333e5fb82b7096a06c",
+      "back": "https://www.eliai.cn/?project=p36#work"
+    },
+    {
+      "test": "Chinese case returns to canonical home with project",
+      "url": "https://www.eliai.cn/?project=p36#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Chinese consultation entry",
+      "url": "https://www.eliai.cn/about.html#contact",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Legacy English homepage keeps project return and anchor after canonical cleanup",
+      "url": "https://www.eliai.cn/en/?project=p36&return=p10#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Legacy return context carried across languages",
+      "url": "https://www.eliai.cn/?project=p36&return=p10#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Round trip preserves both project and return",
+      "url": "https://www.eliai.cn/?project=p36&return=p10#work",
+      "revision": "ee333e5fb82b7096a06c",
+      "status": "One rapid click left the Chinese page unchanged; inspected fresh DOM, then confirmed English navigation in next observation"
+    },
+    {
+      "test": "Confirmed English language round trip after checking page state",
+      "url": "https://www.eliai.cn/en/?project=p36&return=p10#work",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "English consultation section reached",
+      "url": "https://www.eliai.cn/en/about.html#contact",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Filtered project catalogue before case return",
+      "url": "https://www.eliai.cn/records.html?q=%E5%BA%93%E5%AD%98",
+      "revision": "ee333e5fb82b7096a06c"
+    },
+    {
+      "test": "Filtered catalogue case carries q and return",
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Frecords.html%3Fq%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10",
+      "revision": "ee333e5fb82b7096a06c",
+      "back": "/records.html?q=%E5%BA%93%E5%AD%98&return=p10"
+    },
+    {
+      "test": "Case returns to filtered catalogue",
+      "url": "https://www.eliai.cn/records.html?q=%E5%BA%93%E5%AD%98",
+      "revision": "ee333e5fb82b7096a06c"
+    }
+  ],
+  "traffic": "OWN_QA_NOT_ORGANIC",
+  "note": "One unchanged rapid-click observation retained honestly; a subsequent fresh-state click reached the expected English URL. No site changes during QA."
+}

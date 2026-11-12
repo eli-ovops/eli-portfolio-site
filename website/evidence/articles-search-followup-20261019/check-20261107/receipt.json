@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-11-07T02:00:35Z",
+  "scope": "Windsor Search Console only; native index and AI reports not read today",
+  "requested_window": [
+    "2026-10-31",
+    "2026-11-06"
+  ],
+  "final_daily": [
+    {
+      "date": "2026-10-31",
+      "impressions": 18,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-01",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-02",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-03",
+      "impressions": 0,
+      "clicks": 0
+    },
+    {
+      "date": "2026-11-04",
+      "impressions": 1,
+      "clicks": 0
+    }
+  ],
+  "final_missing": [
+    "2026-11-05",
+    "2026-11-06"
+  ],
+  "fresh_rows_relevant": [
+    {
+      "date": "2026-10-31",
+      "page": "https://www.eliai.cn/services/workflow-automation.html",
+      "impressions": 1,
+      "clicks": 0,
+      "query": "UNDISCLOSED",
+      "attribution": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-04",
+      "page": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "impressions": 1,
+      "clicks": 0,
+      "query": "UNDISCLOSED",
+      "attribution": "UNKNOWN"
+    }
+  ],
+  "fresh_query_rows": 0,
+  "query_interpretation": "No returned rows, not proof of no searches or index status",
+  "note": "Nov 4 article exposure previously observed Nov 6; no confirmed new target natural demand. Account data fetched at 2026-11-07T02:00:34-35Z. Other platforms UNKNOWN today. No active model tests or external writes."
+}

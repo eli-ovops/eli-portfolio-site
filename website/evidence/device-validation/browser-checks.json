@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "versions": {
+    "Safari": "27.0.1",
+    "Google Chrome": "154.0.8037.98"
+  },
+  "Safari": [
+    "homepage rendered",
+    "project selection04",
+    "original image modal",
+    "original-size mode",
+    "Escape closes and returns focus",
+    "inline case details",
+    "project library search returns2 for库存"
+  ],
+  "Chrome": [
+    "homepage rendered",
+    "project selection03",
+    "original image modal",
+    "Escape closes and returns focus"
+  ],
+  "Firefox": "not validated; no available connected browser",
+  "physical_iPhone_Android": "not available",
+  "touch_simulation": "IAB touch injection unsupported; native Chrome currently used by another workflow, no further intervention"
+}

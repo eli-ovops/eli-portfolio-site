@@ -1,0 +1,138 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: /en/
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en/
+    - link "Projects":
+      - /url: ../records.html
+    - link "Articles":
+      - /url: ../articles.html
+    - link "About":
+      - /url: ../about.html
+    - link "Switch to Chinese":
+      - /url: ../../cases/p36.html
+      - text: 中文
+- main:
+  - link "← Back to homepage projects":
+    - /url: https://www.eliai.cn/en/?project=p36#work
+  - generic: Client work
+  - heading "UK water purification brand · RAG support" [level=1]:
+    - generic: UK water purification brand · RAG support
+  - paragraph: Team customization and delivery
+  - paragraph: Provide question input, quick support and contact entry points for product and brand knowledge on an independent website.
+  - figure "View image ↗":
+    - 'link "Enlarge screenshot: UK water purification brand · RAG support"':
+      - /url: ../../assets/public-cases/p36.png
+      - img "UK water purification brand · RAG support — anonymized interface"
+    - link "View image ↗":
+      - /url: ../../assets/public-cases/p36.png
+  - term: My work
+  - definition: Knowledge base, retrieval configuration and testing
+  - term: Interface record
+  - definition: Initial support interface and entry points
+  - complementary:
+    - heading "Overview" [level=2]
+    - navigation "Case sections":
+      - link "Context":
+        - /url: "#why"
+      - link "My role":
+        - /url: "#role"
+      - link "Work delivered":
+        - /url: "#outputs"
+      - link "Approach":
+        - /url: "#process"
+      - link "Delivery & feedback":
+        - /url: "#result"
+      - link "Available evidence and gaps":
+        - /url: "#evidence"
+  - heading "Context" [level=2]
+  - paragraph: Website visitors needed answers about water filtration products and brand information.
+  - heading "My role" [level=2]
+  - paragraph: I handled knowledge-base organization, retrieval configuration and testing. The team handled version backups, deployment and upgrade rollback preparation.
+  - heading "Work delivered" [level=2]
+  - paragraph: The support interface provides a welcome message, quick options, question input and contact routes.
+  - heading "Approach" [level=2]
+  - paragraph: The team customized an existing foundation, progressing from enquiry scope, knowledge-base organization and retrieval configuration to demos, client confirmation and live testing.
+  - heading "Delivery & feedback" [level=2]
+  - paragraph: According to my project account, delivery took about two months. No answer-accuracy or support-efficiency metrics were provided.
+  - heading "Available evidence and gaps" [level=2]
+  - paragraph: Available material includes the owner’s project account and the initial support interface, showing the welcome message, quick support, question input and contact entry. Answer quality and retrieval performance require corresponding answer and retrieval records.
+  - paragraph:
+    - link "Enterprise client projects ↗":
+      - /url: /en/cases/p01.html?from=%2Fen%2F%3Fproject%3Dp36%23work
+  - paragraph:
+    - link "UK water purification brand marketing ↗":
+      - /url: /en/cases/p05.html?from=%2Fen%2F%3Fproject%3Dp36%23work
+  - region "Talk about your business":
+    - heading "Talk about your business" [level=2]
+    - paragraph: You do not need a complete solution. Share one time-consuming task and we can discuss where AI or software could help.
+    - paragraph:
+      - link "View enterprise knowledge base setup services":
+        - /url: ../services/ai-agent.html
+        - text: View enterprise knowledge base setup services
+        - generic: ↗
+    - link "Let’s talk":
+      - /url: ../about.html#contact
+      - text: Let’s talk
+      - generic: ↗
+  - link "More projects":
+    - /url: ../records.html
+    - text: More projects
+    - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: /en/
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: ../records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

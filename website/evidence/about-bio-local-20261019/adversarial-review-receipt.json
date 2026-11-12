@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-19",
+  "revision": "ec095f94c1b430789479",
+  "reviewers": [
+    "about_content_review",
+    "about_mobile_review"
+  ],
+  "findings": 3,
+  "functional_blockers": 0,
+  "severity": "P3",
+  "source_hashes_at_review": {
+    "content/profile.json": "53255fc70811b3cd5c91c5542bd612b91d4d30fe2d96fd892ec991832eb3ff35",
+    "content/en.json": "455800f573b96b4c2366e316f19767f7dbfb9f2a1ac48daadd8d4203c5a54422",
+    "templates/about.html": "30f7354cd2a76d65b9f0991631daff32b54d4116dc7abec0958181917f5681da",
+    "scripts/pages.py": "eb19152e3ccf40c12400b52f1427ed0006183c9251afaba92360eebe317429ca",
+    "content/page-updates.json": "d68ac88f1d2600c488174bf9e572c403d6371e9f7429dfce56552063ab613181"
+  },
+  "product_changes": 0,
+  "builds": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "artifacts": [
+    "adversarial-review.md",
+    "adversarial-review-receipt.json",
+    "independent-mobile-review.json"
+  ]
+}

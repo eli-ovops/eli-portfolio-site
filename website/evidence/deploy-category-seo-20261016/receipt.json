@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-16T05:35:22.474233+00:00",
+  "status": "PUBLISHED_AND_BING_SUBMITTED_BAIDU_PENDING",
+  "release": "20261016-service-keywords-03985a2d",
+  "revision": "03985a2ddb6824f06f7f",
+  "domain": "https://www.eliai.cn/",
+  "publication": {
+    "status": "PUBLISHED",
+    "revision": "03985a2ddb6824f06f7f",
+    "current": "/srv/eli-sites/portfolio/domain-releases/20261016-service-keywords-03985a2d",
+    "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-093235-sogou-verification",
+    "public_hashes_checked": 14,
+    "services": {
+      "nginx": "active",
+      "erp-trial": "active",
+      "mysql": "active",
+      "redis-server": "active"
+    },
+    "configs_and_ip_preview": "UNCHANGED"
+  },
+  "scope": "Three bilingual service pages, home SEO metadata and lightweight entry links, sitemap88 and matching context. Production CSS/JS and unrelated catalogue retained. No server configuration or other business changes.",
+  "verification": {
+    "candidate_checks": "candidate-checks.json",
+    "public_https_hashes": "public-http-checks.json",
+    "browser": "browser-checks.json and browser-mobile-final.json",
+    "desktop_service_case_return": "native mouse opened P10, browser Back restored FDE page at scrollY1369",
+    "consultation": "Desktop and390 mobile reached about.html#contact; mail, phone and QR destinations inspected only; no call/email sent",
+    "mobile": "390px Chinese home + all three services;320px English Agent; simulated viewport, not a physical device",
+    "search_rankings": "Not established"
+  },
+  "Bing": {
+    "new_urls_accepted": 6,
+    "submitted_total": 88,
+    "quota_before": 18,
+    "quota_after": 12,
+    "proof": "bing-six-submitted.json",
+    "indexed": "UNKNOWN",
+    "sitemap": "Public sitemap now88; this run did not request a separate native sitemap resubmit"
+  },
+  "Baidu": {
+    "review": "提交成功！我们将在2-5个工作日内完成审核，请耐心等待。 返回",
+    "quota": {
+      "controls": [
+        {
+          "disabled": false,
+          "placeholder": "点击选择站点",
+          "tag": "INPUT",
+          "type": "text"
+        },
+        {
+          "disabled": true,
+          "placeholder": "",
+          "tag": "TEXTAREA",
+          "type": null
+        },
+        {
+          "disabled": true,
+          "label": "提交",
+          "placeholder": null,
+          "tag": "BUTTON",
+          "type": null
+        }
+      ],
+      "text": "2、API提交和手动提交共享配额，sitemap提交配额不与其他方式共享，具体配额以站点页面显示数据为准 。配额不可累计，当日有效。\n今日提交上限：0条   今日提交余额：0条\n填写站点的主体备案号，可以提高每日提交上限。去填写\n存量文件上限：0条  存量文件余额：0条"
+    },
+    "newSubmissions": 0
+  },
+  "followup": {
+    "automationId": "seo",
+    "kind": "heartbeat",
+    "status": "ACTIVE",
+    "daily_local_time": "10:00",
+    "scope": "Check review/quota; submit native sitemap or six new service URLs as allowed; hand off CAPTCHA/login; stay quiet if unchanged; pause after successful submission"
+  },
+  "artifacts": "Scoped source/candidate/backup archives and screenshots retained for recovery/review. No disposable intermediates deleted.",
+  "model_and_effort": "UNKNOWN"
+}

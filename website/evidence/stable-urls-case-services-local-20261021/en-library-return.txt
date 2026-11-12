@@ -1,0 +1,59 @@
+Browser tab: 9, Title: "Eli Projects | Business Systems, AI & Product Work", URL: "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory".
+1 AXWebArea Eli Projects | Business Systems, AI & Product Work, URL: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory
+	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory#main
+	3 container
+		4 link Description: Eli home, Value: 127.0.0.1:4178/en/index.html
+		5 container Main navigation
+			6 link Description: Home, Value: 127.0.0.1:4178/en/index.html
+			7 link Description: Projects, Value: 127.0.0.1:4178/en/records.html
+			8 link Description: Articles, Value: 127.0.0.1:4178/en/articles.html
+			9 link Description: About, Value: 127.0.0.1:4178/en/about.html
+			10 link Description: Switch to Chinese, Value: 127.0.0.1:4178/records.html
+	11 container main
+		12 container
+			13 heading Project library, Value: 1
+				14 text Project library
+			15 text Client work, product development and research.
+		16 container archive
+			17 container Project filters
+				18 checkbox All, Value: 0
+				19 checkbox Client work, Value: 1
+				20 checkbox Websites & tools, Value: 0
+				21 checkbox Mobile apps, Value: 0
+				22 checkbox Content & research, Value: 0
+				23 checkbox Methods & tools, Value: 0
+			24 container
+				25 text Search projects
+				26 search text field (settable) Search projects, Value: inventory, ID: search
+			27 text Client work spans project types; filters may overlap.
+			28 text 2 projects
+			29 text Featured first
+			30 button (collapsed) Search tips, Secondary Actions: Expand
+				31 text Search tips
+			32 content list
+				33 link Value: 127.0.0.1:4178/en/cases/p10.html, Description: P10 Websites & tools Sanitaryware manufacturer inventory system Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.
+				34 link Value: 127.0.0.1:4178/en/cases/p09.html, Description: P09 Websites & tools Furniture barcode inventory system Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.
+	35 container
+		36 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/en/index.html
+		37 container Contact details
+			38 text Email
+			39 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			40 text Phone
+			41 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		42 container Page navigation
+			43 link Description: Projects ↗, Value: 127.0.0.1:4178/en/records.html
+			44 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory#main
+		45 container Social profiles
+			46 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			47 link Description: Bilibili, Value: space.bilibili.com/432834855
+			48 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			49 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			50 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			51 link Description: X, Value: x.com/cczij1112
+			52 link Description: Weibo, Value: weibo.com/u/7720929036
+			53 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			54 link Description: Instagram, Value: instagram.com/eliaifde/
+			55 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		56 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 33 link URL: 127.0.0.1:4178/en/cases/p10.html, Description: P10 Websites & tools Sanitaryware manufacturer inventory system Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.

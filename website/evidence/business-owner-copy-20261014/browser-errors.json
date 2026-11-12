@@ -1,0 +1,20 @@
+[
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "timestamp": "2026-10-14T05:12:44.421Z",
+    "url": "http://127.0.0.1:4178/index.html?pv=468a4e0e3d6cfbcdd70b"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T05:13:27.701Z",
+    "url": "http://127.0.0.1:4178/about.html?pv=468a4e0e3d6cfbcdd70b#contact"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T05:13:54.317Z",
+    "url": "http://127.0.0.1:4178/en/about.html?pv=468a4e0e3d6cfbcdd70b#contact"
+  }
+]

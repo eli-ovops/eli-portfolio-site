@@ -1,0 +1,430 @@
+{
+  "date": "2026-10-10",
+  "scope": "Local browser verification only; simulated viewports, no physical touchscreen/FPS/production checks",
+  "before": {
+    "recordsZh390": 540,
+    "caseP10En390": 550
+  },
+  "results": [
+    {
+      "page": "records-zh",
+      "viewport": 390,
+      "clientFilter": "库存 -> P09 and P10",
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "viewport": 390
+      }
+    },
+    {
+      "page": "p10-en",
+      "viewport": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "indexScrollWidth": 712,
+        "indexWidth": 335,
+        "scrollWidth": 375,
+        "viewport": 390
+      }
+    },
+    {
+      "page": "home-zh-expanded-p10",
+      "viewport": 390,
+      "metrics": {
+        "captionHeight": 497,
+        "captionOverflow": "visible",
+        "captionScrollHeight": 497,
+        "cardHeight": 747,
+        "clientWidth": 375,
+        "galleryHeight": 747,
+        "open": true,
+        "scrollMode": "page",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "mobile scroll moves page without switching case",
+      "before": {
+        "index": "2.000",
+        "y": 896
+      },
+      "after": {
+        "index": "2.000",
+        "y": 1104
+      }
+    },
+    {
+      "test": "home full case link zh",
+      "url": "http://127.0.0.1:4178/cases/p10.html"
+    },
+    {
+      "test": "responsive width",
+      "page": "index.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "records.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "about.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "cases/p10.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/index.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/records.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/about.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/cases/p10.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "overflow": false,
+        "scrollWidth": 305
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "index.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "records.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "about.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "cases/p10.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/index.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/records.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/about.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/cases/p10.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "overflow": false,
+        "scrollWidth": 375
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "index.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "records.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "about.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "cases/p10.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/index.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/records.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/about.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/cases/p10.html",
+      "width": 768,
+      "metrics": {
+        "clientWidth": 753,
+        "overflow": false,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "test": "English client inventory filter",
+      "url": "http://127.0.0.1:4178/en/records.html?q=inventory&category=Client+work",
+      "visible": 2
+    },
+    {
+      "test": "English filter restored after reload",
+      "visible": 2,
+      "query": null
+    },
+    {
+      "test": "English full case link",
+      "url": "http://127.0.0.1:4178/en/cases/p10.html"
+    },
+    {
+      "test": "responsive width",
+      "page": "index.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "records.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "about.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "cases/p10.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/index.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/records.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/about.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "responsive width",
+      "page": "en/cases/p10.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "overflow": false,
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "desktop depth and keyboard retained",
+      "metrics": {
+        "current": "洁具行业某大型 B 端厂商库存管理系统",
+        "enabled": true,
+        "galleryInlineHeight": "",
+        "scrollMode": "pointer-region"
+      }
+    },
+    {
+      "test": "desktop ArrowRight advances to P36",
+      "metrics": {
+        "current": "英国某净水品牌 RAG 智能客服定制",
+        "position": "2.866"
+      }
+    },
+    {
+      "test": "reduced motion fallback",
+      "metrics": {
+        "accessibleCards": 7,
+        "depthEnabled": false,
+        "inlineHeight": "",
+        "links": 7,
+        "reduced": true
+      }
+    }
+  ],
+  "changed_source_sha256": {
+    "styles.css": "66837b36b2a670b667b2b8740108da4a4f77cf9cea764832f8188775e2ae217f",
+    "assets/editorial.css": "c04f703f22382bad048563c04ba6010ae94814730c01d56008dbb6e149eef00d",
+    "assets/depth-gallery.js": "6948a8bb344982a56199e013108e29699bf9afe54fb639909bfb4806a3e46dbe",
+    "scripts/components.py": "360230f50c3c3fcc05cee4d8490f9c574de2085f5459ce35f4e684b5e06f7f65",
+    "scripts/pages.py": "f79c6bf3e4a8d5e817616ac3d0d244793963af3c7d4da70bb41c4705ed326415",
+    "templates/gallery-project.html": "4b13fb7eb8c0118ebef65c49f0f030b3c4922cfb10f5e7b14f1031d8d0448bac",
+    "app.js": "aac18cbdf88b36c7ec025d8b57dbead140358867d518c1028c1d7ace59774cc7"
+  }
+}

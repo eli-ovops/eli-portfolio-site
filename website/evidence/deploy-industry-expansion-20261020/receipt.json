@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-10-20T20:00:49.856102+08:00",
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "revision": "4bc544a5361e14236d53",
+  "release": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+  "previous_release_retained": "/srv/eli-sites/portfolio/domain-releases/20261020-seo-geo-87919417",
+  "authorization_reference": "authorization.json",
+  "scope": "Approved bilingual 8 primary +7 additional industry scenarios and ordering; reuse existing appearance and animation; related cases preserved, no invented experience",
+  "main_industries_per_language": 8,
+  "more_industries_per_language": 7,
+  "new_case_links": 0,
+  "public_files_verified": 369,
+  "server_public_hash_checks": 21,
+  "independent_public_hash_checks": 11,
+  "verification_files_preserved": 6,
+  "visible_html_changed": [
+    "index.html",
+    "en/index.html"
+  ],
+  "other_visible_html_unchanged": 294,
+  "changed_css": [
+    "assets/industry-scenarios.css"
+  ],
+  "all_js_media_other_css_unchanged": true,
+  "new_frosted_glass": false,
+  "browser_checks": "Desktop1335, Chinese360 and English390; nested disclosure and settled heights, collapse/focus, bilingual roundtrip, both consultation landings PASS",
+  "phone": "Browser simulation, not physical devices",
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview_unchanged": true,
+  "package_sha256": "2e5746eb6e0602c1720508be85cdeb84d9404d2ae4f888a1c73bc23902e71046",
+  "deployments": 1,
+  "search_submissions": 0,
+  "indexing_requests": 0,
+  "external_messages": 0,
+  "analytics_attribution": "All QA visits and consultation clicks are our tests, not natural search or customer enquiries",
+  "pending_local_change": "NONE",
+  "deliverable_url": "https://www.eliai.cn/index.html?pv=4bc544a5361e14236d53#industries",
+  "screenshots": [
+    "published-industries-desktop.jpg",
+    "industry-en-mobile.jpg",
+    "industry-zh-mobile-expanded.jpg"
+  ],
+  "evidence": [
+    "authorization.json",
+    "scope-audit.json",
+    "preflight.json",
+    "validate.json",
+    "publish.json",
+    "postflight.json",
+    "public-http-checks.json",
+    "browser-checks.json"
+  ]
+}

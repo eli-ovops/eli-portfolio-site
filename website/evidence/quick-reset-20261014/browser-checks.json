@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-14",
+  "revision": "147597147401d66f13ca",
+  "checks": [
+    {
+      "name": "real-mouse-press-release",
+      "held": {
+        "active": "search",
+        "count": "0 项记录",
+        "q": "完全无匹配XYZ"
+      },
+      "released": {
+        "active": "search",
+        "category": "全部",
+        "count": "38 项记录",
+        "q": "",
+        "url": "http://127.0.0.1:4178/records.html?pv=147597147401d66f13ca"
+      }
+    },
+    {
+      "name": "mouse-drag-cancels-reset",
+      "count": "0 项记录",
+      "q": "完全无匹配XYZ"
+    },
+    {
+      "name": "keyboard-reset",
+      "count": "38 项记录",
+      "focus": "search",
+      "q": ""
+    },
+    {
+      "name": "8-rapid-filter-type-mouse-reset",
+      "trials": [
+        {
+          "trial": 0,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 1,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 2,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 3,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 4,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 5,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 6,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 7,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        }
+      ]
+    },
+    {
+      "name": "after-reset-related-explicit-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "name": "after-reset-native-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "name": "native-return-then-immediate-mouse-reset",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "name": "English-390-reduce-mouse-reset",
+      "trials": [
+        {
+          "category": "All",
+          "count": "38 projects",
+          "focus": "search",
+          "q": "",
+          "width": 390
+        },
+        {
+          "category": "All",
+          "count": "38 projects",
+          "focus": "search",
+          "q": "",
+          "width": 390
+        },
+        {
+          "category": "All",
+          "count": "38 projects",
+          "focus": "search",
+          "q": "",
+          "width": 390
+        }
+      ]
+    },
+    {
+      "name": "English-390-reduce-return",
+      "category": "Client work",
+      "count": "2 projects",
+      "q": "inventory",
+      "width": 390
+    },
+    {
+      "name": "English-keyboard-reset",
+      "count": "38 projects",
+      "focus": "search",
+      "q": ""
+    }
+  ],
+  "baseline_fresh_reproduced": false,
+  "scope": "IAB desktop and English 390x844 reduced motion; no real touch/iOS Safari; no publication; no indexing changes"
+}

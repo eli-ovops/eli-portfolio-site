@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.eliai.cn/index.html",
+    "status": 200,
+    "sha256": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+    "canonical_root_declared": true
+  },
+  {
+    "url": "https://www.eliai.cn/en/index.html",
+    "status": 200,
+    "sha256": "7a251d797aaaede3d0e496d178b96338987a501ca245786620a9b06b99bb18bf",
+    "canonical_root_declared": true
+  }
+]

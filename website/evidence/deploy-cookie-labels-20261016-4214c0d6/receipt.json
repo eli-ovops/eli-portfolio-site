@@ -1,0 +1,25 @@
+{
+  "time": "2026-10-16T12:15:32.493011+00:00",
+  "status": "PUBLISHED_LIVE_QA_PASSED",
+  "revision": "4214c0d6f6cd8e3dd8ce",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261016-cookie-labels-4214c0d6",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-sme-price-4faf1760",
+  "archive_sha256": "c32b18978e74be15e7cd9095632c2943fcdfebf7c11538afbf3ca2c38b09187b",
+  "scope": "Chinese labels only: 允许 / 暂不. Full file comparison proves all other content/assets unchanged except generated revision strings.",
+  "scope_evidence": "scope-check.json",
+  "browser_evidence": "browser-checks.json",
+  "mobile": "320x740 and390x844 simulated viewports; no overflow;44px buttons; consultation action above bar",
+  "buttons": "Deny persists and does not load collector. Allow closes banner and starts collector. Original deny preference restored.",
+  "unchanged": [
+    "styles and motion",
+    "business/pricing copy",
+    "analytics consent logic and settings",
+    "production indexing",
+    "five search verification files",
+    "nginx/DNS/SSL/ERP/IP preview"
+  ],
+  "limits": [
+    "Simulated phone widths, no physical device",
+    "Baidu dashboard conversion issue remains separate"
+  ]
+}

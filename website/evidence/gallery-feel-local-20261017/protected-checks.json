@@ -1,0 +1,12 @@
+{
+  "assets/stacked-gallery.css": true,
+  "styles.css": true,
+  "motion.js": true,
+  "assets/home-ambient.js": true,
+  "content/profile.json": true,
+  "content/en.json": true,
+  "content/projects.json": true,
+  "content/seo.json": true,
+  "assets/page-version.js": true,
+  "assets/site-analytics.js": true
+}

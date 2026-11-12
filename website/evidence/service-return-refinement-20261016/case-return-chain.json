@@ -1,0 +1,13 @@
+{
+  "relatedServiceCheck": {
+    "back": "http://127.0.0.1:4178/services/fde-consulting.html?pv=261b385a8fe19e9371d2#service-proof",
+    "h1": "某家具品牌扫码库存系统",
+    "label": "← 返回服务介绍",
+    "url": "http://127.0.0.1:4178/cases/p09.html?pv=261b385a8fe19e9371d2&from=%2Fservices%2Ffde-consulting.html%3Fpv%3D261b385a8fe19e9371d2%23service-proof"
+  },
+  "serviceReturnCheck": {
+    "h1": "FDE 企业 AI 落地咨询",
+    "proofTop": 137.109375,
+    "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=261b385a8fe19e9371d2#service-proof"
+  }
+}

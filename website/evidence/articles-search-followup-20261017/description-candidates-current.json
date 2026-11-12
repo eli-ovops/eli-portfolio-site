@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+    "title": [
+      "Agent 为什么要边做边检查？ - Eli"
+    ],
+    "description": [
+      "前一步错了，后面跑得再快也只是扩大错误。"
+    ],
+    "has_primary_topic_in_description": false,
+    "scope": "public current HTML"
+  },
+  {
+    "url": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+    "title": [
+      "Agent 要读文件、联网、发消息，都该允许吗？ - Eli"
+    ],
+    "description": [
+      "权限要对应当前任务。"
+    ],
+    "has_primary_topic_in_description": false,
+    "scope": "public current HTML"
+  }
+]

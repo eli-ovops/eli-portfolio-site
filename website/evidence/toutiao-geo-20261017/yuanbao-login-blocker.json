@@ -1,0 +1,7 @@
+{
+  "platform": "腾讯元宝",
+  "url": "https://yuanbao.tencent.com/",
+  "status": "LOGIN_REQUIRED",
+  "query_sent": false,
+  "visible": "微信登录；请使用微信扫描二维码登录；服务与隐私协议由用户本人操作"
+}

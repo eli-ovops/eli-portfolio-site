@@ -1,0 +1,404 @@
+[
+  {
+    "slug": "what-is-workbuddy",
+    "title": [
+      "WorkBuddy 是什么？能怎么协助办公？",
+      "What is WorkBuddy useful for at work?"
+    ],
+    "answer": [
+      "WorkBuddy 是可结合任务、文件及工具工作的 AI 助手产品。入门不必接入全部账号，先用一份练习文件做整理。具体功能、入口和可用额度会变化，以当前客户端和官方文档为准。",
+      "WorkBuddy is an AI assistant product for tasks involving files and tools. Start with one practice file rather than connecting every account. Features, navigation and allowances can change; check the current client and official documentation."
+    ],
+    "steps": [
+      [
+        "从官网确认产品与下载入口。",
+        "Confirm the product and download entry through its official site."
+      ],
+      [
+        "先准备一份非敏感的文本笔记。",
+        "Prepare non-sensitive text notes."
+      ],
+      [
+        "只要求生成摘要，核对输入与产物。",
+        "Request a summary and compare the source with the result."
+      ]
+    ],
+    "exercise": [
+      "先整理这份练习笔记的主题和待办，不访问其他文件、不发送消息。完成后说明输入范围和结果位置。",
+      "Organize topics and tasks from these practice notes without accessing other files or sending messages. State the input scope and output location."
+    ],
+    "problem": [
+      "账号能登录不代表每个工具都已授权，缺什么只补当前任务必需项。",
+      "Signing in does not authorize every tool; add only what this task needs."
+    ],
+    "check": [
+      "能完成一个小任务并找到产物，比装好软件更进一步。",
+      "You complete a small task and locate its output, rather than stopping at installation."
+    ],
+    "source": [
+      "wb-results"
+    ]
+  },
+  {
+    "slug": "workbuddy-first-task",
+    "title": [
+      "WorkBuddy 第一个任务怎么建，产物在哪里找？",
+      "How do you create a WorkBuddy task and find its output?"
+    ],
+    "answer": [
+      "把任务写成输入、动作、输出和限制四部分。比如读练习说明，生成一份待办清单，不改原文件。任务名可以短，正文要能让你在完成后判断是否合格。",
+      "Specify input, action, output and limits. For example, read practice notes and create a task list without changing the original. Keep the title short but make the instructions checkable."
+    ],
+    "steps": [
+      [
+        "本人登录客户端后，点“新建任务”，提供练习 notes.txt 或明确的练习目录。",
+        "Sign in yourself, choose New task, and provide practice notes.txt or its practice folder."
+      ],
+      [
+        "输入任务与新文件 tasks.txt 的要求，点击发送开始；遇到必要权限先核对。",
+        "Specify the task and new tasks.txt output, start it, and review any necessary permission request."
+      ],
+      [
+        "按当前官方指引，在右侧结果的“产物”找文件，再打开核对；其他文件可查“概览→工作空间文件”。",
+        "Use the documented right-side results/artifacts view to find and open the file; other files may appear under Overview and workspace files."
+      ]
+    ],
+    "exercise": [
+      "读取练习目录的 notes.txt，提取行动项到新文件 tasks.txt。原文没有的负责人和日期留空，原文件不改。",
+      "Read notes.txt in the practice folder and create tasks.txt with action items. Leave absent owners and dates blank and preserve the original."
+    ],
+    "problem": [
+      "没有产物时先核对任务状态和输出目录，不再开多个相同任务。",
+      "If no output appears, check task state and output directory before creating duplicates."
+    ],
+    "check": [
+      "任务描述和最终文件能一一对应。",
+      "The task description maps directly to the resulting file."
+    ],
+    "source": [
+      "wb-first-task",
+      "wb-results"
+    ]
+  },
+  {
+    "slug": "workbuddy-file-organizing",
+    "title": [
+      "用 WorkBuddy 整理文件，怎么先预览再改名？",
+      "How can WorkBuddy preview file organization first?"
+    ],
+    "answer": [
+      "先生成新旧名称对照表，不直接批量改名。名称规则要能处理重名、缺日期和不支持的文件。官方有文件处理示例，但正式资料仍要先备份并小批量核对。",
+      "Generate a proposed name mapping before renaming. Define collisions, missing dates and unsupported files. Official examples describe file processing, but real records still need a backup and a small trial."
+    ],
+    "steps": [
+      [
+        "复制几个无敏感文件到练习目录。",
+        "Copy a few non-sensitive files into a practice folder."
+      ],
+      [
+        "要求输出旧名、新名和原因。",
+        "Request old name, proposed name and reason."
+      ],
+      [
+        "人工确认后仅对练习副本执行。",
+        "Approve changes only for the practice copies."
+      ]
+    ],
+    "exercise": [
+      "只生成改名预览，规则为日期_主题；缺日期写待确认，重名标冲突，不移动、不删除、不真正改名。",
+      "Preview names as date_subject. Mark missing dates and collisions without moving, deleting or renaming files."
+    ],
+    "problem": [
+      "它用创建时间冒充业务日期时，要求标出日期来源，不能默认两者相同。",
+      "If creation time is treated as a business date, require the date source and do not assume equivalence."
+    ],
+    "check": [
+      "所有文件都有明确映射，冲突和跳过项可见。",
+      "Every file has a traceable mapping with conflicts and skipped items visible."
+    ],
+    "source": [
+      "wb-files"
+    ]
+  },
+  {
+    "slug": "workbuddy-meeting-notes",
+    "title": [
+      "用 WorkBuddy 把会议文字存成纪要文件，怎么核对？",
+      "How do you create and check a meeting-notes file in WorkBuddy?"
+    ],
+    "answer": [
+      "先给文字记录，原始音视频是否可转写取决于已配置能力。整理时把讨论、决定、待办和未定项分开。别让模型从一句“可以考虑”生成已经定下的安排。",
+      "Start with text notes; audio transcription depends on configured capabilities. Separate discussion, decisions, actions and unresolved issues. A suggestion must not become an agreed assignment."
+    ],
+    "steps": [
+      [
+        "使用一段虚构或获准使用的会议文字。",
+        "Use fictional or approved meeting text."
+      ],
+      [
+        "要求待办带原句和负责人状态。",
+        "Attach source sentences and owner status to action items."
+      ],
+      [
+        "与记录逐项核对后再分享。",
+        "Review against the notes before sharing."
+      ]
+    ],
+    "exercise": [
+      "读取这份练习记录，先整理为讨论、决定、待办、待确认四栏，再保存为新文件 meeting-notes.txt。打开新文件核对，不改原文、不自动发送。",
+      "Read these practice notes, separate discussion, decisions, actions and questions, then save a new meeting-notes.txt. Read it back, leave the source unchanged and do not send it."
+    ],
+    "problem": [
+      "录音没读到时先转成可检查文字，不让它凭文件名写纪要。",
+      "If audio is unreadable, obtain checkable text rather than accepting notes inferred from the filename."
+    ],
+    "check": [
+      "每条决定有依据，每个未知责任仍显示待确认。",
+      "Decisions are grounded and unknown responsibilities remain unresolved."
+    ],
+    "source": [
+      "wb-files"
+    ]
+  },
+  {
+    "slug": "workbuddy-spreadsheet",
+    "title": [
+      "WorkBuddy 能帮我看 Excel 吗？先从异常清单开始",
+      "Using WorkBuddy for spreadsheets: start with exceptions"
+    ],
+    "answer": [
+      "先让工具理解字段和行数，再做异常检查。空白、零和文本数字常会混淆；同名商品也未必是同一规格。第一轮输出异常清单，不直接回写（把结果改回原系统或原表）库存或财务数据。",
+      "Start by checking fields and row counts before detecting exceptions. Blanks, zeros and numeric text differ, and matching names may hide different specifications. Produce an exception list before changing the original stock system, accounts or source sheet."
+    ],
+    "steps": [
+      [
+        "拿一份脱敏（去掉或替换能识别个人、客户的信息）练习表，注明每列含义。",
+        "Prepare a sanitized (with identifying personal or client details removed) practice table with column meanings."
+      ],
+      [
+        "检查缺字段、重复编号和不合法数量。",
+        "Check missing fields, duplicate IDs and invalid quantities."
+      ],
+      [
+        "手工核对几个异常与正常样本。",
+        "Manually review abnormal and normal samples."
+      ]
+    ],
+    "exercise": [
+      "只读表格，先报告表头、行数和读取失败项，再按我给的规则列异常，不修改源表，不推断会计口径。",
+      "Read the sheet and report headings, row count and unreadable parts before listing rule-based exceptions. Do not edit it or infer accounting rules."
+    ],
+    "problem": [
+      "合并单元格造成错列时，先转为明确表头的副本再处理。",
+      "If merged cells confuse columns, normalize a copy with explicit headers first."
+    ],
+    "check": [
+      "能回到具体行复查，且异常数量与原表对应。",
+      "Findings point to specific rows and counts reconcile with the source."
+    ],
+    "source": [
+      "wb-data"
+    ]
+  },
+  {
+    "slug": "workbuddy-write-document",
+    "title": [
+      "用 WorkBuddy 写文档，怎么避免生成空话？",
+      "How do you get a useful WorkBuddy document draft?"
+    ],
+    "answer": [
+      "先给读者、用途、已有事实和不许承诺的内容。要求先列提纲，再写短稿。文档文件生成并不意味着内容准确，日期、价格和客户说法仍需人工核对。",
+      "Provide audience, purpose, known facts and prohibited promises. Review an outline before a short draft. A generated document still needs factual checks for dates, prices and client statements."
+    ],
+    "steps": [
+      [
+        "选一个具体用途，例如内部操作说明。",
+        "Choose a concrete use such as an internal procedure."
+      ],
+      [
+        "提供可依据的步骤及截图说明。",
+        "Supply actual steps and screenshot descriptions."
+      ],
+      [
+        "对照事实审稿，再导出需要的格式。",
+        "Review against facts before exporting a required format."
+      ]
+    ],
+    "exercise": [
+      "根据这些已确认步骤写一页新员工操作说明。先给提纲，缺步骤标待补，不编按钮或截图。",
+      "Draft a one-page onboarding procedure from confirmed steps. Outline first and flag missing steps without inventing buttons or screenshots."
+    ],
+    "problem": [
+      "出现“赋能、全面提升”等口号时，改成读者下一步具体做什么。",
+      "Replace generic improvement claims with the reader's next concrete action."
+    ],
+    "check": [
+      "新人按文档能找到入口和完成动作，未确认步骤清楚标出。",
+      "A new colleague can find the entry and follow actions, with unknown steps identified."
+    ],
+    "source": [
+      "wb-results"
+    ]
+  },
+  {
+    "slug": "workbuddy-skills",
+    "title": [
+      "WorkBuddy 的技能怎么选，不要一次全装？",
+      "How should you choose WorkBuddy skills?"
+    ],
+    "answer": [
+      "按当前任务缺的能力选技能，不按热度全部安装。官方技能页说明了来源、权限和第三方共享的注意事项。安装前读清楚内容，尤其脚本、网络目的地和文件写入。",
+      "Choose skills for missing task capabilities rather than installing every popular option. Official guidance discusses provenance, permissions and third-party sharing. Inspect scripts, destinations and writes before installation."
+    ],
+    "steps": [
+      [
+        "先判断内置能力是否已能完成任务。",
+        "Check whether existing tools already suffice."
+      ],
+      [
+        "阅读候选技能的输入、输出和权限。",
+        "Read each candidate's inputs, outputs and permissions."
+      ],
+      [
+        "只启用当前需要的技能，小样本验证。",
+        "Enable only what is needed and test a small sample."
+      ]
+    ],
+    "exercise": [
+      "为整理练习文档列所需能力，先检查现有工具。需要技能时只列可信候选与理由，安装等我确认。",
+      "List capabilities for organizing practice documents and inspect existing tools first. If a skill is needed, list trusted candidates for approval."
+    ],
+    "problem": [
+      "安装了却不调用时区分启用状态和会话加载情况，不重复安装。",
+      "If invocation fails, inspect enablement and session loading before reinstalling."
+    ],
+    "check": [
+      "能说明为何需要这个技能，并确认实际调用与产物。",
+      "You can explain the need and verify invocation and output."
+    ],
+    "source": [
+      "wb-skills"
+    ]
+  },
+  {
+    "slug": "workbuddy-connectors",
+    "title": [
+      "WorkBuddy 连接邮箱或文档前，要弄清什么？",
+      "What should you check before connecting WorkBuddy accounts?"
+    ],
+    "answer": [
+      "连接器让助手接触外部服务，范围由具体连接和授权决定。能读邮件与能发送邮件不是同一件事。先验证只读查询，真正发送、分享或修改资料时再确认具体动作。",
+      "Connectors expose external services within a particular authorization scope. Reading email is different from sending it. Start with read-only lookups and review specific sending, sharing or editing actions."
+    ],
+    "steps": [
+      [
+        "先列要连接的服务及需要的数据。",
+        "List the service and data actually needed."
+      ],
+      [
+        "查看授权页的范围与撤销入口。",
+        "Inspect requested scope and revocation options."
+      ],
+      [
+        "用非敏感内容做一次只读验证。",
+        "Run a non-sensitive read-only check."
+      ]
+    ],
+    "exercise": [
+      "只说明连接这个文档服务需要什么范围、资料去向和撤销办法，不连接其他账号，不发送邀请。",
+      "Explain scope, data destination and revocation for this document connection without linking other accounts or sending invitations."
+    ],
+    "problem": [
+      "若授权范围大于任务需要，先寻找更窄的方式，不为了方便全选。",
+      "If scope exceeds the task, look for a narrower path instead of selecting everything."
+    ],
+    "check": [
+      "你知道连接到哪个账号、能做什么和怎样撤销。",
+      "You know the account, allowed actions and how to revoke access."
+    ],
+    "source": [
+      "wb-connectors"
+    ]
+  },
+  {
+    "slug": "workbuddy-permissions",
+    "title": [
+      "WorkBuddy 权限提示看不懂，怎么决定？",
+      "How should you respond to WorkBuddy permission prompts?"
+    ],
+    "answer": [
+      "把提示翻译成真实动作：读哪个目录、写哪个文件、执行什么命令、是否外发。默认模式和沙箱会影响可执行范围；不要为消除提示直接开放所有权限。",
+      "Translate a permission prompt into concrete actions: which directory, file, command or external destination. Permission modes and sandboxing affect execution; do not disable restrictions merely to remove prompts."
+    ],
+    "steps": [
+      [
+        "读清请求对象与动作。",
+        "Read the requested object and action."
+      ],
+      [
+        "与当前任务逐项对照。",
+        "Compare each with the current task."
+      ],
+      [
+        "不匹配时拒绝或缩小范围。",
+        "Reject or narrow requests that do not match."
+      ]
+    ],
+    "exercise": [
+      "解释当前请求会访问哪里、修改什么、是否联网，为什么这一步必需。能用更小范围完成就采用更小范围。",
+      "Explain access, changes, networking and necessity. Prefer the smallest scope that can complete the step."
+    ],
+    "problem": [
+      "受保护目录被拦时，先换专用练习目录，不急着给管理员权限。",
+      "If a protected folder is blocked, use a dedicated practice folder before granting elevated access."
+    ],
+    "check": [
+      "批准的是明确任务动作，而不是看不懂的一整包权限。",
+      "Approval applies to understandable task actions rather than an opaque bundle of permissions."
+    ],
+    "source": [
+      "wb-permissions"
+    ]
+  },
+  {
+    "slug": "workbuddy-task-failed",
+    "title": [
+      "WorkBuddy 卡住或没产物，怎么排查？",
+      "What if a WorkBuddy task stalls or produces no file?"
+    ],
+    "answer": [
+      "先分清排队、执行、报错和等待确认。再检查输出位置、工具可用性和账号额度。保留错误原文，别重复提交同一任务制造多个并行副本。",
+      "Distinguish queueing, running, errors and waiting for approval. Then check output paths, tools and account allowances. Preserve the exact error instead of creating duplicate concurrent tasks."
+    ],
+    "steps": [
+      [
+        "记下任务时间、状态和最后一条提示。",
+        "Record time, status and the last message."
+      ],
+      [
+        "从结果入口查产物与跳过项。",
+        "Inspect the results view for artifacts and skipped items."
+      ],
+      [
+        "按官方问题说明定位，必要时交给支持。",
+        "Use official troubleshooting guidance and escalate when needed."
+      ]
+    ],
+    "exercise": [
+      "诊断这个任务停在哪一步，给出错误原文和已产物位置。先不重试、不新建同名任务，不扩大权限。",
+      "Diagnose the stalled step and report the exact error and existing artifacts without retrying, duplicating or broadening access."
+    ],
+    "problem": [
+      "结果状态不明先核对再重试，尤其外部提交可能已经发生。",
+      "Check uncertain results before retries, especially when an external submission may already have occurred."
+    ],
+    "check": [
+      "能给出准确状态和最小下一步，不把卡住写成完成。",
+      "You can report the actual state and smallest next action without labeling a stall complete."
+    ],
+    "source": [
+      "wb-faq",
+      "wb-results"
+    ]
+  }
+]

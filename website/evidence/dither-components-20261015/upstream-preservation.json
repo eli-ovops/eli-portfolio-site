@@ -1,0 +1,18 @@
+{
+  "vertex": {
+    "verbatim": true,
+    "sha256": "caa54ba55e4676b8a29100fa61ec91dcbed6429ddd25c62afc0eadb1031d1c1d"
+  },
+  "maskFragment": {
+    "verbatim": true,
+    "sha256": "3bbb6f15e6ebbdfd29d39c4a0fd6aa68c76fda5c3a919d24e8fc95da79f2c117"
+  },
+  "viewFragment": {
+    "verbatim": true,
+    "sha256": "540b0a5b958bc69e71541f6f8dd00bbcba21e78d63ac9e5ea8d5c085c3622db4"
+  },
+  "diffuse": {
+    "verbatim": true,
+    "sha256": "f625cc85dbb8aee7b0656c6cea928c0510fce38b860d79a307d67eeffdcb924e"
+  }
+}

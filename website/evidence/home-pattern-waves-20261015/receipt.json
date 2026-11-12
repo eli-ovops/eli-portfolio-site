@@ -1,0 +1,71 @@
+{
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "revision": "bf0ba763ee15b549be16",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "published": false,
+  "indexing_enabled": false,
+  "user_visual_acceptance": "Pending feedback",
+  "scope": "Local zh/en homepage",
+  "source": "React Bits Pattern Waves original GLSL with native WebGL2 controller",
+  "checks": {
+    "84_page_build_static_localization_SEO_JS": "PASS",
+    "prior_pointer_return_related_search": "PASS",
+    "webgl2_actual_render": "PASS",
+    "motion_and_paused_frame_hashes": "PASS",
+    "keyboard_resume": "PASS",
+    "gallery_and_case_back": "PASS",
+    "zh_en_320_390_layout": "PASS",
+    "reduced_static": "PASS",
+    "source_and_license": "PASS"
+  },
+  "source_checks": {
+    "original_shaders_preserved": {
+      "passVertex": true,
+      "fieldFragment": true,
+      "rippleFragment": true,
+      "markFragment": true
+    },
+    "protected_source": {
+      "styles.css": true,
+      "motion.css": true,
+      "motion.js": true,
+      "app.js": true,
+      "assets/depth-gallery.js": true,
+      "assets/page-version.js": true,
+      "assets/screenshot-viewer.js": true,
+      "assets/editorial.js": true,
+      "assets/editorial.css": true,
+      "templates/about.html": true,
+      "content/seo.json": true,
+      "content/projects.json": true,
+      "content/profile.json": true,
+      "content/en.json": true,
+      "content/case-examples.json": true,
+      "scripts/components.py": true,
+      "scripts/localization.py": true
+    },
+    "upstream_sha256": "e78df18acac7eb4af99875fc81261c76602896a920dde4ae35367c627e4e9994",
+    "origin": "https://github.com/DavidHDev/react-bits/commit/e1bbb696fc53f7f91e694c529e4d68c899773b6e"
+  },
+  "frame_checks": {
+    "movingHashes": [
+      "f5246c84bac74c5745e4b888f252383037c311ccbab62a61999618b6099b68de",
+      "efcaeea53abf1ed1e0b82aa9c28b7085f04d0a78b5f062ac12298bcce0890cce",
+      "c283f16c3ef2acf39c598f0c279d7c3ad4d3e9d4b87772ab00aedd95e968850f"
+    ],
+    "stillHashes": [
+      "72acd66899628350a29935733c434783fb31a4e3846b74a23b0a4b1925f34936",
+      "72acd66899628350a29935733c434783fb31a4e3846b74a23b0a4b1925f34936"
+    ],
+    "movingFramesDiffer": true,
+    "pausedFramesIdentical": true
+  },
+  "limits": [
+    "Physical touch, all browsers and actual FPS not verified",
+    "Forced WebGL fallback and context restoration not tested"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "routing_version": "ROUTING-2026-10-13-v4",
+  "evidence_root": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/home-pattern-waves-20261015"
+}

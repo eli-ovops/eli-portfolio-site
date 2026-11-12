@@ -1,0 +1,220 @@
+- banner:
+  - button "主菜单":
+  - link "Google Search Console":
+    - /url: ./search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+  - search:
+    - textbox [disabled]: 检查“https://www.eliai.cn/”中的任何网址
+    - combobox "检查 https://www.eliai.cn/ 中的任何网址"
+    - button "搜索":
+  - button "帮助":
+    - generic: help_outline
+  - tooltip: 帮助
+  - button "用户设置":
+    - generic: manage_accounts
+  - tooltip: 用户设置
+  - button "未读消息：3 条":
+    - generic: notifications
+  - tooltip: 留言
+  - generic: "3"
+  - button "Google 应用":
+  - button "Google 账号： Eli Chao ([account-email-redacted])":
+- dialog "navigational drawer":
+  - navigation "主要":
+    - button "搜索资源":
+      - img "网站图标"
+      - combobox "https://www.eliai.cn/"
+      - generic: 
+    - link "概述":
+      - /url: ./search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: home
+      - generic: 概述
+    - link "数据洞见":
+      - /url: ./search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: lightbulb_2
+      - generic: 数据洞见
+    - link "效果":
+      - /url: ./search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: trending_up
+      - generic: 效果
+    - button "网址检查":
+      - generic: search
+      - generic: 网址检查
+    - generic: 编制索引
+    - button "“编制索引”报告部分" [expanded]:
+      - generic: keyboard_arrow_up
+    - link "网页":
+      - /url: ./search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: file_copy
+      - generic: 网页
+    - link "站点地图":
+      - /url: ./search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: account_tree
+      - generic: 站点地图
+    - link "移除":
+      - /url: ./search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: visibility_off
+      - generic: 移除
+    - generic: 体验
+    - button "“体验”报告部分" [expanded]:
+      - generic: keyboard_arrow_up
+    - link "核心网页指标":
+      - /url: ./search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: speed
+      - generic: 核心网页指标
+    - link "HTTPS":
+      - /url: ./search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: lock
+      - generic: HTTPS
+    - generic: 安全问题和人工处置措施
+    - button "“安全问题和人工处置措施”报告部分":
+      - generic: keyboard_arrow_down
+    - link "“链接”报告":
+      - /url: ./search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: link_2
+      - generic: 链接数量
+    - link "成就":
+      - /url: ./search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: trophy
+      - generic: 成就
+    - link "设置":
+      - /url: ./search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: settings
+      - generic: 设置
+    - button "提交反馈":
+      - generic: feedback
+      - generic: 提交反馈
+    - button "Search Console 简介":
+      - generic: info
+      - generic: Search Console 简介
+    - link "隐私权":
+      - /url: https://myaccount.google.com/privacypolicy?hl=zh-CN
+    - link "条款":
+      - /url: https://myaccount.google.com/termsofservice?hl=zh-CN
+- navigation "路径":
+  - heading "效果" [level=1]
+- button "导出":
+  - generic: 
+  - generic: 导出
+- radiogroup "Select time range":
+  - radio "24 小时":
+    - generic: 24 小时
+  - radio "7 天" [checked]:
+    - generic: 7 天
+  - radio "28 天":
+    - generic: 28 天
+  - radio "3 个月":
+    - generic: 3 个月
+- button "More time ranges":
+  - generic: 详细信息
+  - generic: arrow_drop_down
+- list:
+  - button "搜索类型：网络":
+    - generic: 搜索类型：网络
+    - generic: arrow_drop_down
+  - tooltip: 搜索类型：网络
+  - generic: 新功能！请查看您的网站在多模态网页搜索中的效果
+  - button "关闭":
+    - generic: close
+  - button "网页：自定义（正则表达式）":
+    - generic: 网页：自定义（正则表达式）
+  - tooltip: 网页：自定义（正则表达式）
+  - button "移除网页：自定义（正则表达式）":
+    - generic: close
+  - button "添加过滤条件":
+    - generic: add
+    - generic: 添加过滤条件
+  - tooltip: 添加过滤条件
+  - button "使用 AI 自定义效果报告":
+    - generic: filter_list_spark
+  - tooltip: 使用 AI 自定义效果报告
+  - button "重置过滤条件":
+    - generic: 重置过滤条件
+  - tooltip: 重置过滤条件
+- generic: 上次更新日期：3.5小时前
+- main:
+  - button "总点击次数 0":
+    - generic "总点击次数":
+      - generic: 
+      - generic: 总点击次数
+    - generic "0"
+  - button "null":
+    - generic: 
+  - button "总曝光次数 1":
+    - generic "总曝光次数":
+      - generic: 
+      - generic: 总曝光次数
+    - generic "1"
+  - button "null":
+    - generic: 
+  - button "平均点击率 0%":
+    - generic "平均点击率":
+      - generic: 平均点击率
+    - generic "0%"
+  - button "null":
+    - generic: 
+  - button "平均排名 36":
+    - generic "平均排名":
+      - generic: 平均排名
+    - generic "36"
+  - button "null":
+    - generic: 
+  - button "所选时间粒度：每日":
+    - generic: 每日
+  - generic: 
+  - text: 应用过滤条件后，图表总计和表格结果可能不完整。
+  - link "了解详情":
+    - /url: https://support.google.com/webmasters/answer/7576553/#data_discrepancies
+  - generic: 点击次数
+  - generic: 展示
+  - application "chart":
+    - generic: 图表，包含从 2026年10月16日到 2026年10月22日的总点击次数、总曝光次数、平均点击率和平均排名计数
+  - tablist:
+    - tab "查询数":
+      - generic: 查询数
+    - tab "网页" [active] [selected]:
+      - generic: 网页
+    - tab "国家/地区":
+      - generic: 国家/地区
+    - tab "设备":
+      - generic: 设备
+    - tab "搜索结果呈现":
+      - generic: 搜索结果呈现
+    - tab "天":
+      - generic: 天
+  - tabpanel:
+    - button "过滤表格行":
+      - generic: 
+    - table:
+      - rowgroup:
+        - row "排名靠前的网页 按“排名靠前的网页”排序 按“点击次数”排序 点击次数 按“展示”排序 展示":
+          - columnheader "排名靠前的网页 按“排名靠前的网页”排序":
+            - generic: 排名靠前的网页
+            - button "按“排名靠前的网页”排序":
+          - columnheader "按“点击次数”排序 点击次数":
+            - button "按“点击次数”排序":
+            - generic: 点击次数
+          - columnheader "按“展示”排序 展示":
+            - button "按“展示”排序":
+            - generic: 展示
+      - rowgroup:
+        - row "https://www.eliai.cn/services/workflow-automation.html 0 1":
+          - cell "https://www.eliai.cn/services/workflow-automation.html":
+            - generic: https://www.eliai.cn/services/workflow-automation.html
+          - cell "0":
+            - generic: "0"
+          - cell "1":
+            - generic: "1"
+    - generic: 每页行数：
+    - listbox "每页行数":
+      - option "5"
+      - option "10" [selected]
+      - option "25"
+      - option "50"
+      - option "100"
+      - option "250"
+      - option "500"
+    - generic: 第 1-1 行，共 1 行
+    - button "上一页" [disabled]:
+    - tooltip: 上一页
+    - button "下一页" [disabled]:
+    - tooltip: 下一页

@@ -1,0 +1,354 @@
+[
+  {
+    "key": "ibm-ai",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "title": "What Is Artificial Intelligence (AI)? | IBM",
+    "body_sha256": "5cd9bf07063f4cfed84fc834c845aac53a26e973c9afcfda10169f93b2773e36",
+    "text_length": 59204
+  },
+  {
+    "key": "ibm-llm",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/large-language-models",
+    "title": "What Are Large Language Models (LLMs)? | IBM",
+    "body_sha256": "5f1a79df103c8f6a58186656b4e3ac3d6cb0c53f26c46ad9c1247cbbe75523eb",
+    "text_length": 45268
+  },
+  {
+    "key": "search",
+    "status": 200,
+    "url": "https://www.google.com/search/howsearchworks/",
+    "title": "Google Search - What Is Google Search And How Does It Work",
+    "body_sha256": "0d60e24665cc9fba8bf8437057abab771522e2dd33f1ae66c0f8f64278101b71",
+    "text_length": 33731
+  },
+  {
+    "key": "prompt",
+    "status": 200,
+    "url": "https://learn.microsoft.com/en-us/dotnet/ai/conceptual/prompt-engineering-dotnet",
+    "title": "Prompt engineering concepts - .NET | Microsoft Learn",
+    "body_sha256": "cb35a204ca632391ff67c3e4b498a30069f6db85995b6de1104cd8146eacdbdf",
+    "text_length": 10890
+  },
+  {
+    "key": "nist",
+    "status": 200,
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "title": "AI Risk Management Framework | NIST",
+    "body_sha256": "b08f338d459162e1d5b2e52a01873036bed1675054ad39cddaccb7dea048727a",
+    "text_length": 22294
+  },
+  {
+    "key": "google-llm",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/llm",
+    "title": "Introduction to Large Language Models &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+    "body_sha256": "f49bab08536b8c85f54637b648b3611674c348de0966347e09e8193106ee2a62",
+    "text_length": 34542
+  },
+  {
+    "key": "google-tuning",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/llm/tuning",
+    "title": "LLMs: Fine-tuning, distillation, and prompt engineering &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+    "body_sha256": "87845d643b54b49cbb327fd1350f4e2dfc489cce22b9ce781fd3eacd5c4eb717",
+    "text_length": 34481
+  },
+  {
+    "key": "neural",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/neural-networks",
+    "title": "Neural networks &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+    "body_sha256": "b02de0f9d6d61e9480796c31181cc4730a098e1e80c066523482f5b7e2ef2a4f",
+    "text_length": 29467
+  },
+  {
+    "key": "embeddings",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/embeddings",
+    "title": "Embeddings &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+    "body_sha256": "657e661690ae5a71f206bd27a8b50057a9b183493954233fba5d7dd4e375cd37",
+    "text_length": 29587
+  },
+  {
+    "key": "rag",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+    "title": "What is RAG (Retrieval Augmented Generation)? | IBM",
+    "body_sha256": "e9f93415fb5d5c56ffce0d266127011434b3cc491dc6826d35013ce5616a44b2",
+    "text_length": 39538
+  },
+  {
+    "key": "agents",
+    "status": 200,
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "title": "Building Effective AI Agents \\ Anthropic",
+    "body_sha256": "bf12efe15ce5e65fccf49c82e666928e0a98c013656a9825deaab3962706edd1",
+    "text_length": 20165
+  },
+  {
+    "key": "harness",
+    "status": 200,
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "title": "Effective harnesses for long-running agents \\ Anthropic",
+    "body_sha256": "a623477ec7176b6e03a6510378df03b4e07b5d3c0b71fd62342d187163b4f534",
+    "text_length": 15070
+  },
+  {
+    "key": "skills",
+    "status": 200,
+    "url": "https://agentskills.io/home",
+    "title": "Agent Skills Overview - Agent Skills",
+    "body_sha256": "e4182dd800deea7c123c6cf7677e47aac46580131d777d5b82c648398e01127e",
+    "text_length": 3674
+  },
+  {
+    "key": "skills-spec",
+    "status": 200,
+    "url": "https://agentskills.io/specification",
+    "title": "Specification - Agent Skills",
+    "body_sha256": "d0d859b82823f1fc0641f4b9887793cdd98e9de5a786f3275e6559ea4e8ede5e",
+    "text_length": 7708
+  },
+  {
+    "key": "mcp",
+    "status": 200,
+    "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+    "title": "What is the Model Context Protocol (MCP)? - Model Context Protocol",
+    "body_sha256": "87ae6ae015e94834bb0ef894a8d43b7a41b434a98e36b9cda01d81c8177a937c",
+    "text_length": 3372
+  },
+  {
+    "key": "mcp-security",
+    "status": 200,
+    "url": "https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices",
+    "title": "Security Best Practices - Model Context Protocol",
+    "body_sha256": "8a9192155ed0ad176d4be99ad58365f88bca26e51ebc8c1a5b73f364804f8c42",
+    "text_length": 37264
+  },
+  {
+    "key": "owasp",
+    "status": 200,
+    "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+    "title": "LLM01:2025 Prompt Injection - OWASP Gen AI Security Project",
+    "body_sha256": "ff028f14a944ccb56f3fe0cecb277b4024814bf91641789902fa52fb36081324",
+    "text_length": 19074
+  },
+  {
+    "key": "json",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON",
+    "title": "Working with JSON - Learn web development | MDN",
+    "body_sha256": "e9d14b35dd5a9b8167a2921b3b977c0948ed674fffbda984ae352d51d5757989",
+    "text_length": 43192
+  },
+  {
+    "key": "mdn-api",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction",
+    "title": "Introduction to web APIs - Learn web development | MDN",
+    "body_sha256": "4a6daa289f74fd470ff4d695e46aef831fc03730b07cf6bbe6cd8d456a5c4100",
+    "text_length": 45611
+  },
+  {
+    "key": "mdn-html",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax",
+    "title": "Basic HTML syntax - Learn web development | MDN",
+    "body_sha256": "c1011d96cc3389b2419dff9904f06cb5e6c08753ca8693ad03a40d4059c1df2a",
+    "text_length": 49086
+  },
+  {
+    "key": "mdn-cli",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line",
+    "title": "Command line crash course - Learn web development | MDN",
+    "body_sha256": "f6a9e9928fcf2bbda3da1801d13fcc53d4c5998ab65d276c1e277bbac3a8b53d",
+    "text_length": 58174
+  },
+  {
+    "key": "mdn-publishing",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website",
+    "title": "Publishing your website - Learn web development | MDN",
+    "body_sha256": "a53045b3a10a1c316c3f02bb2c46575232be91015434e4120bd32f9cc4e34646",
+    "text_length": 35033
+  },
+  {
+    "key": "npm",
+    "status": 200,
+    "url": "https://docs.npmjs.com/about-packages-and-modules/",
+    "title": "About packages and modules | npm Docs",
+    "body_sha256": "f42dae9199b0e3710fc8a4980d539e20be5eaa673e9efc2fd657a6c725ecaba3",
+    "text_length": 8386
+  },
+  {
+    "key": "github",
+    "status": 200,
+    "url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github",
+    "title": "What is GitHub? - GitHub Docs",
+    "body_sha256": "f75d7e4a03962538c53428059b2ab352db1ceefe83c7d20a4cb8cdba50ebabd7",
+    "text_length": 7029
+  },
+  {
+    "key": "github-repos",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories",
+    "title": "About repositories - GitHub Docs",
+    "body_sha256": "337d3a72de41df14b56f8e79e1340546d2ca02ad2366bd14ecd036847067e03a",
+    "text_length": 8463
+  },
+  {
+    "key": "github-readme",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes",
+    "title": "About the repository README file - GitHub Docs",
+    "body_sha256": "8a0a558ce9e9a7ae329e2ab5e05539480bc5d21f1346c7093bffc256627345aa",
+    "text_length": 7607
+  },
+  {
+    "key": "github-releases",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases",
+    "title": "About releases - GitHub Docs",
+    "body_sha256": "4eb118df497e1ab89f445d341754581f2c23144ce33f7f756102afb135a8226b",
+    "text_length": 6023
+  },
+  {
+    "key": "github-commit",
+    "status": 200,
+    "url": "https://docs.github.com/en/pull-requests/reference/commits",
+    "title": "Commits - GitHub Docs",
+    "body_sha256": "5af12f0e005f46237503a99418c3003575170b2020b9ef1dafb779203d2304d5",
+    "text_length": 4372
+  },
+  {
+    "key": "github-hello",
+    "status": 200,
+    "url": "https://docs.github.com/en/get-started/using-github/hello-world",
+    "title": "Hello World - GitHub Docs",
+    "body_sha256": "4f770ce6dd8d10ccc75a4acba601fa235af2b3b95204d9a954555f4576b2e70e",
+    "text_length": 11737
+  },
+  {
+    "key": "github-pr",
+    "status": 200,
+    "url": "https://docs.github.com/en/pull-requests/reference/pull-requests",
+    "title": "Pull requests - GitHub Docs",
+    "body_sha256": "4eaca65277aae156817775f53fc49cfde4effeafbddd12ed7c1e8a6fab0d07b3",
+    "text_length": 7155
+  },
+  {
+    "key": "github-issues",
+    "status": 200,
+    "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues",
+    "title": "About issues - GitHub Docs",
+    "body_sha256": "6ee5fb6c8893aecb4bdf542d5885553c2680ed1e9c33ea4843dd7d6e29dfc010",
+    "text_length": 7639
+  },
+  {
+    "key": "github-license",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+    "title": "Licensing a repository - GitHub Docs",
+    "body_sha256": "436b49ea1022aa14caa34458c6879841e18e6df946f58351a9403bb8503206e8",
+    "text_length": 9385
+  },
+  {
+    "key": "github-visibility",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility",
+    "title": "Setting repository visibility - GitHub Docs",
+    "body_sha256": "5a9e6975fcfe0373b5ad154d7a99a48aba99aad8dd463153417ec59475f01461",
+    "text_length": 9436
+  },
+  {
+    "key": "github-secrets",
+    "status": 200,
+    "url": "https://docs.github.com/en/code-security/concepts/secret-security/secret-scanning",
+    "title": "Secret scanning - GitHub Docs",
+    "body_sha256": "564c48e31ce76049c0a946bf22cebb336a7fa06a518396c24f29a8c5a2fab6e8",
+    "text_length": 16805
+  },
+  {
+    "key": "ocr",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/optical-character-recognition",
+    "title": "What Is Optical Character Recognition (OCR)? | IBM",
+    "body_sha256": "265aa817bf8d04ba924ff847c69123e6c45734a8908849af249e2fe859f99c0f",
+    "text_length": 32715
+  },
+  {
+    "key": "fde",
+    "status": 200,
+    "url": "https://www.eliai.cn/services/fde-consulting.html",
+    "title": "FDE 企业 AI 落地咨询｜从业务问题到小范围实施 - Eli",
+    "body_sha256": "addba539fd6ec337dc8f445d3ff70ba3a78164c844511624c8c62a594fb36d38",
+    "text_length": 2144
+  },
+  {
+    "key": "wb-files",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-One",
+    "title": "实践一：文件内容识别与处理 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "c2545e3a36f5f49e9ce0de07f53c09ea79d0d3f8ab3f4a91c9c9fe5aa7bf8ada",
+    "text_length": 3216
+  },
+  {
+    "key": "wb-data",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three",
+    "title": "实践三：数据分析并可视化 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "c92fb42dc01cfc5ee3658924d8c616f9be30286db58d8340d850413ab169016d",
+    "text_length": 2033
+  },
+  {
+    "key": "wb-results",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/Results",
+    "title": "结果查看 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "e6a28a1ba7dcbfd772462930782afab1a426c4ba7452b15f7d1a8661b65ba796",
+    "text_length": 2652
+  },
+  {
+    "key": "wb-skills",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+    "title": "技能 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "f57dd068b336b4c6b4e785a2a9ee39c7fb770248d800709ffb38a986f24afa2f",
+    "text_length": 3211
+  },
+  {
+    "key": "wb-permissions",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Permission-Modes",
+    "title": "默认权限与安全沙箱 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "6bc2528ea27b8242eb5e0d4e1ab89573f7cdc2a89f0ffc369aee5969c23ddade",
+    "text_length": 7706
+  },
+  {
+    "key": "wb-connectors",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
+    "title": "连接器 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "bd666084b1efc07d4cefb353c1fa76d160622f13c79ae7c616881a6e897a32a6",
+    "text_length": 4512
+  },
+  {
+    "key": "wb-faq",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+    "title": "常见问题 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "12cd351e5b8641cdb094244807643165fcea47fe176fee6ba14fdc052dd68641",
+    "text_length": 9261
+  },
+  {
+    "key": "wb-first-task",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+    "title": "开启你的第一个任务 | WorkBuddy - AI Agent 办公新范式",
+    "body_sha256": "911c9e4aa623dae50600f170189f70e3bd1bc3e4eb84e6e25ae8f19b7e7ee9e6",
+    "text_length": 1816
+  }
+]

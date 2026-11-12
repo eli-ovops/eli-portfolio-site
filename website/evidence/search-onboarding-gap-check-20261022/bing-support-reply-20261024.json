@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-24T02:13:23.604Z",
+  "related_submission": "bing-support-submission.json",
+  "ticket_id": "REQ00369079",
+  "source": "Gmail read-only existing official feedback reply; no mail sent or mailbox changes",
+  "receipt_thread": "1a163936885709dc",
+  "reply_thread": "1a163c9d4f169874",
+  "received_reply_utc": "2026-10-22T13:25:30Z",
+  "official_finding": "Bing states investigation completed, level of indexation not related to technical issues; evaluating inclusion, some pages lack sufficient ranking signals; conditional estimate next couple of weeks, ticket closing.",
+  "limitations": "Official support assessment, not an independently established cause for every URL; estimate is not an indexing guarantee. No IndexNow or repeat submission performed.",
+  "emails": [
+    {
+      "thread_id": "1a163c9d4f169874",
+      "messages": [
+        {
+          "id": "1a163c9d4f169874",
+          "from": "Bing Webmaster Tools <[REDACTED_EMAIL]>",
+          "date": "Thu, 22 Oct 2026 13:25:30 +0000",
+          "subject": "Indexing: My site is not in index | https://www.eliai.cn/ | [reply-address-redacted]",
+          "body": "Hello,<br/><br/>        Thank you for contacting Bing Webmaster Support. <br/>        We have completed our investigation regarding this issue, and it appears that the level of indexation for your website is not related to any technical issues. Your website is being evaluated by our systems for inclusion in our search results and should be indexed within the next couple of weeks, assuming there is no violation of our Bing Webmaster Guidelines. As this website submission is super fresh, it will take some time for all the URLs to get indexed. <br/>        <br/>        Additionally, some of the site's pages have not accrued sufficient ranking signals (such as links and traffic) to be selected for indexing. <br/><br/>        When Bing crawls and indexes pages on the Internet, it makes decisions based on which pages are likely to be relevant to searchers. We evaluate these signals relative to other sites on the web as part of our selection criteria. As your pages gain popularity, more of them will be indexed. <br/><br/>        We recommend using <a href=\"https://www.bing.com/indexnow\" >“IndexNow”</a> to instantly notify Bing and other search engines about your new or updated URLs. <br/><br/>        I wish to help you with a few links and help docs, which will not only help in avoiding blocks but also help you to rank better in the Bing index. <br/>        <ul><br/>        <li><a href=\"https://www.bing.com/webmasters/help/why-is-my-site-not-in-the-index-2141dfab\" >Why is My Site Not in the Index?</a></li><li><a href=\"https://blogs.bing.com/webmaster/May-2014/10-SEO-Myths-Reviewed\" >10 SEO Myths Reviewed</a></li><li><a href=\"https://blogs.bing.com/webmaster/April-2014/Is-SEO-The-Future-No,-And-Here's-Why\" >Is SEO The Future? No, And Here’s Why</a></li><li><a href=\"https://blogs.bing.com/webmaster/October-2014/Building-Authority-Setting-Expectations\" >Building Authority & Setting Expectations</a></li><li><a href=\"https://blogs.bing.com/search-quality-insights/2014/12/08/the-role-of-content-quality-in-bing-ranking/\" >The Role of Content Quality in Bing Ranking</a></li><br/>        </ul><br/>        We hope the resolution provided has been able to fully address your issue. We will be closing this ticket. However, if you do have any follow up questions or concerns, please submit a feedback <a href=\"https://www.bing.com/webmasters/feedback?RequestId=369079\" >here</a>.<br/><br/>        Sincerely,<br/>        Bing Webmaster Support Team<br/>        <p class=MsoNormal><img width = 266 height=51 id=Picture 1 src=\"https://iriscmsproddatastorage.azureedge.net/assets/db/f6/dbf63662-f2d9-4668-8801-7253502c73a0.png?n=eb9ca4a8b130.png\"></p><!-- cV: 2K3DzVQb3Ey6Bu26.3.1.1.4 -->",
+          "authentication": [
+            "dkim=pass",
+            "dkim=pass",
+            "spf=pass",
+            "dmarc=pass"
+          ]
+        }
+      ]
+    },
+    {
+      "thread_id": "1a163936885709dc",
+      "messages": [
+        {
+          "id": "1a163936885709dc",
+          "from": "Bing Webmaster Tools <[REDACTED_EMAIL]>",
+          "date": "Thu, 22 Oct 2026 12:25:15 +0000",
+          "subject": "[REQ00369079] https://www.eliai.cn/ | Indexing: My site is not in index | [reply-address-redacted]",
+          "body": "Thank you for contacting Bing Webmaster Support Team.\r\n\r\nThis email is confirmation that we have received your request for https://www.eliai.cn/ and created the following Request REQ00369079 . Your ticket is being assigned to a Global Support Webmaster Engineer who will be contacting you about the next steps to resolve your issue. We will get back to you in 10 days.\r\n\r\n \r\n\r\nTake care and stay safe!\r\n \r\n\r\nSincerely,\r\nMicrosoft Bing",
+          "authentication": [
+            "dkim=pass",
+            "spf=pass",
+            "dmarc=pass"
+          ]
+        }
+      ]
+    }
+  ]
+}

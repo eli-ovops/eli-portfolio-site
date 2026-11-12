@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "all_296_reconstructed_html_hashes_match_candidate": true,
+  "baseline_manifest_digest": "04179250b44f2632ac129200c23df08c39fe18d9e675c9ba5d10b1b212492e3f",
+  "candidate_manifest_digest": "b826b5f70249c14d429dfe848d75523c8cb50f187f0b49bd24d01b616c220525",
+  "unchanged_public_file_allowlist": 369,
+  "no_new_credentials_or_ssh_changes": true
+}

@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-17T11:12:59.658Z",
+  "latest_incoming": {
+    "id": "1a1498e6fca3b1c6",
+    "date": "1792235432000",
+    "text": "Thanks — this is enough evidence to file as a reproducible web Search fetch issue.\n\nI’ve captured the thread URLs, exact error text, screenshot, affected eliai.cn URLs, diagnostic query details, environment, and your origin-side checks. The current service status is operational, so this is being treated as a specific fetch/read failure rather than a known outage.\n\nA specialist will review the bug report and respond in this conversation. I can’t confirm from the generic “Failed to fetch content” message whether the failure is cached, policy-related, or occurring before origin, but those possibilities are included in the report for investigation."
+  },
+  "new_cause": false,
+  "new_remedy": false,
+  "new_messages_sent": 0,
+  "search_submissions": 0,
+  "website_changes": 0,
+  "monitor": {
+    "id": "perplexity",
+    "status": "ACTIVE",
+    "kind": "heartbeat",
+    "schedule": "Daily 10:30 Asia/Shanghai",
+    "target_thread_id": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+    "configuration_readback": true,
+    "future_execution_verified": false
+  },
+  "last_read_only_check": {
+    "checked_at": "2026-10-25T02:34:46.405954+00:00",
+    "heartbeat_trigger_at": "2026-10-25T02:34:30.565Z",
+    "source": "Gmail read_email_thread; exact thread only, max_messages=3; latest plain-text body compared with baseline",
+    "thread_id": "1a148c6bd4c7b963",
+    "messages_read": 3,
+    "latest_incoming_id": "1a1498e6fca3b1c6",
+    "new_reply_since_baseline": false,
+    "confirmed_cause": false,
+    "actionable_remedy": false,
+    "official_fix_confirmation": false,
+    "new_mail_sent": 0,
+    "mail_label_changes": 0,
+    "search_submissions": 0,
+    "website_changes": 0,
+    "new_model_tests": 0,
+    "notification": "suppressed: no actionable change"
+  }
+}

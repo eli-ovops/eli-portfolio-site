@@ -1,0 +1,22 @@
+{
+  "build": "84 pages PASS",
+  "records": {
+    "zhFilter": "9 mobile projects",
+    "enSearch": "2 RAG matches",
+    "summaryRemoved": true,
+    "subtitleColor": "rgb(150,152,255)",
+    "mobile375": {
+      "singleFilterRow": true,
+      "pageOverflow": false
+    }
+  },
+  "motion": {
+    "localLoop": "7 to 1; settled position 0.000; caption opacity 1",
+    "publicNext": "02 / 07",
+    "activeCards": 1
+  },
+  "limits": [
+    "No real-device FPS measurement",
+    "Touch gesture feel not verified on a physical phone"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "time": "2026-10-16T07:27:42.815879+00:00",
+  "removed_generated_copies": [
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/atmosphere-editorial-v03.png",
+      "sha256": "a506e0011aead170c7270118cbc3e4d67f1eb36858fd0e229e4df026e9a80e6d",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/img10.webp",
+      "sha256": "615249d7340fa5aa417521c67422e589e7e13bd7c4350db639dcfe6978ea797b",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/img12.webp",
+      "sha256": "1afb4a0dd1a710fc4841450d0681af0d42fc743e3c31653625fb5c5db4297779",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/img13.webp",
+      "sha256": "249d5e478f048938b77c397f7085809f8c1fba1d86f705b30c65619961cf6e13",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/portrait-editorial-v03.png",
+      "sha256": "f63bfd5668df50819a8539323ef4c20866d1e8c26ae9bb27585faa30edc9c9e0",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/portrait-placeholder.svg",
+      "sha256": "700dd91ad449f90818493eba693c284ea84256a2ff2c8eb03039a4a7da3d1388",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/bilibili.svg",
+      "sha256": "887bd3286cf26dc69d1794a83496fd0ee5e9c136b636d66e111aa6787ca1ea1a",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/douyin.svg",
+      "sha256": "5677059209a4c6ed5f63599f3126eddaa9193e16c96044e8ebfa6beffebfcfbe",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/facebook.svg",
+      "sha256": "3a2bad6113a66441753252522429931ede114d113e31052e7d5b77486dc5b20b",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/instagram.svg",
+      "sha256": "d7a0290fca907200bac7316ff10e779bc1ef545384a5977f54994ff30161d3d2",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/linkedin.svg",
+      "sha256": "5e96e579d151490b92f4db7f9a6ab8383af7048c717202ceb3e7b9f6e9e05d67",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/sinaweibo.svg",
+      "sha256": "67bade07579f0c0fcaffb4dcdb7a4a2303d749d1eebfafc14f990981dfff84eb",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/tiktok.svg",
+      "sha256": "5677059209a4c6ed5f63599f3126eddaa9193e16c96044e8ebfa6beffebfcfbe",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/x.svg",
+      "sha256": "773e25164caab43637ba9fb35afad0c03ad96ec0850d2ade181899d6872d54f0",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/xiaohongshu.svg",
+      "sha256": "1a37451f857405b36c42025d92c5b24d82373a33116ad2905637042e8f24624f",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    },
+    {
+      "path": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/public/assets/social-icons/youtube.svg",
+      "sha256": "87bae0d0e5ac47236fdb7c96d1380b2f0d4d2878e67a56dd9de14c4844dcf4d9",
+      "purpose": "Unreferenced generated copy in this task candidate only; dist/source retained"
+    }
+  ],
+  "source_and_dist_untouched": true
+}

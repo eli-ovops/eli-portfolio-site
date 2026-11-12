@@ -1,0 +1,27 @@
+{
+  "status": "LOCAL_ONLY",
+  "scope": "Homepage search/share metadata in Chinese and English; no visible copy/layout/motion change",
+  "before": {
+    "zh-CN": {
+      "title": "FDE 企业 AI 落地咨询｜AI Agent 与流程自动化 - Eli",
+      "description": "Eli，FDE 前沿部署工程师，帮助中小企业用 AI 提效减负。从选工具、改流程和小范围软件开发开始，提供免费初次沟通。实施服务低至500元起，具体范围与费用按需求确认。"
+    },
+    "en": {
+      "title": "FDE Consulting, AI Agents & Workflow Automation | Eli",
+      "description": "Eli provides FDE support for small and medium-sized businesses: AI tools, workflow improvements and scoped software. Free initial conversation; services from CNY 500, with scope and fees agreed before implementation."
+    }
+  },
+  "after": {
+    "zh-CN": {
+      "title": "中小企业 AI 实施与流程提效服务 - Eli",
+      "description": "独立开发者 Eli 帮助中小企业和工作室梳理重复录入、库存核对、资料查找和客服答疑。先评估现成工具，必要时再做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。"
+    },
+    "en": {
+      "title": "AI Implementation & Workflow Improvement for Small Businesses | Eli",
+      "description": "Independent developer Eli helps small businesses and studios improve data entry, inventory checks, information lookup and support workflows. Assess existing tools before custom software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first."
+    }
+  },
+  "publication_authorized": false,
+  "search_submissions": 0,
+  "source": "https://developers.google.com/search/docs/appearance/title-link"
+}

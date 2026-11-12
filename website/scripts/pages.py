@@ -1,0 +1,327 @@
+# -*- coding: utf-8 -*-
+"""Page composition; no file writes, network requests or global content state."""
+from components import escape, CLIENT_PROJECT_IDS, international_phone
+from project_order import FEATURED_PROJECT_IDS, prioritize_projects
+from project_labels import PROJECT_FILTERS, category_label
+
+
+def shared_content(r, profile, projects):
+    client_ids = CLIENT_PROJECT_IDS
+    def project_entry(p):
+        sentences = {
+            'P02': '参与公益官网开发，呈现机构介绍、公益项目与信息公开内容。',
+            'P03': '参与律所官网开发，整合专业服务、律师团队与咨询入口。',
+            'P04': '依据团队驻场调研开发律所 OA，整合办公流程与分散资料。',
+            'P05': '参与品牌出海营销，开展活动策划、AI 视频制作与社交平台引流。',
+            'P07': '主导英文家具品牌官网开发，展示产品、工厂与品牌信息。',
+            'P08': '制作家具产品目录，整理图片、型号、尺寸与规格。',
+            'P09': '主导扫码库存系统开发，实现入库、移库、出库与撤销纠错。',
+            'P10': '独立开发洁具行业库存管理系统，完成需求梳理与项目交付。',
+            'P11': '制作海外小商户网站改版演示，梳理移动端浏览与询盘路径。',
+            'P12': '开发小红书营销工具，串联自动做图、文案生成与内容上传。',
+            'P14': '开发宠物陪伴专注应用，设计专注流程并接入通知与锁屏活动。',
+            'P15': '开发宠物社交应用，串联宠物资料、发现邀请与聊天流程。',
+            'P16': '开发地点水印相机，支持拍摄、定位、水印生成与分享。',
+            'P17': '制作起卦与卦文阅读原型，加入反思问题和本地历史记录。',
+            'P18': '制作学习时长提醒原型，验证用量回调与达标提醒逻辑。',
+            'P19': '制作发型试戴原型，组织三视图输入、候选对比与参考卡。',
+            'P20': '制作理赔产品概念页，展示工作流、功能与使用场景。',
+            'P21': '修复自动挂单流程，加入重连续办、订单核对与持久审计。',
+            'P22': '搭建跨交易所价差取证流程，保存盘口事件并进行数据回放。',
+            'P23': '构建策略研究框架，核对交易规则、费用情景与回测过程。',
+            'P24': '研究公司与产业机会，依据官方资料核对估值假设与反证。',
+            'P25': '设计个性化 AI 新闻简报，梳理兴趣画像、信息去重与订阅解析。',
+            'P26': '制作应用推广短视频素材，整理脚本、分镜、字幕与声音剪辑。',
+            'P27': '研究无脸播客与历史奇事频道，整理选题、成本与制作计划。',
+            'P28': '研究海外小应用机会，比较用户需求、替代工具与本土化方向。',
+            'P29': '整理 AI 项目情报，建立公开来源、评分规则与日报模板。',
+            'P30': '整理 AI 协作流程，明确任务分工、工具选择与成果检查。',
+            'P31': '开展 Mac 磁盘审计，核对清理范围、数据副本与空间变化。',
+            'P32': '整理技能与知识索引，明确适用范围、依赖与复用方式。',
+            'P33': '制作远程模型试用客户端，提供隔离配置与指定调用入口。',
+            'P34': '整理合作提案与机会评估材料，梳理服务范围和客户需求。',
+            'P35': '整理化工论文要求与选题材料，建立写作目录和资料交接包。',
+            'P36': '参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试。',
+            'N01': '搭建远程通知验证界面，核对授权、设备注册与真机送达流程。',
+            'N02': '整理 DevDay 官方内容，研究开发能力、开放状态与应用边界。'
+        }
+        return ('<li><h4>' + escape(r.title(p)) + '</h4><p>'
+                + escape(sentences[p['id']]) + '</p></li>')
+    remaining = [p for p in projects if p['id'] not in client_ids + ('P01', 'P06', 'P13')]
+    groups = [('客户项目', [r.projects[pid] for pid in client_ids]),
+              ('产品与工具实践', [p for p in remaining if p['category'] in ('网站与工具', 'App 实践')]),
+              ('研究与工作方法', [p for p in remaining if p['category'] not in ('网站与工具', 'App 实践')])]
+    clients = ''.join('<section class="project-experience-group"><h3>' + escape(label)
+                      + '</h3><ul class="project-experience-grid">' + ''.join(project_entry(p) for p in items)
+                      + '</ul></section>' for label, items in groups)
+    filters = ''
+    for category in PROJECT_FILTERS:
+        pressed = str(category == '全部').lower()
+        client = ' class="filter-client" aria-describedby="client-filter-note"' if category == '客户参与' else ''
+        filters += (f'<button type="button" data-filter="{escape(category)}" '
+                    f'aria-pressed="{pressed}"{client}>{escape(category_label(category))}</button>')
+    fields = {key: escape(profile[key]) for key in ('role', 'intro', 'personality', 'about', 'background')}
+    fields['headline'] = escape(profile['headline']).replace('\n', '<br>')
+    return dict(fields, clients=clients, filters=filters,
+                archive=''.join(r.archive_row(p) for p in prioritize_projects(projects)))
+
+
+def home(r, profile, projects):
+    from articles import preview, localized_items
+    from industries import render as render_industries
+    shared = shared_content(r, profile, projects)
+    shared['industry_scenarios'] = render_industries(r)
+    shared['article_preview'] = preview(localized_items(r), r.lang)
+    shared['public_name'] = escape(profile.get('displayName') or '作者')
+    shared['capability_items'] = ''.join('<li><span aria-hidden="true"></span>' + escape(item) + '</li>' for item in profile['capabilities'])
+    shared['featured_gallery'] = ''.join(r.gallery_card(pid) for pid in FEATURED_PROJECT_IDS)
+    english = r.lang == 'en'
+    heading = 'Where could we start?' if english else '哪些工作，可以先一起看看？'
+    small_start = ('Start with an existing AI assistant, or improve one repetitive step. A large system is not required.'
+                   if english else '不必从大系统开始。先用好现成的 AI 助手，或改善一个重复步骤。')
+    fde_label = 'How FDE consulting works' if english else 'FDE 怎么合作'
+    small_start = (escape(small_start) + ' <a class="text-link" href="services/fde-consulting.html">'
+                   + fde_label + ' ↗</a>')
+    cards = ''
+    for number, service in enumerate(r.seo['services'], 1):
+        copy = service[r.lang]
+        actions = ''.join(r.link(r.projects[pid], label)
+                          for pid, label in zip(service['projects'], copy['links']))
+        drawings = {
+            'inventory': '<g class="flow-sheet"><rect x="4" y="8" width="23" height="28" rx="2"/><path d="M9 15h13M9 21h10M9 27h13"/></g><path class="flow-rail" d="M38 22h28m-5-4 5 4-5 4"/><circle class="flow-packet" cx="39" cy="22" r="2" fill="currentColor" stroke="none"/><rect x="78" y="10" width="27" height="25" rx="2"/><path d="M78 18h27M87 18v17"/><path class="flow-check" d="m92 26 3 3 6-7"/>',
+            'knowledge': '<path d="M4 9h23M4 17h18M4 25h23M4 33h15"/><path class="flow-ray" d="M36 13h11l10 9h12M36 30h11l10-8"/><path d="M79 10h25v22H90l-7 5v-5h-4z"/><path class="flow-answer" d="M85 18h13M85 24h9"/>',
+            'content': '<rect x="3" y="8" width="29" height="28" rx="2"/><circle cx="23" cy="16" r="3"/><path d="m6 31 8-10 7 8 4-4 4 6"/><path class="flow-rail" d="M42 22h22m-5-4 5 4-5 4"/><g class="flow-copy"><path d="M76 12h29M76 22h23M76 32h26"/></g><path class="flow-spark" d="M108 4v8m-4-4h8"/>'
+        }
+        symbol = ('<span class="mini-flow flow-' + service['id'] + '" aria-hidden="true">'
+                  '<svg viewBox="0 0 112 44" fill="none" stroke="currentColor" stroke-width="1.4" '
+                  'stroke-linecap="round" stroke-linejoin="round">' + drawings[service['id']] + '</svg></span>')
+        disclosure = 'How I can help' if english else '展开做法'
+        disclosure_label = disclosure + ': ' + copy['name']
+        service_label = ('Explore the service' if english else '了解服务范围')
+        cards += (f'<article class="topic-card"><div class="topic-card-mark">{symbol}'
+                  f'</div>'
+                  f'<h3>{escape(copy["name"])}</h3><p class="topic-lead">{escape(copy["lead"])}</p>'
+                  f'<details class="topic-details"><summary aria-label="{escape(disclosure_label)}">'
+                  f'{disclosure}<span class="topic-toggle" aria-hidden="true">+</span></summary>'
+                  f'<p class="topic-detail-copy">{escape(copy["description"])} '
+                  f'<a class="text-link" href="services/{service["page"]}.html">{service_label} ↗</a></p></details>'
+                  f'<div class="topic-actions">{actions}</div></article>')
+    shared['customer_topics'] = (f'<section class="customer-topics" id="needs" aria-labelledby="needs-title">'
+                                 f'<h2 id="needs-title">{heading}</h2><p class="topic-start">{small_start}</p><div class="topic-grid">{cards}</div></section>')
+    body = r.template('home', **shared)
+    return r.shell('Eli · FDE 与项目经历', body, current='home')
+
+
+def about(r, profile, projects):
+    shared = shared_content(r, profile, projects)
+    shared['personal_bio'] = '<div class="about-bio contact-introduction" style="display:grid;gap:14px;margin-top:18px">' + ''.join(
+        f'<p class="contact-note">{escape(paragraph)}</p>' for paragraph in profile.get('biography', [])
+    ) + '</div>'
+    email = profile.get('email')
+    methods = ''
+    if email:
+        methods += (f'<div class="contact-method"><p>邮箱</p>'
+                    f'<a class="text-link" href="mailto:{escape(email)}">{escape(email)} ↗</a></div>')
+    phone = profile.get('phone')
+    if phone:
+        number = international_phone(phone)
+        methods += (f'<div class="contact-method"><p>电话</p>'
+                    f'<a class="text-link" href="tel:{escape(number)}">{escape(number)} ↗</a></div>')
+        if number.startswith('+'):
+            methods += (f'<div class="contact-method"><p>WhatsApp</p>'
+                        f'<a class="text-link" href="https://wa.me/{escape(number[1:])}" target="_blank" '
+                        f'rel="noopener noreferrer">{escape(number)} ↗</a></div>')
+    shared['contact_content'] = '<div class="contact-methods">' + methods + '</div>'
+    qr = profile.get('wechatQr')
+    shared['wechat_qr'] = (
+        '<figure class="wechat-contact" id="wechat"><h3>微信</h3>'
+        f'<a href="{escape(qr)}" target="_blank" rel="noopener noreferrer" aria-label="放大微信二维码">'
+        f'<img src="{escape(qr)}" width="728" height="728" loading="lazy" decoding="async" alt="Eli 的微信二维码">'
+        '</a><figcaption>手机上可长按识别；或点开图片，保存后在微信扫一扫中从相册选择。</figcaption></figure>' if qr else '')
+    english = r.lang == 'en'
+    questions = ''
+    for number, item in enumerate(r.seo['questions'], 1):
+        copy = item[r.lang]
+        links = ''.join(f'<a class="text-link" href="cases/{pid.lower()}.html">'
+                        f'{escape(r.title(r.projects[pid]))} <span aria-hidden="true">↗</span></a> '
+                        for pid in item['projects'])
+        questions += (f'<details class="about-question" name="cooperation"><summary>'
+                      f'<span class="question-number" aria-hidden="true">{number:02}</span>'
+                      f'<span>{escape(copy["question"])}</span><span class="question-symbol" aria-hidden="true"></span></summary>'
+                      f'<div class="question-answer"><p class="question-lead">{escape(copy["lead"])}</p>'
+                      f'<p>{escape(copy["answer"])}</p><div class="question-links">{links}</div></div></details>')
+    questions_heading = 'Working together' if english else '常见合作问题'
+    shared['questions_content'] = (f'<section class="cooperation-section" id="questions" aria-labelledby="questions-title">'
+                                   f'<h2 id="questions-title">{questions_heading}</h2><div class="question-list">{questions}</div></section>')
+    body = r.template('about', **shared)
+    return r.shell('关于我', body, current='about')
+
+
+def records(r, profile, projects):
+    shared = shared_content(r, profile, projects)
+    english = r.lang == 'en'
+    shared['search_guide_label'] = 'Search tips' if english else '搜索建议'
+    shared['filters_aria_label'] = 'Project filters' if english else '项目筛选'
+    shared['client_filter_note'] = ('Client work spans project types; filters may overlap.' if english
+                                    else '“客户项目”跨作品类型，筛选结果可重合。')
+    shared['sort_label'] = 'Featured first' if english else '精选优先'
+    copy = ('Try inventory, barcode or website. Stock management shows related inventory work; check each case for its scope.'
+            if english else '可搜库存、扫码、官网。进销存显示相关库存实践，具体功能以案例为准。')
+    inventory, website = ('inventory', 'website') if english else ('库存', '网站')
+    shared['customer_search_help'] = (f'<p class="customer-search-help">{copy}</p>'
+        f'<nav class="customer-search-links" aria-label="'+ ('Workflow shortcuts' if english else '业务快捷入口') +'">'
+        f'<a class="text-link" href="records.html?q={inventory}">'+ ('Inventory cases' if english else '看库存案例') +' ↗</a>'
+        f'<a class="text-link" href="records.html?q={website}">'+ ('Website cases' if english else '看官网案例') +' ↗</a></nav>')
+    body = r.template('records', **shared)
+    return r.shell('项目索引', body, current='work')
+
+
+def service(r, item):
+    """Buyer-focused service content, using the existing detail layout and motion."""
+    text = item[r.lang]
+    english = r.lang == 'en'
+    sections, index = '', ''
+    for entry in text['sections']:
+        index += f'<a href="#{escape(entry["id"])}">{escape(entry["title"])}</a>'
+        sections += (f'<section id="{escape(entry["id"])}"><h2>{escape(entry["title"])}</h2>'
+                     + ''.join(f'<p>{escape(p)}</p>' for p in entry['paragraphs']) + '</section>')
+    cases = ''
+    for pid in item['projects']:
+        project = r.projects[pid]
+        cases += (f'<h3><a class="text-link" href="../cases/{pid.lower()}.html">'
+                  f'{escape(r.title(project))} ↗</a></h3><p>{escape(project["displaySummary"])}</p>')
+    sections += (f'<section id="cases"><h2>{escape(text["case_heading"])}</h2>'
+                 f'<p>{escape(text["case_intro"])}</p>{cases}</section>')
+    index += f'<a href="#cases">{escape(text["case_heading"])}</a>'
+    questions = 'Questions before starting' if english else '开始前常见问题'
+    sections += (f'<section id="questions"><h2>{questions}</h2>'
+                 + ''.join(f'<h3>{escape(q)}</h3><p>{escape(a)}</p>' for q, a in text['faqs']) + '</section>')
+    index += f'<a href="#questions">{questions}</a>'
+    other = 'Related services' if english else '相关服务'
+    sections_links = ' · '.join(
+        f'<a class="text-link" href="{escape(s["slug"])}.html">{escape(s[r.lang]["heading"])} ↗</a>'
+        for s in r.seo['service_pages'] if s['slug'] != item['slug'])
+    body = r.template('service', heading=escape(text['heading']), intro=escape(text['intro']),
+                      delivery_label='Possible deliverables' if english else '可约定的交付',
+                      deliverables=''.join(f'<li>{escape(value)}</li>' for value in text['deliverables']),
+                      proof=escape(text['proof']), proof_project=item['proof_project'].lower(),
+                      proof_link=escape(text['proof_link']),
+                      more_cases='More related cases' if english else '更多相关案例',
+                      category='AI services' if english else '企业 AI 服务',
+                      back_label='← Explore business needs' if english else '← 返回业务场景',
+                      index_label='On this page' if english else '内容导航',
+                      consult_label=escape(text.get('consult_label', 'Let’s talk' if english else '免费聊聊')),
+                      section_index=index, sections=sections,
+                      contact_heading='Start with one task' if english else '先聊一项具体工作',
+                      contact_copy=('Describe the current process, its slowest step and the result you want.' if english
+                                    else '说说现在怎么做、哪一步最费时间、希望变成什么样。'),
+                      other_services=f'<p>{other}</p><p>{sections_links}</p>')
+    return r.shell(text['title'], body, '../', 'service', 'services/' + item['slug'] + '.html')
+
+
+def case(r, p):
+    example = r.case_examples.get(p['id'], {})
+    lang = r.lang
+    image = ''
+    if p.get('image'):
+        image_note = p.get('publicImageNote', '')
+        if p['id'] == 'P15':
+            image_note = 'Discovery-page demonstration; people and content are examples.' if lang == 'en' else '发现页功能演示，人物与内容为展示样例。'
+        note = f'<p class="case-image-note">{escape(image_note)}</p>' if image_note else ''
+        image_path = escape(r.image_path(p, '../'))
+        title = escape(r.title(p))
+        label = ('Enlarge screenshot: ' if lang == 'en' else '放大截图：') + title
+        viewer = (f'data-image-view data-image-title="{title}" '
+                  f'data-image-note="{escape(image_note)}" aria-haspopup="dialog"')
+        image = (f'<figure class="detail-image {p["id"].lower()}">'
+                 f'<a class="detail-image-trigger" href="{image_path}" {viewer} aria-label="{label}">'
+                 + '<span class="detail-image-visual">' + r.image(p, '../', preview=p['id'] in ('P02', 'P05'),
+                     sizes='(max-width: 650px) calc(100vw - 40px), (max-width: 1050px) 90vw, (max-width: 1440px) 43vw, 618px') + '</span></a>'
+                 '<figcaption>' + note +
+                 f'<a class="text-link" href="{image_path}" {viewer} target="_blank" rel="noopener noreferrer">{("View image" if lang == "en" else "查看图片")} ↗</a>'
+                 '</figcaption></figure>')
+    fields = {k: escape(v) for k, v in p.items() if isinstance(v, str)}
+    fields['category'] = escape(category_label(p['category']))
+    fields['image'] = image
+    fields['project_summary'] = escape(example.get('hero_intro', {}).get(lang, p['displaySummary']))
+    stage = example.get('hero_stage', example.get('stage', {}))
+    fields['case_stage'] = f'<p class="case-stage">{escape(stage[lang])}</p>' if stage else ''
+    study = p.get('caseStudy', {})
+    fields['case_title'] = escape(p.get('publicTitle') or p.get('homePreview', {}).get('title') or p['name'])
+    facts = [f'<div><dt>{escape(label)}</dt><dd>{escape(text)}</dd></div>'
+             for label, text in example.get('facts', {}).get(lang, [])]
+    fields['case_facts'] = '<dl class="case-facts">' + ''.join(facts) + '</dl>' if facts else ''
+    sections, index = '', ''
+    for entry in p['publicStory']:
+        key, title = entry['id'], entry['title']
+        section = (f'<section id="{key}"><h2>{escape(title)}</h2>'
+                   + ''.join(f'<p>{escape(text)}</p>' for text in entry['paragraphs']))
+        if key == 'process' and example.get('rows'):
+            heading = example['heading'][lang]
+            headers = ''.join(f'<th scope="col">{escape(label)}</th>' for label in example['headers'][lang])
+            rows = ''.join('<tr>' + f'<th scope="row">{escape(row[0])}</th>'
+                           + ''.join(f'<td>{escape(cell)}</td>' for cell in row[1:]) + '</tr>'
+                           for row in example['rows'][lang])
+            section += (f'<div class="case-example"><h3>{escape(heading)}</h3>'
+                        f'<p>{escape(example["intro"][lang])}</p>'
+                        f'<table aria-label="{escape(heading)}"><thead><tr>{headers}</tr></thead><tbody>{rows}</tbody></table>'
+                        f'<p class="case-example-note">{escape(example["note"][lang])}</p></div>')
+        if key == 'qa' and example.get('illustrations'):
+            illustrative = 'AI-written illustration · not a real support record' if lang == 'en' else 'AI 拟写示意 · 非真实客服记录'
+            answer_label = 'Illustrative answer' if lang == 'en' else '示意答复'
+            for item in example['illustrations'][lang]:
+                section += (f'<article class="case-example"><h3>{escape(item["question"])}</h3>'
+                            f'<p class="case-example-note">{illustrative}</p>'
+                            f'<p><strong>{answer_label}：</strong>{escape(item["answer"])}</p>'
+                            f'<p><a class="text-link" href="#{escape(item["source_id"])}">{escape(item["source_label"])} ↓</a></p>'
+                            f'<blockquote class="case-source-excerpt" id="{escape(item["source_id"])}">'
+                            f'<p>{escape(item["excerpt"])}</p><cite>{escape(item["source_label"])}</cite></blockquote></article>')
+        sections += section + '</section>'
+        index += f'<a href="#{key}">{escape(title)}</a>'
+    if p.get('publicUrl') and not p.get('anonymized'):
+        sections += (f'<section id="evidence"><h2>项目链接</h2><p><a class="text-link" href="{escape(p["publicUrl"])}" '
+                     'target="_blank" rel="noopener noreferrer">打开项目网站 ↗</a></p></section>')
+        index += '<a href="#evidence">项目链接</a>'
+    technical = r.technical.get(p['id'])
+    if technical:
+        lang = r.lang
+        title = 'Technical approach' if lang == 'en' else '技术与实现'
+        validation = 'Validation scope' if lang == 'en' else '验证范围'
+        tags = ''.join(f'<li>{escape(tool)}</li>' for tool in technical['stack'])
+        flow = ''.join(f'<li><strong>{escape(step["label"])}</strong><p>{escape(step["detail"])}</p></li>' for step in technical.get('flow', {}).get(lang, []))
+        flow_heading = 'Implementation flow' if lang == 'en' else '实现流程'
+        flow_html = f'<h3>{flow_heading}</h3><ol class="technical-flow" aria-label="{flow_heading}">{flow}</ol>' if flow else ''
+
+        sections += (f'<section id="technical"><h2>{title}</h2><ul class="technology-tools">{tags}</ul>'
+                     f'<p>{escape(technical["approach"][lang])}</p>{flow_html}'
+                     f'<h3>{validation}</h3><p>{escape(technical["verification"][lang])}</p></section>')
+        index += f'<a href="#technical">{title}</a>'
+    fields.update(case_sections=sections, case_index=index)
+    fields['related'] = ''.join(
+        f'<p class="case-related"><a class="text-link" href="{pid.lower()}.html">'
+        f'{escape(r.projects[pid].get("publicTitle") or r.projects[pid]["name"])} ↗</a></p>' for pid in study.get('related', []))
+    heading = 'Talk about your business' if lang == 'en' else '聊聊你的业务'
+    copy = ('You do not need a complete solution. Share one time-consuming task and we can discuss where AI or software could help.'
+            if lang == 'en' else '不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。')
+    label = 'Let’s talk' if lang == 'en' else '免费聊聊'
+    service_link = ''
+    service_slug = {'P09': 'workflow-automation', 'P10': 'workflow-automation', 'P36': 'ai-agent'}.get(p['id'])
+    if service_slug:
+        inventory = service_slug == 'workflow-automation'
+        service_label = (('View inventory reconciliation and workflow automation services' if inventory
+                          else 'View enterprise knowledge base setup services') if lang == 'en'
+                         else ('查看库存核对与流程自动化服务' if inventory else '查看企业知识库搭建服务'))
+        service_link = (f'<p><a class="text-link" data-case-service href="../services/{service_slug}.html">'
+                        f'{service_label} <span aria-hidden="true">↗</span></a></p>')
+    fields['case_contact'] = (f'<section class="case-contact" aria-labelledby="case-contact-title">'
+        f'<div><h2 id="case-contact-title">{heading}</h2><p>{copy}</p>{service_link}</div>'
+        f'<a class="text-link" href="../about.html#contact">{label} <span aria-hidden="true">↗</span></a></section>')
+    body = r.template('case', **fields)
+    return r.shell(r.title(p), body, '../', 'work', 'cases/' + p['id'].lower() + '.html')
+
+
+def not_found(r):
+    body = ('<main id="main" class="not-found"><p class="meta">404</p>'
+            '<h1>页面未找到</h1><p>请返回首页浏览项目。</p>'
+            '<a class="primary" href="index.html">返回首页 ↗</a></main>')
+    return r.shell('未找到页面', body, page_path='404.html')

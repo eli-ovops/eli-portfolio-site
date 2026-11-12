@@ -1,0 +1,590 @@
+{
+  "base_url": "https://www.eliai.cn/",
+  "planned_base_url": "https://www.eliai.cn/",
+  "indexing_enabled": true,
+  "note": "2026-10-15 user authorizes HTTPS and indexing after ICP approval. This build targets the canonical HTTPS domain; IP/local preview must remain noindex at the server and must not use this launch package.",
+  "home": {
+    "zh-CN": {
+      "title": "FDE 企业 AI 落地咨询｜AI Agent 与流程自动化 - Eli",
+      "description": "Eli，FDE 前沿部署工程师，帮助企业选择 AI 工具、梳理重复工作与实施软件。围绕企业 AI Agent、知识库答疑、库存核对和流程自动化，先讨论一个具体场景，再评估成本与效果。初次咨询免费。"
+    },
+    "en": {
+      "title": "FDE Consulting, AI Agents & Workflow Automation | Eli",
+      "description": "Work with Eli, a forward deployed engineer, on AI tools, knowledge assistants and workflow automation. Start with one business task and a free initial consultation."
+    }
+  },
+  "about": {
+    "zh-CN": {
+      "title": "关于 Eli｜FDE 工作方式、免费 AI 咨询与联系",
+      "description": "了解 Eli 如何帮助企业用好 AI：先免费讨论一项重复工作，再选择现成工具或小范围定制。初次咨询免费，工具订阅、开发、培训和维护的范围与费用另行确认；可通过邮箱、电话或微信联系。"
+    },
+    "en": {
+      "title": "About Eli | FDE Approach & Free AI Consultation",
+      "description": "Discuss one repetitive business task with Eli in a free initial consultation. Review tools or custom work, agree implementation costs, and get in touch."
+    }
+  },
+  "records": {
+    "zh-CN": {
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。"
+    },
+    "en": {
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project."
+    }
+  },
+  "case_titles": {
+    "P10": {
+      "zh-CN": "洁具库存管理系统开发案例 - Eli",
+      "en": "Inventory System Development | Eli Case Study"
+    },
+    "P09": {
+      "zh-CN": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "en": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    "P36": {
+      "zh-CN": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+      "en": "AI Customer Support & Knowledge Retrieval | Eli Case Study"
+    },
+    "P12": {
+      "zh-CN": "产品文案与配图的 AI 内容工作台开发案例 - Eli",
+      "en": "AI Product Copy & Image Workflow | Eli Case Study"
+    },
+    "P15": {
+      "zh-CN": "PetSocial / HelloTail：原生 iOS 开发实践 - Eli",
+      "en": "PetSocial / HelloTail: Native iOS | Eli Case Study"
+    },
+    "P04": {
+      "zh-CN": "律所 OA 办公系统开发案例 - Eli",
+      "en": "Law Firm Office Workflows | Eli Case Study"
+    },
+    "P02": {
+      "zh-CN": "慈善基金会官网开发案例 - Eli",
+      "en": "Nonprofit Website Development | Eli Case Study"
+    },
+    "P05": {
+      "zh-CN": "英国品牌全域营销协作案例 - Eli",
+      "en": "UK Brand Marketing Collaboration | Eli Case Study"
+    },
+    "P07": {
+      "zh-CN": "企业官网开发：家具品牌展示与浏览路径案例 - Eli",
+      "en": "Business Website: Brand & Buyer Paths | Eli Case Study"
+    }
+  },
+  "questions": [
+    {
+      "zh-CN": {
+        "question": "想用 AI，但不知道从哪开始？",
+        "lead": "可以先免费聊聊公司最费时间的一件事。",
+        "answer": "员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。"
+      },
+      "en": {
+        "question": "Want AI, but unsure where to start?",
+        "lead": "Start with a free conversation about one time-consuming task.",
+        "answer": "What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "会怎么推进，费用怎么定？",
+        "lead": "先梳理流程，再选一个小场景。",
+        "answer": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。"
+      },
+      "en": {
+        "question": "How do we proceed and estimate cost?",
+        "lead": "Review the workflow, then choose one small use case.",
+        "answer": "The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "一定要开发一套系统吗？",
+        "lead": "用好一个工具，改善一个步骤，也可以开始。",
+        "answer": "可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。"
+      },
+      "en": {
+        "question": "Do we need to build a whole system?",
+        "lead": "One useful tool or one better step can be a starting point.",
+        "answer": "We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding."
+      },
+      "projects": [
+        "P36",
+        "P09",
+        "P12"
+      ]
+    }
+  ],
+  "consultation": {
+    "zh-CN": {
+      "name": "企业 AI 应用咨询",
+      "description": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。"
+    },
+    "en": {
+      "name": "Business AI consultation",
+      "description": "The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance."
+    }
+  },
+  "services": [
+    {
+      "id": "inventory",
+      "projects": [
+        "P10",
+        "P09"
+      ],
+      "zh-CN": {
+        "name": "录入和库存靠人核对",
+        "serviceType": "库存与录入流程自动化",
+        "description": "录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。",
+        "links": [
+          "看库存案例",
+          "看扫码案例"
+        ],
+        "lead": "减少重复录入与人工核对。"
+      },
+      "en": {
+        "name": "Repeated entry and stock checks",
+        "serviceType": "Inventory and data-entry workflow automation",
+        "description": "Review entry and stock-checking steps to see where software can reduce repeated handling.",
+        "links": [
+          "Inventory case",
+          "Barcode case"
+        ],
+        "lead": "Reduce repeated entry and manual checks."
+      },
+      "page": "workflow-automation"
+    },
+    {
+      "id": "knowledge",
+      "projects": [
+        "P36"
+      ],
+      "zh-CN": {
+        "name": "资料难找、问题反复问",
+        "serviceType": "企业知识库与 AI 辅助答疑",
+        "description": "产品资料太散、同样的问题反复回答？先整理知识库，再评估 AI Agent 或答疑助手是否适合，回答能查到依据，重要问题由人确认。",
+        "links": [
+          "看答疑案例"
+        ],
+        "lead": "让资料更好找，答疑有依据。"
+      },
+      "en": {
+        "name": "Information lookup and repeated questions",
+        "serviceType": "Business knowledge retrieval and AI-assisted support",
+        "description": "Organize scattered product knowledge, then assess whether an AI agent or support assistant fits. Keep sources available and important answers subject to human review.",
+        "links": [
+          "Support case"
+        ],
+        "lead": "Make information easier to find and use."
+      },
+      "page": "ai-agent"
+    },
+    {
+      "id": "content",
+      "projects": [
+        "P12"
+      ],
+      "zh-CN": {
+        "name": "产品内容总要重做",
+        "serviceType": "AI 辅助产品内容整理",
+        "description": "产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。",
+        "links": [
+          "看内容案例"
+        ],
+        "lead": "让文案和配图不必每次从头做。"
+      },
+      "en": {
+        "name": "Product content takes time",
+        "serviceType": "AI-assisted product content preparation",
+        "description": "Review how product information becomes copy and images, with people reviewing the output.",
+        "links": [
+          "Content case"
+        ],
+        "lead": "Stop starting copy and images from scratch."
+      },
+      "page": "workflow-automation"
+    }
+  ],
+  "service_pages": [
+    {
+      "slug": "fde-consulting",
+      "projects": [
+        "P10",
+        "P09",
+        "P36"
+      ],
+      "zh-CN": {
+        "title": "FDE 企业 AI 落地咨询｜从业务问题到小范围实施 - Eli",
+        "description": "找 FDE 帮企业用好 AI？Eli 从重复工作、资料与现有工具入手，梳理应用场景，比较现成工具与定制开发，约定试用和验收方法。初次咨询免费。",
+        "heading": "FDE 企业 AI 落地咨询",
+        "intro": "我帮你梳理一项重复工作，选择和配置合适的 AI 工具；需要时开发小范围软件，并交接操作与维护说明。",
+        "sections": [
+          {
+            "id": "approach",
+            "title": "FDE 是做什么的？",
+            "paragraphs": [
+              "FDE 是 Forward Deployed Engineer，前沿部署工程师。工作从理解客户的业务现场开始，把需求、工具选择、实现和反馈连起来，让技术用在实际流程中。",
+              "与我合作，可以先梳理一项工作：谁在做、输入是什么、结果交给谁。现成工具能解决，就先用工具；确实需要连接数据或定制界面，再讨论开发。"
+            ]
+          },
+          {
+            "id": "fit",
+            "title": "什么问题适合先聊？",
+            "paragraphs": [
+              "员工反复整理表格、核对库存；产品资料散在不同地方，客服总问同样的问题；文案和配图每次从头准备。这些有明确输入、输出和负责人的工作，适合挑一个小范围评估。",
+              "初次沟通只需要说明现有做法、最费时间的一步，以及希望改善的结果。可以提供脱敏样例，不需要先购买工具，也不需要先交出账号密码或完整业务数据。"
+            ]
+          },
+          {
+            "id": "delivery",
+            "title": "如何从咨询推进到实施？",
+            "paragraphs": [
+              "先画清现有流程，找出重复处理和出错的位置；再比较现成工具、规则自动化与 AI 辅助的适用性。比如 WorkBuddy 一类工具是否适合，要看具体任务、数据要求和使用成本。",
+              "确定一个试用范围，把要做的功能、人工确认环节、交付材料和验收方式写清，再决定是否实施。试用发现不合适，可以缩小范围或换方法，不必直接做一套大系统。"
+            ]
+          },
+          {
+            "id": "acceptance",
+            "title": "怎样判断有没有帮助？",
+            "paragraphs": [
+              "在实施前记录同类任务的处理时间、重复录入次数或返工原因。试用时用相同口径比较，并确认员工能否继续使用、异常是否有人处理。",
+              "初次咨询免费。后续工具订阅、开发、培训与维护费用按范围单独确认。是否值得投入，要结合使用频率、改造成本和实际试用结果判断。"
+            ]
+          }
+        ],
+        "case_heading": "相关项目经历",
+        "case_intro": "下面的案例分别展示业务软件开发与知识库协作，具体职责和交付范围见各案例。",
+        "faqs": [
+          [
+            "不懂 AI，也可以咨询吗？",
+            "可以。描述一项每天反复做的工作即可，我会先了解业务，再讨论技术选择。"
+          ],
+          [
+            "FDE 咨询一定包含驻场吗？",
+            "沟通方式、是否需要现场调研、实施周期与交付范围在合作前确认。初次咨询不默认包含长期驻场服务。"
+          ]
+        ],
+        "deliverables": [
+          "业务流程与改造清单",
+          "工具配置或小范围软件",
+          "操作说明与维护范围"
+        ],
+        "proof": "相关经验：独立完成库存系统的需求梳理、开发与交付。",
+        "proof_link": "看库存系统案例"
+      },
+      "en": {
+        "title": "FDE Consulting for Business AI Adoption | Eli",
+        "description": "Explore one repetitive business task with Eli, a forward deployed engineer. Compare existing AI tools with custom software, define a pilot and agree acceptance criteria. Free initial consultation.",
+        "heading": "FDE consulting for business AI",
+        "intro": "I help map one repetitive task, choose and configure suitable AI tools, and build a small software change when needed, with operating and maintenance guidance.",
+        "sections": [
+          {
+            "id": "approach",
+            "title": "What does an FDE do?",
+            "paragraphs": [
+              "FDE stands for Forward Deployed Engineer. The work starts with the customer’s operating context, connecting requirements, tool selection, implementation and feedback.",
+              "We can map who performs a task, what goes in and who uses the result. Start with an existing tool when it fits; discuss custom data connections or interfaces when needed."
+            ]
+          },
+          {
+            "id": "fit",
+            "title": "What can we discuss first?",
+            "paragraphs": [
+              "Repeated spreadsheet handling, inventory checks, scattered product information, recurring support questions and product content preparation are possible starting points. Choose a task with clear inputs, outputs and an owner.",
+              "Describe the current process, its most time-consuming step and the result you want. Redacted examples can help. You do not need to buy a tool or share passwords or a complete business dataset first."
+            ]
+          },
+          {
+            "id": "delivery",
+            "title": "From discussion to a bounded pilot",
+            "paragraphs": [
+              "Map repeated handling and common mistakes, then compare existing tools, rule-based automation and AI assistance. Whether a tool such as WorkBuddy fits depends on the task, data requirements and cost.",
+              "Agree the pilot’s features, human review steps, handover materials and acceptance criteria before implementation. Narrow the scope or change the approach if the trial does not fit."
+            ]
+          },
+          {
+            "id": "acceptance",
+            "title": "How do we assess the result?",
+            "paragraphs": [
+              "Record comparable task duration, repeated entry or reasons for rework before implementation. Use the same measures during the pilot and check whether staff can continue using it and handle exceptions.",
+              "The initial consultation is free. Agree tool subscriptions, development, training and maintenance separately. Assess value against task frequency, implementation cost and observed pilot results."
+            ]
+          }
+        ],
+        "case_heading": "Related project experience",
+        "case_intro": "These cases cover business software and knowledge-base collaboration. Read each case for the role and delivery scope.",
+        "faqs": [
+          [
+            "Can we talk if I do not understand AI?",
+            "Yes. Describe one repetitive task. We will understand the business before discussing technology."
+          ],
+          [
+            "Does FDE consulting include on-site work?",
+            "Agree communication, any site visits, timing and deliverables before starting. An initial consultation does not include an ongoing on-site engagement."
+          ]
+        ],
+        "deliverables": [
+          "Workflow and change list",
+          "Tool setup or scoped software",
+          "Operating and maintenance guidance"
+        ],
+        "proof": "Related experience: independently scoped, developed and delivered an inventory system.",
+        "proof_link": "View the inventory case"
+      },
+      "proof_project": "P10"
+    },
+    {
+      "slug": "ai-agent",
+      "projects": [
+        "P36"
+      ],
+      "zh-CN": {
+        "title": "企业 AI Agent 与知识库应用｜资料检索和辅助答疑 - Eli",
+        "description": "企业想做 AI Agent 或知识库助手？从产品资料检索和重复答疑入手，评估文档质量、引用依据、权限、人工复核及接口条件。查看相关 RAG 客服协作案例，免费初次咨询。",
+        "heading": "企业 AI Agent 与知识库应用",
+        "intro": "帮员工查资料、帮客服找答复。先做能查来源的知识库问答；要让 Agent 改订单、写库存，再单独验证接口、权限和人工确认。",
+        "sections": [
+          {
+            "id": "difference",
+            "title": "问答助手和 AI Agent 有什么区别？",
+            "paragraphs": [
+              "知识库问答助手侧重“找到资料并回答”；AI Agent 通常还会调用工具、串联步骤或执行动作。能回答问题，不等于已经能可靠地改订单、更新库存或代替员工处理业务。",
+              "企业知识问答常用 RAG，也就是先检索相关资料，再据此生成回答。是否需要更复杂的 Agent，要看任务是否有明确步骤、可用接口和可控的执行权限。"
+            ]
+          },
+          {
+            "id": "knowledge",
+            "title": "先从资料检索和重复答疑开始",
+            "paragraphs": [
+              "可以先讨论产品手册、服务规则、内部操作说明等场景：资料由谁维护、哪个版本有效、哪些员工能看、回答应该引用哪一段。",
+              "如果资料冲突、内容过期或找不到依据，助手应说明无法确认，并转给负责的人。重要承诺和对外答复保留人工确认，不靠听起来流畅的回答判断正确。"
+            ]
+          },
+          {
+            "id": "pilot",
+            "title": "小范围试用需要准备什么？",
+            "paragraphs": [
+              "选一组有权使用、已脱敏且版本明确的文档，再整理员工或客户常问的问题。区分能直接回答、需要补问和必须转人工的问题。",
+              "先试检索、引用和回答；需要执行动作时，再评估接口、读写权限、确认步骤、操作记录与失败处理。涉及现有系统的修改，单独明确范围和负责人。"
+            ]
+          },
+          {
+            "id": "acceptance",
+            "title": "看哪些结果，而不只看回答好不好听？",
+            "paragraphs": [
+              "用业务人员确认过的问题核对：是否找到正确资料，引用是否支持答案，过期内容能否排除，无依据的问题是否正确停止。记录错误类型，再决定是否扩大试用。",
+              "如果加入执行动作，还要核对操作对象、重复执行、失败恢复和人工接管。模型、数据量、接口与维护都会影响费用，实施前单独确认。"
+            ]
+          }
+        ],
+        "case_heading": "知识库与客服协作案例",
+        "case_intro": "相关 RAG 客服项目中，我负责知识库整理、检索配置与测试。案例中的问答示意与实际项目记录有明确区分；涉及执行工具的 Agent 需另行评估。",
+        "faqs": [
+          [
+            "一定要训练自己的模型吗？",
+            "不一定。先评估现有模型、资料检索和工具配置能否满足任务，避免在问题尚未明确时投入模型训练。"
+          ],
+          [
+            "可以直接让 Agent 全自动处理客户业务吗？",
+            "先验证具体任务。涉及订单、付款、对外承诺或数据修改时，需要明确权限、确认和异常处理，再决定自动化程度。"
+          ]
+        ],
+        "deliverables": [
+          "可维护的知识库",
+          "带来源的问答试用",
+          "问题清单与人工转接规则"
+        ],
+        "proof": "相关经验：参与 RAG 客服，负责知识库整理、检索配置与测试。",
+        "proof_link": "看知识库答疑案例"
+      },
+      "en": {
+        "title": "Business AI Agents & Knowledge Assistants | Eli",
+        "description": "Assess AI agents and knowledge assistants for product lookup and recurring support questions. Review document quality, citations, access, human checks and integrations. Free initial consultation.",
+        "heading": "AI agents and knowledge support",
+        "intro": "Help staff find information and support teams answer questions with sources. Agents that change orders or stock need separate checks for tools, access and human approval.",
+        "sections": [
+          {
+            "id": "difference",
+            "title": "Answers or actions?",
+            "paragraphs": [
+              "A knowledge assistant focuses on finding information and answering questions. An AI agent may also call tools, connect steps or take actions. Answering a question does not establish reliable order changes or stock updates.",
+              "RAG retrieves relevant material before generating an answer. A more complex agent needs clear task steps, available integrations and controlled permissions."
+            ]
+          },
+          {
+            "id": "knowledge",
+            "title": "Start with lookup and recurring questions",
+            "paragraphs": [
+              "Review product manuals, service rules or internal instructions: who maintains them, which version is valid, who can access them and what source should support an answer.",
+              "When information conflicts, is outdated or lacks evidence, the assistant should say it cannot confirm and refer the issue to a person. Keep important commitments and external responses subject to human review."
+            ]
+          },
+          {
+            "id": "pilot",
+            "title": "What does a pilot need?",
+            "paragraphs": [
+              "Select authorized, redacted documents with known versions and representative questions. Separate questions that can be answered directly, need clarification or require human handling.",
+              "Test retrieval, citations and answers first. For actions, assess interfaces, read and write access, confirmation, records and failure handling. Agree changes to existing systems separately."
+            ]
+          },
+          {
+            "id": "acceptance",
+            "title": "Assess evidence and behavior",
+            "paragraphs": [
+              "Use questions checked by business staff to assess retrieval, whether citations support the answer, outdated content handling and appropriate refusal when evidence is missing. Record error types before expanding.",
+              "For actions, also test the target object, duplicate execution, recovery and human takeover. Model choice, data volume, integrations and maintenance affect cost and need separate agreement."
+            ]
+          }
+        ],
+        "case_heading": "Knowledge and support collaboration",
+        "case_intro": "In the related RAG support project, I worked on knowledge preparation, retrieval configuration and testing. Illustrative answers are distinguished from project records. Tool-executing agents require a separate assessment.",
+        "faqs": [
+          [
+            "Do we have to train a model?",
+            "Not necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training."
+          ],
+          [
+            "Can an agent handle customer work autonomously?",
+            "Validate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level."
+          ]
+        ],
+        "deliverables": [
+          "Maintainable knowledge base",
+          "Source-backed answer pilot",
+          "Question set and human handoff rules"
+        ],
+        "proof": "Contributed to RAG support: knowledge preparation, retrieval setup and testing.",
+        "proof_link": "View the knowledge support case"
+      },
+      "proof_project": "P36"
+    },
+    {
+      "slug": "workflow-automation",
+      "projects": [
+        "P10",
+        "P09",
+        "P12"
+      ],
+      "zh-CN": {
+        "title": "企业提效与流程自动化｜库存核对、录入和内容整理 - Eli",
+        "description": "企业降本增效从哪些工作开始？Eli 帮你评估重复录入、库存核对、产品内容整理，比较现成工具、规则自动化与 AI 辅助，先试一个场景，用处理时间和返工情况判断效果。",
+        "heading": "企业提效，从一项重复工作开始",
+        "intro": "把重复录入、库存核对或产品内容准备，改成更少搬运、更容易核对的流程。先试一项，再看耗时、正确性和返工情况。",
+        "sections": [
+          {
+            "id": "priority",
+            "title": "先改哪一步？",
+            "paragraphs": [
+              "优先看每天都做、规则相对明确、输入输出可核对的工作。先记录谁负责、每次花多久、哪里返工，再找出重复搬运资料或人工核对的位置。",
+              "企业降本增效要看总投入：工具费、员工学习时间、系统连接和维护都算成本。自动化一小步如果更好用，可以先停在这里，不必为了 AI 增加流程。"
+            ]
+          },
+          {
+            "id": "inventory",
+            "title": "录入与库存核对",
+            "paragraphs": [
+              "适合先讨论同一份资料重复填写、入库移库出库的记录分散、盘点后人工对账等问题。先确认业务规则与权限，再判断使用现成工具还是开发库存软件。",
+              "数量、单据和流水必须能核对；撤销、更正和操作记录也要有明确做法。规则确定的部分优先使用软件校验，需要理解非结构化内容时再评估 AI。"
+            ]
+          },
+          {
+            "id": "content",
+            "title": "产品资料、文案和配图整理",
+            "paragraphs": [
+              "把产品事实、规格与可复用素材集中整理，再讨论 AI 是否适合辅助生成文案初稿或准备图片。内容发布前，价格、规格和品牌表述仍由负责人确认。",
+              "先试一类产品或一个渠道，检查资料是否完整、输出是否需要反复修改。生成内容、人工审核和正式发布是不同步骤，分别确认是否可用。"
+            ]
+          },
+          {
+            "id": "acceptance",
+            "title": "怎样验证提效，避免只多一个工具？",
+            "paragraphs": [
+              "选择同类任务比较改造前后的处理时间、重复录入与返工情况，同时核对结果正确性。员工能否理解、出现错误能否恢复，也属于验收。",
+              "先约定试用范围和成本，再按结果决定是否扩展。可以从 WorkBuddy 等现成工具的使用方式开始；需要定制开发、培训或后续维护时，另行确认费用。"
+            ]
+          }
+        ],
+        "case_heading": "库存与内容工作流案例",
+        "case_intro": "库存项目与内容工具展示不同的工作方式。各案例分别说明个人职责、交付状态和验证范围，不把内容生成等同于全自动发布。",
+        "faqs": [
+          [
+            "企业提效一定要用 AI 吗？",
+            "不一定。固定规则用表单、校验或普通软件可能更直接。先选适合业务的做法，再决定 AI 是否有帮助。"
+          ],
+          [
+            "能承诺节省多少时间或费用吗？",
+            "需要用你的实际任务试用后判断。先定义比较口径，记录正确性、耗时与维护成本，再讨论可验证的改善。"
+          ]
+        ],
+        "deliverables": [
+          "一项流程的改造方案",
+          "可试用的工具或软件",
+          "核对方法与使用说明"
+        ],
+        "proof": "相关经验：主导扫码库存开发，处理入出库、重复提交与撤销纠错。",
+        "proof_link": "看扫码库存案例"
+      },
+      "en": {
+        "title": "Business Efficiency & Workflow Automation | Eli",
+        "description": "Review repeated entry, inventory checks and product content preparation with Eli. Compare existing tools, rule-based software and AI assistance. Assess a small pilot using task duration and rework.",
+        "heading": "Automate one business task",
+        "intro": "Reduce repeated entry, stock checks or product content handling. Try one workflow, then check time, correctness and rework.",
+        "sections": [
+          {
+            "id": "priority",
+            "title": "Which step should change first?",
+            "paragraphs": [
+              "Look for frequent work with reasonably clear rules and checkable inputs and outputs. Record who owns it, how long it takes and why rework happens. Identify repeated transfer or checking.",
+              "Include subscriptions, staff learning, integrations and maintenance in the cost. A small change that works can be enough; do not add process just to use AI."
+            ]
+          },
+          {
+            "id": "inventory",
+            "title": "Entry and inventory checks",
+            "paragraphs": [
+              "Discuss duplicate entry, scattered stock movement records or manual reconciliation. Confirm business rules and access before choosing existing tools or custom inventory software.",
+              "Quantities, documents and movement records must reconcile. Define correction, reversal and activity records. Use software validation for fixed rules and assess AI when unstructured content needs interpretation."
+            ]
+          },
+          {
+            "id": "content",
+            "title": "Product information, copy and images",
+            "paragraphs": [
+              "Organize product facts, specifications and reusable assets, then assess AI for drafting copy or preparing images. A responsible person checks prices, specifications and brand wording before publication.",
+              "Try one product type or channel. Check source completeness and the amount of editing required. Generation, human review and publication are separate steps with separate checks."
+            ]
+          },
+          {
+            "id": "acceptance",
+            "title": "Check the improvement, not just the tool",
+            "paragraphs": [
+              "Compare similar tasks before and after the change for duration, repeated entry and rework while checking correctness. Staff understanding and recovery from mistakes are part of acceptance.",
+              "Agree pilot scope and cost first, then expand only if results justify it. Existing tools such as WorkBuddy can be a starting point. Agree custom development, training and maintenance separately."
+            ]
+          }
+        ],
+        "case_heading": "Inventory and content workflow experience",
+        "case_intro": "These projects illustrate different workflows. Each case distinguishes role, delivery status and validation scope; generating content does not establish automated publication.",
+        "faqs": [
+          [
+            "Does efficiency require AI?",
+            "No. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first."
+          ],
+          [
+            "Can you promise a specific saving?",
+            "Assess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement."
+          ]
+        ],
+        "deliverables": [
+          "One workflow change plan",
+          "A usable tool or software pilot",
+          "Checking and operating guidance"
+        ],
+        "proof": "Led barcode inventory development: stock movements, duplicate requests and corrections.",
+        "proof_link": "View the barcode inventory case"
+      },
+      "proof_project": "P09"
+    }
+  ]
+}

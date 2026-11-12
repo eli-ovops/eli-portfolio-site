@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-10-17T07:07:47.835088+00:00",
+  "status": "TOUTIAO_COMPLETE_GEO_UPDATED_BY_FETCH_DIAGNOSIS",
+  "website": "https://www.eliai.cn/",
+  "visual_revision": "ef627aa38d38fa4ba886",
+  "toutiao": {
+    "site_id": "2001878",
+    "ownership": "VERIFIED_NATIVE_SUCCESS",
+    "submission": "ACCEPTED_NATIVE_SUCCESS_PERSISTED_AFTER_RELOAD",
+    "sitemap": "https://www.eliai.cn/sitemap.xml",
+    "submissions_this_run": 1,
+    "submitted_at_ui": "2026-10-17 15:00:40",
+    "sitemap_public_urls": 88,
+    "platform_status": "等待",
+    "platform_url_count": 0,
+    "last_crawl": "-",
+    "indexed": "UNKNOWN",
+    "evidence": [
+      "toutiao-verified.txt",
+      "toutiao-verified.jpg",
+      "toutiao-sitemap-submitted.jpg",
+      "toutiao-sitemap-waiting.txt",
+      "toutiao-sitemap-waiting.jpg"
+    ]
+  },
+  "production": {
+    "release": "/srv/eli-sites/portfolio/domain-releases/20261017-toutiao-verification",
+    "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261017-stacked-gallery-ef627aa3",
+    "existing_files_unchanged": 156,
+    "only_added": "ByteDanceVerify.html",
+    "proof_bytes": 20,
+    "proof_sha256": "6143c7fdb126815e9d95618f7ae7b65dc64025ba61c34ab7c9038b39c621fd53",
+    "archive_sha256": "b2835ec0297148c7477cc1800db7c24494419b8c09f26ccc1a5556758fc1ba3d",
+    "configs_and_ip_preview": "UNCHANGED",
+    "service_status": {
+      "nginx": "active",
+      "erp-trial": "active",
+      "mysql": "active",
+      "redis-server": "active"
+    },
+    "new_platform_submissions_elsewhere": 0
+  },
+  "platform_counts": {
+    "handled": 7,
+    "domestic": 4,
+    "overseas": 3,
+    "verified": 6,
+    "with_submission_receipt": 4
+  },
+  "ai_checks": {
+    "ChatGPT": {
+      "unbranded": "NOT_IN_THIS_5_CANDIDATE_ANSWER",
+      "domain_specified": "FIRST_PARTY_SERVICE_AND_CASE_CITATIONS_CONFIRMED",
+      "temporary_chat": true
+    },
+    "Doubao": {
+      "guest": "NO_WEB_SEARCH",
+      "logged_in_expert_unbranded": "NOT_IN_THIS_4_CANDIDATE_ANSWER",
+      "domain_specified": "HOMEPAGE_SUMMARY_AND_FIRST_PARTY_LINKS_PRESENT_SERVICE_SUBPAGES_NOT_CONFIRMED",
+      "expert_mode": true,
+      "limitation": "No unbranded recommendation; domain-hinted answer links homepage but is weaker evidence than native source citation cards; do not count as independent service-page discovery"
+    },
+    "Yuanbao": {
+      "unbranded": "NOT_IN_THIS_5_CANDIDATE_ANSWER_21_SOURCES",
+      "domain_specified": "DIRECT_URL_READING_CONFIRMED_NOT_ORGANIC_SEARCH_CITATION",
+      "direct_service_read": "URL_AUTO_EXTRACTION_AND_CURRENT_BODY_CONFIRMED",
+      "note": "Native auto-fetch supplies user_doc. Four unique-marker origin requests200 plus exact current title/price; see newer receipt.",
+      "prior_assessment": "Read failure from assistant self-report; superseded by marked origin receipts"
+    },
+    "Perplexity": {
+      "unbranded": "NOT_IN_THIS_3_CANDIDATE_ANSWER_38_SOURCES",
+      "domain_specified": "SEARCH_SNIPPET_CITATIONS_FOR_RECORDS_P13_ONLY",
+      "direct_service_read": "FAILED_AFTER_USER_SECURITY_CHECK_AND_FRESH_SESSION_ORIGIN_NO_NEW_SERVICE_HIT",
+      "anonymous_chat": true
+    },
+    "Quark": {
+      "status": "WEB_SEARCH_CHECKED_NO_SITE_RESULT_AI_ENTRY_UNKNOWN",
+      "user_has_client": true,
+      "handoff": "No user-performed testing required; user declines installation",
+      "availability_evidence": "quark-client-availability.json",
+      "queries_run": 3,
+      "software_installed": false,
+      "working_web_entry": "https://quark.sm.cn/"
+    }
+  },
+  "limitations": [
+    "One unbranded buyer-intent question per working platform is a bounded sample, not ranking or overall recommendation coverage",
+    "Native assistant-reported fetch failure does not diagnose origin cause; independent HTTP200 and robots allow do not prove crawler network reachability",
+    "No content, layout, visual or animation changes; no AI vendor signup submission or paid actions",
+    "Quark has not been tested; new client installation not authorized or performed"
+  ],
+  "proof_files_manifest": "verification-files/manifest.json",
+  "existing_followup_automation": "Unchanged; no duplicate job",
+  "new_platform_submissions_elsewhere": 0,
+  "newer_diagnosis": "evidence/ai-fetch-diagnosis-20261017/receipt.json"
+}

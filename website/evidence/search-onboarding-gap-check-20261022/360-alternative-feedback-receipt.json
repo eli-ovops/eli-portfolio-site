@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-10-22T13:31:27.826060+00:00",
+  "scope": "Read-only discovery of an officially supported alternate 360 feedback channel; no sending authorized in this turn.",
+  "official_entry": "https://info.so.com/feedback.html?product=zhanzhang",
+  "official_reference": "https://www.so.com/help/help_3_14.html",
+  "native_heading": "反馈中心 / 欢迎您的意见及建议",
+  "selected_product": "站长平台",
+  "native_content_allowance": 800,
+  "attachment_controls": 5,
+  "required_contact": "邮箱",
+  "verification": "本人完成验证码；没有读取或保存题目或答案",
+  "status": "FORM_ACCESSIBLE_NOT_FILLED_NOT_SUBMITTED",
+  "submissions": 0,
+  "forum_posts": 0,
+  "account_permissions_changed": 0,
+  "website_changes": 0,
+  "proof": [
+    "360-alternative-official-feedback.txt",
+    "360-alternative-official-feedback.png"
+  ],
+  "historical_email_reference": {
+    "source": "https://bbs.360.cn/thread-15052691-1-1.html",
+    "last_edited_display": "2020-6-23 17:35",
+    "addresses": [
+      "[REDACTED_EMAIL]",
+      "[REDACTED_EMAIL]"
+    ],
+    "current_delivery_or_service_status": "UNKNOWN; not emailed"
+  },
+  "baidu": "Reuse existing original-application check and daily task; no same-round recheck or resubmission. Notify only explicit review/association result or required user action."
+}

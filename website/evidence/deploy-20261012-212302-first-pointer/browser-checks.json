@@ -1,0 +1,83 @@
+{
+  "release": "20261012-212302-first-pointer",
+  "revision": "374bf42e288f80f56bf7",
+  "checks": [
+    {
+      "category": "客户项目",
+      "count": "9 项记录",
+      "revision": "374bf42e288f80f56bf7",
+      "test": "online-fast-first-filter",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E"
+    },
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "projects": [
+        "project-p10",
+        "project-p09"
+      ],
+      "query": "库存",
+      "test": "online-search-filter",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "naturalWidth": 2558,
+      "open": true,
+      "rootTransition": "none",
+      "routeMotion": "native-title",
+      "test": "online-fast-image-entry",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=374bf42e288f80f56bf7"
+    },
+    {
+      "focus": "detail-image-trigger",
+      "open": false,
+      "test": "online-escape-focus"
+    },
+    {
+      "open": true,
+      "test": "online-caption-image",
+      "width": 2558
+    },
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "projects": [
+        "project-p10",
+        "project-p09"
+      ],
+      "query": "库存",
+      "test": "online-native-back",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "focus": "project-p09",
+      "query": "库存",
+      "test": "online-fast-explicit-back",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "count": "0 项记录",
+      "test": "online-empty"
+    },
+    {
+      "category": "全部",
+      "count": "38 项记录",
+      "query": "",
+      "test": "online-reset"
+    },
+    {
+      "height": 844,
+      "imageTransform": "none",
+      "note": "Independent VisualDemo discovery screen · demo profiles, not real community users · switch to actual size for details",
+      "open": true,
+      "overflow": -15,
+      "revision": "374bf42e288f80f56bf7",
+      "test": "online-english-mobile-reduce-keyboard",
+      "width": 390
+    }
+  ],
+  "viewport_restored": true,
+  "media_restored": true
+}

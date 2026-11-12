@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-17",
+  "scope": "Public official sources plus live Toutiao guide; no account registrations, site additions, submissions, paid actions or site changes",
+  "tool_note": "agent-reach Exa route not configured; used existing public web search/official sources, no configuration changes",
+  "sources": [
+    {
+      "platform": "头条",
+      "url": "https://zhanzhang.toutiao.com/",
+      "evidence": "Live browser official homepage and guide /docs/intro/26881; website verification,Sitemap submission,index and traffic tools publicly documented; no login or submission performed"
+    },
+    {
+      "platform": "神马",
+      "url": "https://res.sm.cn/",
+      "evidence": "Official public webmaster portal, explicitly describes Shenma traffic/structured data/mobile adaptation; registration remains paused per user"
+    },
+    {
+      "platform": "夸克",
+      "url": "https://www.quark.cn/documents/help/know-the-ui",
+      "evidence": "Official help distinguishes web search and Ask AI; no distinct self-service webmaster submission portal confirmed in this review; no automatic coverage from Shenma asserted"
+    },
+    {
+      "platform": "Yahoo international",
+      "url": "https://help.yahoo.com/kb/search-for-mobile-web/submit-website-yahoo-search-sln2217.html",
+      "evidence": "Official submission instructions point to Bing Webmaster Tools; do not count as new independent webmaster integration"
+    },
+    {
+      "platform": "DuckDuckGo",
+      "url": "https://duckduckgo.com/duckduckgo-help-pages/results/sources",
+      "evidence": "Own crawler and multiple sources, traditional links/images largely Bing; Bing inclusion does not guarantee visibility"
+    },
+    {
+      "platform": "Brave",
+      "url": "https://search.brave.com/help/brave-search-index-right-to-be-forgotten",
+      "evidence": "Own independent crawler/index; supplemental visibility check rather than claimed registered webmaster service"
+    },
+    {
+      "platform": "Brave",
+      "url": "https://search.brave.com/help/contact",
+      "evidence": "Official refetch path for updates exists, not proof of a new-site sitemap webmaster portal"
+    },
+    {
+      "platform": "Naver",
+      "url": "https://searchadvisor.naver.com/guide/request-feed",
+      "evidence": "Own webmaster sitemap/RSS route; lower priority without Korean customer focus"
+    },
+    {
+      "platform": "ChatGPT Search",
+      "url": "https://developers.openai.com/api/docs/bots",
+      "evidence": "OAI-SearchBot is search, GPTBot training controls independent; no citation guarantee"
+    },
+    {
+      "platform": "Perplexity",
+      "url": "https://docs.perplexity.ai/docs/resources/perplexity-crawlers",
+      "evidence": "PerplexityBot surfaces links, distinguishes search crawling from training; no citation guarantee"
+    },
+    {
+      "platform": "Google AI features",
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "evidence": "SEO basics apply; no special llms.txt requirement/markup for Google AI search"
+    },
+    {
+      "platform": "豆包",
+      "url": "https://www.doubao.com/download/desktop",
+      "evidence": "Official AI search description; proposed GEO citation testing, no verified site submission portal"
+    },
+    {
+      "platform": "元宝",
+      "url": "https://yuanbao.tencent.com/",
+      "evidence": "Official search product entry; proposed GEO citation testing, no verified site submission portal"
+    }
+  ]
+}

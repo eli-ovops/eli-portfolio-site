@@ -1,0 +1,91 @@
+[
+  {
+    "test": "online identity and layout",
+    "columns": "544.5px 544.5px",
+    "revision": "8b38e3e30012cfd1e243",
+    "robots": "noindex,nofollow",
+    "root": "bits-ui motion-enhanced bits-page-visible"
+  },
+  {
+    "test": "search and client filter",
+    "count": "2 项记录",
+    "q": "库存"
+  },
+  {
+    "test": "related case return",
+    "category": "客户项目",
+    "count": "2 项记录",
+    "focus": "project-p10",
+    "q": "库存"
+  },
+  {
+    "test": "single mouse clear",
+    "category": "全部",
+    "count": "38 项记录",
+    "q": ""
+  },
+  {
+    "test": "online rapid browser Back then first mouse clear",
+    "count": "38 项记录",
+    "q": "",
+    "revision": "8b38e3e30012cfd1e243"
+  },
+  {
+    "test": "online Chinese390 catalogue layout",
+    "columns": "335px",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "test": "online English320 clear",
+    "count": "38 projects",
+    "overflow": false,
+    "q": ""
+  },
+  {
+    "test": "online home carousel next",
+    "canvas": [
+      {
+        "class": "pattern-waves-canvas",
+        "height": 720,
+        "width": 1265
+      }
+    ],
+    "current": "英国某净水品牌 RAG 智能客服定制"
+  },
+  {
+    "test": "about initial image decode pending",
+    "canvas": [
+      {
+        "class": "",
+        "height": 150,
+        "width": 300
+      }
+    ],
+    "capabilities": "capability-grid bits-bento-grid",
+    "revision": "8b38e3e30012cfd1e243",
+    "robot": [
+      {
+        "loaded": false,
+        "width": 1400
+      }
+    ],
+    "workflow": "workflow-story workflow-route"
+  },
+  {
+    "test": "about fully loaded robot visual",
+    "canvas": [
+      {
+        "height": 370,
+        "width": 556
+      }
+    ],
+    "revision": "8b38e3e30012cfd1e243",
+    "robot": [
+      {
+        "loaded": true,
+        "width": 1400
+      }
+    ]
+  }
+]

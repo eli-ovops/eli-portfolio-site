@@ -1,0 +1,11 @@
+{
+  "approved_at": "2026-10-20T19:07:25.429625+08:00",
+  "user_reply": "同步官网并完成上线检查",
+  "approved_candidate": "87919417171750dd1242",
+  "origin": "Explicit response to existing full-scope publication question",
+  "scope": "Two English source links, 294 Person descriptions, four bilingual tutorial service links and four responsive case image references; preserve visuals/motion/body copy; no search submissions",
+  "site": "https://www.eliai.cn/",
+  "carrier": "Local Python subprocess, strict public-key SSH/SCP to root@[REDACTED_HOST], dedicated identity and known_hosts; no forwarding",
+  "deploy_owner": "Current website execution chat",
+  "server_configuration_changes": false
+}

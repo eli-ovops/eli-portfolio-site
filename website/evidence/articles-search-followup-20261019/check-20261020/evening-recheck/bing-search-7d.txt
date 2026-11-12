@@ -1,0 +1,163 @@
+Browser tab: 6, Title: "Search Performance - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/searchperf?siteUrl=https://www.eliai.cn/".
+0 AXWebArea Search Performance - Bing Webmaster Tools, URL: bing.com/webmasters/searchperf?siteUrl=https://www.eliai.cn/
+	1 container
+		2 container root
+			3 container
+				4 link Description: Skip to main content, Value: bing.com/webmasters/searchperf?siteUrl=https://www.eliai.cn/#content
+				5 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				6 image white bwt logo microsoft bing webmaster
+				7 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				8 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					144 image
+			13 container
+				14 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					15 text www.eliai.cn/
+				16 container Main menu
+					17 outline
+						18 row (selectable) Home
+							19 text Home
+						20 row (selectable) Search Performance
+							21 text Search Performance
+						22 row (selectable) AI Performance BETA
+							23 text AI Performance
+							24 text BETA
+						25 row (selectable) URL Inspection
+							26 text URL Inspection
+						27 row (selectable) Site Explorer
+							28 text Site Explorer
+						29 row (selectable) Sitemaps
+							30 text Sitemaps
+						31 row (selectable) IndexNow
+							32 text IndexNow
+						145 row (selectable) URL Submission
+							146 text URL Submission
+						33 row (selectable) Backlinks
+							34 text Backlinks
+						35 row (selectable) Keyword Research
+							36 text Keyword Research
+						37 row (selectable) Recommendations
+							38 text Recommendations
+						39 row (selectable) Site Scan
+							40 text Site Scan
+						41 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							42 text CONFIGURATION
+						43 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							44 text TOOLS & ENHANCEMENTS
+						45 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							46 text SECURITY & PRIVACY
+						47 row (selectable) User management
+							48 text User management
+						49 row (selectable) Microsoft Clarity
+							50 text Microsoft Clarity
+			51 container content
+				52 heading Search Performance, Value: 2
+					53 text Search Performance
+				54 container
+					55 tab group
+						56 tab (selected, settable, boolean) 7 D, Value: 1, ID: Pivot60-Tab0
+							147 text 7 D
+						57 tab (selectable, settable, boolean) 30 D, ID: Pivot60-Tab1, Value: 0
+30 D
+						58 tab (selectable, settable, boolean) 3 M, ID: Pivot60-Tab2, Value: 0
+3 M
+						59 tab (selectable, settable, boolean) 6 M, ID: Pivot60-Tab3, Value: 0
+6 M
+						60 tab (selectable, settable, boolean) 12 M, ID: Pivot60-Tab4, Value: 0
+12 M
+						61 tab (selectable, settable, boolean) 18 M, ID: Pivot60-Tab5, Value: 0
+18 M
+						62 tab (selectable, settable, boolean) 24 M, ID: Pivot60-Tab6, Value: 0
+24 M
+						63 tab (selectable, settable, boolean) Custom, ID: Pivot60-Tab7, Value: 0
+Custom
+						64 tab (selectable, settable, boolean) Compare, ID: Pivot60-Tab8, Value: 0
+Compare
+					148 container 7 D
+				66 combo box (collapsed) Description: Filter by, Value: All, ID: Dropdown89, Secondary Actions: Expand
+					67 text All
+				68 button Download
+					69 text Download
+				70 container
+					71 checkbox Description: Total Clicks, Value: 1
+						72 image
+						73 text Total Clicks
+						74 button Total Clicks info
+						149 text 0
+					76 checkbox Description: Total Impressions, Value: 1
+						77 image
+						78 text Total Impressions
+						79 button Total Impressions info
+						150 text 0
+					81 checkbox Description: Avg. CTR, Value: 0
+						82 image
+						83 text Avg. CTR
+						84 button Avg. CTR info
+						151 text 0%
+					152 text Clicks
+					153 text Impressions
+					154 container Line chart showing Clicks,Impressions from October 13, 2026 to October 19, 2026. Clicks:0,Impressions:0. Toggle checkboxes to show the selected options in chart
+						155 container Line chart showing Clicks,Impressions from October 13, 2026 to October 19, 2026. Clicks:0,Impressions:0. Toggle checkboxes to show the selected options in chart
+						156 table
+							157 row
+								158 cell
+									159 text Date
+								160 cell
+									161 text October 17, 2026
+								162 cell
+									163 text October 18, 2026
+							164 row
+								165 cell
+									166 text Total Clicks
+								167 cell
+									168 text 0
+								169 cell
+									170 text 0
+							171 row
+								172 cell
+									173 text Total Impressions
+								174 cell
+									175 text 0
+								176 cell
+									177 text 0
+					178 text Clicks Impressions
+				113 container
+					114 text Keywords ,  Pages ,  Device  and  Country  data is only available for  Web  traffic and not applicable to Chat and other verticals.
+				115 link Description: learnmore, Value: bing.com/webmasters/help/c680da36
+				116 heading List By, Value: 3
+					117 text List By
+				118 container
+					119 tab group List By
+						120 tab (selected, settable, boolean) Keywords, ID: Pivot100-Tab0, Value: 1
+Keywords
+						121 tab (selectable, settable, boolean) Pages, ID: Pivot100-Tab1, Value: 0
+Pages
+						122 tab (selectable, settable, boolean) Device, ID: Pivot100-Tab2, Value: 0
+Device
+						123 tab (selectable, settable, boolean) Country, ID: Pivot100-Tab3, Value: 0
+Country
+					124 container Keywords
+				125 button (disabled) Download all
+					126 text Download all
+				127 table Content is being fetched
+					128 row Keyword, sortable Impressions, sortable, sorted descending order Clicks, sortable CTR, sortable Avg. Position, sortable
+						129 cell
+							130 button Description: Keyword, sortable, ID: header118-1
+								131 text Keyword
+						132 cell
+							133 button Description: Impressions, sortable, sorted descending order, ID: header118-5
+								134 text Impressions
+						135 cell
+							136 button Description: Clicks, sortable, ID: header118-6
+								137 text Clicks
+						138 cell
+							139 button Description: CTR, sortable, ID: header118-7
+								140 text CTR
+						141 cell
+							142 button Description: Avg. Position, sortable, ID: header118-9
+								143 text Avg. Position
+
+The focused UI element is 56 tab (selected, settable, boolean) 7 D, Value: 1, ID: Pivot60-Tab0

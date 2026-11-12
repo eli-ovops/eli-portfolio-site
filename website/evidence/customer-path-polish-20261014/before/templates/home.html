@@ -1,0 +1,21 @@
+<main id="main" class="home-main">
+  <section class="portfolio-intro" aria-label="个人介绍">
+    <div class="hero-signature">
+      <span class="hello-mark" aria-hidden="true">HELLO,</span>
+      <p class="hero-name" aria-label="${public_name}"><span class="hero-prefix" aria-hidden="true">I’M</span><span data-kinetic-letter aria-hidden="true">E</span><span data-kinetic-letter aria-hidden="true">L</span><span data-kinetic-letter aria-hidden="true">I</span><svg class="hero-spark" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 2V98M2 50H98M16 16L84 84M84 16L16 84" fill="none" stroke="currentColor" stroke-width="12"/></svg></p>
+    </div>
+    <div class="intro-copy">
+      <p class="intro-role">FDE · 前沿部署工程师</p>
+      <h1 data-motion-title>${headline}</h1>
+      <p class="intro-description">${intro}</p>
+      <div class="intro-actions"><a class="primary" data-magnetic href="#work">浏览项目 <span aria-hidden="true">↓</span></a><a class="text-link" data-magnetic href="about.html#contact">联系我 <span aria-hidden="true">↗</span></a></div>
+    </div>
+  </section>
+  <section class="selected-work" id="work" aria-labelledby="work-title">
+    <div class="work-heading"><h2 id="work-title">代表项目</h2><a class="text-link" href="records.html">项目库 <span aria-hidden="true">↗</span></a></div>
+    <div class="depth-stage" data-depth-stage tabindex="0" aria-label="代表项目纵深展示，可向下滚动或使用上一项和下一项按钮">
+      <div class="depth-controls" hidden><p class="depth-position" aria-live="polite"></p><p class="depth-hint" data-depth-hint></p><div><button type="button" data-depth-prev aria-label="上一个案例">←</button><button type="button" data-depth-next aria-label="下一个案例">→</button></div></div>
+      <div class="poster-gallery" data-gallery>${featured_gallery}</div>
+    </div>
+  </section>
+</main>

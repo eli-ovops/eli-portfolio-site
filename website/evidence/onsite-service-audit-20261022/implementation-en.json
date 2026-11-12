@@ -1,0 +1,153 @@
+{
+  "canonical": "https://www.eliai.cn/en/services/fde-consulting.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "AI implementation for small businesses"
+    },
+    {
+      "tag": "H2",
+      "text": "On this page"
+    },
+    {
+      "tag": "H2",
+      "text": "What does an FDE do?"
+    },
+    {
+      "tag": "H2",
+      "text": "What can we discuss first?"
+    },
+    {
+      "tag": "H2",
+      "text": "From discussion to a bounded pilot"
+    },
+    {
+      "tag": "H2",
+      "text": "How do we assess the result?"
+    },
+    {
+      "tag": "H2",
+      "text": "Related project experience"
+    },
+    {
+      "tag": "H3",
+      "text": "Sanitaryware manufacturer inventory system ↗"
+    },
+    {
+      "tag": "H3",
+      "text": "Furniture barcode inventory system ↗"
+    },
+    {
+      "tag": "H3",
+      "text": "UK water purification brand · RAG support ↗"
+    },
+    {
+      "tag": "H2",
+      "text": "Questions before starting"
+    },
+    {
+      "tag": "H3",
+      "text": "Can we talk if I do not understand AI?"
+    },
+    {
+      "tag": "H3",
+      "text": "Does FDE consulting include on-site work?"
+    },
+    {
+      "tag": "H2",
+      "text": "Start with one task"
+    },
+    {
+      "tag": "H2",
+      "text": "Analytics & privacy"
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/services/fde-consulting.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/services/fde-consulting.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../index.html#needs",
+      "text": "← Explore business needs"
+    },
+    {
+      "href": "../cases/p10.html",
+      "text": "View the inventory case ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "Discuss one time-consuming task for free ↗"
+    },
+    {
+      "href": "#cases",
+      "text": "More related cases ↓"
+    },
+    {
+      "href": "#approach",
+      "text": "What does an FDE do?"
+    },
+    {
+      "href": "#fit",
+      "text": "What can we discuss first?"
+    },
+    {
+      "href": "#delivery",
+      "text": "From discussion to a bounded pilot"
+    },
+    {
+      "href": "#acceptance",
+      "text": "How do we assess the result?"
+    },
+    {
+      "href": "#cases",
+      "text": "Related project experience"
+    },
+    {
+      "href": "#questions",
+      "text": "Questions before starting"
+    },
+    {
+      "href": "../cases/p10.html",
+      "text": "Sanitaryware manufacturer inventory system ↗"
+    },
+    {
+      "href": "../cases/p09.html",
+      "text": "Furniture barcode inventory system ↗"
+    },
+    {
+      "href": "../cases/p36.html",
+      "text": "UK water purification brand · RAG support ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "Discuss one time-consuming task for free ↗"
+    },
+    {
+      "href": "ai-agent.html",
+      "text": "Knowledge base setup and AI-assisted support ↗"
+    },
+    {
+      "href": "workflow-automation.html",
+      "text": "Inventory reconciliation and data entry automation ↗"
+    }
+  ],
+  "mainText": "← Explore business needs\nAI services\nAI implementation for small businesses\n\nRepeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.\n\nPossible deliverables\n\nWorkflow and change list\nTool setup or scoped software\nOperating and maintenance guidance\n\nRelated experience: independently scoped, developed and delivered an inventory system.\n\nView the inventory case ↗\nDiscuss one time-consuming task for free ↗\nMore related cases ↓\nOn this page\nWhat does an FDE do?\nWhat can we discuss first?\nFrom discussion to a bounded pilot\nHow do we assess the result?\nRelated project experience\nQuestions before starting\nWhat does an FDE do?\n\nFDE stands for Forward Deployed Engineer. The work starts with the customer’s operating context, connecting requirements, tool selection, implementation and feedback.\n\nWe can map who performs a task, what goes in and who uses the result. Start with an existing tool when it fits; discuss custom data connections or interfaces when needed.\n\nWhat can we discuss first?\n\nRepeated spreadsheet handling, inventory checks, scattered product information, recurring support questions and product content preparation are possible starting points. Choose a task with clear inputs, outputs and an owner.\n\nDescribe the current process, its most time-consuming step and the result you want. Redacted examples can help. You do not need to buy a tool or share passwords or a complete business dataset first.\n\nFrom discussion to a bounded pilot\n\nMap repeated handling and common mistakes, then compare existing tools, rule-based automation and AI assistance. Whether a tool such as WorkBuddy fits depends on the task, data requirements and cost.\n\nAgree the pilot’s features, human review steps, handover materials and acceptance criteria before implementation. Narrow the scope or change the approach if the trial does not fit.\n\nHow do we assess the result?\n\nRecord comparable task duration, repeated entry or reasons for rework before implementation. Use the same measures during the pilot and check whether staff can continue using it and handle exceptions.\n\nThe initial conversation is free. Implementation services start at CNY 500, with scope and fees agreed before work begins. Agree tool subscriptions, development, training and maintenance separately, then assess value against observed pilot results.\n\nRelated project experience\n\nThese cases cover business software and knowledge-base collaboration. Read each case for the role and delivery scope.\n\nSanitaryware manufacturer inventory system ↗\n\nIndependently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.\n\nFurniture barcode inventory system ↗\n\nLed a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.\n\nUK water purification brand · RAG support ↗\n\nContributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.\n\nQuestions before starting\nCan we talk if I do not understand AI?\n\nYes. Describe one repetitive task. We will understand the business before discussing technology.\n\nDoes FDE consulting include on-site work?\n\nAgree communication, site visits, timing and deliverables before starting. A free initial conversation does not include an ongoing on-site engagement.\n\nStart with one task\n\nDescribe the current process, its slowest step and the result you want.\n\nDiscuss one time-consuming task for free ↗\n\nRelated services\n\nKnowledge base setup and AI-assisted support ↗ · Inventory reconciliation and data entry automation ↗",
+  "metaDescription": "AI implementation support for small businesses and studios. Review repetitive tasks, assess existing tools and scope workflow changes or software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/en/about.html\", \"description\": \"Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.\", \"jobTitle\": \"FDE · Practical tools and workflows\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/en/services/fde-consulting.html#service\", \"name\": \"AI implementation for small businesses\", \"description\": \"Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.\", \"url\": \"https://www.eliai.cn/en/services/fde-consulting.html\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"FAQPage\", \"@id\": \"https://www.eliai.cn/en/services/fde-consulting.html#questions\", \"url\": \"https://www.eliai.cn/en/services/fde-consulting.html#questions\", \"inLanguage\": \"en\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/en/services/fde-consulting.html#page\"}, \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Can we talk if I do not understand AI?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes. Describe one repetitive task. We will understand the business before discussing technology.\"}}, {\"@type\": \"Question\", \"name\": \"Does FDE consulting include on-site work?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Agree communication, site visits, timing and deliverables before starting. A free initial conversation does not include an ongoing on-site engagement.\"}}]}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/en/services/fde-consulting.html#page\", \"url\": \"https://www.eliai.cn/en/services/fde-consulting.html\", \"name\": \"Small Business AI Implementation \\u0026 Workflow Support | Eli\", \"description\": \"AI implementation support for small businesses and studios. Review repetitive tasks, assess existing tools and scope workflow changes or software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.\", \"inLanguage\": \"en\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"mainEntity\": {\"@id\": \"https://www.eliai.cn/en/services/fde-consulting.html#service\"}, \"hasPart\": {\"@id\": \"https://www.eliai.cn/en/services/fde-consulting.html#questions\"}}]}"
+  ],
+  "title": "Small Business AI Implementation & Workflow Support | Eli",
+  "url": "https://www.eliai.cn/en/services/fde-consulting.html"
+}

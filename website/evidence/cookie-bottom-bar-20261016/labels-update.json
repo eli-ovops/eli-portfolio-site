@@ -1,0 +1,15 @@
+{
+  "status": "LOCAL_CHECKED",
+  "revision": "4214c0d6f6cd8e3dd8ce",
+  "labels": [
+    "允许",
+    "暂不"
+  ],
+  "production_changed": false,
+  "changed_source": "scripts/analytics.py",
+  "checks": [
+    "90HTML build",
+    "Exact label check on home/records/about/FDE pages",
+    "Existing consent gating and animation regression tests"
+  ]
+}

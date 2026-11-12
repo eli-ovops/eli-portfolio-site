@@ -1,0 +1,1778 @@
+{
+  "checks": [
+    {
+      "test": "desktop_pause",
+      "observed": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_0",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_1",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_2",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 2,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_3",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 2,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 3,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_4",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 3,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_5",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 5,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_6",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 5,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 6,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "desktop_manual_7",
+      "before": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 6,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      },
+      "after": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "upward_motion_sample",
+      "observed": {
+        "footerTop": 769.921875,
+        "lang": "zh-CN",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "matrix(1, 0, 0, 1, 0, -76.5038)",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "zh_mobile_390",
+      "observed": {
+        "footerTop": 1201.6875,
+        "lang": "zh-CN",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_0",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_1",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 2,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_2",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 3,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 151.4375,
+            "height": 200,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_3",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 151.4375,
+            "height": 200,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_4",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 5,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_5",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 6,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_6",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_390_7",
+      "observed": {
+        "footerTop": 920.6875,
+        "lang": "zh-CN",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 200,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 400
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_0",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 224,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_1",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 2,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "用 AI 核对库存，第一步为什么只列异常？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_2",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 3,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业知识库从哪里开始，不是把文件全上传？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_3",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_4",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 5,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_5",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 6,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "第一次用 AI，应该拿什么任务练手？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_6",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Skill 是什么？是不是另一个 AI？"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "zh_mobile_cycle_360_7",
+      "observed": {
+        "footerTop": 937.5,
+        "lang": "zh-CN",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 224,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 224,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 448
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_0",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          },
+          {
+            "contentBottom": 204.484375,
+            "height": 306,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_1",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 2,
+        "rows": [
+          {
+            "contentBottom": 204.484375,
+            "height": 306,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          },
+          {
+            "contentBottom": 228.53125,
+            "height": 306,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "How do you start a business knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_2",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 3,
+        "rows": [
+          {
+            "contentBottom": 228.53125,
+            "height": 306,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "How do you start a business knowledge base?"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "An owner's first AI step is not buying a system"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_3",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "An owner's first AI step is not buying a system"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an AI agent compared with chat?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_4",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 5,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an AI agent compared with chat?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What should your first AI task be?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_5",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 6,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What should your first AI task be?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an agent skill? Is it another AI?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_6",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an agent skill? Is it another AI?"
+          },
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_360_7",
+      "observed": {
+        "footerTop": 1101.59375,
+        "lang": "en",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          360,
+          800
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_0",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          },
+          {
+            "contentBottom": 204.484375,
+            "height": 306,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_1",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 2,
+        "rows": [
+          {
+            "contentBottom": 204.484375,
+            "height": 306,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "How do you start a business knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_2",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 3,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/ai-knowledge-base-start.html?pv=db2a07f4b91429cb3f5c",
+            "title": "How do you start a business knowledge base?"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "An owner's first AI step is not buying a system"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_3",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "An owner's first AI step is not buying a system"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an AI agent compared with chat?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_4",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 5,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an AI agent compared with chat?"
+          },
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What should your first AI task be?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_5",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 6,
+        "rows": [
+          {
+            "contentBottom": 199.53125,
+            "height": 306,
+            "href": "articles/first-ai-task.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What should your first AI task be?"
+          },
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an agent skill? Is it another AI?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_6",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 7,
+        "rows": [
+          {
+            "contentBottom": 175.484375,
+            "height": 306,
+            "href": "articles/what-is-skill.html?pv=db2a07f4b91429cb3f5c",
+            "title": "What is an agent skill? Is it another AI?"
+          },
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "en_mobile_cycle_390_7",
+      "observed": {
+        "footerTop": 1124.171875,
+        "lang": "en",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 252.578125,
+            "height": 306,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 281.578125,
+            "height": 306,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          390,
+          844
+        ],
+        "widthOverflow": false,
+        "windowHeight": 612
+      }
+    },
+    {
+      "test": "hover_pause_before",
+      "observed": {
+        "footerTop": 732.171875,
+        "lang": "en",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 129.890625,
+            "height": 197,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 167,
+            "height": 197,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "waiting",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 394
+      }
+    },
+    {
+      "test": "hover_pause_after_7_5s",
+      "observed": {
+        "footerTop": 732.171875,
+        "lang": "en",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 129.890625,
+            "height": 197,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 167,
+            "height": 197,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "waiting",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 394
+      }
+    },
+    {
+      "test": "keyboard_focus_pause",
+      "observed": {
+        "footerTop": 787.171875,
+        "lang": "en",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 129.890625,
+            "height": 197,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 167,
+            "height": 197,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "waiting",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 394
+      },
+      "focus": {
+        "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+        "tag": "A"
+      }
+    },
+    {
+      "test": "reduced_motion",
+      "observed": {
+        "footerTop": 2369,
+        "lang": "en",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 129.890625,
+            "height": 197,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Manual inventory checks every day: where should you start?"
+          },
+          {
+            "contentBottom": 167,
+            "height": 197,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 394
+      },
+      "pauseHidden": false
+    },
+    {
+      "test": "reduced_motion_manual",
+      "observed": {
+        "footerTop": 896,
+        "lang": "en",
+        "position": 1,
+        "rows": [
+          {
+            "contentBottom": 167,
+            "height": 197,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Company information is scattered: what should you prepare for a knowledge base?"
+          },
+          {
+            "contentBottom": 104,
+            "height": 197,
+            "href": "articles/ai-inventory-exceptions.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Why start AI inventory checking with an exception list?"
+          }
+        ],
+        "state": "paused",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 394
+      }
+    },
+    {
+      "test": "autoplay_start",
+      "observed": {
+        "footerTop": 1131.921875,
+        "lang": "zh-CN",
+        "position": 0,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c",
+            "title": "库存每天靠人工核对，先改哪一步？"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c",
+            "title": "企业资料太散，做知识库答疑前要准备什么？"
+          }
+        ],
+        "state": "waiting",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    },
+    {
+      "test": "autoplay_after_real_elapsed",
+      "observed": {
+        "footerTop": 570.921875,
+        "lang": "zh-CN",
+        "position": 4,
+        "rows": [
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/owner-ai-first-step.html?pv=db2a07f4b91429cb3f5c",
+            "title": "老板想用 AI 提效，第一步不是买系统"
+          },
+          {
+            "contentBottom": 104,
+            "height": 134,
+            "href": "articles/what-is-agent.html?pv=db2a07f4b91429cb3f5c",
+            "title": "Agent 是什么？跟普通 AI 聊天差在哪？"
+          }
+        ],
+        "state": "playing",
+        "transform": "none",
+        "viewport": [
+          1280,
+          720
+        ],
+        "widthOverflow": false,
+        "windowHeight": 268
+      }
+    }
+  ],
+  "flows": [
+    {
+      "step": "en carousel → article",
+      "url": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "en article → case",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← Back to article"
+    },
+    {
+      "step": "en case → original article",
+      "url": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "en article → consultation",
+      "url": "http://127.0.0.1:4178/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+      "contactLinks": [
+        "",
+        "[REDACTED_EMAIL] ↗",
+        "[REDACTED_PHONE] ↗",
+        "[REDACTED_PHONE] ↗"
+      ]
+    },
+    {
+      "step": "en → zh language",
+      "url": "http://127.0.0.1:4178/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    },
+    {
+      "step": "zh carousel → article",
+      "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "zh article → case",
+      "url": "http://127.0.0.1:4178/cases/p10.html?pv=db2a07f4b91429cb3f5c&from=%2Farticles%2Finventory-reconciliation.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← 返回文章"
+    },
+    {
+      "step": "zh case → original article",
+      "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "zh article → consultation",
+      "url": "http://127.0.0.1:4178/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    }
+  ],
+  "consoleErrors": []
+}

@@ -1,0 +1,85 @@
+# Eli
+
+## FDE 企业 AI 落地咨询｜AI Agent 与流程自动化 - Eli
+Eli，FDE 前沿部署工程师，帮助企业选择 AI 工具、梳理重复工作与实施软件。围绕企业 AI Agent、知识库答疑、库存核对和流程自动化，先讨论一个具体场景，再评估成本与效果。初次咨询免费。
+
+[联系与合作](https://www.eliai.cn/about.html#contact)
+
+### 录入和库存靠人核对
+录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。
+[看库存案例](https://www.eliai.cn/cases/p10.html)
+[看扫码案例](https://www.eliai.cn/cases/p09.html)
+
+### 资料难找、问题反复问
+产品资料太散、同样的问题反复回答？先整理知识库，再评估 AI Agent 或答疑助手是否适合，回答能查到依据，重要问题由人确认。
+[看答疑案例](https://www.eliai.cn/cases/p36.html)
+
+### 产品内容总要重做
+产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。
+[看内容案例](https://www.eliai.cn/cases/p12.html)
+
+### 想用 AI，但不知道从哪开始？
+可以先免费聊聊公司最费时间的一件事。
+员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。
+
+### 会怎么推进，费用怎么定？
+先梳理流程，再选一个小场景。
+初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。
+
+### 一定要开发一套系统吗？
+用好一个工具，改善一个步骤，也可以开始。
+可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。
+
+### FDE 企业 AI 落地咨询
+公司想用 AI，却不知道先做哪一件事？从一项费时间、容易出错的工作开始，一起看清问题，再选择工具或开发软件。
+[FDE 企业 AI 落地咨询](https://www.eliai.cn/services/fde-consulting.html)
+
+### 企业 AI Agent 与知识库应用
+员工查资料慢、客服反复答同样的问题？先把可用资料整理清楚，再判断需要知识问答助手，还是能连接工具执行步骤的 AI Agent。
+[企业 AI Agent 与知识库应用](https://www.eliai.cn/services/ai-agent.html)
+
+### 企业提效，从一项重复工作开始
+不必先买一整套系统。把录入、核对或内容准备中最费时间的一步找出来，比较工具与软件改造，再用实际使用结果判断是否值得继续。
+[企业提效，从一项重复工作开始](https://www.eliai.cn/services/workflow-automation.html)
+
+## FDE Consulting, AI Agents & Workflow Automation | Eli
+Work with Eli, a forward deployed engineer, on AI tools, knowledge assistants and workflow automation. Start with one business task and a free initial consultation.
+
+[Contact and cooperation](https://www.eliai.cn/en/about.html#contact)
+
+### Repeated entry and stock checks
+Review entry and stock-checking steps to see where software can reduce repeated handling.
+[Inventory case](https://www.eliai.cn/en/cases/p10.html)
+[Barcode case](https://www.eliai.cn/en/cases/p09.html)
+
+### Information lookup and repeated questions
+Organize scattered product knowledge, then assess whether an AI agent or support assistant fits. Keep sources available and important answers subject to human review.
+[Support case](https://www.eliai.cn/en/cases/p36.html)
+
+### Product content takes time
+Review how product information becomes copy and images, with people reviewing the output.
+[Content case](https://www.eliai.cn/en/cases/p12.html)
+
+### Want AI, but unsure where to start?
+Start with a free conversation about one time-consuming task.
+What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan.
+
+### How do we proceed and estimate cost?
+Review the workflow, then choose one small use case.
+The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance.
+
+### Do we need to build a whole system?
+One useful tool or one better step can be a starting point.
+We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding.
+
+### FDE consulting for business AI
+Unsure where AI fits in your company? Start with one slow or error-prone task, understand the workflow, then choose a tool or a software change.
+[FDE consulting for business AI](https://www.eliai.cn/en/services/fde-consulting.html)
+
+### Business AI agents and knowledge assistants
+Slow information lookup and repeated support questions? Organize usable knowledge first, then decide whether the task needs answers or an agent that can also call tools.
+[Business AI agents and knowledge assistants](https://www.eliai.cn/en/services/ai-agent.html)
+
+### Improve one repetitive business workflow
+Start with a slow entry, checking or content preparation step. Compare tools with a software change, then use actual results to decide whether to expand.
+[Improve one repetitive business workflow](https://www.eliai.cn/en/services/workflow-automation.html)

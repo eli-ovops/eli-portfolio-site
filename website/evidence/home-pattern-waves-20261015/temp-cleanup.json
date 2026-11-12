@@ -1,0 +1,12 @@
+{
+  "deleted_exact_paths": [
+    "/tmp/eli-pattern-waves-source.jsx",
+    "/tmp/eli-react-bits-LICENSE.md",
+    "/tmp/eli-pattern-waves-oTAWlR"
+  ],
+  "verified_upstream_copies": true,
+  "filesystem_free_before_bytes": [REDACTED_PHONE],
+  "filesystem_free_after_bytes": [REDACTED_PHONE],
+  "observed_free_delta_bytes": 28672,
+  "attribution": "Small cleanup; concurrent disk activity may dominate, no space-release claim"
+}

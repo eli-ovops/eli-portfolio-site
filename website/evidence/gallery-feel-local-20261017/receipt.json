@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-17",
+  "status": "LOCAL_IMPLEMENTED_AND_BROWSER_CHECKED",
+  "revision": "1b27817d03782458be66",
+  "production_changed": false,
+  "preview": "http://127.0.0.1:4178/index.html?pv=1b27817d03782458be66#work",
+  "changes": [
+    "Preserve wheel transactions on this gallery’s outgoing image across active-card changes. Text, controls, expanded reading and foreign images keep native scrolling.",
+    "Use nearest-card settling with net gesture intent for deliberate mouse notches; ignore tiny reversal tails and trackpad jitter.",
+    "GSAP quickTo duration0.5->0.3 seconds; snap wait180->110milliseconds. Existing easing, geometry, image/caption transforms and CSS unchanged."
+  ],
+  "source_changes": [
+    "assets/depth-gallery.js",
+    "scripts/check_gallery_scroll.cjs",
+    "scripts/check_gallery_gesture.cjs",
+    "site.yaml local task pointer"
+  ],
+  "protected_visual_content_hashes": {
+    "assets/stacked-gallery.css": true,
+    "styles.css": true,
+    "motion.js": true,
+    "assets/home-ambient.js": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/projects.json": true,
+    "content/seo.json": true,
+    "assets/page-version.js": true,
+    "assets/site-analytics.js": true
+  },
+  "red_green": [
+    "Outgoing-image wheel test failed before fix0!==1 and passed after.",
+    "Tiny reverse-tail snap test failed before fix0!==1 and passed after."
+  ],
+  "checks": {
+    "build": "90pages/38records PASS",
+    "regressions": "gallery_scroll/gallery_gesture/home_case_return/service_return/first_pointer/analytics PASS",
+    "static_privacy_http": "PASS",
+    "localization": "45pairs/38translations PASS",
+    "seo": "88sitemap URLs PASS"
+  },
+  "browser": {
+    "continuous_input": "1335px desktop, three downward image-region scrolls moved02/06->03/06, page scrollY remained900. Reverse image scroll settled02/06, position1.000.",
+    "caption_scroll": "Expanded charity05/06 stayed selected and open; page scrollY1147->1012. See caption-scroll.json.",
+    "case_return": "Customer-support p36 case -> return restored selected p36.",
+    "mobile": "390px Chinese and320px English: no horizontal overflow; case action44px, OA inline SVG present.",
+    "consultation": "390px homepage CTA -> about.html#contact, QR728px natural width, no overflow. No message, email or call sent.",
+    "console": "No errors returned; temporary viewport override cleared."
+  },
+  "limitations": [
+    "No physical trackpad/phone or FPS benchmark. Perceived feel remains for user confirmation.",
+    "No deployment or production test."
+  ]
+}

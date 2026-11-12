@@ -1,0 +1,21 @@
+{
+  "status": "SWITCHED",
+  "release": "20261010-223517-portfolio-local-fixes",
+  "previous": "/srv/eli-sites/portfolio/releases/20261008-200047-technical-content",
+  "target": "/srv/eli-sites/portfolio/releases/20261010-223517-portfolio-local-fixes",
+  "switched_at": "2026-10-10T14:40:15.400934+00:00",
+  "nginx_config": "UNCHANGED",
+  "services": "UNCHANGED_ACTIVE",
+  "files_verified": 143,
+  "package_sha256": "7e129d4d1ba3af4e6e07473c2fe6bcbef31b6138cd791ece75bf52476cfa30ca",
+  "backup": "/srv/eli-sites/portfolio/backups/20261010-223517-portfolio-local-fixes",
+  "acceptance": "PASS current release: local84/42pairs, remote143hashes, public98hashes, live browser scroll/return/title motion/mobile image",
+  "accepted_at": "2026-10-10T14:54:24.865619+00:00",
+  "erp_postcheck": {
+    "config_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+    "services": "nginx erp-trial mysql redis-server ACTIVE",
+    "pc_http": 200,
+    "mobile_http": 200,
+    "business_workflows": "NOT_EXERCISED"
+  }
+}

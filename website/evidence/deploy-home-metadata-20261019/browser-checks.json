@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "canonical": "https://www.eliai.cn/",
+      "consultation": [
+        {
+          "href": "https://www.eliai.cn/about.html?pv=fdaded69427dfb1ce994#contact",
+          "text": "免费聊聊 ↗"
+        },
+        {
+          "href": "https://www.eliai.cn/?pv=fdaded69427dfb1ce994#work",
+          "text": "看实际案例 ↓"
+        }
+      ],
+      "description": "独立开发者 Eli 帮助中小企业和工作室梳理重复录入、库存核对、资料查找和客服答疑。先评估现成工具，必要时再做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。",
+      "heading": "帮中小企业用好 AI从重复工作开始",
+      "language": "zh-CN",
+      "scrollWidth": 345,
+      "title": "中小企业 AI 实施与流程提效服务 - Eli",
+      "url": "https://www.eliai.cn/?pv=fdaded69427dfb1ce994#main",
+      "width": 360
+    },
+    {
+      "canonical": "https://www.eliai.cn/en/",
+      "consultation": [
+        {
+          "href": "https://www.eliai.cn/en/about.html?pv=fdaded69427dfb1ce994#contact",
+          "text": "Let’s talk ↗"
+        },
+        {
+          "href": "https://www.eliai.cn/en/index.html?pv=fdaded69427dfb1ce994#work",
+          "text": "See project work ↓"
+        }
+      ],
+      "description": "Independent developer Eli helps small businesses and studios improve data entry, inventory checks, information lookup and support workflows. Assess existing tools before custom software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.",
+      "heading": "Put AI to workin small businesses",
+      "language": "en",
+      "scrollWidth": 345,
+      "title": "AI Implementation & Workflow Improvement for Small Businesses | Eli",
+      "url": "https://www.eliai.cn/en/index.html?pv=fdaded69427dfb1ce994#main",
+      "width": 360
+    }
+  ],
+  "mobile390": [
+    {
+      "scrollWidth": 375,
+      "title": "中小企业 AI 实施与流程提效服务 - Eli",
+      "url": "https://www.eliai.cn/?pv=fdaded69427dfb1ce994#main",
+      "width": 390
+    },
+    {
+      "scrollWidth": 375,
+      "title": "AI Implementation & Workflow Improvement for Small Businesses | Eli",
+      "url": "https://www.eliai.cn/en/?pv=fdaded69427dfb1ce994#main",
+      "width": 390
+    }
+  ],
+  "contacts": {
+    "zh": {
+      "contactExists": true,
+      "language": "zh-CN",
+      "url": "https://www.eliai.cn/about.html?pv=fdaded69427dfb1ce994#contact"
+    },
+    "en": {
+      "contactExists": true,
+      "language": "en",
+      "url": "https://www.eliai.cn/en/about.html?pv=fdaded69427dfb1ce994#contact"
+    }
+  },
+  "testOrigin": "Owner deployment QA, not natural traffic or customer inquiries",
+  "viewportReset": true
+}

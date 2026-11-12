@@ -1,0 +1,9 @@
+{
+  "status": "VERIFICATION_FILES_PUBLISHED",
+  "release": "20261015-210125-search-verification",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261015-200719-center-about",
+  "ui_files_unchanged": 142,
+  "new_verification_files": 2,
+  "no_config_or_service_change": true,
+  "ui_revision": "ddeecaea4720bde0a52a"
+}

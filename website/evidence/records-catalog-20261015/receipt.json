@@ -1,0 +1,45 @@
+{
+  "status": "LOCAL_VERIFIED_VISUAL_FEEDBACK_PENDING",
+  "revision": "8b38e3e30012cfd1e243",
+  "date": "2026-10-15",
+  "owner": "current website execution chat",
+  "scope": "Project library only; user chose this page",
+  "source": "/Users/USER/Documents/原点向量/个人网站/website",
+  "preview": "http://127.0.0.1:4178/records.html?pv=8b38e3e30012cfd1e243",
+  "changed": [
+    "templates/records.html",
+    "scripts/pages.py",
+    "assets/editorial.css",
+    "assets/editorial.js",
+    "DESIGN.md",
+    "site.yaml",
+    "docs/交付与验证.md"
+  ],
+  "preserved": "11 protected source files byte-identical including no-glass styles, all case facts, home/about templates, reset code and early history fix",
+  "visual_changes": [
+    "compact split heading",
+    "category underline instead of boxed buttons",
+    "single search field without nested panels",
+    "search guidance disclosure",
+    "open two-column entries, single column on narrow screens",
+    "complete titles with max three lines of catalogue summary; full case content unchanged",
+    "hover rule follows column geometry; existing GSAP reveal and filtering retained"
+  ],
+  "tests": "check-runs.json; seo-checks.json; browser-checks.json",
+  "browser_scope": [
+    "desktop search/filter; P10 related P09 return",
+    "two final desktop rapid Back single-clear runs",
+    "keyboard clear then related return stays empty/all38",
+    "English320 rapid Back clear; keyboard Search tips",
+    "Chinese390 no overflow; reduced motion search/filter",
+    "hover indicator right-column geometry"
+  ],
+  "indexing": "DISABLED; source seo configuration unchanged",
+  "published": false,
+  "new_dependencies": false,
+  "limitations": [
+    "IAB Chromium and simulated mobile widths; physical touch devices and Safari/Edge not tested",
+    "visual judgement belongs to user; screenshot and runnable preview supplied",
+    "older browser samples in browser-checks are tagged by test stage; final revision is 8b38e3e30012cfd1e243"
+  ]
+}

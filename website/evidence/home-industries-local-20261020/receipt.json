@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-20",
+  "status": "LOCAL_QA_PASSED_AWAITING_USER_REVIEW",
+  "revision": "a1e65a01ed33addd2b34",
+  "preview": "http://127.0.0.1:4178/index.html?pv=a1e65a01ed33addd2b34#industries",
+  "languages": [
+    "zh-CN",
+    "en"
+  ],
+  "industry_count_each": 8,
+  "browser_checks": [
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-manufacturing",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 0,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-ecommerce",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 2,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-cross-border",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-wholesale-retail",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 2,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-home-building",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 2,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-professional-services",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-brands-studios",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-nonprofits",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "check": "zh_to_en_language_switch",
+      "url": "http://127.0.0.1:4178/en/index.html?pv=a1e65a01ed33addd2b34#industries",
+      "width": 390
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-manufacturing",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 0,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-ecommerce",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 2,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-cross-border",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-wholesale-retail",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 2,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-home-building",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 2,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-professional-services",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-brands-studios",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "caseLinks": 1,
+      "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+      "id": "industry-nonprofits",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "check": "en_industry_to_contact",
+      "url": "http://127.0.0.1:4178/en/about.html?pv=a1e65a01ed33addd2b34#contact",
+      "lang": "en",
+      "width": 390,
+      "contactExists": true
+    },
+    {
+      "check": "contact_language_roundtrip",
+      "url": "http://127.0.0.1:4178/about.html?pv=a1e65a01ed33addd2b34#contact",
+      "lang": "zh-CN"
+    },
+    {
+      "check": "zh_industry_to_contact",
+      "url": "http://127.0.0.1:4178/about.html?pv=a1e65a01ed33addd2b34#contact",
+      "lang": "zh-CN",
+      "width": 390
+    },
+    {
+      "check": "case_return_homepage",
+      "url": "http://127.0.0.1:4178/index.html?project=p10&pv=a1e65a01ed33addd2b34#work",
+      "result": "Returned to existing homepage project section (#work), preserving project=p10"
+    }
+  ],
+  "build": "PASS",
+  "static_http_pages": 296,
+  "seo_checks": "seo-checks.json",
+  "scope_checks": "static-scope-checks.json",
+  "new_disclosure_interactions": 16,
+  "phone_validation": "browser simulation only, 360px Chinese and 390px English",
+  "original_presentation_assets_unchanged": 30,
+  "changed_files_sha256": {
+    "content/industry-scenarios.json": "bf7020c49b0a75f93859a605d8c4af55f307b72b07bdced1a35f4f1204ae979b",
+    "scripts/industries.py": "2112429a6e5fbd29c525b72e8b8a780cf3a023f615ee2a23002b98a28fa46250",
+    "assets/industry-scenarios.css": "ed777372969b8eecab2ff3af5455bd2295574013ee63a87ffdcef6e5eedd933b",
+    "assets/industry-scenarios.js": "698c845d4f5e727ea3d74427a81f2c86d4d5610729f96770ca2472241e0a8579",
+    "scripts/pages.py": "4dbd3ce23f0f2a208e613ac297c0de38a4c56c79268663d83619304ab1112d0b",
+    "scripts/components.py": "e5eec08891cefcd36e032640796f1ed01cd60189417753eaf1d294044e7d6283",
+    "templates/home.html": "ff4234b6973886371f57f0c6b69b83ddab95b4b3b5dac3d98f3450fec1563fc6",
+    "content/page-updates.json": "6ae4c1b256745240258c90da8feaa7af89f2e63a37bad0a4eece00c8bf02a6f4",
+    "site.yaml": "c2f593acd7c4cd03f6438c61f9710d4964f6af1ef9cf507be6263d3937357043"
+  },
+  "deployment": false,
+  "search_submissions": 0,
+  "index_requests": 0,
+  "external_sends": 0,
+  "temporary_files": "No disposable files; evidence retained for review and rollback",
+  "browser_timeout": "Old tab control failed; exact same local URL in same browser new tab recovered. Real case return and contact tests completed."
+}

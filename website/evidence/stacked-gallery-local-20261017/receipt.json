@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-17",
+  "status": "LOCAL_IMPLEMENTED_AND_BROWSER_CHECKED",
+  "revision": "edc76010eb051e61ac89",
+  "preview": "http://127.0.0.1:4178/index.html?pv=edc76010eb051e61ac89#work",
+  "production_changed": false,
+  "production_baseline": "4214c0d6f6cd8e3dd8ce",
+  "changes": [
+    "Restored pre-React-Bits GSAP front-to-back stacked-gallery control code from evidence/react-bits-site-20261015/before/assets/depth-gallery.js; kept current dynamic labels and explicit project return selection.",
+    "New scoped solid-surface gallery CSS; current shared CSS and copy remain untouched.",
+    "Stopped loading/bundling the React/OGL gallery in current pages; kept experiment source, dependencies and lockfile intact.",
+    "OA renders existing inline office-workflow SVG directly; no WebGL texture or invented screenshot."
+  ],
+  "changed_sources": [
+    "assets/depth-gallery.js",
+    "assets/stacked-gallery.css",
+    "scripts/components.py",
+    "scripts/build.py",
+    "package.json",
+    "site.yaml",
+    "components/react-bits/README.md"
+  ],
+  "protected_hash_checks": {
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/projects.json": true,
+    "assets/home-ambient.js": true,
+    "assets/site-analytics.js": true,
+    "assets/site-analytics.css": true,
+    "assets/page-version.js": true,
+    "motion.js": true,
+    "styles.css": true,
+    "assets/content-layout.css": true
+  },
+  "checks": {
+    "build": "PASS 90 HTML pages /38 records",
+    "js_syntax": "PASS",
+    "static_links_http_privacy": "PASS",
+    "localization": "PASS45pairs /38translations",
+    "seo": "PASS88sitemap URLs",
+    "regressions": "PASS9 suites: home_case_return, service_return, navigation_version, first_pointer, search_reset, analytics, return_owner, related_return, home_entry"
+  },
+  "browser": {
+    "desktop": "1335px actual stacked front/rear cards visually checked; OA inline SVG visible; computed backdropFilter none. No errors returned.",
+    "resources": "All5 featured screenshot image resources complete with nonzero natural dimensions; OA existing inline SVG has positive layout dimensions.",
+    "case_return": "Chinese home OA -> p04 case -> back restored project=p04 and OA selection. English320px home OA -> case -> back also restored project=p04.",
+    "image_viewer": "OA native link opened dialog titled 办公流程示意图; SVG image complete261x150; close worked.",
+    "mobile": "Chinese390x844 and English320x780 simulated viewports had no horizontal overflow. Active story fits gallery height; text and case action visible by natural page scroll.",
+    "consultation": "Chinese390px homepage CTA reached about.html#contact; contact present and QR728px natural width; no overflow. No message/phone/email sent.",
+    "reduced_motion": "6 static readable cards, dynamic controller disabled. Temporary media/device overrides reset."
+  },
+  "limitations": [
+    "Emulated phone viewports, not physical-device tests.",
+    "No production deployment or production QA performed."
+  ],
+  "screenshots": [
+    "desktop.png",
+    "oa-desktop.png",
+    "mobile.png"
+  ]
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "confidence" : 1,
+    "height" : 30,
+    "text" : "淼",
+    "width" : 30,
+    "x" : 52,
+    "y" : 18
+  },
+  {
+    "confidence" : 1,
+    "height" : 19,
+    "text" : "淼瀚洁具",
+    "width" : 60,
+    "x" : 92,
+    "y" : 22
+  },
+  {
+    "confidence" : 1,
+    "height" : 20,
+    "text" : "首页",
+    "width" : 34,
+    "x" : 48,
+    "y" : 74
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "资料管理",
+    "width" : 64,
+    "x" : 48,
+    "y" : 133
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "客户管理",
+    "width" : 64,
+    "x" : 37,
+    "y" : 185
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "供应商管理",
+    "width" : 79,
+    "x" : 37,
+    "y" : 234
+  },
+  {
+    "confidence" : 1,
+    "height" : 21,
+    "text" : "半成品管理",
+    "width" : 79,
+    "x" : 36,
+    "y" : 281
+  },
+  {
+    "confidence" : 1,
+    "height" : 19,
+    "text" : "成品管理",
+    "width" : 64,
+    "x" : 37,
+    "y" : 334
+  },
+  {
+    "confidence" : 1,
+    "height" : 19,
+    "text" : "仓库管理",
+    "width" : 64,
+    "x" : 37,
+    "y" : 382
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "采购管理",
+    "width" : 71,
+    "x" : 40,
+    "y" : 434
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 24,
+    "text" : "库存管理",
+    "width" : 94,
+    "x" : 18,
+    "y" : 490
+  },
+  {
+    "confidence" : 1,
+    "height" : 20,
+    "text" : "首页",
+    "width" : 34,
+    "x" : 256,
+    "y" : 22
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "Jo 1人",
+    "width" : 56,
+    "x" : 234,
+    "y" : 62
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 24,
+    "text" : "今日销售",
+    "width" : 64,
+    "x" : 252,
+    "y" : 140
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 19,
+    "text" : "本月销售 0.0000",
+    "width" : 105,
+    "x" : 252,
+    "y" : 215
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "近7天销售 ＆ 采购趋势",
+    "width" : 172,
+    "x" : 252,
+    "y" : 297
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "0.0W",
+    "width" : 34,
+    "x" : 267,
+    "y" : 364
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "0.0w",
+    "width" : 38,
+    "x" : 263,
+    "y" : 397
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "0.0w",
+    "width" : 38,
+    "x" : 263,
+    "y" : 435
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "0.Ow",
+    "width" : 38,
+    "x" : 263,
+    "y" : 472
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 9,
+    "text" : "0.0w",
+    "width" : 41,
+    "x" : 263,
+    "y" : 512
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "2026-09-30",
+    "width" : 79,
+    "x" : 267,
+    "y" : 558
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "本月业务概览",
+    "width" : 101,
+    "x" : 252,
+    "y" : 654
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "销售单数量",
+    "width" : 79,
+    "x" : 263,
+    "y" : 706
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "采购单数量",
+    "width" : 75,
+    "x" : 267,
+    "y" : 762
+  },
+  {
+    "confidence" : 1,
+    "height" : 19,
+    "text" : "已发货",
+    "width" : 49,
+    "x" : 267,
+    "y" : 814
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 16,
+    "text" : "2026-10-01",
+    "width" : 75,
+    "x" : 501,
+    "y" : 558
+  },
+  {
+    "confidence" : 1,
+    "height" : 12,
+    "text" : "2020-10-01",
+    "width" : 82,
+    "x" : 620,
+    "y" : 450
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "● 销售金額",
+    "width" : 82,
+    "x" : 620,
+    "y" : 468
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "● 采购金額",
+    "width" : 82,
+    "x" : 620,
+    "y" : 490
+  },
+  {
+    "confidence" : 1,
+    "height" : 24,
+    "text" : "待发货",
+    "width" : 56,
+    "x" : 829,
+    "y" : 140
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 32,
+    "text" : "0 单",
+    "width" : 61,
+    "x" : 826,
+    "y" : 175
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "本月已发货0单",
+    "width" : 105,
+    "x" : 829,
+    "y" : 215
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "•— 销售金额 -•- 采购金额",
+    "width" : 175,
+    "x" : 907,
+    "y" : 334
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 16,
+    "text" : "2026-10-02",
+    "width" : 79,
+    "x" : 732,
+    "y" : 558
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "•单",
+    "width" : 38,
+    "x" : 743,
+    "y" : 706
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "0单",
+    "width" : 38,
+    "x" : 743,
+    "y" : 762
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "0 单",
+    "width" : 38,
+    "x" : 743,
+    "y" : 818
+  },
+  {
+    "confidence" : 1,
+    "height" : 19,
+    "text" : "2026-10-03",
+    "width" : 75,
+    "x" : 966,
+    "y" : 558
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "销售金额",
+    "width" : 64,
+    "x" : 821,
+    "y" : 706
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "采购金额",
+    "width" : 64,
+    "x" : 821,
+    "y" : 759
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "生产完成",
+    "width" : 64,
+    "x" : 821,
+    "y" : 814
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 31,
+    "text" : "2026-10-04",
+    "width" : 75,
+    "x" : 1200,
+    "y" : 546
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "0.0000",
+    "width" : 60,
+    "x" : 1278,
+    "y" : 706
+  },
+  {
+    "confidence" : 1,
+    "height" : 19,
+    "text" : "0.0000",
+    "width" : 56,
+    "x" : 1282,
+    "y" : 762
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 23,
+    "text" : "0单",
+    "width" : 34,
+    "x" : 1301,
+    "y" : 814
+  },
+  {
+    "confidence" : 1,
+    "height" : 24,
+    "text" : "采购进行中",
+    "width" : 79,
+    "x" : 1412,
+    "y" : 140
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 27,
+    "text" : "0单",
+    "width" : 53,
+    "x" : 1412,
+    "y" : 178
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 19,
+    "text" : "本月采购 0.0000",
+    "width" : 105,
+    "x" : 1412,
+    "y" : 215
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 19,
+    "text" : "2026-10-05",
+    "width" : 75,
+    "x" : 1431,
+    "y" : 558
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "本年累计",
+    "width" : 71,
+    "x" : 1412,
+    "y" : 654
+  },
+  {
+    "confidence" : 1,
+    "height" : 20,
+    "text" : "本年销售金额",
+    "width" : 94,
+    "x" : 1423,
+    "y" : 706
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 19,
+    "text" : "待办事项",
+    "width" : 64,
+    "x" : 1453,
+    "y" : 751
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "● 待发货0单",
+    "width" : 97,
+    "x" : 1412,
+    "y" : 796
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 23,
+    "text" : "● 销售待处理•单",
+    "width" : 123,
+    "x" : 1412,
+    "y" : 829
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 20,
+    "text" : "● 采购进行中•单",
+    "width" : 123,
+    "x" : 1412,
+    "y" : 866
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 12,
+    "text" : "， 牛产讲行开，曲",
+    "width" : 119,
+    "x" : 1412,
+    "y" : 903
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 19,
+    "text" : "2026-10-06",
+    "width" : 75,
+    "x" : 1661,
+    "y" : 558
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "生产任务状态分布",
+    "width" : 134,
+    "x" : 1799,
+    "y" : 293
+  },
+  {
+    "confidence" : 1,
+    "height" : 20,
+    "text" : "0.0000",
+    "width" : 56,
+    "x" : 1885,
+    "y" : 706
+  },
+  {
+    "confidence" : 1,
+    "height" : 23,
+    "text" : "生产任务",
+    "width" : 64,
+    "x" : 1992,
+    "y" : 141
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 34,
+    "text" : "O 已完成",
+    "width" : 90,
+    "x" : 1990,
+    "y" : 176
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 19,
+    "text" : "进行中•单",
+    "width" : 71,
+    "x" : 1992,
+    "y" : 215
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 35,
+    "text" : "生产容舉",
+    "width" : 60,
+    "x" : 2004,
+    "y" : 371
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 34,
+    "text" : "生輩",
+    "width" : 49,
+    "x" : 2015,
+    "y" : 524
+  },
+  {
+    "confidence" : 1,
+    "height" : 20,
+    "text" : "本年采购金额",
+    "width" : 90,
+    "x" : 1981,
+    "y" : 706
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 23,
+    "text" : "El提供技术支持 区 TT",
+    "width" : 183,
+    "x" : 2301,
+    "y" : 18
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 35,
+    "text" : "台金配",
+    "width" : 49,
+    "x" : 2241,
+    "y" : 371
+  },
+  {
+    "confidence" : 0.30000001192092896,
+    "height" : 15,
+    "text" : "生产完成",
+    "width" : 75,
+    "x" : 2238,
+    "y" : 573
+  },
+  {
+    "confidence" : 0.5,
+    "height" : 20,
+    "text" : "0.0000",
+    "width" : 53,
+    "x" : 2442,
+    "y" : 706
+  }
+]

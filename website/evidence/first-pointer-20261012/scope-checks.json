@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "html_body_text_unchanged": 84,
+  "image_attributes_unchanged": 84,
+  "bilingual_stable_image_hit_areas": 22,
+  "protected_hash_changes": {
+    "motion.js": true,
+    "motion.css": false,
+    "assets/editorial.js": true,
+    "assets/editorial.css": true,
+    "app.js": false,
+    "styles.css": false,
+    "assets/depth-gallery.js": false,
+    "assets/screenshot-viewer.js": false,
+    "templates/layout.html": false,
+    "content/projects.json": false,
+    "site.yaml": false
+  },
+  "new_regression": "scripts/check_first_pointer.cjs",
+  "indexing": "DISABLED",
+  "publication": "NOT_PERFORMED"
+}

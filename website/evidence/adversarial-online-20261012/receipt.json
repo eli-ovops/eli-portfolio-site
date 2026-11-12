@@ -1,0 +1,33 @@
+{
+  "status": "READ_ONLY_REVIEW_COMPLETE_WITH_TWO_CONFIRMED_P2_FINDINGS",
+  "date": "2026-10-12T22:23:41.244935",
+  "release": "20261012-212302-first-pointer",
+  "revision": "374bf42e288f80f56bf7",
+  "source_hashes_unchanged": true,
+  "source_modifications": false,
+  "server_actions": false,
+  "indexing": "DISABLED_UNCHANGED",
+  "findings": [
+    "Related-case explicit return loses original list filters/search",
+    "Modal outside/toolbar wheel scrolls background and loses reading position"
+  ],
+  "unresolved": [
+    "Initial about Enter samples did not open; settled Enter and Space worked; website versus automation/focus timing UNKNOWN",
+    "One rapid Projects->About sequence remained on Projects; exact-route stable navigation worked; cause UNKNOWN"
+  ],
+  "viewer_overrides_restored": true,
+  "artifacts_retained": [
+    "browser-checks.json",
+    "contact-320.jpg",
+    "contrast-check.json",
+    "english-case-320-stable.jpg",
+    "english-case-320.jpg",
+    "gallery-keyboard-final.jpg",
+    "modal-close-reading-position.jpg",
+    "online-hash-checks.json",
+    "related-case-return-reset.jpg",
+    "report.md",
+    "scope.json"
+  ],
+  "evidence_bytes": 237585
+}

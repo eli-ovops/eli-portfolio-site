@@ -1,0 +1,1149 @@
+{
+  "date": "2026-10-10",
+  "release": "20261010-223517-portfolio-local-fixes",
+  "observations": [
+    {
+      "test": "live-expanded-wheel",
+      "before": {
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "index": "01 / 07",
+        "mode": "pointer-region",
+        "open": true,
+        "overflow": false,
+        "url": "http://[REDACTED_HOST]/sites/portfolio/#work",
+        "y": 738
+      },
+      "after": {
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "index": "02 / 07",
+        "mode": "pointer-region",
+        "open": false,
+        "overflow": false,
+        "url": "http://[REDACTED_HOST]/sites/portfolio/#work",
+        "y": 738
+      }
+    },
+    {
+      "test": "live-case-return",
+      "state": {
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          }
+        ],
+        "index": "02 / 07",
+        "mode": "pointer-region",
+        "open": true,
+        "overflow": false,
+        "url": "http://[REDACTED_HOST]/sites/portfolio/#work",
+        "y": 738
+      }
+    },
+    {
+      "test": "live-filtered-case-return",
+      "before": {
+        "category": "客户项目",
+        "count": "2 项记录",
+        "query": "库存"
+      },
+      "after": {
+        "category": "客户项目",
+        "count": "2 项记录",
+        "query": "库存"
+      }
+    },
+    {
+      "test": "live-english-mobile-home",
+      "state": {
+        "images": [
+          {
+            "loaded": true
+          },
+          {
+            "loaded": false
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": true
+          },
+          {
+            "loaded": false
+          },
+          {
+            "loaded": false
+          }
+        ],
+        "index": "01 / 07",
+        "mode": "page",
+        "open": false,
+        "overflow": false,
+        "url": "http://[REDACTED_HOST]/sites/portfolio/en/index.html",
+        "y": 0
+      }
+    },
+    {
+      "test": "live-english-mobile-about",
+      "state": {
+        "overflow": false,
+        "title": "About me",
+        "width": 390
+      }
+    },
+    {
+      "test": "live-english-mobile-rag-image",
+      "state": {
+        "loaded": true,
+        "overflow": false,
+        "title": "UK water purification brand · RAG support",
+        "width": 325
+      }
+    }
+  ],
+  "titleMotion": [
+    {
+      "label": "live-about-entry",
+      "frames": [
+        {
+          "clip": "inset(0px 83.6153% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 33.4461, 0)"
+        },
+        {
+          "clip": "inset(0px 80.1722% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 32.0689, 0)"
+        },
+        {
+          "clip": "inset(0px 77.6604% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 31.0642, 0)"
+        },
+        {
+          "clip": "inset(0px 74.8052% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 29.9221, 0)"
+        },
+        {
+          "clip": "inset(0px 71.6393% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 28.6557, 0)"
+        },
+        {
+          "clip": "inset(0px 69.3316% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 27.7327, 0)"
+        },
+        {
+          "clip": "inset(0px 66.7104% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 26.6841, 0)"
+        },
+        {
+          "clip": "inset(0px 64.1641% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 25.6656, 0)"
+        },
+        {
+          "clip": "inset(0px 61.6915% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 24.6766, 0)"
+        },
+        {
+          "clip": "inset(0px 59.291% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 23.7164, 0)"
+        },
+        {
+          "clip": "inset(0px 56.9612% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 22.7845, 0)"
+        },
+        {
+          "clip": "inset(0px 55.0195% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 22.0078, 0)"
+        },
+        {
+          "clip": "inset(0px 52.8175% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 21.127, 0)"
+        },
+        {
+          "clip": "inset(0px 50.6822% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 20.2729, 0)"
+        },
+        {
+          "clip": "inset(0px 48.6123% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 19.4449, 0)"
+        },
+        {
+          "clip": "inset(0px 46.6064% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 18.6426, 0)"
+        },
+        {
+          "clip": "inset(0px 44.6633% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 17.8653, 0)"
+        },
+        {
+          "clip": "inset(0px 42.7816% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 17.1126, 0)"
+        },
+        {
+          "clip": "inset(0px 40.96% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 16.384, 0)"
+        },
+        {
+          "clip": "inset(0px 39.1972% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 15.6789, 0)"
+        },
+        {
+          "clip": "inset(0px 37.4919% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 14.9968, 0)"
+        },
+        {
+          "clip": "inset(0px 35.8429% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 14.3371, 0)"
+        },
+        {
+          "clip": "inset(0px 34.2488% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 13.6995, 0)"
+        },
+        {
+          "clip": "inset(0px 32.7086% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 13.0834, 0)"
+        },
+        {
+          "clip": "inset(0px 31.2209% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 12.4883, 0)"
+        },
+        {
+          "clip": "inset(0px 29.7845% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 11.9138, 0)"
+        },
+        {
+          "clip": "inset(0px 28.3982% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 11.3593, 0)"
+        },
+        {
+          "clip": "inset(0px 27.061% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 10.8244, 0)"
+        },
+        {
+          "clip": "inset(0px 25.7715% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 10.3086, 0)"
+        },
+        {
+          "clip": "inset(0px 24.7034% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 9.8814, 0)"
+        },
+        {
+          "clip": "inset(0px 23.3313% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 9.3325, 0)"
+        },
+        {
+          "clip": "inset(0px 22.3404% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.9362, 0)"
+        },
+        {
+          "clip": "inset(0px 21.2246% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.4898, 0)"
+        },
+        {
+          "clip": "inset(0px 20.1511% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.0604, 0)"
+        },
+        {
+          "clip": "inset(0px 19.1189% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.6476, 0)"
+        },
+        {
+          "clip": "inset(0px 17.9883% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.1953, 0)"
+        },
+        {
+          "clip": "inset(0px 17.1739% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.8696, 0)"
+        },
+        {
+          "clip": "inset(0px 16.259% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.5036, 0)"
+        },
+        {
+          "clip": "inset(0px 15.3812% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.1525, 0)"
+        },
+        {
+          "clip": "inset(0px 14.5394% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.8158, 0)"
+        },
+        {
+          "clip": "inset(0px 13.7327% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.4931, 0)"
+        },
+        {
+          "clip": "inset(0px 12.96% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.184, 0)"
+        },
+        {
+          "clip": "inset(0px 12.2204% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.8882, 0)"
+        },
+        {
+          "clip": "inset(0px 11.5129% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.6051, 0)"
+        },
+        {
+          "clip": "inset(0px 10.8365% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.3346, 0)"
+        },
+        {
+          "clip": "inset(0px 10.1905% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.0762, 0)"
+        },
+        {
+          "clip": "inset(0px 9.5737% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.8295, 0)"
+        },
+        {
+          "clip": "inset(0px 8.9854% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.5942, 0)"
+        },
+        {
+          "clip": "inset(0px 8.5031% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.4012, 0)"
+        },
+        {
+          "clip": "inset(0px 7.9652% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.1861, 0)"
+        },
+        {
+          "clip": "inset(0px 7.4532% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.9813, 0)"
+        },
+        {
+          "clip": "inset(0px 6.9664% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.7866, 0)"
+        },
+        {
+          "clip": "inset(0px 6.5038% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.6015, 0)"
+        },
+        {
+          "clip": "inset(0px 6.0646% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.4258, 0)"
+        },
+        {
+          "clip": "inset(0px 5.648% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.2592, 0)"
+        },
+        {
+          "clip": "inset(0px 5.2533% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.1013, 0)"
+        },
+        {
+          "clip": "inset(0px 4.8797% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.9519, 0)"
+        },
+        {
+          "clip": "inset(0px 4.5263% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.8105, 0)"
+        },
+        {
+          "clip": "inset(0px 4.1925% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.677, 0)"
+        },
+        {
+          "clip": "inset(0px 3.8775% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.551, 0)"
+        }
+      ],
+      "nav": "navigate"
+    },
+    {
+      "label": "live-records-entry",
+      "frames": [
+        {
+          "clip": "inset(0px 0.0004% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.0002, 0)"
+        },
+        {
+          "clip": "inset(0px 0.0002% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.0001, 0)"
+        },
+        {
+          "clip": "inset(0px 0.0001% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "clip": "inset(0px 0% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "clip": "inset(0px 0% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "clip": "inset(0px 0% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        },
+        {
+          "clip": "none",
+          "x": "none"
+        }
+      ],
+      "nav": "navigate"
+    },
+    {
+      "label": "live-about-back-confirmed",
+      "frames": [
+        {
+          "clip": "inset(0px 56.3084% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 22.5233, 0)"
+        },
+        {
+          "clip": "inset(0px 54.0675% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 21.627, 0)"
+        },
+        {
+          "clip": "inset(0px 51.8942% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 20.7577, 0)"
+        },
+        {
+          "clip": "inset(0px 49.7871% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 19.9149, 0)"
+        },
+        {
+          "clip": "inset(0px 47.7449% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 19.0979, 0)"
+        },
+        {
+          "clip": "inset(0px 45.7661% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 18.3064, 0)"
+        },
+        {
+          "clip": "inset(0px 43.8494% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 17.5398, 0)"
+        },
+        {
+          "clip": "inset(0px 42.2551% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 16.902, 0)"
+        },
+        {
+          "clip": "inset(0px 39.9456% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 15.9782, 0)"
+        },
+        {
+          "clip": "inset(0px 38.4594% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 15.3838, 0)"
+        },
+        {
+          "clip": "inset(0px 36.7783% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 14.7113, 0)"
+        },
+        {
+          "clip": "inset(0px 35.153% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 14.0612, 0)"
+        },
+        {
+          "clip": "inset(0px 33.5822% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 13.4329, 0)"
+        },
+        {
+          "clip": "inset(0px 32.0646% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 12.8258, 0)"
+        },
+        {
+          "clip": "inset(0px 30.599% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 12.2396, 0)"
+        },
+        {
+          "clip": "inset(0px 29.1843% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 11.6737, 0)"
+        },
+        {
+          "clip": "inset(0px 27.8192% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 11.1277, 0)"
+        },
+        {
+          "clip": "inset(0px 26.1351% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 10.454, 0)"
+        },
+        {
+          "clip": "inset(0px 25.2332% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 10.0933, 0)"
+        },
+        {
+          "clip": "inset(0px 24.182% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 9.6728, 0)"
+        },
+        {
+          "clip": "inset(0px 22.9974% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 9.199, 0)"
+        },
+        {
+          "clip": "inset(0px 21.8569% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.7428, 0)"
+        },
+        {
+          "clip": "inset(0px 20.7594% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.3038, 0)"
+        },
+        {
+          "clip": "inset(0px 19.7037% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.8815, 0)"
+        },
+        {
+          "clip": "inset(0px 18.8314% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.5326, 0)"
+        },
+        {
+          "clip": "inset(0px 17.7137% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.0855, 0)"
+        },
+        {
+          "clip": "inset(0px 16.9087% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.7635, 0)"
+        },
+        {
+          "clip": "inset(0px 16.0045% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.4018, 0)"
+        },
+        {
+          "clip": "inset(0px 15.1371% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.0548, 0)"
+        },
+        {
+          "clip": "inset(0px 14.3054% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.7222, 0)"
+        },
+        {
+          "clip": "inset(0px 13.5085% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.4034, 0)"
+        },
+        {
+          "clip": "inset(0px 12.7453% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.0981, 0)"
+        },
+        {
+          "clip": "inset(0px 12.015% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.806, 0)"
+        },
+        {
+          "clip": "inset(0px 11.3165% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.5266, 0)"
+        },
+        {
+          "clip": "inset(0px 10.6489% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.2596, 0)"
+        },
+        {
+          "clip": "inset(0px 10.0113% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.0045, 0)"
+        },
+        {
+          "clip": "inset(0px 9.4028% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.7611, 0)"
+        },
+        {
+          "clip": "inset(0px 8.8224% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.529, 0)"
+        },
+        {
+          "clip": "inset(0px 8.2693% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.3077, 0)"
+        },
+        {
+          "clip": "inset(0px 7.7427% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.0971, 0)"
+        },
+        {
+          "clip": "inset(0px 7.2416% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.8966, 0)"
+        },
+        {
+          "clip": "inset(0px 6.8318% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.7327, 0)"
+        },
+        {
+          "clip": "inset(0px 6.3759% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.5504, 0)"
+        },
+        {
+          "clip": "inset(0px 5.9433% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.3773, 0)"
+        },
+        {
+          "clip": "inset(0px 5.5331% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.2132, 0)"
+        },
+        {
+          "clip": "inset(0px 5.1445% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.0578, 0)"
+        },
+        {
+          "clip": "inset(0px 4.7767% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.9107, 0)"
+        },
+        {
+          "clip": "inset(0px 4.429% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.7716, 0)"
+        },
+        {
+          "clip": "inset(0px 4.1006% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.6403, 0)"
+        },
+        {
+          "clip": "inset(0px 3.7909% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.5163, 0)"
+        },
+        {
+          "clip": "inset(0px 3.499% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.3996, 0)"
+        },
+        {
+          "clip": "inset(0px 3.2243% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.2897, 0)"
+        },
+        {
+          "clip": "inset(0px 2.9661% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.1865, 0)"
+        },
+        {
+          "clip": "inset(0px 2.7238% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.0895, 0)"
+        },
+        {
+          "clip": "inset(0px 2.4966% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.9986, 0)"
+        },
+        {
+          "clip": "inset(0px 2.2839% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.9136, 0)"
+        },
+        {
+          "clip": "inset(0px 2.0851% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.8341, 0)"
+        },
+        {
+          "clip": "inset(0px 1.8996% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.7598, 0)"
+        },
+        {
+          "clip": "inset(0px 1.7268% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.6907, 0)"
+        },
+        {
+          "clip": "inset(0px 1.5882% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.6353, 0)"
+        }
+      ],
+      "nav": "back_forward"
+    },
+    {
+      "label": "live-records-back-confirmed",
+      "frames": [
+        {
+          "clip": "inset(0px 66.3807% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 26.5523, 0)"
+        },
+        {
+          "clip": "inset(0px 64.0887% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 25.6355, 0)"
+        },
+        {
+          "clip": "inset(0px 61.4902% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 24.5961, 0)"
+        },
+        {
+          "clip": "inset(0px 58.9716% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 23.5886, 0)"
+        },
+        {
+          "clip": "inset(0px 56.5311% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 22.6124, 0)"
+        },
+        {
+          "clip": "inset(0px 54.1672% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 21.6669, 0)"
+        },
+        {
+          "clip": "inset(0px 51.8782% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 20.7513, 0)"
+        },
+        {
+          "clip": "inset(0px 49.6625% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 19.865, 0)"
+        },
+        {
+          "clip": "inset(0px 47.5185% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 19.0074, 0)"
+        },
+        {
+          "clip": "inset(0px 45.4448% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 18.1779, 0)"
+        },
+        {
+          "clip": "inset(0px 43.4396% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 17.3759, 0)"
+        },
+        {
+          "clip": "inset(0px 41.5016% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 16.6006, 0)"
+        },
+        {
+          "clip": "inset(0px 39.6292% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 15.8517, 0)"
+        },
+        {
+          "clip": "inset(0px 37.8208% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 15.1283, 0)"
+        },
+        {
+          "clip": "inset(0px 36.075% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 14.43, 0)"
+        },
+        {
+          "clip": "inset(0px 34.3904% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 13.7562, 0)"
+        },
+        {
+          "clip": "inset(0px 32.994% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 13.1976, 0)"
+        },
+        {
+          "clip": "inset(0px 31.1989% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 12.4796, 0)"
+        },
+        {
+          "clip": "inset(0px 29.6891% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 11.8756, 0)"
+        },
+        {
+          "clip": "inset(0px 28.2348% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 11.2939, 0)"
+        },
+        {
+          "clip": "inset(0px 27.0314% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 10.8125, 0)"
+        },
+        {
+          "clip": "inset(0px 25.6764% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 10.2706, 0)"
+        },
+        {
+          "clip": "inset(0px 24.3731% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 9.7492, 0)"
+        },
+        {
+          "clip": "inset(0px 23.12% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 9.248, 0)"
+        },
+        {
+          "clip": "inset(0px 21.9159% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.7664, 0)"
+        },
+        {
+          "clip": "inset(0px 20.7594% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 8.3038, 0)"
+        },
+        {
+          "clip": "inset(0px 19.6493% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.8597, 0)"
+        },
+        {
+          "clip": "inset(0px 18.5844% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.4337, 0)"
+        },
+        {
+          "clip": "inset(0px 17.5633% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 7.0253, 0)"
+        },
+        {
+          "clip": "inset(0px 16.7221% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.6888, 0)"
+        },
+        {
+          "clip": "inset(0px 15.6479% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 6.2592, 0)"
+        },
+        {
+          "clip": "inset(0px 14.7513% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.9005, 0)"
+        },
+        {
+          "clip": "inset(0px 14.0138% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.6055, 0)"
+        },
+        {
+          "clip": "inset(0px 13.0741% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 5.2296, 0)"
+        },
+        {
+          "clip": "inset(0px 12.4009% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.9603, 0)"
+        },
+        {
+          "clip": "inset(0px 11.6487% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.6595, 0)"
+        },
+        {
+          "clip": "inset(0px 10.8316% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.3326, 0)"
+        },
+        {
+          "clip": "inset(0px 10.2475% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 4.099, 0)"
+        },
+        {
+          "clip": "inset(0px 9.5964% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.8385, 0)"
+        },
+        {
+          "clip": "inset(0px 8.9767% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.5907, 0)"
+        },
+        {
+          "clip": "inset(0px 8.3876% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.355, 0)"
+        },
+        {
+          "clip": "inset(0px 7.828% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 3.1312, 0)"
+        },
+        {
+          "clip": "inset(0px 7.2968% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.9187, 0)"
+        },
+        {
+          "clip": "inset(0px 6.7932% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.7173, 0)"
+        },
+        {
+          "clip": "inset(0px 6.316% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.5264, 0)"
+        },
+        {
+          "clip": "inset(0px 5.8645% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.3458, 0)"
+        },
+        {
+          "clip": "inset(0px 5.4971% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.1989, 0)"
+        },
+        {
+          "clip": "inset(0px 5.0907% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 2.0363, 0)"
+        },
+        {
+          "clip": "inset(0px 4.6542% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.8617, 0)"
+        },
+        {
+          "clip": "inset(0px 4.2959% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.7183, 0)"
+        },
+        {
+          "clip": "inset(0px 3.9586% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.5835, 0)"
+        },
+        {
+          "clip": "inset(0px 3.6416% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.4567, 0)"
+        },
+        {
+          "clip": "inset(0px 3.3854% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.3542, 0)"
+        },
+        {
+          "clip": "inset(0px 3.0652% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.2261, 0)"
+        },
+        {
+          "clip": "inset(0px 2.8403% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.1361, 0)"
+        },
+        {
+          "clip": "inset(0px 2.56% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 1.024, 0)"
+        },
+        {
+          "clip": "inset(0px 2.3322% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.9329, 0)"
+        },
+        {
+          "clip": "inset(0px 2.1494% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.8598, 0)"
+        },
+        {
+          "clip": "inset(0px 1.9226% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.769, 0)"
+        },
+        {
+          "clip": "inset(0px 1.7647% 0px 0px)",
+          "x": "matrix(1, 0, 0, 1, 0.7059, 0)"
+        }
+      ],
+      "nav": "back_forward"
+    }
+  ],
+  "limitations": [
+    "手机为模拟视口",
+    "未验实体触屏/iOS Safari",
+    "未测FPS"
+  ],
+  "samplingIssue": "最初批量导航未等实际目标页，采样超时；改为逐页核对实际URL/标题后确认两页返回动画，未更改网站逻辑"
+}

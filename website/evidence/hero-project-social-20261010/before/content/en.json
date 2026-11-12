@@ -1,0 +1,491 @@
+{
+  "profile": {
+    "headline": "FDE\nForward Deployed Engineer",
+    "intro": "I work on real business needs, from requirements and system development to delivery and iteration. My projects span nonprofits, professional services and international brands. Here is work I have led or contributed to.",
+    "about": "My project experience spans nonprofits, professional service firms and international brands, with work in requirements analysis, product planning, documentation and development.",
+    "personality": "I prefer to let my work speak for itself.",
+    "background": "On projects I lead, I use AI-assisted development and take responsibility for workflow design, testing and maintenance. On team projects, I contribute within the agreed division of work."
+  },
+  "projects": {
+    "P01": {
+      "title": "Enterprise client projects",
+      "summary": "Contributed to nonprofit and law firm websites, an office system, UK brand marketing and AI support, with work on requirements, planning and demo development.",
+      "story": [
+        [
+          "Turned client requirements into page designs and business workflows, working with the team on implementation."
+        ],
+        [
+          "Developed software on team client projects; other members conducted onsite discovery. For the RAG support project, I also organized the knowledge base, configured retrieval and tested the system."
+        ]
+      ]
+    },
+    "P02": {
+      "title": "Shenzhen charity foundation",
+      "summary": "Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.",
+      "story": [
+        [
+          "The website needed to bring together the foundation profile, charitable programs, news and public information, with clear paths for visitors."
+        ],
+        [
+          "Developed the nonprofit website based on requirements gathered by the team."
+        ],
+        [
+          "Foundation profile, charitable programs, news and public disclosure sections.",
+          "Planned navigation between the homepage, sections and content pages."
+        ],
+        [
+          "The two first-phase websites were delivered and accepted in about one month. Positive client feedback led to a second phase of work on an internal system."
+        ]
+      ],
+      "process": "The client began with two websites before commissioning an internal system. I developed the nonprofit website around the foundation profile, programs and disclosures. Both websites were delivered and accepted in about one month, and the client then commissioned the team’s second-phase office system."
+    },
+    "P03": {
+      "title": "Shenzhen law firm website",
+      "summary": "Contributed to a law firm website, bringing together services, lawyer profiles, news and inquiry channels through a coherent content structure.",
+      "story": [
+        [
+          "Created clear paths between services, lawyer profiles, news and inquiry channels."
+        ],
+        [
+          "Developed the law firm website based on requirements gathered by the team."
+        ],
+        [
+          "Professional services, lawyer profiles, news and inquiry channels.",
+          "Aligned page content and navigation to present the firm’s services clearly."
+        ],
+        [
+          "The two first-phase websites were delivered and accepted in about one month. Positive client feedback led to a second phase of work on an internal system."
+        ]
+      ],
+      "process": "I developed the law firm website as part of the first phase, organizing services, lawyer profiles and recognition into clear content and navigation. The two websites were delivered and accepted in about one month. Positive feedback led to further work on the internal office system."
+    },
+    "P04": {
+      "title": "Law firm office system",
+      "summary": "Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.",
+      "story": [
+        [
+          "Designed workflows and interfaces around the law firm’s office collaboration needs."
+        ],
+        [
+          "Developed the office system. Other team members conducted onsite interviews and discovery; I implemented the findings."
+        ],
+        [
+          "Business requirements, product documentation and office system demo interfaces."
+        ],
+        [
+          "The second phase took more than three months, covering development, user training and handover. The client reported less time spent on routine work and lower software costs; no quantified data was provided."
+        ]
+      ],
+      "process": "Other team members interviewed staff onsite, and I developed the office system from their findings. The work addressed scattered paper files, spreadsheets and PDFs, plus inconsistent office tools. Development, training and handover took more than three months. The client reported time and software cost savings; no quantified data was provided."
+    },
+    "P05": {
+      "title": "UK water purification brand marketing",
+      "summary": "Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.",
+      "story": [
+        [
+          "Presented water purification products, use cases and brand information consistently for an international audience."
+        ],
+        [
+          "Contributed to a team marketing project. Campaigns, content, AI videos and promotion were shared team responsibilities; the website belonged to the client."
+        ],
+        [
+          "The team planned and promoted campaigns, produced content and AI videos, and developed brand content and creator partnerships.",
+          "Used Facebook, Instagram and TikTok to direct traffic to the client’s own website."
+        ],
+        [
+          "The project ran for more than three months. Once operations stabilized, the client took over; no conversion or sales growth data was provided."
+        ]
+      ],
+      "process": "The team developed an international marketing plan around the client’s existing website. Work included online and offline campaigns, promotional content, AI videos, brand content, creator partnerships and social traffic. The project ran for more than three months before the client took over stable operations."
+    },
+    "P06": {
+      "title": "AI order entry interaction prototype",
+      "summary": "Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.",
+      "story": [
+        [
+          "Used an interactive prototype to validate document uploads, field entry, manual corrections and result review."
+        ],
+        [
+          "Interactive demonstrations of uploading, field display, manual corrections, status filters and audit logs."
+        ]
+      ]
+    },
+    "P07": {
+      "title": "Furniture brand website",
+      "summary": "Led development of a website for international buyers, combining product, factory and gallery content with language switching and a structured inquiry flow.",
+      "story": [
+        [
+          "Helped international buyers understand the products, factory and brand through the website."
+        ],
+        [
+          "Led requirements analysis and workflow design, used AI-assisted development, and handled testing and ongoing maintenance."
+        ],
+        [
+          "An English brand website with product and factory information, a gallery and language switching."
+        ]
+      ]
+    },
+    "P08": {
+      "title": "Furniture product catalog",
+      "summary": "Organized product images, models, dimensions and specifications into print and mobile catalogs, distinguishing real product photos from generated scene imagery.",
+      "story": [
+        [
+          "Presented product images, models, dimensions and specifications together so buyers could compare products."
+        ],
+        [
+          "Led requirements analysis and workflow design, used AI-assisted development, and handled testing and ongoing maintenance."
+        ],
+        [
+          "Separate print and mobile reading layouts for product images, models, dimensions and specifications."
+        ]
+      ]
+    },
+    "P09": {
+      "title": "Furniture barcode inventory system",
+      "summary": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "story": [
+        [
+          "A carton-based warehouse needs a checkable flow across receiving, transfers, dispatch and corrections. Repeated submissions or retries must not record the same operation twice."
+        ],
+        [
+          "I led requirements and workflow design, used AI-assisted development, and handled testing and maintenance."
+        ],
+        [
+          "Implemented carton scanning, receiving, transfers, dispatch and reversals, with identity checks, duplicate-request handling and insufficient-stock checks."
+        ],
+        [
+          "A complete inventory sequence was checked before duplicate requests, insufficient stock and retries after cancellation. Transfers check source, destination and total quantities; corrections remain linked to the original operation."
+        ],
+        [
+          "Records dated September 8, 2026 cover local and cloud acceptance with virtual inventory. Real phone cameras and factory networks still require on-site validation; these records do not establish factory adoption."
+        ]
+      ]
+    },
+    "P10": {
+      "title": "Sanitaryware manufacturer inventory system",
+      "summary": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "story": [
+        [
+          "The client needed inventory management connected to product variants, purchasing, returns and stocktakes. Quantities and statuses must agree with the actual business operations."
+        ],
+        [
+          "Adapted an existing foundation to inventory workflows across PC and H5 interfaces. The backend includes master data, purchasing, inventory and an overview, with workflow review, test-document and trial-deployment records."
+        ],
+        [
+          "A half-day requirements discussion established the scope. With limited client availability afterward, I used the initial discovery and industry understanding to handle requirements, core development and delivery independently.",
+          "Workflow reviews compare documents, stock and inventory transactions. A stocktake example checks the document status, actual quantity reduction and corresponding transaction rather than relying on a success message."
+        ],
+        [
+          "I independently handled requirements, workflow analysis, core development and delivery. The business adaptations are distinguished from the existing foundation."
+        ],
+        [
+          "Delivery took about two months. The client has not yet put the system into full use, so usage outcomes remain unconfirmed."
+        ]
+      ],
+      "process": "A half-day requirements discussion established inventory management as the core scope. I independently handled requirements, core development and delivery. Limited follow-up availability meant implementation relied on the initial discovery and industry understanding. Delivery took about two months; the client has not yet put the system into full use."
+    },
+    "P11": {
+      "title": "UK and Australia small business website experiments",
+      "summary": "Researched public information on small businesses, built website redesign demos, checked mobile browsing and inquiry flows, and prepared quotes and collaboration materials.",
+      "story": [
+        [
+          "Small business websites need coherent content, mobile experiences and inquiry flows."
+        ]
+      ]
+    },
+    "P12": {
+      "title": "Zhijing · AI content workbench",
+      "summary": "Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.",
+      "story": [
+        [
+          "Fabric businesses need content based on product images, specifications and account style. Human review remains part of the flow to keep content aligned with product facts."
+        ],
+        [
+          "I led requirements and workflow design, used AI-assisted development, and handled testing and maintenance."
+        ],
+        [
+          "The local workbench includes initial setup, style confirmation, product input, editing, human review and export paths. The image shows the product-input interface."
+        ],
+        [
+          "Product facts, content capabilities, human approval and output paths are organized and validated separately. A successful account connection is not treated as evidence of a complete generation flow."
+        ],
+        [
+          "Records from August 2026 cover a real text probe and account login, confirmation, restart, disconnection and login again. A historical full-content test failed at delivery of the first image.",
+          "The available public material does not include a passing end-to-end generation or RED publishing receipt. This case presents the workbench and partial verification, without claiming stable automatic generation or publishing."
+        ]
+      ],
+      "process": "I led requirements and workflow design for furnishing-fabric content and used AI-assisted development for a local workbench. Product facts and style are confirmed before editing and human review. Available evidence covers the interface and historical partial tests; complete image-and-copy generation and platform publishing require separate validation."
+    },
+    "P13": {
+      "title": "Pocket Rove",
+      "summary": "Led a bilingual daily task app with completion tracking, history and souvenirs, adding notification and payment entry points and preparing App Store presentation assets.",
+      "story": [
+        [
+          "Encouraged everyday action and exploration through daily tasks, with history and souvenirs to preserve completed experiences."
+        ],
+        [
+          "Led requirements analysis and workflow design, used AI-assisted development, and handled testing and ongoing maintenance."
+        ],
+        [
+          "Bilingual daily tasks, completion and history, souvenirs, notifications and payment entry points."
+        ],
+        [
+          "Connected task reveals, completion confirmation, history and souvenir collection into a continuous user flow."
+        ]
+      ]
+    },
+    "P14": {
+      "title": "Focumi",
+      "summary": "Developed a pet companion focus app with pet adoption, duration goals and state transitions, integrating permissions, Live Activities and notifications.",
+      "story": [
+        [
+          "Explored a gentler focus experience by incorporating a pet companion into the workflow."
+        ]
+      ]
+    },
+    "P15": {
+      "title": "PetSocial (now HelloTail)",
+      "summary": "Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.",
+      "story": [
+        [
+          "Pet profiles provide a starting point for discovery, invitations, owner connections and text conversations."
+        ],
+        [
+          "I developed the entire project, including pet profiles and photos, discovery invitations, owner connections, chat and message-recovery features."
+        ],
+        [
+          "The native iOS app connects profile, discovery and chat flows, with message state and restart recovery. The separate VisualDemo presents UI and interactions; it does not replace native feature or device verification."
+        ],
+        [
+          "UI experience, real services and device state are checked separately. An October 5, 2026 regression on my iPhone covered profiles, connections and chat history. A technical test message appeared once; after terminating and restarting the app, the session and sent message were restored from the service."
+        ],
+        [
+          "The current native candidate is iterating as HelloTail, with local build, installation on my device and partial-verification records. The historical recovery example does not establish cross-device receipt, notification delivery or full feature acceptance.",
+          "The image still comes from the separate VisualDemo. Physical-device performance and release completion need their own validation; a demo image or installation record is not proof of an App Store release."
+        ]
+      ],
+      "process": "I developed this native iOS pet-social project, now iterating under the name HelloTail, connecting pet profiles, discovery invitations and chat. A separate VisualDemo presents the experience. The cover comes from that demo; native implementation and device validation are described separately.",
+      "imageNote": "Independent VisualDemo discovery screen · demo profiles, not real community users"
+    },
+    "P16": {
+      "title": "LocalStamp · location watermark camera",
+      "summary": "Built a location and time watermark camera with capture, positioning, three watermark styles, local image generation, photo saving and sharing, including permission failure feedback.",
+      "story": [
+        [
+          "Generated location and time watermarks after capture and saved the result to the system photo library."
+        ]
+      ]
+    },
+    "P17": {
+      "title": "I Ching · reading prototype",
+      "summary": "Built a six-round casting and reading prototype with the original texts of 64 hexagrams, open reflection questions, local history and record import and export.",
+      "story": [
+        [
+          "Turned the three-coin, six-line casting process into a restrained and traceable reading ritual."
+        ]
+      ]
+    },
+    "P18": {
+      "title": "Study duration reminder prototype",
+      "summary": "Built a study reminder prototype with app goals and reminder times, usage callbacks, date isolation and status display to validate reminder logic.",
+      "story": [
+        [
+          "Scheduled reminders around study duration goals and stopped them once the goal was reached."
+        ]
+      ]
+    },
+    "P19": {
+      "title": "Hairstyle try-on and stylist reference cards",
+      "summary": "Built a hairstyle try-on prototype with three-view inputs, hair conditions and candidate comparisons, exploring landmark alignment, tracking and reference exports.",
+      "story": [
+        [
+          "Used hair information and comparisons between styles to support communication between users and stylists."
+        ]
+      ]
+    },
+    "P20": {
+      "title": "ClaimFlow · insurance claims concept",
+      "summary": "Created a static insurance claims concept page presenting workflows, features, FAQs and illustrative interfaces to communicate product positioning and use cases.",
+      "story": [
+        [
+          "Communicated the positioning and purchasing context of a claims workflow product."
+        ]
+      ]
+    },
+    "P21": {
+      "title": "Automated order workflow repair",
+      "summary": "Repaired interrupted order and reconnection flows, adding order verification, protective-order checks, persistent auditing, notification backoff and duplicate-deployment prevention.",
+      "story": [
+        [
+          "Addressed strategy interruptions caused by failed queries, reconnections and uncertain order outcomes."
+        ]
+      ]
+    },
+    "P22": {
+      "title": "Cross-exchange order book evidence system",
+      "summary": "Built a price-spread evidence pipeline that checks quote freshness, market depth, fees and quantity rules, preserving raw events for independent replay.",
+      "story": [
+        [
+          "Verified quote freshness, market depth and trading rules to distinguish actual spreads from data errors."
+        ]
+      ]
+    },
+    "P23": {
+      "title": "Trading strategy research framework",
+      "summary": "Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.",
+      "story": [
+        [
+          "Recorded strategy rules, capital conditions and fee assumptions separately to make backtests and conclusions easier to verify."
+        ]
+      ]
+    },
+    "P24": {
+      "title": "Serenity · company and industry research",
+      "summary": "Organized company and industry candidates, checking catalysts, valuation assumptions and counterevidence against company disclosures and official sources.",
+      "story": [
+        [
+          "Used primary sources and counterevidence to verify research leads in AI infrastructure and supply chains."
+        ]
+      ]
+    },
+    "P25": {
+      "title": "Personalized AI news brief",
+      "summary": "Designed interest profiles, source selection, deduplication and briefing flows, tested public feed parsing, and documented sample outputs and development requirements.",
+      "story": [
+        [
+          "Filtered AI news from multiple platforms to match personal interests and exclusion criteria."
+        ]
+      ]
+    },
+    "P26": {
+      "title": "AI short videos and app promotion assets",
+      "summary": "Turned app features into video scripts and storyboards, producing subtitles, screenshots and audio edits with versioned assets for different social platforms.",
+      "story": [
+        [
+          "Organized app features into short video scripts and reusable promotional assets."
+        ]
+      ]
+    },
+    "P27": {
+      "title": "Faceless podcast and history channel research",
+      "summary": "Researched sample channels, topics and production costs for faceless podcasts and historical stories, preparing a first-episode plan and production guidelines.",
+      "story": [
+        [
+          "Assessed sustainable channel operation using verifiable sources, topic reserves and production costs."
+        ]
+      ]
+    },
+    "P28": {
+      "title": "Independent app opportunities and localization",
+      "summary": "Researched small app opportunities in knitting, photography, travel and fitness, comparing needs and alternatives to produce screening reports and direction scores.",
+      "story": [
+        [
+          "Evaluated small app development directions against use cases and existing alternatives."
+        ]
+      ]
+    },
+    "P29": {
+      "title": "AI Project Radar",
+      "summary": "Organized AI ecosystem leads, public sources, scoring rules and daily report templates into an intelligence task package that can be triggered manually.",
+      "story": [
+        [
+          "Collected verifiable project and tool leads from AI ecosystem news."
+        ]
+      ]
+    },
+    "P30": {
+      "title": "AI collaboration workflows",
+      "summary": "Organized task ownership, tool selection and output checks into clear project continuation and file management workflows.",
+      "story": [
+        [
+          "AI-assisted projects need clear task allocation, result checks, file management and follow-through."
+        ]
+      ]
+    },
+    "P31": {
+      "title": "Mac storage audit and safe cleanup",
+      "summary": "Audited storage and cleanup scope by project, protecting unique data and runtime dependencies while checking external copies, file hashes and space changes.",
+      "story": [
+        [
+          "Separated disposable caches, unique data and runtime dependencies to reclaim space while protecting project files."
+        ]
+      ]
+    },
+    "P32": {
+      "title": "Skills and knowledge organization",
+      "summary": "Organized skill sources, knowledge indexes and learning steps, documenting tool scope, dependencies and reuse through searchable entry points.",
+      "story": [
+        [
+          "Kept tool sources, intended use and reuse dependencies traceable."
+        ]
+      ]
+    },
+    "P33": {
+      "title": "Ox Alpha · remote model client",
+      "summary": "Built an isolated remote model trial client with pricing and availability checks, masked key input, separate configuration and a specified invocation interface.",
+      "story": [
+        [
+          "Avoided confusing remote inference with local deployment when trying models."
+        ]
+      ]
+    },
+    "P34": {
+      "title": "Upwork / UUMIT · collaboration preparation",
+      "summary": "Prepared service scopes, opportunity scores and proposals from personal capabilities and project experience to match potential client needs.",
+      "story": [
+        [
+          "Translated project experience into clearly defined client collaboration scopes."
+        ]
+      ]
+    },
+    "P35": {
+      "title": "Chemical engineering thesis preparation",
+      "summary": "Organized university requirements, topic materials and working files into a handover package to support research, writing and progress tracking.",
+      "story": [
+        [
+          "Organized topics, university templates, data requirements and schedules for the next stage of thesis work."
+        ]
+      ]
+    },
+    "P36": {
+      "title": "UK water purification brand · RAG support",
+      "summary": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "story": [
+        [
+          "Visitors needed answers about water filtration products and brand information. The project connected knowledge questions, quick support and contact options to the website support interface."
+        ],
+        [
+          "I handled knowledge-base organization, retrieval configuration and testing. The team handled version backups, deployment and upgrade rollback preparation."
+        ],
+        [
+          "Organized brand and product knowledge, configured retrieval, and checked and adjusted question-answer behavior. The support interface offers a welcome message, quick options, input and contact routes."
+        ],
+        [
+          "The team customized an existing foundation, progressing from demos to client confirmation and live testing. I worked on the knowledge base, retrieval and question-answer checks while the team prepared backups and upgrade rollback plans."
+        ],
+        [
+          "Delivery took about two months. The public image shows the initial support interface; concrete answers, source citations and failed-answer adjustments are not yet shown. No accuracy or support-efficiency metrics were provided."
+        ]
+      ],
+      "process": "The team customized RAG support on an established foundation. I organized the knowledge base, configured retrieval and tested responses as the project moved from demos to client confirmation and live testing. The team prepared version backups and upgrade rollback plans, delivering in about two months."
+    },
+    "N01": {
+      "title": "APNs remote notification validation",
+      "summary": "Built a minimal notification validation interface, handling permission and device registration and preparing a single-device experiment and evidence plan.",
+      "story": [
+        [
+          "Verified the key technical prerequisite for remote notifications in a personalized daily briefing."
+        ]
+      ]
+    },
+    "N02": {
+      "title": "OpenAI DevDay · official content research",
+      "summary": "Organized research into official DevDay content, focusing on developer capabilities, availability and the boundaries of potential startup applications.",
+      "story": [
+        [
+          "Studied official capabilities, availability and application boundaries."
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "release": "20261008-183652-portfolio-polish",
+  "hashes_verified": 137,
+  "erp_routes": {
+    "login": 200,
+    "mobile/": 200
+  }
+}

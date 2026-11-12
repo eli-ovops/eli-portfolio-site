@@ -1,0 +1,36 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "checked_at": "2026-10-22T11:13:25.360904+00:00",
+  "revision": "ee333e5fb82b7096a06c",
+  "html_pages": 296,
+  "reviewed_home_link_changes": true,
+  "source_files": [
+    "scripts/build.py",
+    "scripts/page_versions.py",
+    "assets/page-version.js",
+    "scripts/check.py",
+    "scripts/check_localization.py",
+    "scripts/check_home_case_return.cjs",
+    "scripts/check_navigation_version.cjs"
+  ],
+  "content_date_ledger": "content/page-updates.json",
+  "ledger_changed_pages": 294,
+  "lastmod_reviewed_date": "2026-10-22",
+  "body_copy_css_media_motion_unchanged": true,
+  "static_seo_and_bilingual_checks": "PASS",
+  "navigation_regression_suites": 5,
+  "browser_observations": 10,
+  "local_preview": "http://127.0.0.1:4178/?project=p36#work",
+  "english_preview": "http://127.0.0.1:4178/en/?project=p36#work",
+  "build": "PASS296",
+  "production_deployments": 0,
+  "server_changes": 0,
+  "search_submissions": 0,
+  "index_requests": 0,
+  "test_traffic": "LOCAL_QA_NOT_ORGANIC",
+  "limitations": [
+    "Browser desktop checks; no physical mobile device test.",
+    "Legacy home alias cleanup in this candidate is browser history replacement, not an HTTP301 configuration change.",
+    "Publication still requires explicit user authorization."
+  ]
+}

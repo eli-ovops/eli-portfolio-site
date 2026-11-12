@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SEO-01",
+    "priority": "P1",
+    "kind": "Confirmed URL consistency issue; search impact not causally proven",
+    "issue": "Public navigation versions HTML URLs using pv while canonical and sitemap use clean URLs",
+    "evidence": [
+      "scripts/page_versions.py:version_pages",
+      "assets/page-version.js:versionURL/stampPage",
+      "static-audit.json:5186 parameterized internal links across296 pages",
+      "browser-live.json:six clean service navigations acquired pv"
+    ],
+    "recommendation": "Keep stable public HTML links; keep asset content hashes and required case return/state parameters. Preserve old incoming version URLs and case return behavior. Do not robots-block parameter variants or remove project/from/return/q/category wholesale.",
+    "acceptance": "Clean service entry stays clean; normal content links and language switching point to clean canonical paths; assets remain versioned; case return and gallery state pass; no duplicate indexing submissions"
+  },
+  {
+    "id": "SEO-02",
+    "priority": "P1",
+    "kind": "Confirmed missing contextual service links, not broken consultation",
+    "issue": "P09/P10/P36 direct case landings lack permanent main-content link to the relevant service, in both languages",
+    "evidence": [
+      "browser-live.json:three case pages",
+      "static-audit.json:6 bilingual case pages with no main service links",
+      "Two core business articles already have correct service links"
+    ],
+    "recommendation": "Add knowledge-base service link to P36 and workflow service link to P09/P10; add relevant business-article link from corresponding service pages. Preserve current referrer-aware back link and consultation entry.",
+    "acceptance": "A direct case landing exposes its matching service without needing prior navigation; service/case/article cluster links pair correctly in both languages"
+  },
+  {
+    "id": "GEO-03",
+    "priority": "P1",
+    "kind": "Confirmed evidence gap; not proof the underlying service fails",
+    "issue": "Knowledge-base page proposes answers with sources, but P36 public record only supports duties and initial UI, not answer quality",
+    "evidence": [
+      "cases__p36.html.txt:回答质量与检索效果需要对应问答和检索记录支持",
+      "browser-live.json:P36 and ai-agent service"
+    ],
+    "recommendation": "Only if available and authorized, add sanitized actual question, actual response, supporting source and unanswerable/conflict handling record. Keep test versus real deployment labels. If no record is available, retain current limitation rather than invent results.",
+    "acceptance": "Each demonstrated capability is tied to actual evidence; hypothetical examples and measured customer outcomes remain distinct"
+  },
+  {
+    "id": "CONTENT-04",
+    "priority": "P2",
+    "kind": "Buyer-decision information gap, not a technical indexing error",
+    "issue": "AI implementation service publishes a CNY500 floor without a concrete unit or example of what that floor covers",
+    "evidence": [
+      "services__fde-consulting.html.txt:实施服务低至500元起，具体范围和费用在开始前确认",
+      "Service page lists tool subscriptions, development, training and maintenance as separately agreed"
+    ],
+    "recommendation": "Confirm genuine minimum paid scope and exclusions with owner before adding a short scope/fee explanation to the existing page and corresponding FAQ. Do not invent a package, delivery time or free report.",
+    "acceptance": "Visitor can distinguish free initial discussion from paid implementation and identify when the quoted scope starts; bilingual FAQ/schema mirrors approved visible facts"
+  },
+  {
+    "id": "CONTENT-05",
+    "priority": "P2",
+    "kind": "Editorial focus judgment, not proven keyword cannibalization",
+    "issue": "Inventory service page also devotes a full section and a case to product copy/image work",
+    "evidence": [
+      "services__workflow-automation.html.txt:产品资料、文案和配图整理",
+      "Same page listsP12 alongsideP09/P10"
+    ],
+    "recommendation": "Keep inventory and repeated entry as the main subject; shorten or move content-workflow material to a supplementary reference to existing content case/home section. No new near-duplicate service pages needed.",
+    "acceptance": "Core explanation, evidence and acceptance remain about documents, stock, audit trail, error handling and actual costs; other content is clearly secondary"
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "checked_at": "2026-10-20T16:11:54.759107+08:00",
+  "scope": "Read-only new-skills SEO/GEO audit",
+  "revision": "fcafe9ca8a0e904465b2",
+  "local_dist_files_matching_published_manifest": 363,
+  "local_dist_hash_mismatches": [],
+  "server_preserved_verification_files_not_in_dist": [
+    "BingSiteAuth.xml",
+    "ByteDanceVerify.html",
+    "baidu_verify_codeva-UabAhVS0s3.html",
+    "google0fc37373bc2d604d.html",
+    "sogousiteverification.txt",
+    "yandex_56b4e9c66008d8fa.html"
+  ],
+  "verification_files_evidence": "Earlier deployment receipt preserved 6; not re-requested this audit",
+  "presentation_script_style_assets_unchanged": 29,
+  "indexable_html_parsed": 294,
+  "article_detail_pages": 204,
+  "core_snapshots": 17,
+  "structural_errors": [],
+  "cross_language_main_link_defects": 2,
+  "browser_wrong_language_landing": {
+    "check": "keyboard_inline_service_actual_landing",
+    "h1": "中小企业 AI 落地实施服务",
+    "lang": "zh-CN",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.eliai.cn/#eli",
+            "@type": "Person",
+            "description": "初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。",
+            "email": "[REDACTED_EMAIL]",
+            "jobTitle": "FDE · 贴近业务，选工具、改流程",
+            "name": "Eli",
+            "sameAs": [
+              "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+              "https://space.bilibili.com/432834855",
+              "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+              "https://www.youtube.com/@EliChao-m9o6r",
+              "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+              "https://x.com/cczij1112",
+              "https://weibo.com/u/7720929036",
+              "https://www.tiktok.com/@elimakesapps",
+              "https://www.instagram.com/eliaifde/",
+              "https://www.facebook.com/profile.php?id=61594512757125"
+            ],
+            "url": "https://www.eliai.cn/about.html"
+          },
+          {
+            "@id": "https://www.eliai.cn/#website",
+            "@type": "WebSite",
+            "inLanguage": [
+              "zh-CN",
+              "en"
+            ],
+            "name": "Eli",
+            "publisher": {
+              "@id": "https://www.eliai.cn/#eli"
+            },
+            "url": "https://www.eliai.cn/"
+          },
+          {
+            "@id": "https://www.eliai.cn/services/fde-consulting.html#service",
+            "@type": "Service",
+            "description": "每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。",
+            "name": "中小企业 AI 落地实施服务",
+            "provider": {
+              "@id": "https://www.eliai.cn/#eli"
+            },
+            "url": "https://www.eliai.cn/services/fde-consulting.html"
+          },
+          {
+            "@id": "https://www.eliai.cn/services/fde-consulting.html#questions",
+            "@type": "FAQPage",
+            "inLanguage": "zh-CN",
+            "isPartOf": {
+              "@id": "https://www.eliai.cn/services/fde-consulting.html#page"
+            },
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "可以。描述一项每天反复做的工作即可，我会先了解业务，再讨论技术选择。"
+                },
+                "name": "不懂 AI，也可以咨询吗？"
+              },
+              {
+                "@type": "Question",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "沟通方式、现场调研、实施周期与交付范围在合作前确认。免费初次沟通不包含持续驻场服务。"
+                },
+                "name": "FDE 咨询一定包含驻场吗？"
+              }
+            ],
+            "url": "https://www.eliai.cn/services/fde-consulting.html#questions"
+          },
+          {
+            "@id": "https://www.eliai.cn/services/fde-consulting.html#page",
+            "@type": "WebPage",
+            "author": {
+              "@id": "https://www.eliai.cn/#eli"
+            },
+            "description": "面向中小企业和工作室的 AI 实施服务。先梳理重复录入、资料查找等费时工作，再选择现成工具、调整流程或做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。",
+            "hasPart": {
+              "@id": "https://www.eliai.cn/services/fde-consulting.html#questions"
+            },
+            "inLanguage": "zh-CN",
+            "isPartOf": {
+              "@id": "https://www.eliai.cn/#website"
+            },
+            "mainEntity": {
+              "@id": "https://www.eliai.cn/services/fde-consulting.html#service"
+            },
+            "name": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli",
+            "url": "https://www.eliai.cn/services/fde-consulting.html"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.eliai.cn/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+  },
+  "site_edits": 0,
+  "builds": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "indexing_requests": 0,
+  "emails": 0,
+  "active_model_queries": 0,
+  "traffic_attribution": "Own browser QA only, no new organic-performance claims",
+  "report": "report.md",
+  "evidence_sha256": {
+    "summary.json": "1cc52d8f0e6b52c1f5b619cc1870c9348db6e5efee50511d48ff48ebfd67b9aa",
+    "cross-language-landing.jpg": "5ea83bfa0ae3c293630317f6af77882636817ffa926f65613a2b8eaa2a9764c0",
+    "cross-language-main-links.json": "ed26b8ec8d0231f4162493f844f852e755ea626a002a1801ba6fd424f10c5b6b",
+    "summary-first-pass.json": "1dad39e821d90240e99050c395925d98409ab2d15047193c6150885a12c3e946",
+    "audit_saved.py": "4295436a2d8cc5d6c576493b39e9b9e9371734bf1c0b5d662848843dbb607d84",
+    "report.md": "70b86e5fb4bdde7da8955c9d816d6a75d2554dfacca186be2c39a06c08996549",
+    "en-consultation-article.txt": "dda18f40c63ce702d1527b99379b0a8c7f70eb1f136d5c8a03efccaabe7da563",
+    "image-flags.json": "0dc3cc530771dc958fcf2a3e8f5c49eb0b8033c61c61461c55106e1a0bab3751",
+    "repeated-paragraphs.json": "25b9a76bf1aaef0ec42c1ffe3683995d41e9d6d2799eb1dc96a761ecfd83aac9",
+    "browser-validation.json": "f7e4d6be9f75b0f40fce579b49da24df05f5f92193271cc55e69c3e42f44527d",
+    "core-parsed.json": "a5be435be7a26982fa8c2bb378fe4800014e2941458e3a672800e467602fbe5c",
+    "image-opportunities.json": "213cf52cc1bad00753314beb20acd0d45aa9651ee98f974c0964c9f927d75fc9",
+    "repetition-triage.json": "2f5638891a14aca025cc76ddcc55e9b1d4fb1c1fb484af33a7bf4fff9d4fa4e7",
+    "all-main-links.json": "ad6e71c82279fac12f45729142f866aae7be6802836d153c7dbbd7ae9f8f306a",
+    "core-reading.json": "66ca699cc2bc921162b9e9c63aaa4e959419f9063c8500c411fd01617371aa25"
+  }
+}

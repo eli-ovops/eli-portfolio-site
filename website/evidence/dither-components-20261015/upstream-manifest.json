@@ -1,0 +1,52 @@
+[
+  {
+    "file": "AnimatedList.css",
+    "sha256": "c9b74ad88b92e9836b6ec91ad21170da5d5325cfd0a1a18d1a863e545d8baffc",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "AnimatedList.jsx",
+    "sha256": "bd554c09360298bca5b8d74a79595d22fd1c4c4aeb56ab4548eff412385bd593",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "DitherVeil.css",
+    "sha256": "e26d3a59edcabc0b117f832abff3b3d99ac5855e1275a842c6d58bf0f585fc76",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "DitherVeil.jsx",
+    "sha256": "de0cd4b097c0f7faa2abcaa7d737df944e0123b7a07f197c093bcc14c5ef4451",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "GradientText.css",
+    "sha256": "9ff55e744f20f542c810577403c3fd3d1baba0210e4ab1fa5fa0bb1e28fb0c89",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "GradientText.jsx",
+    "sha256": "a4bf9d9a86e153239aabe4cbb3ed4566b72ad150a3e24c956866deb83e351f3f",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "MagicBento.css",
+    "sha256": "5ccc3d3d1a9eb9899635eef390a524428622a66e190e573e1d212e71fb1d1cb6",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "MagicBento.jsx",
+    "sha256": "e859218916383eedccc6a049b4aadd6efb1e588c5a73c55c2fc50e6f6490e492",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "Stepper.css",
+    "sha256": "417223c9c56157b27bae7d7214e3fb3a3c8da65e69c6935c6a199fc22b151436",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  },
+  {
+    "file": "Stepper.jsx",
+    "sha256": "9df93b5e34b767652dccd0cd56341a66792db742278310958d38bd4700fb4225",
+    "upstream_commit": "496968c4117e21278f13917201b7d615bc5e7450"
+  }
+]

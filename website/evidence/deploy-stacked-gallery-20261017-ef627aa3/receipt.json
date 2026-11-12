@@ -1,0 +1,51 @@
+{
+  "status": "PUBLISHED_LIVE_QA_PASSED_USER_APPROVED_FEEL_ESTABLISHED",
+  "recorded_at": "2026-10-17T11:25:59.029578+08:00",
+  "revision": "ef627aa38d38fa4ba886",
+  "public_url": "https://www.eliai.cn/",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261017-stacked-gallery-ef627aa3",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-cookie-labels-4214c0d6",
+  "archive_sha256": "370ce66e8a8352a7170c06803e9570f0d08b897e586e2ae2a23d4fb48d0cbfb6",
+  "files": 156,
+  "scope": "Approved current stacked cards, OA illustration, continuous bidirectional balanced sliding and caption-scroll fix; preserve current local copy, background effects and motion; no frosted glass added",
+  "validation": {
+    "static": "90 HTML,38 records,45 language pairs,88 sitemap URLs; static/localization/SEO checks passed",
+    "gallery_regressions": [
+      "scroll",
+      "gesture",
+      "follower",
+      "handoff"
+    ],
+    "remote_validation": "All156 release hashes matched; old155-file release intact;19 public HTTP checks",
+    "client_http": "11 public assets/page hashes matched, root canonical redirects passed",
+    "live_browser": "browser-checks.json",
+    "postflight": "postflight.json"
+  },
+  "unchanged": [
+    "nginx configuration",
+    "ERP services and data",
+    "IP preview",
+    "DNS",
+    "SSL",
+    "analytics implementation/configuration",
+    "indexing switch",
+    "five search verification files"
+  ],
+  "inactive_private_sources": "React/OGL experimental source and dependencies not published",
+  "limitations": [
+    "No physical device or all-browser validation",
+    "No FPS benchmark",
+    "No consultation message, email, phone call or WhatsApp sent",
+    "Analytics conversion report remains a separate unresolved item"
+  ],
+  "evidence": [
+    "plan.json",
+    "publish.json",
+    "postflight.json",
+    "deployed-manifest.json",
+    "browser-checks.json",
+    "public-http-checks.json",
+    "live-desktop-oa.png",
+    "live-mobile-320.png"
+  ]
+}

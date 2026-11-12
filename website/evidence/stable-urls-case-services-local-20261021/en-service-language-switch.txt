@@ -1,0 +1,116 @@
+Browser tab: 9, Title: "Inventory Reconciliation & Data Entry Automation | Eli", URL: "http://127.0.0.1:4178/en/services/workflow-automation.html#cases".
+1 AXWebArea Inventory Reconciliation & Data Entry Automation | Eli, URL: 127.0.0.1:4178/en/services/workflow-automation.html#cases
+	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/services/workflow-automation.html#main
+	3 container
+		4 link Description: Eli home, Value: 127.0.0.1:4178/en/index.html
+		5 container Main navigation
+			6 link Description: Home, Value: 127.0.0.1:4178/en/index.html
+			7 link Description: Projects, Value: 127.0.0.1:4178/en/records.html
+			8 link Description: Articles, Value: 127.0.0.1:4178/en/articles.html
+			9 link Description: About, Value: 127.0.0.1:4178/en/about.html
+			10 link Description: Switch to Chinese, Value: 127.0.0.1:4178/services/workflow-automation.html
+	11 container main
+		12 link Description: ← Explore business needs, Value: 127.0.0.1:4178/en/index.html#needs
+		13 text AI services
+		14 heading Inventory reconciliation and data entry automation, Value: 1
+			15 text Inventory reconciliation and data entry automation
+		16 text Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.
+		17 text Possible deliverables
+		18 content list
+			19 container
+				20 text ↳ One workflow change plan
+			21 container
+				22 text ↳ A usable tool or software pilot
+			23 container
+				24 text ↳ Checking and operating guidance
+		25 container service-proof
+			26 text Led barcode inventory development: stock movements, duplicate requests and corrections.
+			27 link Description: View the barcode inventory case ↗, Value: 127.0.0.1:4178/en/cases/p09.html
+		28 link Description: Discuss your entry and stock-checking needs for free ↗, Value: 127.0.0.1:4178/en/about.html#contact, ID: eli-consult-entry-1
+		29 link Description: More related cases ↓, Value: 127.0.0.1:4178/en/services/workflow-automation.html#cases
+		30 container
+			31 heading On this page, Value: 2
+				32 text On this page
+			33 container On this page
+				34 link Description: Which step should change first?, Value: 127.0.0.1:4178/en/services/workflow-automation.html#priority
+				35 link Description: Entry and inventory checks, Value: 127.0.0.1:4178/en/services/workflow-automation.html#inventory
+				36 link Description: Product information, copy and images, Value: 127.0.0.1:4178/en/services/workflow-automation.html#content
+				37 link Description: Check the improvement, not just the tool, Value: 127.0.0.1:4178/en/services/workflow-automation.html#acceptance
+				38 link Description: Inventory and content workflow experience, Value: 127.0.0.1:4178/en/services/workflow-automation.html#cases
+				39 link Description: Questions before starting, Value: 127.0.0.1:4178/en/services/workflow-automation.html#questions
+		40 container priority
+			41 heading Which step should change first?, Value: 2
+				42 text Which step should change first?
+			43 text Look for frequent work with reasonably clear rules and checkable inputs and outputs. Record who owns it, how long it takes and why rework happens. Identify repeated transfer or checking.
+			44 text Include subscriptions, staff learning, integrations and maintenance in the cost. A small change that works can be enough; do not add process just to use AI.
+		45 container inventory
+			46 heading Entry and inventory checks, Value: 2
+				47 text Entry and inventory checks
+			48 text Discuss duplicate entry, scattered stock movement records or manual reconciliation. Confirm business rules and access before choosing existing tools or custom inventory software.
+			49 text Quantities, documents and movement records must reconcile. Define correction, reversal and activity records. Use software validation for fixed rules and assess AI when unstructured content needs interpretation.
+		50 container content
+			51 heading Product information, copy and images, Value: 2
+				52 text Product information, copy and images
+			53 text Organize product facts, specifications and reusable assets, then assess AI for drafting copy or preparing images. A responsible person checks prices, specifications and brand wording before publication.
+			54 text Try one product type or channel. Check source completeness and the amount of editing required. Generation, human review and publication are separate steps with separate checks.
+		55 container acceptance
+			56 heading Check the improvement, not just the tool, Value: 2
+				57 text Check the improvement, not just the tool
+			58 text Compare similar tasks before and after the change for duration, repeated entry and rework while checking correctness. Staff understanding and recovery from mistakes are part of acceptance.
+			59 text Agree pilot scope and cost first, then expand only if results justify it. Existing tools such as WorkBuddy can be a starting point. Agree custom development, training and maintenance separately.
+		60 container cases
+			61 heading Inventory and content workflow experience, Value: 2
+				62 text Inventory and content workflow experience
+			63 text These projects illustrate different workflows. Each case distinguishes role, delivery status and validation scope; generating content does not establish automated publication.
+			64 heading Sanitaryware manufacturer inventory system ↗, Value: 3
+				65 link Description: Sanitaryware manufacturer inventory system ↗, Value: 127.0.0.1:4178/en/cases/p10.html
+			66 text Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.
+			67 heading Furniture barcode inventory system ↗, Value: 3
+				68 link Description: Furniture barcode inventory system ↗, Value: 127.0.0.1:4178/en/cases/p09.html
+			69 text Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.
+			70 heading Zhijing · AI content workbench ↗, Value: 3
+				71 link Description: Zhijing · AI content workbench ↗, Value: 127.0.0.1:4178/en/cases/p12.html
+			72 text Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.
+		73 container questions
+			74 heading Questions before starting, Value: 2
+				75 text Questions before starting
+			76 heading Does efficiency require AI?, Value: 3
+				77 text Does efficiency require AI?
+			78 text No. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first.
+			79 heading Can you promise a specific saving?, Value: 3
+				80 text Can you promise a specific saving?
+			81 text Assess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement.
+		82 container
+			83 heading Start with one task, Value: 2
+				84 text Start with one task
+			85 text Describe the current process, its slowest step and the result you want.
+			86 link Description: Discuss your entry and stock-checking needs for free ↗, Value: 127.0.0.1:4178/en/about.html#contact, ID: eli-consult-entry-2
+		87 text Related services
+		88 container
+			89 link Description: AI implementation for small businesses ↗, Value: 127.0.0.1:4178/en/services/fde-consulting.html
+			90 text  · 
+			91 link Description: Knowledge base setup and AI-assisted support ↗, Value: 127.0.0.1:4178/en/services/ai-agent.html
+	92 container
+		93 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/en/index.html
+		94 container Contact details
+			95 text Email
+			96 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			97 text Phone
+			98 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		99 container Page navigation
+			100 link Description: Projects ↗, Value: 127.0.0.1:4178/en/records.html
+			101 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/services/workflow-automation.html#main
+		102 container Social profiles
+			103 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			104 link Description: Bilibili, Value: space.bilibili.com/432834855
+			105 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			106 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			107 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			108 link Description: X, Value: x.com/cczij1112
+			109 link Description: Weibo, Value: weibo.com/u/7720929036
+			110 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			111 link Description: Instagram, Value: instagram.com/eliaifde/
+			112 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		113 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea Inventory Reconciliation & Data Entry Automation | Eli, URL: 127.0.0.1:4178/en/services/workflow-automation.html#cases

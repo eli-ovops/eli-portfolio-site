@@ -1,0 +1,137 @@
+{
+  "canonical": "https://www.eliai.cn/en/services/ai-agent.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Knowledge base setup and AI-assisted support"
+    },
+    {
+      "tag": "H2",
+      "text": "On this page"
+    },
+    {
+      "tag": "H2",
+      "text": "Answers or actions?"
+    },
+    {
+      "tag": "H2",
+      "text": "Start with lookup and recurring questions"
+    },
+    {
+      "tag": "H2",
+      "text": "What does a pilot need?"
+    },
+    {
+      "tag": "H2",
+      "text": "Assess evidence and behavior"
+    },
+    {
+      "tag": "H2",
+      "text": "Knowledge and support collaboration"
+    },
+    {
+      "tag": "H3",
+      "text": "UK water purification brand · RAG support ↗"
+    },
+    {
+      "tag": "H2",
+      "text": "Questions before starting"
+    },
+    {
+      "tag": "H3",
+      "text": "Do we have to train a model?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can an agent handle customer work autonomously?"
+    },
+    {
+      "tag": "H2",
+      "text": "Start with one task"
+    },
+    {
+      "tag": "H2",
+      "text": "Analytics & privacy"
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/services/ai-agent.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/services/ai-agent.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/services/ai-agent.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../index.html#needs",
+      "text": "← Explore business needs"
+    },
+    {
+      "href": "../cases/p36.html",
+      "text": "View the knowledge support case ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "Discuss your knowledge and support needs for free ↗"
+    },
+    {
+      "href": "#cases",
+      "text": "More related cases ↓"
+    },
+    {
+      "href": "#difference",
+      "text": "Answers or actions?"
+    },
+    {
+      "href": "#knowledge",
+      "text": "Start with lookup and recurring questions"
+    },
+    {
+      "href": "#pilot",
+      "text": "What does a pilot need?"
+    },
+    {
+      "href": "#acceptance",
+      "text": "Assess evidence and behavior"
+    },
+    {
+      "href": "#cases",
+      "text": "Knowledge and support collaboration"
+    },
+    {
+      "href": "#questions",
+      "text": "Questions before starting"
+    },
+    {
+      "href": "../cases/p36.html",
+      "text": "UK water purification brand · RAG support ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "Discuss your knowledge and support needs for free ↗"
+    },
+    {
+      "href": "fde-consulting.html",
+      "text": "AI implementation for small businesses ↗"
+    },
+    {
+      "href": "workflow-automation.html",
+      "text": "Inventory reconciliation and data entry automation ↗"
+    }
+  ],
+  "mainText": "← Explore business needs\nAI services\nKnowledge base setup and AI-assisted support\n\nProduct information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.\n\nPossible deliverables\n\nMaintainable knowledge base\nSource-backed answer pilot\nQuestion set and human handoff rules\n\nContributed to RAG support: knowledge preparation, retrieval setup and testing.\n\nView the knowledge support case ↗\nDiscuss your knowledge and support needs for free ↗\nMore related cases ↓\nOn this page\nAnswers or actions?\nStart with lookup and recurring questions\nWhat does a pilot need?\nAssess evidence and behavior\nKnowledge and support collaboration\nQuestions before starting\nAnswers or actions?\n\nA knowledge assistant focuses on finding information and answering questions. An AI agent may also call tools, connect steps or take actions. Answering a question does not establish reliable order changes or stock updates.\n\nRAG retrieves relevant material before generating an answer. A more complex agent needs clear task steps, available integrations and controlled permissions.\n\nStart with lookup and recurring questions\n\nReview product manuals, service rules or internal instructions: who maintains them, which version is valid, who can access them and what source should support an answer.\n\nWhen information conflicts, is outdated or lacks evidence, the assistant should say it cannot confirm and refer the issue to a person. Keep important commitments and external responses subject to human review.\n\nWhat does a pilot need?\n\nSelect authorized, redacted documents with known versions and representative questions. Separate questions that can be answered directly, need clarification or require human handling.\n\nTest retrieval, citations and answers first. For actions, assess interfaces, read and write access, confirmation, records and failure handling. Agree changes to existing systems separately.\n\nAssess evidence and behavior\n\nUse questions checked by business staff to assess retrieval, whether citations support the answer, outdated content handling and appropriate refusal when evidence is missing. Record error types before expanding.\n\nFor actions, also test the target object, duplicate execution, recovery and human takeover. Model choice, data volume, integrations and maintenance affect cost and need separate agreement.\n\nKnowledge and support collaboration\n\nIn the related RAG support project, I worked on knowledge preparation, retrieval configuration and testing. Illustrative answers are distinguished from project records. Tool-executing agents require a separate assessment.\n\nUK water purification brand · RAG support ↗\n\nContributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.\n\nQuestions before starting\nDo we have to train a model?\n\nNot necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training.\n\nCan an agent handle customer work autonomously?\n\nValidate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level.\n\nStart with one task\n\nDescribe the current process, its slowest step and the result you want.\n\nDiscuss your knowledge and support needs for free ↗\n\nRelated services\n\nAI implementation for small businesses ↗ · Inventory reconciliation and data entry automation ↗",
+  "metaDescription": "Help staff find product information and support teams answer recurring questions. Assess document preparation, retrieval and source-backed answers with version, access and human-review checks. Related project experience and a free initial consultation.",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/en/about.html\", \"description\": \"Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.\", \"jobTitle\": \"FDE · Practical tools and workflows\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/en/services/ai-agent.html#service\", \"name\": \"Knowledge base setup and AI-assisted support\", \"description\": \"Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.\", \"url\": \"https://www.eliai.cn/en/services/ai-agent.html\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"FAQPage\", \"@id\": \"https://www.eliai.cn/en/services/ai-agent.html#questions\", \"url\": \"https://www.eliai.cn/en/services/ai-agent.html#questions\", \"inLanguage\": \"en\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/en/services/ai-agent.html#page\"}, \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Do we have to train a model?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Not necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training.\"}}, {\"@type\": \"Question\", \"name\": \"Can an agent handle customer work autonomously?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Validate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level.\"}}]}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/en/services/ai-agent.html#page\", \"url\": \"https://www.eliai.cn/en/services/ai-agent.html\", \"name\": \"Business Knowledge Base Setup \\u0026 AI-Assisted Support | Eli\", \"description\": \"Help staff find product information and support teams answer recurring questions. Assess document preparation, retrieval and source-backed answers with version, access and human-review checks. Related project experience and a free initial consultation.\", \"inLanguage\": \"en\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"mainEntity\": {\"@id\": \"https://www.eliai.cn/en/services/ai-agent.html#service\"}, \"hasPart\": {\"@id\": \"https://www.eliai.cn/en/services/ai-agent.html#questions\"}}]}"
+  ],
+  "title": "Business Knowledge Base Setup & AI-Assisted Support | Eli",
+  "url": "https://www.eliai.cn/en/services/ai-agent.html"
+}

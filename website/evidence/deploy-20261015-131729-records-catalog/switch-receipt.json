@@ -1,0 +1,9 @@
+{
+  "status": "SWITCHED",
+  "release": "20261015-131729-records-catalog",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-133040-boss-consult",
+  "target": "/srv/eli-sites/portfolio/releases/20261015-131729-records-catalog",
+  "files_verified": 138,
+  "indexing": "DISABLED",
+  "switched_at": "2026-10-15T05:18:00.204477+00:00"
+}

@@ -1,0 +1,176 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: ../en/cases/p10.html
+      - text: EN
+- main:
+  - link "← 返回项目库":
+    - /url: ../records.html
+  - generic: 网站与工具
+  - heading "洁具行业某大型 B 端厂商库存管理系统" [level=1]:
+    - generic: 洁具行业某大型 B 端厂商库存管理系统
+  - paragraph: 已交付
+  - paragraph: 围绕产品规格、采购、退货与盘点适配库存流程，连接 PC 与 H5 入口。
+  - figure "查看图片 ↗":
+    - link "放大截图：洁具行业某大型 B 端厂商库存管理系统":
+      - /url: ../assets/public-cases/p10.png
+      - img "洁具行业某大型 B 端厂商库存管理系统脱敏界面展示"
+    - link "查看图片 ↗":
+      - /url: ../assets/public-cases/p10.png
+  - term: 我的工作
+  - definition: 独立负责需求、底座适配及交付
+  - term: 交付状态
+  - definition: 已交付
+  - complementary:
+    - heading "内容概览" [level=2]
+    - navigation "案例内容":
+      - link "项目背景":
+        - /url: "#why"
+      - link "承担职责":
+        - /url: "#role"
+      - link "工作内容":
+        - /url: "#outputs"
+      - link "实施方法":
+        - /url: "#process"
+      - link "交付与反馈":
+        - /url: "#result"
+      - link "技术与实现":
+        - /url: "#technical"
+  - heading "项目背景" [level=2]
+  - paragraph: 客户需要以库存管理为核心，连接产品规格、采购、退货与盘点。系统中的数量和状态需要与实际业务操作一致。
+  - heading "承担职责" [level=2]
+  - paragraph: 独立负责需求沟通、业务梳理、底座适配开发及交付。
+  - heading "工作内容" [level=2]
+  - paragraph: 基于成熟底座适配库存业务，连接 PC 与 H5 入口，包含资料、采购、库存及业务概览。
+  - heading "实施方法" [level=2]
+  - paragraph: 半天需求沟通后明确范围。客户后续沟通有限，我结合前期调研和行业理解推进实现。
+  - paragraph: 复查时交叉核对单据、库存和流水，避免只凭页面提示判断成功。下方展示一次盘点样例。
+  - heading "一次盘点复查" [level=3]
+  - paragraph: 2026 年 9 月 23 日的测试记录：测试仓内某规格账面 1 件，实盘 0 件。提交后交叉核对三个结果。
+  - table "一次盘点复查":
+    - rowgroup:
+      - row "核对对象 记录结果":
+        - columnheader "核对对象"
+        - columnheader "记录结果"
+    - rowgroup:
+      - row "盘点单据 原数量 1，实盘 0，状态已盘":
+        - rowheader "盘点单据"
+        - cell "原数量 1，实盘 0，状态已盘"
+      - row "测试仓库存 从 1 件扣减为 0 件":
+        - rowheader "测试仓库存"
+        - cell "从 1 件扣减为 0 件"
+      - row "出入库流水 对应规格记 −1 件":
+        - rowheader "出入库流水"
+        - cell "对应规格记 −1 件"
+  - paragraph: 这是历史盘亏样例，不代表所有业务组合均通过。同期九项复查为八项具体样例通过、一项发现问题；此处不据旧记录判断系统当前状态。
+  - heading "交付与反馈" [level=2]
+  - paragraph: 历时约两个月完成系统交付。暂无量化使用效果数据。
+  - heading "技术与实现" [level=2]
+  - list:
+    - listitem: Java
+    - listitem: Spring Boot
+    - listitem: Vue
+    - listitem: MySQL
+    - listitem: Redis
+    - listitem: Nginx
+  - paragraph: PC 与 H5 入口连接业务后端，围绕库存、采购、退货与盘点组织流程；基于成熟底座进行业务适配。
+  - heading "实现流程" [level=3]
+  - list "实现流程":
+    - strong: 业务入口
+    - paragraph: Vue PC 与 H5
+    - strong: 业务服务
+    - paragraph: Spring Boot 接口
+    - strong: 数据存储
+    - paragraph: MySQL 与 Redis
+    - strong: 试部署
+    - paragraph: Linux / Nginx 环境
+  - heading "验证范围" [level=3]
+  - paragraph: 已有构建、试部署与业务复查记录；上方盘点表展示单据、库存和流水的交叉核对。
+  - paragraph:
+    - link "某家具品牌扫码库存系统 ↗":
+      - /url: p09.html
+  - paragraph:
+    - link "某律师事务所 OA 系统 ↗":
+      - /url: p04.html
+  - region "聊聊你的业务":
+    - heading "聊聊你的业务" [level=2]
+    - paragraph: 不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。
+    - paragraph:
+      - link "查看库存核对与流程自动化服务":
+        - /url: ../services/workflow-automation.html
+        - text: 查看库存核对与流程自动化服务
+        - generic: ↗
+    - link "免费聊聊":
+      - /url: ../about.html#contact
+      - text: 免费聊聊
+      - generic: ↗
+  - link "更多项目":
+    - /url: ../records.html
+    - text: 更多项目
+    - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

@@ -1,0 +1,30 @@
+{
+  "time": "2026-10-16T07:45:39.034575+00:00",
+  "status": "PUBLISHED_LIVE_QA_PASSED_V1_ESTABLISHED",
+  "revision": "f8690e826c7334c83a71",
+  "url": "https://www.eliai.cn/",
+  "release": "20261016-v1-f8690e82",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261016-v1-f8690e82",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-baidu-native-178520c8",
+  "package_sha256": "9a61ac800f4d262b6b523664aa6e115f89fd426229ed9e220a96e0459db6b797",
+  "files_verified_public": 155,
+  "browser_checks_reference": "browser-checks.json",
+  "rollback": "Atomic replacement of /srv/eli-sites/portfolio/domain-current with a symlink to previous_retained; previous directory is intact. No nginx reload needed.",
+  "server_backup": "/srv/eli-sites/portfolio/backups/20261016-v1-f8690e82",
+  "unchanged": [
+    "nginx configurations",
+    "DNS",
+    "HTTPS configuration",
+    "IP preview target",
+    "ERP/mysql/redis services",
+    "analytics implementation and settings",
+    "production indexing policy"
+  ],
+  "analytics_open_item": "Baidu free conversion report remains independently unresolved. No dashboard operations, paid trial, goal or provider changes in this release.",
+  "limits": [
+    "Browser simulated viewport, no physical handset",
+    "No claim for all browser engines or FPS",
+    "No email/phone/WhatsApp message sent",
+    "Baidu conversion report not part of V1 release QA"
+  ]
+}

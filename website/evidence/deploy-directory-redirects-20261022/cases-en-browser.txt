@@ -1,0 +1,357 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: index.html
+    - link "Projects":
+      - /url: records.html
+    - link "Articles":
+      - /url: articles.html
+    - link "About":
+      - /url: about.html
+    - link "Switch to Chinese":
+      - /url: ../records.html
+      - text: 中文
+- main:
+  - heading "Project library" [level=1]:
+    - generic: Project library
+  - paragraph: Client work, product development and research.
+  - generic "Project filters":
+    - button "All" [pressed]
+    - button "Client work"
+    - button "Websites & tools"
+    - button "Mobile apps"
+    - button "Content & research"
+    - button "Methods & tools"
+  - generic: Search projects
+  - searchbox "Search projects"
+  - paragraph: Client work spans project types; filters may overlap.
+  - paragraph: 38 projects
+  - generic: Featured first
+  - generic "Search tips":
+    - text: Search tips
+    - generic: +
+  - list:
+    - link "P10 Websites & tools Sanitaryware manufacturer inventory system Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.":
+      - /url: cases/p10.html
+      - text: P10
+      - generic: Websites & tools
+      - generic: Sanitaryware manufacturer inventory system
+      - generic: Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.
+      - generic: ↗
+    - link "P36 Client work UK water purification brand · RAG support Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.":
+      - /url: cases/p36.html
+      - text: P36
+      - generic: Client work
+      - generic: UK water purification brand · RAG support
+      - generic: Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.
+      - generic: ↗
+    - link "P09 Websites & tools Furniture barcode inventory system Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.":
+      - /url: cases/p09.html
+      - text: P09
+      - generic: Websites & tools
+      - generic: Furniture barcode inventory system
+      - generic: Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.
+      - generic: ↗
+    - link "P04 Client work Law firm office system Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.":
+      - /url: cases/p04.html
+      - text: P04
+      - generic: Client work
+      - generic: Law firm office system
+      - generic: Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.
+      - generic: ↗
+    - link "P02 Client work Shenzhen charity foundation Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.":
+      - /url: cases/p02.html
+      - text: P02
+      - generic: Client work
+      - generic: Shenzhen charity foundation
+      - generic: Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.
+      - generic: ↗
+    - link "P05 Client work UK water purification brand marketing Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.":
+      - /url: cases/p05.html
+      - text: P05
+      - generic: Client work
+      - generic: UK water purification brand marketing
+      - generic: Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.
+      - generic: ↗
+    - link "P01 Methods & tools Enterprise client projects Contributed to nonprofit and law firm websites, an office system, UK brand marketing and AI support, with work on requirements, planning and demo development.":
+      - /url: cases/p01.html
+      - text: P01
+      - generic: Methods & tools
+      - generic: Enterprise client projects
+      - generic: Contributed to nonprofit and law firm websites, an office system, UK brand marketing and AI support, with work on requirements, planning and demo development.
+      - generic: ↗
+    - link "P03 Client work Shenzhen law firm website Contributed to a law firm website, bringing together services, lawyer profiles, news and inquiry channels through a coherent content structure.":
+      - /url: cases/p03.html
+      - text: P03
+      - generic: Client work
+      - generic: Shenzhen law firm website
+      - generic: Contributed to a law firm website, bringing together services, lawyer profiles, news and inquiry channels through a coherent content structure.
+      - generic: ↗
+    - link "P06 Websites & tools AI order entry interaction prototype Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.":
+      - /url: cases/p06.html
+      - text: P06
+      - generic: Websites & tools
+      - generic: AI order entry interaction prototype
+      - generic: Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.
+      - generic: ↗
+    - link "P07 Websites & tools Furniture brand website Led development of a website for international buyers, combining product, factory and gallery content with language switching and a structured inquiry flow.":
+      - /url: cases/p07.html
+      - text: P07
+      - generic: Websites & tools
+      - generic: Furniture brand website
+      - generic: Led development of a website for international buyers, combining product, factory and gallery content with language switching and a structured inquiry flow.
+      - generic: ↗
+    - link "P08 Websites & tools Furniture product catalog Organized product images, models, dimensions and specifications into print and mobile catalogs, distinguishing real product photos from generated scene imagery.":
+      - /url: cases/p08.html
+      - text: P08
+      - generic: Websites & tools
+      - generic: Furniture product catalog
+      - generic: Organized product images, models, dimensions and specifications into print and mobile catalogs, distinguishing real product photos from generated scene imagery.
+      - generic: ↗
+    - link "P11 Websites & tools UK and Australia small business website experiments Researched public information on small businesses, built website redesign demos, checked mobile browsing and inquiry flows, and prepared quotes and collaboration materials.":
+      - /url: cases/p11.html
+      - text: P11
+      - generic: Websites & tools
+      - generic: UK and Australia small business website experiments
+      - generic: Researched public information on small businesses, built website redesign demos, checked mobile browsing and inquiry flows, and prepared quotes and collaboration materials.
+      - generic: ↗
+    - link "P12 Websites & tools Zhijing · AI content workbench Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.":
+      - /url: cases/p12.html
+      - text: P12
+      - generic: Websites & tools
+      - generic: Zhijing · AI content workbench
+      - generic: Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.
+      - generic: ↗
+    - link "P13 Mobile apps Pocket Rove Led a bilingual daily task app with completion tracking, history and souvenirs, adding notification and payment entry points and preparing App Store presentation assets.":
+      - /url: cases/p13.html
+      - text: P13
+      - generic: Mobile apps
+      - generic: Pocket Rove
+      - generic: Led a bilingual daily task app with completion tracking, history and souvenirs, adding notification and payment entry points and preparing App Store presentation assets.
+      - generic: ↗
+    - link "P14 Mobile apps Focumi Developed a pet companion focus app with pet adoption, duration goals and state transitions, integrating permissions, Live Activities and notifications.":
+      - /url: cases/p14.html
+      - text: P14
+      - generic: Mobile apps
+      - generic: Focumi
+      - generic: Developed a pet companion focus app with pet adoption, duration goals and state transitions, integrating permissions, Live Activities and notifications.
+      - generic: ↗
+    - link "P15 Mobile apps PetSocial (now HelloTail) Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.":
+      - /url: cases/p15.html
+      - text: P15
+      - generic: Mobile apps
+      - generic: PetSocial (now HelloTail)
+      - generic: Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.
+      - generic: ↗
+    - link "P16 Mobile apps LocalStamp · location watermark camera Built a location and time watermark camera with capture, positioning, three watermark styles, local image generation, photo saving and sharing, including permission failure feedback.":
+      - /url: cases/p16.html
+      - text: P16
+      - generic: Mobile apps
+      - generic: LocalStamp · location watermark camera
+      - generic: Built a location and time watermark camera with capture, positioning, three watermark styles, local image generation, photo saving and sharing, including permission failure feedback.
+      - generic: ↗
+    - link "P17 Mobile apps I Ching · reading prototype Built a six-round casting and reading prototype with the original texts of 64 hexagrams, open reflection questions, local history and record import and export.":
+      - /url: cases/p17.html
+      - text: P17
+      - generic: Mobile apps
+      - generic: I Ching · reading prototype
+      - generic: Built a six-round casting and reading prototype with the original texts of 64 hexagrams, open reflection questions, local history and record import and export.
+      - generic: ↗
+    - link "P18 Mobile apps Study duration reminder prototype Built a study reminder prototype with app goals and reminder times, usage callbacks, date isolation and status display to validate reminder logic.":
+      - /url: cases/p18.html
+      - text: P18
+      - generic: Mobile apps
+      - generic: Study duration reminder prototype
+      - generic: Built a study reminder prototype with app goals and reminder times, usage callbacks, date isolation and status display to validate reminder logic.
+      - generic: ↗
+    - link "P19 Mobile apps Hairstyle try-on and stylist reference cards Built a hairstyle try-on prototype with three-view inputs, hair conditions and candidate comparisons, exploring landmark alignment, tracking and reference exports.":
+      - /url: cases/p19.html
+      - text: P19
+      - generic: Mobile apps
+      - generic: Hairstyle try-on and stylist reference cards
+      - generic: Built a hairstyle try-on prototype with three-view inputs, hair conditions and candidate comparisons, exploring landmark alignment, tracking and reference exports.
+      - generic: ↗
+    - link "P20 Websites & tools ClaimFlow · insurance claims concept Created a static insurance claims concept page presenting workflows, features, FAQs and illustrative interfaces to communicate product positioning and use cases.":
+      - /url: cases/p20.html
+      - text: P20
+      - generic: Websites & tools
+      - generic: ClaimFlow · insurance claims concept
+      - generic: Created a static insurance claims concept page presenting workflows, features, FAQs and illustrative interfaces to communicate product positioning and use cases.
+      - generic: ↗
+    - link "P21 Content & research Automated order workflow repair Repaired interrupted order and reconnection flows, adding order verification, protective-order checks, persistent auditing, notification backoff and duplicate-deployment prevention.":
+      - /url: cases/p21.html
+      - text: P21
+      - generic: Content & research
+      - generic: Automated order workflow repair
+      - generic: Repaired interrupted order and reconnection flows, adding order verification, protective-order checks, persistent auditing, notification backoff and duplicate-deployment prevention.
+      - generic: ↗
+    - link "P22 Content & research Cross-exchange order book evidence system Built a price-spread evidence pipeline that checks quote freshness, market depth, fees and quantity rules, preserving raw events for independent replay.":
+      - /url: cases/p22.html
+      - text: P22
+      - generic: Content & research
+      - generic: Cross-exchange order book evidence system
+      - generic: Built a price-spread evidence pipeline that checks quote freshness, market depth, fees and quantity rules, preserving raw events for independent replay.
+      - generic: ↗
+    - link "P23 Content & research Trading strategy research framework Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.":
+      - /url: cases/p23.html
+      - text: P23
+      - generic: Content & research
+      - generic: Trading strategy research framework
+      - generic: Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.
+      - generic: ↗
+    - link "P24 Content & research Serenity · company and industry research Organized company and industry candidates, checking catalysts, valuation assumptions and counterevidence against company disclosures and official sources.":
+      - /url: cases/p24.html
+      - text: P24
+      - generic: Content & research
+      - generic: Serenity · company and industry research
+      - generic: Organized company and industry candidates, checking catalysts, valuation assumptions and counterevidence against company disclosures and official sources.
+      - generic: ↗
+    - link "P25 Mobile apps Personalized AI news brief Designed interest profiles, source selection, deduplication and briefing flows, tested public feed parsing, and documented sample outputs and development requirements.":
+      - /url: cases/p25.html
+      - text: P25
+      - generic: Mobile apps
+      - generic: Personalized AI news brief
+      - generic: Designed interest profiles, source selection, deduplication and briefing flows, tested public feed parsing, and documented sample outputs and development requirements.
+      - generic: ↗
+    - link "P26 Content & research AI short videos and app promotion assets Turned app features into video scripts and storyboards, producing subtitles, screenshots and audio edits with versioned assets for different social platforms.":
+      - /url: cases/p26.html
+      - text: P26
+      - generic: Content & research
+      - generic: AI short videos and app promotion assets
+      - generic: Turned app features into video scripts and storyboards, producing subtitles, screenshots and audio edits with versioned assets for different social platforms.
+      - generic: ↗
+    - link "P27 Content & research Faceless podcast and history channel research Researched sample channels, topics and production costs for faceless podcasts and historical stories, preparing a first-episode plan and production guidelines.":
+      - /url: cases/p27.html
+      - text: P27
+      - generic: Content & research
+      - generic: Faceless podcast and history channel research
+      - generic: Researched sample channels, topics and production costs for faceless podcasts and historical stories, preparing a first-episode plan and production guidelines.
+      - generic: ↗
+    - link "P28 Content & research Independent app opportunities and localization Researched small app opportunities in knitting, photography, travel and fitness, comparing needs and alternatives to produce screening reports and direction scores.":
+      - /url: cases/p28.html
+      - text: P28
+      - generic: Content & research
+      - generic: Independent app opportunities and localization
+      - generic: Researched small app opportunities in knitting, photography, travel and fitness, comparing needs and alternatives to produce screening reports and direction scores.
+      - generic: ↗
+    - link "P29 Content & research AI Project Radar Organized AI ecosystem leads, public sources, scoring rules and daily report templates into an intelligence task package that can be triggered manually.":
+      - /url: cases/p29.html
+      - text: P29
+      - generic: Content & research
+      - generic: AI Project Radar
+      - generic: Organized AI ecosystem leads, public sources, scoring rules and daily report templates into an intelligence task package that can be triggered manually.
+      - generic: ↗
+    - link "P30 Methods & tools AI collaboration workflows Organized task ownership, tool selection and output checks into clear project continuation and file management workflows.":
+      - /url: cases/p30.html
+      - text: P30
+      - generic: Methods & tools
+      - generic: AI collaboration workflows
+      - generic: Organized task ownership, tool selection and output checks into clear project continuation and file management workflows.
+      - generic: ↗
+    - link "P31 Methods & tools Mac storage audit and safe cleanup Audited storage and cleanup scope by project, protecting unique data and runtime dependencies while checking external copies, file hashes and space changes.":
+      - /url: cases/p31.html
+      - text: P31
+      - generic: Methods & tools
+      - generic: Mac storage audit and safe cleanup
+      - generic: Audited storage and cleanup scope by project, protecting unique data and runtime dependencies while checking external copies, file hashes and space changes.
+      - generic: ↗
+    - link "P32 Methods & tools Skills and knowledge organization Organized skill sources, knowledge indexes and learning steps, documenting tool scope, dependencies and reuse through searchable entry points.":
+      - /url: cases/p32.html
+      - text: P32
+      - generic: Methods & tools
+      - generic: Skills and knowledge organization
+      - generic: Organized skill sources, knowledge indexes and learning steps, documenting tool scope, dependencies and reuse through searchable entry points.
+      - generic: ↗
+    - link "P33 Methods & tools Ox Alpha · remote model client Built an isolated remote model trial client with pricing and availability checks, masked key input, separate configuration and a specified invocation interface.":
+      - /url: cases/p33.html
+      - text: P33
+      - generic: Methods & tools
+      - generic: Ox Alpha · remote model client
+      - generic: Built an isolated remote model trial client with pricing and availability checks, masked key input, separate configuration and a specified invocation interface.
+      - generic: ↗
+    - link "P34 Methods & tools Upwork / UUMIT · collaboration preparation Prepared service scopes, opportunity scores and proposals from personal capabilities and project experience to match potential client needs.":
+      - /url: cases/p34.html
+      - text: P34
+      - generic: Methods & tools
+      - generic: Upwork / UUMIT · collaboration preparation
+      - generic: Prepared service scopes, opportunity scores and proposals from personal capabilities and project experience to match potential client needs.
+      - generic: ↗
+    - link "P35 Content & research Chemical engineering thesis preparation Organized university requirements, topic materials and working files into a handover package to support research, writing and progress tracking.":
+      - /url: cases/p35.html
+      - text: P35
+      - generic: Content & research
+      - generic: Chemical engineering thesis preparation
+      - generic: Organized university requirements, topic materials and working files into a handover package to support research, writing and progress tracking.
+      - generic: ↗
+    - link "N01 Mobile apps APNs remote notification validation Built a minimal notification validation interface, handling permission and device registration and preparing a single-device experiment and evidence plan.":
+      - /url: cases/n01.html
+      - text: N01
+      - generic: Mobile apps
+      - generic: APNs remote notification validation
+      - generic: Built a minimal notification validation interface, handling permission and device registration and preparing a single-device experiment and evidence plan.
+      - generic: ↗
+    - link "N02 Content & research OpenAI DevDay · official content research Organized research into official DevDay content, focusing on developer capabilities, availability and the boundaries of potential startup applications.":
+      - /url: cases/n02.html
+      - text: N02
+      - generic: Content & research
+      - generic: OpenAI DevDay · official content research
+      - generic: Organized research into official DevDay content, focusing on developer capabilities, availability and the boundaries of potential startup applications.
+      - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

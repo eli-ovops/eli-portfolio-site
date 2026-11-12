@@ -1,0 +1,142 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: /
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: /
+    - link "项目库":
+      - /url: records.html
+    - link "文章":
+      - /url: articles.html
+    - link "关于":
+      - /url: about.html
+    - link "切换到英文版":
+      - /url: en/about.html
+      - text: EN
+- main:
+  - paragraph: FDE · 前沿部署工程师
+  - heading "关于我" [level=1]:
+    - generic: 关于我
+  - paragraph: 帮企业把 AI 用到日常工作里。
+  - link "免费聊聊":
+    - /url: "#contact"
+    - text: 免费聊聊
+    - generic: ↗
+  - paragraph: 你好，我是 Eli，一名来自中国的独立开发者。
+  - paragraph: 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。
+  - paragraph: 你不需要先懂 AI，也不必准备完整方案，可以从一件最费时间的事开始聊。初次咨询免费；如果需要进一步实施，我们会先确认范围和费用，再开始。
+  - figure "需要时，再开发软件。 揭开画面":
+    - img "机器人视觉插画"
+    - generic: 从一个小改动开始
+    - generic: 需要时，再开发软件。
+    - button "揭开画面": 揭开画面 ↗
+  - paragraph: 不知道从哪开始，也可以先聊。
+  - paragraph: 微信、电话或邮箱都可以，按你平时说话的方式描述就好。
+  - paragraph: 可以这样开口
+  - paragraph: 你好，我做的是___，现在最费时间的是___，想看看有没有简单的改进办法。
+  - figure "手机上可长按识别；或点开图片，保存后在微信扫一扫中从相册选择。":
+    - heading "微信" [level=3]
+    - link "放大微信二维码":
+      - /url: assets/wechat-qr.png
+      - img "Eli 的微信二维码"
+    - generic: 手机上可长按识别；或点开图片，保存后在微信扫一扫中从相册选择。
+  - paragraph: 邮箱
+  - link "[REDACTED_EMAIL] ↗":
+    - /url: mailto:[REDACTED_EMAIL]
+  - paragraph: 电话
+  - link "[REDACTED_PHONE] ↗":
+    - /url: tel:[REDACTED_PHONE]
+  - paragraph: WhatsApp
+  - link "[REDACTED_PHONE] ↗":
+    - /url: https://wa.me/[REDACTED_PHONE]
+  - region "怎么一起做？":
+    - heading "怎么一起做？" [level=2]
+    - list:
+      - generic: "01"
+      - heading "找问题" [level=4]
+      - paragraph: 先看哪件事最费时间。
+      - generic "展开做法":
+        - text: 展开做法
+        - generic: +
+      - generic: "02"
+      - heading "小范围试用" [level=4]
+      - paragraph: 先试一个工具或一个流程。
+      - generic "展开做法":
+        - text: 展开做法
+        - generic: +
+      - generic: "03"
+      - heading "落地交付" [level=4]
+      - paragraph: 交付后，跟进使用反馈。
+      - generic "展开做法":
+        - text: 展开做法
+        - generic: +
+  - region "常见合作问题":
+    - heading "常见合作问题" [level=2]
+    - generic "想用 AI，但不知道从哪开始？":
+      - generic: "01"
+      - generic: 想用 AI，但不知道从哪开始？
+      - generic: +
+    - generic "会怎么推进，费用怎么定？":
+      - generic: "02"
+      - generic: 会怎么推进，费用怎么定？
+      - generic: +
+    - generic "一定要开发一套系统吗？":
+      - generic: "03"
+      - generic: 一定要开发一套系统吗？
+      - generic: +
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: /
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

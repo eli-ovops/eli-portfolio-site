@@ -1,0 +1,1 @@
+Task-specific deployment preparation, immutable accepted-release backup, public candidate, deterministic package, server guards and QA receipts. All artifacts remain useful for recovery or acceptance. No source, node_modules, secrets, user-private documents or React experiment bundles in public package. Retain previous domain release; no cleanup or server configuration changes.

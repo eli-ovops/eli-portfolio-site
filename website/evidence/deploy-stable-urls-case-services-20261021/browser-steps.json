@@ -1,0 +1,640 @@
+{
+  "checked_at": "2026-10-21T01:48:34.179Z",
+  "traffic_classification": "owner QA; not organic search or customer consultation",
+  "phone_test": "browser viewport emulation, not physical device",
+  "steps": [
+    {
+      "label": "old-pv-normalized",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/records.html",
+          "text": "← 返回项目库"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 1320,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html#case-contact-title",
+      "width": 1335
+    },
+    {
+      "label": "p10-zh-mobile",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/records.html",
+          "text": "← 返回项目库"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "workflow-after-refresh",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html#needs",
+          "text": "← 返回业务场景"
+        }
+      ],
+      "h1": "库存核对与重复录入自动化",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "width": 360
+    },
+    {
+      "label": "workflow-to-p09",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html#service-proof",
+          "text": "← 返回服务介绍"
+        }
+      ],
+      "h1": "某家具品牌扫码库存系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p09.html?from=%2Fservices%2Fworkflow-automation.html%23service-proof",
+      "width": 360
+    },
+    {
+      "label": "p09-return-service",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html?pv=4bc544a5361e14236d53#needs",
+          "text": "← 返回业务场景"
+        }
+      ],
+      "h1": "库存核对与重复录入自动化",
+      "lang": "zh-CN",
+      "pvLinks": 26,
+      "scrollWidth": 345,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/services/workflow-automation.html?pv=4bc544a5361e14236d53#service-proof",
+      "width": 360
+    },
+    {
+      "label": "service-to-p10",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html#cases",
+          "text": "← 返回服务介绍"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Fservices%2Fworkflow-automation.html%23cases",
+      "width": 360
+    },
+    {
+      "label": "related-p09-keeps-service",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html#cases",
+          "text": "← 返回服务介绍"
+        }
+      ],
+      "h1": "某家具品牌扫码库存系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p09.html?from=%2Fservices%2Fworkflow-automation.html%23cases",
+      "width": 360
+    },
+    {
+      "label": "related-return-workflow",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html?pv=4bc544a5361e14236d53#needs",
+          "text": "← 返回业务场景"
+        }
+      ],
+      "h1": "库存核对与重复录入自动化",
+      "lang": "zh-CN",
+      "pvLinks": 26,
+      "scrollWidth": 345,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/services/workflow-automation.html?pv=4bc544a5361e14236d53#cases",
+      "width": 360
+    },
+    {
+      "label": "workflow-language-en",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Inventory reconciliation and data entry automation",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/en/services/workflow-automation.html#cases",
+      "width": 360
+    },
+    {
+      "label": "workflow-fresh-resources",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html#needs",
+          "text": "← 返回业务场景"
+        }
+      ],
+      "h1": "库存核对与重复录入自动化",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "width": 360
+    },
+    {
+      "label": "fresh-service-p10",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html#cases",
+          "text": "← 返回服务介绍"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Fservices%2Fworkflow-automation.html%23cases",
+      "width": 360
+    },
+    {
+      "label": "fresh-related-p09",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html#cases",
+          "text": "← 返回服务介绍"
+        }
+      ],
+      "h1": "某家具品牌扫码库存系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p09.html?from=%2Fservices%2Fworkflow-automation.html%23cases",
+      "width": 360
+    },
+    {
+      "label": "fresh-related-return",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html#needs",
+          "text": "← 返回业务场景"
+        }
+      ],
+      "h1": "库存核对与重复录入自动化",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/services/workflow-automation.html#cases",
+      "width": 360
+    },
+    {
+      "label": "p09-zh-360",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/records.html",
+          "text": "← 返回项目库"
+        }
+      ],
+      "h1": "某家具品牌扫码库存系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p09.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "p09-en-390",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html",
+          "text": "← Back to projects"
+        },
+        {
+          "href": "https://www.eliai.cn/en/cases/p09.html#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Furniture barcode inventory system",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html",
+          "text": "View inventory reconciliation and workflow automation services ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/en/cases/p09.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "p10-zh-360",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/records.html",
+          "text": "← 返回项目库"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "p10-en-390",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html",
+          "text": "← Back to projects"
+        },
+        {
+          "href": "https://www.eliai.cn/en/cases/p10.html#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Sanitaryware manufacturer inventory system",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html",
+          "text": "View inventory reconciliation and workflow automation services ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/en/cases/p10.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "p36-zh-360",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/records.html",
+          "text": "← 返回项目库"
+        }
+      ],
+      "h1": "英国某净水品牌 RAG 智能客服定制",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 345,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/ai-agent.html",
+          "text": "查看企业知识库搭建服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p36.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "p36-en-390",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html",
+          "text": "← Back to projects"
+        },
+        {
+          "href": "https://www.eliai.cn/en/cases/p36.html#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "UK water purification brand · RAG support",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/en/services/ai-agent.html",
+          "text": "View enterprise knowledge base setup services ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/en/cases/p36.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "p36-en-direct-service",
+      "back": [],
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 390,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/en/services/ai-agent.html",
+      "width": 390
+    },
+    {
+      "label": "case-en-consultation",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/about.html#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "About me",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/en/about.html#contact",
+      "width": 390
+    },
+    {
+      "label": "contact-language-zh",
+      "back": [],
+      "h1": "关于我",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/about.html#contact",
+      "width": 390
+    },
+    {
+      "label": "article-to-case",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/articles/inventory-reconciliation.html#case-records",
+          "text": "← 返回文章"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Farticles%2Finventory-reconciliation.html%23case-records",
+      "width": 390
+    },
+    {
+      "label": "article-related-case",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/articles/inventory-reconciliation.html#case-records",
+          "text": "← 返回文章"
+        }
+      ],
+      "h1": "某家具品牌扫码库存系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p09.html?from=%2Farticles%2Finventory-reconciliation.html%23case-records",
+      "width": 390
+    },
+    {
+      "label": "article-return-complete",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/articles.html",
+          "text": "← 返回文章"
+        }
+      ],
+      "h1": "库存每天靠人工核对，先改哪一步？",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html#case-records",
+      "width": 390
+    },
+    {
+      "label": "home-to-case",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html?project=p10#work",
+          "text": "← 返回首页案例"
+        }
+      ],
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/services/workflow-automation.html",
+          "text": "查看库存核对与流程自动化服务 ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work",
+      "width": 390
+    },
+    {
+      "label": "home-return-project-retained",
+      "back": [],
+      "h1": "帮中小企业用好 AI从重复工作开始",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/index.html?project=p10#work",
+      "width": 390
+    },
+    {
+      "label": "english-library-filter",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html?category=Websites+%26+tools&q=inventory#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Project library",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/en/records.html?category=Websites+%26+tools&q=inventory",
+      "width": 390
+    },
+    {
+      "label": "english-filter-to-case",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html?category=Websites+%26+tools&q=inventory&return=p10",
+          "text": "← Back to projects"
+        },
+        {
+          "href": "https://www.eliai.cn/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DWebsites%2B%2526%2Btools%26q%3Dinventory%26return%3Dp10#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Sanitaryware manufacturer inventory system",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html",
+          "text": "View inventory reconciliation and workflow automation services ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DWebsites%2B%2526%2Btools%26q%3Dinventory%26return%3Dp10",
+      "width": 390
+    },
+    {
+      "label": "english-related-keeps-filter",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html?category=Websites+%26+tools&q=inventory&return=p10",
+          "text": "← Back to projects"
+        },
+        {
+          "href": "https://www.eliai.cn/en/cases/p09.html?from=%2Fen%2Frecords.html%3Fcategory%3DWebsites%2B%2526%2Btools%26q%3Dinventory%26return%3Dp10#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Furniture barcode inventory system",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [
+        {
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html",
+          "text": "View inventory reconciliation and workflow automation services ↗"
+        }
+      ],
+      "url": "https://www.eliai.cn/en/cases/p09.html?from=%2Fen%2Frecords.html%3Fcategory%3DWebsites%2B%2526%2Btools%26q%3Dinventory%26return%3Dp10",
+      "width": 390
+    },
+    {
+      "label": "english-return-filter",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/records.html?category=Websites+%26+tools&q=inventory#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Project library",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/en/records.html?category=Websites+%26+tools&q=inventory",
+      "width": 390
+    },
+    {
+      "label": "zh-case-consultation",
+      "back": [],
+      "h1": "关于我",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/about.html#contact",
+      "width": 390
+    },
+    {
+      "label": "p36-en-service-render-confirmed",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/en/services/ai-agent.html#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "h1": "Knowledge base setup and AI-assisted support",
+      "lang": "en",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/en/services/ai-agent.html",
+      "width": 390
+    },
+    {
+      "label": "knowledge-service-language-zh",
+      "back": [
+        {
+          "href": "https://www.eliai.cn/index.html#needs",
+          "text": "← 返回业务场景"
+        }
+      ],
+      "h1": "企业知识库搭建与客服辅助答疑",
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "scrollWidth": 375,
+      "serviceLinks": [],
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "width": 390
+    }
+  ]
+}

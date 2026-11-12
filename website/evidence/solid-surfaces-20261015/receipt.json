@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-15",
+  "status": "LOCAL_VALIDATED_NOT_PUBLISHED",
+  "revision": "73614ce47de9e2697bcf",
+  "preview": "http://127.0.0.1:4178/index.html?pv=73614ce47de9e2697bcf",
+  "source_changes": [
+    "DESIGN.md",
+    "assets/bits-ui.css",
+    "assets/bits-ui.js",
+    "assets/dither-veil.css",
+    "assets/editorial.css",
+    "assets/editorial.js",
+    "docs/\u4ea4\u4ed8\u4e0e\u9a8c\u8bc1.md",
+    "site.yaml",
+    "styles.css"
+  ],
+  "deployed": false,
+  "indexing_enabled": false,
+  "business_content_unchanged": true,
+  "checks": "check-runs.json",
+  "browser": "browser-checks.json",
+  "report": "report.md",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "routing_version": "ROUTING-2026-10-13-v4",
+  "user_visual_acceptance": "PENDING",
+  "open_issue": "Prior rapid-return header first-click observation remains unresolved"
+}

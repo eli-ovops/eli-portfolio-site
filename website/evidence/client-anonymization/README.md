@@ -1,0 +1,1 @@
+2026-10-06: This task folder holds local-only mask specifications, OCR counts and review receipts for the user-requested customer anonymization. It is not copied into dist. Original media remain unchanged.

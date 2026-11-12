@@ -1,0 +1,182 @@
+/* Signature motion: printed lines, a lifted photograph, and rolling case labels. */
+:root {
+  --motion-ease:cubic-bezier(.16,1,.3,1);
+  --reading-progress:0
+}
+.reading-progress {
+  position:fixed;
+  z-index:90;
+  inset:0 0 auto;
+  height:3px;
+  background:var(--accent);
+  transform:scaleX(var(--reading-progress));
+  transform-origin:left;
+  pointer-events:none
+}
+.motion-line {
+  display:block;
+  overflow:clip;
+  padding-bottom:.06em;
+  margin-bottom:-.06em
+}
+.motion-line-content {
+  display:block;
+  transform-origin:left bottom
+}
+.project-cursor {
+  display:none;
+  position:absolute;
+  z-index:2;
+  width:88px;
+  height:88px;
+  left:var(--cursor-x,50%);
+  top:var(--cursor-y,50%);
+  border-radius:50%;
+  color:var(--bg);
+  background:var(--accent);
+  border:1px solid rgba(21,23,19,.2);
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+  font-size:11px;
+  line-height:1.2;
+  opacity:0;
+  transform:translate(-50%,-50%) scale(.65);
+  transition:opacity 140ms ease-out,transform 360ms var(--motion-ease),left 100ms ease-out,top 100ms ease-out;
+  pointer-events:none
+}
+.cursor-arrow {
+  font-size:25px
+}
+.roll-title {
+  display:grid;
+  overflow:clip;
+  line-height:1.5
+}
+.roll-front,.roll-back {
+  grid-area:1/1;
+  transition:transform 440ms var(--motion-ease),opacity 300ms ease-out
+}
+.roll-back {
+  transform:translateY(110%);
+  color:var(--accent)
+}
+.client-story {
+  position:relative
+}
+.client-story-link>span,.personal-project-link>span {
+  transition:transform 440ms var(--motion-ease)
+}
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference) {
+  .motion-enhanced [data-tilt] {
+    transform:perspective(1100px) rotateX(var(--tilt-x,0deg)) rotateY(var(--tilt-y,0deg));
+    transition:transform 400ms var(--motion-ease),box-shadow 400ms var(--motion-ease)
+  }
+  .motion-enhanced [data-tilt].pointer-active {
+    box-shadow:0 20px 32px -24px rgba(41,42,36,.55)
+  }
+  .motion-enhanced .project-cursor {
+    display:flex
+  }
+  .pointer-active .project-cursor {
+    opacity:1;
+    transform:translate(-50%,-50%) scale(1)
+  }
+  .motion-enhanced [data-magnetic] {
+    transform:translate(var(--magnet-x,0px),var(--magnet-y,0px));
+    transition:transform 360ms var(--motion-ease),background 180ms ease-out
+  }
+  .motion-enhanced [data-magnetic]:active {
+    transform:translate(var(--magnet-x,0px),var(--magnet-y,0px)) scale(.96)
+  }
+  .client-story:hover .roll-front,.client-story:focus-within .roll-front,
+  .personal-project:hover .roll-front,.personal-project:focus-within .roll-front {
+    transform:translateY(-110%)
+  }
+  .client-story:hover .roll-back,.client-story:focus-within .roll-back,
+  .personal-project:hover .roll-back,.personal-project:focus-within .roll-back {
+    transform:translateY(0)
+  }
+  .client-story::before {
+    content:"";
+    position:absolute;
+    top:28px;
+    bottom:28px;
+    left:-15px;
+    width:2px;
+    background:var(--accent);
+    transform:scaleY(0);
+    transform-origin:bottom;
+    transition:transform 440ms var(--motion-ease)
+  }
+  .client-story:hover::before,.client-story:focus-within::before {
+    transform:scaleY(1)
+  }
+  .client-story:hover .client-story-link>span,
+  .personal-project:hover .personal-project-link>span {
+    transform:rotate(45deg) translateY(-2px)
+  }
+  [data-motion-portrait] {
+    transform:translateY(var(--portrait-drift,0px)) rotate(-2deg);
+    transition:transform 540ms var(--motion-ease)
+  }
+  [data-motion-portrait]:hover {
+    transform:translateY(var(--portrait-drift,0px)) rotate(2deg) scale(1.025)
+  }
+  .brand-symbol {
+    display:inline-block;
+    transition:transform 600ms var(--motion-ease)
+  }
+  .brand:hover .brand-symbol {
+    transform:rotate(180deg)
+  }
+}
+/* Home controls remain live during arrival. Capturing the document root makes
+   the whole real page non-hit-testable until its snapshot animation ends.
+   Homepage GSAP entrances stay unchanged; editorial shared-title motion keeps
+   its own named snapshot. These selectors are scoped to the homepage. */
+:root:has(.home-main) { view-transition-name:none; }
+:root:has(.home-main)::view-transition,
+:root:has(.home-main)::view-transition-group(*),
+:root:has(.home-main)::view-transition-image-pair(*),
+:root:has(.home-main)::view-transition-old(*),
+:root:has(.home-main)::view-transition-new(*) { pointer-events:none; }
+/* Native same-origin navigation for pages with a named snapshot. */
+@view-transition {
+  navigation:auto
+}
+::view-transition-group(root) {
+  animation:none
+}
+::view-transition-image-pair(root) {
+  isolation:auto
+}
+::view-transition-old(root) {
+  animation:none;
+  mix-blend-mode:normal
+}
+::view-transition-new(root) {
+  animation:page-curtain 360ms var(--motion-ease) both;
+  mix-blend-mode:normal
+}
+@keyframes page-curtain {
+  from {clip-path:inset(0 0 100% 0)}
+  to {clip-path:inset(0 0 0 0)}
+}
+@media(prefers-reduced-motion:reduce) {
+  @view-transition {navigation:none}
+  ::view-transition-group(root),::view-transition-old(root),::view-transition-new(root) {
+    animation:none!important
+  }
+  .reading-progress,.project-cursor {display:none!important}
+  [data-motion-portrait],[data-tilt],[data-magnetic],.brand-symbol,.roll-front {
+    transform:none!important
+  }
+  .roll-back {visibility:hidden}
+  *,*::before,*::after {transition:none!important}
+}
+@media print {
+  .reading-progress,.project-cursor {display:none}
+  [data-motion-portrait],[data-tilt],[data-magnetic] {transform:none!important}
+}

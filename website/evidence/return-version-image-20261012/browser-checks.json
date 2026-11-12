@@ -1,0 +1,92 @@
+[
+  {
+    "check": "P10 primary image keyboard modal",
+    "dialogOpen": true,
+    "dialogs": 1,
+    "focused": "原尺寸",
+    "imageWidth": 2558
+  },
+  {
+    "actual": "true",
+    "check": "original image size",
+    "clientWidth": 1146,
+    "scrollWidth": 2558
+  },
+  {
+    "check": "Escape focus restores to main image",
+    "dialogOpen": false,
+    "focusClass": "detail-image-trigger",
+    "outline": "rgb(150, 152, 255) solid 3px"
+  },
+  {
+    "check": "secondary link uses same modal",
+    "dialogOpen": true,
+    "dialogs": 1
+  },
+  {
+    "check": "filtered browser return",
+    "before": {
+      "category": "客户项目",
+      "query": "库存",
+      "revision": "e0d8d0b26934874db0b1",
+      "rows": [
+        "project-p10",
+        "project-p09"
+      ],
+      "url": "http://127.0.0.1:4178/records.html?pv=e0d8d0b26934874db0b1&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    "after": {
+      "category": "客户项目",
+      "query": "库存",
+      "revision": "e0d8d0b26934874db0b1",
+      "rows": [
+        "project-p10",
+        "project-p09"
+      ],
+      "url": "http://127.0.0.1:4178/records.html?pv=e0d8d0b26934874db0b1&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    }
+  },
+  {
+    "check": "final version with old cache retained",
+    "iconWidth": "24px",
+    "query": "库存",
+    "revision": "e0d8d0b26934874db0b1",
+    "rows": [
+      "project-p10",
+      "project-p09"
+    ],
+    "url": "http://127.0.0.1:4179/records.html?pv=e0d8d0b26934874db0b1&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+  },
+  {
+    "check": "explicit return current version",
+    "count": "2 项记录",
+    "focused": "project-p10",
+    "query": "库存",
+    "url": "http://127.0.0.1:4178/records.html?pv=c2eb30e0505c4396515b&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+  },
+  {
+    "check": "empty and reset current version",
+    "count": "38 项记录",
+    "query": "",
+    "revision": "c2eb30e0505c4396515b"
+  },
+  {
+    "check": "final warm-cache return with unchanged old cache",
+    "iconWidth": "24px",
+    "query": "库存",
+    "revision": "c2eb30e0505c4396515b",
+    "rows": [
+      "project-p10",
+      "project-p09"
+    ]
+  },
+  {
+    "check": "English mobile Demo image and reduced motion",
+    "dialogOpen": true,
+    "imageTransform": "none",
+    "note": "Independent VisualDemo discovery screen · demo profiles, not real community users · switch to actual size for details",
+    "revision": "c2eb30e0505c4396515b",
+    "scrollWidth": 375,
+    "width": 390
+  }
+]

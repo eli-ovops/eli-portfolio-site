@@ -1,0 +1,32 @@
+{
+  "changed_source_hashes": {
+    "assets/bits-ui.css": "695438ae005e25b8dee514098007a6f4f78f0283ee99022a1abe8b1cde5f8557",
+    "assets/bits-ui.js": "cf3adfabce7758c72fab03c8d063f2927910c9184bfe0810f453bbe023b57843",
+    "assets/editorial.js": "ea6c4132c3d577f888d23bce5df744417ffe9a21152def11c0a947736edea130",
+    "assets/vendor/react-bits-components/NOTICE.md": "c745e7e52db8f80234e2d867eeab177d73f40c5fd74d7f09e855b705384ba169",
+    "docs/asset-register.json": "8880856f7814e99165d575442b2a1cd1815197f291ffa75b32be79d4366fba0d",
+    "scripts/components.py": "9c45b956453940e8740e876c5ff830b9766204d9a759e4e5006313cd94245183",
+    "scripts/localization.py": "1134749b94138bd8aade2f32a2d1b8d1edcdb0fbe259950a05858ab98e634fe9",
+    "site.yaml": "c5b98c59e98c0103d85c7fd5a5a9ba0eb49503ecb70c66774ace1b1a73a702e0",
+    "templates/about.html": "8cb71594a62b81b015ccab74f98b4865cc4baf2bc2174ed8cb9ab7768a3cce5d",
+    "templates/archive-row.html": "79b9c8260a7e5a84eea219120cf326e087e58657e047f8f7158c752c7ece5123",
+    "assets/dither-veil.js": "e7837aa08b4d3024aa78931c110ae68a75f4b70976117fe146407ce81dbdb966",
+    "assets/dither-veil.css": "3f4f95f460d85845c6ad5566ee580fd83f29d42f4bb9785fcfacb110cf797632",
+    "assets/react-bits-dither-robot.jpg": "dc8b086833ce520ba55bf4b0014138630c1a20201122012398e15167b21b2e06"
+  },
+  "protected_current_hashes": {
+    "content/projects.json": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+    "content/profile.json": "215c13cbab5df417db2e371c9023793ab43ba9868e5940242eb187371ef424d1",
+    "content/seo.json": "dec264d79bde16dfd01771810c8fe810051452c37b9c8c33e82e028a6aa4a6d7",
+    "content/en.json": "fa9676d5bbf9a31cb412b717c28187b189c15b0c10c4d59ca5fe35818146d406",
+    "content/case-examples.json": "55a7a7167ec0f32d65d73b442419cc42c6dc344ebdbbefe26bfb32562c1cbb2f",
+    "assets/screenshot-viewer.js": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1",
+    "assets/page-version.js": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49",
+    "assets/depth-gallery.js": "cf017679650fb8af80a475ddd9ce434830cb8cf6b36fbe0c9dc256fc8e34b55f",
+    "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+    "templates/layout.html": "e231a2fbb716815991b6f33e27c006d2cfec0999cd97dda6d92a34d4b054f9cf",
+    "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e"
+  },
+  "change_detection": "Compared only actual before backups. Protected hashes are a current checkpoint; do not infer previous-file equality without a saved previous hash.",
+  "unused_task_intermediate": "assets/atmosphere-dither-1200.jpg retained; not referenced or exported; original atmosphere PNGs intact"
+}

@@ -1,0 +1,11 @@
+Subject: Please clarify why a verified site remains unindexed despite a successfully processed sitemap
+
+Hello Bing Webmaster Support,
+
+I manage https://www.eliai.cn/. The verified property shows one sitemap, https://www.eliai.cn/sitemap.xml, submitted on October 15, 2026 and last crawled on October 19. The current native Sitemap report shows Success, 294 URLs discovered, zero sitemap errors and zero warnings.
+
+The October 22 Bing Index inspection of https://www.eliai.cn/services/workflow-automation.html reports “Discovered but not crawled / URL cannot appear on Bing”, discovered October 16. The October 21 homepage inspection showed an older successful crawl on October 15 but “Indexing allowed: No”. At the time of our public checks, the current homepage and service HTML returned200, declared index,follow and self-referencing canonical URLs, and robots.txt allowed crawling. These public checks do not prove what Bingbot received.
+
+Could you confirm whether an account/site eligibility issue, access error or other specific indexing restriction is preventing crawling or inclusion, and tell us the supported corrective action? We understand sitemap acceptance does not guarantee indexing. We have not repeatedly resubmitted the sitemap or requested indexing for this investigation.
+
+Only public URLs and native report screenshots are proposed. No visitor logs, credentials, identity documents or private server data are included.

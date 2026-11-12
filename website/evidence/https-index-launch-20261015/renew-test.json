@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "returncode": 0,
+  "output": "\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nProcessing /etc/letsencrypt/renewal/www.eliai.cn.conf\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nAccount registered.\nSimulating renewal of an existing certificate for eliai.cn and www.eliai.cn\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nCongratulations, all simulated renewals succeeded: \n  /etc/letsencrypt/live/www.eliai.cn/fullchain.pem (success)\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n",
+  "error": "Saving debug log to /var/log/letsencrypt/letsencrypt.log\n"
+}

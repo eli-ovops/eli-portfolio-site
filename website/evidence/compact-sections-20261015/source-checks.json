@@ -1,0 +1,14 @@
+{
+  "changed_sources": {
+    "DESIGN.md": "459b45033b71556778f5b539935f4884b897a4897fc61fb44540b194e5eb29c3",
+    "assets/bits-ui.css": "e75c2644ce741e39b4e6214c7eebe5a208bdbbf73c883ff713fb17a4c55f4068",
+    "assets/bits-ui.js": "a4f94707670abf0e5d0f085dec4ee895d99e5f2f7ed1905957185e81d250ba5c",
+    "assets/editorial.js": "c653091df2f7c1024a289e1f50c6bb3fb3f9d1561942b029bacfb827550b0e88",
+    "docs/\u4ea4\u4ed8\u4e0e\u9a8c\u8bc1.md": "fe6d7d10f3b0ee947a423d78b28b8776983a0b2b4e7478cecaa43c4103fde799",
+    "scripts/pages.py": "0fd7188c23021752f2390cebe20cd43369f767b2f27e589626426434dda3d828",
+    "site.yaml": "6eee9c001425057a856122360ecf5a87b8115f3c10b299d5ad98868d406b41e6",
+    "templates/about.html": "225db010b452ed25f2ad7a1f5cbd06ff8aaf6354a945e2979cd46befc55df359"
+  },
+  "protected": "source-protection.json",
+  "temporary_files": "No disposable intermediates outside evidence; backups and screenshots retained; no deletion"
+}

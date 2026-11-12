@@ -1,0 +1,88 @@
+Browser tab: 34, Title: "Keyword Research - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/help/keyword-research-628070b6".
+0 AXWebArea Keyword Research - Bing Webmaster Tools, URL: bing.com/webmasters/help/keyword-research-628070b6
+	1 container
+		2 container root
+			3 container
+				4 image
+				5 pop up button (collapsed) Description: Profile, ID: profileMenuItem, Secondary Actions: Expand
+					6 image
+			7 container Main menu
+				8 content list
+					9 link Description: Home, Value: bing.com/webmasters/help/help-center-661b2d18
+					10 heading Getting Started, Value: 3
+						11 button (collapsed) Description: Getting Started, ID: accordionItem15, Secondary Actions: Expand
+							12 text GETTING STARTED
+					13 container
+						14 heading Webmaster Tools & Feature, Value: 3
+							15 button (expanded) Description: Webmaster Tools & Feature, ID: accordionItem19, Secondary Actions: Collapse
+								16 text WEBMASTER TOOLS & FEATURE
+						17 content list
+							18 link Description: Home, Value: bing.com/webmasters/help/home-05a5a164
+							19 link Description: Add and Verify site, Value: bing.com/webmasters/help/add-and-verify-site-12184f8b
+							20 link Description: Search Performance, Value: bing.com/webmasters/help/search-performance-c680da36
+							21 link Description: AI Performance, Value: bing.com/webmasters/help/ai-performance-9f8e7d6c
+							22 link Description: URL Inspection, Value: bing.com/webmasters/help/url-inspection-55a30305
+							23 link Description: Site Explorer, Value: bing.com/webmasters/help/site-explorer-c680da37
+							24 link Description: Sitemaps, Value: bing.com/webmasters/help/sitemaps-3b5cf6ed
+							25 link Description: IndexNow, Value: bing.com/webmasters/help/indexnow-0z209wby
+							26 link Description: URL Submission, Value: bing.com/webmasters/help/url-submission-62f2860b
+							27 link Description: Backlinks, Value: bing.com/webmasters/help/backlinks-c3a334e8
+							28 link Description: Keyword Research, Value: bing.com/webmasters/help/keyword-research-628070b6
+							29 link Description: Recommendations, Value: bing.com/webmasters/help/recommendations-55a30304
+							30 link Description: Site Scan, Value: bing.com/webmasters/help/site-scan-623520c9
+							31 link Description: Crawl Control, Value: bing.com/webmasters/help/crawl-control-55a30303
+							32 link Description: Block URLs, Value: bing.com/webmasters/help/block-urls-264e560b
+							33 link Description: robots.txt tester, Value: bing.com/webmasters/help/robotstxt-tester-623520ca
+							34 link Description: Verify Bingbot, Value: bing.com/webmasters/help/verify-bingbot-2195837f
+							35 link Description: User management, Value: bing.com/webmasters/help/how-to-add-users-to-your-site-account-d5d00364
+							36 link Description: Microsoft Clarity, Value: bing.com/webmasters/help/microsoft-clarity-55a30306
+							37 link Description: Bing News PubHub Support, Value: bing.com/webmasters/help/bing-news-pubhub-support-e85a0280
+							38 link Description: Content Removal, Value: bing.com/webmasters/help/content-removal-cb6c294d
+					39 heading Messages & Alerts, Value: 3
+						40 button (collapsed) Description: Messages & Alerts, ID: accordionItem23, Secondary Actions: Expand
+							41 text MESSAGES & ALERTS
+					42 heading Getting Help & Support, Value: 3
+						43 button (collapsed) Description: Getting Help & Support, ID: accordionItem27, Secondary Actions: Expand
+							44 text GETTING HELP & SUPPORT
+					45 heading Content Guidelines, Value: 3
+						46 button (collapsed) Description: Content Guidelines, ID: accordionItem31, Secondary Actions: Expand
+							47 text CONTENT GUIDELINES
+					48 heading Advanced Topics, Value: 3
+						49 button (collapsed) Description: Advanced Topics, ID: accordionItem35, Secondary Actions: Expand
+							50 text ADVANCED TOPICS
+					51 heading FAQ, Value: 3
+						52 button (collapsed) Description: FAQ, ID: accordionItem39, Secondary Actions: Expand
+							53 text FAQ
+					54 link Description: Go to Webmaster Tools, Value: bing.com/webmaster
+			55 container
+				56 heading Keyword research, Value: 1
+					57 text Keyword research
+				58 button Go to Keyword Research Tool
+				59 text Keyword research is the first step for content creators, looking for popular topics trending on the internet to write on. A detailed keyword research allows you to check the phrases and keywords that searchers are looking for, and their corresponding search volumes. Higher search volume means more people are looking for information on that topic and creating content on that topic is a smart way to attract traffic to your site. The keyword research tool is specially designed to assist webmasters and content creators with their tasks. The tool gives you keyword ideas and stats of how frequently these keywords are searched for, and the associated trend – reflecting how those volumes have changed over time. It segregates keywords to show the ones which have become relevant recently and lists the questions that these keywords have appeared in if any. Content creators can use the details as input while writing the content. Bing indexes and ranks unique, high-quality content that is well-researched and relevant to searchers. We recommend that you focus on creating content around your area of expertise, rather than just focusing on top trending topics.
+				60 heading Using the tool, Value: 2
+					61 text Using the tool
+				62 text The keyword research tool takes a root keyword as input to suggest matching and other relevant keywords. The tool has a search box on top where you can input the root keyword that you want to research. By default, the tool also lists a set of keywords that are bringing traffic to websites and the corresponding search volume trend. Clicking on any of these keywords will trigger a search, with that keyword as the root keyword.
+				63 image Description: Keyword Research suggestions, Help: Keyword Research
+				64 text As a user, you can apply filters based on country, language, and devices to get details for specific scenarios. You can also get results for any timeframe in the last six months. By default, these filters can fetch results for all countries, languages, and devices and for a duration of the previous 3 months.
+				65 heading Understanding the results, Value: 2
+					66 text Understanding the results
+				67 text Keyword research gives information on the search volume and trends for that keyword. The research also provides the Global breakdown of the search volume; it gives a clear picture of the countries where more users are searching for that keyword.
+				68 image Description: Keyword Research overview, Help: Keyword Research
+				69 text All filters are applicable on all data points, as shown above, but the country filter is not applicable on the Global breakdown. The tool recommends keyword ideas under three list of keywords:
+				70 content list
+					71 container
+						72 AXListMarker • 
+						73 text Related keywords  – This is a set of different keyword ideas that Bing feels are related to the root keyword. These are sorted by relevance to the root keyword by default.
+					74 container
+						75 AXListMarker • 
+						76 text Question keywords  – This set contains specific questions that were asked by the users, based on keyword ideas in Related keywords. This section provides you with the specific information that people are looking for around those keyword ideas.
+					77 container
+						78 AXListMarker • 
+						79 text Newly discovered  – This is a subset of the Related keywords that have only qualified for being relevant to the root keyword in the last 30 days. Note that these are not new keywords that searchers have started looking for in the last 30 days.
+				80 image Description: Keyword Research related keywords, Help: Keyword Research
+				81 heading URLs and topics, Value: 2
+					82 text URLs and topics
+				83 text Bing’s Keyword Research tool also gives a list of the top 10 URLs appearing in the search results for the root keyword and their associated topics. Topics are determined by Bing's content processing logic and denote the area that Bing considers relevant. Since these results also appear for the root keyword, the associated topic can act as a new root keyword to get more ideas in case users want to broaden their scope.
+				84 image Description: Keyword Research Top urls, Help: Keyword Research
+
+The focused UI element is 0 AXWebArea Keyword Research - Bing Webmaster Tools, URL: bing.com/webmasters/help/keyword-research-628070b6

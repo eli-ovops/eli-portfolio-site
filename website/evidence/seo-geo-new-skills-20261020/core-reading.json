@@ -1,0 +1,2492 @@
+{
+  "index.html": {
+    "title": "中小企业 AI 实施与流程提效服务 - Eli",
+    "main_chars": 3192,
+    "headings": [
+      "帮中小企业用好 AI 从重复工作开始",
+      "哪些工作，可以先一起看看？",
+      "录入和库存靠人核对",
+      "资料难找、问题反复问",
+      "产品内容总要重做",
+      "看看你的行业，可以从哪里开始",
+      "代表项目",
+      "洁具行业某大型 B 端厂商库存管理系统",
+      "英国某净水品牌 RAG 智能客服定制",
+      "某家具品牌扫码库存系统",
+      "某律师事务所 OA 系统",
+      "深圳某慈善基金会",
+      "英国某净水品牌全域营销",
+      "实践文章",
+      "库存每天靠人工核对，先改哪一步？",
+      "企业资料太散，做知识库答疑前要准备什么？",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "main_links": [
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "index.html",
+        "text": "看实际案例 ↓",
+        "raw_href": "#work"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "FDE 怎么合作 ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "了解服务范围 ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "看库存案例 ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "看扫码案例 ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "了解服务范围 ↗",
+        "raw_href": "services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "看答疑案例 ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "了解服务范围 ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p12.html",
+        "text": "看内容案例 ↗",
+        "raw_href": "cases/p12.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "洁具行业某大型 B 端厂商库存管理系统 ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "看库存与流程服务 ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "看知识库与答疑服务 ↗",
+        "raw_href": "services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "cases/p05.html",
+        "text": "英国某净水品牌全域营销 ↗",
+        "raw_href": "cases/p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "英国某净水品牌 RAG 智能客服定制 ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "看 AI 实施合作方式 ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "洁具行业某大型 B 端厂商库存管理系统 ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "看库存与流程服务 ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "cases/p07.html",
+        "text": "某家具品牌官网 ↗",
+        "raw_href": "cases/p07.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "某家具品牌扫码库存系统 ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "看 AI 实施合作方式 ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "cases/p03.html",
+        "text": "深圳某律师事务所 ↗",
+        "raw_href": "cases/p03.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p04.html",
+        "text": "某律师事务所 OA 系统 ↗",
+        "raw_href": "cases/p04.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "看 AI 实施合作方式 ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "cases/p05.html",
+        "text": "英国某净水品牌全域营销 ↗",
+        "raw_href": "cases/p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "看 AI 实施合作方式 ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "cases/p02.html",
+        "text": "深圳某慈善基金会 ↗",
+        "raw_href": "cases/p02.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "看 AI 实施合作方式 ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊这项工作 ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "records.html",
+        "text": "项目库 ↗",
+        "raw_href": "records.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "查看案例 ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "查看案例 ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "查看案例 ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p04.html",
+        "text": "查看案例 ↗",
+        "raw_href": "cases/p04.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p02.html",
+        "text": "查看案例 ↗",
+        "raw_href": "cases/p02.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p05.html",
+        "text": "查看案例 ↗",
+        "raw_href": "cases/p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles.html",
+        "text": "全部文章 ↗",
+        "raw_href": "articles.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "库存每天靠人工核对，先改哪一步？",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "阅读 ↗",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "企业资料太散，做知识库答疑前要准备什么？",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "阅读 ↗",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-inventory-exceptions.html",
+        "text": "",
+        "raw_href": "articles/ai-inventory-exceptions.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-inventory-exceptions.html",
+        "text": "",
+        "raw_href": "articles/ai-inventory-exceptions.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-knowledge-base-start.html",
+        "text": "",
+        "raw_href": "articles/ai-knowledge-base-start.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-knowledge-base-start.html",
+        "text": "",
+        "raw_href": "articles/ai-knowledge-base-start.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/owner-ai-first-step.html",
+        "text": "",
+        "raw_href": "articles/owner-ai-first-step.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/owner-ai-first-step.html",
+        "text": "",
+        "raw_href": "articles/owner-ai-first-step.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-agent.html",
+        "text": "",
+        "raw_href": "articles/what-is-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-agent.html",
+        "text": "",
+        "raw_href": "articles/what-is-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/first-ai-task.html",
+        "text": "",
+        "raw_href": "articles/first-ai-task.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/first-ai-task.html",
+        "text": "",
+        "raw_href": "articles/first-ai-task.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-skill.html",
+        "text": "",
+        "raw_href": "articles/what-is-skill.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-skill.html",
+        "text": "",
+        "raw_href": "articles/what-is-skill.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "I’M E L I",
+      "FDE · 贴近业务，选工具、改流程",
+      "初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。",
+      "说说最费时间的一件事，不用懂技术，也不用准备方案。",
+      "不必从大系统开始。先用好现成的 AI 助手，或改善一个重复步骤。 FDE 怎么合作 ↗",
+      "减少重复录入与人工核对。",
+      "录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。 了解服务范围 ↗",
+      "让资料更好找，答疑有依据。",
+      "产品资料太散、同样的问题反复回答？先整理知识库，再评估 AI Agent 或答疑助手是否适合，回答能查到依据，重要问题由人确认。 了解服务范围 ↗",
+      "让文案和配图不必每次从头做。",
+      "产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。 了解服务范围 ↗",
+      "选择接近你业务的行业，从一件费时的工作开始。下面是可讨论的场景，相关案例注明实际做过的部分。",
+      "先看一件事",
+      "可以从一次盘点或一份规格表开始，梳理哪里重复录入、哪里查找费时。涉及生产设备或现有系统对接时，另行评估。",
+      "相关实践",
+      "洁具企业库存项目可供流程参考，完成范围见案例。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以先选一类商品，把商品说明和常见问题放在一起，看看如何让客服查资料、核对答案更方便。先评估现有平台和工具，再决定做法。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以先选一个产品，看看中英文说明是否一致、哪些咨询反复出现，再讨论资料维护或客服辅助中的一个改进。",
+      "相关实践",
+      "以下案例仅对应海外品牌营销与客服协作，具体职责见详情。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以拿一笔收货或出货记录，沿着登记、库存变动和核对走一遍，找出重复提交、录错后难修改的步骤。",
+      "相关实践",
+      "案例写明已交付的功能，也说明哪些使用效果尚未核实。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以先整理一组产品的图片、型号和尺寸，看看官网如何展示、员工如何查找。展示页面、资料维护和库存功能分别确认范围。",
+      "相关实践",
+      "家具品牌展示页面与扫码库存为两个项目，完成范围分别说明。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以先看客户能否找到服务说明与咨询入口，或挑一类员工常查的文件梳理查找过程。资料权限和人工确认方式在合作前约定。",
+      "相关实践",
+      "相关经历为团队中的律所官网与内部办公系统开发，分工见详情。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以先选一类反复制作的内容，梳理素材存放、文案配图和人工审核步骤，再判断现成工具能帮上哪一部分。",
+      "相关实践",
+      "相关实践为团队品牌营销、内容与 AI 视频协作。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "先看一件事",
+      "可以先选一个项目，整理介绍、进展和可公开资料，看看如何展示与更新。内容公开范围和后续维护责任先确认。",
+      "相关实践",
+      "相关实践为公益官网开发，具体职责和交付内容见案例。",
+      "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+      "客户项目与产品实践",
+      "",
+      "",
+      "库存管理",
+      "已交付",
+      "采购、退货和盘点需要统一核对 → 交付 PC 与手机端库存系统 → 已交付，暂无量化使用效果数据。",
+      "半天沟通后推进底座适配；复查交叉核对单据、库存和流水。约两个月完成交付。",
+      "AI 客服",
+      "产品资料需要用于重复答疑 → 参与知识库整理、检索配置与测试 → 团队定制交付，暂无回答准确率或提效数据。",
+      "基于成熟底座，由演示推进至客户确认与上线实测，约两个月交付。详情中的问答为 AI 拟写示意，真实问答及引用记录尚缺。",
+      "扫码库存",
+      "已交付",
+      "家具按箱出入库、移库需要追踪 → 交付扫码库存系统 → 已交付；公开数量记录来自历史虚拟库存测试。",
+      "核对入库、移库与出库闭环，处理重复请求、库存不足及作废重试，已交付客户。",
+      "办公协同",
+      "依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。",
+      "依据团队调研开发，二期历时三个多月，完成客户培训与交付。客户反馈工作耗时和软件成本降低，未提供量化数据。",
+      "公益网站",
+      "参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。",
+      "一期两项官网约一个月完成交付验收，客户反馈满意，随后启动 OA 二期合作。",
+      "品牌营销",
+      "参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。",
+      "团队持续推进三个多月，结合 KOC 合作和社交平台向客户自有独立站引流；运营稳定后由客户接续，暂无转化或销量数据。",
+      "从实际工作出发",
+      "从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。",
+      "结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "about.html": {
+    "title": "关于 Eli｜FDE 工作方式、免费 AI 咨询与联系",
+    "main_chars": 927,
+    "headings": [
+      "关于我",
+      "微信",
+      "怎么一起做？",
+      "常见合作问题"
+    ],
+    "main_links": [
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "#contact"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "英国某净水品牌 RAG 智能客服定制 ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "某家具品牌扫码库存系统 ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p12.html",
+        "text": "织境 · AI 内容工作台 ↗",
+        "raw_href": "cases/p12.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "FDE · 前沿部署工程师",
+      "帮企业把 AI 用到日常工作里。",
+      "你好，我是 Eli，一名来自中国的独立开发者。",
+      "我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+      "你不需要先懂 AI，也不必准备完整方案，可以从一件最费时间的事开始聊。初次咨询免费；如果需要进一步实施，我们会先确认范围和费用，再开始。",
+      "不知道从哪开始，也可以先聊。",
+      "微信、电话或邮箱都可以，按你平时说话的方式描述就好。",
+      "可以这样开口",
+      "你好，我做的是___，现在最费时间的是___，想看看有没有简单的改进办法。",
+      "邮箱",
+      "电话",
+      "WhatsApp",
+      "先看哪件事最费时间。",
+      "明确重复工作、数据条件和首个实施场景。",
+      "先试一个工具或一个流程。",
+      "用可操作的方案试用，收集反馈后调整。",
+      "交付后，跟进使用反馈。",
+      "整理代码、文档和操作说明，确认移交与维护范围。",
+      "可以先免费聊聊公司最费时间的一件事。",
+      "员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。",
+      "先梳理流程，再选一个小场景。",
+      "初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。工具订阅、开发、培训与维护的范围和费用另行确认。",
+      "用好一个工具，改善一个步骤，也可以开始。",
+      "可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。"
+    ]
+  },
+  "services/ai-agent.html": {
+    "title": "企业知识库搭建与客服辅助答疑服务 - Eli",
+    "main_chars": 1322,
+    "headings": [
+      "企业知识库搭建与客服辅助答疑",
+      "内容导航",
+      "问答助手和 AI Agent 有什么区别？",
+      "先从资料检索和重复答疑开始",
+      "小范围试用需要准备什么？",
+      "看哪些结果，而不只看回答好不好听？",
+      "知识库与客服协作案例",
+      "英国某净水品牌 RAG 智能客服定制 ↗",
+      "开始前常见问题",
+      "一定要训练自己的模型吗？",
+      "可以直接让 Agent 全自动处理客户业务吗？",
+      "先聊一项具体工作"
+    ],
+    "main_links": [
+      {
+        "path": "index.html",
+        "text": "← 返回业务场景",
+        "raw_href": "../index.html?pv=fcafe9ca8a0e904465b2#needs"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "看知识库答疑案例 ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "更多相关案例 ↓",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "问答助手和 AI Agent 有什么区别？",
+        "raw_href": "#difference"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "先从资料检索和重复答疑开始",
+        "raw_href": "#knowledge"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "小范围试用需要准备什么？",
+        "raw_href": "#pilot"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "看哪些结果，而不只看回答好不好听？",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "知识库与客服协作案例",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "开始前常见问题",
+        "raw_href": "#questions"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "英国某净水品牌 RAG 智能客服定制 ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "中小企业 AI 落地实施服务 ↗",
+        "raw_href": "fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "库存核对与重复录入自动化 ↗",
+        "raw_href": "workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。",
+      "可约定的交付",
+      "相关经验：参与 RAG 客服，负责知识库整理、检索配置与测试。",
+      "知识库问答助手侧重“找到资料并回答”；AI Agent 通常还会调用工具、串联步骤或执行动作。能回答问题，不等于已经能可靠地改订单、更新库存或代替员工处理业务。",
+      "企业知识问答常用 RAG，也就是先检索相关资料，再据此生成回答。是否需要更复杂的 Agent，要看任务是否有明确步骤、可用接口和可控的执行权限。",
+      "可以先讨论产品手册、服务规则、内部操作说明等场景：资料由谁维护、哪个版本有效、哪些员工能看、回答应该引用哪一段。",
+      "如果资料冲突、内容过期或找不到依据，助手应说明无法确认，并转给负责的人。重要承诺和对外答复保留人工确认，不靠听起来流畅的回答判断正确。",
+      "选一组有权使用、已脱敏且版本明确的文档，再整理员工或客户常问的问题。区分能直接回答、需要补问和必须转人工的问题。",
+      "先试检索、引用和回答；需要执行动作时，再评估接口、读写权限、确认步骤、操作记录与失败处理。涉及现有系统的修改，单独明确范围和负责人。",
+      "用业务人员确认过的问题核对：是否找到正确资料，引用是否支持答案，过期内容能否排除，无依据的问题是否正确停止。记录错误类型，再决定是否扩大试用。",
+      "如果加入执行动作，还要核对操作对象、重复执行、失败恢复和人工接管。模型、数据量、接口与维护都会影响费用，实施前单独确认。",
+      "相关 RAG 客服项目中，我负责知识库整理、检索配置与测试。案例中的问答示意与实际项目记录有明确区分；涉及执行工具的 Agent 需另行评估。",
+      "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "不一定。先评估现有模型、资料检索和工具配置能否满足任务，避免在问题尚未明确时投入模型训练。",
+      "先验证具体任务。涉及订单、付款、对外承诺或数据修改时，需要明确权限、确认和异常处理，再决定自动化程度。",
+      "说说现在怎么做、哪一步最费时间、希望变成什么样。",
+      "相关服务",
+      "中小企业 AI 落地实施服务 ↗ · 库存核对与重复录入自动化 ↗"
+    ]
+  },
+  "services/workflow-automation.html": {
+    "title": "库存核对与重复录入自动化｜中小企业流程提效 - Eli",
+    "main_chars": 1376,
+    "headings": [
+      "库存核对与重复录入自动化",
+      "内容导航",
+      "先改哪一步？",
+      "录入与库存核对",
+      "产品资料、文案和配图整理",
+      "怎样验证提效，避免只多一个工具？",
+      "库存与内容工作流案例",
+      "洁具行业某大型 B 端厂商库存管理系统 ↗",
+      "某家具品牌扫码库存系统 ↗",
+      "织境 · AI 内容工作台 ↗",
+      "开始前常见问题",
+      "企业提效一定要用 AI 吗？",
+      "能承诺节省多少时间或费用吗？",
+      "先聊一项具体工作"
+    ],
+    "main_links": [
+      {
+        "path": "index.html",
+        "text": "← 返回业务场景",
+        "raw_href": "../index.html?pv=fcafe9ca8a0e904465b2#needs"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "看扫码库存案例 ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "更多相关案例 ↓",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "先改哪一步？",
+        "raw_href": "#priority"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "录入与库存核对",
+        "raw_href": "#inventory"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "产品资料、文案和配图整理",
+        "raw_href": "#content"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "怎样验证提效，避免只多一个工具？",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "库存与内容工作流案例",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "开始前常见问题",
+        "raw_href": "#questions"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "洁具行业某大型 B 端厂商库存管理系统 ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "某家具品牌扫码库存系统 ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p12.html",
+        "text": "织境 · AI 内容工作台 ↗",
+        "raw_href": "../cases/p12.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "中小企业 AI 落地实施服务 ↗",
+        "raw_href": "fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "企业知识库搭建与客服辅助答疑 ↗",
+        "raw_href": "ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。",
+      "可约定的交付",
+      "相关经验：主导扫码库存开发，处理入出库、重复提交与撤销纠错。",
+      "优先看每天都做、规则相对明确、输入输出可核对的工作。先记录谁负责、每次花多久、哪里返工，再找出重复搬运资料或人工核对的位置。",
+      "企业降本增效要看总投入：工具费、员工学习时间、系统连接和维护都算成本。自动化一小步如果更好用，可以先停在这里，不必为了 AI 增加流程。",
+      "适合先讨论同一份资料重复填写、入库移库出库的记录分散、盘点后人工对账等问题。先确认业务规则与权限，再判断使用现成工具还是开发库存软件。",
+      "数量、单据和流水必须能核对；撤销、更正和操作记录也要有明确做法。规则确定的部分优先使用软件校验，需要理解非结构化内容时再评估 AI。",
+      "把产品事实、规格与可复用素材集中整理，再讨论 AI 是否适合辅助生成文案初稿或准备图片。内容发布前，价格、规格和品牌表述仍由负责人确认。",
+      "先试一类产品或一个渠道，检查资料是否完整、输出是否需要反复修改。生成内容、人工审核和正式发布是不同步骤，分别确认是否可用。",
+      "选择同类任务比较改造前后的处理时间、重复录入与返工情况，同时核对结果正确性。员工能否理解、出现错误能否恢复，也属于验收。",
+      "先约定试用范围和成本，再按结果决定是否扩展。可以从 WorkBuddy 等现成工具的使用方式开始；需要定制开发、培训或后续维护时，另行确认费用。",
+      "库存项目与内容工具展示不同的工作方式。各案例分别说明个人职责、交付状态和验证范围，不把内容生成等同于全自动发布。",
+      "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。",
+      "不一定。固定规则用表单、校验或普通软件可能更直接。先选适合业务的做法，再决定 AI 是否有帮助。",
+      "需要用你的实际任务试用后判断。先定义比较口径，记录正确性、耗时与维护成本，再讨论可验证的改善。",
+      "说说现在怎么做、哪一步最费时间、希望变成什么样。",
+      "相关服务",
+      "中小企业 AI 落地实施服务 ↗ · 企业知识库搭建与客服辅助答疑 ↗"
+    ]
+  },
+  "services/fde-consulting.html": {
+    "title": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli",
+    "main_chars": 1387,
+    "headings": [
+      "中小企业 AI 落地实施服务",
+      "内容导航",
+      "FDE 是做什么的？",
+      "什么问题适合先聊？",
+      "如何从咨询推进到实施？",
+      "怎样判断有没有帮助？",
+      "相关项目经历",
+      "洁具行业某大型 B 端厂商库存管理系统 ↗",
+      "某家具品牌扫码库存系统 ↗",
+      "英国某净水品牌 RAG 智能客服定制 ↗",
+      "开始前常见问题",
+      "不懂 AI，也可以咨询吗？",
+      "FDE 咨询一定包含驻场吗？",
+      "先聊一项具体工作"
+    ],
+    "main_links": [
+      {
+        "path": "index.html",
+        "text": "← 返回业务场景",
+        "raw_href": "../index.html?pv=fcafe9ca8a0e904465b2#needs"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "看库存系统案例 ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊一件最费时间的工作 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "更多相关案例 ↓",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "FDE 是做什么的？",
+        "raw_href": "#approach"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "什么问题适合先聊？",
+        "raw_href": "#fit"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "如何从咨询推进到实施？",
+        "raw_href": "#delivery"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "怎样判断有没有帮助？",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "相关项目经历",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "services/fde-consulting.html",
+        "text": "开始前常见问题",
+        "raw_href": "#questions"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "洁具行业某大型 B 端厂商库存管理系统 ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "某家具品牌扫码库存系统 ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "英国某净水品牌 RAG 智能客服定制 ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊一件最费时间的工作 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "企业知识库搭建与客服辅助答疑 ↗",
+        "raw_href": "ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "库存核对与重复录入自动化 ↗",
+        "raw_href": "workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。",
+      "可约定的交付",
+      "相关经验：独立完成库存系统的需求梳理、开发与交付。",
+      "FDE 是 Forward Deployed Engineer，前沿部署工程师。工作从理解客户的业务现场开始，把需求、工具选择、实现和反馈连起来，让技术用在实际流程中。",
+      "与我合作，可以先梳理一项工作：谁在做、输入是什么、结果交给谁。现成工具能解决，就先用工具；确实需要连接数据或定制界面，再讨论开发。",
+      "员工反复整理表格、核对库存；产品资料散在不同地方，客服总问同样的问题；文案和配图每次从头准备。这些有明确输入、输出和负责人的工作，适合挑一个小范围评估。",
+      "初次沟通只需要说明现有做法、最费时间的一步，以及希望改善的结果。可以提供脱敏样例，不需要先购买工具，也不需要先交出账号密码或完整业务数据。",
+      "先画清现有流程，找出重复处理和出错的位置；再比较现成工具、规则自动化与 AI 辅助的适用性。比如 WorkBuddy 一类工具是否适合，要看具体任务、数据要求和使用成本。",
+      "确定一个试用范围，把要做的功能、人工确认环节、交付材料和验收方式写清，再决定是否实施。试用发现不合适，可以缩小范围或换方法，不必直接做一套大系统。",
+      "在实施前记录同类任务的处理时间、重复录入次数或返工原因。试用时用相同口径比较，并确认员工能否继续使用、异常是否有人处理。",
+      "初次沟通免费，实施服务低至500元起，具体范围和费用在开始前确认。工具订阅、开发、培训与维护费用按需求另行约定，是否值得投入以实际试用结果判断。",
+      "下面的案例分别展示业务软件开发与知识库协作，具体职责和交付范围见各案例。",
+      "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "可以。描述一项每天反复做的工作即可，我会先了解业务，再讨论技术选择。",
+      "沟通方式、现场调研、实施周期与交付范围在合作前确认。免费初次沟通不包含持续驻场服务。",
+      "说说现在怎么做、哪一步最费时间、希望变成什么样。",
+      "相关服务",
+      "企业知识库搭建与客服辅助答疑 ↗ · 库存核对与重复录入自动化 ↗"
+    ]
+  },
+  "articles/enterprise-knowledge-base.html": {
+    "title": "企业资料太散，做知识库答疑前要准备什么？ - Eli",
+    "main_chars": 2034,
+    "headings": [
+      "企业资料太散，做知识库答疑前要准备什么？",
+      "文章目录",
+      "先说明希望谁少找哪类资料",
+      "我在品牌客服项目里负责的部分",
+      "资料先整理四件事",
+      "用实际会问的问题验收",
+      "先估查找成本，再安排小范围试用",
+      "第一次沟通，可以先说一个反复被问的问题",
+      "先聊一项具体工作",
+      "继续阅读",
+      "库存每天靠人工核对，先改哪一步？",
+      "AI 是什么？先从一件小事理解",
+      "AI 聊天和搜索引擎有什么区别？"
+    ],
+    "main_links": [
+      {
+        "path": "articles.html",
+        "text": "← 返回文章",
+        "raw_href": "../articles.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "先说明希望谁少找哪类资料",
+        "raw_href": "#start"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "我在品牌客服项目里负责的部分",
+        "raw_href": "#case-records"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "资料先整理四件事",
+        "raw_href": "#prepare"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "用实际会问的问题验收",
+        "raw_href": "#test"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "先估查找成本，再安排小范围试用",
+        "raw_href": "#estimate"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "第一次沟通，可以先说一个反复被问的问题",
+        "raw_href": "#contact"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "英国某净水品牌 RAG 智能客服定制 ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/ai-agent.html",
+        "text": "了解知识库与答疑服务 ↗",
+        "raw_href": "../services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "库存每天靠人工核对，先改哪一步？",
+        "raw_href": "../articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "阅读 ↗",
+        "raw_href": "../articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-ai.html",
+        "text": "AI 是什么？先从一件小事理解",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-ai.html",
+        "text": "阅读 ↗",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-chat-vs-search.html",
+        "text": "AI 聊天和搜索引擎有什么区别？",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-chat-vs-search.html",
+        "text": "阅读 ↗",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Eli · 写于 2026-10-17 · 约 6 分钟",
+      "规格在产品表里，售后规则在聊天记录里，同一个问题每天换个人问。知识库答疑可以从这类工作开始评估，但先要确定哪些资料可信、由谁更新，以及找不到答案时怎么办。",
+      "先选一类资料和一组常见问题，验证能否找到依据、答对问题，并在没有依据时正确停止。",
+      "给内部员工查操作说明，和给外部客户回答产品问题，需要的权限、用词与确认方式不同。先确定使用对象，再挑一类经常查找、资料相对完整的问题。",
+      "知识库问答通常先检索资料，再根据找到的内容生成回答，这种做法常被称为 RAG。它是否有用，要看资料是否正确、检索是否找对，以及回答有没有越过资料能证明的范围。",
+      "第一轮可以先做资料查找与辅助答疑。若还希望它改订单、更新库存或承诺退款，就需要单独评估接口、权限和人工确认。",
+      "据现有项目说明，在英国某净水品牌的客服定制项目中，我负责知识库整理、检索配置与测试，协同团队从演示推进到客户确认和上线实测。版本备份、上线及升级回滚准备由团队负责。",
+      "现有公开页面记录能展示客服初始界面、欢迎信息、快捷支持、问答输入和联系入口。它们不能单独证明回答准确率或节省了多少客服时间，这两项目前没有量化数据。",
+      "案例详情中的问答内容已标明为 AI 拟写示意，不能拿来当真实客服对话或客户使用效果。真正判断回答质量，还需要实际问题、回答和引用资料之间的对应记录。",
+      "不用第一天就把公司所有文档都放进去。先挑一个小主题，整理成能检查、能更新的资料集合。任何未经允许使用的文件，都不应直接拿来测试。",
+      "资料互相冲突时，应先请负责人确认，不让模型猜哪份是真的。知识库没有收录的内容，也不能因为回答听起来顺畅就当作事实。",
+      "可以先收集员工或客户经常问的问题，去掉个人信息，并请业务负责人写出可接受的答案依据。测试时把问题、回答、引用内容和人工判断放在一起看。",
+      "开始时不必急着给出一个漂亮的准确率。先记录具体错在哪里：没找到资料、找错版本、理解有偏差，还是超出资料擅自承诺。不同问题需要不同修正。",
+      "假设测算，不是品牌客服项目的实测数据",
+      "假设团队每天需要查资料 20 次，每次平均 4 分钟，每月按 20 个工作日估算。这只是帮助理解工作量的示例，并非行业平均值或客户统计。",
+      "测量时，核对答案、发现错误和转人工的时间也要计入。若节省的查找时间被反复纠错抵消，就不能把这项试用称为提效。",
+      "是否继续投入，还要结合工具订阅、资料维护、员工学习和实施成本判断。先用你们自己的任务测一轮，比套用别人的百分比更可靠。",
+      "例如：“我们有产品手册和售后说明，客服每天都要找同样的参数。想先看看能不能让员工更快找到出处。”这比先决定买哪种模型更容易明确试用范围。",
+      "初次沟通免费。后续可先约定资料范围、典型问题、引用要求、人工接管和验收方式，再确认实施费用。复杂的系统连接、权限与持续维护需要另行评估。",
+      "先用有权使用的脱敏资料。不要在初次沟通时发送账号密码、客户个人信息或未经处理的内部文件。",
+      "说说现在怎么做、哪一步最费时间。初次沟通免费。",
+      "从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。",
+      "AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。",
+      "搜索主要帮你找到网页，AI 聊天主要帮你组织答案。"
+    ]
+  },
+  "articles/inventory-reconciliation.html": {
+    "title": "库存每天靠人工核对，先改哪一步？ - Eli",
+    "main_chars": 2063,
+    "headings": [
+      "库存每天靠人工核对，先改哪一步？",
+      "文章目录",
+      "先找出重复核对发生在哪一步",
+      "我在两个库存项目中实际做了什么",
+      "第一轮试用，范围可以这样定",
+      "算一笔时间账，再决定值不值得做",
+      "验收时，把能纠错也算进去",
+      "第一次沟通，带一个具体问题就够了",
+      "先聊一项具体工作",
+      "继续阅读",
+      "企业资料太散，做知识库答疑前要准备什么？",
+      "AI 是什么？先从一件小事理解",
+      "AI 聊天和搜索引擎有什么区别？"
+    ],
+    "main_links": [
+      {
+        "path": "articles.html",
+        "text": "← 返回文章",
+        "raw_href": "../articles.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "先找出重复核对发生在哪一步",
+        "raw_href": "#start"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "我在两个库存项目中实际做了什么",
+        "raw_href": "#case-records"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "第一轮试用，范围可以这样定",
+        "raw_href": "#scope"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "算一笔时间账，再决定值不值得做",
+        "raw_href": "#estimate"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "验收时，把能纠错也算进去",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "articles/inventory-reconciliation.html",
+        "text": "第一次沟通，带一个具体问题就够了",
+        "raw_href": "#contact"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "洁具行业某大型 B 端厂商库存管理系统 ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "某家具品牌扫码库存系统 ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "services/workflow-automation.html",
+        "text": "了解库存与流程提效服务 ↗",
+        "raw_href": "../services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "企业资料太散，做知识库答疑前要准备什么？",
+        "raw_href": "../articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/enterprise-knowledge-base.html",
+        "text": "阅读 ↗",
+        "raw_href": "../articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-ai.html",
+        "text": "AI 是什么？先从一件小事理解",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/what-is-ai.html",
+        "text": "阅读 ↗",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-chat-vs-search.html",
+        "text": "AI 聊天和搜索引擎有什么区别？",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "articles/ai-chat-vs-search.html",
+        "text": "阅读 ↗",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Eli · 写于 2026-10-17 · 约 6 分钟",
+      "同一笔入库要写进几张表，移库后要问东西放在哪里，盘点发现差异又得重新找单据。想减少这些重复工作，可以先挑一条库存路径，把数量和责任核对清楚，再决定用什么工具。",
+      "先选一种货品、一个库位或一类单据，打通记录、核对和纠错，再评估是否扩大。",
+      "先拿一笔最近处理过的业务，从头走一遍：谁收货，谁登记，谁确认数量，最后谁要看这份结果。重点看同一份信息是否被重复抄写，以及数量变动后能不能找到原单。",
+      "如果每次都要重新问人、翻聊天记录，或在几张表之间搬运数据，先处理记录方式可能比直接增加一个 AI 工具更有帮助。",
+      "在洁具行业库存管理系统中，我独立负责需求沟通、业务梳理、底座适配开发及交付。项目以库存管理为核心，连接产品规格、采购、退货与盘点，并提供 PC 与手机端入口。复查时交叉核对单据、库存和流水，而不只看页面有没有提示成功。",
+      "在某家具品牌的按箱扫码库存项目中，我主导需求分析、流程设计和开发，覆盖入库、移库、出库与撤销纠错。重复请求、库存不足和作废重试都是需要核对的环节，移库还要同时检查来源、目标和总量。",
+      "这些经历能说明实现和验证过哪些流程。现有公开资料没有客户日常节省工时的量化数据；扫码案例中的数量变化来自历史虚拟库存测试，不代表客户真实经营数据。",
+      "现有项目说明还记载：洁具库存系统已交付，但客户尚未全面投入使用，实际使用效果暂无结论。这里说明的是项目记录中的状态，不把交付直接当成已经提效。",
+      "先选一条相对清楚的路径，例如一种货品在一个仓库里的入库与出库。把输入、负责人、数量变化和结果交接写在同一张流程清单上。",
+      "范围确定后，再判断现成表格或工具是否足够，还是确实需要扫码界面、权限控制或系统连接。数量校验和重复提交属于明确规则的问题，不必都交给 AI 判断。",
+      "假设测算，不是上述客户的实测结果",
+      "为了说明怎么算，假设每天有 30 笔记录需要核对，平均每笔 3 分钟；每月按 20 个工作日估算。下面的数字是人为设定的示例，请用你们实际记录替换。",
+      "只有试用真的测出“每笔 2 分钟”，后两行才对这项工作有意义。还要把学习、纠错和维护所花的时间加回去；少花的时间也不等于现金成本已经下降。",
+      "不需要先承诺提效百分比。找同类任务，保留改造前后的操作记录，同时核对结果是否正确，判断才有依据。",
+      "一个流程是否好用，不只看正常操作走得通。把异常交给实际使用的人试：录错后能否修正，重复提交会不会重复记账，换人接手能否查到发生过什么。",
+      "如果只是少填了一张表，却让另一位员工多花时间对账，这项调整未必值得扩展。先比较整条流程的投入，再决定继续、缩小范围或保留现有做法。",
+      "可以按平时说话的方式描述：“我们现在用表格记入库，出库后再补一遍。最费时间的是每天对数量，想看看有没有小范围改法。”",
+      "初次沟通免费。实施服务低至500元起，具体范围和费用在开始前确认。起价不代表一套完整库存系统；工具订阅、开发、培训与维护按实际需求另行约定。",
+      "你可以先提供脱敏样例，不需要先交出账号密码、客户个人信息或完整业务数据。",
+      "说说现在怎么做、哪一步最费时间。初次沟通免费。",
+      "结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。",
+      "AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。",
+      "搜索主要帮你找到网页，AI 聊天主要帮你组织答案。"
+    ]
+  },
+  "cases/p09.html": {
+    "title": "扫码库存系统：入库、移库与出库案例 - Eli",
+    "main_chars": 852,
+    "headings": [
+      "某家具品牌扫码库存系统",
+      "内容概览",
+      "项目背景",
+      "承担职责",
+      "工作内容",
+      "实施方法",
+      "一次库存闭环",
+      "交付与验证",
+      "技术与实现",
+      "实现流程",
+      "验证范围",
+      "聊聊你的业务"
+    ],
+    "main_links": [
+      {
+        "path": "records.html",
+        "text": "← 返回项目库",
+        "raw_href": "../records.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "项目背景",
+        "raw_href": "#why"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "承担职责",
+        "raw_href": "#role"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "工作内容",
+        "raw_href": "#outputs"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "实施方法",
+        "raw_href": "#process"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "交付与验证",
+        "raw_href": "#result"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "技术与实现",
+        "raw_href": "#technical"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "records.html",
+        "text": "更多项目 ↗",
+        "raw_href": "../records.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "已交付",
+      "按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。",
+      "单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。",
+      "我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。",
+      "实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。",
+      "先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。",
+      "按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。",
+      "云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。",
+      "已交付客户，范围包括扫码入库、移库、出库与撤销纠错。下方技术说明对应现有实现。",
+      "按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。",
+      "React 录入与确认",
+      "Workers 处理重复提交",
+      "D1 / SQLite 核对数量",
+      "撤销操作与测试核对",
+      "本地与云端记录核对了库存闭环、重复提交和库存不足等情况。具体数量变化与测试来源见上方表格。",
+      "不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。"
+    ]
+  },
+  "cases/p10.html": {
+    "title": "洁具库存管理系统开发案例 - Eli",
+    "main_chars": 902,
+    "headings": [
+      "洁具行业某大型 B 端厂商库存管理系统",
+      "内容概览",
+      "项目背景",
+      "承担职责",
+      "工作内容",
+      "实施方法",
+      "一次盘点复查",
+      "交付与反馈",
+      "技术与实现",
+      "实现流程",
+      "验证范围",
+      "聊聊你的业务"
+    ],
+    "main_links": [
+      {
+        "path": "records.html",
+        "text": "← 返回项目库",
+        "raw_href": "../records.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "项目背景",
+        "raw_href": "#why"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "承担职责",
+        "raw_href": "#role"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "工作内容",
+        "raw_href": "#outputs"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "实施方法",
+        "raw_href": "#process"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "交付与反馈",
+        "raw_href": "#result"
+      },
+      {
+        "path": "cases/p10.html",
+        "text": "技术与实现",
+        "raw_href": "#technical"
+      },
+      {
+        "path": "cases/p09.html",
+        "text": "某家具品牌扫码库存系统 ↗",
+        "raw_href": "p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p04.html",
+        "text": "某律师事务所 OA 系统 ↗",
+        "raw_href": "p04.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "records.html",
+        "text": "更多项目 ↗",
+        "raw_href": "../records.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "已交付",
+      "围绕产品规格、采购、退货与盘点适配库存流程，连接 PC 与 H5 入口。",
+      "客户需要以库存管理为核心，连接产品规格、采购、退货与盘点。系统中的数量和状态需要与实际业务操作一致。",
+      "独立负责需求沟通、业务梳理、底座适配开发及交付。",
+      "基于成熟底座适配库存业务，连接 PC 与 H5 入口，包含资料、采购、库存及业务概览。",
+      "半天需求沟通后明确范围。客户后续沟通有限，我结合前期调研和行业理解推进实现。",
+      "复查时交叉核对单据、库存和流水，避免只凭页面提示判断成功。下方展示一次盘点样例。",
+      "2026 年 9 月 23 日的测试记录：测试仓内某规格账面 1 件，实盘 0 件。提交后交叉核对三个结果。",
+      "这是历史盘亏样例，不代表所有业务组合均通过。同期九项复查为八项具体样例通过、一项发现问题；此处不据旧记录判断系统当前状态。",
+      "历时约两个月完成系统交付。暂无量化使用效果数据。",
+      "PC 与 H5 入口连接业务后端，围绕库存、采购、退货与盘点组织流程；基于成熟底座进行业务适配。",
+      "Vue PC 与 H5",
+      "Spring Boot 接口",
+      "MySQL 与 Redis",
+      "Linux / Nginx 环境",
+      "已有构建、试部署与业务复查记录；上方盘点表展示单据、库存和流水的交叉核对。",
+      "某家具品牌扫码库存系统 ↗",
+      "某律师事务所 OA 系统 ↗",
+      "不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。"
+    ]
+  },
+  "cases/p36.html": {
+    "title": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+    "main_chars": 509,
+    "headings": [
+      "英国某净水品牌 RAG 智能客服定制",
+      "内容概览",
+      "项目背景",
+      "承担职责",
+      "工作内容",
+      "实施方法",
+      "交付与反馈",
+      "职责与页面记录",
+      "聊聊你的业务"
+    ],
+    "main_links": [
+      {
+        "path": "records.html",
+        "text": "← 返回项目库",
+        "raw_href": "../records.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "项目背景",
+        "raw_href": "#why"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "承担职责",
+        "raw_href": "#role"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "工作内容",
+        "raw_href": "#outputs"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "实施方法",
+        "raw_href": "#process"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "交付与反馈",
+        "raw_href": "#result"
+      },
+      {
+        "path": "cases/p36.html",
+        "text": "职责与页面记录",
+        "raw_href": "#evidence"
+      },
+      {
+        "path": "cases/p01.html",
+        "text": "企业客户项目合作 ↗",
+        "raw_href": "p01.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "cases/p05.html",
+        "text": "英国某净水品牌全域营销 ↗",
+        "raw_href": "p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "about.html",
+        "text": "免费聊聊 ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "records.html",
+        "text": "更多项目 ↗",
+        "raw_href": "../records.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "团队定制与交付",
+      "面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。",
+      "独立站访客需要查询净水产品与品牌知识。",
+      "我负责知识库整理、检索配置与测试。版本备份、上线及升级回滚准备由团队负责。",
+      "客服界面提供欢迎信息、快捷支持、问答输入和联系入口。",
+      "团队基于成熟底座定制，项目由咨询范围梳理、知识库与检索配置，推进至演示、客户确认和上线实测。",
+      "据本人项目说明，约两个月完成交付；回答准确率和客服效率没有量化数据。",
+      "已有本人项目说明及客服初始界面记录，可查看欢迎信息、快捷支持、问答输入和联系入口。回答质量与检索效果需要对应问答和检索记录支持。",
+      "企业客户项目合作 ↗",
+      "英国某净水品牌全域营销 ↗",
+      "不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。"
+    ]
+  },
+  "en/index.html": {
+    "title": "AI Implementation & Workflow Improvement for Small Businesses | Eli",
+    "main_chars": 9856,
+    "headings": [
+      "Put AI to work in small businesses",
+      "Where could we start?",
+      "Repeated entry and stock checks",
+      "Information lookup and repeated questions",
+      "Product content takes time",
+      "Where could we start in your industry?",
+      "Selected projects",
+      "Sanitaryware manufacturer inventory system",
+      "UK water purification brand · RAG support",
+      "Furniture barcode inventory system",
+      "Law firm office system",
+      "Shenzhen charity foundation",
+      "UK water purification brand marketing",
+      "Practical notes",
+      "Manual inventory checks every day: where should you start?",
+      "Company information is scattered: what should you prepare for a knowledge base?",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "main_links": [
+      {
+        "path": "en/about.html",
+        "text": "Let’s talk ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/index.html",
+        "text": "See project work ↓",
+        "raw_href": "#work"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "How FDE consulting works ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Explore the service ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "Inventory case ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "Barcode case ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Explore the service ↗",
+        "raw_href": "services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "Support case ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Explore the service ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p12.html",
+        "text": "Content case ↗",
+        "raw_href": "cases/p12.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "Sanitaryware manufacturer inventory system ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Inventory and workflow services ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Knowledge-base and support services ↗",
+        "raw_href": "services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/cases/p05.html",
+        "text": "UK water purification brand marketing ↗",
+        "raw_href": "cases/p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "UK water purification brand · RAG support ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation services ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "Sanitaryware manufacturer inventory system ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Inventory and workflow services ↗",
+        "raw_href": "services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/cases/p07.html",
+        "text": "Furniture brand website ↗",
+        "raw_href": "cases/p07.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "Furniture barcode inventory system ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation services ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/cases/p03.html",
+        "text": "Shenzhen law firm website ↗",
+        "raw_href": "cases/p03.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p04.html",
+        "text": "Law firm office system ↗",
+        "raw_href": "cases/p04.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation services ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/cases/p05.html",
+        "text": "UK water purification brand marketing ↗",
+        "raw_href": "cases/p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation services ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/cases/p02.html",
+        "text": "Shenzhen charity foundation ↗",
+        "raw_href": "cases/p02.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation services ↗",
+        "raw_href": "services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss this task for free ↗",
+        "raw_href": "about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/records.html",
+        "text": "Projects ↗",
+        "raw_href": "records.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "View case ↗",
+        "raw_href": "cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "View case ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "View case ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p04.html",
+        "text": "View case ↗",
+        "raw_href": "cases/p04.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p02.html",
+        "text": "View case ↗",
+        "raw_href": "cases/p02.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p05.html",
+        "text": "View case ↗",
+        "raw_href": "cases/p05.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles.html",
+        "text": "All articles ↗",
+        "raw_href": "articles.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Manual inventory checks every day: where should you start?",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Read ↗",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Company information is scattered: what should you prepare for a knowledge base?",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Read ↗",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "",
+        "raw_href": "articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "",
+        "raw_href": "articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-inventory-exceptions.html",
+        "text": "",
+        "raw_href": "articles/ai-inventory-exceptions.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-inventory-exceptions.html",
+        "text": "",
+        "raw_href": "articles/ai-inventory-exceptions.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-knowledge-base-start.html",
+        "text": "",
+        "raw_href": "articles/ai-knowledge-base-start.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-knowledge-base-start.html",
+        "text": "",
+        "raw_href": "articles/ai-knowledge-base-start.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/owner-ai-first-step.html",
+        "text": "",
+        "raw_href": "articles/owner-ai-first-step.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/owner-ai-first-step.html",
+        "text": "",
+        "raw_href": "articles/owner-ai-first-step.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-agent.html",
+        "text": "",
+        "raw_href": "articles/what-is-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-agent.html",
+        "text": "",
+        "raw_href": "articles/what-is-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/first-ai-task.html",
+        "text": "",
+        "raw_href": "articles/first-ai-task.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/first-ai-task.html",
+        "text": "",
+        "raw_href": "articles/first-ai-task.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-skill.html",
+        "text": "",
+        "raw_href": "articles/what-is-skill.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-skill.html",
+        "text": "",
+        "raw_href": "articles/what-is-skill.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "I’M E L I",
+      "FDE · Practical tools and workflows",
+      "Initial conversation is free. Implementation from CNY 500, with scope and fees agreed first.",
+      "Share one time-consuming task. No technical knowledge or plan needed.",
+      "Start with an existing AI assistant, or improve one repetitive step. A large system is not required. How FDE consulting works ↗",
+      "Reduce repeated entry and manual checks.",
+      "Review entry and stock-checking steps to see where software can reduce repeated handling. Explore the service ↗",
+      "Make information easier to find and use.",
+      "Organize scattered product knowledge, then assess whether an AI agent or support assistant fits. Keep sources available and important answers subject to human review. Explore the service ↗",
+      "Stop starting copy and images from scratch.",
+      "Review how product information becomes copy and images, with people reviewing the output. Explore the service ↗",
+      "Choose the industry closest to your business and start with one time-consuming task. These are scenarios we can discuss; linked cases state the work actually done.",
+      "Start with one task",
+      "We can start with one stocktake or specification sheet and trace repeated entry or slow lookups. Equipment connections and integrations with existing systems need a separate review.",
+      "Related work",
+      "The sanitaryware inventory project is a workflow reference. Its case states the completed scope.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can start with one product category, bring its descriptions and common questions together, and assess how staff could find information and check answers more easily. Your current platform and tools guide the approach.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can choose one product, check whether its Chinese and English descriptions agree, and identify recurring questions. Then we can discuss one improvement to information maintenance or support assistance.",
+      "Related work",
+      "These cases cover overseas brand marketing and customer support collaboration. Each states my role.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can trace one receipt or dispatch through entry, stock changes and reconciliation to find duplicate submissions and entries that are difficult to correct.",
+      "Related work",
+      "The case states which functions were delivered and which usage outcomes remain unverified.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can start with the images, model numbers and dimensions for one product group, then review how customers see them and staff find them. Website presentation, information maintenance and inventory functions have separate scopes.",
+      "Related work",
+      "The furniture presentation site and barcode inventory system are separate projects. Each case states the completed scope.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can review how clients find service details and a contact route, or trace how staff find one frequently used type of document. Access permissions and human review are agreed before implementation.",
+      "Related work",
+      "Related work covers law-firm websites and internal office systems within a team. See each case for my responsibilities.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can choose one recurring content task, review asset storage, copy, images and human approval, then assess which steps existing tools could help with.",
+      "Related work",
+      "Related experience is collaborative brand marketing, content and AI video work.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Start with one task",
+      "We can start with one project, organize its introduction, progress and public information, then review how it is presented and updated. Disclosure limits and maintenance responsibilities are agreed first.",
+      "Related work",
+      "Related work is nonprofit website development. The case describes my role and the delivered content.",
+      "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+      "Client work and product development",
+      "",
+      "",
+      "Inventory management",
+      "Delivered",
+      "Purchasing, returns and stock checks needed one workflow → delivered a PC and mobile inventory system → handed over; no quantified usage results.",
+      "Adapted the foundation after a half-day requirements discussion. Reviews cross-check documents, stock and transactions. Delivered in about two months.",
+      "AI support",
+      "Product information needed to support repeated questions → contributed knowledge organization, retrieval configuration and testing → team delivery; no measured accuracy or efficiency results.",
+      "Customized an existing foundation, progressing from demos to client confirmation and live testing, with delivery in about two months. The case’s answers are AI-written illustrations; real answer and citation records are missing.",
+      "Barcode inventory",
+      "Delivered",
+      "Carton movements needed tracking → delivered a barcode inventory system → handed over; published quantity records come from historical virtual-stock tests.",
+      "Checked the inventory sequence, duplicate requests, shortages and cancelled retries, then delivered the system to the client.",
+      "Office workflows",
+      "Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.",
+      "Developed from team discovery, the second phase took over three months through training and handover. The client reported less time spent and lower software costs, without quantitative data.",
+      "Nonprofit website",
+      "Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.",
+      "The two first-phase websites were delivered and accepted in about one month. Positive client feedback led to a second-phase office system.",
+      "Brand marketing",
+      "Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.",
+      "The team worked for over three months, using KOC collaborations and social channels to direct visitors to the client’s website. The client took over after stable operation; conversion and sales data were not provided.",
+      "From real project work",
+      "Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.",
+      "Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "en/about.html": {
+    "title": "About Eli | FDE Approach & Free AI Consultation",
+    "main_chars": 2667,
+    "headings": [
+      "About me",
+      "WeChat",
+      "How we work together",
+      "Working together"
+    ],
+    "main_links": [
+      {
+        "path": "en/about.html",
+        "text": "Let’s talk ↗",
+        "raw_href": "#contact"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "UK water purification brand · RAG support ↗",
+        "raw_href": "cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "Furniture barcode inventory system ↗",
+        "raw_href": "cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p12.html",
+        "text": "Zhijing · AI content workbench ↗",
+        "raw_href": "cases/p12.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "FDE · Forward deployed engineer",
+      "Help businesses put AI to work day to day.",
+      "Hi, I'm Eli, an independent developer from China.",
+      "I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+      "You don't need to understand AI or have a complete plan. We can start with one task that takes up too much of your time. The initial consultation is free; if you decide to move forward with implementation, we'll agree on the scope and fees before work begins.",
+      "Not sure where to start? Let’s talk.",
+      "WeChat, phone or email all work. Just describe the situation in your own words.",
+      "A way to start",
+      "Hi, I work in ___. The task taking the most time is ___. Could we look at a simple way to improve it?",
+      "Email",
+      "Phone",
+      "WhatsApp",
+      "Find the task that takes the most time.",
+      "Identify repetitive tasks, available data and the first use case.",
+      "Try one tool or one workflow.",
+      "Try a working approach, gather feedback and adjust.",
+      "Follow usage feedback after handover.",
+      "Prepare code, documentation and instructions. Agree on handover and maintenance.",
+      "Start with a free conversation about one time-consuming task.",
+      "What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan.",
+      "Review the workflow, then choose one small use case.",
+      "The initial conversation is free. Implementation starts at CNY 500, with scope and fees agreed before work begins. We'll agree separately on the scope and fees for tool subscriptions, development, training and maintenance.",
+      "One useful tool or one better step can be a starting point.",
+      "We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding."
+    ]
+  },
+  "en/services/ai-agent.html": {
+    "title": "Business Knowledge Base Setup & AI-Assisted Support | Eli",
+    "main_chars": 3665,
+    "headings": [
+      "Knowledge base setup and AI-assisted support",
+      "On this page",
+      "Answers or actions?",
+      "Start with lookup and recurring questions",
+      "What does a pilot need?",
+      "Assess evidence and behavior",
+      "Knowledge and support collaboration",
+      "UK water purification brand · RAG support ↗",
+      "Questions before starting",
+      "Do we have to train a model?",
+      "Can an agent handle customer work autonomously?",
+      "Start with one task"
+    ],
+    "main_links": [
+      {
+        "path": "en/index.html",
+        "text": "← Explore business needs",
+        "raw_href": "../index.html?pv=fcafe9ca8a0e904465b2#needs"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "View the knowledge support case ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "More related cases ↓",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Answers or actions?",
+        "raw_href": "#difference"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Start with lookup and recurring questions",
+        "raw_href": "#knowledge"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "What does a pilot need?",
+        "raw_href": "#pilot"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Assess evidence and behavior",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Knowledge and support collaboration",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Questions before starting",
+        "raw_href": "#questions"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "UK water purification brand · RAG support ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation for small businesses ↗",
+        "raw_href": "fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Inventory reconciliation and data entry automation ↗",
+        "raw_href": "workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.",
+      "Possible deliverables",
+      "Contributed to RAG support: knowledge preparation, retrieval setup and testing.",
+      "A knowledge assistant focuses on finding information and answering questions. An AI agent may also call tools, connect steps or take actions. Answering a question does not establish reliable order changes or stock updates.",
+      "RAG retrieves relevant material before generating an answer. A more complex agent needs clear task steps, available integrations and controlled permissions.",
+      "Review product manuals, service rules or internal instructions: who maintains them, which version is valid, who can access them and what source should support an answer.",
+      "When information conflicts, is outdated or lacks evidence, the assistant should say it cannot confirm and refer the issue to a person. Keep important commitments and external responses subject to human review.",
+      "Select authorized, redacted documents with known versions and representative questions. Separate questions that can be answered directly, need clarification or require human handling.",
+      "Test retrieval, citations and answers first. For actions, assess interfaces, read and write access, confirmation, records and failure handling. Agree changes to existing systems separately.",
+      "Use questions checked by business staff to assess retrieval, whether citations support the answer, outdated content handling and appropriate refusal when evidence is missing. Record error types before expanding.",
+      "For actions, also test the target object, duplicate execution, recovery and human takeover. Model choice, data volume, integrations and maintenance affect cost and need separate agreement.",
+      "In the related RAG support project, I worked on knowledge preparation, retrieval configuration and testing. Illustrative answers are distinguished from project records. Tool-executing agents require a separate assessment.",
+      "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "Not necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training.",
+      "Validate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level.",
+      "Describe the current process, its slowest step and the result you want.",
+      "Related services",
+      "AI implementation for small businesses ↗ · Inventory reconciliation and data entry automation ↗"
+    ]
+  },
+  "en/services/workflow-automation.html": {
+    "title": "Inventory Reconciliation & Data Entry Automation | Eli",
+    "main_chars": 3989,
+    "headings": [
+      "Inventory reconciliation and data entry automation",
+      "On this page",
+      "Which step should change first?",
+      "Entry and inventory checks",
+      "Product information, copy and images",
+      "Check the improvement, not just the tool",
+      "Inventory and content workflow experience",
+      "Sanitaryware manufacturer inventory system ↗",
+      "Furniture barcode inventory system ↗",
+      "Zhijing · AI content workbench ↗",
+      "Questions before starting",
+      "Does efficiency require AI?",
+      "Can you promise a specific saving?",
+      "Start with one task"
+    ],
+    "main_links": [
+      {
+        "path": "en/index.html",
+        "text": "← Explore business needs",
+        "raw_href": "../index.html?pv=fcafe9ca8a0e904465b2#needs"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "View the barcode inventory case ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "More related cases ↓",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Which step should change first?",
+        "raw_href": "#priority"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Entry and inventory checks",
+        "raw_href": "#inventory"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Product information, copy and images",
+        "raw_href": "#content"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Check the improvement, not just the tool",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Inventory and content workflow experience",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Questions before starting",
+        "raw_href": "#questions"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "Sanitaryware manufacturer inventory system ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "Furniture barcode inventory system ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p12.html",
+        "text": "Zhijing · AI content workbench ↗",
+        "raw_href": "../cases/p12.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "AI implementation for small businesses ↗",
+        "raw_href": "fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Knowledge base setup and AI-assisted support ↗",
+        "raw_href": "ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.",
+      "Possible deliverables",
+      "Led barcode inventory development: stock movements, duplicate requests and corrections.",
+      "Look for frequent work with reasonably clear rules and checkable inputs and outputs. Record who owns it, how long it takes and why rework happens. Identify repeated transfer or checking.",
+      "Include subscriptions, staff learning, integrations and maintenance in the cost. A small change that works can be enough; do not add process just to use AI.",
+      "Discuss duplicate entry, scattered stock movement records or manual reconciliation. Confirm business rules and access before choosing existing tools or custom inventory software.",
+      "Quantities, documents and movement records must reconcile. Define correction, reversal and activity records. Use software validation for fixed rules and assess AI when unstructured content needs interpretation.",
+      "Organize product facts, specifications and reusable assets, then assess AI for drafting copy or preparing images. A responsible person checks prices, specifications and brand wording before publication.",
+      "Try one product type or channel. Check source completeness and the amount of editing required. Generation, human review and publication are separate steps with separate checks.",
+      "Compare similar tasks before and after the change for duration, repeated entry and rework while checking correctness. Staff understanding and recovery from mistakes are part of acceptance.",
+      "Agree pilot scope and cost first, then expand only if results justify it. Existing tools such as WorkBuddy can be a starting point. Agree custom development, training and maintenance separately.",
+      "These projects illustrate different workflows. Each case distinguishes role, delivery status and validation scope; generating content does not establish automated publication.",
+      "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.",
+      "No. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first.",
+      "Assess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement.",
+      "Describe the current process, its slowest step and the result you want.",
+      "Related services",
+      "AI implementation for small businesses ↗ · Knowledge base setup and AI-assisted support ↗"
+    ]
+  },
+  "en/services/fde-consulting.html": {
+    "title": "Small Business AI Implementation & Workflow Support | Eli",
+    "main_chars": 3951,
+    "headings": [
+      "AI implementation for small businesses",
+      "On this page",
+      "What does an FDE do?",
+      "What can we discuss first?",
+      "From discussion to a bounded pilot",
+      "How do we assess the result?",
+      "Related project experience",
+      "Sanitaryware manufacturer inventory system ↗",
+      "Furniture barcode inventory system ↗",
+      "UK water purification brand · RAG support ↗",
+      "Questions before starting",
+      "Can we talk if I do not understand AI?",
+      "Does FDE consulting include on-site work?",
+      "Start with one task"
+    ],
+    "main_links": [
+      {
+        "path": "en/index.html",
+        "text": "← Explore business needs",
+        "raw_href": "../index.html?pv=fcafe9ca8a0e904465b2#needs"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "View the inventory case ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss one time-consuming task for free ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "More related cases ↓",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "What does an FDE do?",
+        "raw_href": "#approach"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "What can we discuss first?",
+        "raw_href": "#fit"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "From discussion to a bounded pilot",
+        "raw_href": "#delivery"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "How do we assess the result?",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "Related project experience",
+        "raw_href": "#cases"
+      },
+      {
+        "path": "en/services/fde-consulting.html",
+        "text": "Questions before starting",
+        "raw_href": "#questions"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "Sanitaryware manufacturer inventory system ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "Furniture barcode inventory system ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "UK water purification brand · RAG support ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Discuss one time-consuming task for free ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "Knowledge base setup and AI-assisted support ↗",
+        "raw_href": "ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "Inventory reconciliation and data entry automation ↗",
+        "raw_href": "workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.",
+      "Possible deliverables",
+      "Related experience: independently scoped, developed and delivered an inventory system.",
+      "FDE stands for Forward Deployed Engineer. The work starts with the customer’s operating context, connecting requirements, tool selection, implementation and feedback.",
+      "We can map who performs a task, what goes in and who uses the result. Start with an existing tool when it fits; discuss custom data connections or interfaces when needed.",
+      "Repeated spreadsheet handling, inventory checks, scattered product information, recurring support questions and product content preparation are possible starting points. Choose a task with clear inputs, outputs and an owner.",
+      "Describe the current process, its most time-consuming step and the result you want. Redacted examples can help. You do not need to buy a tool or share passwords or a complete business dataset first.",
+      "Map repeated handling and common mistakes, then compare existing tools, rule-based automation and AI assistance. Whether a tool such as WorkBuddy fits depends on the task, data requirements and cost.",
+      "Agree the pilot’s features, human review steps, handover materials and acceptance criteria before implementation. Narrow the scope or change the approach if the trial does not fit.",
+      "Record comparable task duration, repeated entry or reasons for rework before implementation. Use the same measures during the pilot and check whether staff can continue using it and handle exceptions.",
+      "The initial conversation is free. Implementation services start at CNY 500, with scope and fees agreed before work begins. Agree tool subscriptions, development, training and maintenance separately, then assess value against observed pilot results.",
+      "These cases cover business software and knowledge-base collaboration. Read each case for the role and delivery scope.",
+      "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "Yes. Describe one repetitive task. We will understand the business before discussing technology.",
+      "Agree communication, site visits, timing and deliverables before starting. A free initial conversation does not include an ongoing on-site engagement.",
+      "Describe the current process, its slowest step and the result you want.",
+      "Related services",
+      "Knowledge base setup and AI-assisted support ↗ · Inventory reconciliation and data entry automation ↗"
+    ]
+  },
+  "en/articles/enterprise-knowledge-base.html": {
+    "title": "Company information is scattered: what should you prepare for a knowledge base? - Eli",
+    "main_chars": 6706,
+    "headings": [
+      "Company information is scattered: what should you prepare for a knowledge base?",
+      "On this page",
+      "Define who needs to find which information",
+      "My part in a brand customer-support project",
+      "Prepare four things in your documents",
+      "Test with questions people actually ask",
+      "Estimate search effort before arranging a small trial",
+      "Start with a question that keeps coming up",
+      "Start with one task",
+      "Keep reading",
+      "Manual inventory checks every day: where should you start?",
+      "What is AI? Start with one small task",
+      "AI chat or search: which should you use?"
+    ],
+    "main_links": [
+      {
+        "path": "en/articles.html",
+        "text": "← Back to articles",
+        "raw_href": "../articles.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Define who needs to find which information",
+        "raw_href": "#start"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "My part in a brand customer-support project",
+        "raw_href": "#case-records"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Prepare four things in your documents",
+        "raw_href": "#prepare"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Test with questions people actually ask",
+        "raw_href": "#test"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Estimate search effort before arranging a small trial",
+        "raw_href": "#estimate"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Start with a question that keeps coming up",
+        "raw_href": "#contact"
+      },
+      {
+        "path": "en/cases/p36.html",
+        "text": "UK water purification brand · RAG support ↗",
+        "raw_href": "../cases/p36.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Let’s talk ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/ai-agent.html",
+        "text": "See knowledge-base and support services ↗",
+        "raw_href": "../services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Manual inventory checks every day: where should you start?",
+        "raw_href": "../articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Read ↗",
+        "raw_href": "../articles/inventory-reconciliation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-ai.html",
+        "text": "What is AI? Start with one small task",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-ai.html",
+        "text": "Read ↗",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-chat-vs-search.html",
+        "text": "AI chat or search: which should you use?",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-chat-vs-search.html",
+        "text": "Read ↗",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Eli · Written on 2026-10-17 · 6 min read",
+      "Specifications live in a product sheet, service rules sit in chat histories, and the same questions keep coming up. This can be a starting point for a knowledge-base trial. First establish which documents are trustworthy, who updates them and what happens when an answer cannot be found.",
+      "Start with one document category and a set of common questions. Check whether the assistant finds evidence, answers correctly and stops when there is no basis for an answer.",
+      "Helping employees find operating instructions differs from answering customers' product questions. Permissions, wording and confirmation requirements vary. Identify the users first, then choose a frequently searched topic with reasonably complete documentation.",
+      "Knowledge-base question answering typically retrieves documents before generating an answer from them. This is often called RAG. Its usefulness depends on the documents being correct, retrieval finding the right material and answers staying within what that material supports.",
+      "A first trial can focus on finding information and assisting with answers. Changing orders, updating stock or committing to refunds requires a separate review of interfaces, permissions and human confirmation.",
+      "According to the project notes, in a customer-support customization project for a UK water-filter brand, I handled knowledge organization, retrieval configuration and testing, working with the team from demonstrations through customer confirmation and live-site tests. The team handled version backups, deployment and upgrade rollback preparation.",
+      "The available public records show the initial support interface, welcome message, quick support options, question input and contact entry. They do not independently demonstrate answer accuracy or time saved. Neither has measured results in the available records.",
+      "The case page labels its sample answers as AI-written illustrations. They are not real support conversations or evidence of customer outcomes. Assessing answer quality requires records linking actual questions, answers and cited documents.",
+      "You do not need to upload every company document on the first day. Pick one small topic and create a document set that can be checked and updated. Do not use files for testing without permission.",
+      "If documents conflict, ask the responsible person to resolve the conflict first. Do not let a model guess which one is true. A fluent answer about something missing from the knowledge base is not evidence that it is correct.",
+      "Collect common employee or customer questions, remove personal information and ask the business owner to identify acceptable source material. During testing, review the question, answer, cited content and human judgment together.",
+      "Rather than rushing to report an accuracy figure, record the specific failure: missing evidence, the wrong version, a misunderstanding or a commitment beyond the source. Each needs a different correction.",
+      "Hypothetical calculation, not measured data from the brand support project",
+      "Assume the team looks up information 20 times a day, averaging 4 minutes per lookup, across 20 working days a month. This example illustrates workload; it is not an industry average or a customer measurement.",
+      "Include time spent verifying answers, identifying errors and handing over to a person. If repeated corrections cancel out faster lookups, the trial has not demonstrated an efficiency gain.",
+      "Further investment also depends on subscriptions, document maintenance, employee learning and implementation costs. Test your own tasks before applying someone else's percentage.",
+      "For example: “We have product manuals and service instructions. Our support team keeps looking up the same specifications. Could we help employees find the source faster?” This makes the trial scope clearer than choosing a model first.",
+      "The initial conversation is free. Before implementation, agree on the document scope, typical questions, citation requirements, human handover and acceptance checks, then confirm the fee. Complex integrations, permissions and ongoing maintenance need separate assessment.",
+      "Start with anonymized material you have permission to use. Do not send account passwords, customer personal information or unprocessed internal files during the initial conversation.",
+      "Describe the current process and its slowest step. The initial conversation is free.",
+      "Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.",
+      "AI stands for artificial intelligence and includes recognition, prediction and generation, using approaches such as rules or learning from data.",
+      "Search helps you find pages; AI chat helps compose an answer."
+    ]
+  },
+  "en/articles/inventory-reconciliation.html": {
+    "title": "Manual inventory checks every day: where should you start? - Eli",
+    "main_chars": 6627,
+    "headings": [
+      "Manual inventory checks every day: where should you start?",
+      "On this page",
+      "Start with the step that keeps needing another check",
+      "What I actually did in two inventory projects",
+      "Set a small scope for the first trial",
+      "Estimate the time involved before deciding to invest",
+      "Include corrections in acceptance checks",
+      "Bring one concrete problem to the first conversation",
+      "Start with one task",
+      "Keep reading",
+      "Company information is scattered: what should you prepare for a knowledge base?",
+      "What is AI? Start with one small task",
+      "AI chat or search: which should you use?"
+    ],
+    "main_links": [
+      {
+        "path": "en/articles.html",
+        "text": "← Back to articles",
+        "raw_href": "../articles.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Start with the step that keeps needing another check",
+        "raw_href": "#start"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "What I actually did in two inventory projects",
+        "raw_href": "#case-records"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Set a small scope for the first trial",
+        "raw_href": "#scope"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Estimate the time involved before deciding to invest",
+        "raw_href": "#estimate"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Include corrections in acceptance checks",
+        "raw_href": "#acceptance"
+      },
+      {
+        "path": "en/articles/inventory-reconciliation.html",
+        "text": "Bring one concrete problem to the first conversation",
+        "raw_href": "#contact"
+      },
+      {
+        "path": "en/cases/p10.html",
+        "text": "Sanitaryware manufacturer inventory system ↗",
+        "raw_href": "../cases/p10.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/cases/p09.html",
+        "text": "Furniture barcode inventory system ↗",
+        "raw_href": "../cases/p09.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/about.html",
+        "text": "Let’s talk ↗",
+        "raw_href": "../about.html?pv=fcafe9ca8a0e904465b2#contact"
+      },
+      {
+        "path": "en/services/workflow-automation.html",
+        "text": "See inventory and workflow services ↗",
+        "raw_href": "../services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Company information is scattered: what should you prepare for a knowledge base?",
+        "raw_href": "../articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/enterprise-knowledge-base.html",
+        "text": "Read ↗",
+        "raw_href": "../articles/enterprise-knowledge-base.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-ai.html",
+        "text": "What is AI? Start with one small task",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/what-is-ai.html",
+        "text": "Read ↗",
+        "raw_href": "../articles/what-is-ai.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-chat-vs-search.html",
+        "text": "AI chat or search: which should you use?",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      },
+      {
+        "path": "en/articles/ai-chat-vs-search.html",
+        "text": "Read ↗",
+        "raw_href": "../articles/ai-chat-vs-search.html?pv=fcafe9ca8a0e904465b2"
+      }
+    ],
+    "paragraphs": [
+      "Eli · Written on 2026-10-17 · 6 min read",
+      "An incoming delivery gets entered into several spreadsheets. After a transfer, someone has to ask where the goods went. A stocktake discrepancy means searching for the original record again. Start by tracing one inventory workflow and checking its quantities and responsibilities before choosing a tool.",
+      "Start with one product, storage location or document type. Connect recording, reconciliation and corrections, then decide whether to expand.",
+      "Take one recently completed transaction and walk through it: who received the goods, who recorded them, who confirmed the quantity and who needed the result. Look for information being copied more than once, and whether a stock change can be traced to its source document.",
+      "If people keep asking around, searching chat histories or copying data between spreadsheets, improving the record-keeping may help more than adding another AI tool.",
+      "For an inventory management system in the sanitary ware industry, I independently handled requirements, workflow analysis, adaptation of an existing software foundation and delivery. The scope connected product specifications, purchasing, returns and stocktakes, with PC and mobile access. Reviews checked documents, stock balances and movement records together, rather than relying on an on-screen success message.",
+      "For a furniture brand barcode inventory project, I led requirements analysis, workflow design and development across receipt, transfer, dispatch and reversal. Duplicate requests, insufficient stock and retries after cancellation needed explicit checks. Transfers also required agreement between the source location, destination and total quantity.",
+      "These projects show which workflows were implemented and checked. The public records contain no measured customer time savings. Quantity changes in the barcode case come from historical virtual-stock tests, not the customer's operating data.",
+      "The project notes also record that the sanitary ware system was delivered but was not yet in full customer use, with no conclusion on operational effects. This is the documented project status; delivery alone does not establish efficiency gains.",
+      "Choose one clear path, such as receipts and dispatches for one product in one warehouse. Record the input, owner, quantity change and handover on a single workflow checklist.",
+      "Then decide whether an existing spreadsheet or tool is sufficient, or whether barcode screens, permissions or system connections are needed. Quantity validation and duplicate submission handling follow explicit rules; they do not all need AI judgment.",
+      "Hypothetical calculation, not measured results from these customers",
+      "To illustrate the calculation, assume 30 records need checking each day, averaging 3 minutes each, across 20 working days a month. These are invented example inputs. Replace them with your own observations.",
+      "The last two rows only apply if a trial actually measures 2 minutes per record. Add time spent learning, correcting errors and maintaining the process. Time saved does not automatically mean cash costs have fallen.",
+      "There is no need to promise an efficiency percentage first. Compare similar tasks before and after the change, keep the records and check that the results remain correct.",
+      "A useful workflow must handle more than the normal path. Ask the people who will use it to try exceptions: can an error be corrected, does a repeated submission create a duplicate entry, and can a colleague trace what happened?",
+      "Removing one spreadsheet may not help if another employee spends more time reconciling the result. Compare the effort across the whole workflow before continuing, reducing the scope or keeping the current approach.",
+      "You might say: “We record receipts in a spreadsheet, then enter dispatches separately. Checking the quantities each day takes the most time. Could we look at a small improvement?”",
+      "The initial conversation is free. Implementation services start at CNY 500, with scope and fees agreed before work begins. That starting price does not cover an entire inventory system. Tool subscriptions, development, training and maintenance are agreed separately according to the need.",
+      "You can start with anonymized examples. There is no need to share account passwords, customer personal information or complete business datasets.",
+      "Describe the current process and its slowest step. The initial conversation is free.",
+      "Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.",
+      "AI stands for artificial intelligence and includes recognition, prediction and generation, using approaches such as rules or learning from data.",
+      "Search helps you find pages; AI chat helps compose an answer."
+    ]
+  }
+}

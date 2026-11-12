@@ -1,0 +1,36 @@
+{
+  "status": "READ_ONLY_CUSTOMER_LANDING_AUDIT_COMPLETE",
+  "revision": "05f7213ef85c4cd8a350",
+  "website_changed": false,
+  "server_accessed_via_ssh": false,
+  "indexing": "DISABLED",
+  "source_hashes_unchanged": true,
+  "pages_reviewed": [
+    "home",
+    "about-confirmed",
+    "records",
+    "inventory-p10",
+    "barcode-p09",
+    "rag-p36",
+    "website-p07"
+  ],
+  "actual_customers_tested": 0,
+  "search_query_results": {
+    "进销存": 0,
+    "库存": 2,
+    "网站": 9
+  },
+  "contact_home_click": "PASS actual #contact top141px at default desktop",
+  "limits": "No actual SERP/traffic/real phones/all-browser or all38case audit",
+  "artifacts": [
+    "contact-actual-click.png",
+    "contact-arrival.json",
+    "contact-desktop.png",
+    "home-desktop.png",
+    "pages.json",
+    "public-checks.json",
+    "report.md",
+    "search-checks.json",
+    "source-before.json"
+  ]
+}

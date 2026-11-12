@@ -1,0 +1,27 @@
+{
+  "build_pages": 84,
+  "social_links_per_page": 10,
+  "urls_match_user_list": true,
+  "icons": "Simple Icons 11.15.0, local SVGs; Douyin and TikTok share brand glyph",
+  "desktop": {
+    "icons_loaded": 10,
+    "overflow": false,
+    "rapid_filter_final": 38,
+    "category_marker_observed": true,
+    "tools_opacity": "1"
+  },
+  "mobile_375": {
+    "icons": 10,
+    "columns": 5,
+    "overflow": false,
+    "category_scrollWidth": 663,
+    "category_clientWidth": 335,
+    "mobile_apps_count": 9,
+    "reduced_motion_all_count": 38
+  },
+  "homepage": "Only shared footer and its stylesheet changed; homepage styles/controller/depth controller unchanged",
+  "local_server_session": 59544,
+  "deployment": "not performed",
+  "files": "CSS/JS backups, screenshots, acceptance and retained new social-link JSON/local logo assets+license. No disposable temporary files",
+  "limits": "No physical phone FPS or third-party profile login/availability validation"
+}

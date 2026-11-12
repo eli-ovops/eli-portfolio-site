@@ -1,0 +1,3 @@
+43864	/srv/eli-sites/portfolio/domain-releases
+255912	/srv/eli-sites/portfolio/releases
+332	/srv/eli-sites/portfolio/backups

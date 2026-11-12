@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Agent 要读文件、写文件或发消息时，如何判断该给哪些权限？列出任务必需范围，先从只读或单目录开始，再核对新增请求。",
+    "revision": "066456f5df9368a90560",
+    "scrollWidth": 1265,
+    "title": "Agent 要读文件、联网、发消息，都该允许吗？",
+    "url": "http://127.0.0.1:4178/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+    "viewport": 1265
+  },
+  {
+    "description": "Decide which permissions an AI agent needs. Separate file reading, writes and external actions, and start with read-only or single-folder access.",
+    "scrollWidth": 385,
+    "title": "Which permissions should you give an agent?",
+    "url": "http://127.0.0.1:4178/en/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+    "viewport": 385
+  },
+  {
+    "description": "Agent 要读文件、写文件或发消息时，如何判断该给哪些权限？列出任务必需范围，先从只读或单目录开始，再核对新增请求。",
+    "scrollWidth": 385,
+    "title": "Agent 要读文件、联网、发消息，都该允许吗？",
+    "url": "http://127.0.0.1:4178/articles/agent-tools-permissions.html?pv=066456f5df9368a90560",
+    "viewport": 385
+  },
+  {
+    "articleRows": 102,
+    "languageLink": "http://127.0.0.1:4178/en/articles.html?pv=066456f5df9368a90560",
+    "scrollWidth": 385,
+    "title": "AI 入门教程与实践文章",
+    "url": "http://127.0.0.1:4178/articles.html?pv=066456f5df9368a90560",
+    "viewport": 385
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "canonical": "https://www.eliai.cn/cases/p36.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "英国某净水品牌 RAG 智能客服定制"
+    },
+    {
+      "tag": "H2",
+      "text": "内容概览"
+    },
+    {
+      "tag": "H2",
+      "text": "项目背景"
+    },
+    {
+      "tag": "H2",
+      "text": "承担职责"
+    },
+    {
+      "tag": "H2",
+      "text": "工作内容"
+    },
+    {
+      "tag": "H2",
+      "text": "实施方法"
+    },
+    {
+      "tag": "H2",
+      "text": "交付与反馈"
+    },
+    {
+      "tag": "H2",
+      "text": "职责与页面记录"
+    },
+    {
+      "tag": "H2",
+      "text": "聊聊你的业务"
+    },
+    {
+      "tag": "H2",
+      "text": "统计与隐私"
+    },
+    {
+      "tag": "H2",
+      "text": ""
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/cases/p36.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/cases/p36.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/cases/p36.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../records.html",
+      "text": "← 返回项目库"
+    },
+    {
+      "href": "../assets/public-cases/p36.png",
+      "text": ""
+    },
+    {
+      "href": "../assets/public-cases/p36.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "#why",
+      "text": "项目背景"
+    },
+    {
+      "href": "#role",
+      "text": "承担职责"
+    },
+    {
+      "href": "#outputs",
+      "text": "工作内容"
+    },
+    {
+      "href": "#process",
+      "text": "实施方法"
+    },
+    {
+      "href": "#result",
+      "text": "交付与反馈"
+    },
+    {
+      "href": "#evidence",
+      "text": "职责与页面记录"
+    },
+    {
+      "href": "p01.html",
+      "text": "企业客户项目合作 ↗"
+    },
+    {
+      "href": "p05.html",
+      "text": "英国某净水品牌全域营销 ↗"
+    },
+    {
+      "href": "../services/ai-agent.html",
+      "text": "查看企业知识库搭建服务 ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "免费聊聊 ↗"
+    },
+    {
+      "href": "../records.html",
+      "text": "更多项目 ↗"
+    }
+  ],
+  "mainText": "← 返回项目库\n客户项目\n英国某净水品牌 RAG 智能客服定制\n\n团队定制与交付\n\n面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。\n\n查看图片 ↗\n我的工作\n知识库整理、检索配置与测试\n页面记录\n客服初始界面与入口\n内容概览\n项目背景\n承担职责\n工作内容\n实施方法\n交付与反馈\n职责与页面记录\n项目背景\n\n独立站访客需要查询净水产品与品牌知识。\n\n承担职责\n\n我负责知识库整理、检索配置与测试。版本备份、上线及升级回滚准备由团队负责。\n\n工作内容\n\n客服界面提供欢迎信息、快捷支持、问答输入和联系入口。\n\n实施方法\n\n团队基于成熟底座定制，项目由咨询范围梳理、知识库与检索配置，推进至演示、客户确认和上线实测。\n\n交付与反馈\n\n据本人项目说明，约两个月完成交付；回答准确率和客服效率没有量化数据。\n\n职责与页面记录\n\n已有本人项目说明及客服初始界面记录，可查看欢迎信息、快捷支持、问答输入和联系入口。回答质量与检索效果需要对应问答和检索记录支持。\n\n企业客户项目合作 ↗\n\n英国某净水品牌全域营销 ↗\n\n聊聊你的业务\n\n不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。\n\n查看企业知识库搭建服务\n↗\n\n免费聊聊\n↗\n更多项目\n↗",
+  "metaDescription": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/about.html\", \"description\": \"你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。\", \"jobTitle\": \"FDE · 贴近业务，选工具、改流程\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"BreadcrumbList\", \"@id\": \"https://www.eliai.cn/cases/p36.html#breadcrumb\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"项目库\", \"item\": \"https://www.eliai.cn/records.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"英国某净水品牌 RAG 智能客服定制\", \"item\": \"https://www.eliai.cn/cases/p36.html\"}]}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/cases/p36.html#page\", \"url\": \"https://www.eliai.cn/cases/p36.html\", \"name\": \"企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli\", \"description\": \"参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"breadcrumb\": {\"@id\": \"https://www.eliai.cn/cases/p36.html#breadcrumb\"}, \"about\": {\"@type\": \"Thing\", \"name\": \"英国某净水品牌 RAG 智能客服定制\"}}]}"
+  ],
+  "title": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+  "url": "https://www.eliai.cn/cases/p36.html"
+}

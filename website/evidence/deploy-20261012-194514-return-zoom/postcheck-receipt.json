@@ -1,0 +1,18 @@
+{
+  "status": "REMOTE_POSTCHECK_PASS",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-194514-return-zoom",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-182317-reading-social",
+  "previous_files_preserved": 143,
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "services": {
+    "nginx": true,
+    "erp-trial": true,
+    "mysql": true,
+    "redis-server": true
+  },
+  "erp_http": {
+    "/login": 200,
+    "/mobile/": 200
+  },
+  "scope": "ERP entry-page availability only; no login or business operations"
+}

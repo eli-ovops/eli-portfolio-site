@@ -1,0 +1,20 @@
+{
+  "prepared_at": "2026-10-19T06:00:54.239Z",
+  "status": "AWAITING_APPROVAL_FOR_FORM_REQUIRED_SHORTENING",
+  "official_form": "Nami web app lower-left feedback icon > 反馈问题",
+  "max_characters": 200,
+  "body_characters": 189,
+  "body": "2026-10-19，纳米网页版读取 https://www.eliai.cn/services/fde-consulting.html 失败；同一会话读取 https://example.com/ 也报告“Download Failed”。本站普通访问200、正文为静态HTML、robots允许抓取。请核查失败环节及错误码，提供官方访问要求；根因未确认。两次原生结果见附图。",
+  "attachments": [
+    "nami-read-failure-detail.png",
+    "nami-control-test-detail.png"
+  ],
+  "native_attachment_count": "2/4",
+  "contact_field": "left blank",
+  "submit_clicks": 0,
+  "feedback_success": false,
+  "reason": "User approved full draft; native form discovered a 200-character hard limit. Shortened body prepared for review before sending.",
+  "website_changes": 0,
+  "search_submissions": 0,
+  "emails": 0
+}

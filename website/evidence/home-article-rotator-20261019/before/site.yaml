@@ -1,0 +1,179 @@
+# Global canonical blank template. Copy to a project as site.yaml.
+# Never put secret values, credentials, business data, or real private keys here.
+schema_version: "1.0"
+status: "public-static-release"
+site_id: "personal-practice-portfolio"
+project: "personal-website"
+confirmed_by: "user: publish current portfolio on shared server"
+confirmed_at: "2026-10-07"
+no_secret_values: true
+
+server:
+  reference: "/Users/USER/.codex/servers/jdcloud-[REDACTED_HOST]/AGENTS.md"
+  owner: "user"
+
+environments:
+  # `enabled` only declares whether this target is configured for use.
+  # It never grants deploy authorization; authorization is recorded under `deployment`.
+  preview:
+    enabled: true
+    public_url: "http://127.0.0.1:4178"
+    admin_path: null
+  production:
+    enabled: true
+    public_url: "https://www.eliai.cn/"
+    admin_path: null
+
+repository:
+  repo_url: "UNKNOWN"
+  approved_branch: "UNKNOWN"
+  production_branch: "main"
+  commit_sha_required: false # existing non-Git source; release file hashes and archive SHA-256 recorded
+
+architecture: "static"
+
+toolchain:
+  node: ">=20.9.0"
+  pnpm_major: null
+  package_manager: null
+  lockfile: null
+  payload_version: null
+
+runtime:
+  app_port_reference: null
+  health_port_reference: null
+
+deployment:
+  # Select exactly one mechanism that is confirmed by the project guide/site contract.
+  # Supported mechanisms: local, ssh-forced-command, ssh-shell, container, ci, console.
+  # Do not infer a forced command, publisher, wrapper, validate step, or lock from this template.
+  mechanism: "ssh-shell"
+  call_carrier: "strict SSH/SCP according to server guide"
+  forced_command_reference: null
+  allowed_modes:
+    - "static"
+  guide_reference: "/Users/USER/.codex/servers/jdcloud-[REDACTED_HOST]/AGENTS.md"
+  production_approval_required: true
+  authorization_reference: "2026-10-19 user approves publishing five tutorials' bilingual service links and online QA; evidence/deploy-article-service-links-20261019/receipt.json"
+  deploy_owner: "current website execution chat"
+  validate_required: "not-applicable"
+  status_required: true
+
+  # Eli preview exception: use `ssh-shell`, set `validate_required: not-applicable`,
+  # and reference `eli-roxychao-deployment` plus its live guide. Eli has ordinary
+  # SSH/PTY and no forced command, publisher, wrapper, validate chain, or deploy lock.
+  eli_preview_exception: false
+
+storage:
+  code_reference: "UNKNOWN"
+  releases_reference: "UNKNOWN"
+  database_reference: "UNKNOWN"
+  media_reference: "UNKNOWN"
+
+database:
+  type: "UNKNOWN"
+  credential_secret_ref: "UNKNOWN"
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "UNKNOWN"
+  developer: "UNKNOWN"
+  server_owner: "UNKNOWN"
+
+migration:
+  required: false
+  required_for_localization: true
+  procedure_reference: "UNKNOWN"
+  production_approval_required: true
+
+backup:
+  procedure_reference: "UNKNOWN"
+  database_and_media_separate: true
+  restore_rehearsal_required: true
+
+release_retention:
+  policy_reference: "UNKNOWN"
+  previous_accepted_release_required: true
+
+health_checks:
+  public_page: "UNKNOWN"
+  application: "UNKNOWN"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "UNKNOWN"
+  explicit_authorization_required: true
+
+local_scope:
+  level: "published static website"
+  current_task_authorization: "2026-10-19 user approves publishing the reviewed five tutorial topics' bilingual service links and completing online QA; no search submissions"
+  current_task_publication_authorized: true
+  current_task_publication_scope: "Published revision 5c2760c23a73225e2ff6; ten article-service anchor destinations/labels and corresponding true content dates; other body/visual/motion unchanged"
+  current_task_receipt: "evidence/deploy-article-service-links-20261019/receipt.json"
+  python: "3.9.6"
+  project_dependencies: ["GSAP 3.15.0 core, locally vendored; original stacked gallery restored", "React/OGL source and lockfile preserved under components/react-bits; inactive, not loaded by current pages"]
+  database: null
+  publication_authorized: true
+  source_asset_rights: "UNKNOWN"
+  actual_model: "UNKNOWN"
+  actual_effort: "UNKNOWN"
+  routing_version: "ROUTING-2026-10-13-v4"
+
+localization:
+  default_language: "zh-CN"
+  languages: ["zh-CN", "en"]
+  english_path: "en/"
+  authorization_reference: "2026-10-07 user requests full English version with language switching"
+
+seo:
+  configuration_reference: "content/seo.json"
+  indexing_enabled: true
+  status: "Production 5c2760c23a73225e2ff6; five tutorial topics' bilingual service links match knowledge-base or inventory services; includes prior homepage/service metadata; sitemap294 with reviewed dates; only10 article-service anchor slots changed; no search submission or new ranking claim"
+  local_optimization_reference: "docs/SEO与GEO服务定位-20261014.md"
+  experiment_reference: "docs/SEO准备与自然流量实验.md"
+
+filing:
+  status: "APPROVED"
+  website_number: "浙ICP备2026044062号-2"
+  domain: "eliai.cn"
+  evidence_reference: "evidence/icp-approved-20261015/receipt.json"
+  footer_reference: "evidence/icp-footer-domain-20261015/receipt.json"
+  https_status: "VERIFIED; certificate valid to 2027-01-13; renewal timer and dry-run passed"
+
+search_platforms:
+  property: "https://www.eliai.cn/"
+  keyword_audit_reference: "evidence/service-keyword-audit-20261017/receipt.json"
+  required_public_root_files_reference: "verification-files/manifest.json"
+  preserve_verification_files_on_every_domain_release: true
+  physical_release_reference: "evidence/deploy-article-metadata-20261018/deployed-manifest.json"
+  toutiao: "Ownership verified20261017; first Sitemap88 submitted once/native success; crawl/index not yet confirmed"
+  toutiao_geo_reference: "evidence/toutiao-geo-20261017/receipt.json"
+  ai_fetch_diagnosis_reference: "evidence/ai-fetch-diagnosis-20261017/receipt.json"
+  google: "Ownership verified; historical sitemap discovery82;20261017 refresh accepted for existing public sitemap88;3 Chinese service URLs currently unknown/not indexed;7d performance0 clicks/0 impressions with only10-14 chart data"
+  bing: "Ownership verified; historical total88 accepted;20261017 performance preparing data;FDE discovered10-16/not crawled;native Live URL can be indexed/no SEO-GEO issues;no repeated submission"
+  baidu: "Ownership verified; adaptive site saved; personal subject submitted pending2–5business-day review; sitemap quota still0;0 confirmed link submissions"
+  other_platforms: "360 site added but ICP not detected, genuine JDCloud proof uploaded, final captcha pending; Sogou root verified senior admin,60 URLs confirmed, further manual push paused by user; Shenma login pending; Yandex verified sitemap read-only"
+
+analytics:
+  provider: "Baidu Tongji free"
+  configuration: "content/analytics.json"
+  status: "BACKEND_VERIFIED_20261017; native report PV12/UV2/direct-sourcePV12; primary consultation2 and WeChat1; includes QA visits, no customer-enquiry claim"
+  receipt: "evidence/baidu-analytics-20261016/receipt.json"
+  verification_followup: "evidence/baidu-analytics-backend-20261017/receipt.json"
+
+website_v1:
+  status: "PUBLISHED_LIVE_QA_PASSED_V1_ESTABLISHED"
+  revision: "f8690e826c7334c83a71"
+  production_baseline: "4214c0d6f6cd8e3dd8ce"
+  production_revision: "5c2760c23a73225e2ff6"
+  release_receipt: "evidence/deploy-article-service-links-20261019/receipt.json"
+  pending_local_change: "NONE; approved ten bilingual tutorial service links published20261019 and online QA passed"
+  rollback_target: "/srv/eli-sites/portfolio/domain-releases/20261019-home-metadata-fdaded69"
+  scope_reference: "docs/网站V1定型清单-20261016.md"
+  candidate_manifest: "evidence/website-v1-finalization-20261016/v1-manifest.json"
+  change_policy: "Keep current structure and style; fix verified defects and update confirmed business content; new design ideas are deferred unless user changes scope"

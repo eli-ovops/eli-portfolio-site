@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.eliai.cn/services/ai-agent.html",
+    "h1": "企业知识库搭建与客服辅助答疑",
+    "canonical": "https://www.eliai.cn/services/ai-agent.html",
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://www.eliai.cn/services/workflow-automation.html",
+    "h1": "库存核对与重复录入自动化",
+    "canonical": "https://www.eliai.cn/services/workflow-automation.html",
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://www.eliai.cn/services/fde-consulting.html",
+    "h1": "中小企业 AI 落地实施服务",
+    "canonical": "https://www.eliai.cn/services/fde-consulting.html",
+    "robots": "index,follow"
+  },
+  {
+    "url": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+    "h1": "How do you start a business knowledge base?",
+    "canonical": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+    "robots": "index,follow"
+  }
+]

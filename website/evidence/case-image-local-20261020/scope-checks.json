@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "changed_html": [
+    "cases/p02.html",
+    "cases/p05.html",
+    "en/cases/p02.html",
+    "en/cases/p05.html"
+  ],
+  "unchanged_html": 292,
+  "only_changed_elements": "4 responsive img elements; all copy, schema, anchor originals and other markup unchanged",
+  "protected_asset_files": 84,
+  "all_media_bytes_unchanged": true,
+  "payload_sizes": [
+    {
+      "case": "p02",
+      "original_bytes": 775310,
+      "responsive_candidates": [
+        {
+          "width": 640,
+          "bytes": 68807,
+          "reduction_fraction": 0.9112522732842347
+        },
+        {
+          "width": 1200,
+          "bytes": 172020,
+          "reduction_fraction": 0.7781274586939417
+        }
+      ]
+    },
+    {
+      "case": "p05",
+      "original_bytes": 1193449,
+      "responsive_candidates": [
+        {
+          "width": 640,
+          "bytes": 40492,
+          "reduction_fraction": 0.966071445030328
+        },
+        {
+          "width": 1200,
+          "bytes": 109454,
+          "reduction_fraction": 0.9082876603859905
+        }
+      ]
+    }
+  ],
+  "size_claim_boundary": "Existing file byte comparison; no speed, CWV or ranking improvement measured",
+  "search_submissions": 0,
+  "deployments": 0
+}

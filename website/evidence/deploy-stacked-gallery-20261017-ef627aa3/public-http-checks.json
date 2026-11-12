@@ -1,0 +1,67 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "about.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "en/index.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "en/about.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/depth-gallery.js",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/stacked-gallery.css",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/office-workflow.svg",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/site-analytics.js",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/site-analytics.css",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "robots.txt",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "sitemap.xml",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "requested": "http://eliai.cn/",
+    "final": "https://www.eliai.cn/",
+    "status": 200
+  },
+  {
+    "requested": "https://eliai.cn/",
+    "final": "https://www.eliai.cn/",
+    "status": 200
+  }
+]

@@ -1,0 +1,1183 @@
+{
+  "schema_version": 1,
+  "date_policy": "Explicit review date for significant HTML changes; ignore only the portfolio revision and navigation pv parameter. Ordinary builds never refresh dates.",
+  "baseline_evidence": "evidence/article-metadata-local-20261018/initial-date-evidence.json",
+  "pages": {
+    "about.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "881bad880bcbb16b38c72d5b643c29a88ce21434d00cbdf397830b6326c22d96"
+    },
+    "articles.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "9c30e6114a970280ea41595fd3c73a8c6f5dc6b8309f69c7dc2936b6804f2471"
+    },
+    "articles/acceptance-tests.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "96e41f50efefbfcd22e187f4fbe1024c84730f3ec55e5888b451017f61b0f2f6"
+    },
+    "articles/agent-feedback-loop.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "d2e451d2f6ec5dfd2b2e40188ceb514d9c61a37f4bba2ecb42fae3a66becd29e"
+    },
+    "articles/agent-first-task.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "60db968eb27bca4776aeb0120eeb44674dedaf638cd7010134a331b62e4ca9dc"
+    },
+    "articles/agent-memory.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "84941ac5d5bc7ee8aa983cc36ba1a396cc36c25c320dbc5f0b6cc2ca34a77355"
+    },
+    "articles/agent-plan-and-act.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "dfda2e7a341c25f7dd168c5b5db84a087250de4669016a0505113ed0d1ccf5bb"
+    },
+    "articles/agent-risk-checklist.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "c70b31d319ac099586152a540c33fb3510fe0c298f828bdb8a35f605d07f7dda"
+    },
+    "articles/agent-stop-rules.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "45dc4784a74304cf923609f8e288bce4bc17612645b2e3d781b20b9cc9a2b052"
+    },
+    "articles/agent-tools-permissions.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "8a9a01055787b96a3625659e606e704d57c87515112433fb8eaa4b888e24e2c9"
+    },
+    "articles/agent-workflow-difference.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0363724ac40d9367f368903b34f317ea5bfacc02c149772352d3773ed78e94c5"
+    },
+    "articles/ai-chat-vs-search.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f9702aecf7773070c929dcee849b13cc3f0bf9e7647f0675c70b5e3e91e9abfa"
+    },
+    "articles/ai-checkpoints.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "65cd17fad57c76d0830e69795d4ccc9ef71b4606904e8346ecf663881d3c521c"
+    },
+    "articles/ai-coding-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "2e72f71eede5d93f5d71399053cd9db25a0fadbf1797021049ce3211bc92366c"
+    },
+    "articles/ai-compare-options.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "6f6a6461f15a7b1040364c93774fd5dc44786f9cfca916f6a49d40cc1c0354f2"
+    },
+    "articles/ai-consultation-prepare.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "c807cb48cad5704c3511b7becb9a24d5cf1e01aa2f49825b807dcb3c77bff214"
+    },
+    "articles/ai-cost-breakdown.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4d3573c00544db9399d163d79345199000defc69899697b24667e954da1e8d21"
+    },
+    "articles/ai-debugging.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "9700703687bbe02a634b4502f2e8adfc172e127af20d9cc024a25f7db05ef413"
+    },
+    "articles/ai-email-draft.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "1c5bfc487ddff99dac05b4feceb064d8dc62640300e4e558fbd5b496371489d9"
+    },
+    "articles/ai-employee-training.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "30160477bb9e7ec10ff25a608bce22b201fc54efc89158fbd3afd11fe60c2577"
+    },
+    "articles/ai-file-reading.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "4f91e4e52cbafbd1b014afc0a061ec7dc71b3164013107cdd2d5c897122a610a"
+    },
+    "articles/ai-generated-images.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "40cc49d2f2fe6e8676905b0d3034d849c72bc42f95db12c65351014ae5517fb7"
+    },
+    "articles/ai-hallucination.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "256f82d23173ba3384a05fad6f160f50d55a25522a1c1a9ee1b1cd1d38bf0ec6"
+    },
+    "articles/ai-inventory-exceptions.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "d5831c58f9120912d5f02f68f1c70858173cc77e29372152fb4c13c4aff09551"
+    },
+    "articles/ai-jargon-map.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "4cf08a2b20f51cba59990d9523722230aa7855abef8713419f9b6b312002b5a0"
+    },
+    "articles/ai-knowledge-base-start.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "3751fd27ec4b20935fdc80f54a35167559eb3d7a5549679baddbe82935534cc8"
+    },
+    "articles/ai-learning-plan.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "49ae005f7832aec9385ef7e408aa482dcda53a939ed91851c215ecc3e965344a"
+    },
+    "articles/ai-maintenance-owner.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "6e5ab49896cf6d436ee602c1b05f6f62a0a71a403df6aa46092dcf4182807092"
+    },
+    "articles/ai-meeting-actions.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0a1c6a094122eb62e6f5c9dc8f697cc103141829ccd8055aa3e1bf9f1f35fa5e"
+    },
+    "articles/ai-ocr-check.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4cb78125a78370633539295bc9fdb87e7d7bc9f733114f9b8e1e3943be2cbc26"
+    },
+    "articles/ai-pilot-design.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "7a18688b4e783396f4d2f047545e65bab6b60b688f8dee0859edf4ede347d35a"
+    },
+    "articles/ai-privacy-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "872b07d7caa30bbe264544f705623efbccad70c748de3c952176bdfbc0acfe38"
+    },
+    "articles/ai-product-copy.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "54504b7ff23f0f6a9ead13811d1d0f6d65cfdb5155f3a834079484d548842195"
+    },
+    "articles/ai-sop-writing.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "04de61882ad4413e6e58c2d10790b716793209accd1f001ec15128f31191d7f3"
+    },
+    "articles/ai-spreadsheet-cleaning.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "7dad918fd03f209417c36593540065649a9817d9fb56b64f5d02c462e18f5791"
+    },
+    "articles/ai-task-selection.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "95410ba680ce65f722bca0e00d9555b8b4be32bbab8b3a34a7d10433cbbaa5ec"
+    },
+    "articles/ai-translation-review.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "d98222fc8fc1017b5396e1179ea59fd0766676472c822a4daf06064c795b2449"
+    },
+    "articles/ai-weekly-report.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f96cd57e453a2fa40e1716ccc8f9133706a5c0e55b00d7ac4e37d5c8fb522628"
+    },
+    "articles/ask-clarifying-questions.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "409839f5ed9c904d47bb8a19ff5d231439717c57e7b97ea8bbf827fde69928ae"
+    },
+    "articles/branch-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a78d386bc28e2e64945509acfe28e55a86d7d962abea068988d3641f352720df"
+    },
+    "articles/break-down-task.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "263d84c15ee51e85163972c6a6f47e7093e71b209cb4041f30c3c0e0f6fd8a00"
+    },
+    "articles/choose-ai-provider.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "8d439c18425b01fdb7b63768a469ef67a03ae58d94ea366ea72c6d933195990d"
+    },
+    "articles/choose-ai-tool.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "a32ba6e266de1a2e1434d1a57c80283ce93b0dcca4890454960d53ebf391ceeb"
+    },
+    "articles/coding-without-secrets.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a88ba052d9f25bd206ace010c0fc44220794fa797e43755b275d61a8c0d82cdc"
+    },
+    "articles/commit-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "173554596ad28a338d43a9977c55c49ba24c7b88590915ca47f708a5e85935f5"
+    },
+    "articles/context-window.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "02c6c0f9c43141cd1ef80051435a9182dcc7e65af9fcee1317d8946957bcb91d"
+    },
+    "articles/create-first-skill.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "0150e153a598398d4530030ce850c3c1a7bca40f53f2bd378dc2642f1d2029a9"
+    },
+    "articles/dependency-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "5b8e15887bc9ba64fd81121f7ddd5c6eb77060312c8f3a2ff6848144bbc6dc9d"
+    },
+    "articles/download-release-or-source.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "e1afa0f58357308e73b85a01036d658e4e390cd2b3e417dbaff92047d1d701a9"
+    },
+    "articles/embeddings-explained.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "82b13494333ff9b3eaab5d536d3aebbf7b2996bcbed57f03f39bffa8d855773e"
+    },
+    "articles/enterprise-knowledge-base.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b45729f2b5d2b645c7ff38642e128f3ce7c322fc7847f50454bf4717b64db7b2"
+    },
+    "articles/fine-tuning-or-rag.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "93644bf3e8b51237dc1de50d2ea6a94f2abd93119abcf2360076c1d93ccba50b"
+    },
+    "articles/first-ai-task.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "9e692c203cbec5d3fbb03c16067c47cc470190c419c2c26cfb5633d592eefe1f"
+    },
+    "articles/fix-bad-ai-answer.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "7fc92b2b6c8b7e8d58ee2d3d9811ecad14eca5fddee452d86978455fa4498c1b"
+    },
+    "articles/github-public-private.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6b781b1b1436ef8b0d7e188848810178a2cb647bb8df7b97651129391cb0a225"
+    },
+    "articles/how-llm-generates.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "94f3dbac565db03c2dccd490e14723000d9742da21974c9343bcc418b8fd6c6e"
+    },
+    "articles/inventory-reconciliation.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b68b8e922a17f3c7ba5b0a5d633539e676dcd289f6529b33a888a28e8ce23cf9"
+    },
+    "articles/issue-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "584cb4b714680ad180c10d6931f4217d575480326d6627cf5f17468568dc229e"
+    },
+    "articles/mcp-read-only.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "9be72a18bf72c16fe6f1f47cc6e6539adba25f43eab15e3861a1bc95f681d691"
+    },
+    "articles/mcp-vs-api.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "ceada9c3fc6f0fbe53032e27fb09eda50c35b9f0485f013968cb54cd1ab469e8"
+    },
+    "articles/measure-ai-benefit.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4f4a83a7747b51b74316d99de94d3df21ad25cca3d4402fd0e95e729e75bc563"
+    },
+    "articles/model-size-and-cost.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "b6d26685d7cddfe257bcaf82947167b104dc4160ab35cea754fc6ff675822360"
+    },
+    "articles/multi-agent-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "63b1b5c464a8494cd0b8400b44f0667918e27e06b3b5dc637387ac4c13e94033"
+    },
+    "articles/neural-network-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4f85c8fdfda60a0ea0f1da4e379032486d816ab8a8c8a417bd58122ee82dc7ae"
+    },
+    "articles/open-source-license.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "07b0fae598be1ed9e115c08907aee8841f1d04ec871b19ec304b040660eec08b"
+    },
+    "articles/owner-ai-first-step.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "827aa4910ef7395eea074dcea9cde53384e6e908dce1cfa5e715286738a1d375"
+    },
+    "articles/prompt-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "155dcdccfabd2b641c353f9a7ff38a589c9805dab84cc9949b9e68d87ac1d419"
+    },
+    "articles/prompt-injection-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "d6d3aa2f2b7ef80eed9192dab2c0d7925c8d17014c9e65f3718d6fc6173669c4"
+    },
+    "articles/prompt-with-example.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "ee496e8328430d64b2f8eae6c750a152d9db2de7ed7c7b24af852579210bded8"
+    },
+    "articles/provide-context.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cd60a8cfb48a690c8d5c082866759f8b66137849d9fed328477ee67f6ac3e405"
+    },
+    "articles/pull-request-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "fc796ee24ee5be2a5baf5ca1ce604027728513c81c8b57a1913a80af3952dc5b"
+    },
+    "articles/rag-explained.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cabd7f3651719cce4ba1f05ca9c6094679215f16a9935d9d13207bde05534751"
+    },
+    "articles/read-ai-code-plan.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "40afaa51b7e99600c7b1640dea12c0897aa932ce4baa82aeb5480b6e4788ef0b"
+    },
+    "articles/readme-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "06fe59fbe519f0997ddb1126962ec4e98bca45c9dd8511cc18e3d2fa37ed59ea"
+    },
+    "articles/repository-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "34d720ab31d5c1cbef2fab4bcc66dacae9ab403e90365363cb346ca6c8e134a5"
+    },
+    "articles/rewrite-with-ai.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "c65b1044001f2e66d6b556c4aaed2d578d180856566659404093c1a0ae823b86"
+    },
+    "articles/save-prompt-template.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "d7101e941b65292bef445aa3dfc99295205c5f6a2c54307084ebff52f6317e4a"
+    },
+    "articles/skill-file-structure.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a624dbed5f267a6b92af8c2357f4798e3aa9cb7975557b6ef33add5b0fde1e0d"
+    },
+    "articles/skill-install-safely.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "4eb4146e11afc5d7f590c41f4c726c0bdd95f904301865bb029b5268f6fd9ea1"
+    },
+    "articles/skill-not-working.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "343ebcd4088b6e1a856c82dec5358bc633489c1d1c435108cc9ed9dc49bf6150"
+    },
+    "articles/skill-vs-prompt.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "8bae486e8ec403fcb3c558df872b2077233ab60b246e5db18b669011b445ae93"
+    },
+    "articles/structured-ai-output.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "baf2276f7725531910af03bc38aa520c972948ca7ec31457aa221e5a46c11a76"
+    },
+    "articles/terminal-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "37530045a9a597448f2d5070a59b5c19dd4df5b681434ce4ee419e8b6603a8b0"
+    },
+    "articles/training-vs-inference.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "9436f810b7cc4e1bf81d3816595e230cf00b16ad9059d49362368fd0a43ec935"
+    },
+    "articles/what-is-agent.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "3ed216eab7ce4c0b32b96c6a0566978fdecdbc146780e36ed66bc3fe3b6a136f"
+    },
+    "articles/what-is-ai.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "810bdc92924ec134278199615dc7a73677cdb446326704281a78aa2e31747e1d"
+    },
+    "articles/what-is-fde-business.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b03166b0301d9c20d6d9825227c5a0ff2fe5e3280375af74ef204dd3225615c6"
+    },
+    "articles/what-is-github.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a2070a54683dae38c3a28af971ffa3ad7f74c11ebfedb10e7d4f70dafe6e5b59"
+    },
+    "articles/what-is-harness.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "abfbc2ba2274ca7c5823f9aee996b9fe1fd85fbc21fb96fc359dae43a9bd8a49"
+    },
+    "articles/what-is-llm.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "283a9e3a9a3a41a8b74bc7ff954df1a7bf95d03687aa4f90888ed2065142a153"
+    },
+    "articles/what-is-local-preview.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f72d2edd7f47d46864a349496bb29cde2e1a378e4fb64446a76dd22bc3d52b0c"
+    },
+    "articles/what-is-mcp.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "ac15f702e0aa9a31cd17a4e811acaf4ee300ac538eeec36fb8bf9d6bd875296a"
+    },
+    "articles/what-is-skill.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "3834c5d232c10355ff362a5b539c909e46de4d8d5e5ce9e7ceff7883758c43c0"
+    },
+    "articles/what-is-token.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "3c3c75b7b1619f9de4d4f81e6007d8ddf13fb82c34e6bf3bc4c217832f383bd0"
+    },
+    "articles/what-is-workbuddy.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "1914fcfdf2b47b73290d7f69e89ac28923fa0821d67b38155cfd4f1a6846ce8c"
+    },
+    "articles/workbuddy-connectors.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "d1c12166508b04aa9d536b3cc88af5929ade4bfcff2d919c9c20233732be9a00"
+    },
+    "articles/workbuddy-file-organizing.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "28fedb09e10d452efbb8f81970d7c6d5353bf88e98bedbc1406a67a350a9539f"
+    },
+    "articles/workbuddy-first-task.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "c3e932b81226cb3449bf50468ed24a794e71b348c27978c48ca06f3be5b4f71c"
+    },
+    "articles/workbuddy-meeting-notes.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "3f2335fb72885f49b01ec31ea016cd7b8e1d5cd23e723852d1db0e703854a037"
+    },
+    "articles/workbuddy-permissions.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "db5c4aa655ae15a9f6465ed13d289f9bacc6524c1012ec200c7d47fa60c80036"
+    },
+    "articles/workbuddy-skills.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "7add30d9902b7afdb0f08671a98dee15010dc2ec8f7065f888cf851830953ac7"
+    },
+    "articles/workbuddy-spreadsheet.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "b556c9fdd72f626da9e36a963f8ac75dcb080d63857ea8e1d952f090a70ace65"
+    },
+    "articles/workbuddy-task-failed.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "79df00396a1dd238566cbed2c4744b87d19c16bff525a26f37ec239e214ae3d8"
+    },
+    "articles/workbuddy-write-document.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "eecae2c0d5c4ddfd23fef0e04c0653daeada13ccec5e0a5322b0c92bce03425d"
+    },
+    "cases/n01.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b49accb74c050dba1fc35471fdb22dc5f1cd13ba6492c78eea15940cb502b857"
+    },
+    "cases/n02.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "049eb1ff6084a5bac41de2e3090a5fb769957f96dec662030b0bd1c5a50a54f7"
+    },
+    "cases/p01.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b83c5869227f32734bd829b5d2cc2b92854ed5ea993f48c46d3daded5bfa6c81"
+    },
+    "cases/p02.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2938e2007ac3639652bb49b3bb14ebdc0291daaf5586dbc5a940ae4881b04ca4"
+    },
+    "cases/p03.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a01b6542d391df762b08297f621ee601870446012053b011ccd786b55d1bb6c3"
+    },
+    "cases/p04.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "303e0961da490c627657e796e5af7d7d687c91e9d8d8a09745215e1eef2fd86d"
+    },
+    "cases/p05.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "900e9f61d3518414f43f5b0e6cf7e931ba198b3bd041b3964491bd0139fe9c59"
+    },
+    "cases/p06.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0c7daae6b1b69501b26c3cdfdb4f9d0ef16935b6ab5b0c25b458cb667a421abb"
+    },
+    "cases/p07.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "042fc85aff6567b0d44da3c9d85cc4d77c0608dc7faf34ce2fba93ea186e20ef"
+    },
+    "cases/p08.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2508069ffc0e6f06e989949f5ac187d33008a1ca7575ad4f3898b14ce4de3a62"
+    },
+    "cases/p09.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "92f5d722697968efb6d6b5732445bbd4794d0de7a388fe8de0f55f2c677a5d9e"
+    },
+    "cases/p10.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "013d4d4d839dd5b2f92ff217c6b3198526faae1188d841591d0f8824fcd69fc1"
+    },
+    "cases/p11.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "f1792184a0947f972eccc68b966230b6082645b59928fe8e3631c782f4ae9e74"
+    },
+    "cases/p12.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2ef140531bb184930eaa14bdaa3b7858e1ae358fa1990895bdce8c5907b633cd"
+    },
+    "cases/p13.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "d7d8d8bd94cad831d80bb530b6be077ac1f2b7b2f0b2ad226f323cb45fcac181"
+    },
+    "cases/p14.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cc05dd0b90ee74a7e4bee718cd52e2e38c1cdc1c3a1c5fb64893ea9f38d5d1f9"
+    },
+    "cases/p15.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4aa859759ca8bd9a5cce26f94b653553674fc6a2f56408f44da869b312c56b07"
+    },
+    "cases/p16.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "5936e9dbc88aa45c275975192f748a7fb9333127d027ae013de972b9dbfa5ee8"
+    },
+    "cases/p17.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "002766aa35f5ecb29821ec60819b03466e92617a7bf640cdfea5d9b198d21665"
+    },
+    "cases/p18.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "c262a86d3977dcf90b82a2b83094e3f72c2075551aaf7e497d7ec146d38e5ba0"
+    },
+    "cases/p19.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2e2a18625d17faf0315125cdbd9079bf9ee934c74689d442fb33581c67e68913"
+    },
+    "cases/p20.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4b23dd04496cc23aa96375d32d3dbef2775f1c0b22d3812c28cd75c5d1e8b59b"
+    },
+    "cases/p21.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b858694fb9b8361b6c2f2d40f0e9fa8d3e17a340d0591e36bee7dfa2c732e570"
+    },
+    "cases/p22.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "720d99948f49cb6fa3735a6734f1f23a113281139757f4cefd34bdf67ffe385a"
+    },
+    "cases/p23.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "970aee7894c916871d02e1651db7c3e38b45c0be06d0c7898aafe626d3230ced"
+    },
+    "cases/p24.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "19eb2a57ae9df10c40af813e3c7c4d78ec31e9f9b49bd243197dfe728ab2d538"
+    },
+    "cases/p25.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "f59356da23777ffd51720f0d06cc00cba4b4dad7aef78f57bdf0e7d7c0b696a5"
+    },
+    "cases/p26.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a4ce0924b8975d0d41c84da2be1e1c8c21b1947f0589cec2925414aec2f1058d"
+    },
+    "cases/p27.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "59cb1d1f5435067aabb3aabe1d26aa26a995c8d358ea774d7526ce3484137e49"
+    },
+    "cases/p28.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6c769228b58b1b781e19d0d4048a357e0407db1561fe9a43cee9f7b57da92b2c"
+    },
+    "cases/p29.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "06637552dd5a0e0f2946e35a5d55a1ee8375df2bfd8c62597091ed195a3f10ce"
+    },
+    "cases/p30.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "ebbde0aef62e3a82281a7cea219524933b5f014981216919ddbf236e89b239e3"
+    },
+    "cases/p31.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0930559dc303c42d542b9c3ccb00e11deaf6576c35337daeeabd19702826ae14"
+    },
+    "cases/p32.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "d64c3282da9e1cc26b0d29fd269682d5f651b09a3dc3a77a6b12b055ec062086"
+    },
+    "cases/p33.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2de314594edcdb95ec8a6496dfb340af8631faaa3e032338cd4ce41b8a1f01f8"
+    },
+    "cases/p34.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "8e11a78df834dd403bb531599d66d6532bf05a9d028ce89d4f482148b7da9e3b"
+    },
+    "cases/p35.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0250d629d72185e650ac4e94c30130314117c5e4ddcaa4d8e5ae8dd26ea5a664"
+    },
+    "cases/p36.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6f34b220d70d08d5e4730af2c96e52ec08c8f9ebc6c9972da409be0c63c5aee1"
+    },
+    "en/about.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "f6712f4b43f5341c956003baeafba433f9fbe192d1c9753abbd9f49460b8830a"
+    },
+    "en/articles.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "472bf422184d8253c2ef5e01d00c6e219ae0af05bda1136c602f97a04fb2572c"
+    },
+    "en/articles/acceptance-tests.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "7aacfb8366f543c534399a2f9bb3274818a762f2331b8a5c901a82813594ab52"
+    },
+    "en/articles/agent-feedback-loop.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "1f548ec4840d02bd4ccf0e48b3262887c5f6af0cdca29fa8affcd27022028b82"
+    },
+    "en/articles/agent-first-task.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a8afbbb8980fc7b882b34a655a19ba334dce49dc5c5e2d44ec674f00b6410be2"
+    },
+    "en/articles/agent-memory.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "78c2925beadd6d292cad5f706c7b4c7c91c77588fb6f947069c6724ddaef9c04"
+    },
+    "en/articles/agent-plan-and-act.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "36ff22344fbc82191abf0290f4be1f07326ca0aea116fecfcaa05d9873c8e338"
+    },
+    "en/articles/agent-risk-checklist.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "0e8ba198e2dd64bc3d9a5d05f4862a4b3282c66633bb916987e58d4e9208c21d"
+    },
+    "en/articles/agent-stop-rules.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "d960b1dc7490f1dc7558a5c6609accefb25bde894783630f12ca43e6ad6d32e6"
+    },
+    "en/articles/agent-tools-permissions.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "cf64bad2c03348bf107a67528bcecb1ee488332e58c0b6a7094bec29759a9a55"
+    },
+    "en/articles/agent-workflow-difference.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "1ec33bc5645cf2956afc069c5bfd3c57ea1cc6ce30243c3deda6e6e106259aa9"
+    },
+    "en/articles/ai-chat-vs-search.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "9cb4b18528db965fc4827cbe8e570f4f79d7c67e8f11a1c8bfe4ea65304f578e"
+    },
+    "en/articles/ai-checkpoints.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "e01bdf33040cefce0eb8fc18fd606419620857396afb45732f4374a56a7b6c0d"
+    },
+    "en/articles/ai-coding-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f8c6a19e33b70e0c1623ddb7135e31d3a7313ced70612567160404a86865ae52"
+    },
+    "en/articles/ai-compare-options.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "0e5a69ff470c3bc3187b22c1c7ae68876a018f4836dfa25760c5f08a2c9fcc26"
+    },
+    "en/articles/ai-consultation-prepare.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "c8acfdfa87a016d9b8eb0bd54d661092f68f3d93ae8539f7548a87386335c7ae"
+    },
+    "en/articles/ai-cost-breakdown.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "84521f6073d38f2f037715ad4f76664582297e6e1ac920cc9c0d391b89d73019"
+    },
+    "en/articles/ai-debugging.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "2c285624c0f1462eda8a9dfe4a757d2f130b31e1d439637cf00ec66395d33972"
+    },
+    "en/articles/ai-email-draft.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "408492bb0be839e17863785bf6d9cc569d09ba63f981f14e1c0bbda7c0a2f3c5"
+    },
+    "en/articles/ai-employee-training.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "45a8aa3490ee6f66e6e1d35138d17753d8ea8cef3a1c5029f7934d845630e2d4"
+    },
+    "en/articles/ai-file-reading.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "e8437e95292a84ffc85678084761e6d9a4c5331afaafbba5017cda46bc71bf58"
+    },
+    "en/articles/ai-generated-images.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "bb47547adb1fdcd95aac431919280669a285465e47045284e5fc039e4ef55134"
+    },
+    "en/articles/ai-hallucination.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4a2cdf1a9decec7abdd5b711d2ac497cdfd2132316758edde6a2647b4652e1e7"
+    },
+    "en/articles/ai-inventory-exceptions.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "9150233a6037aaba459f83c68afbd3e2b91ea9149e5ce41f5ba0ca0b86d447b3"
+    },
+    "en/articles/ai-jargon-map.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "da7c8fc8978a972924223abe452d535be6f2da4b6605b92b3d8061b0cf8b95e2"
+    },
+    "en/articles/ai-knowledge-base-start.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "f7a58c18245d9e2b7fe264f1df7ed01f8f52b093936ee0be259e37308f47cce7"
+    },
+    "en/articles/ai-learning-plan.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "9b86593a6f50a33106ddf9b5e975cb78d9addd62a4852ac0ea2125731693140d"
+    },
+    "en/articles/ai-maintenance-owner.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "e6b7f90bd24caa0ea6c2adc17f5d4efe8ad595bd541d95f79d5deb8eed498132"
+    },
+    "en/articles/ai-meeting-actions.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "e3f8eaf7992b993821bbbf2bce574c5618773039b811437387eff428a336414c"
+    },
+    "en/articles/ai-ocr-check.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "59cb6da1e47ad8b9a9e95442550937cc8d2e4d769d819a31410c8e8d11f4d4d8"
+    },
+    "en/articles/ai-pilot-design.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "191f2d83db40f63afa0ae06ad3927247e707263beea219cd74dd51d6be69271c"
+    },
+    "en/articles/ai-privacy-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "0623276f11e62a56319ed4cb43aaa5058f72772ad8ed3835cbbfe4da5978a817"
+    },
+    "en/articles/ai-product-copy.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "e76c30014afe90534b085fe789a341c9575d32296a55c5ef9b3e90f229387891"
+    },
+    "en/articles/ai-sop-writing.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6a10568ab68f7b4e3e6784bac6d29ca34f3cf7f782a3d38693732480c5a9baeb"
+    },
+    "en/articles/ai-spreadsheet-cleaning.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "33439b2265e6093c2e7cdcdb7e067b8143f2394cabd2f47bade31e453b2e60b3"
+    },
+    "en/articles/ai-task-selection.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f6203a4981c9b0b4a0a6eeeae75948795cd1144a3738d5e9acf5e0ec9041bbb4"
+    },
+    "en/articles/ai-translation-review.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cbe4ff571b78ed4b293fe1ac348cd89e8613f23d0b3c2b7f0e54aafec1303a7a"
+    },
+    "en/articles/ai-weekly-report.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "c35c839efd964ab87204e0dbb31c7491802e920aead48d95da7fb22bc5313cdb"
+    },
+    "en/articles/ask-clarifying-questions.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "92bb8959a3bfbd450f09d71ae9e6202afbeea0bdb4a5b25f4d31c64647b4a19d"
+    },
+    "en/articles/branch-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "8fb4b2396a7f2ec0ad2d9df4295c1ba5d8a370b6d5d138147f6600bd8f55761d"
+    },
+    "en/articles/break-down-task.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "1084bc4f6ce91c842ee5b2a50faac37bb8e337a4c3ca19d1e027e0cb574d7878"
+    },
+    "en/articles/choose-ai-provider.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "ddca6b1c523eb6a97f01cbf49d6e2cd167043fb4edccb826347eea4da27a72ec"
+    },
+    "en/articles/choose-ai-tool.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "fb84586a009d649d590e85b01d35a5f2bceda2c72d21b5065aa34ed768fbabcd"
+    },
+    "en/articles/coding-without-secrets.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4f1f8ea13cc02989c2acd165f22c1353255119081527e81849544c42a59bf0de"
+    },
+    "en/articles/commit-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "839e50600975b71cfad99278af44f74e912b09488ddeed2efb4a7c7bac74f02c"
+    },
+    "en/articles/context-window.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "e9893ffdf9e21b8dd6511bb0e725d59eaf57b648c9b1154b03e68edc5f465ef4"
+    },
+    "en/articles/create-first-skill.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "1e670080a3e740f042121430508624a68bbb9c9c973fb6428541797beb9aec39"
+    },
+    "en/articles/dependency-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "89b192e23ac3c6ecbb98355abcf784bc9fa4dfd2bf97140e7748830ef644d257"
+    },
+    "en/articles/download-release-or-source.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "b8cbf0f969cfeca7d0c5541be9932d0f54435455222c621e505733b4a59dc0d3"
+    },
+    "en/articles/embeddings-explained.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "798d0790de194d486eaa52b3b6e51744ea1c23256c861cef58267f79cb8b5e65"
+    },
+    "en/articles/enterprise-knowledge-base.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "d9090c460d6c3e5c8fa4730bc5ea370b43d6ac734fa1678a505f0fd00074cc24"
+    },
+    "en/articles/fine-tuning-or-rag.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "67337bc3771279d9c477b40027d555861ea9d7f8fd4fd080b2a959f12433adc4"
+    },
+    "en/articles/first-ai-task.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "5fccd1728a7bf3faa23364b1c68d69e6e1e9dd21324da5b3758aca19cd8e1138"
+    },
+    "en/articles/fix-bad-ai-answer.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "ebe8e18a536ef43d0808969ea401dc6b051ef024a570e7391fe8ccdc66e43460"
+    },
+    "en/articles/github-public-private.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "732563e18e7e7f3a1bf5a96450faa2e691f51b6df17125d35a44eff5e79ad587"
+    },
+    "en/articles/how-llm-generates.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "57f7f70507f6f6a0a4dc95b303454c3ee0265f25851a0c4ca57200c4691ac626"
+    },
+    "en/articles/inventory-reconciliation.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4a857b15b21e5f976558333fed36db35f4313008ee1052346637802606820b49"
+    },
+    "en/articles/issue-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b3335e301b4b8148b723746b7e4b98a42a88de3bbf6c7366fbef3c566c915964"
+    },
+    "en/articles/mcp-read-only.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "8053ce78a7c1ad1c1d9b782cc986f54bf22aa06a9d851df2b9bbd89902c485a3"
+    },
+    "en/articles/mcp-vs-api.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f1560df77628cf0cbbfb4e881fae62c0fde8e89aae352efa54da9940d568f347"
+    },
+    "en/articles/measure-ai-benefit.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a663a52acf5f388db31d60aa8c93131b1d246805a9404526615c5139d1d066b0"
+    },
+    "en/articles/model-size-and-cost.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "7e0d88721f65e3662813e05e64f68dfa7c1f77614f9111f32c3dbdb024353481"
+    },
+    "en/articles/multi-agent-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "dbe1f41cdcbfc236d43c4e23dcadde9fe7976cd3e81ed6c7455f65b62e56d4df"
+    },
+    "en/articles/neural-network-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "481ee07aeb53d03963f70a89cd8e0f1f701e3ff0637d34234bffab66500e7d02"
+    },
+    "en/articles/open-source-license.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "3110cc6d80e5928f3ab1052b3a914cc2373c2836fa403a1494ecd02224fe51f4"
+    },
+    "en/articles/owner-ai-first-step.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "3b3459c83fdee541866c4027c67a98c28d52013944af2f4bb8e703877b173d65"
+    },
+    "en/articles/prompt-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "abc7b6a336a9d0b355640a19ca283447de30db545ff7d214bb9ac1870a116fc5"
+    },
+    "en/articles/prompt-injection-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0fca6951d9cba87d387f4ca209270f4b83b5b9c646b57c0799954aa1f19ca0b4"
+    },
+    "en/articles/prompt-with-example.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "ac16c7977c293c7637f4735bd1fc1011b906c8910be483a16cd1798e4ca0c7fc"
+    },
+    "en/articles/provide-context.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "826e2f26324f34a01ea03d5969bb852738295d14a3f8b92df27eaa5071327348"
+    },
+    "en/articles/pull-request-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "3c349258ed04de3b67a25682afcce8441fbe586ec7ff440e40c988771c553cd2"
+    },
+    "en/articles/rag-explained.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "5327283a5bd0392440d14c960739f8cdc8a20da7224107d5260cbf0c24f88dcc"
+    },
+    "en/articles/read-ai-code-plan.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "70fae54e1a4e390fec648825addd29490a48bbba6f7291c566146bda5ea21b93"
+    },
+    "en/articles/readme-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "6b86cffe110a99759ed5f36354675859ad00ea8094901d16e48a51c35f2f9a15"
+    },
+    "en/articles/repository-basics.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "5a39a4253707cf86db7a13fb7a1c7e9262e73bdaf72e79454d5a90368de14225"
+    },
+    "en/articles/rewrite-with-ai.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "85c3e328c32f6de5f224fb8548b7c32ffb0d40fa05d14664113ddb6cebf9ec33"
+    },
+    "en/articles/save-prompt-template.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "7209c66704aa0ccab1952a2b815777ee6534b864dc10e6a1db0434723bfb85db"
+    },
+    "en/articles/skill-file-structure.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "3abdc43522e31750fafd2a2400d29f10c1fe90c0dee4ec67c4a1ae43606fe16b"
+    },
+    "en/articles/skill-install-safely.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "3076b5be390984d1846ae9379b338228d939dc9cbe63571587c3c569b3dbfdff"
+    },
+    "en/articles/skill-not-working.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "a251601ff17adb78674e7ef18d6155fcb00a7dc4b899df1bd989f12555aef7c9"
+    },
+    "en/articles/skill-vs-prompt.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "e2a14bd3f114bf54aa80f981c200399d87c613cdd779d5d502c5672b04620af6"
+    },
+    "en/articles/structured-ai-output.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "bac8540b5d58eb18d46d25282779b90fbaf2ce4a350230e562652de292556d03"
+    },
+    "en/articles/terminal-basics.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "ce5a8668ddbe0f98d9406e4350c745bd27d847f6f2a73eb2be2998677e531399"
+    },
+    "en/articles/training-vs-inference.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "66c78284d89a1c8221f191773eccd2315eb13a21b039ef812ab76824bff53788"
+    },
+    "en/articles/what-is-agent.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "dd4c27411bc0415c245f9ffb9e4ec93fe2368ac2689ee08c562d23b66734ff5c"
+    },
+    "en/articles/what-is-ai.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "83f81e52007274d38e59aa91d2f867bcecf3758c9b5904e85241e037cf01b427"
+    },
+    "en/articles/what-is-fde-business.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b3e77586939e9d5acf14715e8185a0486d7eb40890d92eb5235470d1088ff1ce"
+    },
+    "en/articles/what-is-github.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "76905f82d66f1b1afb6b28711bfb7b5f050a911739ea7debf778c520f9017e47"
+    },
+    "en/articles/what-is-harness.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "9d31979fda8574cc07694bc72be6ff4da4d333840ce447b790bc2802a112f50e"
+    },
+    "en/articles/what-is-llm.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "25692c144ce21881ab87e6f499aef3b71050837c58072681cc15c667b59e40cc"
+    },
+    "en/articles/what-is-local-preview.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "b8a0a94abd088ea332fa8bb50ad8e2ce2c7a1f17c4a8dbb858ab7ab64a95844e"
+    },
+    "en/articles/what-is-mcp.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6ecf1b0676687240df0d68f5df422103cda1ccb69b7da410e37dd7ce14b3dc42"
+    },
+    "en/articles/what-is-skill.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "895aa68614f8ab83f3b09e5adb8e3cea5683505b1dd7416d69769bd067301aaf"
+    },
+    "en/articles/what-is-token.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "8c4dbb905210925adfb83b0c4f480bb577eed629eddfcd2a878f981244e663c5"
+    },
+    "en/articles/what-is-workbuddy.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "bb99feaea949490a91cbf93855d853d2b1fd8de557db192ce3f2a67367b0f852"
+    },
+    "en/articles/workbuddy-connectors.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "2db61d820bee249823d33573f2a2e2c895886d4a82cecf34b23b4878604d532d"
+    },
+    "en/articles/workbuddy-file-organizing.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "f79eb92ca43cb7a50c2a5a221fa97121f9931daff5968b2002f278e61526a320"
+    },
+    "en/articles/workbuddy-first-task.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "57644d420ea22b021628e942f38510129c76470e880c8e2379c27270b2e0a5be"
+    },
+    "en/articles/workbuddy-meeting-notes.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "0889a3266748dac86c692e7a507d9b59f5112bbd2613427d6c051eb989e1c82c"
+    },
+    "en/articles/workbuddy-permissions.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "7e18062b3fc88a68b5e00f5894af8d8b50f31c0f84a32e46b0a1ddcdb9a0be33"
+    },
+    "en/articles/workbuddy-skills.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "293521d649cdfd922f580645575ddaa02c970a1704d51b7bf07bf4518a12a6dd"
+    },
+    "en/articles/workbuddy-spreadsheet.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "4a6dee92307ec049813f20a712173d6ca60a6b5db94074806c293f49e7462bd6"
+    },
+    "en/articles/workbuddy-task-failed.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "40ab34722c569c7d6fb2b1450934aaea38fa6805b12a071ae331312d1f33f1bb"
+    },
+    "en/articles/workbuddy-write-document.html": {
+      "lastmod": "2026-10-18",
+      "content_sha256": "d4b0059ef510b60e558dd61925e6c1ef694bf40d69835d1f797c14fee56350dc"
+    },
+    "en/cases/n01.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "92b2e73f4304ed6af3be9d9fabaa34ce6050ac8d51264a35f864913d15c579f9"
+    },
+    "en/cases/n02.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "ba00ff152a04193957403dedc4f945b61cb905504cdda981ecc7102402cbee2c"
+    },
+    "en/cases/p01.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "80dad815f780e48a4e4343279f8063ddeaf36dca58df5a93ccc627c86ffba671"
+    },
+    "en/cases/p02.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2978eb732a9dfa6c11ffa4babbac81fe6c7dee7e1c565c1a879999258e1ae620"
+    },
+    "en/cases/p03.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0e52550e6e4574ea58ee328965adfa9f09581415f262776e10b4469e0a80c138"
+    },
+    "en/cases/p04.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "efc1e4e4052f1fc0d20d673ee75e67d04bb29ef792fd813b0227a554c25ef0e0"
+    },
+    "en/cases/p05.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "1a8af7b2a61bf0fa27742de651ad54a204af8da489423ce7866ebac9ae7f058e"
+    },
+    "en/cases/p06.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "75b289401013206ce9d82a440b63156a63e3d50e84dc1af7997cdd5e88cbe677"
+    },
+    "en/cases/p07.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "375eeda08e50df54bc4a742e72e80a9a95d3b68459478184fc3714b06587c822"
+    },
+    "en/cases/p08.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "178bef5d503497ec641fdccf10839157f3d9e11891461b0d26fc9b6459cc171b"
+    },
+    "en/cases/p09.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cec71f312f9fb44e11c80c6ca58f6ef134e4e00eda417caf99ee05efff7f61d5"
+    },
+    "en/cases/p10.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2938f12464268293e2471c576a8b90fbd704408d408438f9bf11dea37570cee7"
+    },
+    "en/cases/p11.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a8647f3677fb9dd53523dd011b28292be3daf79ce7be2a0da7074e49cf466ac9"
+    },
+    "en/cases/p12.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6574ed35033232ed97705875ce01de384309e90b06abace36364ae8e5be090e9"
+    },
+    "en/cases/p13.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "c13c982adeffa98885c99589a4a6c751175f1bca21a677057e7db5a23cef3791"
+    },
+    "en/cases/p14.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "336f765d58ab71887370c673f7153887797c04afb1e92e7afeb4d2776d168c38"
+    },
+    "en/cases/p15.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2749f684f0ca2e485d181c15403b4005a5472a197a3afee5df1f97cb008773ea"
+    },
+    "en/cases/p16.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2e70dfec85541e94993bc7f20a757e0ef79ba764237566eeffbae33439b446c2"
+    },
+    "en/cases/p17.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "45a2023292783b66a3a3765ed2ea064376f53cc35eacf5dc24987a1f42b52bd9"
+    },
+    "en/cases/p18.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "c8b33e48103fff4d6c68c2c34a33fda2091ddf189b8ecd0c026af706657f6f9d"
+    },
+    "en/cases/p19.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "42aefb6dd6fb4e5680cdcc858efc17786d0ef6f7b2880070e7c8fc4ed766c883"
+    },
+    "en/cases/p20.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b2d737a01ebe4e3cb21039c96f553e25726e162dac4743145a04637a4c1f813d"
+    },
+    "en/cases/p21.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "60c23df7cf8078ebc73b0bf8a48cfb56eb7be5b4c3e5d1cff4632f86c904e431"
+    },
+    "en/cases/p22.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "6beb6253e047e514e10f3ed0cd0ae81562c30ed63e9bdf99181311ec9cbfb0d9"
+    },
+    "en/cases/p23.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "fa50bb5c712c46afefee936c6725bf40e7487a72847d16dafb6968b973d854dd"
+    },
+    "en/cases/p24.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cae7f4e38ab75bdea6c9914fbae381b2e3238391e2f46092062ca3a320cb35d6"
+    },
+    "en/cases/p25.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "cda5620c996641f7799b3165987eddbd9f69feb340e0fe441415f48c292fbd02"
+    },
+    "en/cases/p26.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "1651126dc949925d97b443c186be445f5438597c4c580e6085ac570a079c357f"
+    },
+    "en/cases/p27.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "b2f3cf7dec491c089e172a408b3b1f6da6c186a353394e4078bd491892015b55"
+    },
+    "en/cases/p28.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "186d593b3181e76f2a5b9b97ff9acbb77ca24dfeac69d395a2930acd7d1497e2"
+    },
+    "en/cases/p29.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "0ee4c7def3ebde0d3bfc1b92fbee5a6c7c2ef63b3a951f9a03f8c8910a9aeb44"
+    },
+    "en/cases/p30.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "31032e0187f8934a8913d09124154443e17fe6ac44b136e03f6bc5625aa85e69"
+    },
+    "en/cases/p31.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "a28ec6abaa8f6b478c9ee3516556f5fbfcf9b8a1b2d18ad5aef907d4cbe2b06d"
+    },
+    "en/cases/p32.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "e2115eb92b4118b214304e702af019a9f98aa5dc737a8103d6c068495e674799"
+    },
+    "en/cases/p33.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "c36dbc0c32a3b584159b1128467f542cebfc57b835494b687bd20ea1dc9c99b5"
+    },
+    "en/cases/p34.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "778599c9da5a49130af908832777c182c42ac9228039ef6b3582e293a6226b70"
+    },
+    "en/cases/p35.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "2ec3c377d72c2dc0cb5a6f90f1f03607db2584faa108852ebe518abcd8506609"
+    },
+    "en/cases/p36.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "abbdb1d96d1d0259fb571fbfcf7163a0c711ae694269a5f5c137d17e8c2a2f41"
+    },
+    "en/index.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "c4fd1d438d63a0efd7b0a67f0b9f86d608ccb934d834fe49e39766e34478d18e"
+    },
+    "en/records.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "e408e02798db2f707eefff45a10f378a1ddc82b4cf8b4a0bde630b44da2490c3"
+    },
+    "en/services/ai-agent.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "1839d961da03b8a61c5f3a13aef5f7331f1105dd019f2b191e3cadea201affc6"
+    },
+    "en/services/fde-consulting.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "805b10d2286eb5e905d0770c280aaaada4c78b5b3ecd7602876030aeee7e9644"
+    },
+    "en/services/workflow-automation.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4f5d418550a6a8866e560222691c9a3dc39b5ee86bda0ba1192d520ccf210456"
+    },
+    "index.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "55a1f95ed47400f33c78d1dc99af3b51307190da4c47e2832367e9200b75759e"
+    },
+    "records.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "c63275849a738f350bbc9bd7d81c0f69d392027f6681f9a7f7bed2be096afa53"
+    },
+    "services/ai-agent.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "4169d31f60a79763bb20610a3de5bd7f5198bca1d3fb36608f19c697b97448d8"
+    },
+    "services/fde-consulting.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "56aa8bff43353b19fbb51d7242203e51e176da95ae024d5c08c4d02f23460e5f"
+    },
+    "services/workflow-automation.html": {
+      "lastmod": "2026-10-17",
+      "content_sha256": "5a659ca10971a79f788faf8a0d68f49d758bda5af6a9abef08746c7b55e6f3d9"
+    }
+  }
+}

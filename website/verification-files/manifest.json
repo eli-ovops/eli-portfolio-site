@@ -1,0 +1,14 @@
+{
+  "purpose": "Official public ownership-verification files for Google, Bing, Yandex, Baidu, Sogou and Toutiao",
+  "required_on_every_domain_release": true,
+  "public_root_files": {
+    "google0fc37373bc2d604d.html": "3830ee36cd6cfcac2f70d9c529dd24c9a7eb91051facd82373e000f7203dcf6f",
+    "BingSiteAuth.xml": "9619192a0881925168f97bf6e27c1fb4b478d51644fbe5252659c4592a76f2cd",
+    "yandex_56b4e9c66008d8fa.html": "0051852cb97d69d6ce1c4613e0e340801c46fd018e59bc21f37927d461fe0234",
+    "baidu_verify_codeva-UabAhVS0s3.html": "431f2f8309ecb3e9ffeb44129a9bf2b2a0f690316cb73c4a5256a62ab8a6e080",
+    "sogousiteverification.txt": "a49bf019beb593aac8c035d832e8f3d07f2b94d8743745293593ac6e8b4c5ff0",
+    "ByteDanceVerify.html": "6143c7fdb126815e9d95618f7ae7b65dc64025ba61c34ab7c9038b39c621fd53"
+  },
+  "property": "https://www.eliai.cn/",
+  "do_not_list_in_sitemap": true
+}

@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-23T02:23:13.714Z",
+  "user_reported_login_completed": true,
+  "observed_url": "https://zhanzhang.sogou.com/index.php/site/index",
+  "native_login_recovered": false,
+  "observations": [
+    "Native analysis route returned to public landing page with login control",
+    "One ordinary reload remained unauthenticated",
+    "Existing login dialog retained with CAPTCHA prompt; no field values read or saved"
+  ],
+  "index_total": "UNKNOWN",
+  "status": "LOGIN_NOT_EFFECTIVE_IN_CURRENT_IAB_SESSION",
+  "retained_tab": "4",
+  "website_changes": 0,
+  "submissions": 0
+}

@@ -1,0 +1,136 @@
+Browser tab: 5, Title: "在 Google 搜索结果中的表现", URL: "https://search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&num_of_days=7&page=~%5Ehttps%3A%2F%2Fwww%5C.eliai%5C.cn%2Fservices%2F(fde-consulting%7Cai-agent%7Cworkflow-automation)%5C.html(%5B%3F%23%5D.*)%3F%24".
+0 AXWebArea 在 Google 搜索结果中的表现, URL: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&num_of_days=7&page=~%5Ehttps%3A%2F%2Fwww%5C.eliai%5C.cn%2Fservices%2F(fde-consulting%7Cai-agent%7Cworkflow-automation)%5C.html(%5B%3F%23%5D.*)%3F%24
+	1 container
+		2 container yDmH0d
+			3 container gb
+				4 container
+					5 button (collapsed) Description: 主菜单, Secondary Actions: Expand
+						6 image
+					7 link Description: Google Search Console, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F, ID: sdgBod
+					8 container
+						9 combo box (collapsed, settable) Description: 检查 https://www.eliai.cn/ 中的任何网址, Secondary Actions: Expand
+					10 button 搜索
+						11 image
+					12 button 帮助
+					13 button 用户设置
+					14 container
+						15 button 未读消息：2 条
+						57 text 2
+					17 button (collapsed) Description: Google 应用, Secondary Actions: Expand
+					18 button (collapsed) Description: Google 账号： Eli Chao ([REDACTED_EMAIL]), Secondary Actions: Expand
+			19 container navigational drawer
+				20 container
+					21 container 主要
+						22 pop up button (collapsed) Description: 搜索资源, Secondary Actions: Expand
+							23 image 网站图标
+							24 combo box (collapsed, settable) Description: https://www.eliai.cn/, Secondary Actions: Expand
+						25 container
+							26 link Description: 概述, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							27 link Description: 数据洞见, Value: search.google.com/search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							28 link Description: 效果, Value: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							29 button 网址检查
+								30 text 网址检查
+						31 container
+							32 text 编制索引
+							33 button (expanded) Description: “编制索引”报告部分, Secondary Actions: Collapse
+							34 link Description: 网页, Value: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							35 link Description: 站点地图, Value: search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							36 link Description: 移除, Value: search.google.com/search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+						37 container
+							38 text 体验
+							39 button (expanded) Description: “体验”报告部分, Secondary Actions: Collapse
+							40 link Description: 核心网页指标, Value: search.google.com/search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							41 link Description: HTTPS, Value: search.google.com/search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+						42 container
+							43 text 安全问题和人工处置措施
+							44 button (collapsed) Description: “安全问题和人工处置措施”报告部分, Secondary Actions: Expand
+						45 container
+							46 link Description: “链接”报告, Value: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							47 link Description: 成就, Value: search.google.com/search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							48 link Description: 设置, Value: search.google.com/search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+						49 container
+							50 button 提交反馈
+								51 text 提交反馈
+							52 button Search Console 简介
+								53 text Search Console 简介
+						54 container
+							55 link Description: 隐私权, Value: myaccount.google.com/privacypolicy?hl=zh-CN
+							56 link Description: 条款, Value: myaccount.google.com/termsofservice?hl=zh-CN
+			58 container
+				59 container 路径
+					60 heading 效果, Value: 1
+						61 text 效果
+				62 pop up button (collapsed) Description: 导出, Secondary Actions: Expand
+				63 container
+					64 Select time range
+						65 radio button 24 小时, Value: 0
+						66 radio button 7 天, Value: 1
+						67 radio button 28 天, Value: 0
+						68 radio button 3 个月, Value: 0
+					69 button More time ranges
+					70 content list
+						71 button 搜索类型：网络
+						72 button 网页：自定义（正则表达式）
+							73 text 网页：自定义（正则表达式）
+						74 button 移除网页：自定义（正则表达式）
+						75 pop up button (collapsed) 添加过滤条件, Secondary Actions: Expand
+						76 button 使用 AI 自定义效果报告
+						77 button 重置过滤条件
+							78 text 重置过滤条件
+				79 text 上次更新日期：4.5小时前
+				80 container
+					81 container
+						82 button 总点击次数 0
+							83 text 总点击次数
+							84 text 0
+						85 container
+							86 button (collapsed) Description: null, Secondary Actions: Expand
+						87 button 总曝光次数 0
+							88 text 总曝光次数
+							89 text 0
+						90 container
+							91 button (collapsed) Description: null, Secondary Actions: Expand
+						92 button 平均点击率 0%
+							93 text 平均点击率
+							94 text 0%
+						95 container
+							96 button (collapsed) Description: null, Secondary Actions: Expand
+						97 button 平均排名 0
+							98 text 平均排名
+							99 text 0
+						100 container
+							101 button (collapsed) Description: null, Secondary Actions: Expand
+						102 pop up button (collapsed) Description: 所选时间粒度：每日, Secondary Actions: Expand
+							103 image
+						104 text 应用过滤条件后，图表总计和表格结果可能不完整。 
+						105 link Description: 了解详情, Value: support.google.com/webmasters/answer/7576553/#data_discrepancies
+						106 container chart
+							107 text 图表，包含从 2026年10月14日到 2026年10月17日的总点击次数、总曝光次数、平均点击率和平均排名计数
+					108 container dimension-tables
+						109 tab group
+							110 tab (selected, settable, boolean) 查询数, Value: 1
+查询数
+							111 tab (selectable, settable, boolean) 网页, Value: 0
+网页
+							112 tab (selectable, settable, boolean) 国家/地区, Value: 0
+国家/地区
+							113 tab (selectable, settable, boolean) 设备, Value: 0
+设备
+							114 tab (selectable, settable, boolean) 搜索结果呈现, Value: 0
+搜索结果呈现
+							115 tab (selectable, settable, boolean) 天, Value: 0
+天
+						116 container
+							117 pop up button (collapsed) Description: 过滤表格行, Secondary Actions: Expand
+							118 table
+								119 row
+									120 cell
+										121 text 热门查询
+									122 cell
+										123 text 点击次数
+									124 cell
+										125 text 展示
+							126 text 无数据
+		127 text 在 Google 搜索结果中的表现
+
+The focused UI element is 0 AXWebArea 在 Google 搜索结果中的表现, URL: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&num_of_days=7&page=~%5Ehttps%3A%2F%2Fwww%5C.eliai%5C.cn%2Fservices%2F(fde-consulting%7Cai-agent%7Cworkflow-automation)%5C.html(%5B%3F%23%5D.*)%3F%24

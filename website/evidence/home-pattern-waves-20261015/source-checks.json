@@ -1,0 +1,29 @@
+{
+  "original_shaders_preserved": {
+    "passVertex": true,
+    "fieldFragment": true,
+    "rippleFragment": true,
+    "markFragment": true
+  },
+  "protected_source": {
+    "styles.css": true,
+    "motion.css": true,
+    "motion.js": true,
+    "app.js": true,
+    "assets/depth-gallery.js": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "assets/editorial.js": true,
+    "assets/editorial.css": true,
+    "templates/about.html": true,
+    "content/seo.json": true,
+    "content/projects.json": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/case-examples.json": true,
+    "scripts/components.py": true,
+    "scripts/localization.py": true
+  },
+  "upstream_sha256": "e78df18acac7eb4af99875fc81261c76602896a920dde4ae35367c627e4e9994",
+  "origin": "https://github.com/DavidHDev/react-bits/commit/e1bbb696fc53f7f91e694c529e4d68c899773b6e"
+}

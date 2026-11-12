@@ -1,0 +1,13 @@
+{
+  "source": "Official site-specific hm.baidu.com SDK",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "methods": {
+    "_setAutoPageview": false,
+    "_setAutoEventTracking": false,
+    "_trackPageview": false,
+    "_trackEvent": false,
+    "_setAutoTracking": false
+  },
+  "download_bytes": 0,
+  "status": "EMPTY_RESPONSE_NOT_FUNCTIONAL_PROOF"
+}

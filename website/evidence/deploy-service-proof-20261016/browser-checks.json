@@ -1,0 +1,95 @@
+[
+  {
+    "consultTop": 578.25,
+    "proofBottom": 564.25,
+    "scrollWidth": 390,
+    "url": "https://www.eliai.cn/services/fde-consulting.html?pv=5c339ba5abc7de987497",
+    "width": 390
+  },
+  {
+    "proofTop": 106.0625,
+    "scrollWidth": 390,
+    "step": "related-return",
+    "url": "https://www.eliai.cn/services/fde-consulting.html?pv=5c339ba5abc7de987497#service-proof",
+    "width": 390
+  },
+  {
+    "contactTop": 116.390625,
+    "links": [
+      {
+        "href": "mailto:[REDACTED_EMAIL]",
+        "text": "[REDACTED_EMAIL] ↗"
+      },
+      {
+        "href": "tel:[REDACTED_PHONE]",
+        "text": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "https://wa.me/[REDACTED_PHONE]",
+        "text": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "assets/wechat-qr.png",
+        "text": ""
+      }
+    ],
+    "scrollWidth": 390,
+    "step": "consult",
+    "url": "https://www.eliai.cn/about.html?pv=5c339ba5abc7de987497#contact",
+    "width": 390
+  },
+  {
+    "consultTop": 592.4375,
+    "proofBottom": 578.4375,
+    "scrollWidth": 390,
+    "url": "https://www.eliai.cn/services/ai-agent.html?pv=5c339ba5abc7de987497",
+    "width": 390
+  },
+  {
+    "step": "agent-return",
+    "url": "https://www.eliai.cn/services/ai-agent.html?pv=5c339ba5abc7de987497#service-proof"
+  },
+  {
+    "consultTop": 592.4375,
+    "proofBottom": 578.4375,
+    "scrollWidth": 390,
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=5c339ba5abc7de987497",
+    "width": 390
+  },
+  {
+    "step": "workflow-browser-back",
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=5c339ba5abc7de987497"
+  },
+  {
+    "proofBottom": 515.84375,
+    "scrollWidth": 320,
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=5c339ba5abc7de987497",
+    "width": 320
+  },
+  {
+    "consultTop": 747.828125,
+    "proofBottom": 733.828125,
+    "scrollWidth": 320,
+    "url": "https://www.eliai.cn/en/services/ai-agent.html?pv=5c339ba5abc7de987497",
+    "width": 320
+  },
+  {
+    "step": "english-return",
+    "url": "https://www.eliai.cn/en/services/ai-agent.html?pv=5c339ba5abc7de987497#service-proof"
+  },
+  {
+    "contactTop": 104.421875,
+    "scrollWidth": 320,
+    "step": "english-consult",
+    "url": "https://www.eliai.cn/en/about.html?pv=5c339ba5abc7de987497#contact",
+    "width": 320
+  },
+  {
+    "consultTop": 650.84375,
+    "proofBottom": 636.84375,
+    "scrollWidth": 320,
+    "step": "chinese-320",
+    "url": "https://www.eliai.cn/services/ai-agent.html?pv=5c339ba5abc7de987497",
+    "width": 320
+  }
+]

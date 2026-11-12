@@ -1,0 +1,8 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261015-131729-records-catalog",
+  "target": "/srv/eli-sites/portfolio/releases/20261015-131729-records-catalog",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-133040-boss-consult",
+  "files_verified": 138,
+  "package_sha256": "e85a44f5f5993997477e3086f2d22c7e125711aaa0222e05a03d0ad80ac5c07c"
+}

@@ -1,0 +1,22 @@
+{
+  "before": {
+    "iconWidth": "24px",
+    "order": [
+      "project-p10",
+      "project-p09"
+    ],
+    "query": "库存",
+    "revision": "7169f5ed45fbbb725ed3",
+    "url": "http://127.0.0.1:4179/records.html?pv=7169f5ed45fbbb725ed3&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+  },
+  "after": {
+    "iconWidth": "24px",
+    "order": [
+      "project-p10",
+      "project-p09"
+    ],
+    "query": "库存",
+    "revision": "7169f5ed45fbbb725ed3",
+    "url": "http://127.0.0.1:4179/records.html?pv=7169f5ed45fbbb725ed3&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+  }
+}

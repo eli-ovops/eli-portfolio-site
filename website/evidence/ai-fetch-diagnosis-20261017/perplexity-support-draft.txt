@@ -1,0 +1,31 @@
+To: [REDACTED_EMAIL]
+Subject: Perplexity Search cannot read a public static HTML service page on eliai.cn
+
+Hello Perplexity Support,
+
+I operate https://www.eliai.cn/. Perplexity Search reports that it cannot fetch the body of this public page:
+https://www.eliai.cn/services/fde-consulting.html
+
+Reproduction on 17 October 2026, approximately 15:19 UTC+8:
+1. Sign in to Perplexity and use a new incognito conversation with Search enabled and Computer disabled.
+2. Ask it to read the URL above and identify the intended customers and the distinction between free initial consultation and paid implementation, with a source link.
+3. The answer says the direct fetch failed and that it cannot read the page body. The same happened after completing the Perplexity browser security check.
+
+A diagnostic query parameter was also used:
+https://www.eliai.cn/services/fde-consulting.html?diag=perplexity-fresh-20261017
+No request for that diagnostic URL was observed in the origin access log during the test. This alone does not establish the cause; the fetch might have been normalized, cached or failed upstream.
+
+Checks already completed:
+- The page returns HTTP 200 with text/html. Its service description and pricing are present in the static HTML without JavaScript.
+- It has a self-referencing HTTPS canonical and index,follow. The site's robots.txt allows all paths and lists its sitemap.
+- TLS trust and hostname verification succeed for the www and apex hostnames.
+- Genuine PerplexityBot requests, matched to your published IP ranges, successfully fetched robots.txt, the homepage, records.html and cases/p13.html with HTTP 200 at approximately 15:02 UTC+8 on the same date.
+- No matching origin errors were found in the examined log window. The service-page fetch itself has not been observed at origin.
+
+Could you check whether this service URL is affected by a fetch failure, cached failure or a URL/domain policy, and advise the supported remediation? We do not want to weaken security or repeatedly submit URLs without evidence.
+
+Other public service URLs for comparison (not claimed to have the identical reproduced failure):
+https://www.eliai.cn/services/ai-agent.html
+https://www.eliai.cn/services/workflow-automation.html
+
+Thank you.

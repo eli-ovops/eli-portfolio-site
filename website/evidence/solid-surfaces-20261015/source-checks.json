@@ -1,0 +1,15 @@
+{
+  "changed_sources": {
+    "DESIGN.md": "aa9affe563c3b934771cafbc3770659542b9ac79649bc77b0aecaaacde68a462",
+    "assets/bits-ui.css": "b1e4a9c43ecc483a98eafa83d75e2643ea44b170170b6193514bf92fef223367",
+    "assets/bits-ui.js": "e9bd8e6ea70f49a6de29780af8db78682509cdf870350151e3257afdd4d5d8b1",
+    "assets/dither-veil.css": "1f4a0fcd86e76cc204e80cdb64a01f42781a3fbc87e9f687266c7c75a8e7d269",
+    "assets/editorial.css": "2adcaea43be521229f41247aa90e1322dcfcc485a2c7a996f95d8fb10a40c8c9",
+    "assets/editorial.js": "f36c6d91a2896ee557020b45c5ba3bf24bdaad3611e50b905646c582cef14630",
+    "docs/\u4ea4\u4ed8\u4e0e\u9a8c\u8bc1.md": "c102d67223adf18653de2986f5be66a4697d8be03cccd35a5689d4ce2ed0632e",
+    "site.yaml": "04c1cb3f3ee194d464fdd792be0fc60d7886a825fe1c08ee29f441d45c35a57d",
+    "styles.css": "0ea25f1104c04967e32d282ad807eed9ef395c018d1009db2ab1d527caffe1a9"
+  },
+  "protected_checks": "protected-before.json / protected-after.json",
+  "temporary_files": "None outside evidence; exact backups and screenshots retained; no deletion"
+}

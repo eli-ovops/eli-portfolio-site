@@ -1,0 +1,196 @@
+- link "logo":
+  - /url: /
+  - img "logo"
+- list:
+  - link "搜索学堂":
+    - /url: /college#/type=1&cate=newcontent
+  - link "搜索服务":
+    - /url: /dashboard/index
+  - listitem: 互动交流
+  - link "资源合作":
+    - /url: /cooperateresource/index
+  - link "用户中心":
+    - /url: /site/index
+- link:
+  - /url: /prompt/index
+- link:
+  - /url: https://passport.baidu.com
+- link "子建大魔王":
+  - /url: https://passport.baidu.com
+- text: "|"
+- link "退出":
+  - /url: /auth/logout?u=https%3A%2F%2Fziyuan.baidu.com%2Fproperty%2Findex%3Fsite%3Dhttps%253A%252F%252Fwww.eliai.cn%252F
+- list:
+  - link:
+    - /url: [private-support-link-redacted]
+  - link:
+    - /url: /feedback/index
+  - link:
+    - /url: "#top"
+- generic: 站点
+- textbox "点击选择站点": https://www.eliai.cn
+- generic: 将该网站设置为默认站点
+- term:
+  - link "站点信息":
+    - /url: /dashboard/index?site=https://www.eliai.cn/
+- definition
+- term:
+  - link "资源提交":
+    - /url: "#"
+- definition:
+  - link "快速抓取":
+    - /url: /fastcrawl/index?site=https://www.eliai.cn/
+  - link "普通收录":
+    - /url: /linksubmit/index?site=https://www.eliai.cn/
+  - link "移动适配":
+    - /url: /mobile/index?site=https://www.eliai.cn/
+  - link "死链提交":
+    - /url: /badlink/index?site=https://www.eliai.cn/
+- term:
+  - link "数据统计":
+    - /url: "#"
+- definition:
+  - link "索引量":
+    - /url: /indexs/index?site=https://www.eliai.cn/
+  - link "流量与关键词":
+    - /url: /keywords/index?site=https://www.eliai.cn/
+  - link "抓取频次":
+    - /url: /pressure/index?site=https://www.eliai.cn/
+  - link "抓取诊断":
+    - /url: /crawltools/index?site=https://www.eliai.cn/
+  - link "抓取异常":
+    - /url: /crawl/index?site=https://www.eliai.cn/
+  - link "Robots":
+    - /url: /robots/index?site=https://www.eliai.cn/
+- term:
+  - link "搜索小工具":
+    - /url: "#"
+- definition:
+  - link "小工具提交":
+    - /url: /aitoolset/index?site=https://www.eliai.cn/
+  - link "我的小工具列表":
+    - /url: /aitoolset/list?site=https://www.eliai.cn/
+  - link "数据看板":
+    - /url: /aitoolset/databoard?site=https://www.eliai.cn/
+- term:
+  - link "权威溯源":
+    - /url: "#"
+- definition:
+  - link "权威提交":
+    - /url: /sourcetrace/index?site=https://www.eliai.cn/
+  - link "我的溯源提交":
+    - /url: /sourcetrace/dashboard?site=https://www.eliai.cn/
+- term:
+  - link "AI流量分析":
+    - /url: /aiflow/index?site=https://www.eliai.cn/
+- definition
+- term:
+  - link "搜索展现":
+    - /url: "#"
+- definition:
+  - link "站点属性":
+    - /url: /property/index?site=https://www.eliai.cn/
+  - link "站点子链":
+    - /url: /sitelink/index?site=https://www.eliai.cn/
+  - link "视频极速服务":
+    - /url: /videomonetize/index?site=https://www.eliai.cn/
+- term:
+  - link "优化与维护":
+    - /url: "#"
+- definition:
+  - link "网站改版":
+    - /url: /rewrite/index?site=https://www.eliai.cn/
+- heading "站点属性" [level=1]
+- generic: 使用说明
+- list:
+  - listitem: 可对站点的一些基本信息继续设置，在此提交的数据百度会根据策略进行筛选，不保证完全采用
+- heading "品牌信息" [level=2]
+- table:
+  - rowgroup:
+    - row "站点Logo： 无权限 了解站点Logo及权限获得方法请点击了解详情 提交":
+      - cell "站点Logo："
+      - cell "无权限 了解站点Logo及权限获得方法请点击了解详情":
+        - strong: 无权限
+        - paragraph:
+          - text: 了解站点Logo及权限获得方法请点击
+          - link "了解详情":
+            - /url: /college/articleinfo?id=2998
+      - cell "提交":
+        - button "提交"
+    - row "品牌展现： （名称） 无权限 了解品牌展现及权限获得方法请点击了解详情 提交":
+      - cell "品牌展现： （名称）":
+        - text: 品牌展现：
+        - text: （名称）
+      - cell "无权限 了解品牌展现及权限获得方法请点击了解详情":
+        - strong: 无权限
+        - paragraph:
+          - text: 了解品牌展现及权限获得方法请点击
+          - link "了解详情":
+            - /url: /college/articleinfo?id=2986
+      - cell "提交":
+        - button "提交"
+- heading "基础信息" [level=2]
+- table:
+  - rowgroup:
+    - row "关联主体： 未关联 站点关联主体后即可提交资源并有机会享有快速进入搜索的权益，查看关联主体使用说明 关联主体":
+      - cell "关联主体："
+      - cell "未关联 站点关联主体后即可提交资源并有机会享有快速进入搜索的权益，查看关联主体使用说明":
+        - strong: 未关联
+        - paragraph:
+          - text: 站点关联主体后即可提交资源并有机会享有快速进入搜索的权益，
+          - link "查看关联主体使用说明":
+            - /url: https://ziyuan.baidu.com/college/articleinfo?id=2897
+      - cell "关联主体":
+        - button "关联主体"
+    - row "站点类型： 自适应站 站点类型包括：PC站、移动站、自适应，选择不同类型有可能会影响到百度对你的展现 修改":
+      - cell "站点类型："
+      - cell "自适应站 站点类型包括：PC站、移动站、自适应，选择不同类型有可能会影响到百度对你的展现":
+        - strong: 自适应站
+        - paragraph: 站点类型包括：PC站、移动站、自适应，选择不同类型有可能会影响到百度对你的展现
+      - cell "修改":
+        - button "修改"
+    - row "站点领域： 信息技术 站点领域信息30天内只能修改一次，请谨慎设置。 修改":
+      - cell "站点领域："
+      - cell "信息技术 站点领域信息30天内只能修改一次，请谨慎设置。":
+        - strong: 信息技术
+        - paragraph: 站点领域信息30天内只能修改一次，请谨慎设置。
+      - cell "修改":
+        - button "修改"
+    - row "主体备案号： 未填写 请您填写备案号 设置":
+      - cell "主体备案号："
+      - cell "未填写 请您填写备案号":
+        - strong: 未填写
+        - paragraph: 请您填写备案号
+      - cell "设置":
+        - button "设置"
+- paragraph:
+  - text: 商家可通过
+  - link "百度保障平台":
+    - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+  - text: ，自主申请参与百度网民保障计划，通过认证后，商家的搜索结果可展现“保”字标识，搜索结果更可信。
+- link "智能小程序":
+  - /url: https://smartprogram.baidu.com/developer/index.html
+- link "投诉平台":
+  - /url: //help.baidu.com/newadd?prod_id=1&category=1
+- link "百度统计":
+  - /url: https://tongji.baidu.com/web/welcome/login
+- link "百度智能云":
+  - /url: https://cloud.baidu.com/
+- link "百度云加速":
+  - /url: https://su.baidu.com/
+- link "百度安全":
+  - /url: http://anquan.baidu.com/
+- link "百度大脑":
+  - /url: https://ai.baidu.com/
+- link "百度保障":
+  - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+- link "百度开发者中心":
+  - /url: https://developer.baidu.com/?hmsr=站长平台&hmpl=&hmcu=&hmkw=&hmci
+- link "联系我们":
+  - /url: //ziyuan.baidu.com/college/articleinfo?id=2114
+- link "微信公众号":
+  - /url: //ziyuan.baidu.com/wiki/3148
+- text: ©2026 Baidu
+- link "使用百度前必读":
+  - /url: https://www.baidu.com/duty/
+- text: 京ICP证030173号

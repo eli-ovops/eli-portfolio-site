@@ -1,0 +1,362 @@
+[
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 202.34375,
+        "text": "免费聊一件最费时间的工作 ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#cases",
+        "right": 324.921875,
+        "text": "更多相关案例 ↓",
+        "x": 226.34375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 248.34375,
+        "text": "免费聊一件最费时间的工作 ↗",
+        "x": 20
+      }
+    ],
+    "heading": "中小企业 AI 落地实施服务",
+    "languageLink": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#main",
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 303.671875,
+        "text": "Discuss one time-consuming task for free ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#cases",
+        "right": 157.5625,
+        "text": "More related cases ↓",
+        "x": 20
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 349.671875,
+        "text": "Discuss one time-consuming task for free ↗",
+        "x": 20
+      }
+    ],
+    "heading": "AI implementation for small businesses",
+    "languageLink": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#main",
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 216.34375,
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#cases",
+        "right": 338.921875,
+        "text": "更多相关案例 ↓",
+        "x": 240.34375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 262.34375,
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "x": 20
+      }
+    ],
+    "heading": "企业知识库搭建与客服辅助答疑",
+    "languageLink": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#main",
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "height": 47.59375,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 355,
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#cases",
+        "right": 157.5625,
+        "text": "More related cases ↓",
+        "x": 20
+      },
+      {
+        "height": 73.59375,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 355,
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "x": 20
+      }
+    ],
+    "heading": "Knowledge base setup and AI-assisted support",
+    "languageLink": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#main",
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 216.34375,
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#cases",
+        "right": 338.921875,
+        "text": "更多相关案例 ↓",
+        "x": 240.34375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 262.34375,
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "x": 20
+      }
+    ],
+    "heading": "库存核对与重复录入自动化",
+    "languageLink": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#main",
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "height": 47.59375,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 355,
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#cases",
+        "right": 157.5625,
+        "text": "More related cases ↓",
+        "x": 20
+      },
+      {
+        "height": 73.59375,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 355,
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "x": 20
+      }
+    ],
+    "heading": "Inventory reconciliation and data entry automation",
+    "languageLink": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#main",
+    "width": 390
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 246.34375,
+        "text": "免费聊一件最费时间的工作 ↗",
+        "x": 64
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#cases",
+        "right": 368.921875,
+        "text": "更多相关案例 ↓",
+        "x": 270.34375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 1201,
+        "text": "免费聊一件最费时间的工作 ↗",
+        "x": 972.65625
+      }
+    ],
+    "heading": "中小企业 AI 落地实施服务",
+    "languageLink": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#main",
+    "width": 1280
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 347.671875,
+        "text": "Discuss one time-consuming task for free ↗",
+        "x": 64
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#cases",
+        "right": 509.234375,
+        "text": "More related cases ↓",
+        "x": 371.671875
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 1201,
+        "text": "Discuss one time-consuming task for free ↗",
+        "x": 871.328125
+      }
+    ],
+    "heading": "AI implementation for small businesses",
+    "languageLink": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#main",
+    "width": 1280
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 260.34375,
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "x": 64
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#cases",
+        "right": 382.921875,
+        "text": "更多相关案例 ↓",
+        "x": 284.34375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 1201,
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "x": 958.65625
+      }
+    ],
+    "heading": "企业知识库搭建与客服辅助答疑",
+    "languageLink": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#main",
+    "width": 1280
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 410.9375,
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "x": 64
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#cases",
+        "right": 572.5,
+        "text": "More related cases ↓",
+        "x": 434.9375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 1201,
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "x": 808.0625
+      }
+    ],
+    "heading": "Knowledge base setup and AI-assisted support",
+    "languageLink": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#main",
+    "width": 1280
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 260.34375,
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "x": 64
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#cases",
+        "right": 382.921875,
+        "text": "更多相关案例 ↓",
+        "x": 284.34375
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 1201,
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "x": 958.65625
+      }
+    ],
+    "heading": "库存核对与重复录入自动化",
+    "languageLink": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#main",
+    "width": 1280
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 423.65625,
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "x": 64
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#cases",
+        "right": 585.21875,
+        "text": "More related cases ↓",
+        "x": 447.65625
+      },
+      {
+        "height": 49.796875,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 1201,
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "x": 795.34375
+      }
+    ],
+    "heading": "Inventory reconciliation and data entry automation",
+    "languageLink": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f",
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#main",
+    "width": 1280
+  }
+]

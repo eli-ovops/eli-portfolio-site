@@ -1,0 +1,110 @@
+Browser tab: 9, Title: "Business Knowledge Base Setup & AI-Assisted Support | Eli", URL: "http://127.0.0.1:4178/en/services/ai-agent.html".
+1 AXWebArea Business Knowledge Base Setup & AI-Assisted Support | Eli, URL: 127.0.0.1:4178/en/services/ai-agent.html
+	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/services/ai-agent.html#main
+	3 container
+		4 link Description: Eli home, Value: 127.0.0.1:4178/en/index.html
+		5 container Main navigation
+			6 link Description: Home, Value: 127.0.0.1:4178/en/index.html
+			7 link Description: Projects, Value: 127.0.0.1:4178/en/records.html
+			8 link Description: Articles, Value: 127.0.0.1:4178/en/articles.html
+			9 link Description: About, Value: 127.0.0.1:4178/en/about.html
+			10 link Description: Switch to Chinese, Value: 127.0.0.1:4178/services/ai-agent.html
+	11 container main
+		12 link Description: ← Explore business needs, Value: 127.0.0.1:4178/en/index.html#needs
+		13 text AI services
+		14 heading Knowledge base setup and AI-assisted support, Value: 1
+			15 text Knowledge base setup and AI-assisted support
+		16 text Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.
+		17 text Possible deliverables
+		18 content list
+			19 container
+				20 text ↳ Maintainable knowledge base
+			21 container
+				22 text ↳ Source-backed answer pilot
+			23 container
+				24 text ↳ Question set and human handoff rules
+		25 container service-proof
+			26 text Contributed to RAG support: knowledge preparation, retrieval setup and testing.
+			27 link Description: View the knowledge support case ↗, Value: 127.0.0.1:4178/en/cases/p36.html
+		28 link Description: Discuss your knowledge and support needs for free ↗, Value: 127.0.0.1:4178/en/about.html#contact, ID: eli-consult-entry-1
+		29 link Description: More related cases ↓, Value: 127.0.0.1:4178/en/services/ai-agent.html#cases
+		30 container
+			31 heading On this page, Value: 2
+				32 text On this page
+			33 container On this page
+				34 link Description: Answers or actions?, Value: 127.0.0.1:4178/en/services/ai-agent.html#difference
+				35 link Description: Start with lookup and recurring questions, Value: 127.0.0.1:4178/en/services/ai-agent.html#knowledge
+				36 link Description: What does a pilot need?, Value: 127.0.0.1:4178/en/services/ai-agent.html#pilot
+				37 link Description: Assess evidence and behavior, Value: 127.0.0.1:4178/en/services/ai-agent.html#acceptance
+				38 link Description: Knowledge and support collaboration, Value: 127.0.0.1:4178/en/services/ai-agent.html#cases
+				39 link Description: Questions before starting, Value: 127.0.0.1:4178/en/services/ai-agent.html#questions
+		40 container difference
+			41 heading Answers or actions?, Value: 2
+				42 text Answers or actions?
+			43 text A knowledge assistant focuses on finding information and answering questions. An AI agent may also call tools, connect steps or take actions. Answering a question does not establish reliable order changes or stock updates.
+			44 text RAG retrieves relevant material before generating an answer. A more complex agent needs clear task steps, available integrations and controlled permissions.
+		45 container knowledge
+			46 heading Start with lookup and recurring questions, Value: 2
+				47 text Start with lookup and recurring questions
+			48 text Review product manuals, service rules or internal instructions: who maintains them, which version is valid, who can access them and what source should support an answer.
+			49 text When information conflicts, is outdated or lacks evidence, the assistant should say it cannot confirm and refer the issue to a person. Keep important commitments and external responses subject to human review.
+		50 container pilot
+			51 heading What does a pilot need?, Value: 2
+				52 text What does a pilot need?
+			53 text Select authorized, redacted documents with known versions and representative questions. Separate questions that can be answered directly, need clarification or require human handling.
+			54 text Test retrieval, citations and answers first. For actions, assess interfaces, read and write access, confirmation, records and failure handling. Agree changes to existing systems separately.
+		55 container acceptance
+			56 heading Assess evidence and behavior, Value: 2
+				57 text Assess evidence and behavior
+			58 text Use questions checked by business staff to assess retrieval, whether citations support the answer, outdated content handling and appropriate refusal when evidence is missing. Record error types before expanding.
+			59 text For actions, also test the target object, duplicate execution, recovery and human takeover. Model choice, data volume, integrations and maintenance affect cost and need separate agreement.
+		60 container cases
+			61 heading Knowledge and support collaboration, Value: 2
+				62 text Knowledge and support collaboration
+			63 text In the related RAG support project, I worked on knowledge preparation, retrieval configuration and testing. Illustrative answers are distinguished from project records. Tool-executing agents require a separate assessment.
+			64 heading UK water purification brand · RAG support ↗, Value: 3
+				65 link Description: UK water purification brand · RAG support ↗, Value: 127.0.0.1:4178/en/cases/p36.html
+			66 text Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.
+		67 container questions
+			68 heading Questions before starting, Value: 2
+				69 text Questions before starting
+			70 heading Do we have to train a model?, Value: 3
+				71 text Do we have to train a model?
+			72 text Not necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training.
+			73 heading Can an agent handle customer work autonomously?, Value: 3
+				74 text Can an agent handle customer work autonomously?
+			75 text Validate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level.
+		76 container
+			77 heading Start with one task, Value: 2
+				78 text Start with one task
+			79 text Describe the current process, its slowest step and the result you want.
+			80 link Description: Discuss your knowledge and support needs for free ↗, Value: 127.0.0.1:4178/en/about.html#contact, ID: eli-consult-entry-2
+		81 text Related services
+		82 container
+			83 link Description: AI implementation for small businesses ↗, Value: 127.0.0.1:4178/en/services/fde-consulting.html
+			84 text  · 
+			85 link Description: Inventory reconciliation and data entry automation ↗, Value: 127.0.0.1:4178/en/services/workflow-automation.html
+	86 container
+		87 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/en/index.html
+		88 container Contact details
+			89 text Email
+			90 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			91 text Phone
+			92 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		93 container Page navigation
+			94 link Description: Projects ↗, Value: 127.0.0.1:4178/en/records.html
+			95 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/services/ai-agent.html#main
+		96 container Social profiles
+			97 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			98 link Description: Bilibili, Value: space.bilibili.com/432834855
+			99 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			100 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			101 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			102 link Description: X, Value: x.com/cczij1112
+			103 link Description: Weibo, Value: weibo.com/u/7720929036
+			104 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			105 link Description: Instagram, Value: instagram.com/eliaifde/
+			106 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		107 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea Business Knowledge Base Setup & AI-Assisted Support | Eli, URL: 127.0.0.1:4178/en/services/ai-agent.html

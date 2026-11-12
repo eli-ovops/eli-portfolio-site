@@ -1,0 +1,13 @@
+{
+  "status": "FINAL_ACCEPTANCE_PASS",
+  "release": "20261012-182317-reading-social",
+  "local_output_matches_package": 143,
+  "remote_files_verified": 143,
+  "public_text_hashes": 101,
+  "html_noindex": 84,
+  "old_release_preserved": 143,
+  "browser_checks": 10,
+  "indexing": "DISABLED",
+  "gallery_and_shared_motion": "Original source hashes preserved; actual expanded wheel and case/back passed",
+  "scope": "Three accepted local batches published; no new implementation or other-business restoration"
+}

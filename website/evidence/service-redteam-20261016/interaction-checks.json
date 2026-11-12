@@ -1,0 +1,64 @@
+{
+  "inPageBackDestination": {
+    "h1": "项目索引",
+    "url": "https://www.eliai.cn/records.html?pv=03985a2ddb6824f06f7f"
+  },
+  "nativeBackResult": {
+    "h1": "企业提效，从一项重复工作开始",
+    "scrollY": 1909,
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=03985a2ddb6824f06f7f#cases"
+  },
+  "contactCheck": {
+    "contactTop": 227.390625,
+    "context": "免费咨询，先聊一件事。\n\n邮箱\n\[REDACTED_EMAIL] ↗\n\n电话\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\n微信",
+    "links": [
+      {
+        "href": "mailto:[REDACTED_EMAIL]",
+        "label": "[REDACTED_EMAIL] ↗"
+      },
+      {
+        "href": "tel:[REDACTED_PHONE]",
+        "label": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "https://wa.me/[REDACTED_PHONE]",
+        "label": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "assets/wechat-qr.png",
+        "label": "放大微信二维码"
+      }
+    ],
+    "url": "https://www.eliai.cn/about.html?pv=03985a2ddb6824f06f7f#contact",
+    "width": 390
+  },
+  "directConsultChecks": [
+    {
+      "entry": {
+        "h1": "FDE 企业 AI 落地咨询",
+        "scrollWidth": 320,
+        "url": "https://www.eliai.cn/services/fde-consulting.html?pv=03985a2ddb6824f06f7f",
+        "width": 320
+      },
+      "destination": {
+        "contactTop": 194.421875,
+        "overflow": false,
+        "url": "https://www.eliai.cn/about.html?pv=03985a2ddb6824f06f7f#contact"
+      }
+    },
+    {
+      "entry": {
+        "h1": "企业 AI Agent 与知识库应用",
+        "scrollWidth": 320,
+        "url": "https://www.eliai.cn/services/ai-agent.html?pv=03985a2ddb6824f06f7f",
+        "width": 320
+      },
+      "destination": {
+        "contactTop": 212.421875,
+        "overflow": false,
+        "url": "https://www.eliai.cn/about.html?pv=03985a2ddb6824f06f7f#contact"
+      }
+    }
+  ],
+  "scope": "Native browser controls and website links; no email, phone call or external chat sent; no production modification"
+}

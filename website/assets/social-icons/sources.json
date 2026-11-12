@@ -1,0 +1,53 @@
+[
+  {
+    "icon": "xiaohongshu",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/xiaohongshu.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "bilibili",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/bilibili.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "douyin",
+    "status": "saved",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/tiktok.svg",
+    "note": "Douyin and TikTok share the musical-note brand mark"
+  },
+  {
+    "icon": "youtube",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/youtube.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "linkedin",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/linkedin.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "x",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/x.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "sinaweibo",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/sinaweibo.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "tiktok",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/tiktok.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "instagram",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/instagram.svg",
+    "status": "saved"
+  },
+  {
+    "icon": "facebook",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.15.0/icons/facebook.svg",
+    "status": "saved"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "public_sitemap_urls": 294,
+  "article_detail_urls": 204,
+  "zh": 102,
+  "en": 102,
+  "directories": [
+    "https://www.eliai.cn/articles.html",
+    "https://www.eliai.cn/en/articles.html"
+  ],
+  "source_case_json": [
+    {
+      "file": "content/articles.json",
+      "article_count": 2
+    },
+    {
+      "file": "content/articles-en.json",
+      "article_count": 2
+    }
+  ],
+  "tutorial_json_files": 11,
+  "public_fetch_status": 200,
+  "source": "Read-only public Sitemap and source inventory; no build or submission",
+  "article_indexed_total": "UNKNOWN",
+  "tutorial_topics": 100,
+  "topics_total": 102,
+  "source_note": "100 bilingual topics in 10 category JSON files; sources.json is a source registry, not an article."
+}

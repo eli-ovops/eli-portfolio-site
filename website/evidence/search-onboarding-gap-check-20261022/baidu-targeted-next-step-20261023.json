@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-23T05:30:18.181Z",
+  "scope": "Baidu original certification and subject association; no performance rerun",
+  "native_property": {
+    "subject": "未关联",
+    "icp_field": "未填写"
+  },
+  "all_messages": "您暂时没有消息提醒",
+  "feedback_history": "暂无数据",
+  "guide": {
+    "url": "https://ziyuan.baidu.com/college/articleinfo?id=2897",
+    "published": "2019-12-20",
+    "binding_lock_days": 7,
+    "note": "Historical official guide, current UI may differ; not a ranking guarantee"
+  },
+  "draft_route": "https://ziyuan.baidu.com/feedback/apply",
+  "draft_category": [
+    "网站支持",
+    "数据引入",
+    "普通收录"
+  ],
+  "routing_note": "No dedicated subject-certification category observed; draft explicitly asks for applicable handling entry if misrouted",
+  "draft_file": "baidu-support-draft-20261023.txt",
+  "draft_in_form": true,
+  "attachments_uploaded": 0,
+  "proposed_attachment": "baidu-property-20261023.png",
+  "feedback_submitted": 0,
+  "website_changes": 0,
+  "search_submissions": 0,
+  "identity_fields_or_materials_read": false,
+  "requires_approval_before_submission": true
+}

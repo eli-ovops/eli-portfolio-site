@@ -1,0 +1,25 @@
+{
+  "requested_window": [
+    "2026-10-15",
+    "2026-10-21"
+  ],
+  "final_site_last_date": "2026-10-19",
+  "final_site_impressions": 46,
+  "final_site_clicks": 0,
+  "fresh_last_date": "2026-10-21",
+  "article_distinct_paths": 31,
+  "article_raw_urls": 35,
+  "article_page_impressions": 69,
+  "article_clicks": 0,
+  "service_page_rows": [],
+  "core_article_rows": [],
+  "query_rows": 22,
+  "query_impressions": 24,
+  "data_fetched_at": [
+    "2026-10-20T06:31:42",
+    "2026-10-21T01:58:15",
+    "2026-10-22T02:05:57"
+  ],
+  "attribution": "UNKNOWN",
+  "new_natural_service_progress": "NONE_CONFIRMED"
+}

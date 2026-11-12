@@ -1,0 +1,31 @@
+{
+  "time": "2026-10-16T08:06:23.410072+00:00",
+  "status": "LOCAL_CHECKED_AWAITING_USER_VISUAL_REVIEW",
+  "revision": "0f0e9828ed3aa45c3a19",
+  "preview": "http://127.0.0.1:4178/index.html?analytics-preview=1&pv=0f0e9828ed3aa45c3a19",
+  "changed_files": [
+    "assets/site-analytics.css",
+    "assets/site-analytics.js",
+    "scripts/analytics.py",
+    "scripts/check_analytics.cjs"
+  ],
+  "production_changed": false,
+  "deployment": "NOT_AUTHORIZED_THIS_TASK; none performed",
+  "consent": "Existing choices and consent_version unchanged. No default opt-in. Official origin loads collector only after allow. Loopback preview never loads collector and resets visible preview on reload.",
+  "qa": [
+    "90 HTML build/static checks",
+    "45 locale pairs",
+    "Consent gating and analytics regression tests",
+    "Exit animation timing/repeated click/reduced motion tests",
+    "Desktop 1440 and mobile390/320 real browser viewport checks",
+    "Home consultation link and WeChat image new-tab link accessible",
+    "No glass/no horizontal overflow/no page scroll locking"
+  ],
+  "screenshots": [
+    "desktop1440.png",
+    "mobile390.png",
+    "mobile320.png"
+  ],
+  "created_files_note": "This evidence folder and dist build outputs; before backups and receipts retained for review. No user assets deleted.",
+  "separate_open_item": "Baidu conversion dashboard issue remains unresolved and outside scope."
+}

@@ -1,0 +1,149 @@
+{
+  "canonical": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "企业资料太散，做知识库答疑前要准备什么？"
+    },
+    {
+      "tag": "H2",
+      "text": "文章目录"
+    },
+    {
+      "tag": "H2",
+      "text": "先说明希望谁少找哪类资料"
+    },
+    {
+      "tag": "H2",
+      "text": "我在品牌客服项目里负责的部分"
+    },
+    {
+      "tag": "H2",
+      "text": "资料先整理四件事"
+    },
+    {
+      "tag": "H2",
+      "text": "用实际会问的问题验收"
+    },
+    {
+      "tag": "H2",
+      "text": "先估查找成本，再安排小范围试用"
+    },
+    {
+      "tag": "H2",
+      "text": "第一次沟通，可以先说一个反复被问的问题"
+    },
+    {
+      "tag": "H2",
+      "text": "先聊一项具体工作"
+    },
+    {
+      "tag": "H2",
+      "text": "继续阅读"
+    },
+    {
+      "tag": "H3",
+      "text": "库存每天靠人工核对，先改哪一步？"
+    },
+    {
+      "tag": "H3",
+      "text": "AI 是什么？先从一件小事理解"
+    },
+    {
+      "tag": "H3",
+      "text": "AI 聊天和搜索引擎有什么区别？"
+    },
+    {
+      "tag": "H2",
+      "text": "统计与隐私"
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../articles.html",
+      "text": "← 返回文章"
+    },
+    {
+      "href": "#start",
+      "text": "先说明希望谁少找哪类资料"
+    },
+    {
+      "href": "#case-records",
+      "text": "我在品牌客服项目里负责的部分"
+    },
+    {
+      "href": "#prepare",
+      "text": "资料先整理四件事"
+    },
+    {
+      "href": "#test",
+      "text": "用实际会问的问题验收"
+    },
+    {
+      "href": "#estimate",
+      "text": "先估查找成本，再安排小范围试用"
+    },
+    {
+      "href": "#contact",
+      "text": "第一次沟通，可以先说一个反复被问的问题"
+    },
+    {
+      "href": "../cases/p36.html",
+      "text": "英国某净水品牌 RAG 智能客服定制 ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "免费聊聊 ↗"
+    },
+    {
+      "href": "../services/ai-agent.html",
+      "text": "了解知识库与答疑服务 ↗"
+    },
+    {
+      "href": "../articles/inventory-reconciliation.html",
+      "text": "库存每天靠人工核对，先改哪一步？"
+    },
+    {
+      "href": "../articles/inventory-reconciliation.html",
+      "text": "阅读 ↗"
+    },
+    {
+      "href": "../articles/what-is-ai.html",
+      "text": "AI 是什么？先从一件小事理解"
+    },
+    {
+      "href": "../articles/what-is-ai.html",
+      "text": "阅读 ↗"
+    },
+    {
+      "href": "../articles/ai-chat-vs-search.html",
+      "text": "AI 聊天和搜索引擎有什么区别？"
+    },
+    {
+      "href": "../articles/ai-chat-vs-search.html",
+      "text": "阅读 ↗"
+    }
+  ],
+  "mainText": "← 返回文章\n知识库与答疑\n\nEli · 写于 2026-10-17 · 约 6 分钟\n\n企业资料太散，做知识库答疑前要准备什么？\n\n规格在产品表里，售后规则在聊天记录里，同一个问题每天换个人问。知识库答疑可以从这类工作开始评估，但先要确定哪些资料可信、由谁更新，以及找不到答案时怎么办。\n\n先选一类资料和一组常见问题，验证能否找到依据、答对问题，并在没有依据时正确停止。\n\n文章目录\n先说明希望谁少找哪类资料\n我在品牌客服项目里负责的部分\n资料先整理四件事\n用实际会问的问题验收\n先估查找成本，再安排小范围试用\n第一次沟通，可以先说一个反复被问的问题\n先说明希望谁少找哪类资料\n\n给内部员工查操作说明，和给外部客户回答产品问题，需要的权限、用词与确认方式不同。先确定使用对象，再挑一类经常查找、资料相对完整的问题。\n\n知识库问答通常先检索资料，再根据找到的内容生成回答，这种做法常被称为 RAG。它是否有用，要看资料是否正确、检索是否找对，以及回答有没有越过资料能证明的范围。\n\n第一轮可以先做资料查找与辅助答疑。若还希望它改订单、更新库存或承诺退款，就需要单独评估接口、权限和人工确认。\n\n我在品牌客服项目里负责的部分\n\n据现有项目说明，在英国某净水品牌的客服定制项目中，我负责知识库整理、检索配置与测试，协同团队从演示推进到客户确认和上线实测。版本备份、上线及升级回滚准备由团队负责。\n\n现有公开页面记录能展示客服初始界面、欢迎信息、快捷支持、问答输入和联系入口。它们不能单独证明回答准确率或节省了多少客服时间，这两项目前没有量化数据。\n\n案例详情中的问答内容已标明为 AI 拟写示意，不能拿来当真实客服对话或客户使用效果。真正判断回答质量，还需要实际问题、回答和引用资料之间的对应记录。\n\n英国某净水品牌 RAG 智能客服定制 ↗\n资料先整理四件事\n\n不用第一天就把公司所有文档都放进去。先挑一个小主题，整理成能检查、能更新的资料集合。任何未经允许使用的文件，都不应直接拿来测试。\n\n来源：产品参数、操作步骤和服务规则分别以哪份文件为准？\n版本：谁维护，何时更新，旧版资料如何停用？\n权限：哪些内容只给内部员工看，哪些可以对外回答？\n边界：哪些问题能直接答，哪些要补问，哪些必须转人工？\n\n资料互相冲突时，应先请负责人确认，不让模型猜哪份是真的。知识库没有收录的内容，也不能因为回答听起来顺畅就当作事实。\n\n用实际会问的问题验收\n\n可以先收集员工或客户经常问的问题，去掉个人信息，并请业务负责人写出可接受的答案依据。测试时把问题、回答、引用内容和人工判断放在一起看。\n\n资料中有答案：能否找到正确文档，引用是否真正支持回答？\n问题没说清：是否先问清型号、场景或必要条件？\n资料里没有答案：是否说明无法确认，并指向负责人？\n资料更新之后：旧版本是否被排除，回答是否跟着改变？\n\n开始时不必急着给出一个漂亮的准确率。先记录具体错在哪里：没找到资料、找错版本、理解有偏差，还是超出资料擅自承诺。不同问题需要不同修正。\n\n先估查找成本，再安排小范围试用\n\n假设测算，不是品牌客服项目的实测数据\n\n假设团队每天需要查资料 20 次，每次平均 4 分钟，每月按 20 个工作日估算。这只是帮助理解工作量的示例，并非行业平均值或客户统计。\n\n目前查找时间（假设）\n20 次 × 4 分钟 = 每天 80 分钟\n若试用后实测为每次 2 分钟\n每天少 40 分钟\n对应的月度时间差\n40 分钟 × 20 天 = 13 小时 20 分钟\n\n测量时，核对答案、发现错误和转人工的时间也要计入。若节省的查找时间被反复纠错抵消，就不能把这项试用称为提效。\n\n是否继续投入，还要结合工具订阅、资料维护、员工学习和实施成本判断。先用你们自己的任务测一轮，比套用别人的百分比更可靠。\n\n第一次沟通，可以先说一个反复被问的问题\n\n例如：“我们有产品手册和售后说明，客服每天都要找同样的参数。想先看看能不能让员工更快找到出处。”这比先决定买哪种模型更容易明确试用范围。\n\n初次沟通免费。后续可先约定资料范围、典型问题、引用要求、人工接管和验收方式，再确认实施费用。复杂的系统连接、权限与持续维护需要另行评估。\n\n先用有权使用的脱敏资料。不要在初次沟通时发送账号密码、客户个人信息或未经处理的内部文件。\n\n先聊一项具体工作\n\n说说现在怎么做、哪一步最费时间。初次沟通免费。\n\n免费聊聊 ↗\n了解知识库与答疑服务 ↗\n继续阅读\n库存与流程\n约 6 分钟\n库存每天靠人工核对，先改哪一步？\n\n从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。\n\n阅读\n↗\nAI 入门\n约 1 分钟阅读\nAI 是什么？先从一件小事理解\n\nAI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。\n\n阅读\n↗\nAI 入门\n约 2 分钟阅读\nAI 聊天和搜索引擎有什么区别？\n\n搜索主要帮你找到网页，AI 聊天主要帮你组织答案。\n\n阅读\n↗",
+  "metaDescription": "结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/about.html\", \"description\": \"你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。\", \"jobTitle\": \"FDE · 贴近业务，选工具、改流程\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Article\", \"@id\": \"https://www.eliai.cn/articles/enterprise-knowledge-base.html#page\", \"url\": \"https://www.eliai.cn/articles/enterprise-knowledge-base.html\", \"name\": \"企业资料太散，做知识库答疑前要准备什么？ - Eli\", \"description\": \"结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"headline\": \"企业资料太散，做知识库答疑前要准备什么？\", \"dateCreated\": \"2026-10-17\", \"mainEntityOfPage\": \"https://www.eliai.cn/articles/enterprise-knowledge-base.html\", \"datePublished\": \"2026-10-17\"}]}"
+  ],
+  "title": "企业资料太散，做知识库答疑前要准备什么？ - Eli",
+  "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+}

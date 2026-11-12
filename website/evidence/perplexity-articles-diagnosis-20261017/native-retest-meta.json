@@ -1,0 +1,6 @@
+{
+  "captured_at": "2026-10-17T10:57:37.204Z",
+  "url": "https://www.perplexity.ai/search/1ecece57-5ea6-4a23-a7de-c75804b32e71",
+  "prompt": "请使用搜索实时打开下面四个公开URL，前三个是文章，最后一个是首页对照。每页只报告：能否读取正文、真实页面标题、连续不超过20字的一句原文、来源链接；失败就写失败和可见的错误原因，不要从网址或常识猜测，也不要建议改用Computer。这是访问诊断，不是请求重新收录。\nhttps://www.eliai.cn/articles/inventory-reconciliation.html?diag=perplexity-article-20261017-1820\nhttps://www.eliai.cn/articles/enterprise-knowledge-base.html?diag=perplexity-article-20261017-1820\nhttps://www.eliai.cn/articles/what-is-agent.html?diag=perplexity-article-20261017-1820\nhttps://www.eliai.cn/?diag=perplexity-article-20261017-1820",
+  "mode": "Search on; Computer off; existing signed-in incognito; thread may expire after24h"
+}

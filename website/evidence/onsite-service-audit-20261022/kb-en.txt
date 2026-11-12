@@ -1,0 +1,139 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: ../index.html
+    - link "Projects":
+      - /url: ../records.html
+    - link "Articles":
+      - /url: ../articles.html
+    - link "About":
+      - /url: ../about.html
+    - link "Switch to Chinese":
+      - /url: ../../services/ai-agent.html
+      - text: 中文
+- main:
+  - link "← Explore business needs":
+    - /url: ../index.html#needs
+  - generic: AI services
+  - heading "Knowledge base setup and AI-assisted support" [level=1]:
+    - generic: Knowledge base setup and AI-assisted support
+  - paragraph: Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.
+  - paragraph: Possible deliverables
+  - list:
+    - listitem: ↳Maintainable knowledge base
+    - listitem: ↳Source-backed answer pilot
+    - listitem: ↳Question set and human handoff rules
+  - paragraph: "Contributed to RAG support: knowledge preparation, retrieval setup and testing."
+  - link "View the knowledge support case ↗":
+    - /url: ../cases/p36.html
+  - link "Discuss your knowledge and support needs for free ↗":
+    - /url: ../about.html#contact
+  - link "More related cases ↓":
+    - /url: "#cases"
+  - complementary:
+    - heading "On this page" [level=2]
+    - navigation "On this page":
+      - link "Answers or actions?":
+        - /url: "#difference"
+      - link "Start with lookup and recurring questions":
+        - /url: "#knowledge"
+      - link "What does a pilot need?":
+        - /url: "#pilot"
+      - link "Assess evidence and behavior":
+        - /url: "#acceptance"
+      - link "Knowledge and support collaboration":
+        - /url: "#cases"
+      - link "Questions before starting":
+        - /url: "#questions"
+  - heading "Answers or actions?" [level=2]
+  - paragraph: A knowledge assistant focuses on finding information and answering questions. An AI agent may also call tools, connect steps or take actions. Answering a question does not establish reliable order changes or stock updates.
+  - paragraph: RAG retrieves relevant material before generating an answer. A more complex agent needs clear task steps, available integrations and controlled permissions.
+  - heading "Start with lookup and recurring questions" [level=2]
+  - paragraph: "Review product manuals, service rules or internal instructions: who maintains them, which version is valid, who can access them and what source should support an answer."
+  - paragraph: When information conflicts, is outdated or lacks evidence, the assistant should say it cannot confirm and refer the issue to a person. Keep important commitments and external responses subject to human review.
+  - heading "What does a pilot need?" [level=2]
+  - paragraph: Select authorized, redacted documents with known versions and representative questions. Separate questions that can be answered directly, need clarification or require human handling.
+  - paragraph: Test retrieval, citations and answers first. For actions, assess interfaces, read and write access, confirmation, records and failure handling. Agree changes to existing systems separately.
+  - heading "Assess evidence and behavior" [level=2]
+  - paragraph: Use questions checked by business staff to assess retrieval, whether citations support the answer, outdated content handling and appropriate refusal when evidence is missing. Record error types before expanding.
+  - paragraph: For actions, also test the target object, duplicate execution, recovery and human takeover. Model choice, data volume, integrations and maintenance affect cost and need separate agreement.
+  - heading "Knowledge and support collaboration" [level=2]
+  - paragraph: In the related RAG support project, I worked on knowledge preparation, retrieval configuration and testing. Illustrative answers are distinguished from project records. Tool-executing agents require a separate assessment.
+  - heading "UK water purification brand · RAG support ↗" [level=3]:
+    - link "UK water purification brand · RAG support ↗":
+      - /url: ../cases/p36.html
+  - paragraph: Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.
+  - heading "Questions before starting" [level=2]
+  - heading "Do we have to train a model?" [level=3]
+  - paragraph: Not necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training.
+  - heading "Can an agent handle customer work autonomously?" [level=3]
+  - paragraph: Validate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level.
+  - heading "Start with one task" [level=2]
+  - paragraph: Describe the current process, its slowest step and the result you want.
+  - link "Discuss your knowledge and support needs for free ↗":
+    - /url: ../about.html#contact
+  - paragraph: Related services
+  - paragraph:
+    - link "AI implementation for small businesses ↗":
+      - /url: fde-consulting.html
+    - text: ·
+    - link "Inventory reconciliation and data entry automation ↗":
+      - /url: workflow-automation.html
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: ../records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

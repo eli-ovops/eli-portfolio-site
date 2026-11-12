@@ -1,0 +1,31 @@
+{
+  "status": "LOCAL_COMPLETE_NOT_PUBLISHED",
+  "revision": "4bc544a5361e14236d53",
+  "production_baseline_revision": "87919417171750dd1242",
+  "checked_at": "2026-10-20T11:53:39.309Z",
+  "change": "Bilingual industry ordering only",
+  "counts": {
+    "primary": 8,
+    "more": 7
+  },
+  "checks": {
+    "build": "PASS296HTML",
+    "localization": "PASS148pairs",
+    "scope": "PASS all content fields and case links unchanged, all assets unchanged",
+    "desktop": "PASS1335px",
+    "mobile": "PASS360pxZH390pxEN browser simulation",
+    "nested_expansion": "PASS both languages without clipping",
+    "language_switch": "PASS round trip preserving anchor",
+    "consultation": "PASS both languages contact reached"
+  },
+  "physical_device": false,
+  "production_deployment": false,
+  "search_submissions": 0,
+  "sha256": {
+    "content/industry-scenarios.json": "8e9e1fbe24b1d42127de0826a9e501bf7d5f7079f60134f094479d026e61f362",
+    "scripts/industries.py": "056c60f125ead6723c624f6e1a52de97c1d69c7b53c1ef2f5af59c8ba5e1a920",
+    "dist/index.html": "6284d5a2ad517be36f229a5df5c1030a2b2fc688cff229086842b47b6d9952bd",
+    "dist/en/index.html": "8e3a405217c3f5263a68cb70e0bc3db6efb9cc92bc8b5a460e6d11c3f991831a"
+  },
+  "screenshot": "desktop-order.jpg"
+}

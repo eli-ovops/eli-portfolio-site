@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-07",
+  "domain": "eliai.cn",
+  "order": "payment success observed in user account",
+  "registered_and_verified": "not yet confirmed: domain console CAPTCHA",
+  "public_dns": {
+    "eliai.cn": "NXDOMAIN via Google DNS",
+    "www.eliai.cn": "NXDOMAIN via Google DNS"
+  },
+  "current_server_release": "20261007-144516",
+  "current_server_domain_resolve": "no address returned",
+  "public_hosting_offer": {
+    "reference": "https://www.xinnet.com/hosting/hostingDomainActivity.html",
+    "hong_kong": "advertised no mainland ICP filing requirement",
+    "free_term": "1 month after activation",
+    "space": "1GB",
+    "SSL": "automatic renewal advertised"
+  },
+  "account_hosting_activation_location_and_expiry": "UNKNOWN pending protected control panel",
+  "changes": "own-server files/vhost deployed; root/www DNS saved; ERP preserved",
+  "captcha": "component text was mistaken for a visible dialog; normal navigation succeeded without solving or bypass",
+  "registration": "registered; domain status ok in detail view",
+  "holder_verification": "success shown in official detail page",
+  "domain_list_state": "naming review still displayed; no assumption of final naming approval",
+  "dns_records": "only two default NS records, no website A/CNAME",
+  "hosting": "Hong Kong no-filing trial and Beijing trial both pending activation",
+  "decision": "waiting user choice of hosting; no changes made to external service",
+  "server_domain_HTTP": "enabled; 120 files verified; noindex",
+  "domain_DNS": "root and www A records saved and public DNS verified",
+  "filing": "not completed, confirmed by user",
+  "domain_public_access": "blocked by JD Cloud filing page",
+  "HTTPS": "not configured",
+  "indexing": "noindex retained"
+}

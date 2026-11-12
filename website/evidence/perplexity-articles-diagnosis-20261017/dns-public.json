@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-17T18:57:25.454444+08:00",
+  "resolver": "Google Public DNS DoH",
+  "results": [
+    {
+      "host": "eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answers": [
+        {
+          "type": 1,
+          "data": "[REDACTED_HOST]"
+        }
+      ]
+    },
+    {
+      "host": "eliai.cn",
+      "type": "AAAA",
+      "status": 0,
+      "answers": []
+    },
+    {
+      "host": "www.eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answers": [
+        {
+          "type": 1,
+          "data": "[REDACTED_HOST]"
+        }
+      ]
+    },
+    {
+      "host": "www.eliai.cn",
+      "type": "AAAA",
+      "status": 0,
+      "answers": []
+    }
+  ]
+}

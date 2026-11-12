@@ -1,0 +1,143 @@
+Browser tab: 39, Title: "流量与关键词_流量查询，热门关键词SEO查询_站长工具_网站支持_百度搜索资源平台", URL: "https://ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F".
+1 AXWebArea 流量与关键词_流量查询，热门关键词SEO查询_站长工具_网站支持_百度搜索资源平台, URL: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F
+	2 container
+		3 link Description: logo, Value: ziyuan.baidu.com/
+		4 content list
+			5 link Description: 搜索学堂, Value: ziyuan.baidu.com/college#/type=1&cate=newcontent
+			6 link Description: 搜索服务, Value: ziyuan.baidu.com/dashboard/index
+			7 text 互动交流
+			8 link Description: 资源合作, Value: ziyuan.baidu.com/cooperateresource/index
+			9 link Description: 用户中心, Value: ziyuan.baidu.com/site/index
+		10 link Description: , Value: ziyuan.baidu.com/prompt/index
+		11 link passport.baidu.com/
+		12 link Description: 子建大魔王, Value: passport.baidu.com/
+		13 text |
+		14 link Description: 退出, Value: ziyuan.baidu.com/auth/logout?u=https%3A%2F%2Fziyuan.baidu.com%2Fkeywords%2Fmobile%3Fsite%3Dhttps%253A%252F%252Fwww.eliai.cn%252F
+	15 content list
+		16 link Description: , Value: zhiqiu.baidu.com/imcswebchat/roulette/in?id=16606&token=[REDACTED]&domainID=zhanzhang&type=2
+		17 link Description: , Value: ziyuan.baidu.com/feedback/index
+		18 link ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#top
+	19 container
+		20 text 站点
+		21 container site-select
+			22 text field (settable) https://www.eliai.cn
+		23 link Description: 将该网站设置为默认站点, ID: bt_setting
+			24 text 将该网站设置为默认站点
+	25 container
+		26 container toolsMainLeft
+			27 definition list
+				28 container 站点信息
+					29 text 
+					30 link Description: 站点信息, Value: ziyuan.baidu.com/dashboard/index?site=https://www.eliai.cn/
+			31 definition list
+				32 container 资源提交 
+					33 text 
+					34 link Description: 资源提交, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#
+					35 text 
+				36 container
+					37 link Description: 快速抓取, Value: ziyuan.baidu.com/fastcrawl/index?site=https://www.eliai.cn/
+					38 link Description: 普通收录, Value: ziyuan.baidu.com/linksubmit/index?site=https://www.eliai.cn/
+					39 link Description: 移动适配, Value: ziyuan.baidu.com/mobile/index?site=https://www.eliai.cn/
+					40 link Description: 死链提交, Value: ziyuan.baidu.com/badlink/index?site=https://www.eliai.cn/
+			41 definition list
+				42 container 数据统计 
+					43 text 
+					44 link Description: 数据统计, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#
+					45 text 
+				46 container
+					47 link Description: 索引量, Value: ziyuan.baidu.com/indexs/index?site=https://www.eliai.cn/
+					48 link Description: 流量与关键词, Value: ziyuan.baidu.com/keywords/index?site=https://www.eliai.cn/
+					49 link Description: 抓取频次, Value: ziyuan.baidu.com/pressure/index?site=https://www.eliai.cn/
+					50 link Description: 抓取诊断, Value: ziyuan.baidu.com/crawltools/index?site=https://www.eliai.cn/
+					51 link Description: 抓取异常, Value: ziyuan.baidu.com/crawl/index?site=https://www.eliai.cn/
+					52 link Description: Robots, Value: ziyuan.baidu.com/robots/index?site=https://www.eliai.cn/
+			53 definition list
+				54 container 搜索小工具 
+					55 text 
+					56 link Description: 搜索小工具, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#
+					57 text 
+				58 container
+					59 link Description: 小工具提交, Value: ziyuan.baidu.com/aitoolset/index?site=https://www.eliai.cn/
+					60 link Description: 我的小工具列表, Value: ziyuan.baidu.com/aitoolset/list?site=https://www.eliai.cn/
+					61 link Description: 数据看板, Value: ziyuan.baidu.com/aitoolset/databoard?site=https://www.eliai.cn/
+			62 definition list
+				63 container 权威溯源 
+					64 text 
+					65 link Description: 权威溯源, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#
+					66 text 
+				67 container
+					68 link Description: 权威提交, Value: ziyuan.baidu.com/sourcetrace/index?site=https://www.eliai.cn/
+					69 link Description: 我的溯源提交, Value: ziyuan.baidu.com/sourcetrace/dashboard?site=https://www.eliai.cn/
+			70 definition list
+				71 container AI流量分析
+					72 text 
+					73 link Description: AI流量分析, Value: ziyuan.baidu.com/aiflow/index?site=https://www.eliai.cn/
+			74 definition list
+				75 container 搜索展现 
+					76 text 
+					77 link Description: 搜索展现, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#
+					78 text 
+				79 container
+					80 link Description: 站点属性, Value: ziyuan.baidu.com/property/index?site=https://www.eliai.cn/
+					81 link Description: 站点子链, Value: ziyuan.baidu.com/sitelink/index?site=https://www.eliai.cn/
+					82 link Description: 视频极速服务, Value: ziyuan.baidu.com/videomonetize/index?site=https://www.eliai.cn/
+			83 definition list
+				84 container 优化与维护 
+					85 text 
+					86 link Description: 优化与维护, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F#
+					87 text 
+				88 link Description: 网站改版, Value: ziyuan.baidu.com/rewrite/index?site=https://www.eliai.cn/
+		89 heading 流量与关键词, Value: 1
+			90 text 流量与关键词
+		91 container toolsNote
+			92 text 使用说明
+			93 content list
+				94 text 提供站点的热门关键词在百度搜索结果中的展现及点击量数据，同时提供关键词定制功能，方便网站根据需求设置需要重点关注的关键词，通过对关键词表现情况的监控，帮助网站更好进行优化，工具旨在全面帮助站长了解网站在百度搜索引擎中的表现，决定页面及网站的优化方向，为网站运营决策提供分析依据。
+		95 link Description: PC搜索, Value: ziyuan.baidu.com/keywords/index?site=https%3A%2F%2Fwww.eliai.cn%2F
+		96 link Description: 移动搜索, Value: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F
+		97 content list
+			98 container
+				99 text 最近7天
+			100 container
+				101 text 最近30天
+			102 container
+				103 text 自定义日期
+		104 container legendContainer
+			105 text 展现量
+			106 text 点击量
+		120 text 说明
+		121 content list
+			122 container
+				123 AXListMarker • 
+				124 text 数据一般小时级更新，当天数据会有约5个小时的延迟，例如当天16：00时可给出当天11：00时前的数据；
+			125 container
+				126 AXListMarker • 
+				127 text 热门关键词列表、热门页面列表默认按点击量降序排列。
+			128 container
+				129 AXListMarker • 
+				130 text 设置的时间范围超过最近30天，无详情数据。
+			131 container
+				132 AXListMarker • 
+				133 text 用户点击搜索结果进入您网站之后产生的其它点击不会计入到点击量当中。
+		134 content list
+			135 link Description: Q：流量与关键词工具里出现的展现量、点击量、点击率、排名都是什么？, Value: ziyuan.baidu.com/college/courseinfo?id=267&page=7
+			136 link Description: Q：热门关键词和热门页面分别指什么？, Value: ziyuan.baidu.com/college/courseinfo?id=267&page=7
+			137 link Description: Q：使用流量与关键词工具能给您带来什么？, Value: ziyuan.baidu.com/college/courseinfo?id=267&page=7
+	138 container
+		139 container
+			140 link Description: 智能小程序, Value: smartprogram.baidu.com/developer/index.html
+			141 link Description: 投诉平台, Value: help.baidu.com/newadd?prod_id=1&category=1
+			142 link Description: 百度统计, Value: tongji.baidu.com/web/welcome/login
+			143 link Description: 百度智能云, Value: cloud.baidu.com/
+			144 link Description: 百度云加速, Value: su.baidu.com/
+			145 link Description: 百度安全, Value: anquan.baidu.com/
+			146 link Description: 百度大脑, Value: ai.baidu.com/
+			147 link Description: 百度保障, Value: baozhang.baidu.com/guarantee/?from=ziyuan
+			148 link Description: 百度开发者中心, Value: developer.baidu.com/?hmsr=%E7%AB%99%E9%95%BF%E5%B9%B3%E5%8F%B0&hmpl=&hmcu=&hmkw=&hmci
+			149 link Description: 联系我们, Value: ziyuan.baidu.com/college/articleinfo?id=2114
+			150 link Description: 微信公众号, Value: ziyuan.baidu.com/wiki/3148
+		151 text ©2026 Baidu 
+		152 link Description: 使用百度前必读, Value: baidu.com/duty/
+		153 text  京ICP证030173号
+
+The focused UI element is 1 AXWebArea 流量与关键词_流量查询，热门关键词SEO查询_站长工具_网站支持_百度搜索资源平台, URL: ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F

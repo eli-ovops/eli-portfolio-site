@@ -1,0 +1,44 @@
+text 请只直接打开这一个正式服务页：
+						423 link Description: https://www.eliai.cn/services/fde-consulting.html, Value: eliai.cn/services/fde-consulting.html
+						424 text  。报告是否成功读取正文；成功时给出页面标题、一句短原文和对应来源；失败时写明失败，不要从缓存摘要或上一轮回答推断服务、价格或能力。
+						425 button (collapsed) 已研究 1秒, Secondary Actions: Expand
+							426 text 已研究
+							427 text 1秒
+							428 image
+						429 container
+							430 text 失败。  我直接请求了  https://www.eliai.cn/services/fde-consulting.html ，但页面正文未能成功读取，工具返回抓取失败。
+						431 text 因此无法提供页面标题、正文短原文或来源引用；也不会根据缓存摘要或上一轮内容推断该页的服务、价格或能力。
+						432 button 复制
+						433 pop up button (collapsed) Description: 分享, Secondary Actions: Expand
+						434 button 有帮助
+						435 button 没有帮助
+						436 button 复刻
+						437 pop up button (collapsed) Description: 更多操作, Secondary Actions: Expand
+						270 button 收起面板
+				84 button (collapsed) 来源 53, Secondary Actions: Expand
+					85 text 来源
+					271 text 53
+					86 image
+				272 container
+					273 button 滚动到末尾
+					438 text 使用 Computer 获取更可靠的网页读取结果
+					439 text Computer 可以协助读取指定服务页，并整理页面标题、原文摘录和来源。
+					440 button 运行任务
+						441 text 运行任务
+					442 button 关闭
+					279 container
+						280 text 您正处于隐身模式。
+						281 button 退出隐身模式
+							282 text 退出无痕模式
+					283 container
+						284 text entry area (settable) ask-input
+						285 pop up button (collapsed) Description: 添加文件或工具, Secondary Actions: Expand
+						286 checkbox 搜索, Value: 1, ID: radix-_r_6q_
+						287 checkbox Computer, Value: 0
+						288 pop up button (collapsed) Description: 模型, Secondary Actions: Expand
+							289 text 模型
+						443 button 语音输入
+						444 button (disabled) 提交
+		292 list Typeahead menu
+
+The focused UI element is 284 text entry area (settable) ask-input

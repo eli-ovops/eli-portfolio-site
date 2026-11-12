@@ -1,0 +1,902 @@
+{
+  "cursor": 193,
+  "events": [
+    {
+      "sequence": 117,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "08A83136E400402400E65693198B6019",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 0,
+          "connectionReused": false,
+          "encodedDataLength": 0,
+          "fromDiskCache": true,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html",
+            "Date": "Mon, 12 Oct 2026 10:40:38 GMT",
+            "Etag": "W/\"6accb571-f749\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "text/html",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791801706139.056,
+          "securityState": "insecure",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": -1,
+            "connectStart": -1,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 1.639,
+            "receiveHeadersStart": 1.628,
+            "requestTime": 157300.925109,
+            "sendEnd": 0.068,
+            "sendStart": 0.068,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+        },
+        "timestamp": 157300.927999,
+        "type": "Document"
+      }
+    },
+    {
+      "sequence": 121,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Page.frameNavigated",
+      "params": {
+        "frame": {
+          "adFrameStatus": {
+            "adFrameType": "none"
+          },
+          "crossOriginIsolatedContextType": "NotIsolated",
+          "domainAndRegistry": "",
+          "gatedAPIFeatures": [],
+          "id": "416CA3A5FAF0DC6F80D27164AC522959",
+          "loaderId": "08A83136E400402400E65693198B6019",
+          "mimeType": "text/html",
+          "secureContextType": "InsecureScheme",
+          "securityOrigin": "http://[REDACTED_HOST]",
+          "securityOriginDetails": {
+            "isLocalhost": false
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+        },
+        "type": "Navigation"
+      }
+    },
+    {
+      "sequence": 125,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.48"
+      }
+    },
+    {
+      "sequence": 126,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.48",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63965,
+          "connectionReused": false,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "49678",
+            "Content-Type": "text/css",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-c20e\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "text/css",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123941.685,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 6.236,
+            "connectStart": 5.359,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 77.782,
+            "receiveHeadersStart": 77.385,
+            "requestTime": 157256.464407,
+            "sendEnd": 6.267,
+            "sendStart": 6.257,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/styles.css?v=85b8ead1c21e"
+        },
+        "timestamp": 157300.934983,
+        "type": "Stylesheet"
+      }
+    },
+    {
+      "sequence": 130,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.49"
+      }
+    },
+    {
+      "sequence": 131,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.49",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63957,
+          "connectionReused": false,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "4841",
+            "Content-Type": "text/css",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-12e9\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "text/css",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123945.509,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 4.457,
+            "connectStart": 4.207,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 81.424,
+            "receiveHeadersStart": 81.003,
+            "requestTime": 157256.464613,
+            "sendEnd": 4.512,
+            "sendStart": 4.501,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/motion.css?v=65988f5c0b75"
+        },
+        "timestamp": 157300.935012,
+        "type": "Stylesheet"
+      }
+    },
+    {
+      "sequence": 135,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.50"
+      }
+    },
+    {
+      "sequence": 136,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.50",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63939,
+          "connectionReused": true,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "5058",
+            "Content-Type": "text/css",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-13c2\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "text/css",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123902.488,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": -1,
+            "connectStart": -1,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 38.106,
+            "receiveHeadersStart": 37.862,
+            "requestTime": 157256.464732,
+            "sendEnd": 4.067,
+            "sendStart": 4.031,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/social-footer.css?v=593fd5eecbce"
+        },
+        "timestamp": 157300.93503,
+        "type": "Stylesheet"
+      }
+    },
+    {
+      "sequence": 140,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.51"
+      }
+    },
+    {
+      "sequence": 141,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.51",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63957,
+          "connectionReused": true,
+          "encodedDataLength": 327,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "72927",
+            "Content-Type": "application/javascript",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-11cdf\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/javascript",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123993.003,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": -1,
+            "connectStart": -1,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 40.609,
+            "receiveHeadersStart": 40.294,
+            "requestTime": 157256.552816,
+            "sendEnd": 3.695,
+            "sendStart": 3.657,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/vendor/gsap-3.15.0/gsap.min.js"
+        },
+        "timestamp": 157300.935047,
+        "type": "Script"
+      }
+    },
+    {
+      "sequence": 145,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.52"
+      }
+    },
+    {
+      "sequence": 146,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.52",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63939,
+          "connectionReused": true,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "5425",
+            "Content-Type": "application/javascript",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-1531\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/javascript",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123991.14,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": -1,
+            "connectStart": -1,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 38.648,
+            "receiveHeadersStart": 38.034,
+            "requestTime": 157256.553213,
+            "sendEnd": 3.938,
+            "sendStart": 3.928,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/app.js?v=aac18cbdf88b"
+        },
+        "timestamp": 157300.935063,
+        "type": "Script"
+      }
+    },
+    {
+      "sequence": 150,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.53"
+      }
+    },
+    {
+      "sequence": 151,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.53",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63993,
+          "connectionReused": false,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "14418",
+            "Content-Type": "application/javascript",
+            "Date": "Mon, 12 Oct 2026 11:04:16 GMT",
+            "Etag": "\"6accb571-3852\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/javascript",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803124029.822,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 4.042,
+            "connectStart": 3.985,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 76.766,
+            "receiveHeadersStart": 76.56,
+            "requestTime": 157256.55337,
+            "sendEnd": 4.061,
+            "sendStart": 4.054,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/depth-gallery.js?v=1a796d24b245"
+        },
+        "timestamp": 157300.935078,
+        "type": "Script"
+      }
+    },
+    {
+      "sequence": 155,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.54"
+      }
+    },
+    {
+      "sequence": 156,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.54",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63961,
+          "connectionReused": true,
+          "encodedDataLength": 325,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "2567",
+            "Content-Type": "application/javascript",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-a07\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/javascript",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123990.557,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": -1,
+            "connectStart": -1,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 36.236,
+            "receiveHeadersStart": 35.642,
+            "requestTime": 157256.555022,
+            "sendEnd": 1.841,
+            "sendStart": 1.828,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/screenshot-viewer.js?v=66dec0a19c8c"
+        },
+        "timestamp": 157300.935092,
+        "type": "Script"
+      }
+    },
+    {
+      "sequence": 160,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.55"
+      }
+    },
+    {
+      "sequence": 161,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.55",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63961,
+          "connectionReused": false,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "29434",
+            "Content-Type": "text/css",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-72fa\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "text/css",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123941.887,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 3.924,
+            "connectStart": 3.826,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 77.046,
+            "receiveHeadersStart": 76.836,
+            "requestTime": 157256.465158,
+            "sendEnd": 4.009,
+            "sendStart": 3.992,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/editorial.css?v=b60c66b2a078"
+        },
+        "timestamp": 157300.935107,
+        "type": "Stylesheet"
+      }
+    },
+    {
+      "sequence": 165,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.56"
+      }
+    },
+    {
+      "sequence": 166,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.56",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63965,
+          "connectionReused": true,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "25534",
+            "Content-Type": "application/javascript",
+            "Date": "Mon, 12 Oct 2026 11:04:15 GMT",
+            "Etag": "\"6accb571-63be\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/javascript",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803123990.545,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": -1,
+            "connectStart": -1,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 35.892,
+            "receiveHeadersStart": 35.5,
+            "requestTime": 157256.555152,
+            "sendEnd": 1.742,
+            "sendStart": 1.735,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/vendor/gsap-3.15.0/Flip.min.js"
+        },
+        "timestamp": 157300.935121,
+        "type": "Script"
+      }
+    },
+    {
+      "sequence": 170,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.57"
+      }
+    },
+    {
+      "sequence": 171,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.57",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "",
+          "connectionId": 63989,
+          "connectionReused": false,
+          "encodedDataLength": 326,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "20939",
+            "Content-Type": "application/javascript",
+            "Date": "Mon, 12 Oct 2026 11:04:16 GMT",
+            "Etag": "\"6accb571-51cb\"",
+            "Last-Modified": "Mon, 12 Oct 2026 10:24:49 GMT",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/javascript",
+          "protocol": "http/1.1",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 7890,
+          "responseTime": 1791803124027.763,
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 2.097,
+            "connectStart": 1.975,
+            "dnsEnd": -1,
+            "dnsStart": -1,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 72.906,
+            "receiveHeadersStart": 72.647,
+            "requestTime": 157256.555225,
+            "sendEnd": 2.117,
+            "sendStart": 2.11,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://[REDACTED_HOST]/sites/portfolio/assets/editorial.js?v=19deb0e27da0"
+        },
+        "timestamp": 157300.935138,
+        "type": "Script"
+      }
+    },
+    {
+      "sequence": 179,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.requestServedFromCache",
+      "params": {
+        "requestId": "54388.69"
+      }
+    },
+    {
+      "sequence": 180,
+      "source": {
+        "tabId": 17
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "416CA3A5FAF0DC6F80D27164AC522959",
+        "hasExtraInfo": false,
+        "loaderId": "08A83136E400402400E65693198B6019",
+        "requestId": "54388.69",
+        "response": {
+          "charset": "",
+          "connectionId": 0,
+          "connectionReused": false,
+          "encodedDataLength": 0,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Content-Type": "image/svg+xml"
+          },
+          "mimeType": "image/svg+xml",
+          "protocol": "data",
+          "securityState": "unknown",
+          "status": 200,
+          "statusText": "OK",
+          "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23777777' filter='url(%23n)' d='M0 0h160v160H0z'/%3E%3C/svg%3E"
+        },
+        "timestamp": 157300.946373,
+        "type": "Image"
+      }
+    }
+  ],
+  "hasMore": false,
+  "truncated": false
+}

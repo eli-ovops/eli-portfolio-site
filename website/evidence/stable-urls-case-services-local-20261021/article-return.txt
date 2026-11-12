@@ -1,0 +1,154 @@
+Browser tab: 9, Title: "库存每天靠人工核对，先改哪一步？ - Eli", URL: "http://127.0.0.1:4178/articles/inventory-reconciliation.html#case-records".
+1 AXWebArea 库存每天靠人工核对，先改哪一步？ - Eli, URL: 127.0.0.1:4178/articles/inventory-reconciliation.html#case-records
+	2 link Description: 跳到正文, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#main
+	3 container
+		4 link Description: Eli首页, Value: 127.0.0.1:4178/index.html
+		5 container 主导航
+			6 link Description: 首页, Value: 127.0.0.1:4178/index.html
+			7 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+			8 link Description: 文章, Value: 127.0.0.1:4178/articles.html
+			9 link Description: 关于, Value: 127.0.0.1:4178/about.html
+			10 link Description: 切换到英文版, Value: 127.0.0.1:4178/en/articles/inventory-reconciliation.html#case-records
+	11 container main
+		12 link Description: ← 返回文章, Value: 127.0.0.1:4178/articles.html
+		13 text 库存与流程
+		14 container
+			15 text Eli · 写于 
+			16 text 2026-10-17
+			17 text  · 约 6 分钟
+			18 heading 库存每天靠人工核对，先改哪一步？, Value: 1
+				19 text 库存每天靠人工核对，先改哪一步？
+			20 text 同一笔入库要写进几张表，移库后要问东西放在哪里，盘点发现差异又得重新找单据。想减少这些重复工作，可以先挑一条库存路径，把数量和责任核对清楚，再决定用什么工具。 先选一种货品、一个库位或一类单据，打通记录、核对和纠错，再评估是否扩大。
+		21 container
+			22 heading 文章目录, Value: 2
+				23 text 文章目录
+			24 container 文章目录
+				25 link Description: 先找出重复核对发生在哪一步, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#start
+				26 link Description: 我在两个库存项目中实际做了什么, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#case-records
+				27 link Description: 第一轮试用，范围可以这样定, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#scope
+				28 link Description: 算一笔时间账，再决定值不值得做, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#estimate
+				29 link Description: 验收时，把能纠错也算进去, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#acceptance
+				30 link Description: 第一次沟通，带一个具体问题就够了, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#contact
+		31 container
+			32 container start
+				33 heading 先找出重复核对发生在哪一步, Value: 2
+					34 text 先找出重复核对发生在哪一步
+				35 text 先拿一笔最近处理过的业务，从头走一遍：谁收货，谁登记，谁确认数量，最后谁要看这份结果。重点看同一份信息是否被重复抄写，以及数量变动后能不能找到原单。
+				36 text 如果每次都要重新问人、翻聊天记录，或在几张表之间搬运数据，先处理记录方式可能比直接增加一个 AI 工具更有帮助。
+				37 content list
+					38 container
+						39 AXListMarker • 
+						40 text 登记：一笔业务是否只需要录入一次？
+					41 container
+						42 AXListMarker • 
+						43 text 核对：单据、库存和变动流水能否互相对应？
+					44 container
+						45 AXListMarker • 
+						46 text 纠错：录错、退货、撤销以后，能否查清改了什么？
+			47 container case-records
+				48 heading 我在两个库存项目中实际做了什么, Value: 2
+					49 text 我在两个库存项目中实际做了什么
+				50 text 在洁具行业库存管理系统中，我独立负责需求沟通、业务梳理、底座适配开发及交付。项目以库存管理为核心，连接产品规格、采购、退货与盘点，并提供 PC 与手机端入口。复查时交叉核对单据、库存和流水，而不只看页面有没有提示成功。
+				51 text 在某家具品牌的按箱扫码库存项目中，我主导需求分析、流程设计和开发，覆盖入库、移库、出库与撤销纠错。重复请求、库存不足和作废重试都是需要核对的环节，移库还要同时检查来源、目标和总量。
+				52 text 这些经历能说明实现和验证过哪些流程。现有公开资料没有客户日常节省工时的量化数据；扫码案例中的数量变化来自历史虚拟库存测试，不代表客户真实经营数据。
+				53 text 现有项目说明还记载：洁具库存系统已交付，但客户尚未全面投入使用，实际使用效果暂无结论。这里说明的是项目记录中的状态，不把交付直接当成已经提效。
+				54 container 相关案例
+					55 link Description: 洁具行业某大型 B 端厂商库存管理系统 ↗, Value: 127.0.0.1:4178/cases/p10.html
+					56 link Description: 某家具品牌扫码库存系统 ↗, Value: 127.0.0.1:4178/cases/p09.html
+			57 container scope
+				58 heading 第一轮试用，范围可以这样定, Value: 2
+					59 text 第一轮试用，范围可以这样定
+				60 text 先选一条相对清楚的路径，例如一种货品在一个仓库里的入库与出库。把输入、负责人、数量变化和结果交接写在同一张流程清单上。
+				61 text 范围确定后，再判断现成表格或工具是否足够，还是确实需要扫码界面、权限控制或系统连接。数量校验和重复提交属于明确规则的问题，不必都交给 AI 判断。
+				62 content list
+					63 container
+						64 AXListMarker • 
+						65 text 正常流程：登记一笔业务，核对单据、库存和流水。
+					66 container
+						67 AXListMarker • 
+						68 text 异常流程：重复点提交、数量不足或录错后，系统如何处理？
+					69 container
+						70 AXListMarker • 
+						71 text 人工环节：谁确认异常，谁有权撤销，撤销是否留记录？
+					72 container
+						73 AXListMarker • 
+						74 text 交付范围：要做哪些功能，用什么样例核对，后续由谁维护？
+			75 container estimate
+				76 heading 算一笔时间账，再决定值不值得做, Value: 2
+					77 text 算一笔时间账，再决定值不值得做
+				78 text 假设测算，不是上述客户的实测结果
+				79 text 为了说明怎么算，假设每天有 30 笔记录需要核对，平均每笔 3 分钟；每月按 20 个工作日估算。下面的数字是人为设定的示例，请用你们实际记录替换。
+				80 definition list
+					81 container 目前投入（假设）
+						82 text 目前投入（假设）
+					83 text 30 笔 × 3 分钟 = 每天 90 分钟
+					84 container 若试用后实测为每笔 2 分钟
+						85 text 若试用后实测为每笔 2 分钟
+					86 text 每天少 30 分钟
+					87 container 对应的月度时间差
+						88 text 对应的月度时间差
+					89 text 30 分钟 × 20 天 = 10 小时
+				90 text 只有试用真的测出“每笔 2 分钟”，后两行才对这项工作有意义。还要把学习、纠错和维护所花的时间加回去；少花的时间也不等于现金成本已经下降。
+				91 text 不需要先承诺提效百分比。找同类任务，保留改造前后的操作记录，同时核对结果是否正确，判断才有依据。
+			92 container acceptance
+				93 heading 验收时，把能纠错也算进去, Value: 2
+					94 text 验收时，把能纠错也算进去
+				95 text 一个流程是否好用，不只看正常操作走得通。把异常交给实际使用的人试：录错后能否修正，重复提交会不会重复记账，换人接手能否查到发生过什么。
+				96 text 如果只是少填了一张表，却让另一位员工多花时间对账，这项调整未必值得扩展。先比较整条流程的投入，再决定继续、缩小范围或保留现有做法。
+			97 container contact
+				98 heading 第一次沟通，带一个具体问题就够了, Value: 2
+					99 text 第一次沟通，带一个具体问题就够了
+				100 text 可以按平时说话的方式描述：“我们现在用表格记入库，出库后再补一遍。最费时间的是每天对数量，想看看有没有小范围改法。”
+				101 text 初次沟通免费。实施服务低至500元起，具体范围和费用在开始前确认。起价不代表一套完整库存系统；工具订阅、开发、培训与维护按实际需求另行约定。
+				102 text 你可以先提供脱敏样例，不需要先交出账号密码、客户个人信息或完整业务数据。
+		103 container
+			104 heading 先聊一项具体工作, Value: 2
+				105 text 先聊一项具体工作
+			106 text 说说现在怎么做、哪一步最费时间。初次沟通免费。
+			107 link Description: 免费聊聊 ↗, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1
+		108 link Description: 了解库存与流程提效服务 ↗, Value: 127.0.0.1:4178/services/workflow-automation.html
+		109 container 继续阅读
+			110 heading 继续阅读, Value: 2, ID: article-next-title
+				111 text 继续阅读
+			112 container
+				113 text 知识库与答疑 约 6 分钟
+				114 heading 企业资料太散，做知识库答疑前要准备什么？, Value: 3
+					115 link Description: 企业资料太散，做知识库答疑前要准备什么？, Value: 127.0.0.1:4178/articles/enterprise-knowledge-base.html
+				116 text 结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。
+				117 link Description: 阅读: 企业资料太散，做知识库答疑前要准备什么？, Value: 127.0.0.1:4178/articles/enterprise-knowledge-base.html
+			118 container
+				119 text AI 入门 约 1 分钟阅读
+				120 heading AI 是什么？先从一件小事理解, Value: 3
+					121 link Description: AI 是什么？先从一件小事理解, Value: 127.0.0.1:4178/articles/what-is-ai.html
+				122 text AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。
+				123 link Description: 阅读: AI 是什么？先从一件小事理解, Value: 127.0.0.1:4178/articles/what-is-ai.html
+			124 container
+				125 text AI 入门 约 2 分钟阅读
+				126 heading AI 聊天和搜索引擎有什么区别？, Value: 3
+					127 link Description: AI 聊天和搜索引擎有什么区别？, Value: 127.0.0.1:4178/articles/ai-chat-vs-search.html
+				128 text 搜索主要帮你找到网页，AI 聊天主要帮你组织答案。
+				129 link Description: 阅读: AI 聊天和搜索引擎有什么区别？, Value: 127.0.0.1:4178/articles/ai-chat-vs-search.html
+	130 container
+		131 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/index.html
+		132 container 联系方式
+			133 text 邮箱
+			134 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			135 text 电话
+			136 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		137 container 页面导航
+			138 link Description: 项目库 ↗, Value: 127.0.0.1:4178/records.html
+			139 link Description: 回到顶部 ↑, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html#main
+		140 container 社交主页
+			141 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			142 link Description: B站, Value: space.bilibili.com/432834855
+			143 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			144 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			145 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			146 link Description: X, Value: x.com/cczij1112
+			147 link Description: 微博, Value: weibo.com/u/7720929036
+			148 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			149 link Description: Instagram, Value: instagram.com/eliaifde/
+			150 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		151 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea 库存每天靠人工核对，先改哪一步？ - Eli, URL: 127.0.0.1:4178/articles/inventory-reconciliation.html#case-records

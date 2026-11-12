@@ -1,0 +1,10 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261012-182317-reading-social",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-143006-seo-geo",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-182317-reading-social",
+  "backup": "/srv/eli-sites/portfolio/backups/20261012-182317-reading-social",
+  "files_verified": 143,
+  "package_sha256": "bd83bf65718cdcac3a69fb3af23437eca6675cb80b46b8481e6ca3a6d13f8cb8",
+  "indexing": "DISABLED"
+}

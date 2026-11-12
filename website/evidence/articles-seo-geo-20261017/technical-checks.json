@@ -1,0 +1,4561 @@
+{
+  "status": "PASS",
+  "timestamp": "2026-10-17T17:37:47.411639+08:00",
+  "public_sitemap_urls": 294,
+  "article_detail_pages": 204,
+  "article_lists": 2,
+  "pages_checked": 206,
+  "revision": "e3304385905f8d1cdd01",
+  "crawler_access": {
+    "Googlebot": true,
+    "bingbot": true,
+    "Baiduspider": true,
+    "OAI-SearchBot": true,
+    "ChatGPT-User": true,
+    "PerplexityBot": true,
+    "Perplexity-User": true
+  },
+  "duplicate_titles": [],
+  "duplicate_descriptions": [],
+  "static_list_link_counts": [
+    102,
+    102
+  ],
+  "llms_has_article_entry": false,
+  "robots": "User-agent: *\nAllow: /\nSitemap: https://www.eliai.cn/sitemap.xml\n",
+  "errors": [],
+  "pages": [
+    {
+      "url": "https://www.eliai.cn/articles.html",
+      "status": 200,
+      "bytes": 399095,
+      "title": "AI 入门教程｜Agent、办公实操与老板用 AI - Eli",
+      "description": "100 篇中英双语 AI 基础教程，涵盖大模型、Agent、Skills、GitHub、WorkBuddy、办公实操与老板用 AI，并保留真实项目实践文章。",
+      "canonical": [
+        "https://www.eliai.cn/articles.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles.html",
+        "en": "https://www.eliai.cn/en/articles.html",
+        "x-default": "https://www.eliai.cn/articles.html"
+      },
+      "robots": "index,follow",
+      "article_schema": false,
+      "source_links": 12,
+      "static_article_links": 102,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e5997398aee787cafa8593e9814edab338aa18e3a66266a63c4640c3e50683c2"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/acceptance-tests.html",
+      "status": 200,
+      "bytes": 44940,
+      "title": "验收测试是什么？怎么判断 AI 写完了？ - Eli",
+      "description": "验收测试检查需求是否满足，而不是只看“构建（把源码转换为可运行或可发布的文件）通过”。",
+      "canonical": [
+        "https://www.eliai.cn/articles/acceptance-tests.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/acceptance-tests.html",
+        "en": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+        "x-default": "https://www.eliai.cn/articles/acceptance-tests.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "04922f287d672ad49f7195fc80f5fbfce5a22ce20bdfc62758d3594f50d78e3e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+      "status": 200,
+      "bytes": 44282,
+      "title": "Agent 为什么要边做边检查？ - Eli",
+      "description": "前一步错了，后面跑得再快也只是扩大错误。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-feedback-loop.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+        "en": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+        "x-default": "https://www.eliai.cn/articles/agent-feedback-loop.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b6e364389c09aaa451c7465482352d5a9f4c0dbc4952ee8a46e9c7c8c4b6ac36"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-first-task.html",
+      "status": 200,
+      "bytes": 44529,
+      "title": "新手第一次用 Agent，该选什么任务？ - Eli",
+      "description": "从能回退的小任务开始，比如在练习目录生成一份文件清单。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-first-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-first-task.html",
+        "en": "https://www.eliai.cn/en/articles/agent-first-task.html",
+        "x-default": "https://www.eliai.cn/articles/agent-first-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e56475ee5c72bf1c53a149d866953bb1febcf128277fe6f8008dcc55243f1a50"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-memory.html",
+      "status": 200,
+      "bytes": 44746,
+      "title": "Agent 的记忆靠谱吗？重要规则放哪里？ - Eli",
+      "description": "记忆功能可能保存偏好或摘要，但不能替代任务记录。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-memory.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-memory.html",
+        "en": "https://www.eliai.cn/en/articles/agent-memory.html",
+        "x-default": "https://www.eliai.cn/articles/agent-memory.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "014bb48f2c1e003a47daabae1dd1cf6988aafd4da6eed302f800d613dc73aa81"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+      "status": 200,
+      "bytes": 44174,
+      "title": "Agent 写了计划，为什么不算完成？ - Eli",
+      "description": "计划说明准备做什么，回执说明实际发生了什么。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-plan-and-act.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+        "en": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+        "x-default": "https://www.eliai.cn/articles/agent-plan-and-act.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "410b07e87d6439f201b531f299692fa19397f55352e9869649db5eac503bc171"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+      "status": 200,
+      "bytes": 44691,
+      "title": "Agent 上岗前，老板应该检查哪几件事？ - Eli",
+      "description": "先看它能访问什么、会改什么、谁确认结果、出错怎么恢复。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-risk-checklist.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+        "en": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+        "x-default": "https://www.eliai.cn/articles/agent-risk-checklist.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "ea55f73b597609f984a2adfd411bc78944f06f0a7a63591836eace8b0d975379"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-stop-rules.html",
+      "status": 200,
+      "bytes": 44585,
+      "title": "怎么防止 Agent 一直重试、一直花钱？ - Eli",
+      "description": "先约定范围、重试次数、预算和必须交还人的情况。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-stop-rules.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-stop-rules.html",
+        "en": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+        "x-default": "https://www.eliai.cn/articles/agent-stop-rules.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "db0d5916612672577f68f449314920e1e1b5f2b1acdd3403d282e93044e98f2b"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+      "status": 200,
+      "bytes": 44285,
+      "title": "Agent 要读文件、联网、发消息，都该允许吗？ - Eli",
+      "description": "权限要对应当前任务。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-tools-permissions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+        "en": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+        "x-default": "https://www.eliai.cn/articles/agent-tools-permissions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "67adf69375279c3727ccbaff4b999d44c54ace4b73f9f46dcc8077587bb37c47"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+      "status": 200,
+      "bytes": 44257,
+      "title": "工作流和 Agent，企业先用哪种？ - Eli",
+      "description": "固定工作流按预定步骤走，Agent 可以根据反馈选择下一步。",
+      "canonical": [
+        "https://www.eliai.cn/articles/agent-workflow-difference.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+        "en": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+        "x-default": "https://www.eliai.cn/articles/agent-workflow-difference.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "4b6ffc7a163e434803b686e5a8d334d87b75d120c24a023fde533da001569ea8"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+      "status": 200,
+      "bytes": 45178,
+      "title": "AI 聊天和搜索引擎有什么区别？ - Eli",
+      "description": "搜索主要帮你找到网页，AI 聊天主要帮你组织答案。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-chat-vs-search.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+        "en": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+        "x-default": "https://www.eliai.cn/articles/ai-chat-vs-search.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "322b44b6e3437f0dea3678ee884542b3bce2c4881002ec77c2519133ff47944d"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-checkpoints.html",
+      "status": 200,
+      "bytes": 44761,
+      "title": "长任务的检查点，应该记哪些信息？ - Eli",
+      "description": "检查点帮助下一次继续：当前目标、已完成、未完成、文件位置、关键限制和下一步。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-checkpoints.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-checkpoints.html",
+        "en": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+        "x-default": "https://www.eliai.cn/articles/ai-checkpoints.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6ff22671956d42a43c31a560a37ee5e27fefb97cd8a28434f38d9d9283d44ed7"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-coding-basics.html",
+      "status": 200,
+      "bytes": 44962,
+      "title": "不会编程，能让 AI 写一个小工具吗？ - Eli",
+      "description": "可以从很小的本地需求试起，但生成代码不等于安全可用。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-coding-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-coding-basics.html",
+        "en": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+        "x-default": "https://www.eliai.cn/articles/ai-coding-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "4a64c42f29e938acceb0b58cf17a904a0339675b53796aa358d2b970c8b55d7a"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-compare-options.html",
+      "status": 200,
+      "bytes": 43893,
+      "title": "让 AI 比方案，怎么避免凭空打分？ - Eli",
+      "description": "先确定评价标准和证据，再讨论权重。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-compare-options.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-compare-options.html",
+        "en": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+        "x-default": "https://www.eliai.cn/articles/ai-compare-options.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f14ac5072e6516808b8d3fc6f856af546e1b6dd48d699b399d18b50fc3c177b2"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+      "status": 200,
+      "bytes": 45207,
+      "title": "免费咨询前，老板准备哪三句话就够了？ - Eli",
+      "description": "先说做什么业务、现在怎么处理、哪一步最麻烦。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-consultation-prepare.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+        "en": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+        "x-default": "https://www.eliai.cn/articles/ai-consultation-prepare.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b40cf947040350b54cb40e2625deb83a1dbb705489272e6341c234dcf156534c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "status": 200,
+      "bytes": 44986,
+      "title": "AI 提效要花哪些钱？别只看会员费 - Eli",
+      "description": "费用可能包括工具、调用、配置开发、培训、审核和维护。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-cost-breakdown.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+        "en": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+        "x-default": "https://www.eliai.cn/articles/ai-cost-breakdown.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a07781795491033142b9fb101f064ae58f1ebf43f27ce6aca5bd6ba3f9acd593"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-debugging.html",
+      "status": 200,
+      "bytes": 44698,
+      "title": "AI 修 Bug，怎么避免越修越乱？ - Eli",
+      "description": "先复现、定位，再做最小修改，最后复测（按同样步骤再检查一次）。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-debugging.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-debugging.html",
+        "en": "https://www.eliai.cn/en/articles/ai-debugging.html",
+        "x-default": "https://www.eliai.cn/articles/ai-debugging.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b7f1773af83012e3b8e0c075b7fc002158d8c146bd8891d7d2966847b3dba35b"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-email-draft.html",
+      "status": 200,
+      "bytes": 44334,
+      "title": "用 AI 写邮件，怎么做到有用又不乱承诺？ - Eli",
+      "description": "先说明收件人关系、目的、已确认事实和不能答应的内容。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-email-draft.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-email-draft.html",
+        "en": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+        "x-default": "https://www.eliai.cn/articles/ai-email-draft.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "32501337c0cd2415725edebdb677da68503a25a603830e47f8f1b59ef3e582e5"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-employee-training.html",
+      "status": 200,
+      "bytes": 45533,
+      "title": "员工不愿用 AI，怎么安排入门培训？ - Eli",
+      "description": "从员工最熟悉的一项小任务开始，让他们看到结果如何检查及何时找人。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-employee-training.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-employee-training.html",
+        "en": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+        "x-default": "https://www.eliai.cn/articles/ai-employee-training.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "bfdc47bdf6f7a98e7a272f936543d571340e5d195263b49f7502997148268fdf"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-file-reading.html",
+      "status": 200,
+      "bytes": 44848,
+      "title": "上传文件后，AI 真的读完了吗？ - Eli",
+      "description": "上传成功只说明文件交给了产品，不证明每一页都被读懂。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-file-reading.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-file-reading.html",
+        "en": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+        "x-default": "https://www.eliai.cn/articles/ai-file-reading.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "36e151b077a43467d531c67d48ac138820c94ba06ddddb9a0418bab4562066de"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-generated-images.html",
+      "status": 200,
+      "bytes": 44937,
+      "title": "AI 图片能直接当产品实拍图吗？ - Eli",
+      "description": "AI 图片可以帮助讨论构图和风格，但可能改变产品尺寸、接口、文字和材质。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-generated-images.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-generated-images.html",
+        "en": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+        "x-default": "https://www.eliai.cn/articles/ai-generated-images.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "96c13632b2e437972ffb43203107c0ff897801a2359f5d950d8519eb0ad2b992"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-hallucination.html",
+      "status": 200,
+      "bytes": 44678,
+      "title": "AI 一本正经胡说，怎么识别？ - Eli",
+      "description": "AI 可能生成看似真实却没有依据的内容，常被叫作“幻觉”。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-hallucination.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-hallucination.html",
+        "en": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+        "x-default": "https://www.eliai.cn/articles/ai-hallucination.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "00e8af59e9d7e3fcf3ef7165f660ff9e598f6a43a22cd301bc3e6a4aab19080d"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+      "status": 200,
+      "bytes": 44437,
+      "title": "用 AI 核对库存，第一步为什么只列异常？ - Eli",
+      "description": "账面、实物、在途与预留库存不是同一个概念。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+        "en": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+        "x-default": "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "0adf2a8fa25baca419729b73eb2594e1f48e3808fd148444a8a07c0a085a8d47"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-jargon-map.html",
+      "status": 200,
+      "bytes": 44821,
+      "title": "AI 圈黑话太多？先分清这十个词 - Eli",
+      "description": "先分清模型、工具、连接和运行环境，再看产品介绍。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-jargon-map.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-jargon-map.html",
+        "en": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+        "x-default": "https://www.eliai.cn/articles/ai-jargon-map.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 15,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8a7207e9643b538852758a17d77978453d33d98e65329078801e165dd1823c3e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+      "status": 200,
+      "bytes": 44608,
+      "title": "企业知识库从哪里开始，不是把文件全上传？ - Eli",
+      "description": "先选一个部门反复问的主题，整理有效版本、负责人与适用范围。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+        "en": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+        "x-default": "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3cd87f423d00c21469f3dd2946110581d99d885caedbf3102bf25a96be087328"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-learning-plan.html",
+      "status": 200,
+      "bytes": 44400,
+      "title": "零基础学 AI，第一周怎么安排？ - Eli",
+      "description": "先把一件事做对，再学更多名词。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-learning-plan.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-learning-plan.html",
+        "en": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+        "x-default": "https://www.eliai.cn/articles/ai-learning-plan.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9ac8c16af9eb57892033519a07cbf0e4ec638e1016868e20e7443c47d822a78b"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+      "status": 200,
+      "bytes": 45452,
+      "title": "AI 工具交付后，谁负责更新和修问题？ - Eli",
+      "description": "资料、账号、模型与业务规则会变化，所以维护不能默认为“交付后永远好用”。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-maintenance-owner.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+        "en": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+        "x-default": "https://www.eliai.cn/articles/ai-maintenance-owner.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "552158a2ac1295e025f317d750f0b1f9641597d4acb2c46c4c65eb656305b979"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+      "status": 200,
+      "bytes": 44412,
+      "title": "会议纪要里怎么区分决定和建议？ - Eli",
+      "description": "纪要不是把聊天写得正式，而是保留谁决定了什么、谁还没确认。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-meeting-actions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+        "en": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+        "x-default": "https://www.eliai.cn/articles/ai-meeting-actions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9b633cf3735637e143ec28c4d3ea579d96631eb87eca1a08c0fa2bd1c7d2108b"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-ocr-check.html",
+      "status": 200,
+      "bytes": 44564,
+      "title": "OCR 是什么？识别单据后还要核对什么？ - Eli",
+      "description": "OCR 把图片里的文字转为可处理文本，不保证数字和表格关系都正确。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-ocr-check.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-ocr-check.html",
+        "en": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+        "x-default": "https://www.eliai.cn/articles/ai-ocr-check.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "853da99a8a880594a677a3a0c964757f47af0d5cd3e67dd9ebe52fbe5431554e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-pilot-design.html",
+      "status": 200,
+      "bytes": 44868,
+      "title": "AI 小试点怎么做，避免一上来花大钱？ - Eli",
+      "description": "只试一个场景、少量获准样本和明确周期。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-pilot-design.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-pilot-design.html",
+        "en": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+        "x-default": "https://www.eliai.cn/articles/ai-pilot-design.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "0a9daf77f1abecb6bb0010bc01355ccb7377c8fb1fe0ee77678837f73dbdde02"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+      "status": 200,
+      "bytes": 44478,
+      "title": "哪些资料不该直接发给 AI？ - Eli",
+      "description": "先确认资料能否交给这个服务，再考虑怎样提问。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-privacy-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+        "en": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+        "x-default": "https://www.eliai.cn/articles/ai-privacy-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "0c82b79d7857d6d1a02a12374b6c8e2ad7550032269dd9492d950a447f0970d9"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-product-copy.html",
+      "status": 200,
+      "bytes": 44273,
+      "title": "AI 写产品文案，哪些信息绝对不能编？ - Eli",
+      "description": "尺寸、材质、认证、适用范围和效果必须有依据。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-product-copy.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-product-copy.html",
+        "en": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+        "x-default": "https://www.eliai.cn/articles/ai-product-copy.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "7df235a8d291fa2ae2e8a6d43d109d2c3a2d9a7e53d27a91429aeac877c3b218"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-sop-writing.html",
+      "status": 200,
+      "bytes": 44363,
+      "title": "AI 怎么把老师傅经验整理成操作步骤？ - Eli",
+      "description": "先访谈实际操作者，再整理步骤、前提、例外和完成标准。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-sop-writing.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-sop-writing.html",
+        "en": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+        "x-default": "https://www.eliai.cn/articles/ai-sop-writing.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6a412b1b274d7b5669de1bfe6786fcc237036636476493b5b14a6fb853d05d7c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+      "status": 200,
+      "bytes": 44534,
+      "title": "表格太乱，AI 清洗前先定什么规则？ - Eli",
+      "description": "先统一字段含义、单位和缺失值，再谈格式漂亮。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+        "en": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+        "x-default": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6f74372a7ede4d2d88284d8dbf94086b7a2d40ce72dd3a2a2a5bd70397855f8e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-task-selection.html",
+      "status": 200,
+      "bytes": 44485,
+      "title": "哪些工作适合先用 AI，哪些先别碰？ - Eli",
+      "description": "优先考虑重复、输入稳定、容易核对且错误可恢复的工作。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-task-selection.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-task-selection.html",
+        "en": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+        "x-default": "https://www.eliai.cn/articles/ai-task-selection.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8108ac7518a4c5e7b330e30d9dd776b1d186f5f2c6e3b8a1d774a6e72cdb785e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-translation-review.html",
+      "status": 200,
+      "bytes": 44328,
+      "title": "AI 翻译能直接发客户吗？怎么检查？ - Eli",
+      "description": "翻译要保留数字、条件、否定和术语，不能只看语句流畅。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-translation-review.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-translation-review.html",
+        "en": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+        "x-default": "https://www.eliai.cn/articles/ai-translation-review.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "66d07e712f401d5996020cd3ad929089d0e2e5d442c33beb658c876aac1f9cc2"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ai-weekly-report.html",
+      "status": 200,
+      "bytes": 44436,
+      "title": "周报怎么用 AI 整理，不把计划写成成果？ - Eli",
+      "description": "把实际完成、进行中、计划和阻断分开。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-weekly-report.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-weekly-report.html",
+        "en": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+        "x-default": "https://www.eliai.cn/articles/ai-weekly-report.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "ca986ff523bcbc0e5da52c0895c71c6897fda690bc8dba5f38aa01802518c6b5"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+      "status": 200,
+      "bytes": 43794,
+      "title": "怎么让 AI 先问关键问题，又不一直问？ - Eli",
+      "description": "要求它只问会改变范围、费用或正确性的缺口。",
+      "canonical": [
+        "https://www.eliai.cn/articles/ask-clarifying-questions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+        "en": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+        "x-default": "https://www.eliai.cn/articles/ask-clarifying-questions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3905ada1769dd0d455723e4d1cf4d77cb4ca8983b97d09a378f0a817c4b7ca50"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/branch-basics.html",
+      "status": 200,
+      "bytes": 44101,
+      "title": "Branch 分支是什么？新手为什么要用？ - Eli",
+      "description": "分支让一组修改在独立的版本线上进行，便于比较和合并。",
+      "canonical": [
+        "https://www.eliai.cn/articles/branch-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/branch-basics.html",
+        "en": "https://www.eliai.cn/en/articles/branch-basics.html",
+        "x-default": "https://www.eliai.cn/articles/branch-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "0648a8232d04d774217569a18df24e92901a02e1faa4bc2fd8cfee3ac62748c1"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/break-down-task.html",
+      "status": 200,
+      "bytes": 43945,
+      "title": "任务太大做不好？怎么拆给 AI？ - Eli",
+      "description": "把长任务按可检查的中间结果拆开：先读资料，再列问题，再写草稿，最后核对。",
+      "canonical": [
+        "https://www.eliai.cn/articles/break-down-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/break-down-task.html",
+        "en": "https://www.eliai.cn/en/articles/break-down-task.html",
+        "x-default": "https://www.eliai.cn/articles/break-down-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "04d5b0729dddf84996cc7ba56c6238ae0ef924b3421f3d88d83f94096340441b"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/choose-ai-provider.html",
+      "status": 200,
+      "bytes": 45121,
+      "title": "怎么挑企业 AI 提效服务商，不被术语绕晕？ - Eli",
+      "description": "让对方围绕你的一个流程说明输入、交付、边界和验收。",
+      "canonical": [
+        "https://www.eliai.cn/articles/choose-ai-provider.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/choose-ai-provider.html",
+        "en": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+        "x-default": "https://www.eliai.cn/articles/choose-ai-provider.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b1443e477d94d2b346a162606f8675d2a6af1107083503b96d3f5871842d71ce"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/choose-ai-tool.html",
+      "status": 200,
+      "bytes": 44881,
+      "title": "新手怎么选 AI 工具，避免买一堆会员？ - Eli",
+      "description": "先列任务，再选工具。",
+      "canonical": [
+        "https://www.eliai.cn/articles/choose-ai-tool.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/choose-ai-tool.html",
+        "en": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+        "x-default": "https://www.eliai.cn/articles/choose-ai-tool.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "144436f0073c27218f4ed3efa2d8485ef9212393cd10bf122820973faf868c12"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/coding-without-secrets.html",
+      "status": 200,
+      "bytes": 44732,
+      "title": "让 AI 看代码，API Key 应该怎么处理？ - Eli",
+      "description": "API Key 是访问服务的凭证，不是普通配置示例。",
+      "canonical": [
+        "https://www.eliai.cn/articles/coding-without-secrets.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/coding-without-secrets.html",
+        "en": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+        "x-default": "https://www.eliai.cn/articles/coding-without-secrets.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "acef88a74033ce5b2f126c187bc489079f0c5cbcb5247b4e62166b0f88edf63b"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/commit-basics.html",
+      "status": 200,
+      "bytes": 44159,
+      "title": "Commit 提交是什么？和保存文件一样吗？ - Eli",
+      "description": "保存改变当前文件，Commit 则把一组变更记入版本历史并附说明。",
+      "canonical": [
+        "https://www.eliai.cn/articles/commit-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/commit-basics.html",
+        "en": "https://www.eliai.cn/en/articles/commit-basics.html",
+        "x-default": "https://www.eliai.cn/articles/commit-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6bc424e23587c3d2e65122b3464361f51c3c788f3a8d0e82e4adf2b146c63a60"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/context-window.html",
+      "status": 200,
+      "bytes": 45378,
+      "title": "上下文窗口是什么？为什么聊久了忘事？ - Eli",
+      "description": "上下文窗口是模型一次处理信息的容量限制。",
+      "canonical": [
+        "https://www.eliai.cn/articles/context-window.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/context-window.html",
+        "en": "https://www.eliai.cn/en/articles/context-window.html",
+        "x-default": "https://www.eliai.cn/articles/context-window.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c7a14036185d812f6aca34017feb7fc462b78028a1e5bde70631c5d6a3ed21b1"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/create-first-skill.html",
+      "status": 200,
+      "bytes": 44675,
+      "title": "会议纪要 Skill 怎么写成能反复检查的规则？ - Eli",
+      "description": "先把纪要规则写成可重复使用的文件，再用不同样本检查同一份规则。",
+      "canonical": [
+        "https://www.eliai.cn/articles/create-first-skill.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/create-first-skill.html",
+        "en": "https://www.eliai.cn/en/articles/create-first-skill.html",
+        "x-default": "https://www.eliai.cn/articles/create-first-skill.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "84d342f2db329e242bac5b973b6025455bfa927413328e48718761aff79c8273"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/dependency-basics.html",
+      "status": 200,
+      "bytes": 44547,
+      "title": "依赖是什么？装一个包为什么带来很多文件？ - Eli",
+      "description": "依赖是程序复用的外部代码。",
+      "canonical": [
+        "https://www.eliai.cn/articles/dependency-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/dependency-basics.html",
+        "en": "https://www.eliai.cn/en/articles/dependency-basics.html",
+        "x-default": "https://www.eliai.cn/articles/dependency-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "18b9c7ffcf0cdb7c593dc61a69d4750e90ecf007e9a49ba884d20ebc57edd95d"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/download-release-or-source.html",
+      "status": 200,
+      "bytes": 44335,
+      "title": "下载源码 ZIP 和 Release，有什么区别？ - Eli",
+      "description": "源码 ZIP 通常是项目文件快照，不一定能双击运行。",
+      "canonical": [
+        "https://www.eliai.cn/articles/download-release-or-source.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/download-release-or-source.html",
+        "en": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+        "x-default": "https://www.eliai.cn/articles/download-release-or-source.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "eb7159b79e83488bfae23a9b80a5f0f3515310f3a256bac461f645e57ecfc44c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/embeddings-explained.html",
+      "status": 200,
+      "bytes": 45582,
+      "title": "Embedding 是什么？资料为什么能按意思查？ - Eli",
+      "description": "Embedding 把内容表示成一组数字，用于比较某种相似性。",
+      "canonical": [
+        "https://www.eliai.cn/articles/embeddings-explained.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/embeddings-explained.html",
+        "en": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+        "x-default": "https://www.eliai.cn/articles/embeddings-explained.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "306931cf8736fe7d910b6742675e1b4f01f4f0f62155268abbfabfd789ad8b47"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "bytes": 60429,
+      "title": "企业资料太散，做知识库答疑前要准备什么？ - Eli",
+      "description": "结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。",
+      "canonical": [
+        "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+        "en": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+        "x-default": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2e889c0a6e639e6df74e0107b7d3ba1954a808c2888b74aaa8b6e1d1df091870"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+      "status": 200,
+      "bytes": 45642,
+      "title": "微调、知识库和提示词，先用哪个？ - Eli",
+      "description": "先判断缺的是任务说明、最新资料还是稳定的特定行为。",
+      "canonical": [
+        "https://www.eliai.cn/articles/fine-tuning-or-rag.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+        "en": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+        "x-default": "https://www.eliai.cn/articles/fine-tuning-or-rag.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e2268fa68c26ff2e39dc909386b908656af28600214cd53c86959ce6465a46d5"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/first-ai-task.html",
+      "status": 200,
+      "bytes": 45506,
+      "title": "第一次用 AI，应该拿什么任务练手？ - Eli",
+      "description": "选一个小、可检查、做错也容易恢复的任务，比如把个人笔记改成待办清单。",
+      "canonical": [
+        "https://www.eliai.cn/articles/first-ai-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/first-ai-task.html",
+        "en": "https://www.eliai.cn/en/articles/first-ai-task.html",
+        "x-default": "https://www.eliai.cn/articles/first-ai-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "34635b9642ac030497b2fa79e44ae1a744dab36b4d2540efbe75754cdf2c32f6"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+      "status": 200,
+      "bytes": 43981,
+      "title": "AI 答偏了，怎么反馈才有效？ - Eli",
+      "description": "指出哪句话错、错在什么、正确规则是什么，比说“重写”更有用。",
+      "canonical": [
+        "https://www.eliai.cn/articles/fix-bad-ai-answer.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+        "en": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+        "x-default": "https://www.eliai.cn/articles/fix-bad-ai-answer.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5e0841a3a94a7d4abbac807e200fc393f61af7be191ae8a2613fbf92c186dfc0"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/github-public-private.html",
+      "status": 200,
+      "bytes": 44772,
+      "title": "GitHub 公开与私有仓库，怎么避免泄露？ - Eli",
+      "description": "公开仓库内容可被他人读取和复制；私有仓库限制访问，但也不适合把秘密凭证直接当普通文件存。",
+      "canonical": [
+        "https://www.eliai.cn/articles/github-public-private.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/github-public-private.html",
+        "en": "https://www.eliai.cn/en/articles/github-public-private.html",
+        "x-default": "https://www.eliai.cn/articles/github-public-private.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2aea8c578be9466f7c7b44ebccfe8be07f94d1d2c7a994d8c226326dfccca765"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/how-llm-generates.html",
+      "status": 200,
+      "bytes": 45387,
+      "title": "大模型怎么一句一句生成回答？ - Eli",
+      "description": "语言模型根据上下文逐步生成后续的文字单位，而不是从一个固定答案库复制整段结论。",
+      "canonical": [
+        "https://www.eliai.cn/articles/how-llm-generates.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/how-llm-generates.html",
+        "en": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+        "x-default": "https://www.eliai.cn/articles/how-llm-generates.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "047e6c9f9985f2dbcacd7bb450025886c250b78e9e983c026d6367fe479429ba"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "status": 200,
+      "bytes": 59261,
+      "title": "库存每天靠人工核对，先改哪一步？ - Eli",
+      "description": "从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。",
+      "canonical": [
+        "https://www.eliai.cn/articles/inventory-reconciliation.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+        "en": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+        "x-default": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "198327352850bea2c47e9b0a6755f7ff59339c1a374f5de946c253437586f2a8"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/issue-basics.html",
+      "status": 200,
+      "bytes": 44575,
+      "title": "怎么在 GitHub 提问，别人更容易帮你？ - Eli",
+      "description": "好的 Issue 说明环境、复现步骤、预期、实际和相关错误。",
+      "canonical": [
+        "https://www.eliai.cn/articles/issue-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/issue-basics.html",
+        "en": "https://www.eliai.cn/en/articles/issue-basics.html",
+        "x-default": "https://www.eliai.cn/articles/issue-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f57ba798064d39dabcf86d54a0ff56841af9abc283cf15459d26927d8406d266"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/mcp-read-only.html",
+      "status": 200,
+      "bytes": 44821,
+      "title": "第一次接 MCP，为什么先用只读？ - Eli",
+      "description": "只读试点能先验证找不找得到正确资料，而不碰业务记录。",
+      "canonical": [
+        "https://www.eliai.cn/articles/mcp-read-only.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/mcp-read-only.html",
+        "en": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+        "x-default": "https://www.eliai.cn/articles/mcp-read-only.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6929c0a71452aaf13c4d687e203207ec392b879b0d32fce53f185bab7a5f4644"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/mcp-vs-api.html",
+      "status": 200,
+      "bytes": 44960,
+      "title": "MCP 连上却查询失败？它和 API 分别负责什么？ - Eli",
+      "description": "API 是程序提供功能的接口，MCP 则为 AI 应用连接工具及资源约定了共同方式。",
+      "canonical": [
+        "https://www.eliai.cn/articles/mcp-vs-api.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/mcp-vs-api.html",
+        "en": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+        "x-default": "https://www.eliai.cn/articles/mcp-vs-api.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "d1f503a21285432bb2cdfd07bbb0b23376de8c54988ba0b17660648dd481ef73"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+      "status": 200,
+      "bytes": 45130,
+      "title": "AI 到底有没有提效？老板怎么量？ - Eli",
+      "description": "看完成同类任务的总时间、错误、返工和人工复核，不只看模型生成速度。",
+      "canonical": [
+        "https://www.eliai.cn/articles/measure-ai-benefit.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+        "en": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+        "x-default": "https://www.eliai.cn/articles/measure-ai-benefit.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c1ad427068563c71e68a6273437187eeffb3fba74efd936634152af4bb770db8"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/model-size-and-cost.html",
+      "status": 200,
+      "bytes": 45536,
+      "title": "模型越大越好吗？怎么判断够不够用？ - Eli",
+      "description": "模型大小不是唯一标准。",
+      "canonical": [
+        "https://www.eliai.cn/articles/model-size-and-cost.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/model-size-and-cost.html",
+        "en": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+        "x-default": "https://www.eliai.cn/articles/model-size-and-cost.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "93b7af3e3142349667e1c60786ef2296b1fc144bc7ee6a40e5af4dfb4b80286c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/multi-agent-basics.html",
+      "status": 200,
+      "bytes": 44551,
+      "title": "多 Agent 是什么？一个人用 AI 需要吗？ - Eli",
+      "description": "多 Agent 是把任务分给多个执行或审查角色。",
+      "canonical": [
+        "https://www.eliai.cn/articles/multi-agent-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/multi-agent-basics.html",
+        "en": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+        "x-default": "https://www.eliai.cn/articles/multi-agent-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "26cda65c8b0203e1ae3361de2a8a9f2aeb135336bd94ba8ed967991c6c9f79cb"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/neural-network-basics.html",
+      "status": 200,
+      "bytes": 45828,
+      "title": "神经网络是什么？不学公式怎么理解？ - Eli",
+      "description": "神经网络用多层计算把输入变成输出，训练时调整其中的参数。",
+      "canonical": [
+        "https://www.eliai.cn/articles/neural-network-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/neural-network-basics.html",
+        "en": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+        "x-default": "https://www.eliai.cn/articles/neural-network-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "7c29923ee1086724ef3e8b4d35a312b53c78aaabc516e60ef95b061ed7d44541"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/open-source-license.html",
+      "status": 200,
+      "bytes": 44456,
+      "title": "开源就是免费随便商用吗？ - Eli",
+      "description": "开源项目仍受许可证约束。",
+      "canonical": [
+        "https://www.eliai.cn/articles/open-source-license.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/open-source-license.html",
+        "en": "https://www.eliai.cn/en/articles/open-source-license.html",
+        "x-default": "https://www.eliai.cn/articles/open-source-license.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "22550fc1edfb140b5b69e192301b8975ec2d2cecd25f0e6fc860abd6ae9af281"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+      "status": 200,
+      "bytes": 44310,
+      "title": "老板想用 AI 提效，第一步不是买系统 - Eli",
+      "description": "先找一件反复做、能描述、能检查的小事。",
+      "canonical": [
+        "https://www.eliai.cn/articles/owner-ai-first-step.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+        "en": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+        "x-default": "https://www.eliai.cn/articles/owner-ai-first-step.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "d4f3e4a0392dc3d6f3d9ca22f2fba23a5bebc7712f4d41bf1bb289731fc09625"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/prompt-basics.html",
+      "status": 200,
+      "bytes": 45032,
+      "title": "Prompt 是什么？怎么把一句话需求讲清？ - Eli",
+      "description": "Prompt 就是交给模型的指令及相关信息。",
+      "canonical": [
+        "https://www.eliai.cn/articles/prompt-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/prompt-basics.html",
+        "en": "https://www.eliai.cn/en/articles/prompt-basics.html",
+        "x-default": "https://www.eliai.cn/articles/prompt-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "26107d71a82dd00120c168e2e99858c48a5fb46b784db1ea214ccebde3a8795f"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+      "status": 200,
+      "bytes": 44668,
+      "title": "提示词注入是什么？网页为什么会指挥 AI？ - Eli",
+      "description": "外部网页、文档或技能可能夹带“忽略原要求”等指令，诱使 Agent 越权。",
+      "canonical": [
+        "https://www.eliai.cn/articles/prompt-injection-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+        "en": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+        "x-default": "https://www.eliai.cn/articles/prompt-injection-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6ccdfd3334f6e34c1a206c366432cbb4b2edb9ca02329ba1646f1be5525f9b35"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/prompt-with-example.html",
+      "status": 200,
+      "bytes": 44482,
+      "title": "给 AI 一个例子，为什么比反复解释更好？ - Eli",
+      "description": "示例能把“简洁”“统一”等模糊要求变成可观察的格式。",
+      "canonical": [
+        "https://www.eliai.cn/articles/prompt-with-example.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/prompt-with-example.html",
+        "en": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+        "x-default": "https://www.eliai.cn/articles/prompt-with-example.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2e910dcb73f2559d2fab20880445c9a2fef5b6057201e9c5737b90cbb333f4a3"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/provide-context.html",
+      "status": 200,
+      "bytes": 44929,
+      "title": "怎么给 AI 背景信息，又不写成一大篇？ - Eli",
+      "description": "只给影响判断的背景：谁在用、现在怎么做、卡在哪里、希望得到什么。",
+      "canonical": [
+        "https://www.eliai.cn/articles/provide-context.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/provide-context.html",
+        "en": "https://www.eliai.cn/en/articles/provide-context.html",
+        "x-default": "https://www.eliai.cn/articles/provide-context.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5ee43eba092e0202d98b8009b883dc34799ca78d8f9c0e88b0e515d150acc039"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/pull-request-basics.html",
+      "status": 200,
+      "bytes": 44636,
+      "title": "Pull Request 是什么？不是点了就上线吧？ - Eli",
+      "description": "Pull Request 是提议合并一组修改并供人讨论审查的入口。",
+      "canonical": [
+        "https://www.eliai.cn/articles/pull-request-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/pull-request-basics.html",
+        "en": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+        "x-default": "https://www.eliai.cn/articles/pull-request-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "717afd831f717c6cca7dad924fe93a57f09d1907d6db0d91825bfb943d0d3f0c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/rag-explained.html",
+      "status": 200,
+      "bytes": 45448,
+      "title": "RAG 是什么？为什么企业知识库常用它？ - Eli",
+      "description": "RAG 是先检索相关资料，再把找到的内容交给模型回答。",
+      "canonical": [
+        "https://www.eliai.cn/articles/rag-explained.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/rag-explained.html",
+        "en": "https://www.eliai.cn/en/articles/rag-explained.html",
+        "x-default": "https://www.eliai.cn/articles/rag-explained.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "7f164168f83bf8179859e6e91fceab66279ff983b4dffffabb4600fc0b3cfa9f"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+      "status": 200,
+      "bytes": 45016,
+      "title": "AI 改代码前，外行要看懂什么？ - Eli",
+      "description": "不用先看懂每个语法，但要知道改什么、为什么改、影响哪些页面以及怎样撤回。",
+      "canonical": [
+        "https://www.eliai.cn/articles/read-ai-code-plan.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+        "en": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+        "x-default": "https://www.eliai.cn/articles/read-ai-code-plan.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "7d91e8e8e26c9c7f1020a6c895a84749eefabe4685589765a1d21190a8c0649a"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/readme-basics.html",
+      "status": 200,
+      "bytes": 44313,
+      "title": "README 怎么看？先找这五类信息 - Eli",
+      "description": "README 常是项目入口，先找用途、前提、启动方式、限制和许可证。",
+      "canonical": [
+        "https://www.eliai.cn/articles/readme-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/readme-basics.html",
+        "en": "https://www.eliai.cn/en/articles/readme-basics.html",
+        "x-default": "https://www.eliai.cn/articles/readme-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "ffa5dbe02f20d00cf5fd99e512a620fb7d9a85215d712e3f66ea553017856c0a"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/repository-basics.html",
+      "status": 200,
+      "bytes": 44490,
+      "title": "Repository 仓库是什么？不是网盘吗？ - Eli",
+      "description": "仓库保存项目文件及版本历史，便于查看谁在什么时候改了什么。",
+      "canonical": [
+        "https://www.eliai.cn/articles/repository-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/repository-basics.html",
+        "en": "https://www.eliai.cn/en/articles/repository-basics.html",
+        "x-default": "https://www.eliai.cn/articles/repository-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e5c3ac77a1d5da68c7f70685d64de545478f84bdba38888f0c1fcc1fcd566ce5"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+      "status": 200,
+      "bytes": 43716,
+      "title": "让 AI 改文案，怎样不改掉原意？ - Eli",
+      "description": "先固定事实和承诺，再改表达。",
+      "canonical": [
+        "https://www.eliai.cn/articles/rewrite-with-ai.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+        "en": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+        "x-default": "https://www.eliai.cn/articles/rewrite-with-ai.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "93b5ea137cf5758aee372d0c7855f3ff3683ed3a24f6741ee2e5aab2c27e6f78"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/save-prompt-template.html",
+      "status": 200,
+      "bytes": 43807,
+      "title": "好用的提示词怎么保存成模板？ - Eli",
+      "description": "保存的是可复用的任务说明，不是一次回答。",
+      "canonical": [
+        "https://www.eliai.cn/articles/save-prompt-template.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/save-prompt-template.html",
+        "en": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+        "x-default": "https://www.eliai.cn/articles/save-prompt-template.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "49b4c1077db6fe2188f3046fc5d7ff082fa64b932021d179dd0a4c0e477b3a80"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/skill-file-structure.html",
+      "status": 200,
+      "bytes": 45039,
+      "title": "SKILL.md 是什么？一个技能包里放什么？ - Eli",
+      "description": "在 Agent Skills 格式中，SKILL.md 承载元信息和任务指令，旁边可放脚本、参考材料与资源。",
+      "canonical": [
+        "https://www.eliai.cn/articles/skill-file-structure.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-file-structure.html",
+        "en": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+        "x-default": "https://www.eliai.cn/articles/skill-file-structure.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2b621ee081ac4d6db2150fdb4df3b476e3608bf4aefa7c21d4b1285f2997ab73"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/skill-install-safely.html",
+      "status": 200,
+      "bytes": 44990,
+      "title": "网上下载的 Skill，安装前看什么？ - Eli",
+      "description": "技能可能包含脚本和网络访问指令，因此要看来源、修改内容和数据去向。",
+      "canonical": [
+        "https://www.eliai.cn/articles/skill-install-safely.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-install-safely.html",
+        "en": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+        "x-default": "https://www.eliai.cn/articles/skill-install-safely.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5a74fe011edc79e09767058c0423862c40d209777fcc8dd668a634841aad6fcc"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/skill-not-working.html",
+      "status": 200,
+      "bytes": 44614,
+      "title": "技能装好了却不生效，先查哪里？ - Eli",
+      "description": "安装、启用、匹配到任务、执行成功是四件事。",
+      "canonical": [
+        "https://www.eliai.cn/articles/skill-not-working.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-not-working.html",
+        "en": "https://www.eliai.cn/en/articles/skill-not-working.html",
+        "x-default": "https://www.eliai.cn/articles/skill-not-working.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f06d01460b1f37215e9fc4162c498347100d5b4e11f673778aa88cfc8910b43c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+      "status": 200,
+      "bytes": 44719,
+      "title": "Skill 和提示词模板，什么时候用哪个？ - Eli",
+      "description": "偶尔做一次的小任务，提示词模板通常够用。",
+      "canonical": [
+        "https://www.eliai.cn/articles/skill-vs-prompt.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+        "en": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+        "x-default": "https://www.eliai.cn/articles/skill-vs-prompt.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "37eff14095a348e14ba09de34042ce2be74094fc3f93a6e4dd0266db503a7ee7"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/structured-ai-output.html",
+      "status": 200,
+      "bytes": 44294,
+      "title": "怎么让 AI 稳定输出表格或固定字段？ - Eli",
+      "description": "先确定字段名称、顺序、允许值和缺失处理。",
+      "canonical": [
+        "https://www.eliai.cn/articles/structured-ai-output.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/structured-ai-output.html",
+        "en": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+        "x-default": "https://www.eliai.cn/articles/structured-ai-output.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a270c07b0fe384ff6a967abfc733ac2913e8bff6dddce648e653476424326108"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/terminal-basics.html",
+      "status": 200,
+      "bytes": 44892,
+      "title": "终端是什么？为什么 AI 总让我运行命令？ - Eli",
+      "description": "终端是用文字命令操作系统或程序的入口。",
+      "canonical": [
+        "https://www.eliai.cn/articles/terminal-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/terminal-basics.html",
+        "en": "https://www.eliai.cn/en/articles/terminal-basics.html",
+        "x-default": "https://www.eliai.cn/articles/terminal-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5f0bcf8f025f600fa1c9c99e3393e9a69197984e3039c590ef2be9b87dd5ca78"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/training-vs-inference.html",
+      "status": 200,
+      "bytes": 45792,
+      "title": "训练和推理有什么区别？聊天是在训练它吗？ - Eli",
+      "description": "训练会调整模型参数，推理是用已有模型处理当前输入。",
+      "canonical": [
+        "https://www.eliai.cn/articles/training-vs-inference.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/training-vs-inference.html",
+        "en": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+        "x-default": "https://www.eliai.cn/articles/training-vs-inference.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2b5ffbbd352d376667f6ba949c815ce6cfe2b34400c1b6fb8def0fcf6e90014e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-agent.html",
+      "status": 200,
+      "bytes": 44460,
+      "title": "Agent 是什么？跟普通 AI 聊天差在哪？ - Eli",
+      "description": "Agent 通常指能结合工具、反馈和多步行动推进目标的系统。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-agent.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-agent.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-agent.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-agent.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "75d80f7818864ec6e17a39a92f7e945ce0269db2dcca9e17e558e29eb951b458"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-ai.html",
+      "status": 200,
+      "bytes": 45416,
+      "title": "AI 是什么？先从一件小事理解 - Eli",
+      "description": "AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-ai.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-ai.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-ai.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-ai.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "df8e2fd421fbe61171da1465ecfa92c59b04e88f7604e651c79466967585b07e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-fde-business.html",
+      "status": 200,
+      "bytes": 45533,
+      "title": "FDE 是什么？中小企业需要关心这个职位吗？ - Eli",
+      "description": "FDE 常指 Forward Deployed Engineer，工作方式偏向贴近客户流程，把技术落到实际场景。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-fde-business.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-fde-business.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-fde-business.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "766c3ea4ab965a5d56c2ae6b8c7596eda48398e24ccee851faa0aa8dec42f6f9"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-github.html",
+      "status": 200,
+      "bytes": 44612,
+      "title": "GitHub 是什么？外行可以用来干什么？ - Eli",
+      "description": "GitHub 是围绕代码和项目协作的平台，也能阅读文档、报告问题和查看版本。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-github.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-github.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-github.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-github.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "63e296f844714f3450b015181f5984fead629f20708233f71928e28a558542d4"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-harness.html",
+      "status": 200,
+      "bytes": 45230,
+      "title": "Harness 是什么？为什么光有模型还不够？ - Eli",
+      "description": "Harness 在 Agent 讨论里通常指让模型可靠工作的一套运行配套，例如工具、状态记录、权限和检查。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-harness.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-harness.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-harness.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-harness.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "4c138b7c2cb5cf438c84b5b0c10309044fb725614e6647ada1a3589dae0fde58"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-llm.html",
+      "status": 200,
+      "bytes": 45276,
+      "title": "LLM 是什么？和聊天软件是一回事吗？ - Eli",
+      "description": "LLM 是大语言模型，聊天软件则把模型、界面和文件工具装在一起。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-llm.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-llm.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-llm.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-llm.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "88a68c9817db417ff74c058f7af4a13f910a64ce2c5e840c3c388f2628d7190c"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-local-preview.html",
+      "status": 200,
+      "bytes": 45034,
+      "title": "本地预览和正式上线，有什么区别？ - Eli",
+      "description": "本地预览通常只在你的电脑或指定局域网可访问；上线把文件或服务放到公开环境。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-local-preview.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-local-preview.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-local-preview.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5f224f1b08540783341d08ea7f96124fea33737a7b0534c1704405468df970cf"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-mcp.html",
+      "status": 200,
+      "bytes": 44450,
+      "title": "MCP 是什么？为什么叫连接 AI 的接口？ - Eli",
+      "description": "MCP 是让 AI 应用与外部数据、工具交互的一种开放协议。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-mcp.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-mcp.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-mcp.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a0a00d95b3b9c948cbdc82fbb2be263521e937f8169167d5ed0c8bebd63e213a"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-skill.html",
+      "status": 200,
+      "bytes": 44313,
+      "title": "Skill 是什么？是不是另一个 AI？ - Eli",
+      "description": "Skill 通常是一包任务说明及可选资源，帮助兼容的 Agent 按某种办法做事。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-skill.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-skill.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-skill.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-skill.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3b7a93fdf5147c4da16dd858d1e92ab71b879a5901023d9e32a77651d71feb2f"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-token.html",
+      "status": 200,
+      "bytes": 45491,
+      "title": "Token 是什么？为什么不是一个字一个 Token？ - Eli",
+      "description": "Token 是模型处理文字的单位，可能对应字、词的一部分或其他片段。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-token.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-token.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-token.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-token.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3b8140eed2e91c27f6dccddf9ae8919174e7df499f2080757fb7bcf532cbb629"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+      "status": 200,
+      "bytes": 45660,
+      "title": "WorkBuddy 是什么？能怎么协助办公？ - Eli",
+      "description": "WorkBuddy 是可结合任务、文件及工具工作的 AI 助手产品。",
+      "canonical": [
+        "https://www.eliai.cn/articles/what-is-workbuddy.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-workbuddy.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c1c947336b73b29a8900bbc730306bc65d2c631044d22f7c1d84447ed0f4fa51"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+      "status": 200,
+      "bytes": 44346,
+      "title": "WorkBuddy 连接邮箱或文档前，要弄清什么？ - Eli",
+      "description": "连接器让助手接触外部服务，范围由具体连接和授权决定。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-connectors.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-connectors.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8a0eeed38490f19a16909cb9ccf78936190227d19434ce445b98d712cb39cc36"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+      "status": 200,
+      "bytes": 45087,
+      "title": "用 WorkBuddy 整理文件，怎么先预览再改名？ - Eli",
+      "description": "先生成新旧名称对照表，不直接批量改名。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-file-organizing.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-file-organizing.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3f4217388a9ef9cd1287f04d2443465dabfbc6e9911510fff5fc277f9db0b85e"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+      "status": 200,
+      "bytes": 45495,
+      "title": "WorkBuddy 第一个任务怎么建，产物在哪里找？ - Eli",
+      "description": "把任务写成输入、动作、输出和限制四部分。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-first-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-first-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "938d1fd4d17f05337480b627198e7c7c73259d29a62faa0729ee874d91cecd9f"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+      "status": 200,
+      "bytes": 45124,
+      "title": "用 WorkBuddy 把会议文字存成纪要文件，怎么核对？ - Eli",
+      "description": "先给文字记录，原始音视频是否可转写取决于已配置能力。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-meeting-notes.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "861b51e5a2858f24117b5482f294fb2424b54aa8355d3e7656c1bba0b3a9cd26"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+      "status": 200,
+      "bytes": 44708,
+      "title": "WorkBuddy 权限提示看不懂，怎么决定？ - Eli",
+      "description": "把提示翻译成真实动作：读哪个目录、写哪个文件、执行什么命令、是否外发。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-permissions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-permissions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "199b9cb5e99d119f7573d66cb3c40e12d420ff1702d9f62e082a2e6460787796"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-skills.html",
+      "status": 200,
+      "bytes": 44299,
+      "title": "WorkBuddy 的技能怎么选，不要一次全装？ - Eli",
+      "description": "按当前任务缺的能力选技能，不按热度全部安装。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-skills.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-skills.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-skills.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e60e81b16799a22245373f41a9c358fb7b0310cd7d789d5f7845fc8b4eb41f17"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+      "status": 200,
+      "bytes": 44824,
+      "title": "WorkBuddy 能帮我看 Excel 吗？先从异常清单开始 - Eli",
+      "description": "先让工具理解字段和行数，再做异常检查。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-spreadsheet.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c178dc85a10c9e04a9d39bcf6662afc6e7b7cb906d1639d6868acc26da8adff8"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+      "status": 200,
+      "bytes": 44426,
+      "title": "WorkBuddy 卡住或没产物，怎么排查？ - Eli",
+      "description": "先分清排队、执行、报错和等待确认。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-task-failed.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-task-failed.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a98445f92dc3a6f87736a03935edad47ae9a9cd3654d79d9e01682ac351fa3e1"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+      "status": 200,
+      "bytes": 44409,
+      "title": "用 WorkBuddy 写文档，怎么避免生成空话？ - Eli",
+      "description": "先给读者、用途、已有事实和不许承诺的内容。",
+      "canonical": [
+        "https://www.eliai.cn/articles/workbuddy-write-document.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-write-document.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "0adf77190025ae2436143af15c3e18cb37e21198952c82d527f17507fec35147"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles.html",
+      "status": 200,
+      "bytes": 397314,
+      "title": "AI beginner tutorials, agents and office tasks | Eli",
+      "description": "100 bilingual beginner lessons on AI, language models, agents, skills, GitHub and office tasks, plus project-based practical notes.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles.html",
+        "en": "https://www.eliai.cn/en/articles.html",
+        "x-default": "https://www.eliai.cn/articles.html"
+      },
+      "robots": "index,follow",
+      "article_schema": false,
+      "source_links": 12,
+      "static_article_links": 102,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "068805648f4aec46a9202599642862b20153012f605bcff84b4badc9862f3a96"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+      "status": 200,
+      "bytes": 45138,
+      "title": "What is an acceptance test for AI-generated software? - Eli",
+      "description": "Acceptance tests check requirements rather than only a successful build (turning source into runnable or publishable files).",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/acceptance-tests.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/acceptance-tests.html",
+        "en": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+        "x-default": "https://www.eliai.cn/articles/acceptance-tests.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "d86e32b224191f565747dd4ed2fde71543304589f855ff7545c0c3d2627847f0"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+      "status": 200,
+      "bytes": 44384,
+      "title": "Why should an agent check between actions? - Eli",
+      "description": "A fast sequence can amplify an early mistake.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-feedback-loop.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+        "en": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+        "x-default": "https://www.eliai.cn/articles/agent-feedback-loop.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2215d1d829bbcef7c0defae24e3f52429b064b11c33e6ce42e35e4e00b5371dc"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "status": 200,
+      "bytes": 44598,
+      "title": "A safe first task for an agent - Eli",
+      "description": "Start with a reversible task such as creating an inventory in a practice directory.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-first-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-first-task.html",
+        "en": "https://www.eliai.cn/en/articles/agent-first-task.html",
+        "x-default": "https://www.eliai.cn/articles/agent-first-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "16673d26c333bebaed93a67f15759af27e2472bcf089bd0bf0244b74534d7e15"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-memory.html",
+      "status": 200,
+      "bytes": 44765,
+      "title": "Can you rely on agent memory? - Eli",
+      "description": "Memory may retain preferences or summaries, but it is not a task ledger.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-memory.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-memory.html",
+        "en": "https://www.eliai.cn/en/articles/agent-memory.html",
+        "x-default": "https://www.eliai.cn/articles/agent-memory.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f094ac822ee3a895330fb0d2a3696f09607a28c993ccc4f2dfecceed8214c590"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+      "status": 200,
+      "bytes": 44327,
+      "title": "Why is an agent's plan not proof of completion? - Eli",
+      "description": "A plan states intended actions; a receipt records what happened.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-plan-and-act.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+        "en": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+        "x-default": "https://www.eliai.cn/articles/agent-plan-and-act.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "15092372d0e6f2ee7d1be9eda7a92dbb04d5fdb98b38f73385500500e3f7f5aa"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+      "status": 200,
+      "bytes": 44729,
+      "title": "What should an owner check before using an agent? - Eli",
+      "description": "Check what it can access and change, who reviews outputs and how mistakes are reversed.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-risk-checklist.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+        "en": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+        "x-default": "https://www.eliai.cn/articles/agent-risk-checklist.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2b100d4893dbd7a36a0ca8f8235b7df1a198fb3200f585f0b5a8b2078234da50"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+      "status": 200,
+      "bytes": 44553,
+      "title": "How do you stop endless agent retries? - Eli",
+      "description": "Set scope, retries, budget and handoff conditions before execution.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-stop-rules.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-stop-rules.html",
+        "en": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+        "x-default": "https://www.eliai.cn/articles/agent-stop-rules.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9a988018c9b853b11eef3e9dd112de7c6f8a1d725c0b59d21fb913588d4ff254"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+      "status": 200,
+      "bytes": 44393,
+      "title": "Which permissions should you give an agent? - Eli",
+      "description": "Permissions should match the task.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-tools-permissions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+        "en": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+        "x-default": "https://www.eliai.cn/articles/agent-tools-permissions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "d5a5c5d69e8860e918a48077cebb5c82f87d737b4bc32d85fc3f26f1609387ca"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+      "status": 200,
+      "bytes": 44421,
+      "title": "Workflow or agent: which should a business try first? - Eli",
+      "description": "A workflow follows predefined steps; an agent can choose steps based on feedback.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/agent-workflow-difference.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+        "en": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+        "x-default": "https://www.eliai.cn/articles/agent-workflow-difference.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "43edb439c558a1744283d5d40040a3f043086722a8930e7dc5beda376001a83a"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+      "status": 200,
+      "bytes": 45151,
+      "title": "AI chat or search: which should you use? - Eli",
+      "description": "Search helps you find pages; AI chat helps compose an answer.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-chat-vs-search.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+        "en": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+        "x-default": "https://www.eliai.cn/articles/ai-chat-vs-search.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e9e9cfa440cd378bb13823e80f79cc5eb53be74569c08aca2383014ab5381ba3"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+      "status": 200,
+      "bytes": 44993,
+      "title": "What belongs in a checkpoint for a long AI task? - Eli",
+      "description": "A checkpoint records the goal, completed and pending work, file locations, constraints and next action.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-checkpoints.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-checkpoints.html",
+        "en": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+        "x-default": "https://www.eliai.cn/articles/ai-checkpoints.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c0cae7be73030c4076c8951eaa93980ab58d9353d0d04b3125c71ed7661753c7"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+      "status": 200,
+      "bytes": 45035,
+      "title": "Can a non-programmer make a small tool with AI? - Eli",
+      "description": "Try a small local task, but generated code is not automatically safe or usable.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-coding-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-coding-basics.html",
+        "en": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+        "x-default": "https://www.eliai.cn/articles/ai-coding-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9ae3fafede764ac8aba3239a6243de31b0eafb37af69299727c9f8c9a4718f0a"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+      "status": 200,
+      "bytes": 44039,
+      "title": "How do you compare options without invented scores? - Eli",
+      "description": "Choose criteria and evidence before weights.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-compare-options.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-compare-options.html",
+        "en": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+        "x-default": "https://www.eliai.cn/articles/ai-compare-options.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "908cc9956fa841c586fdb09ae4cddaa5590c2661344dd8e0e3805d710edfd357"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+      "status": 200,
+      "bytes": 45342,
+      "title": "What should an owner prepare for an initial consultation? - Eli",
+      "description": "Describe the business, current process and most troublesome step.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-consultation-prepare.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+        "en": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+        "x-default": "https://www.eliai.cn/articles/ai-consultation-prepare.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "99673dfebbef76004528de3ef3814c4b63bebe65adb8e40534acf9b1b5beb40e"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "status": 200,
+      "bytes": 45325,
+      "title": "What costs belong in an AI implementation budget? - Eli",
+      "description": "Costs can include subscriptions, usage, configuration, development, training, review and maintenance.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-cost-breakdown.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+        "en": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+        "x-default": "https://www.eliai.cn/articles/ai-cost-breakdown.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "ed86ad0afc5ae9bf2abfa0ba1cf8bb2945525878f5d5815513ceb025dd808201"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-debugging.html",
+      "status": 200,
+      "bytes": 44972,
+      "title": "How do you stop AI bug fixes from causing more bugs? - Eli",
+      "description": "Reproduce, diagnose, make a minimal change and retest (checking again using the same steps).",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-debugging.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-debugging.html",
+        "en": "https://www.eliai.cn/en/articles/ai-debugging.html",
+        "x-default": "https://www.eliai.cn/articles/ai-debugging.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "df2bd325d55f1b2bfea2e138e155920715321cb0d7cc47e6ae4fd5969785d79c"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+      "status": 200,
+      "bytes": 44489,
+      "title": "How do you draft email without inventing commitments? - Eli",
+      "description": "State the relationship, purpose, confirmed facts and prohibited commitments.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-email-draft.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-email-draft.html",
+        "en": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+        "x-default": "https://www.eliai.cn/articles/ai-email-draft.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "cb4dad6862975f85b98dd919c67c819145c974f8402a467eea527e20c5d96bba"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+      "status": 200,
+      "bytes": 45537,
+      "title": "How do you train staff who are reluctant to use AI? - Eli",
+      "description": "Start with a familiar small task and teach review and escalation.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-employee-training.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-employee-training.html",
+        "en": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+        "x-default": "https://www.eliai.cn/articles/ai-employee-training.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "70d1ede2880ac52b35a40f457e0ec19c7f7891bf0ee9bfe36cf1555cad9d5246"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+      "status": 200,
+      "bytes": 44831,
+      "title": "Did the AI actually read the whole file? - Eli",
+      "description": "A successful upload does not prove every page was read.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-file-reading.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-file-reading.html",
+        "en": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+        "x-default": "https://www.eliai.cn/articles/ai-file-reading.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e7ba6f2153bc5af99f41d341eb5924b8e69e9e0aaf1d24c91e917381ff74c4fe"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+      "status": 200,
+      "bytes": 45103,
+      "title": "Can AI images replace product photos? - Eli",
+      "description": "Generated images can help discuss composition and style, but may alter dimensions, ports, text or materials.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-generated-images.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-generated-images.html",
+        "en": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+        "x-default": "https://www.eliai.cn/articles/ai-generated-images.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "03b679e22b8e853bf5ea39317472334b66bf86d7b3445e1e1e6c931f30fa9cda"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+      "status": 200,
+      "bytes": 44700,
+      "title": "How do you spot an AI hallucination? - Eli",
+      "description": "An AI hallucination is plausible content without adequate grounding.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-hallucination.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-hallucination.html",
+        "en": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+        "x-default": "https://www.eliai.cn/articles/ai-hallucination.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6cc5c9a01fba6b9a911c66d0ad6679fd2964941b1d82ac0572d5b064b26e8881"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+      "status": 200,
+      "bytes": 44661,
+      "title": "Why start AI inventory checking with an exception list? - Eli",
+      "description": "Book, physical, in-transit and reserved stock are different measures.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+        "en": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+        "x-default": "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e21df4300398138ab5fdae6807227751cd49179117bbffe2e92bbc14f9848e7a"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+      "status": 200,
+      "bytes": 45298,
+      "title": "AI jargon: ten terms worth separating - Eli",
+      "description": "Separate models, tools, connections and execution support before reading product claims.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-jargon-map.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-jargon-map.html",
+        "en": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+        "x-default": "https://www.eliai.cn/articles/ai-jargon-map.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 15,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f894f93ff83a79954f456359e9bc7d6366b6810051abf46fa08c5513a40fe02a"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+      "status": 200,
+      "bytes": 44682,
+      "title": "How do you start a business knowledge base? - Eli",
+      "description": "Choose one recurring question area and organize current versions, owners and scope.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+        "en": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+        "x-default": "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "47df369c1ac58afb36c184de8efc8393c89af3c1b02de624c9a297c17fd0b92b"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+      "status": 200,
+      "bytes": 44573,
+      "title": "A first-week AI learning plan - Eli",
+      "description": "Build the habit of completing one task correctly before collecting jargon.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-learning-plan.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-learning-plan.html",
+        "en": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+        "x-default": "https://www.eliai.cn/articles/ai-learning-plan.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "450f8f2e2fbd8e03bca40a50e5d9f4432eb5c2256c9e669acaaea57170e44e76"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+      "status": 200,
+      "bytes": 45302,
+      "title": "Who maintains an AI tool after delivery? - Eli",
+      "description": "Documents, accounts, models and business rules change.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-maintenance-owner.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+        "en": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+        "x-default": "https://www.eliai.cn/articles/ai-maintenance-owner.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "27cd98f2ad90809ca6fe3c0f8c56a236a30425c77cfc10faa048c439ddb74f2d"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+      "status": 200,
+      "bytes": 44621,
+      "title": "How do you separate meeting decisions from suggestions? - Eli",
+      "description": "Minutes preserve decisions and unresolved matters rather than merely formalizing conversation.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-meeting-actions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+        "en": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+        "x-default": "https://www.eliai.cn/articles/ai-meeting-actions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "23728dc5b2707aff0f7fa2ade11d0e4e05b5bf08d552fcae95777261886af728"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+      "status": 200,
+      "bytes": 44710,
+      "title": "What is OCR, and what should you check on a receipt? - Eli",
+      "description": "OCR turns image text into machine-readable text but can misread digits and table structure.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-ocr-check.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-ocr-check.html",
+        "en": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+        "x-default": "https://www.eliai.cn/articles/ai-ocr-check.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "96a5be58878cd5e893708ac08012fac4e3931b285a0f766c20849184d4b37854"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+      "status": 200,
+      "bytes": 44983,
+      "title": "How do you design a small AI pilot? - Eli",
+      "description": "Test one scenario with a small approved sample set and a defined period.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-pilot-design.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-pilot-design.html",
+        "en": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+        "x-default": "https://www.eliai.cn/articles/ai-pilot-design.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f69b5ed082fddbf8cb8ae0046ab654531f9dfd9fbfdbecfc4ec6e4c9cbc5ccef"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+      "status": 200,
+      "bytes": 44636,
+      "title": "What should you avoid uploading to AI? - Eli",
+      "description": "Check whether a service is approved for the data before writing a prompt.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-privacy-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+        "en": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+        "x-default": "https://www.eliai.cn/articles/ai-privacy-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3c8e65336ce139e4c591482671fa17e640333fd0a2bc75628fa37f862f0b3a8f"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+      "status": 200,
+      "bytes": 44498,
+      "title": "What must AI never invent in product copy? - Eli",
+      "description": "Dimensions, materials, certifications, compatibility and results need evidence.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-product-copy.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-product-copy.html",
+        "en": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+        "x-default": "https://www.eliai.cn/articles/ai-product-copy.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "161a858ab9e51e59c7983a64a2249be6cda8b291a2f24033058df9e6808a1df7"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+      "status": 200,
+      "bytes": 44577,
+      "title": "How do you turn experience into a usable procedure? - Eli",
+      "description": "Interview the actual operator and document steps, prerequisites, exceptions and completion checks.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-sop-writing.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-sop-writing.html",
+        "en": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+        "x-default": "https://www.eliai.cn/articles/ai-sop-writing.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "d174efe32ff4bcf57b15869d084b77cc058ff6999dae1fee889e35ff1df3db68"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+      "status": 200,
+      "bytes": 44662,
+      "title": "What rules come before AI spreadsheet cleaning? - Eli",
+      "description": "Define fields, units and missing values before formatting.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+        "en": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+        "x-default": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8121aff6f80315c091a907aa65d20f204afaf2d32c5b750230050bb5efdd0a68"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+      "status": 200,
+      "bytes": 44739,
+      "title": "Which business tasks should AI try first? - Eli",
+      "description": "Prioritize repeatable tasks with stable inputs, checkable outputs and recoverable mistakes.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-task-selection.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-task-selection.html",
+        "en": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+        "x-default": "https://www.eliai.cn/articles/ai-task-selection.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a5c60ef0e9c053a84353705072957f3ba648d6f81ee552f8fd2448d13c3fd1a8"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+      "status": 200,
+      "bytes": 44521,
+      "title": "How should you review an AI translation before sharing? - Eli",
+      "description": "Check numbers, conditions, negation and terminology rather than fluency alone.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-translation-review.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-translation-review.html",
+        "en": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+        "x-default": "https://www.eliai.cn/articles/ai-translation-review.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b0270bb77e4681499f07abf8427f870ca8af8fcedadecf268b51bfe2396efbaa"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+      "status": 200,
+      "bytes": 44604,
+      "title": "How do you use AI for a weekly report honestly? - Eli",
+      "description": "Separate completed, ongoing, planned and blocked work.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-weekly-report.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ai-weekly-report.html",
+        "en": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+        "x-default": "https://www.eliai.cn/articles/ai-weekly-report.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b50771904e6d2f60f9293d1a6e06e4bb82d07a2f6a88c307e1d8e2ed0872e837"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+      "status": 200,
+      "bytes": 43991,
+      "title": "How can AI ask useful questions without stalling? - Eli",
+      "description": "Ask only about missing details that change scope, cost or correctness.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ask-clarifying-questions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+        "en": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+        "x-default": "https://www.eliai.cn/articles/ask-clarifying-questions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "3561401c63bd1a95d7e367472d2c8e8fd74e939b3d0b63312db38a8acaa533e0"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/branch-basics.html",
+      "status": 200,
+      "bytes": 44177,
+      "title": "What is a branch, and why use one? - Eli",
+      "description": "A branch lets work proceed on a separate line of development for comparison and merging.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/branch-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/branch-basics.html",
+        "en": "https://www.eliai.cn/en/articles/branch-basics.html",
+        "x-default": "https://www.eliai.cn/articles/branch-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8db4436bbdcb4d14e80eb7b26aaeb006545fbce66dbf32503aa2345f37d0d768"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/break-down-task.html",
+      "status": 200,
+      "bytes": 44117,
+      "title": "How do you split a task AI keeps getting wrong? - Eli",
+      "description": "Split work into checkable stages: read, identify questions, draft and verify.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/break-down-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/break-down-task.html",
+        "en": "https://www.eliai.cn/en/articles/break-down-task.html",
+        "x-default": "https://www.eliai.cn/articles/break-down-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c676b0bb9710ea1aec4c19a00d45b52438880b451612485bce5ebcbfe07be9b5"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+      "status": 200,
+      "bytes": 45283,
+      "title": "How do you evaluate an AI implementation provider? - Eli",
+      "description": "Ask a provider to explain inputs, deliverables, limits and acceptance for one of your workflows.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/choose-ai-provider.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/choose-ai-provider.html",
+        "en": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+        "x-default": "https://www.eliai.cn/articles/choose-ai-provider.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "13e43cab36db396d7a07c9b9c718e4e8eb2379825acf83b99ebbdf5130eb9110"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+      "status": 200,
+      "bytes": 44986,
+      "title": "How do beginners choose an AI tool? - Eli",
+      "description": "Choose a task before choosing a tool.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/choose-ai-tool.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/choose-ai-tool.html",
+        "en": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+        "x-default": "https://www.eliai.cn/articles/choose-ai-tool.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "372713484456cc80327263dd49a7309e2b205c546249a3311863637a09ccd571"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+      "status": 200,
+      "bytes": 44994,
+      "title": "How should you handle API keys when AI reads code? - Eli",
+      "description": "An API key is a credential, not an ordinary example value.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/coding-without-secrets.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/coding-without-secrets.html",
+        "en": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+        "x-default": "https://www.eliai.cn/articles/coding-without-secrets.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "59184f416ae875c33bd5765848f51eaf46d8b64b0773cad868b3cbc34747b095"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/commit-basics.html",
+      "status": 200,
+      "bytes": 44140,
+      "title": "What is a commit compared with saving a file? - Eli",
+      "description": "Saving changes a file; a commit records a set of changes in history with a message.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/commit-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/commit-basics.html",
+        "en": "https://www.eliai.cn/en/articles/commit-basics.html",
+        "x-default": "https://www.eliai.cn/articles/commit-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6f04c1cbf48f16d55366e0285ba418f3746bd82e424f7db66cb530296ed8081e"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/context-window.html",
+      "status": 200,
+      "bytes": 45646,
+      "title": "What is a context window, and why does chat lose details? - Eli",
+      "description": "A context window limits information processed in one request.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/context-window.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/context-window.html",
+        "en": "https://www.eliai.cn/en/articles/context-window.html",
+        "x-default": "https://www.eliai.cn/articles/context-window.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9a62a33f93b0066a4231545fe188b176184700917acbf06e96187a3fe6edfcc2"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/create-first-skill.html",
+      "status": 200,
+      "bytes": 44787,
+      "title": "How do you make a meeting-notes skill repeatable and testable? - Eli",
+      "description": "Write reusable meeting-note rules, then test the same rules on different examples.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/create-first-skill.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/create-first-skill.html",
+        "en": "https://www.eliai.cn/en/articles/create-first-skill.html",
+        "x-default": "https://www.eliai.cn/articles/create-first-skill.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5e13c60e54ebe6865978626d36ad91c9839bdaa55fe5a74fa651a23f5660154c"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/dependency-basics.html",
+      "status": 200,
+      "bytes": 44940,
+      "title": "What is a dependency, and why does installation add files? - Eli",
+      "description": "A dependency is external code your program uses, sometimes with dependencies of its own.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/dependency-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/dependency-basics.html",
+        "en": "https://www.eliai.cn/en/articles/dependency-basics.html",
+        "x-default": "https://www.eliai.cn/articles/dependency-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b4216b3631f9ac35aecc4e37a1702e22e963ddcd1f82be0793bf9474569abbfb"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+      "status": 200,
+      "bytes": 44431,
+      "title": "Source ZIP or release: what should you download? - Eli",
+      "description": "A source ZIP is usually a snapshot, not a ready-to-run app.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/download-release-or-source.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/download-release-or-source.html",
+        "en": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+        "x-default": "https://www.eliai.cn/articles/download-release-or-source.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "4cfcb3dd0ddd2a9a6b440de28f394fa8511db217e82a59d7a9b515a02187d9fe"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+      "status": 200,
+      "bytes": 45797,
+      "title": "What are embeddings, and how does semantic search work? - Eli",
+      "description": "An embedding represents content numerically for similarity comparisons.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/embeddings-explained.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/embeddings-explained.html",
+        "en": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+        "x-default": "https://www.eliai.cn/articles/embeddings-explained.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "4c9fbd613bc2fe70a3572d8641dc57fc4c588052dec170f8940e6332180e30d1"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "bytes": 61678,
+      "title": "Company information is scattered: what should you prepare for a knowledge base? - Eli",
+      "description": "Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+        "en": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+        "x-default": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "1e6365191ae9cfdb99ca9f5df460018c3c54d42e79cd32b24937f56f113bdd78"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+      "status": 200,
+      "bytes": 45958,
+      "title": "Prompting, RAG or fine-tuning: where should you start? - Eli",
+      "description": "First identify whether the gap is instructions, current information or a consistent specialized behavior.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+        "en": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+        "x-default": "https://www.eliai.cn/articles/fine-tuning-or-rag.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "163fcc3018e73fbb084c446d9124eef24d4ec33e80e86169dc45f4e64825310d"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/first-ai-task.html",
+      "status": 200,
+      "bytes": 45450,
+      "title": "What should your first AI task be? - Eli",
+      "description": "Choose something small, checkable and reversible, such as turning personal notes into tasks.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/first-ai-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/first-ai-task.html",
+        "en": "https://www.eliai.cn/en/articles/first-ai-task.html",
+        "x-default": "https://www.eliai.cn/articles/first-ai-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "1c9e3fecbe6567b532fc92ecf14e510ab3d8572d7a6a176b96f9ff04bec5099e"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+      "status": 200,
+      "bytes": 44100,
+      "title": "How should you correct an off-target AI answer? - Eli",
+      "description": "Identify the wrong passage, the reason and the correct rule.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+        "en": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+        "x-default": "https://www.eliai.cn/articles/fix-bad-ai-answer.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "48958f0efb5c390e0ef794ea14f23d07a347b8c0e1e61e2fa58131c6cc664486"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/github-public-private.html",
+      "status": 200,
+      "bytes": 44968,
+      "title": "How do public and private repositories affect privacy? - Eli",
+      "description": "Public repositories can be read and copied; private ones restrict access but are not a reason to store secrets as ordinary files.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/github-public-private.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/github-public-private.html",
+        "en": "https://www.eliai.cn/en/articles/github-public-private.html",
+        "x-default": "https://www.eliai.cn/articles/github-public-private.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f9521eae9c85acd6f1527503d96de097304c84b8fa855067dfd3992943236b0a"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+      "status": 200,
+      "bytes": 45572,
+      "title": "How does a language model generate an answer? - Eli",
+      "description": "A language model generates successive text units conditioned on context rather than copying a complete fixed answer.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/how-llm-generates.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/how-llm-generates.html",
+        "en": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+        "x-default": "https://www.eliai.cn/articles/how-llm-generates.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6693b9df16ee70844695ebc48e5f772ed32ea507f1dd4b8a85cd8fe02659eba2"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+      "status": 200,
+      "bytes": 60342,
+      "title": "Manual inventory checks every day: where should you start? - Eli",
+      "description": "Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/inventory-reconciliation.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+        "en": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+        "x-default": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "71532b124df0b9c7ab293a1843977faf7fac1814c1c23e2f3b2045e7175915b0"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/issue-basics.html",
+      "status": 200,
+      "bytes": 44751,
+      "title": "How do you write a useful GitHub issue? - Eli",
+      "description": "A useful issue includes environment, reproduction, expected and actual behavior, and errors.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/issue-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/issue-basics.html",
+        "en": "https://www.eliai.cn/en/articles/issue-basics.html",
+        "x-default": "https://www.eliai.cn/articles/issue-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "4284c7da852bd8b65e1b8cd9485af711b3faf96dd1fac3f101b16ddcddce1fe8"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+      "status": 200,
+      "bytes": 45141,
+      "title": "Why start an MCP connection with read-only access? - Eli",
+      "description": "A read-only pilot tests whether the right information can be found without changing business records.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/mcp-read-only.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/mcp-read-only.html",
+        "en": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+        "x-default": "https://www.eliai.cn/articles/mcp-read-only.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "45402e4ab6ce52e07d40c34db5167decad2e7059c5f5fe91c545aae8e590a68f"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+      "status": 200,
+      "bytes": 44936,
+      "title": "MCP connects but a query fails: how is it different from an API? - Eli",
+      "description": "An API exposes programmatic functions.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/mcp-vs-api.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/mcp-vs-api.html",
+        "en": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+        "x-default": "https://www.eliai.cn/articles/mcp-vs-api.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "22e58752da93580f1de113cd99b2066002c92385897a8f1b854850f732b6602d"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+      "status": 200,
+      "bytes": 45229,
+      "title": "How should an owner measure AI's benefit? - Eli",
+      "description": "Measure total task time, errors, rework and review, not generation speed alone.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/measure-ai-benefit.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+        "en": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+        "x-default": "https://www.eliai.cn/articles/measure-ai-benefit.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5fdf8e1716eb88dd9d31a46cf1d862e229f5635d884a0e44c54665e74517b406"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+      "status": 200,
+      "bytes": 45649,
+      "title": "Is a bigger model always better for your task? - Eli",
+      "description": "Size is not the only criterion.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/model-size-and-cost.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/model-size-and-cost.html",
+        "en": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+        "x-default": "https://www.eliai.cn/articles/model-size-and-cost.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "43b7c3e10da928f35af4251e4779b089cb3cf678d6664f4fc50ea38c48fa1f64"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+      "status": 200,
+      "bytes": 44608,
+      "title": "What are multiple agents, and do you need them? - Eli",
+      "description": "Multiple agents divide work among execution or review roles.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/multi-agent-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/multi-agent-basics.html",
+        "en": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+        "x-default": "https://www.eliai.cn/articles/multi-agent-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "66da50a5de311543838a03dcbb827f65b0642a75f236a0e1290ea7b27ffa3d87"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+      "status": 200,
+      "bytes": 46046,
+      "title": "What is a neural network without the equations? - Eli",
+      "description": "A neural network maps inputs to outputs through layers of computation with adjustable parameters.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/neural-network-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/neural-network-basics.html",
+        "en": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+        "x-default": "https://www.eliai.cn/articles/neural-network-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5fd27bd8dab2619ba7dffd03751a22b42c7d0e362aa97e00bfce7394bcf754b0"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/open-source-license.html",
+      "status": 200,
+      "bytes": 44759,
+      "title": "Does open source mean unrestricted commercial use? - Eli",
+      "description": "Visible source does not mean unrestricted use.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/open-source-license.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/open-source-license.html",
+        "en": "https://www.eliai.cn/en/articles/open-source-license.html",
+        "x-default": "https://www.eliai.cn/articles/open-source-license.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "ff342e260fb4155be15008b5f9ad2e90507d510edacb07d8ebbe5cb11170c6f8"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+      "status": 200,
+      "bytes": 44522,
+      "title": "An owner's first AI step is not buying a system - Eli",
+      "description": "Find one repeated, describable and checkable task.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/owner-ai-first-step.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+        "en": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+        "x-default": "https://www.eliai.cn/articles/owner-ai-first-step.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "52b66b2b18fb1cb058fa43b32072dba78adad305dbacdc83e0a6b08c538b0bef"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/prompt-basics.html",
+      "status": 200,
+      "bytes": 45088,
+      "title": "What is a prompt, and how do you write one? - Eli",
+      "description": "A prompt contains instructions and relevant information.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/prompt-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/prompt-basics.html",
+        "en": "https://www.eliai.cn/en/articles/prompt-basics.html",
+        "x-default": "https://www.eliai.cn/articles/prompt-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "53efaa536648e5a21a1a7869ba726b000eb6da868597afce6e1c3f9c68ff6fa1"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+      "status": 200,
+      "bytes": 44770,
+      "title": "What is prompt injection in a webpage? - Eli",
+      "description": "External pages, files or skills can contain instructions intended to override the task.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/prompt-injection-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+        "en": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+        "x-default": "https://www.eliai.cn/articles/prompt-injection-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "932f00d158a4e68811a78ecbb8b908ae6bb14c457daedcb4a43110f6c036d729"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+      "status": 200,
+      "bytes": 44474,
+      "title": "How does an example improve your prompt? - Eli",
+      "description": "Examples turn vague requirements into visible output patterns.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/prompt-with-example.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/prompt-with-example.html",
+        "en": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+        "x-default": "https://www.eliai.cn/articles/prompt-with-example.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "1a2aad9922278424a12adff97d42f9504f977cd6fa51ff3cb86665780dd55b0c"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/provide-context.html",
+      "status": 200,
+      "bytes": 45076,
+      "title": "How much background should you give AI? - Eli",
+      "description": "Provide background that changes the decision: who uses the result, the current process, the blockage and the desired outcome.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/provide-context.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/provide-context.html",
+        "en": "https://www.eliai.cn/en/articles/provide-context.html",
+        "x-default": "https://www.eliai.cn/articles/provide-context.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "eea5773741704297d5b2c9f30fa9e40fe695bc10293332c83afdec585febb984"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+      "status": 200,
+      "bytes": 44608,
+      "title": "What is a pull request, and does it publish changes? - Eli",
+      "description": "A pull request proposes changes for review and merging.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/pull-request-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/pull-request-basics.html",
+        "en": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+        "x-default": "https://www.eliai.cn/articles/pull-request-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2662e0e937c3e2ad22f6528bf2e96d49aee4c66e293b84d927216d3fc8343e17"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/rag-explained.html",
+      "status": 200,
+      "bytes": 45632,
+      "title": "What is RAG, and why use it for a knowledge base? - Eli",
+      "description": "RAG retrieves relevant information before generating an answer from it.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/rag-explained.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/rag-explained.html",
+        "en": "https://www.eliai.cn/en/articles/rag-explained.html",
+        "x-default": "https://www.eliai.cn/articles/rag-explained.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "191b50fe368c7bf5dfeddc6ac853413aa9b9e556063f325a5b94354f5ee48b5d"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+      "status": 200,
+      "bytes": 45202,
+      "title": "What should you understand before AI edits code? - Eli",
+      "description": "You need not understand every syntax detail, but should know what changes, why, affected behavior and recovery.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/read-ai-code-plan.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+        "en": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+        "x-default": "https://www.eliai.cn/articles/read-ai-code-plan.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "507088e08c32e771596626fd5bb673a9a24d8b2c3bcff680e892a244b1a1b80a"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/readme-basics.html",
+      "status": 200,
+      "bytes": 44078,
+      "title": "How do you read a README? - Eli",
+      "description": "A README is often the entry point.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/readme-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/readme-basics.html",
+        "en": "https://www.eliai.cn/en/articles/readme-basics.html",
+        "x-default": "https://www.eliai.cn/articles/readme-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "fd5e0be12889992663a791e84a6dd22d41300393161149a72085db4d35fe6bbf"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/repository-basics.html",
+      "status": 200,
+      "bytes": 44360,
+      "title": "What is a repository, and is it a cloud drive? - Eli",
+      "description": "A repository holds project files and revision history.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/repository-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/repository-basics.html",
+        "en": "https://www.eliai.cn/en/articles/repository-basics.html",
+        "x-default": "https://www.eliai.cn/articles/repository-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a51b2eaed6b3276f9ef8e64bb1fdd8ec8708d119dd5596319874d71c251e5061"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+      "status": 200,
+      "bytes": 44031,
+      "title": "How do you rewrite text without changing its meaning? - Eli",
+      "description": "Freeze facts and commitments before improving wording.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/rewrite-with-ai.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+        "en": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+        "x-default": "https://www.eliai.cn/articles/rewrite-with-ai.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "cc1166c131b022216dbbc4dfb7b6235697c3e9241234442892901f5b52505108"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+      "status": 200,
+      "bytes": 44007,
+      "title": "How do you save a useful prompt as a template? - Eli",
+      "description": "Save the task specification rather than one successful answer.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/save-prompt-template.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/save-prompt-template.html",
+        "en": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+        "x-default": "https://www.eliai.cn/articles/save-prompt-template.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c7cd0d6117c82c59c69c9b6d6ed21d03126976b3b70a648a96544cd9f1b1485c"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+      "status": 200,
+      "bytes": 45191,
+      "title": "What is SKILL.md, and what belongs in a skill folder? - Eli",
+      "description": "In the Agent Skills format, SKILL.md contains metadata and instructions, with optional scripts, references and assets alongside it.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/skill-file-structure.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-file-structure.html",
+        "en": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+        "x-default": "https://www.eliai.cn/articles/skill-file-structure.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "bf02a66f2da4418b47766e8019e20bc66b8847a730cb700997f8b1eb9661f974"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+      "status": 200,
+      "bytes": 44896,
+      "title": "What should you check before installing a skill? - Eli",
+      "description": "Skills may include scripts and network instructions.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/skill-install-safely.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-install-safely.html",
+        "en": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+        "x-default": "https://www.eliai.cn/articles/skill-install-safely.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "97432ab9ae1c4ebe5672e60937e8ef5c02725a8a6b4a903b71503d89f2dd7346"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/skill-not-working.html",
+      "status": 200,
+      "bytes": 44841,
+      "title": "A skill is installed but not working. What now? - Eli",
+      "description": "Installation, enablement, task selection and successful execution are separate states.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/skill-not-working.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-not-working.html",
+        "en": "https://www.eliai.cn/en/articles/skill-not-working.html",
+        "x-default": "https://www.eliai.cn/articles/skill-not-working.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "485d0056c67c33f8bf4d68371a4e9b02426ccf54b83281022247ea8806af0a2d"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+      "status": 200,
+      "bytes": 44743,
+      "title": "Skill or prompt template: which do you need? - Eli",
+      "description": "A prompt template is often enough for an occasional small task.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/skill-vs-prompt.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+        "en": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+        "x-default": "https://www.eliai.cn/articles/skill-vs-prompt.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "84a3b0075838ef7e5ecf51c2d1428821574a3f613e5e5fa172df961264b08912"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+      "status": 200,
+      "bytes": 44439,
+      "title": "How do you get a consistent table or field format? - Eli",
+      "description": "Define field names, order, allowed values and missing-data handling.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/structured-ai-output.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/structured-ai-output.html",
+        "en": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+        "x-default": "https://www.eliai.cn/articles/structured-ai-output.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "41d61ad4fab3a184c9f7a8d1b85034acfed41c560786774105c19de81a2aefd5"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/terminal-basics.html",
+      "status": 200,
+      "bytes": 45079,
+      "title": "What is a terminal, and why does AI suggest commands? - Eli",
+      "description": "A terminal runs text commands for programs and the operating system.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/terminal-basics.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/terminal-basics.html",
+        "en": "https://www.eliai.cn/en/articles/terminal-basics.html",
+        "x-default": "https://www.eliai.cn/articles/terminal-basics.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9f6fc0cf250aecae11baad2f5368caccf31d2fd149c2d9315e5db3394f92adde"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+      "status": 200,
+      "bytes": 45928,
+      "title": "Training versus inference: does chatting train the model? - Eli",
+      "description": "Training changes model parameters; inference uses a model on current input.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/training-vs-inference.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/training-vs-inference.html",
+        "en": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+        "x-default": "https://www.eliai.cn/articles/training-vs-inference.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "26f65d53b7509e0e9d58025a928af5f8acd56c68c5e9a6489e3deefa952a70a8"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "status": 200,
+      "bytes": 44530,
+      "title": "What is an AI agent compared with chat? - Eli",
+      "description": "An agent combines a model with tools, feedback and multiple actions toward a goal.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-agent.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-agent.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-agent.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-agent.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5b3fab66a8692f513caa04bf696a202a5cc78b409c229a8922d10d5c64db9ef4"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-ai.html",
+      "status": 200,
+      "bytes": 45509,
+      "title": "What is AI? Start with one small task - Eli",
+      "description": "AI stands for artificial intelligence and includes recognition, prediction and generation, using approaches such as rules or learning from data.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-ai.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-ai.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-ai.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-ai.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "c342556d3a9c98da6be1d88a428ae0f1571da0c1e735b65974f47bcc0116735e"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+      "status": 200,
+      "bytes": 45661,
+      "title": "What is FDE, and why might a business owner care? - Eli",
+      "description": "FDE commonly means Forward Deployed Engineer, a role working close to customer workflows to implement technology.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-fde-business.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-fde-business.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-fde-business.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 12,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8eba0513c7a4a0102a33ad91f39aafb89796333fa6f7c7b6ee49907c14ec4734"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-github.html",
+      "status": 200,
+      "bytes": 44610,
+      "title": "What is GitHub useful for if you do not code? - Eli",
+      "description": "GitHub hosts code and project collaboration, including documentation, issues and versions.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-github.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-github.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-github.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-github.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "9043df1339b70a44890a899b4848720af71986e46dbf6cef363f9b17481ce68f"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-harness.html",
+      "status": 200,
+      "bytes": 45143,
+      "title": "What is an agent harness, and why does it matter? - Eli",
+      "description": "In agent discussions, a harness is the surrounding execution setup: tools, state, permissions and checks.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-harness.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-harness.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-harness.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-harness.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5dd1bcf3d26e94f5961dcebca9585d91e3860124609647a7c5b02964b113bca0"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-llm.html",
+      "status": 200,
+      "bytes": 45072,
+      "title": "What is an LLM, and is it the chat app? - Eli",
+      "description": "An LLM is a large language model.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-llm.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-llm.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-llm.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-llm.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "862843f135858ec46609a43702eabd88b15be27dcae3de8ad4ac11af24a33e8c"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+      "status": 200,
+      "bytes": 45108,
+      "title": "Local preview versus publishing: what's the difference? - Eli",
+      "description": "A local preview is reachable on your computer or a chosen network.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-local-preview.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-local-preview.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-local-preview.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "501052ad7aa75eebb7bae8e2baeef9600790cde523820744e122c014e648a816"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+      "status": 200,
+      "bytes": 44518,
+      "title": "What is MCP in plain language? - Eli",
+      "description": "MCP is an open protocol for connecting AI applications to external data and tools.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-mcp.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-mcp.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-mcp.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "2b378428483519fb822c2605a8335a1a13348c61799ec34eddd2b4df16981738"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-skill.html",
+      "status": 200,
+      "bytes": 44276,
+      "title": "What is an agent skill? Is it another AI? - Eli",
+      "description": "A skill packages task instructions and optional resources for a compatible agent.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-skill.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-skill.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-skill.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-skill.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "a156e2ca8030edcd8ca51e0c0f5ed86fd99ce2454639b0d8f23d93adffc3cfa2"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-token.html",
+      "status": 200,
+      "bytes": 45584,
+      "title": "What is a token, and is it one character? - Eli",
+      "description": "A token is a unit used to process text: a character, part of a word or another segment.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-token.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-token.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-token.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-token.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "6d64029aa98aa4e0daaeb86c1fb234eb91c8db8cbdeb1e68e01812960f47c6ee"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "status": 200,
+      "bytes": 45727,
+      "title": "What is WorkBuddy useful for at work? - Eli",
+      "description": "WorkBuddy is an AI assistant product for tasks involving files and tools.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/what-is-workbuddy.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+        "en": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+        "x-default": "https://www.eliai.cn/articles/what-is-workbuddy.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "85cee977859c2125e943afe3aa2c32297444708a54be714cee0acd3f02d1d776"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+      "status": 200,
+      "bytes": 44550,
+      "title": "What should you check before connecting WorkBuddy accounts? - Eli",
+      "description": "Connectors expose external services within a particular authorization scope.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-connectors.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-connectors.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "01f225e1293108ee64a8309db819a1892aec24f46a329e2869108dd86ee1bffa"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+      "status": 200,
+      "bytes": 45166,
+      "title": "How can WorkBuddy preview file organization first? - Eli",
+      "description": "Generate a proposed name mapping before renaming.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-file-organizing.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "1f4c45119ea4c0566ba70e378289f00f73a259672af1e23f75041efd5ef0923c"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+      "status": 200,
+      "bytes": 45507,
+      "title": "How do you create a WorkBuddy task and find its output? - Eli",
+      "description": "Specify input, action, output and limits.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-first-task.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-first-task.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "b72e02c5397310073e72156772e0cde5c3bb38783776da41431daa75b121d69d"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+      "status": 200,
+      "bytes": 45267,
+      "title": "How do you create and check a meeting-notes file in WorkBuddy? - Eli",
+      "description": "Start with text notes; audio transcription depends on configured capabilities.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "e74c4ee1264b41297246f07d6f0640d63beda1db95e714d39b849d5c81865e17"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+      "status": 200,
+      "bytes": 44918,
+      "title": "How should you respond to WorkBuddy permission prompts? - Eli",
+      "description": "Translate a permission prompt into concrete actions: which directory, file, command or external destination.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-permissions.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-permissions.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "ff304e378906f655f680e7f3c3f910649c001a6584ad27d2192bce54d2cf73d0"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+      "status": 200,
+      "bytes": 44510,
+      "title": "How should you choose WorkBuddy skills? - Eli",
+      "description": "Choose skills for missing task capabilities rather than installing every popular option.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-skills.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-skills.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-skills.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "5b7ac89759971d95f9ed73befcba5e539a5478c85467b7d3310a717d7950bc5b"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+      "status": 200,
+      "bytes": 45039,
+      "title": "Using WorkBuddy for spreadsheets: start with exceptions - Eli",
+      "description": "Start by checking fields and row counts before detecting exceptions.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "f96709b00603f37f2f0fb00e2d7c68f3fba4bf1c045b69566b3387bba0c20406"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+      "status": 200,
+      "bytes": 44723,
+      "title": "What if a WorkBuddy task stalls or produces no file? - Eli",
+      "description": "Distinguish queueing, running, errors and waiting for approval.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-task-failed.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-task-failed.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 14,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "8e2d4a45efeeddec41dcbfc9c788a313915d1dd5d3b068e2abfd1d0928ae46c4"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+      "status": 200,
+      "bytes": 44575,
+      "title": "How do you get a useful WorkBuddy document draft? - Eli",
+      "description": "Provide audience, purpose, known facts and prohibited promises.",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/workbuddy-write-document.html"
+      ],
+      "alternates": {
+        "zh-CN": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+        "en": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+        "x-default": "https://www.eliai.cn/articles/workbuddy-write-document.html"
+      },
+      "robots": "index,follow",
+      "article_schema": true,
+      "source_links": 13,
+      "static_article_links": 5,
+      "errors": [],
+      "revision": "e3304385905f8d1cdd01",
+      "sha256": "57c6837a58a9c850da69b5341fb022c86aad31924e0a17acbab5c475213807b8"
+    }
+  ]
+}

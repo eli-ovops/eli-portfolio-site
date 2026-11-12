@@ -1,0 +1,121 @@
+{
+  "status": "LOCAL_REVIEW_FIXES_VERIFIED",
+  "revision": "0e8f1d0f8a593578ab3e",
+  "fixed": [
+    "Consultation CTA before approved biography in both languages",
+    "Contact note shortened to contact channel guidance; opening example retained",
+    "English FAQ uses explicit mutual agreement wording"
+  ],
+  "build": "PASS296HTMLpages",
+  "site_check": "PASS296pages/internal_links/anchors/H1/privacy/HTTP",
+  "qa": {
+    "mobile": [
+      {
+        "bioParagraphs": 3,
+        "ctaBottom": 423.359375,
+        "ctaInFirstScreen": true,
+        "ctaTop": 373.5625,
+        "height": 740,
+        "lang": "zh-CN",
+        "overflow": false,
+        "width": 320
+      },
+      {
+        "bioParagraphs": 3,
+        "ctaBottom": 349.0625,
+        "ctaInFirstScreen": true,
+        "ctaTop": 299.265625,
+        "height": 844,
+        "lang": "zh-CN",
+        "overflow": false,
+        "width": 390
+      },
+      {
+        "bioParagraphs": 3,
+        "ctaBottom": 349.0625,
+        "ctaInFirstScreen": true,
+        "ctaTop": 299.265625,
+        "height": 844,
+        "lang": "zh-CN",
+        "overflow": false,
+        "width": 430
+      },
+      {
+        "bioParagraphs": 3,
+        "ctaBottom": 423.359375,
+        "ctaInFirstScreen": true,
+        "ctaTop": 373.5625,
+        "height": 740,
+        "lang": "en",
+        "overflow": false,
+        "width": 320
+      },
+      {
+        "bioParagraphs": 3,
+        "ctaBottom": 427.15625,
+        "ctaInFirstScreen": true,
+        "ctaTop": 377.359375,
+        "height": 844,
+        "lang": "en",
+        "overflow": false,
+        "width": 390
+      },
+      {
+        "bioParagraphs": 3,
+        "ctaBottom": 427.15625,
+        "ctaInFirstScreen": true,
+        "ctaTop": 377.359375,
+        "height": 844,
+        "lang": "en",
+        "overflow": false,
+        "width": 430
+      }
+    ],
+    "zhContact": {
+      "contactTop": 103.734375,
+      "hash": "#contact",
+      "text": "微信、电话或邮箱都可以，按你平时说话的方式描述就好。"
+    },
+    "enContact": {
+      "contactTop": 103.984375,
+      "hash": "#contact"
+    },
+    "returnLanguage": {
+      "hash": "#contact",
+      "lang": "zh-CN",
+      "path": "/about.html"
+    }
+  },
+  "preserved_hashes": {
+    "assets/editorial.css": true,
+    "styles.css": true,
+    "motion.css": true,
+    "motion.js": true,
+    "app.js": true,
+    "content/profile.json": true,
+    "content/en.json": true
+  },
+  "changed_source_files": [
+    "templates/about.html",
+    "scripts/localization.py",
+    "content/seo.json",
+    "content/page-updates.json"
+  ],
+  "date_ledger_change_scope": [
+    "about.html",
+    "en/about.html"
+  ],
+  "actual_device_test": false,
+  "production_changes": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "artifacts": [
+    "scope.json",
+    "before/",
+    "browser-qa.json",
+    "mobile-zh.png",
+    "mobile-en.png",
+    "receipt.json"
+  ],
+  "preview": "http://127.0.0.1:4178/about.html"
+}

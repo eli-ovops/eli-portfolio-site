@@ -1,0 +1,14 @@
+{
+  "time": "2026-10-16T07:14:50.829Z",
+  "selectedGoal": "all targets after reload",
+  "eventConversionTab": true,
+  "rows": [
+    "访问次数 1访客数(UV) 1转化次数 --转化率 --转化收益 0",
+    "  1咨询入口点击 · 主要位置 #eli-consult-entry-1*-------- ",
+    "  2咨询入口点击 · 补充位置 #eli-consult-entry-2*-------- ",
+    "  8微信二维码点击 #eli-consult-wechat-1*-------- ",
+    "   当前汇总  --0%---- "
+  ],
+  "acceptance": "NOT_PASSED",
+  "reason": "Native consultation and WeChat beacons returned200, configured/enabled matching goals, but report still displays--. No confirmed cause."
+}

@@ -1,0 +1,415 @@
+{
+  "checked_at": "2026-10-19T06:18:15.636099+00:00",
+  "scope": "44 catalog URLs; HTTP availability/title only, not full factual validation",
+  "results": [
+    {
+      "id": "ibm-ai",
+      "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "status": 200,
+      "final_url": "https://www.ibm.com/think/topics/artificial-intelligence",
+      "title": "What Is Artificial Intelligence (AI)? | IBM",
+      "bytes_read": 259968,
+      "body_sha256": "f9cd030267666e1425126add8ee1740a16882b12433756467fc617b575ddf1e5",
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "ibm-llm",
+      "url": "https://www.ibm.com/think/topics/large-language-models",
+      "status": 200,
+      "final_url": "https://www.ibm.com/think/topics/large-language-models",
+      "title": "What Are Large Language Models (LLMs)? | IBM",
+      "bytes_read": 215473,
+      "body_sha256": "de61de6a4b91ee7d58279ac83e6708a0da35258f34ce0f3408a422d29a83348a",
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "search",
+      "url": "https://www.google.com/search/howsearchworks/",
+      "status": 200,
+      "final_url": "https://www.google.com/search/howsearchworks/",
+      "title": "Google Search - What Is Google Search And How Does It Work",
+      "bytes_read": 236624,
+      "body_sha256": "025872854d01a03205857f25beed0a7e14678380cf9aa51e8c6ceff1dc7f7669",
+      "content_type": "text/html"
+    },
+    {
+      "id": "prompt",
+      "url": "https://learn.microsoft.com/en-us/dotnet/ai/conceptual/prompt-engineering-dotnet",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/dotnet/ai/conceptual/prompt-engineering-dotnet",
+      "title": "Prompt engineering concepts - .NET | Microsoft Learn",
+      "bytes_read": 56300,
+      "body_sha256": "4ea639d2ae5eaeb1f0f8c6a04972732d62c26b5470af033f81c7d1687928c6c7",
+      "content_type": "text/html"
+    },
+    {
+      "id": "nist",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "status": 200,
+      "final_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "title": "AI Risk Management Framework | NIST",
+      "bytes_read": 93808,
+      "body_sha256": "7b034a098252d62f93ba7661446813f76bcce976e48b09e189ed5192abe7bf9b",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "id": "google-llm",
+      "url": "https://developers.google.com/machine-learning/crash-course/llm",
+      "status": 200,
+      "final_url": "https://developers.google.com/machine-learning/crash-course/llm",
+      "title": "Introduction to Large Language Models &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+      "bytes_read": 153497,
+      "body_sha256": "80853e9bd2d69da0b37eebbc69abc9cdbf6f62b0d6583b91314930a5c152c426",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "google-tuning",
+      "url": "https://developers.google.com/machine-learning/crash-course/llm/tuning",
+      "status": 200,
+      "final_url": "https://developers.google.com/machine-learning/crash-course/llm/tuning",
+      "title": "LLMs: Fine-tuning, distillation, and prompt engineering &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+      "bytes_read": 153191,
+      "body_sha256": "43dbd36a1cd403e7d0c683e5df63a63fc12a00e4fb6d753903676c866e9a7ba7",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "neural",
+      "url": "https://developers.google.com/machine-learning/crash-course/neural-networks",
+      "status": 200,
+      "final_url": "https://developers.google.com/machine-learning/crash-course/neural-networks",
+      "title": "Neural networks &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+      "bytes_read": 148562,
+      "body_sha256": "38e7858042789efbd8f4fd8163915544dd70ee8c664035f840c29fdea8071322",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "embeddings",
+      "url": "https://developers.google.com/machine-learning/crash-course/embeddings",
+      "status": 200,
+      "final_url": "https://developers.google.com/machine-learning/crash-course/embeddings",
+      "title": "Embeddings &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers",
+      "bytes_read": 147897,
+      "body_sha256": "bfb64f24ca957d9b3ae434a2afea884e1e3a5747cbd74ebafb2dc2d49d4274f4",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "rag",
+      "url": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+      "status": 200,
+      "final_url": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+      "title": "What is RAG (Retrieval Augmented Generation)? | IBM",
+      "bytes_read": 203423,
+      "body_sha256": "c54f810006227719f86bfde5a9f2c2b4c7c385cc32e5909e99594dd76efebf75",
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "title": "Building Effective AI Agents \\ Anthropic",
+      "bytes_read": 175690,
+      "body_sha256": "bf12efe15ce5e65fccf49c82e666928e0a98c013656a9825deaab3962706edd1",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "harness",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "title": "Effective harnesses for long-running agents \\ Anthropic",
+      "bytes_read": 148449,
+      "body_sha256": "eb90d88d79332d2b474f3cfe247f522f40af6779566d45a7dcb88ee8741c372a",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "skills",
+      "url": "https://agentskills.io/home",
+      "status": 200,
+      "final_url": "https://agentskills.io/home",
+      "title": "Agent Skills Overview - Agent Skills",
+      "bytes_read": 297591,
+      "body_sha256": "e39cb81e0d953c340a4497b12b7d96800d6432724eca1cda457b58fd4d3b58ea",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "skills-spec",
+      "url": "https://agentskills.io/specification",
+      "status": 200,
+      "final_url": "https://agentskills.io/specification",
+      "title": "Specification - Agent Skills",
+      "bytes_read": 446491,
+      "body_sha256": "295101c9876ba5e573e031a9c0c8cdcddc0556ee962561817f7eb94f766b2d42",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "mcp",
+      "url": "https://modelcontextprotocol.io/docs/getting-started/intro",
+      "status": 200,
+      "final_url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+      "title": "What is the Model Context Protocol (MCP)? - Model Context Protocol",
+      "bytes_read": 314680,
+      "body_sha256": "a031b593b6aef34034c215ab987769e09c24a28d26d41649f909a9a2922eb97d",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "mcp-security",
+      "url": "https://modelcontextprotocol.io/docs/tutorials/security/security_best_practices",
+      "status": 200,
+      "final_url": "https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices",
+      "title": "Security Best Practices - Model Context Protocol",
+      "bytes_read": 577943,
+      "body_sha256": "730693a149b41b2efb9b1581dc0d263a7b536d933abab1fd23c5f0eda7bc98f7",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "owasp",
+      "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "classification": "access failure; not automatically a dead source"
+    },
+    {
+      "id": "json",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON",
+      "title": "Working with JSON - Learn web development | MDN",
+      "bytes_read": 206839,
+      "body_sha256": "aa458073f934adbbff1bfd0235a4206b86af73c2889d993714e3f9d2e2744f6e",
+      "content_type": "text/html"
+    },
+    {
+      "id": "mdn-api",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction",
+      "title": "Introduction to web APIs - Learn web development | MDN",
+      "bytes_read": 209622,
+      "body_sha256": "6d74c25c0d6438996a5cef25c6dad759e63fa0804b50a50ed74795d7cc45fcc8",
+      "content_type": "text/html"
+    },
+    {
+      "id": "mdn-html",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax",
+      "title": "Basic HTML syntax - Learn web development | MDN",
+      "bytes_read": 221024,
+      "body_sha256": "506c63b2b05c3f558e845865c9d4b50d4545675d907287d69e7600ef1936b0e7",
+      "content_type": "text/html"
+    },
+    {
+      "id": "mdn-cli",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line",
+      "title": "Command line crash course - Learn web development | MDN",
+      "bytes_read": 226036,
+      "body_sha256": "45c73f88bf174493d2ae897920e330ac9b4ea9a491f2eb2b79b8dfee7eb19940",
+      "content_type": "text/html"
+    },
+    {
+      "id": "mdn-publishing",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website",
+      "title": "Publishing your website - Learn web development | MDN",
+      "bytes_read": 192741,
+      "body_sha256": "7f2331213ec3c80befc3e875841026e195adf89f13c88bcde0a815e4b11c7e26",
+      "content_type": "text/html"
+    },
+    {
+      "id": "npm",
+      "url": "https://docs.npmjs.com/about-packages-and-modules",
+      "status": 200,
+      "final_url": "https://docs.npmjs.com/about-packages-and-modules/",
+      "title": "About packages and modules | npm Docs",
+      "bytes_read": 506625,
+      "body_sha256": "f42dae9199b0e3710fc8a4980d539e20be5eaa673e9efc2fd657a6c725ecaba3",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github",
+      "url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github",
+      "title": "What is GitHub? - GitHub Docs",
+      "bytes_read": 180726,
+      "body_sha256": "93ce510b92fb62dfdd10e70517dfbf1cf7e48c3c93e54ba19126f3779374b727",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-repos",
+      "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories",
+      "title": "About repositories - GitHub Docs",
+      "bytes_read": 206831,
+      "body_sha256": "554f42e42d6972d03556c6cacd3a3acafc0bc3dd6deda2eb3d193b226e4c67b5",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-readme",
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes",
+      "title": "About the repository README file - GitHub Docs",
+      "bytes_read": 204030,
+      "body_sha256": "63e4640576ab09d15fb540ddfe8960a9fc78caf09a26497664c2b5ff5e25ab3b",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-releases",
+      "url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases",
+      "title": "About releases - GitHub Docs",
+      "bytes_read": 182780,
+      "body_sha256": "912aade2b5054b8fef96d1a1bd3e0bcd541299a192a07db0e62d94f9f37b1c27",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-commit",
+      "url": "https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pull-requests/reference/commits",
+      "title": "Commits - GitHub Docs",
+      "bytes_read": 137396,
+      "body_sha256": "50fbee606a88e445af57cafbc552e8c308507c187708d4fc4d163a0f9b1818db",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-hello",
+      "url": "https://docs.github.com/en/get-started/using-github/hello-world",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/get-started/using-github/hello-world",
+      "title": "Hello World - GitHub Docs",
+      "bytes_read": 229602,
+      "body_sha256": "c4a7706896d1e45ab2c4c4b66f99b92f4b4a51ff91b2909cf1174ebbc10996a7",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-pr",
+      "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pull-requests/reference/pull-requests",
+      "title": "Pull requests - GitHub Docs",
+      "bytes_read": 153786,
+      "body_sha256": "8626b5c777c88e8d0795a461efb9c4ef9624d06a49665a6502e143697007fc2f",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-issues",
+      "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues",
+      "title": "About issues - GitHub Docs",
+      "bytes_read": 171427,
+      "body_sha256": "35766fcb0c2c3a7aea54d41a3b09e2b1c9fb257ccab5a0a116509ba58404c06d",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-license",
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "title": "Licensing a repository - GitHub Docs",
+      "bytes_read": 226257,
+      "body_sha256": "c4c0ee6e3d646bceb1128392f1baf3c6473f2eabaf8420b899bac3291e20afc1",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-visibility",
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility",
+      "title": "Setting repository visibility - GitHub Docs",
+      "bytes_read": 230061,
+      "body_sha256": "c30eafae3c05c97258ee196396d87eaca3f9d121f5edd23f2c9d2c18c06c7fcc",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "github-secrets",
+      "url": "https://docs.github.com/en/code-security/secret-scanning/introduction/about-secret-scanning",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/code-security/concepts/secret-security/secret-scanning",
+      "title": "Secret scanning - GitHub Docs",
+      "bytes_read": 578863,
+      "body_sha256": "d70ee73deb65c516c8ea94be9d26cc1fa8dd9695565ddeff56d8302ea502abdc",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "ocr",
+      "url": "https://www.ibm.com/think/topics/optical-character-recognition",
+      "status": 200,
+      "final_url": "https://www.ibm.com/think/topics/optical-character-recognition",
+      "title": "What Is Optical Character Recognition (OCR)? | IBM",
+      "bytes_read": 181741,
+      "body_sha256": "8d5536d3d72754f8bcc6e22e89b85f08d767f8517d7365ae5b12c041d83f8999",
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "id": "fde",
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-files",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-One",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-data",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-results",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Results",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-skills",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-permissions",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Permission-Modes",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-connectors",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-faq",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "id": "wb-first-task",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+      "status": "UNKNOWN",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    }
+  ],
+  "count": 44,
+  "status_counts": {
+    "200": 34,
+    "403": 1,
+    "UNKNOWN": 9
+  },
+  "search_submissions": 0,
+  "site_changes": 0
+}

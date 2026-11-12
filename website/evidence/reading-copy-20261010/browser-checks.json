@@ -1,0 +1,1466 @@
+{
+  "layout": [
+    {
+      "facts": [],
+      "scrollWidth": 305,
+      "sections": [],
+      "url": "/index.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "scrollWidth": 305,
+      "sections": [],
+      "url": "/en/index.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "scrollWidth": 305,
+      "sections": [],
+      "url": "/about.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "scrollWidth": 305,
+      "sections": [],
+      "url": "/en/about.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "scrollWidth": 305,
+      "sections": [],
+      "url": "/records.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "scrollWidth": 305,
+      "sections": [],
+      "url": "/en/records.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "公益官网开发",
+        "一期官网已交付验收"
+      ],
+      "intro": "参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/cases/p02.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "Nonprofit website development",
+        "First-phase websites delivered and accepted"
+      ],
+      "intro": "Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/en/cases/p02.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "intro": "制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p06.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "intro": "Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p06.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "主导需求与开发，负责测试维护",
+        "虚拟库存通过；现场使用待核"
+      ],
+      "intro": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p09.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "Led requirements and development; testing and maintenance",
+        "Virtual inventory passed; onsite use unverified"
+      ],
+      "intro": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p09.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "独立负责需求、底座适配及交付",
+        "已交付，尚未全面使用"
+      ],
+      "intro": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p10.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "Independent requirements, foundation adaptation and delivery",
+        "Delivered; not yet in full use"
+      ],
+      "intro": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p10.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "全部开发由我完成",
+        "原生候选迭代，发行闭环待核"
+      ],
+      "intro": "开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/cases/p15.html",
+      "width": 305
+    },
+    {
+      "facts": [
+        "Entire project developed by me",
+        "Native candidate iteration; release completion unverified"
+      ],
+      "intro": "Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/en/cases/p15.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "intro": "构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        }
+      ],
+      "url": "/cases/p23.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "intro": "Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        }
+      ],
+      "url": "/en/cases/p23.html",
+      "width": 305
+    },
+    {
+      "disclosure": "问题、答复和资料摘录均由 AI 拟写，用于解释引用及信息不足时的处理，不是客户文档、真实问答或测试结果。",
+      "facts": [
+        "知识库整理、检索配置与测试",
+        "本人说明、初始界面；问答为示意"
+      ],
+      "intro": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#qa"
+        },
+        {
+          "exists": true,
+          "href": "#evidence"
+        }
+      ],
+      "url": "/cases/p36.html",
+      "width": 305
+    },
+    {
+      "disclosure": "The questions, answers and excerpts are AI-written illustrations of citations and handling missing information, not client documents, real conversations or test results.",
+      "facts": [
+        "Knowledge base, retrieval configuration and testing",
+        "Personal account and initial UI; illustrative answers"
+      ],
+      "intro": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "scrollWidth": 305,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#qa"
+        },
+        {
+          "exists": true,
+          "href": "#evidence"
+        }
+      ],
+      "url": "/en/cases/p36.html",
+      "width": 305
+    },
+    {
+      "facts": [],
+      "scrollWidth": 375,
+      "sections": [],
+      "url": "/index.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "scrollWidth": 375,
+      "sections": [],
+      "url": "/en/index.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "scrollWidth": 375,
+      "sections": [],
+      "url": "/about.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "scrollWidth": 375,
+      "sections": [],
+      "url": "/en/about.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "scrollWidth": 375,
+      "sections": [],
+      "url": "/records.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "scrollWidth": 375,
+      "sections": [],
+      "url": "/en/records.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "公益官网开发",
+        "一期官网已交付验收"
+      ],
+      "intro": "参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/cases/p02.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "Nonprofit website development",
+        "First-phase websites delivered and accepted"
+      ],
+      "intro": "Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/en/cases/p02.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "intro": "制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p06.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "intro": "Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p06.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "主导需求与开发，负责测试维护",
+        "虚拟库存通过；现场使用待核"
+      ],
+      "intro": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p09.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "Led requirements and development; testing and maintenance",
+        "Virtual inventory passed; onsite use unverified"
+      ],
+      "intro": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p09.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "独立负责需求、底座适配及交付",
+        "已交付，尚未全面使用"
+      ],
+      "intro": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p10.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "Independent requirements, foundation adaptation and delivery",
+        "Delivered; not yet in full use"
+      ],
+      "intro": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p10.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "全部开发由我完成",
+        "原生候选迭代，发行闭环待核"
+      ],
+      "intro": "开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/cases/p15.html",
+      "width": 375
+    },
+    {
+      "facts": [
+        "Entire project developed by me",
+        "Native candidate iteration; release completion unverified"
+      ],
+      "intro": "Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/en/cases/p15.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "intro": "构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        }
+      ],
+      "url": "/cases/p23.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "intro": "Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        }
+      ],
+      "url": "/en/cases/p23.html",
+      "width": 375
+    },
+    {
+      "disclosure": "问题、答复和资料摘录均由 AI 拟写，用于解释引用及信息不足时的处理，不是客户文档、真实问答或测试结果。",
+      "facts": [
+        "知识库整理、检索配置与测试",
+        "本人说明、初始界面；问答为示意"
+      ],
+      "intro": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#qa"
+        },
+        {
+          "exists": true,
+          "href": "#evidence"
+        }
+      ],
+      "url": "/cases/p36.html",
+      "width": 375
+    },
+    {
+      "disclosure": "The questions, answers and excerpts are AI-written illustrations of citations and handling missing information, not client documents, real conversations or test results.",
+      "facts": [
+        "Knowledge base, retrieval configuration and testing",
+        "Personal account and initial UI; illustrative answers"
+      ],
+      "intro": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "scrollWidth": 375,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#qa"
+        },
+        {
+          "exists": true,
+          "href": "#evidence"
+        }
+      ],
+      "url": "/en/cases/p36.html",
+      "width": 375
+    },
+    {
+      "facts": [],
+      "scrollWidth": 1265,
+      "sections": [],
+      "url": "/index.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "scrollWidth": 1265,
+      "sections": [],
+      "url": "/en/index.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "scrollWidth": 1265,
+      "sections": [],
+      "url": "/about.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "scrollWidth": 1265,
+      "sections": [],
+      "url": "/en/about.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "scrollWidth": 1265,
+      "sections": [],
+      "url": "/records.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "scrollWidth": 1265,
+      "sections": [],
+      "url": "/en/records.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "公益官网开发",
+        "一期官网已交付验收"
+      ],
+      "intro": "参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/cases/p02.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "Nonprofit website development",
+        "First-phase websites delivered and accepted"
+      ],
+      "intro": "Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/en/cases/p02.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "intro": "制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p06.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "intro": "Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p06.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "主导需求与开发，负责测试维护",
+        "虚拟库存通过；现场使用待核"
+      ],
+      "intro": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p09.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "Led requirements and development; testing and maintenance",
+        "Virtual inventory passed; onsite use unverified"
+      ],
+      "intro": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p09.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "独立负责需求、底座适配及交付",
+        "已交付，尚未全面使用"
+      ],
+      "intro": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/cases/p10.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "Independent requirements, foundation adaptation and delivery",
+        "Delivered; not yet in full use"
+      ],
+      "intro": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#technical"
+        }
+      ],
+      "url": "/en/cases/p10.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "全部开发由我完成",
+        "原生候选迭代，发行闭环待核"
+      ],
+      "intro": "开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/cases/p15.html",
+      "width": 1265
+    },
+    {
+      "facts": [
+        "Entire project developed by me",
+        "Native candidate iteration; release completion unverified"
+      ],
+      "intro": "Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        }
+      ],
+      "url": "/en/cases/p15.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "intro": "构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        }
+      ],
+      "url": "/cases/p23.html",
+      "width": 1265
+    },
+    {
+      "facts": [],
+      "intro": "Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        }
+      ],
+      "url": "/en/cases/p23.html",
+      "width": 1265
+    },
+    {
+      "disclosure": "问题、答复和资料摘录均由 AI 拟写，用于解释引用及信息不足时的处理，不是客户文档、真实问答或测试结果。",
+      "facts": [
+        "知识库整理、检索配置与测试",
+        "本人说明、初始界面；问答为示意"
+      ],
+      "intro": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#qa"
+        },
+        {
+          "exists": true,
+          "href": "#evidence"
+        }
+      ],
+      "url": "/cases/p36.html",
+      "width": 1265
+    },
+    {
+      "disclosure": "The questions, answers and excerpts are AI-written illustrations of citations and handling missing information, not client documents, real conversations or test results.",
+      "facts": [
+        "Knowledge base, retrieval configuration and testing",
+        "Personal account and initial UI; illustrative answers"
+      ],
+      "intro": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "scrollWidth": 1265,
+      "sections": [
+        {
+          "exists": true,
+          "href": "#why"
+        },
+        {
+          "exists": true,
+          "href": "#role"
+        },
+        {
+          "exists": true,
+          "href": "#outputs"
+        },
+        {
+          "exists": true,
+          "href": "#process"
+        },
+        {
+          "exists": true,
+          "href": "#result"
+        },
+        {
+          "exists": true,
+          "href": "#qa"
+        },
+        {
+          "exists": true,
+          "href": "#evidence"
+        }
+      ],
+      "url": "/en/cases/p36.html",
+      "width": 1265
+    }
+  ],
+  "finalModifiedRoutes": [
+    {
+      "path": "/index.html",
+      "process": "半天需求沟通后推进底座适配；复查交叉核对单据、库存和流水。约两个月完成交付，客户尚未全面使用。",
+      "scrollWidth": 375,
+      "sections": [],
+      "width": 375
+    },
+    {
+      "path": "/en/index.html",
+      "process": "Adapted the foundation after a half-day requirements discussion. Reviews cross-check documents, stock and transactions. Delivered in about two months; the client has not yet put it into full use.",
+      "scrollWidth": 375,
+      "sections": [],
+      "width": 375
+    },
+    {
+      "path": "/cases/p10.html",
+      "scrollWidth": 375,
+      "sections": [
+        "项目背景",
+        "承担职责",
+        "工作内容",
+        "实施方法",
+        "交付与反馈",
+        "技术与实现"
+      ],
+      "width": 375
+    },
+    {
+      "path": "/en/cases/p10.html",
+      "scrollWidth": 375,
+      "sections": [
+        "Context",
+        "My role",
+        "Work delivered",
+        "Approach",
+        "Delivery & feedback",
+        "Technical approach"
+      ],
+      "width": 375
+    },
+    {
+      "path": "/index.html",
+      "process": "半天需求沟通后推进底座适配；复查交叉核对单据、库存和流水。约两个月完成交付，客户尚未全面使用。",
+      "scrollWidth": 1265,
+      "sections": [],
+      "width": 1265
+    },
+    {
+      "path": "/en/index.html",
+      "process": "Adapted the foundation after a half-day requirements discussion. Reviews cross-check documents, stock and transactions. Delivered in about two months; the client has not yet put it into full use.",
+      "scrollWidth": 1265,
+      "sections": [],
+      "width": 1265
+    },
+    {
+      "path": "/cases/p10.html",
+      "scrollWidth": 1265,
+      "sections": [
+        "项目背景",
+        "承担职责",
+        "工作内容",
+        "实施方法",
+        "交付与反馈",
+        "技术与实现"
+      ],
+      "width": 1265
+    },
+    {
+      "path": "/en/cases/p10.html",
+      "scrollWidth": 1265,
+      "sections": [
+        "Context",
+        "My role",
+        "Work delivered",
+        "Approach",
+        "Delivery & feedback",
+        "Technical approach"
+      ],
+      "width": 1265
+    }
+  ],
+  "interaction": {
+    "mobileP10Expanded": true,
+    "captionHeight": 409,
+    "captionScrollHeight": 409,
+    "fullCasePath": "/cases/p10.html",
+    "caseAnchorClicks": [
+      "#process",
+      "#role"
+    ],
+    "aboutToLibrary": 38
+  },
+  "stylesAndMotionUnchanged": true
+}

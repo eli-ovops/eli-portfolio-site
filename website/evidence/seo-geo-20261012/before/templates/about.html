@@ -1,0 +1,37 @@
+<main id="main" class="about-main">
+  <section class="about-opening">
+    <div><h1>关于我</h1><p class="about-opening-intro">${personality}</p></div>
+  </section>
+  <section class="experience-section" id="experience">
+    <div class="participation-modes">
+      <div><div class="mode-heading"><h3>独立项目</h3></div><p>从需求梳理推进到可运行版本。</p><ul class="role-scope"><li>流程设计</li><li>AI 辅助开发</li><li>测试与维护</li></ul></div>
+      <div><div class="mode-heading"><h3>团队协作</h3></div><p>按明确分工协同推进项目。</p><ul class="role-scope"><li>需求分析</li><li>文档编写</li><li>开发实现</li></ul></div>
+    </div>
+    <a class="text-link experience-project-link" href="records.html">浏览项目 <span aria-hidden="true">↗</span></a>
+  </section>
+  <section class="fde-method" id="fde" aria-labelledby="fde-title">
+    <div class="fde-method-heading"><h2 id="fde-title">业务理解，<br>工程实践。</h2><p>贴近业务做工程，并跟进实际使用反馈。</p></div>
+    <div class="fde-method-content">
+      <p class="fde-lead">先识别重复操作、信息断点和实际约束，再判断软件能解决什么。</p>
+      <dl class="fde-principles">
+        <div><dt>业务理解</dt><dd>明确岗位、数据来源与实施范围。</dd></div>
+        <div><dt>工程实现</dt><dd>让流程、数据与运行环境相互衔接。</dd></div>
+        <div><dt>迭代交付</dt><dd>分阶段验证，保留测试与验收记录。</dd></div>
+        <div><dt>长期协作</dt><dd>明确培训、移交与维护安排。</dd></div>
+      </dl>
+      <div class="workflow-story" id="workflow" data-workflow>
+      <div class="workflow-intro"><h3>从业务调研到价值复盘</h3><div class="workflow-progress" aria-hidden="true"><span></span></div><p class="workflow-position" aria-hidden="true"><span>01</span> / 06</p></div>
+      <ol class="fde-cycle">
+        <li><h4>业务调研</h4><p>观察流程，了解各岗位的重复工作与实际困难。</p></li>
+        <li><h4>场景筛选</h4><p>综合业务价值、数据条件与实施成本，确定首个场景。</p></li>
+        <li><h4>原型验证</h4><p>用可演示的方案明确流程与范围，及时收集反馈。</p></li>
+        <li><h4>协同迭代</h4><p>结合实际使用调整功能，逐步推进测试与验收。</p></li>
+        <li><h4>成果沉淀</h4><p>整理代码、文档与操作说明，做好移交和版本管理。</p></li>
+        <li><h4>价值复盘</h4><p>回顾使用效果与未解决的问题，为下一轮改进提供依据。</p></li>
+      </ol>
+      </div>
+    </div>
+  </section>
+  ${technical_content}
+  <section class="contact-section" id="contact"><div class="contact-introduction"><p class="contact-invitation">你的工作，也许能用 AI 提效。</p><p class="contact-note">首次联系，可以先说说你的业务流程、遇到的问题和希望改善的结果。</p></div><div class="contact-details">${contact_content}${wechat_qr}</div></section>
+</main>

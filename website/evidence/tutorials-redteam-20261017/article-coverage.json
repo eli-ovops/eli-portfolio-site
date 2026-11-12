@@ -1,0 +1,1410 @@
+[
+  {
+    "slug": "what-is-ai",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "ibm-ai"
+    ],
+    "changed_fields": [
+      "answer"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-chat-vs-search",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "search",
+      "ibm-llm"
+    ],
+    "changed_fields": [
+      "source"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "first-ai-task",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "choose-ai-tool",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [
+      "answer"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-hallucination",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "ibm-llm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-privacy-basics",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-file-reading",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-files"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-generated-images",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-jargon-map",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mcp",
+      "skills",
+      "harness"
+    ],
+    "changed_fields": [
+      "summary"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-learning-plan",
+    "category": "basics",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-llm",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "ibm-llm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "how-llm-generates",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "google-llm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-token",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "google-llm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "context-window",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "google-llm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "training-vs-inference",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "google-tuning"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "neural-network-basics",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "neural"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "embeddings-explained",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "embeddings"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "rag-explained",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "rag"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "fine-tuning-or-rag",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "google-tuning",
+      "rag"
+    ],
+    "changed_fields": [
+      "check"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "model-size-and-cost",
+    "category": "models",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "ibm-llm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "prompt-basics",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "provide-context",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [
+      "problem"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "prompt-with-example",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "structured-ai-output",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "json",
+      "prompt"
+    ],
+    "changed_fields": [
+      "answer"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "break-down-task",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ask-clarifying-questions",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "rewrite-with-ai",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-compare-options",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "fix-bad-ai-answer",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "save-prompt-template",
+    "category": "prompting",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-agent",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-first-task",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-tools-permissions",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mcp-security"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-plan-and-act",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-workflow-difference",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-feedback-loop",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-memory",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-stop-rules",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "multi-agent-basics",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "agent-risk-checklist",
+    "category": "agents",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist",
+      "mcp-security"
+    ],
+    "changed_fields": [
+      "steps"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-skill",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "skills"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "skill-file-structure",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "skills-spec"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "skill-vs-prompt",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "skills"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "skill-install-safely",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-skills"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "create-first-skill",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "skills-spec"
+    ],
+    "changed_fields": [
+      "title",
+      "answer",
+      "steps"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-mcp",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mcp"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "mcp-vs-api",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mcp",
+      "mdn-api"
+    ],
+    "changed_fields": [
+      "title"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "mcp-read-only",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mcp-security"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "skill-not-working",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-skills"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "prompt-injection-basics",
+    "category": "skills",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "owasp"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-harness",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-coding-basics",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mdn-html"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "read-ai-code-plan",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "terminal-basics",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mdn-cli"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-local-preview",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "mdn-publishing"
+    ],
+    "changed_fields": [
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "acceptance-tests",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [
+      "answer"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-debugging",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [
+      "answer"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-checkpoints",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "dependency-basics",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "npm"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "coding-without-secrets",
+    "category": "harness",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-secrets"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-github",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "repository-basics",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-repos"
+    ],
+    "changed_fields": [
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "readme-basics",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-readme"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "download-release-or-source",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-releases"
+    ],
+    "changed_fields": [
+      "problem"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "commit-basics",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-commit"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "branch-basics",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-hello"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "pull-request-basics",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-pr"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "issue-basics",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-issues"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "open-source-license",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-license"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "github-public-private",
+    "category": "github",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "github-visibility",
+      "github-secrets"
+    ],
+    "changed_fields": [
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-workbuddy",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-results"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-first-task",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-first-task",
+      "wb-results"
+    ],
+    "changed_fields": [
+      "title",
+      "steps",
+      "source"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-file-organizing",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-files"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-meeting-notes",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-files"
+    ],
+    "changed_fields": [
+      "title",
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-spreadsheet",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-data"
+    ],
+    "changed_fields": [
+      "answer",
+      "steps"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-write-document",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-results"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-skills",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-skills"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-connectors",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-connectors"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-permissions",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-permissions"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "workbuddy-task-failed",
+    "category": "workbuddy",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-faq",
+      "wb-results"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-email-draft",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-meeting-actions",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-files"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-spreadsheet-cleaning",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-data"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-inventory-exceptions",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-data"
+    ],
+    "changed_fields": [
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-product-copy",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [
+      "exercise"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-translation-review",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-weekly-report",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "harness"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-ocr-check",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "ocr"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-knowledge-base-start",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "rag"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-sop-writing",
+    "category": "office",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "prompt"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "owner-ai-first-step",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-task-selection",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-pilot-design",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "agents"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-cost-breakdown",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "wb-faq"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "measure-ai-benefit",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "choose-ai-provider",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [
+      "steps"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "what-is-fde-business",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "fde"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-employee-training",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-maintenance-owner",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "nist"
+    ],
+    "changed_fields": [
+      "steps"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "ai-consultation-prepare",
+    "category": "business",
+    "zh_read": true,
+    "en_read": true,
+    "practice_materials": "ADDED",
+    "expected_checks": "ADDED",
+    "source_keys": [
+      "fde"
+    ],
+    "changed_fields": [
+      "answer"
+    ],
+    "tool_hands_on": "NOT_CLAIMED"
+  },
+  {
+    "slug": "inventory-reconciliation",
+    "language": "zh-CN",
+    "content_read": true,
+    "role_compared_to_projects": [
+      "P09",
+      "P10"
+    ],
+    "hypothetical_math": "VERIFIED",
+    "customer_measurements_invented": false
+  },
+  {
+    "slug": "enterprise-knowledge-base",
+    "language": "zh-CN",
+    "content_read": true,
+    "role_compared_to_projects": [
+      "P36"
+    ],
+    "hypothetical_math": "VERIFIED",
+    "customer_measurements_invented": false
+  },
+  {
+    "slug": "inventory-reconciliation",
+    "language": "en",
+    "content_read": true,
+    "role_compared_to_projects": [
+      "P09",
+      "P10"
+    ],
+    "hypothetical_math": "VERIFIED",
+    "customer_measurements_invented": false
+  },
+  {
+    "slug": "enterprise-knowledge-base",
+    "language": "en",
+    "content_read": true,
+    "role_compared_to_projects": [
+      "P36"
+    ],
+    "hypothetical_math": "VERIFIED",
+    "customer_measurements_invented": false
+  }
+]

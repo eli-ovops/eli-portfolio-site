@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-16",
+  "method": "Actual native Google Hong Kong, Bing China and Baidu desktop search pages in the current browser session; first result page only",
+  "summary": {
+    "Google": "FOUND via domain and Eli FDE; first organic result for Eli FDE was English homepage in this session",
+    "Bing_China": "No own-site result seen for domain, original spelling or Eli FDE; site operator returned unrelated results, not treated as index count",
+    "Baidu": "Domain query says URL not found; Eli FDE no own-site result; site query says no relevant result"
+  },
+  "limits": [
+    "Not a universal ranking or complete index-count measurement",
+    "Current region, browser and login state may affect results",
+    "Platform verification/submission and successful diagnostic crawl are distinct from public search visibility"
+  ],
+  "checks": [
+    {
+      "engine": "Bing China",
+      "query": "eliai.cn; then native search-original +eliai.cn",
+      "url": "https://cn.bing.com/search?q=%2Beliai.cn",
+      "result_text": "ellai.cn\nhttps://www.ellai.cn\n宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\nELLAI宜来卫浴，定位中高端，与有品味有格调的人群分享简约实用的整体卫浴设备！\n\n典雅\n\n意大利进口岩板台面，坚固、美观，搭配宜来薄边系列陶瓷台上盆，呈现都市家庭 …\n\n掠影\n\n掠影 - 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n天河\n\n天河 - 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n未央\n\n未央 - 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n绝饰\n\nEllai,宜来,宜来卫浴,卫浴,洁具,卫浴品牌,整体卫浴,马桶,座便器,浴室柜,智能马桶,智能 …\n\n小雅\n\n产品简介 国内市场罕见宽度小于600毫米浴室柜，简洁清丽，专为紧凑型卫生间设 …\n\n天翼\n\n天翼 - 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n梵音850\n\n梵音850 - 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n仅显示来自 ellai.cn 的搜索结果\n \nellai.cn\nhttps://www.ellai.cn › en\n宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌 - Ellai\n\nELLAI is positioned as a medium-and high-end brand, that provides minimalistic and functional bathroom products with refinement …\n\nellai.cn\nhttp://ellai.cn › Index › productinfo_star › id\n小雅--宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n产品简介 国内市场罕见宽度小于600毫米浴室柜，简洁清丽，专为紧凑型卫生间设计。陶瓷台盆内岛式置物平台，施釉工艺挑战行业瓶 …\n\nellai.cn\nhttps://ellai.cn › Index › productinfo_star › id\n典雅--宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌\n\n意大利进口岩板台面，坚固、美观，搭配宜来薄边系列陶瓷台上盆，呈现都市家庭精致生活的一面。\n\nellai.cn\nhttps://www.ellai.cn › Index › product › catidz\n产品- 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十 …\n\n宜来卫浴，21年专注为国际知名品牌提供产品，定位中高端，为有品位有格调的人群提供简约实用的整体卫 …\n\njd.com\nhttps://mall.jd.com\nEILEI运动户外官方旗舰店 - 京东\n\n3 天之前 · EILEI运动户外官方旗舰店,提供正品商品的报价、促销、评论、导购、图片等信息,欢迎您再次光顾EILEI运动户外官方旗舰 …\n\neliai.vn\nhttps://eliai.vn\nCông cụ AI cho kiến trúc - Thiết kế - EliAI.vn\n\nChuyển ý tưởng phác thảo của bạn thành các bản thiết kế chuyên nghiệp chỉ trong vài phút. Tinh chỉnh và nâng cao hình ảnh của …\n\n微博\nhttps://weibo.com › liai\n李艾的微博_微博\n\n2024年9月6日 · 李艾，模特，节目主持人 母婴育儿博主。李艾的微博主页、个人资料、相册。新浪微博，随时随地分享身边的新鲜事 …\n\nellai.cn\nhttps://www.ellai.cn › Index › history\n轮播图- 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳 ...\n\n2025年6月11日 · 宜来卫浴，自1999年以来，专注为国际知名品牌提供产品，通过了韩国、美国、澳大利亚、欧盟等多个国家和地区质 …\n\naliali.cn\nhttps://www.aliali.cn\n阿哩阿哩 – 记录美好生活 Aliali.cn\n\n阿哩阿哩（aliali.cn）是一个以视频内容与数字媒体传播为核心的综合平台，涵盖资讯、科技、文化及生活等内容领域，致力于提供轻 …\n\n为回应符合本地法律要求的通知，部分搜索结果未予显示。有关详细信息，请参阅此处。",
+      "results": [
+        {
+          "href": "https://www.ellai.cn/",
+          "title": "宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌"
+        },
+        {
+          "href": "https://www.ellai.cn/en/",
+          "title": "宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌 - Ellai"
+        },
+        {
+          "href": "http://ellai.cn/Index/productinfo_star/id/19",
+          "title": "小雅--宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌"
+        },
+        {
+          "href": "https://ellai.cn/Index/productinfo_star/id/113",
+          "title": "典雅--宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳卫浴品牌"
+        },
+        {
+          "href": "https://www.ellai.cn/Index/product/catidz/1",
+          "title": "产品- 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十 …"
+        },
+        {
+          "href": "https://mall.jd.com/index-12773217.html",
+          "title": "EILEI运动户外官方旗舰店 - 京东"
+        },
+        {
+          "href": "https://eliai.vn/",
+          "title": "Công cụ AI cho kiến trúc - Thiết kế - EliAI.vn"
+        },
+        {
+          "href": "https://weibo.com/liai",
+          "title": "李艾的微博_微博"
+        },
+        {
+          "href": "https://www.ellai.cn/Index/history",
+          "title": "轮播图- 宜来-整体卫浴|浴室柜|坐便器|智能马桶|台盆 十佳 ..."
+        },
+        {
+          "href": "https://www.aliali.cn/",
+          "title": "阿哩阿哩 – 记录美好生活 Aliali.cn"
+        }
+      ]
+    },
+    {
+      "engine": "Baidu",
+      "query": "eliai.cn",
+      "url": "https://www.baidu.com/s?wd=eliai.cn",
+      "result_text": "没有找到该URL。您可以直接访问 eliai.cn，还可提交网址给我们。\n以下是网页中包含\"eliai.cn\"的结果:\nThe Lei Group 雷爱文课题组\nAiwen Lei Institution: Institute for Advanced Studies, College of Chemistry and Molecular Sciences University: Wuhan University, Wuhan, 430072 (P. R. China) Fax: (+86)27-6875-4672 Email: [REDACTED_EMAIL] 👤\n武汉大学Lei Research Group\nvtyyojd/X4eLizWd_701575.md at main · turnerpeter965/vtyyojd...\n7天前ai 编程工具体系解读 华为mate xt 2或采用u型折叠 内外双屏防水可期 | 来源: http://www.blog.﻿uxrbp.cn/article/details/6036460.shtml 9天claude code重写100万行代码、6755次提交!bun完成史上最大ai重构后,开发者质疑:99.8%测试通 阿里公布全模态模型最新进展:qwen4和下代视频模型均在训练中 | 来源: ...\nGitHub\nAI systems devise hypotheses and ways to test them | Nature\n查看此网页的中文翻译，请点击\n翻译此页\n2026年6月30日AI agents collaborate to generate biomedical hypotheses and analyse data, moving towards a laboratory discovery cycle with AI involved in every step.\nNature杂志官网\n大家还在搜\n韩国股市上演“瀑布杀”\n全球股市大跌原因找到了\n张惠忠被双开\n香港突发珠宝大劫案\n黄子韬徐艺洋孩子都这么大了\n特朗普自封顶流网红\nggzy.chuzhou.gov.cn/EpointWebBuilder/webbuildermis/attach/ztb...\nwxwb3cenzj+rcfjxkgskhos8n8rl3ydqoocg89kgfovkeet2z0zcsaq5xfiulreyjz55tuz2usdmsgshspgmfirbbohvkbaqnwfscdmhd7yinybe7dvaf8javmd/wa+5nsxacpc0f9dbik1ssds/nu3qannrkkjsetsycdamxhqqinx0qkygf5dsaav18simdhvr61mgzedo+a3ggeqwgggeliqshda...\n滁州市公共资源交易中心\n汐梦瑶在线观看全剧解析,都市情感悬疑巅峰,无广告沉浸追剧,口碑...\n2天前五、汐梦瑶在线观看完整版获取渠道,正版资源确保最高画质与无删减 目前汐梦瑶在线观看的唯一正版渠道是m.zhizhouai.cn,平台提供4k修复版与杜比全景声版本,连片头片尾曲都保留了原始长度。盗版资源普遍存在画质压缩和关键镜头阉割问题,尤其第三集结尾的浴室镜面反射镜头在盗版版本中被直接剪掉,而这个镜头恰恰是揭示凶手...\nm.zhizhouai.cn/tprnews/1013/807_32...\n人工智能教育应用的偏见风险分析与治理\n文件格式：PDF/Adobe Acrobat -\nHTML版\[REDACTED_EMAIL]. 一,引 言 当 前 , 关 于 人 工 智 能 教 育 应 用 (artificial intelligence in education, 简称 aied) 的讨论非常热 烈. 无论是作为辅助教学,校园管理的工具,还是学科 教育的重要内容,人工智能都为教育发展注入了新动 力. 有支持者主张,ai 是基于真实教育数据做出决策 的,较之...\n北京大学国家智能社会治理（教育）特色实验基地\n论人工智能生成物的作品适格性分析\n文件格式：PDF/Adobe Acrobat -\nHTML版\ncriterion of at least half, thereby reflecting the creativity of natural persons and their personalized aesthetic choices, judgments, and arrangements, can ai-generated works be protected under copyright law as works. key words ai-generated works; intellectual creation; qualification of works; ...\n电子科技大学\nMedicine’s rapid adoption of AI has researchers concerned |...\n2025年6月9日China’s AI research is booming: what it’s like to be on the front line News Feature 14 OCT 26 Jobs T/TT Faculty Position - Materials Science & Engineering The Department of Materials Science and Engineering (MSE), College of Engineering, University of Michigan, seeks outstanding applicants...\nNature杂志官网\n天工ai官网,天工ai人工智能写作,绘画,作曲,全网信息极速搜索,文案...\n2024年10月3日天工ai人工智能官网: https://www.tiangong.cn/ 天工Al是昆仑万维推出的国内首款融入大语...\n3\nai导航",
+      "results": [
+        {
+          "href": "http://www.baidu.com/link?url=fE-ufMsh6b0fGBa80dJvrBHcf6JnflGxcR43R_pzQVcAXLez2gN72FYU-KcUn3m4",
+          "title": "The Lei Group 雷爱文课题组"
+        },
+        {
+          "href": "http://www.baidu.com/link?url=Xe7ozQAgOKSF-SNXuvhqxoHZujOQgUc3vCm0AbdkBwWfC9dlU7h88Mflhbpymj8EyLbCT1apGeDCNElILqg1toFgddyuwCr7Tv1m1905vpu",
+          "title": "vtyyojd/X4eLizWd_701575.md at main · turnerpeter965/vtyyojd..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=tORQ1QVf5VcuxvzbK8asNz3MKHcnuSv8_g_6VBUpjGHj_sOXo6OnPB6iMClKwefnNFBMGgzZDuYLiJlDdWx9_K",
+          "title": "AI systems devise hypotheses and ways to test them | Nature"
+        },
+        {
+          "href": "http://www.baidu.com/link?url=50UA6wlbhOK6ZSB4kZBZpSoRjMBew-emB7c8JmIeQjcSV2wjKtjBw40zxXjISG1eGiWamdpkNS6wN_otBdr1dYHCrH7sG93S7KoJDCc4slzDjF_X7hkwhlFsfkHkeAnGmf03d9gDym7aEp-YhIvVsUlO89ERpO5zeAwq1v3CuLQ4OlwCtTHdjMgLHjUqW4gjCbZjlNj8VdPxnGGazPlaUOeTBd8mp-YD-5M0_O_fG4-IrNPOGNP0ge30fxgIPNMW",
+          "title": "ggzy.chuzhou.gov.cn/EpointWebBuilder/webbuildermis/attach/ztb..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=tORQ1QVf5VcuxvzbK8asNvmwQKNB24LDLCdjbtp4dXHOdtj2wB7BmvwVQl5o0XPfRs5Ike_Bho5_ZIgcoqsKo_",
+          "title": "汐梦瑶在线观看全剧解析,都市情感悬疑巅峰,无广告沉浸追剧,口碑..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=dDtBRKeZ1kuSThYIhuOR5Y_zaF2SvV91rptu2lGcNF4kM_RPZw5dn29cqjK0flj-_Ml1TdYRxbXVYErvUtetV5VTXC3wuZ2cOI0ik5ir50rjs2EMBGMaFDzmr4xvZtso",
+          "title": "人工智能教育应用的偏见风险分析与治理"
+        },
+        {
+          "href": "http://www.baidu.com/link?url=ZQgOqOFm41G1703IMGzcQJwaie-tV-Vp_YFRT2kq5LKhzVK8HB7ZBmum0QO93_k0FRgH9SU0qYMnS7B3n7jgyEcfyPNpAgtyzQidqmL8CVFxXbYwThuhQpHSAiHquuuz8CO1RipRogfs4jJeU1Lmo_",
+          "title": "论人工智能生成物的作品适格性分析"
+        },
+        {
+          "href": "http://www.baidu.com/link?url=tORQ1QVf5VcuxvzbK8asNz3MKHcnuSv8_g_6VBUpjGHj_sOXo6OnPB6iMClKwefnkjr4SE3mrwLDSlHDnRMSSa",
+          "title": "Medicine’s rapid adoption of AI has researchers concerned |..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=ZQgOqOFm41G1703IMGzcQ2qjfIM8TFjFWzTR6Rd02_qUQuzBwS7fweWaZ127S-CVlgjBJd8lFG6frOjq1krypz_ZF29mXZapTbZvlxdyATu",
+          "title": "天工ai官网,天工ai人工智能写作,绘画,作曲,全网信息极速搜索,文案..."
+        }
+      ]
+    },
+    {
+      "engine": "Bing China",
+      "query": "Eli FDE",
+      "url": "https://cn.bing.com/search?q=Eli%20FDE",
+      "result_text": "Github\nhttps://github.com › fde-the-guidance-book-of...\nGitHub - eliteai360/fde-the-guidance-book-of-forward ...\n\n2026年7月30日 · FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）. Contribute to eliteai360/fde-the …\n\n \n知乎专栏\nhttps://zhuanlan.zhihu.com\nFDE（前沿部署工程师）学习资料汇总：9 项能力、学习路线 ...\n\n2026年10月9日 · 从这 30 份里归纳出 9 项能力，再给每项配上学习资源、价格和直达链接，国内网络能不能直接打开也逐个实测过。 …\n\n知乎专栏\nhttps://zhuanlan.zhihu.com\nFDE 高级认证怎么考？2026 首期 FDE 训战班完整说明（不 ...\n\n2026年9月16日 · - FDE （Forward Deployed Engineer，前线部署工程师）是把 AI 能力装进企业真实业务流的落地 操盘手，**不要求 …\n\nGithub\nhttps://github.com › fde-learning\n翻译此结果\nGitHub - wmc837911722-del/fde-learning: FDE 中文成长手册：24 …\n\n2026年8月19日 · FDE 成长手册 一套面向 已有编程基础、零 FDE 经验 学习者的中文公开教程，第 1–24 周均已发布。 这里的 FDE 指 …\n\n哔哩哔哩\nhttps://www.bilibili.com › video\n【FDE】这绝对b站讲的最细的FDE从入门到实战全套教程 ...\n7:34\n\n2 天之前 · 这套FDE全套实战教程，先讲清楚FDE的起源、岗位定位、能力边界，重点拆解两大主流技术 …\n\n作者: 程序员阿屿\n查看次数 108\n哔哩哔哩\nhttps://space.bilibili.com\nEli-AI的个人空间-Eli-AI个人主页-哔哩哔哩视频\n\n哔哩哔哩Eli-AI的个人空间，提供Eli-AI分享的视频、音频、文章、动态、收藏等内容，关注Eli-AI账号，第一时间了解UP主动态。 …\n\nluoboask.github.io\nhttps://luoboask.github.io › fde-learning\nFDE 学习中心\n\n2026年6月3日 · 17 个阶段，63 篇文档，15000+ 字深度讲解。 从模型原理到推理优化，从生产部署到面试通关，17 个阶段循序渐进。 …\n\nCSDN博客\nhttps://blog.csdn.net › article › details › ...\n2026前沿部署工程师（FDE）入行全解析：能力要求、学习 ...\n\n2026年7月1日 · FDE 全称 Forward Deployed Engineer，即前沿部署工程师，是 2026 年 AI 智能体规模化落地后需求爆发的核心复合 …\n\n今日头条\nhttps://www.toutiao.com › article\n全网爆火的 FDE 岗位深度拆解：不是前端、不是外包，AI ...\n\n2026年9月4日 · 最近技术圈有个岗位彻底刷屏：FDE。很多人被名字误导：以为是前端、以为是低级驻场、以为是换皮实施、甚至以 …\n\n腾讯网\nhttps://news.qq.com › rain\nAI落地“最后一公里”痛点带火FDE岗位，部分年薪高达百万元 ...\n\n2026年9月29日 · 每经记者：叶晓丹 每经编辑：毕陆名2026年，FDE（Forward Deployed Engineer，前线部署工程师）作为一个新兴 …\n\n为回应符合本地法律要求的通知，部分搜索结果未予显示。有关详细信息，请参阅此处。\n1\n2\n3\n4",
+      "results": [
+        {
+          "href": "https://github.com/eliteai360/fde-the-guidance-book-of-forward-deployed-engineer",
+          "title": "GitHub - eliteai360/fde-the-guidance-book-of-forward ..."
+        },
+        {
+          "href": "https://zhuanlan.zhihu.com/p/2087599476408164713",
+          "title": "FDE（前沿部署工程师）学习资料汇总：9 项能力、学习路线 ..."
+        },
+        {
+          "href": "https://zhuanlan.zhihu.com/p/2083712155283613253",
+          "title": "FDE 高级认证怎么考？2026 首期 FDE 训战班完整说明（不 ..."
+        },
+        {
+          "href": "https://github.com/wmc837911722-del/fde-learning",
+          "title": "GitHub - wmc837911722-del/fde-learning: FDE 中文成长手册：24 …"
+        },
+        {
+          "href": "https://www.bilibili.com/video/BV1fnp269E4L/",
+          "title": "【FDE】这绝对b站讲的最细的FDE从入门到实战全套教程 ..."
+        },
+        {
+          "href": "https://space.bilibili.com/432834855",
+          "title": "Eli-AI的个人空间-Eli-AI个人主页-哔哩哔哩视频"
+        },
+        {
+          "href": "https://luoboask.github.io/fde-learning/",
+          "title": "FDE 学习中心"
+        },
+        {
+          "href": "https://blog.csdn.net/2601_96145126/article/details/162490390",
+          "title": "2026前沿部署工程师（FDE）入行全解析：能力要求、学习 ..."
+        },
+        {
+          "href": "https://www.toutiao.com/article/7681571127134962239/",
+          "title": "全网爆火的 FDE 岗位深度拆解：不是前端、不是外包，AI ..."
+        },
+        {
+          "href": "https://news.qq.com/rain/a/20260929A0E19F00",
+          "title": "AI落地“最后一公里”痛点带火FDE岗位，部分年薪高达百万元 ..."
+        }
+      ]
+    },
+    {
+      "engine": "Baidu",
+      "query": "Eli FDE",
+      "url": "https://www.baidu.com/s?wd=Eli%20FDE",
+      "result_text": "您要找的是不是：elife\n\n“Eli FDE”目前没有可确认的对应实体，最接近的是一句翻译：\"eli fde\" 的中文翻译是‌伊莱·福德‌。 这个词更像是一个人名的音译，而不是某个固定岗位或专有名词。‌\n\n如果“Eli”是指人名，目前公开资料里没有叫 ‌Eli‌ 的知名 FDE（前沿部署工程师）代表；如果是想问 FDE 岗位，可以看下面。\n\n🧑‍💻 FDE 是什么\n\nFDE（Forward Deployed Engineer，前沿部署工程师）是 AI 行业里新兴的复合型岗位，核心是把 AI 模型真正装进企业业务里，而不是只做个演示。‌‌\n\n‌工作方式‌：驻场到客户公司，理解业务流程，再把 AI 方案部署上线，直到客户真正用起来。\n‌能力要求‌：既要会写代码（全栈、系统集成），又要懂业务、会沟通，相当于‌程序员 + 产品经理 + 咨询顾问‌的结合体。\n‌薪资参考‌：美国中位数年薪约 ‌19.3万美元‌，国内大厂月薪可达 3-5 万、15 薪。‌‌\n🔥 为什么突然火了\n\n2025-2026 年，头部 AI 公司开始重金布局 FDE：‌‌\n\n‌OpenAI‌ 成立 Deployment Company，初始投入超 ‌40亿美元‌，直接收购团队收编上百名成熟 FDE。\n‌Anthropic‌ 砸 ‌1亿美元‌ 办学院，计划到 2027 年底培养 ‌1万名‌ FDE。\n‌微软‌ 成立 Frontier Company，投 ‌25亿美元‌，计划部署 6000 名专家到客户现场。\n\n背后的逻辑是：大模型能力已经够强，但企业普遍不知道怎么把模型变成能跑的业务系统，FDE 就是填这个“最后一公里”的人。‌‌\n\n⚠️ 需要注意\n\nFDE 现在是典型卖方市场，人才缺口超过 60%，但别急着报培训班。‌‌\n\n有观点认为，到 2028 年，70% 由供应商 FDE 模式搭建的 AI 项目可能被企业放弃，核心原因是成本太高、企业自身没有持续维护能力；国内 FDE 也面临被做成“高级外包”的风险。‌‌\n\n如果你对 FDE 感兴趣，比起花钱考证，更实际的是先自己完整跑通一个 AI Agent 项目——从需求拆解、数据整理、Agent 设计到上线运行，把技术和业务两头都摸一遍。‌‌\n\n了解了FDE岗位，要不要再看看FDE和传统AI工程师有何区别?或者国内FDE岗位薪资水平如何?\n\n展开剩余59%结果\nAI总结24篇结果生成\nEli FDE\n长按识别，即刻体验百度AI\n以上内容均由AI生成\n大家还在搜\n国米欧冠4连败主帅要下课吗\n袁咏仪第一次见巩俐被美呆了\n卢浮宫可能被迫关闭\n皇马7分43秒连轰3球\n国考有新变化\n男子网购发菜发现是国保植物\nA股\n长实集团辟谣李嘉诚离世传闻\nFDE是AI应用的终极路径吗?\n2天前所以，FDE既不只是过渡岗位，也不能被视为所有AI应用的终点。它代表一种重要的方法：从真实问题出发，让技术接受业务结果的检验。对企业而言，应关注流程是否改善、错误是否减少、总成本是否下降；对AI公司而言，应关注交付经验是否转化为可复用资产；对投资人而言，则要区分增长来自产品复制，还是持续增加人力投入。AI\n诸葛很很亮\nFDE前线部署工程师:从Palantir到OpenAI,AI交付范式的系统性变革...\n•商业模式可持续性:质疑者认为FDE本质是\"高级人力外包\",高客单价依赖稀缺人才、难以规模化复制;但Palantir已证明\"平台+服务\"可以盈利,平台订阅收入占比持续提升——FDE是获客和产品迭代的手段而非终点。 •AI自身的替代风险:质疑者认为Agent能力快速进化,3-5年内标准化部署会被自动化、FDE需求萎缩;但AI替代的是...\n新工业网\nLinyi Eyu Network Technology Co., Ltd. | Official Corporate...\nLinyi Eyu Network Technology Co., Ltd. (临沂饿鱼网络科技有限公司) is an innovative digital enterprise specializing in New Media Operations, Enterprise FDE AI Solutions, Manga-Drama Production, Global Web Development, and Native iOS Software. ...\neyucn.com/\n1人搞定17家企业年做200万:不裸辞先接单的“AI落地商人“-阿里云...\n4天前先看懂FDE 1.1 卖的不是\"AI产品\",是\"AI落地\" FDE(Frontline Deployment Engineer,前线部署工程师)这个概念由美国数据分析公司率先开创,中文语境里可以理解成\"AI落地的最后一公里\":企业买了大模型,但老板说不清自己要什么,模型也听不懂业务——FDE负责把这两头接起来。 本期主角做的事情很具体:接到企业意向→与...\n阿里云开发者社区\nukbbjm/1fSZJ_UCBEobTBxq.md at main · alexelitom/ukbbjm...\n2026年6月15日028MJ_mKAuAqtZJJ.md 03fPQ_BdmYIZTwFt.md 04i2A_GvOSrKoDzY.md 05FZD_rFfMflRFwv.md 07KHi_IEbNRbQTdg.md 07KIi_NJZPqQCTWW.md 07OPW_wjOtgMmfMj.md 07Ov2m_GkEiCg.md 07Ow3_YmoryKyBVL.md 07rLp_UcRZuqujsX.md 07ssQ_oMsondLeBo.md ...\nGitHub\nFDE前线部署工程师认证,学习路径和考试节奏帮你整理好了_企业应用...\n2天前2026年AI圈爆火的岗位,非FDE前线部署工程师莫属。国内大厂密集扩招,FDE的招聘量暴涨,成了全行业抢人的核心稀缺角色。 为了贴合市场需求,国际数据与人工智能研究院(TIIDA)建立FDE知识体系、能力标准、培训体系和CFDE(Certified Forward Deployed Engineer)专业认证体系。认证等级分为助理级(CFDE-A)、专业级(CFDE-P)...\n搜狐网\n读完腾讯 83 页 FDE 报告:从 Ontology 到 Skill,企业 AI 交付的...\n3小时前重交付的根本矛盾是:做得越深越依赖个人,规模越大利润越薄。FDE 试图在交付的同时完成学习,关键是三步闭环:重新定义客户问题,交付可验证的业务结果,把现场经验带回来。缺了第三步,就是高端外包。 能力上拆成两类角色:Echo 负责\"该做什么\",判断钱从哪里来、流程卡在哪里;Delta 负责\"怎么做出来\",快速原型、接...\n51CTO\nPrivacybeleid | Eurostar\n2. Identiteit van de verwerkingsverantwoordelijken – Wie is verantwoordelijk voor uw gegevens?\nwww.eurostar.com/be-nl/p...\nLineaire vergelijkingen\n文件格式：LRC/Lyric -\nHTML版\nook voldoet aan het stelsel ax + by = c en dx + ey = f. de twee stelsels hebben dus dezelfde oplossingen. deze twee bewerkingen zijn precies de bewerkingen die we uitvoeren bij het elimineren. elimineren verandert dus de oplossingsverzameling niet en de gevonden oplossingen zijn dan ...\nwww.ou.nl/documents/40554/791844/L...",
+      "results": [
+        {
+          "href": "http://www.baidu.com/link?url=e6IIPFvJZ1WQPxIf4yyzXThLwEOAoAFqIUCwxB-3A9MiY6h8RA0r42X8R1TKDEW6a7lUGXXN1ZMWKi3AQ5i5gu9kNd5Agr-rkkD85BsozH7",
+          "title": "FDE是AI应用的终极路径吗?"
+        },
+        {
+          "href": "http://www.baidu.com/link?url=Db7mvhuX9HApVCzokqOWFXQCJC8hb-Cu8f4HSIFcC28p3NGNwfooRmehHbxHm7YzloKNz0IYHf-yQI0rSSssNET_sa8BF5bzsTUd-m68XC7",
+          "title": "FDE前线部署工程师:从Palantir到OpenAI,AI交付范式的系统性变革..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=_-kZVpr8Yb2nouigwhy-tYoRfkNVTCXEKnFSefcn9Nm",
+          "title": "Linyi Eyu Network Technology Co., Ltd. | Official Corporate..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=HgCjPwjUD3myvbBgU-qebXMpKYJFdCJ2bCgm0wDwXWadZAF7UtFS5BnG5eRqxFPynIRW8_RJEN_9SjdXXr2Soq",
+          "title": "1人搞定17家企业年做200万:不裸辞先接单的“AI落地商人“-阿里云..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=_-kZVpr8Yb2nouigwhy-tVbiM5DI0R80OoVz9GlL0dvl49g__auFCGhTa886_IjQKwWOofzwM-CXt4PhEtBz5ToIkEf3WF-aAwWJsnivDAW",
+          "title": "ukbbjm/1fSZJ_UCBEobTBxq.md at main · alexelitom/ukbbjm..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=HgCjPwjUD3myvbBgU-qebP_itVjRqBPWhIrsy6xzESlpeJCfZkvzyZ_NNIgT5ipsHVgge8Pd9440K-vRRD6B4q",
+          "title": "FDE前线部署工程师认证,学习路径和考试节奏帮你整理好了_企业应用..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=BvmDFj-KF6Il6NZe1zecM8DRhOfqlaXhXCOr1ZbyIAxIVd6h_G64jcau2Hjkky3RDecEUhDGvvk8_tsYW0Jj8a",
+          "title": "读完腾讯 83 页 FDE 报告:从 Ontology 到 Skill,企业 AI 交付的..."
+        },
+        {
+          "href": "http://www.baidu.com/link?url=HgCjPwjUD3myvbBgU-qebNiyP4iRDqBFgrV3v5hEMdEkEY2XKfJZoMH1N3VMLy8em3IdYnx4HsBU_i7v9XRqoa",
+          "title": "Privacybeleid | Eurostar"
+        },
+        {
+          "href": "http://www.baidu.com/link?url=BvmDFj-KF6Il6NZe1zecM610vSOScxFRYjS6YVrgqX6ocOL8O6Bkd16zuTwHNhRrF1zeTvD0FNVO3NucHvVjT8zK3IMZpXzrOhDQPC-vfBiRn3Pia0SExtB1qd3Ki0PE8b9TYilTsibBEeb6l5kD0Uuebninm8SqAccws8jXfg1Z4uGzaab_htlwhPGanefs",
+          "title": "Lineaire vergelijkingen"
+        }
+      ]
+    },
+    {
+      "engine": "Google Hong Kong",
+      "query": "eliai.cn",
+      "url": "https://www.google.com.hk/search?q=eliai.cn",
+      "result_text": "Kết quả trên web\nCông cụ AI cho kiến trúc - Thiết kế - EliAI.vn\n\nEliAI\nhttps://eliai.vn\n·\n翻译此页\nMột nguồn tài nguyên để chia sẻ thông tin và hướng dẫn người dùng cho nền tảng ELIAI. Đăng Ký. EliAI trên. Facebook. Kênh chăm sóc khách hàng, ...\nFDE & AI Consulting for Business | Eli\n\neliai.cn\nhttps://www.eliai.cn › ...\n·\n翻译此页\nWork with Eli, a forward deployed engineer (FDE), to choose AI tools, improve workflows or build software. Free initial consultation; start with one use ...\nELIAI - School of Informatics - The University of Edinburgh\n\nThe University of Edinburgh\nhttps://informatics.ed.ac.uk › eliai\n·\n翻译此页\n2024年11月22日 — Celebrating 60 years of Computer Science & AI at Edinburgh. Statistics. Student Opportunities. As opportunities arise for students we will list ...\nFigma (@eliAI)\n\nFigma\nhttps://www.figma.com › ...\nHelp and resources.\n关于Eli｜FDE 工作方式、免费AI 咨询与联系\n\neliai.cn\nhttps://www.eliai.cn › about\n了解Eli 如何帮助企业用好AI：先免费讨论一项重复工作，再选择现成工具或小范围定制。初次咨询免费，工具订阅、开发、培训和维护的范围与费用另行确认；可通过邮箱、 ...\nFDE 前沿部署工程师｜企业AI 应用咨询与自动化- Eli\n\neliai.cn\nhttps://www.eliai.cn\nEli 是FDE（前沿部署工程师），贴近企业业务，帮助选工具、改流程，需要时开发软件。提供免费初次咨询，可从WorkBuddy 等现成工具、资料查找、库存核对或内容整理开始 ...\n产品文案与配图的AI 内容工作台开发案例- Eli\n\neliai.cn\nhttps://www.eliai.cn › cases\n主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。\nAI Improves Clarity in Student Support with ELIAI Approach\n\nLinkedIn\nhttps://www.linkedin.com › posts › johncdd...\n·\n翻译此页\nYou've heard “Explain it to me like I'm 5” (ELI5), but I'm realizing how helpful it can be to think in terms of “Explain it for the chatbot” (ELIAI).\nAI短视频制作与App推广资产案例- Eli\n\neliai.cn\nhttps://www.eliai.cn › cases\nAI短视频制作与App推广资产. 把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。\n无脸播客／真实历史奇事频道研究案例- Eli\n\neliai.cn\nhttps://www.eliai.cn › cases\n无脸播客／真实历史奇事频道研究. 研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。",
+      "website_found": true
+    },
+    {
+      "engine": "Bing China",
+      "query": "site:eliai.cn",
+      "url": "https://cn.bing.com/search?q=site%3Aeliai.cn",
+      "result_text": "kuaishou.com\nhttps://www.kuaishou.com\n快手\n\n网上有害信息举报专区 中央网信办（国家网信办）违法和不良信息举报中心 扫黄打非举报专区 快手举报专线： 4000066666 未成年人 …\n\n \nkuaishou.cn\nhttp://kuaishou.cn › about › index.html\n拥抱每一种生活\n\n快手应用日活4.16亿再创历史新高，平均月活跃用户达到7.31亿 2024 2024年总营收同比增长11.8%达1269亿元，经调整净利润同比增 …\n\nqq.com\nhttps://sj.qq.com › appdetail › com.smile.gifmaker\n快手app下载-快手app官网下载安装-应用宝官网\n\n2026年9月28日 · 快手的用户群体非常广泛，从城市白领到乡村农民，从年轻学生到上了年纪的老人，都能在快手上找到属于自己的一 …\n\nmicrosoft.com\nhttps://apps.microsoft.com › detail\n快手 - Windows官方下载 | 微软应用商店 | Microsoft Store\n\n「有趣视频，一看就上瘾」 好看的、好玩的，好笑的短视频，都在这。 「一起同框，越玩越有戏」 随时随地多人同框，搭戏模仿，有 …\n\nkuaishou.com\nhttps://live.kuaishou.com\n快手直播_发现好玩有趣的游戏\n\n快手游戏直播平台，提供快速、优质的游戏直播体验，发现好玩有趣的游戏内容。\n\nkuaishou.com\nhttps://passport.kuaishou.com › pc › account › login\n快手，记录世界 记录你 - Kuaishou\n\n关于快手 帮助中心 加入我们 联系我们 法律声明 网上有害信息举报专区丨中央网信办（国家网信办）违法和不良信息举报中心 扫黄打 …\n\nkuaishou.com\nhttps://m.ssl.kuaishou.com › app\n快手 - Kuaishou\n\n下载快手，探索世界，记录真实而有趣的生活，结识有趣的人，发现每一种生活方式。\n\nkuaishou.com\nhttps://m.kuaishou.com › passport › login\n快手，记录世界 记录你 - Kuaishou\n\n请用快手绑定手机号登录\n\nkuaishou.com\nhttp://m.ssl.kuaishou.com › app › home › hot\n快手\n\n快手 ... 下载快手\n\nkuaishou.com\nhttps://www.kuaishou.com › login\n拥抱每一种生活\n\n商业服务 快币充值 磁力引擎 快手电商 服务号 快手小程序 系列产品 快影 一甜相机 AcFun 网上有害信息举报专区 中央网信办（国家网 …\n\n为回应符合本地法律要求的通知，部分搜索结果未予显示。有关详细信息，请参阅此处。\n1\n2\n3\n4",
+      "note": "Operator returned unrelated domains; not treated as total index count or proof of zero index"
+    },
+    {
+      "engine": "Baidu",
+      "query": "site:eliai.cn",
+      "url": "https://www.baidu.com/s?wd=site%3Aeliai.cn",
+      "no_results": true
+    },
+    {
+      "engine": "Google Hong Kong",
+      "query": "Eli FDE",
+      "url": "https://www.google.com.hk/search?q=Eli%20FDE",
+      "result_text": "Web results\nFDE & AI Consulting for Business | Eli\n\neliai.cn\nhttps://www.eliai.cn › ...\n·\n翻译此页\nWork with Eli, a forward deployed engineer (FDE), to choose AI tools, improve workflows or build software. Free initial consultation; start with one use ...\nEli Lichtblau - FDE at Palantir Technologies\n\nLinkedIn · Eli Lichtblau\n超过 160位关注者\nWashington DC-Baltimore Area · FDE · Palantir Technologies\nFDE at Palantir Technologies · Full stack software engineer. I care deeply about performance and dev environments. Github: https://github.com/EliLichtblau ...\nAbout Eli | FDE Approach & Free AI Consultation\n\neliai.cn\nhttps://www.eliai.cn › about\n·\n翻译此页\nDiscuss one repetitive business task with Eli in a free initial consultation. Review tools or custom work, agree implementation costs, and get in touch.\nForward Deployed Engineer at Eli Lilly and Company\n\nFDE Pulse\nhttps://fdepulse.com › Companies\n·\n翻译此页\nEli Lilly and Company has 1 active Forward Deployed Engineer role as of April 2026. Full breakdown of open positions and what FDEs do.\nEli (Fear) | Walking Dead Wiki - Fandom\n\nWalking Dead Wiki\nhttps://walkingdead.fandom.com › wiki › E...\n·\n翻译此页\nEli is an antagonist and a survivor of the outbreak in AMC's Fear the Walking Dead. He served as the primary antagonist of the episode \"Till Death\".\nCheap Flights From Elim To Førde From | ELI - FDE\n\nWego\nhttps://www.wego.qa › flights › cheapest-fli...\n·\n翻译此页\nCheap flights from Elim to Førde ✈︎ Compare over 1000+ booking sites ✓ Find the lowest price ✓ Fast & easy booking ✓ Visit www.wego.qa now.\n图片\nEli De Poorter - Professor at Ghent University & imec | LinkedIn\nLinkedIn\nEli Bildman - FDE at Grotto AI | LinkedIn\nLinkedIn\nEli De Poorter | UGent.AI\nUGent.AI\n显示更多图片\nWeb results\nÎle-de-France\n\nWikipedia\nhttps://en.wikipedia.org › wiki › Île-de-Fra...\n·\n翻译此页\nÎle-de-France is densely populated and retains a prime economic position on the national stage. It covers 12,012 square kilometres (4,638 square miles), about 2 ...\nEli Bildman - FDE at Grotto AI\n\nLinkedIn · Eli Bildman\n超过 440位关注者\nNew York, New York, United States · Forward Deployed Engineer · Grotto AI\nFDE at Grotto AI · Experience: Grotto AI · Education: University of Massachusetts Amherst · Location: New York · 444 connections on LinkedIn. View Eli ...\nAssociate - Incoming Materials Disposition - FDE @ Eli Lilly ...\n\nNorth Carolina Biotechnology Center Job Board\nhttps://careers.ncbiotech.org › jobs › 66638...\n·\n翻译此页\nAssociate - Incoming Materials Disposition - FDE · BA/BS degree required · Knowledge of cGMP practices including good documentation practices, data integrity ...",
+      "website_found": true,
+      "observation": "First organic web result in this session is the English homepage; English About also visible"
+    }
+  ],
+  "website_changes": false
+}

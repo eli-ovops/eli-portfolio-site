@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-19T06:34:57.140504+00:00",
+  "system_proxy_flags": {
+    "HTTPEnable": 1,
+    "HTTPPort": 7890,
+    "HTTPSEnable": 1,
+    "HTTPSPort": 7890,
+    "ProxyAutoConfigEnable": 0,
+    "SOCKSEnable": 1,
+    "SOCKSPort": 7890
+  },
+  "environment_proxy_endpoints": {},
+  "proxy_processes": [
+    "547 /Library/PrivilegedHelperTools/io.github.clash-verge-rev.clash-verge-rev.service.bundle/Contents/MacOS/clash-verge-service",
+    "991 /Applications/ClashFX.app/Contents/MacOS/ClashFX",
+    "1011 /Library/PrivilegedHelperTools/com.clashfx.app.Helper",
+    "42935 /Applications/ClashFX.app/Contents/Resources/mihomo_core"
+  ],
+  "tcp_checks": [
+    {
+      "host": "127.0.0.1",
+      "port": 7890,
+      "tcp_connected": true,
+      "elapsed_seconds": 0.008
+    },
+    {
+      "host": "[REDACTED_HOST]",
+      "port": 22,
+      "tcp_connected": true,
+      "ssh_banner": "SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.4",
+      "elapsed_seconds": 0.088
+    },
+    {
+      "host": "[REDACTED_HOST]",
+      "port": 443,
+      "tcp_connected": true,
+      "elapsed_seconds": 0.0
+    }
+  ]
+}

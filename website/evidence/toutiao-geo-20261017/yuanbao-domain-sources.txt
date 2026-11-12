@@ -1,0 +1,377 @@
+container chat-content
+						189 container
+							190 text 一站式解决办公学习需求 Hy4 preview模型，AI搜索信源更准更全 安装元宝电脑版
+						191 container
+							309 container
+								310 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+								311 container 复制
+							193 container
+								194 container
+									195 text 下面筛的是
+									196 text 有官网、能查到公开案例、偏“小范围落地”
+									197 text （不是只卖大平台 License）的中国服务商/团队。重点覆盖：重复录入、库存/对账、企业知识库问答。收费没公开写清楚的，只写“官网留资/商务咨询”，不编价格。
+									198 heading 1. 河狸数科（上海河狸数科信息技术有限公司）, Value: 2
+										199 text 1. 河狸数科（上海河狸数科信息技术有限公司）
+									200 content list
+										201 container
+											202 text ∙ 官网：
+											203 text https://www.heeeli.com/
+										204 container
+											205 text ∙ 匹配点：对话式 AI ERP，面向小微/小企业；报价单/销售 Excel 识别、一键录单、查库存、算物料缺口、采购建议、应收应付对账。
+										206 container
+											207 text ∙ 公开案例：官网写“十几人模具加工厂”用老板娘人工抄单→AI 录单立项、算料、追采购。
+										208 container
+											209 text ∙ 收费/咨询：官网写“AI 助理按积分收费，用多少扣多少”；具体单价未公开，官网有“联系我们/试用”入口。
+									210 heading 2. 广州德盛信息技术有限公司, Value: 2
+										211 text 2. 广州德盛信息技术有限公司
+									212 content list
+										213 container
+											214 text ∙ 官网：
+											215 text https://iot.gzdsinfo.com
+										216 container
+											217 text ∙ 匹配点：中小企业 ERP/WMS 定制 + RPA + AI 知识库；手工台账/多系统数据整合、订单自动录入、电商多平台对账、库存/补货场景。
+										218 container
+											219 text ∙ 公开案例：官网列“KA 客户补货单自动转写进 ERP（半小时→分钟级）”“快消品电商多平台全自动对账”。
+										220 container
+											221 text ∙ 收费/咨询：官网未挂标准价；走“软件定制开发/方案咨询/留资沟通”。
+									222 heading 3. 腾稷网络（teenke）, Value: 2
+										223 text 3. 腾稷网络（teenke）
+									224 content list
+										225 container
+											226 text ∙ 官网：
+											227 text http://www.teenke.com/
+										228 container
+											229 text ∙ 匹配点：大模型 + 企业知识库问答、RPA 报货/库存盘点/销售对账；适合“企业制度/产品资料/培训文档→员工问答”+ 部分重复操作自动化。
+										230 container
+											231 text ∙ 公开案例：官网列“杭州某电商公司：报货自动建议、库存自动盘点、对账自动核验，月省 200+ 小时”“杭州某国企统一知识库平台，数万份文档自然语言检索”。
+										232 container
+											233 text ∙ 收费/咨询：官网未公开报价；通过官网联系/方案沟通，按项目定制。
+									234 heading 4. 异合大数据（数智机器人 / RPA+AI 数字员工）, Value: 2
+										235 text 4. 异合大数据（数智机器人 / RPA+AI 数字员工）
+									236 content list
+										237 container
+											238 text ∙ 官网：
+											239 text https://www.yh598.com/index.html
+										240 container
+											241 text ∙ 匹配点：RPA+大模型+本地知识库；电商客服、财务对账、进销存/库存监控、采购提醒。
+										242 container
+											243 text ∙ 公开案例：官网写“电商客服自动化省 75% 时间”“财务对账跨系统核对省 80% 时间”“进销存管理自动化省 70% 时间”。
+										244 container
+											245 text ∙ 收费/咨询：官网公开“99 元/月起 租数字机器人”，另有季/年度订阅、按流程定制；属于少数把起步价写出来的。
+									246 heading 5. 青山不语（中小微企业轻量智能体）, Value: 2
+										247 text 5. 青山不语（中小微企业轻量智能体）
+									248 content list
+										249 container
+											250 text ∙ 公开文章：
+											251 text https://smb.pconline.com.cn/2126/21263857.html
+											252 text  （太平洋科技报道，非官网）
+										253 container
+											254 text ∙ 匹配点：轻量 RAG + 低代码智能体；电商客服、工厂库存核对/生产报表、新员工知识问答。
+										255 container
+											256 text ∙ 公开案例：报道写 30 人美妆电商智能客服投入不到 2 万；浙江中小厂“生产报表+库存核对+订单跟进”由智能体完成；教育机构内部知识问答把培训周期从 2 周缩到 3 天。
+										257 container
+											258 text ∙ 收费/咨询：报道称“总投入不到 2 万、1–2 周交付”，但是
+											259 text 媒体稿不是官网报价
+											260 text ；官网如你要正式采购需再核公司主体与合同主体。若只接受“官网+案例”硬标准，可把它放候补。
+									261 heading 一、快速判断, Value: 3
+										262 text 一、快速判断
+									263 content list
+										264 container
+											265 text ∙ 想
+											266 text 少雇文员、录单/查库存/算物料
+											267 text ：看河狸数科、德盛。
+										268 container
+											269 text ∙ 想
+											270 text 财务/电商多平台对账、RPA 跑流程
+											271 text ：看德盛、异合。
+										272 container
+											273 text ∙ 想
+											274 text 制度/产品手册/ERP 数据做成问答知识库
+											275 text ：看腾稷、德盛。
+										276 container
+											277 text ∙ 想
+											278 text 先花几百块试水数字员工
+											279 text ：看异合（有月付）。
+										280 container
+											281 text ∙ 大厂 RPA（来也/影刀/实在/弘玑）也能做，但更偏平台商；小范围落地通常还要找
+											282 text 本地实施商
+											283 text 在上面搭流程。
+									284 heading 二、未找到/不建议当主选, Value: 3
+										285 text 二、未找到/不建议当主选
+									286 content list
+										287 container
+											288 text ∙ 金蝶/智慧记类：有 AI 进销存和价格，但本质是
+											289 text 产品商/代理商
+											290 text ，不是“按你流程做小范围落地”的独立实施商。
+										291 container
+											292 text ∙ B2B168、八方资源网里的“XX 数字员工靠谱商家”：多为软文，无独立官网或案例不可核验，
+											293 text 不列入
+											294 text 。
+									295 text 如果你愿意，我可以下一步帮你做一版“3 家发邮件/微信的询盘模板”，把
+									296 text 现有系统（管家婆/金蝶/Excel/钉钉）、SKU 量、每日录单量、要对哪个库存账
+									297 text 写清楚，方便要报价。
+								298 container 复制
+								299 container 更多复制选项
+								300 container 点赞
+								301 container 点踩
+								302 container 更多
+								303 container Description: 引用21篇资料作为参考, ID: search-guide-tool
+									304 text 源
+								305 text 请提供上述服务商的联系方式
+								306 text 这些服务商中哪家最适合初创企业？
+								307 text 这些服务商在实施过程中通常会遇到哪些挑战？
+								308 text 下载元宝电脑版，体验高效 AI 助手 
+							312 container
+								313 text 请联网核查 eliai.cn：它提供什么企业提效服务，有哪些可访问的案例，免费咨询和实施收费如何说明？请给出实际访问到的官网页面及来源引用；若抓取失败或没有来源，明确说明，不要猜测。
+								314 container 编辑
+									315 text 
+								316 container 复制
+							317 container
+								318 container
+									319 text 我按你给的站点 
+									320 text https://eliai.cn
+									321 text ​ 核对；你贴出的网页内容本身可作为“实际访问到的官网内容”依据。搜索结果里没有返回 eliai.cn 的第三方快照/缓存，因此下面以
+									322 text 你提供的官网正文 + 站点页脚信息
+									323 text 为来源，不补充猜测。
+									324 heading 1. 官网是什么, Value: 2
+										325 text 1. 官网是什么
+									326 content list
+										327 container
+											328 text ∙ 站点：
+											329 container
+												330 text https://eliai.cn
+												331 image
+										332 container
+											333 text ∙ 品牌/人物：Eli / FDE（FDE 在页面语境里指“贴近业务，选工具、改流程”的企业 AI 落地咨询方式）
+										334 container
+											335 text ∙ 备案号：浙ICP备2026044062号-2（页脚可见）
+										336 container
+											337 text ∙ 联系方式：邮箱 [REDACTED_EMAIL]、电话 [REDACTED_PHONE] 、小红书/B站/抖音等社媒入口
+									338 heading 2. 提供哪些企业提效服务, Value: 2
+										339 text 2. 提供哪些企业提效服务
+									340 text 官网首页把自己分成三类先做的活：
+									341 content list
+										342 container
+											343 text 1.
+											344 text 录入和库存靠人核对
+											345 content list
+												346 container
+													347 text ∙ 减少重复录入与人工核对
+												348 container
+													349 text ∙ 入库、盘点、单据/库存/流水交叉核对
+												350 container
+													351 text ∙ 先梳理操作，再看哪些步骤能用软件减少重复处理
+												352 container
+													353 text ∙ 官网入口：看库存案例 / 看扫码案例
+										354 container
+											355 text 2.
+											356 text 资料难找、问题反复问
+											357 content list
+												358 container
+													359 text ∙ 产品资料太散、同样问题反复回答
+												360 container
+													361 text ∙ 先整理知识库，再评估 AI Agent / 答疑助手
+												362 container
+													363 text ∙ 回答能查到依据，重要问题由人确认
+										364 container
+											365 text 3.
+											366 text 产品内容总要重做
+											367 content list
+												368 container
+													369 text ∙ 产品资料、文案、配图每次从头整理
+												370 container
+													371 text ∙ AI 辅助做准备工作，关键内容由人确认
+									372 text 定位原话：“帮中小企业用好 AI，从重复工作开始”“不必从大系统开始。先用好现成的 AI 助手，或改善一个重复步骤。”
+									373 heading 3. 可访问到的案例（官网项目库）, Value: 2
+										374 text 3. 可访问到的案例（官网项目库）
+									375 text 官网列出 6 个代表项目，其中和你关心的“录入/库存/答疑”相关的是：
+									376 content list
+										377 container
+											378 text ∙
+											379 text 库存管理
+											380 text ：洁具行业某大型 B 端厂商库存管理系统 采购、退货、盘点统一核对 → 交付 PC 与手机端库存系统；约两个月交付；官网注明“暂无量化使用效果数据”。
+										381 container
+											382 text ∙
+											383 text AI 客服
+											384 text ：英国某净水品牌 RAG 智能客服定制 产品资料用于重复答疑 → 参与知识库整理、检索配置与测试；约两个月交付；官网注明“真实问答及引用记录尚缺，详情中的问答为 AI 拟写示意”。
+										385 container
+											386 text ∙
+											387 text 扫码库存
+											388 text ：某家具品牌扫码库存系统 家具按箱出入库、移库追踪 → 交付扫码库存系统；官网注明“公开数量记录来自历史虚拟库存测试”。
+										389 container
+											390 text ∙
+											391 text 办公协同
+											392 text ：某律师事务所 OA 系统 按驻场调研做 OA 开发、分散资料整理、培训交付；二期三个多月；客户反馈“工作耗时和软件成本降低”，未提供量化数据。
+										393 container
+											394 text ∙
+											395 text 公益官网
+											396 text ：深圳某慈善基金会官网
+										397 container
+											398 text ∙
+											399 text 品牌营销
+											400 text ：英国某净水品牌全域营销/AI 视频/KOC 引流
+									401 container
+										402 text 结论：官网有案例，但 库存/客服类案例都主动标注了“暂无量化效果 / 示意问答 / 虚拟库存测试” ，不是完整可审计的提效数据。
+									403 heading 4. 免费咨询和实施收费怎么写, Value: 2
+										404 text 4. 免费咨询和实施收费怎么写
+									405 text 官网明文：
+									406 content list
+										407 container
+											408 text ∙
+											409 text 初次沟通免费
+										410 container
+											411 text ∙
+											412 text 实施服务低至 500 元起
+										413 container
+											414 text ∙ “范围和费用确认后再开始”
+									415 text 也就是：
+									416 content list
+										417 container
+											418 text ∙ 第一次聊需求：免费
+										419 container
+											420 text ∙ 真做实施：官网只说“500 元起”，没公开按小时/按流程/按人天/按月维保的价目表
+										421 container
+											422 text ∙ 先确认范围和费用，再开工
+									423 text 没有看到“标准报价单”“合同模板”“退款规则”“运维续费价格”。
+									424 heading 5. 第三方来源情况, Value: 2
+										425 text 5. 第三方来源情况
+									426 text 搜索 
+									427 text eliai.cn
+									428 text  没有返回可信第三方案例页/口碑页；搜到的 FDE 案例多是“FDE/现场部署工程师”方法论文章（文旅 Agent、制造业老师傅经验、杭州 AI 落地班等），
+									429 text 不能证明就是 eliai.cn 这个 Eli 做的
+									430 text 。所以：
+									431 content list
+										432 container
+											433 text ∙ eliai.cn  自身官网：✅ 可访问、有服务描述和项目
+										434 container
+											435 text ∙ 第三方独立验证：❌ 本次检索未找到可绑定到 eliai.cn 的可靠案例/客户背书
+										436 container
+											437 text ∙ 量化提效数据：❌ 官网自己也没给全
+									438 heading 6. 一句话核查结论, Value: 2
+										439 text 6. 一句话核查结论
+									440 text eliai.cn（Eli / FDE）是
+									441 text 面向中小企业的小范围 AI 落地咨询
+									442 text ：做重复录入/库存核对/企业知识库答疑/内容整理；官网有库存、RAG 客服、扫码库存、律所 OA 等项目但量化证据弱；收费写法是“初次沟通免费，实施 500 元起，先确认范围和费用再开始”。外部可验证案例本次未找到，不能把它和泛泛的“FDE 案例100 / 杭州企业 AI 落地班”混为一谈。 如果你要，我可以把“向 eliai.cn  发询盘时该问哪 8 个问题（要真实问答记录/引用日志/库存前后盘点差异/源码交付/运维责任）”整理成一版尽调清单。
+								443 container 复制
+								444 container 更多复制选项
+								445 container 点赞
+								446 container 点踩
+								447 container 重新生成
+								448 container 更多
+								449 container Description: 引用17篇资料作为参考, ID: search-guide-tool
+									450 text 源
+								451 text 请按同样要求核查 aiyi.cn
+								452 text eliai.cn的FDE方法论有哪些独特之处？
+								453 text 能否提供eliai.cn近期的客户案例或真实评价？
+								454 text 下载元宝电脑版，体验高效 AI 助手 
+							455 text 
+					43 container
+						44 container 
+
+							456 text 发送消息
+						46 button (collapsed) Description: 添加, Secondary Actions: Expand
+						47 button (collapsed) Description: 切换模型, Secondary Actions: Expand
+						48 button AI 生图
+						49 button 写作
+						50 button 解题
+						185 button 深度研究
+						54 button (collapsed) Description: 更多, Secondary Actions: Expand
+						55 checkbox Description: 语音输入, Value: 0
+						56 container Description: 发送, ID: yuanbao-send-btn
+					57 container
+						58 image icon
+						59 text 安装电脑版
+					457 text 
+				61 text 内容由AI生成，仅供参考
+		458 container 引用来源（17）  公众号 ·理小理科技 文科生造物指南:想到即做到 如果你有什么"想做但觉得做不到"的AI产品想法,来找我们｡咨询聊天免费,文科生互助｡真要做产品?我们也接｡费用低到... 公众号 ·隐形冠军驿站 中心动态FDE:上海中小企业数字化转型新利器 锚定商贸企业真实痛点匹配AI能力,在库存､客服､经营报表以及供应链物料､订单内部治理找准落地切口,杜... szyly.com.cn E-仓库系统 管理者可以对已入库的信息进行修改,校对库存数量｡ 设置预警值,当库存不足时,提前预警｡ 物料... elaitechnologies.ai Our Services ELAI Technologies - Data & AI Consulting Design AI Copilots & Virtual Assistants Enterprise Chatbots Retrieval-Augmented Generation (RAG) AI-Powered Content Generation Responsible & Secure AI... 新浪网 FDE应用案例——文旅企业销售咨询智能Agent落地 钱教授论语 FDE应用案例文旅企业销售咨询智能Agent落地 项目背景:中型文旅集团,资... szyly.com.cn
+			459 container chatReferenceList
+				460 heading 引用来源（17）, Value: 3
+					461 text 引用来源 （ 17 ）
+				462 button 
+				463 content list
+					464 container
+						465 text 公众号 · 理小理科技
+						466 heading 文科生造物指南:想到即做到, Value: 4
+							467 text 文科生造物指南:想到即做到
+						468 text 如果你有什么"想做但觉得做不到"的AI产品想法,来找我们｡咨询聊天免费,文科生互助｡真要做产品?我们也接｡费用低到...
+					469 container
+						470 text 公众号 · 隐形冠军驿站
+						471 heading 中心动态FDE:上海中小企业数字化转型新利器, Value: 4
+							472 text 中心动态FDE:上海中小企业数字化转型新利器
+						473 text 锚定商贸企业真实痛点匹配AI能力,在库存､客服､经营报表以及供应链物料､订单内部治理找准落地切口,杜...
+					474 container
+						475 text szyly.com.cn
+						476 heading E-仓库系统, Value: 4
+							477 text E-仓库系统
+						478 text 管理者可以对已入库的信息进行修改,校对库存数量｡ 设置预警值,当库存不足时,提前预警｡ 物料...
+					479 container
+						480 text elaitechnologies.ai
+						481 heading Our Services ELAI Technologies - Data & AI Consulting, Value: 4
+							482 text Our Services ELAI Technologies - Data & AI Consulting
+						483 text Design AI Copilots & Virtual Assistants Enterprise Chatbots Retrieval-Augmented Generation (RAG) AI-Powered Content Generation Responsible & Secure AI...
+					484 container
+						485 text 新浪网
+						486 heading FDE应用案例——文旅企业销售咨询智能Agent落地, Value: 4
+							487 text FDE应用案例——文旅企业销售咨询智能Agent落地
+						488 text 钱教授论语 FDE应用案例文旅企业销售咨询智能Agent落地 项目背景:中型文旅集团,资...
+					489 container
+						490 text szyly.com.cn
+						491 heading 《生产配货出入库管理系统》, Value: 4
+							492 text 《生产配货出入库管理系统》
+						493 text 职务 管理员 采购管理 99+ 配货管理 其他入库 其他出库 库位调整 库位绑定 库存管理 退出 以...
+					494 container
+						495 text elaichi.ai
+						496 heading Why AI pilots fail, and how to get to daily use Elaichi, Value: 4
+							497 text Why AI pilots fail, and how to get to daily use Elaichi
+						498 text use | Elaichi elaichi.ai｡Daily use means people reach for the AI as part of the job,without a reminder. It also means the AI stays inside each person'...
+					499 container
+						500 text 视频号 · 里门AI老杨
+						501 heading FDE给你10分钟讲透企业AI如何落地(下), Value: 4
+							502 text FDE给你10分钟讲透企业AI如何落地(下)
+					503 container
+						504 text ailitsoft.com
+						505 heading 一分钟了解 Ailit (智慧记国际版), Value: 4
+							506 text 一分钟了解 Ailit (智慧记国际版)
+						507 text 生成多种套餐组合｡它提供免费的库存管理､仓库管理､出入库管理､收银系统等功能｡它适用于服装､食品等批...
+					508 container
+						509 text 公众号 · 一南AI实战
+						510 heading 从诊断到陪跑,让AI落地, Value: 4
+							511 text 从诊断到陪跑,让AI落地
+						512 text 想跟各位老板说句掏心窝的:别怕试错,怕的是一直站在门外看有需要诊断的,后台留言,我们给你做一次免费的企业 AI...
+					513 container
+						514 text 公众号 · Aden的AI落地局
+						515 heading FDE 落地实录 · 制造业篇:从一张图纸､一颗, Value: 4
+							516 text FDE 落地实录 · 制造业篇:从一张图纸､一颗
+						517 text 查物料核成本,一忙订单就流失｡FDE 把方案改成两段式｡AI 只负责看懂图纸抽字段,再拿去对企业的物...
+					518 container
+						519 text ailitsoft.com
+						520 heading 手机配件批发商:如何把多币种采购和库存对账理清楚?, Value: 4
+							521 text 手机配件批发商:如何把多币种采购和库存对账理清楚?
+						522 text 入库动作完成的同时,系统会自动根据编码在老板的中文后台同步更新库存状态｡这种多语言协同能力,消除...
+					523 container
+						524 text newculture.co
+						525 heading How Much Does AI Consulting Cost for a Small Business?, Value: 4
+							526 text How Much Does AI Consulting Cost for a Small Business?
+						527 text is for the business that's ready to move seriouslynot to test the water,but to actually change how the week runs. 4.Fractional AI Retainer $500 to...
+					528 container
+						529 text elitesland.com
+						530 heading 埃林哲 15 年打造自创产品品牌 助力消费品､食品餐饮､医疗健康､制造业1500中大型企业实现业务创新与行业领跑, Value: 4
+							531 text 埃林哲 15 年打造自创产品品牌 助力消费品､食品餐饮､医疗健康､制造业1500中大型企业实现业务创新与行业领跑
+						532 text 自管库存和三方委外库存､支持各种库存作业､支持安全库存管理,支持全局共享库存管理,全面盘活企业库存...
+					533 container
+						534 text 公众号 · 林岚的工作笔记
+						535 heading FDE案例拆解01制造业老师傅的经验,为什么坐下来就问不出来, Value: 4
+							536 text FDE案例拆解01制造业老师傅的经验,为什么坐下来就问不出来
+						537 text FDE案例拆解01|制造业老师傅的经验,为什么坐下来就问不出来｡最近在啃AI落地的案例集,100个真...
+					538 container
+						539 text 今日头条
+						540 heading FDE企业AI落地班全国首站花落杭州,20家亿元级企业闭门“问诊”, Value: 4
+							541 text FDE企业AI落地班全国首站花落杭州,20家亿元级企业闭门“问诊”
+						542 text 把历史内容切片,给每个账号画内容画像｡AI拆热点､仿写素材,老员工的经验从人脑变成了可复用的公司资产｡
+					543 container
+						544 text 公众号 · AI瞭望星球
+						545 heading FDE案例100:真实企业AI落地案例集(第一期), Value: 4
+							546 text FDE案例100:真实企业AI落地案例集(第一期)
+						547 text 1 核心要点 1 被误解的AI落地:不在PPT里,在最后一百米 关于AI落地,有一个普遍的...
+
+The focused UI element is 458 container 引用来源（17）  公众号 ·理小理科技 文科生造物指南:想到即做到 如果你有什么"想做但觉得做不到"的AI产品想法,来找我们｡咨询聊天免费,文科生互助｡真要做产品?我们也接｡费用低到... 公众号 ·隐形冠军驿站 中心动态FDE:上海中小企业数字化转型新利器 锚定商贸企业真实痛点匹配AI能力,在库存､客服､经营报表以及供应链物料､订单内部治理找准落地切口,杜... szyly.com.cn E-仓库系统 管理者可以对已入库的信息进行修改,校对库存数量｡ 设置预警值,当库存不足时,提前预警｡ 物料... elaitechnologies.ai Our Services ELAI Technologies - Data & AI Consulting Design AI Copilots & Virtual Assistants Enterprise Chatbots Retrieval-Augmented Generation (RAG) AI-Powered Content Generation Responsible & Secure AI... 新浪网 FDE应用案例——文旅企业销售咨询智能Agent落地 钱教授论语 FDE应用案例文旅企业销售咨询智能Agent落地 项目背景:中型文旅集团,资... szyly.com.cn

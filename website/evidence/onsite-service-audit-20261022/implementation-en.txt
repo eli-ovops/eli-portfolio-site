@@ -1,0 +1,147 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: ../index.html
+    - link "Projects":
+      - /url: ../records.html
+    - link "Articles":
+      - /url: ../articles.html
+    - link "About":
+      - /url: ../about.html
+    - link "Switch to Chinese":
+      - /url: ../../services/fde-consulting.html
+      - text: 中文
+- main:
+  - link "← Explore business needs":
+    - /url: ../index.html#needs
+  - generic: AI services
+  - heading "AI implementation for small businesses" [level=1]:
+    - generic: AI implementation for small businesses
+  - paragraph: Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.
+  - paragraph: Possible deliverables
+  - list:
+    - listitem: ↳Workflow and change list
+    - listitem: ↳Tool setup or scoped software
+    - listitem: ↳Operating and maintenance guidance
+  - paragraph: "Related experience: independently scoped, developed and delivered an inventory system."
+  - link "View the inventory case ↗":
+    - /url: ../cases/p10.html
+  - link "Discuss one time-consuming task for free ↗":
+    - /url: ../about.html#contact
+  - link "More related cases ↓":
+    - /url: "#cases"
+  - complementary:
+    - heading "On this page" [level=2]
+    - navigation "On this page":
+      - link "What does an FDE do?":
+        - /url: "#approach"
+      - link "What can we discuss first?":
+        - /url: "#fit"
+      - link "From discussion to a bounded pilot":
+        - /url: "#delivery"
+      - link "How do we assess the result?":
+        - /url: "#acceptance"
+      - link "Related project experience":
+        - /url: "#cases"
+      - link "Questions before starting":
+        - /url: "#questions"
+  - heading "What does an FDE do?" [level=2]
+  - paragraph: FDE stands for Forward Deployed Engineer. The work starts with the customer’s operating context, connecting requirements, tool selection, implementation and feedback.
+  - paragraph: We can map who performs a task, what goes in and who uses the result. Start with an existing tool when it fits; discuss custom data connections or interfaces when needed.
+  - heading "What can we discuss first?" [level=2]
+  - paragraph: Repeated spreadsheet handling, inventory checks, scattered product information, recurring support questions and product content preparation are possible starting points. Choose a task with clear inputs, outputs and an owner.
+  - paragraph: Describe the current process, its most time-consuming step and the result you want. Redacted examples can help. You do not need to buy a tool or share passwords or a complete business dataset first.
+  - heading "From discussion to a bounded pilot" [level=2]
+  - paragraph: Map repeated handling and common mistakes, then compare existing tools, rule-based automation and AI assistance. Whether a tool such as WorkBuddy fits depends on the task, data requirements and cost.
+  - paragraph: Agree the pilot’s features, human review steps, handover materials and acceptance criteria before implementation. Narrow the scope or change the approach if the trial does not fit.
+  - heading "How do we assess the result?" [level=2]
+  - paragraph: Record comparable task duration, repeated entry or reasons for rework before implementation. Use the same measures during the pilot and check whether staff can continue using it and handle exceptions.
+  - paragraph: The initial conversation is free. Implementation services start at CNY 500, with scope and fees agreed before work begins. Agree tool subscriptions, development, training and maintenance separately, then assess value against observed pilot results.
+  - heading "Related project experience" [level=2]
+  - paragraph: These cases cover business software and knowledge-base collaboration. Read each case for the role and delivery scope.
+  - heading "Sanitaryware manufacturer inventory system ↗" [level=3]:
+    - link "Sanitaryware manufacturer inventory system ↗":
+      - /url: ../cases/p10.html
+  - paragraph: Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.
+  - heading "Furniture barcode inventory system ↗" [level=3]:
+    - link "Furniture barcode inventory system ↗":
+      - /url: ../cases/p09.html
+  - paragraph: Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.
+  - heading "UK water purification brand · RAG support ↗" [level=3]:
+    - link "UK water purification brand · RAG support ↗":
+      - /url: ../cases/p36.html
+  - paragraph: Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.
+  - heading "Questions before starting" [level=2]
+  - heading "Can we talk if I do not understand AI?" [level=3]
+  - paragraph: Yes. Describe one repetitive task. We will understand the business before discussing technology.
+  - heading "Does FDE consulting include on-site work?" [level=3]
+  - paragraph: Agree communication, site visits, timing and deliverables before starting. A free initial conversation does not include an ongoing on-site engagement.
+  - heading "Start with one task" [level=2]
+  - paragraph: Describe the current process, its slowest step and the result you want.
+  - link "Discuss one time-consuming task for free ↗":
+    - /url: ../about.html#contact
+  - paragraph: Related services
+  - paragraph:
+    - link "Knowledge base setup and AI-assisted support ↗":
+      - /url: ai-agent.html
+    - text: ·
+    - link "Inventory reconciliation and data entry automation ↗":
+      - /url: workflow-automation.html
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: ../records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

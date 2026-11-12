@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "release": "20261012-212302-first-pointer",
+  "revision": "374bf42e288f80f56bf7",
+  "checks": {
+    "assets/editorial.js": true,
+    "assets/editorial.css": true,
+    "assets/screenshot-viewer.js": true,
+    "assets/depth-gallery.js": true,
+    "app.js": true,
+    "styles.css": true,
+    "records.html": true,
+    "cases/p10.html": true,
+    "about.html": true,
+    "robots.txt": true
+  },
+  "sitemap_status": 404,
+  "robots": "Disallow: /"
+}

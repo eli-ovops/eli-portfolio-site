@@ -1,0 +1,86 @@
+{
+  "P06": {
+    "stack": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Tailwind CSS"
+    ],
+    "approach": {
+      "zh-CN": "上传单据 → 展示模拟字段 → 人工修正 → 记录与导出。先验证录入流程与审核交互。",
+      "en": "Upload a document → display mock fields → review and correct → record and export. The prototype validates the entry and review flow."
+    },
+    "verification": {
+      "zh-CN": "使用 Mock 数据演示；没有接入真实 OCR、LLM、后端或客户单据。",
+      "en": "Uses mock data. Real OCR, LLMs, backend services and customer documents are outside this prototype."
+    }
+  },
+  "P09": {
+    "stack": [
+      "TypeScript",
+      "React",
+      "Vite",
+      "Cloudflare Workers",
+      "D1 / SQLite",
+      "Playwright"
+    ],
+    "approach": {
+      "zh-CN": "按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。",
+      "en": "Carton scanning connects receiving, transfers and dispatch, with duplicate handling, quantity checks and reversal flows."
+    },
+    "verification": {
+      "zh-CN": "已有本地与云端虚拟库存测试记录；例如 10 箱入库、3 箱出库后，总量为 7 箱。真实工厂使用效果另行验证。",
+      "en": "Local and cloud tests use virtual inventory: receiving 10 cartons and dispatching 3 leaves 7 in total. Factory usage outcomes require separate validation."
+    }
+  },
+  "P10": {
+    "stack": [
+      "Java",
+      "Spring Boot",
+      "Vue",
+      "MySQL",
+      "Redis",
+      "Nginx"
+    ],
+    "approach": {
+      "zh-CN": "PC 与 H5 入口连接业务后端，围绕库存、采购、退货与盘点组织流程；基于成熟底座进行业务适配。",
+      "en": "PC and H5 interfaces connect to a business backend for inventory, purchasing, returns and stocktakes, adapting an existing foundation."
+    },
+    "verification": {
+      "zh-CN": "已有构建、试部署及业务复查记录。交付、试运行和客户全面采用分别说明。",
+      "en": "Build, trial deployment and workflow review records exist. Delivery, trial operation and full customer adoption are separate milestones."
+    }
+  },
+  "P12": {
+    "stack": [
+      "TypeScript",
+      "Node.js",
+      "Provider abstraction",
+      "Schema validation"
+    ],
+    "approach": {
+      "zh-CN": "产品资料与风格输入 → 内容生成与编辑 → 人工确认 → 导出或上传路径。通过 Provider 抽象组织不同能力。",
+      "en": "Product facts and style input → content generation and editing → human approval → export or upload paths. Provider abstractions organize different capabilities."
+    },
+    "verification": {
+      "zh-CN": "已有本地测试与账号连接记录；账号连接通过不等于图文生成、平台发布全流程通过。",
+      "en": "Local test and account connection records exist. Successful connection does not establish an end-to-end generation or publishing result."
+    }
+  },
+  "P13": {
+    "stack": [
+      "SwiftUI",
+      "SwiftData",
+      "StoreKit",
+      "XCTest"
+    ],
+    "approach": {
+      "zh-CN": "每日任务 → 完成记录 → 历史与纪念品；原生界面、本地数据与购买入口共同支持持续迭代。",
+      "en": "Daily tasks → completion records → history and souvenirs. Native UI, local data and purchase entry points support ongoing iterations."
+    },
+    "verification": {
+      "zh-CN": "保留版本测试与商店提交记录；本地购买测试与真实商店支付分别核验。",
+      "en": "Version tests and store submission records are retained. Local purchase tests and real store transactions are verified separately."
+    }
+  }
+}

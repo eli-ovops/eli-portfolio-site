@@ -1,0 +1,35 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "revision": "d262c2b8b8661e95e975",
+  "correction": "Remove repeated case showcase itself from About, including its extra-case drawer; preserve all Home and Project index cases.",
+  "changed_source": [
+    "templates/about.html",
+    "scripts/pages.py"
+  ],
+  "checks": {
+    "build": "PASS 84 HTML pages",
+    "static_localization_seo": "PASS",
+    "about_cards": "0 in both languages",
+    "home_gallery": "7 retained",
+    "browser": "390 and1440 no horizontal overflow; consultation link and Dither Veil WebGL2 intact",
+    "protected_source_hashes": {
+      "assets/home-ambient.js": true,
+      "assets/home-ambient.css": true,
+      "assets/dither-veil.js": true,
+      "assets/bits-ui.js": true,
+      "assets/editorial.js": true,
+      "app.js": true,
+      "assets/page-version.js": true,
+      "templates/layout.html": true,
+      "styles.css": true,
+      "assets/bits-ui.css": true,
+      "assets/editorial.css": true,
+      "content/seo.json": true,
+      "content/social-links.json": true,
+      "content/projects.json": true,
+      "content/en.json": true
+    }
+  },
+  "published": false,
+  "server_access": false
+}

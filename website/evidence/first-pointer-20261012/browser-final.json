@@ -1,0 +1,74 @@
+{
+  "revision": "374bf42e288f80f56bf7",
+  "checks": [
+    {
+      "category": "客户项目",
+      "count": "9 项记录",
+      "revision": "374bf42e288f80f56bf7",
+      "test": "fast-first-filter",
+      "url": "http://127.0.0.1:4178/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E"
+    },
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "projects": [
+        "project-p10",
+        "project-p09"
+      ],
+      "query": "库存",
+      "test": "search-filter"
+    },
+    {
+      "dialog": true,
+      "imageWidth": 2558,
+      "rootTransition": "none",
+      "routeMotion": "native-title",
+      "test": "fast-image-during-title-entry",
+      "titleTransition": "project-title"
+    },
+    {
+      "dialog": false,
+      "focus": "detail-image-trigger",
+      "test": "escape-focus"
+    },
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "projects": [
+        "project-p10",
+        "project-p09"
+      ],
+      "query": "库存",
+      "test": "native-back",
+      "url": "http://127.0.0.1:4178/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "focus": "project-p09",
+      "query": "库存",
+      "test": "fast-explicit-back",
+      "url": "http://127.0.0.1:4178/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "count": "0 项记录",
+      "test": "empty"
+    },
+    {
+      "category": "全部",
+      "count": "38 项记录",
+      "query": "",
+      "test": "reset"
+    },
+    {
+      "dialog": true,
+      "height": 844,
+      "imageTransform": "none",
+      "note": "Independent VisualDemo discovery screen · demo profiles, not real community users · switch to actual size for details",
+      "overflow": -15,
+      "revision": "374bf42e288f80f56bf7",
+      "test": "english-mobile-reduce-keyboard",
+      "width": 390
+    }
+  ]
+}

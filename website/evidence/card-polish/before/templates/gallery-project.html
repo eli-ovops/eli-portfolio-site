@@ -1,0 +1,10 @@
+<article class="selected-project gallery-project poster-${skin}" data-gallery-type="${group}"${anchor}>
+  <button type="button" class="project-image" data-reveal="image" data-case-toggle aria-controls="process-${id}" aria-expanded="false" aria-label="展开 ${title} 案例">
+    <span class="poster-label">${label}<span aria-hidden="true">＋</span></span>
+    <span class="poster-word" aria-hidden="true">${word}</span>
+    ${visual}
+    
+    <span class="project-cursor" aria-hidden="true"><span>展开案例</span><span class="cursor-arrow">＋</span></span>
+  </button>
+  <div class="selected-caption"><h3><button type="button" class="project-title-toggle" data-case-toggle aria-controls="process-${id}" aria-expanded="false">${title}<span aria-hidden="true">＋</span></button></h3><p class="project-summary">${summary}</p>${process}${related}</div>
+</article>

@@ -1,0 +1,147 @@
+- banner:
+  - button "主菜单":
+  - link "Google Search Console":
+    - /url: ./search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+  - search:
+    - textbox [disabled]: 检查“https://www.eliai.cn/”中的任何网址
+    - combobox "检查 https://www.eliai.cn/ 中的任何网址"
+    - button "搜索":
+  - button "帮助":
+    - generic: help_outline
+  - tooltip: 帮助
+  - button "用户设置":
+    - generic: manage_accounts
+  - tooltip: 用户设置
+  - button "留言":
+    - generic: notifications
+  - tooltip: 留言
+  - button "Google 应用":
+  - button "Google 账号： Eli Chao ([REDACTED_EMAIL])":
+- dialog "navigational drawer":
+  - navigation "主要":
+    - button "搜索资源":
+      - img "网站图标"
+      - combobox "https://www.eliai.cn/"
+      - generic: 
+    - link "概述":
+      - /url: ./search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: home
+      - generic: 概述
+    - link "数据洞见":
+      - /url: ./search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: lightbulb_2
+      - generic: 数据洞见
+    - link "效果":
+      - /url: ./search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: trending_up
+      - generic: 效果
+    - button "网址检查":
+      - generic: search
+      - generic: 网址检查
+    - generic: 编制索引
+    - button "“编制索引”报告部分" [expanded]:
+      - generic: keyboard_arrow_up
+    - link "网页":
+      - /url: ./search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: file_copy
+      - generic: 网页
+    - link "站点地图":
+      - /url: ./search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: account_tree
+      - generic: 站点地图
+    - link "移除":
+      - /url: ./search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: visibility_off
+      - generic: 移除
+    - generic: 体验
+    - button "“体验”报告部分" [expanded]:
+      - generic: keyboard_arrow_up
+    - link "核心网页指标":
+      - /url: ./search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: speed
+      - generic: 核心网页指标
+    - link "HTTPS":
+      - /url: ./search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: lock
+      - generic: HTTPS
+    - generic: 安全问题和人工处置措施
+    - button "“安全问题和人工处置措施”报告部分":
+      - generic: keyboard_arrow_down
+    - link "“链接”报告":
+      - /url: ./search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: link_2
+      - generic: 链接数量
+    - link "成就":
+      - /url: ./search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: trophy
+      - generic: 成就
+    - link "设置":
+      - /url: ./search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: settings
+      - generic: 设置
+    - button "提交反馈":
+      - generic: feedback
+      - generic: 提交反馈
+    - button "Search Console 简介":
+      - generic: info
+      - generic: Search Console 简介
+    - link "隐私权":
+      - /url: https://myaccount.google.com/privacypolicy?hl=zh-CN
+    - link "条款":
+      - /url: https://myaccount.google.com/termsofservice?hl=zh-CN
+- navigation "路径":
+  - heading "站点地图" [level=1]
+- main:
+  - generic: 添加新的站点地图
+  - generic: https://www.eliai.cn/
+  - textbox "输入站点地图网址" [active]
+  - generic: 输入站点地图网址
+  - button "提交" [disabled]:
+    - generic: 提交
+  - heading "已提交的站点地图" [level=1]:
+    - generic: 已提交的站点地图
+  - button "过滤表格行":
+    - generic: 
+  - table:
+    - rowgroup:
+      - row "站点地图 类型 已提交的网址数 上次读取时间 状态 已发现的网页 已发现的视频":
+        - columnheader "站点地图":
+          - text: 站点地图
+        - columnheader "类型":
+          - text: 类型
+        - columnheader "已提交的网址数":
+          - text: 已提交的网址数
+        - columnheader "上次读取时间":
+          - text: 上次读取时间
+        - columnheader "状态":
+          - text: 状态
+        - columnheader "已发现的网页":
+          - text: 已发现的网页
+        - columnheader "已发现的视频":
+          - text: 已发现的视频
+        - columnheader
+    - rowgroup:
+      - row "/sitemap.xml 站点地图 2026年10月17日 2026年10月17日 成功 88 0":
+        - cell "/sitemap.xml"
+        - cell "站点地图"
+        - cell "2026年10月17日"
+        - cell "2026年10月17日"
+        - cell "成功":
+          - generic: 成功
+        - cell "88"
+        - cell "0"
+        - cell:
+          - button:
+            - generic: 
+  - generic: 每页行数：
+  - listbox "每页行数":
+    - option "5"
+    - option "10" [selected]
+    - option "25"
+    - option "50"
+    - option "100"
+    - option "250"
+    - option "500"
+  - generic: 第 1-1 行，共 1 行
+  - generic: 
+  - generic: 

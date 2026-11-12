@@ -1,0 +1,666 @@
+{
+  "source": "/Users/USER/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_ahypc7nu2jlp22_98f0/msg/file/2026-10/谷歌SEO每日工作计划表(1).xlsx",
+  "sheets": [
+    {
+      "sheet": "Sheet1",
+      "dimension": "A1:G51",
+      "cells": [
+        {
+          "cell": "A1",
+          "value": "谷歌SEO每日工作计划表",
+          "formula": null
+        },
+        {
+          "cell": "A2",
+          "value": "上午 9:00 - 10:30",
+          "formula": null
+        },
+        {
+          "cell": "B2",
+          "value": " 数据监测与诊断",
+          "formula": null
+        },
+        {
+          "cell": "D2",
+          "value": "相关资料图片",
+          "formula": null
+        },
+        {
+          "cell": "A3",
+          "value": "工作内容",
+          "formula": null
+        },
+        {
+          "cell": "B3",
+          "value": "具体细节",
+          "formula": null
+        },
+        {
+          "cell": "C3",
+          "value": "注意事项",
+          "formula": null
+        },
+        {
+          "cell": "A4",
+          "value": "①核心KPI检查",
+          "formula": null
+        },
+        {
+          "cell": "B4",
+          "value": "打开GSC：检查“搜索表现”核心指标：总点击次数、展示次数、平均点击率（CTR）、平均排名。对比前日、上周同期数据，关注重大波动。",
+          "formula": null
+        },
+        {
+          "cell": "C4",
+          "value": "不要过度关注单日微小波动（±10%内属正常）。寻找持续的趋势或断崖式下跌/增长。",
+          "formula": null
+        },
+        {
+          "cell": "B5",
+          "value": "打开GA4：检查“流量获取”报告：自然搜索流量变化、会话数、用户数、页面浏览量、跳出率、平均会话时长。",
+          "formula": null
+        },
+        {
+          "cell": "A6",
+          "value": "②排名与关键词监控",
+          "formula": null
+        },
+        {
+          "cell": "B6",
+          "value": "查看排名变化：在GSC的“查询”报告中，查看排名前10的关键词是否有显著排名下降或新增。",
+          "formula": null
+        },
+        {
+          "cell": "C6",
+          "value": "重点关注为网站带来主要流量的核心关键词排名变化。记录下任何异常变动，以备后续深入调查。",
+          "formula": null
+        },
+        {
+          "cell": "B7",
+          "value": "检查手动操作：在GSC“安全和手动操作”中，确认没有收到谷歌的手动惩罚通知。",
+          "formula": null
+        },
+        {
+          "cell": "A8",
+          "value": "③网站健康检查",
+          "formula": null
+        },
+        {
+          "cell": "B8",
+          "value": "抓取错误：检查GSC“网址检查”和“索引”下的“页面”报告，查看是否有新增的404错误、服务器错误（5xx）、或索引覆盖问题。",
+          "formula": null
+        },
+        {
+          "cell": "C8",
+          "value": "对于404页面，优先处理那些之前有良好排名和流量的页面，设置301重定向。大量的404应做好robots屏蔽处理！",
+          "formula": null
+        },
+        {
+          "cell": "B9",
+          "value": "安全问题：确认GSC没有安全问题的提醒（如恶意软件、被黑内容）。",
+          "formula": null
+        },
+        {
+          "cell": "A10",
+          "value": "④竞争对手分析",
+          "formula": null
+        },
+        {
+          "cell": "B10",
+          "value": "通过semrush查看竞争对手网站排名、流量、反链、关键词数量等，以及社媒，看是否有重大内容更新、产品发布或新闻。",
+          "formula": null
+        },
+        {
+          "cell": "C10",
+          "value": "通过semrus添加同行进行网站诊断分析，扬长避短",
+          "formula": null
+        },
+        {
+          "cell": "A11",
+          "value": "上午 10:30 - 12:00",
+          "formula": null
+        },
+        {
+          "cell": "B11",
+          "value": "深度分析与策略规划",
+          "formula": null
+        },
+        {
+          "cell": "D11",
+          "value": "相关资料图片",
+          "formula": null
+        },
+        {
+          "cell": "A12",
+          "value": "工作内容",
+          "formula": null
+        },
+        {
+          "cell": "B12",
+          "value": "具体细节",
+          "formula": null
+        },
+        {
+          "cell": "C12",
+          "value": "注意事项",
+          "formula": null
+        },
+        {
+          "cell": "A13",
+          "value": "①内容机会挖掘",
+          "formula": null
+        },
+        {
+          "cell": "B13",
+          "value": "分析GSC“查询”报告：寻找“排名在2-10位”且“展示次数高但点击率低”的关键词。这些是可以通过优化Title和Description快速提升排名的机会。",
+          "formula": null
+        },
+        {
+          "cell": "C13",
+          "value": "优先选择搜索意图明确、与业务相关度高、且你有能力创建更好内容的关键词。",
+          "formula": null
+        },
+        {
+          "cell": "B14",
+          "value": "寻找新关键词：使用SEO工具（Ahrefs等）分析竞争对手排名靠前但你未覆盖的关键词。",
+          "formula": null
+        },
+        {
+          "cell": "A15",
+          "value": "②内容优化规划",
+          "formula": null
+        },
+        {
+          "cell": "B15",
+          "value": "选定待优化页面：基于以上分析，选定1-2个今天或本周内需要优化的现有页面（通常是流量或排名下降的页面）。",
+          "formula": null
+        },
+        {
+          "cell": "C15",
+          "value": "优化前，务必在GSC中查看该页面的“查询”数据，了解用户是用哪些词找到它的，确保优化方向正确。",
+          "formula": null
+        },
+        {
+          "cell": "B16",
+          "value": "制定优化方案：规划如何优化：修改标题标签、元描述、H1；增加内容深度、更新过时信息；添加内部链接等。",
+          "formula": null
+        },
+        {
+          "cell": "A17",
+          "value": "③外链建设规划",
+          "formula": null
+        },
+        {
+          "cell": "B17",
+          "value": "检查外链增长：在Ahrefs等工具中查看昨日是否有新获得的外链，分析其来源和质量。",
+          "formula": null
+        },
+        {
+          "cell": "C17",
+          "value": "质量远大于数量。拒绝垃圾外链比获得它们更重要。记录外联进度（如已发送邮件、等待回复等）。",
+          "formula": null
+        },
+        {
+          "cell": "B18",
+          "value": "寻找外链机会：花15分钟寻找潜在的客座博客机会、资源页面链接机会或断链建设机会。",
+          "formula": null
+        },
+        {
+          "cell": "A19",
+          "value": "下午 13:30 - 15:30",
+          "formula": null
+        },
+        {
+          "cell": "B19",
+          "value": "内容创建与优化",
+          "formula": null
+        },
+        {
+          "cell": "E19",
+          "value": "相关资料图片",
+          "formula": null
+        },
+        {
+          "cell": "A20",
+          "value": "工作内容",
+          "formula": null
+        },
+        {
+          "cell": "B20",
+          "value": "具体细节",
+          "formula": null
+        },
+        {
+          "cell": "C20",
+          "value": "注意事项",
+          "formula": null
+        },
+        {
+          "cell": "A21",
+          "value": "①执行内容优化",
+          "formula": null
+        },
+        {
+          "cell": "B21",
+          "value": "根据上午的规划，动手优化选定的旧页面。更新内容、调整标签、完善内部链接结构。",
+          "formula": null
+        },
+        {
+          "cell": "C21",
+          "value": "优化后，在GSC中使用“网址检查”工具提交该URL重新索引，以加速谷歌处理。",
+          "formula": null
+        },
+        {
+          "cell": "A22",
+          "value": "②新内容创作",
+          "formula": null
+        },
+        {
+          "cell": "B22",
+          "value": "专注于撰写新的、符合搜索意图的高质量内容（博客文章、产品页面等）。确保内容全面、易于阅读、并针对目标关键词进行了自然优化。",
+          "formula": null
+        },
+        {
+          "cell": "C22",
+          "value": "EEAT原则：在内容中展现专业性，使用图片、视频、数据来增强说服力。",
+          "formula": null
+        },
+        {
+          "cell": "A23",
+          "value": "③内部链接建设",
+          "formula": null
+        },
+        {
+          "cell": "B23",
+          "value": "1、在新发布的文章中，添加指向网站内相关旧文章的链接。\n2、在相关的旧文章中，添加指向新文章的链接。这有助于权重传递和降低跳出率。",
+          "formula": null
+        },
+        {
+          "cell": "C23",
+          "value": "文章内链添加原则：核心关键词指向首页，栏目关键词指向栏目页，长尾关键词就以高质量和相关性的内容页加链接。",
+          "formula": null
+        },
+        {
+          "cell": "A24",
+          "value": "下午 15:30 - 17:00",
+          "formula": null
+        },
+        {
+          "cell": "B24",
+          "value": "反链与维护",
+          "formula": null
+        },
+        {
+          "cell": "D24",
+          "value": "相关资料图片",
+          "formula": null
+        },
+        {
+          "cell": "A25",
+          "value": "工作内容",
+          "formula": null
+        },
+        {
+          "cell": "B25",
+          "value": "具体细节",
+          "formula": null
+        },
+        {
+          "cell": "C25",
+          "value": "注意事项",
+          "formula": null
+        },
+        {
+          "cell": "A26",
+          "value": "①外链发布",
+          "formula": null
+        },
+        {
+          "cell": "B26",
+          "value": "执行上午规划的外链建设策略：撰写并发送1-2封个性化的客座博客合作邮件。",
+          "formula": null
+        },
+        {
+          "cell": "C26",
+          "value": "邮件要简洁、真诚，为对方提供价值（你的内容能解决他们读者的问题），而不是一味索求。",
+          "formula": null
+        },
+        {
+          "cell": "A27",
+          "value": "②技术SEO维护",
+          "formula": null
+        },
+        {
+          "cell": "B27",
+          "value": "每月深度爬虫：如果今天安排了一次全站爬虫（如用Screaming Frog），则花时间分析报告：检查重复元标签、失效链接、错误的HTTP状态码、缓慢的页面等。\n速度监控：使用PageSpeed Insights或GTmetrix检查关键页面的加载速度。",
+          "formula": null
+        },
+        {
+          "cell": "C27",
+          "value": "技术SEO问题可以记录在案，每周或每月集中处理一次，不必每日深究。",
+          "formula": null
+        },
+        {
+          "cell": "A28",
+          "value": "③整理与学习",
+          "formula": null
+        },
+        {
+          "cell": "B28",
+          "value": "记录工作日志：简要记录今天完成的工作、发现的问题和明天的待办事项。\n行业学习：花15-30分钟阅读SEO行业新闻，关注谷歌算法更新动态。",
+          "formula": null
+        },
+        {
+          "cell": "C28",
+          "value": "SEO是一个快速变化的领域，持续学习是保持竞争力的关键。",
+          "formula": null
+        },
+        {
+          "cell": "A29",
+          "value": "全天穿插进行",
+          "formula": null
+        },
+        {
+          "cell": "B29",
+          "value": "社交媒体与互动",
+          "formula": null
+        },
+        {
+          "cell": "C29",
+          "value": "注意事项",
+          "formula": null
+        },
+        {
+          "cell": "D29",
+          "value": "相关图片资料",
+          "formula": null
+        },
+        {
+          "cell": "A30",
+          "value": "内容分享与互动",
+          "formula": null
+        },
+        {
+          "cell": "B30",
+          "value": "在新内容发布后，将其分享到公司的社交媒体渠道（X、 LinkedIn,、Facebook等）。\n回复评论，参与行业讨论，建立品牌影响力。",
+          "formula": null
+        },
+        {
+          "cell": "C30",
+          "value": "社交信号虽不是直接排名因素，但能带来初始流量和品牌曝光，间接有利于SEO。",
+          "formula": null
+        },
+        {
+          "cell": "A32",
+          "value": "Google常用工具",
+          "formula": null
+        },
+        {
+          "cell": "A33",
+          "value": "综合SEO查询工具",
+          "formula": null
+        },
+        {
+          "cell": "A34",
+          "value": "名称",
+          "formula": null
+        },
+        {
+          "cell": "B34",
+          "value": "网址",
+          "formula": null
+        },
+        {
+          "cell": "C34",
+          "value": "简介",
+          "formula": null
+        },
+        {
+          "cell": "A35",
+          "value": "Ahrefs",
+          "formula": null
+        },
+        {
+          "cell": "B35",
+          "value": "https://ahrefs.com/",
+          "formula": null
+        },
+        {
+          "cell": "C35",
+          "value": "以其强大的反向链接数据库和网站分析能力闻名，关键词研究、内容分析功能也同样出色。",
+          "formula": null
+        },
+        {
+          "cell": "A36",
+          "value": "Semrush",
+          "formula": null
+        },
+        {
+          "cell": "B36",
+          "value": "https://www.semrush.com/",
+          "formula": null
+        },
+        {
+          "cell": "C36",
+          "value": "功能非常全面的营销一体化平台，在关键词研究、竞争分析、广告研究方面尤为突出。",
+          "formula": null
+        },
+        {
+          "cell": "A37",
+          "value": "Moz Pro",
+          "formula": null
+        },
+        {
+          "cell": "B37",
+          "value": "https://moz.com/products/pro",
+          "formula": null
+        },
+        {
+          "cell": "C37",
+          "value": "提供关键词研究、链接分析、网站爬虫、排名跟踪等功能，其域名权重指标（DA）被广泛使用。",
+          "formula": null
+        },
+        {
+          "cell": "A38",
+          "value": "关键词研究工具",
+          "formula": null
+        },
+        {
+          "cell": "A39",
+          "value": "名称",
+          "formula": null
+        },
+        {
+          "cell": "B39",
+          "value": "网址",
+          "formula": null
+        },
+        {
+          "cell": "C39",
+          "value": "简介",
+          "formula": null
+        },
+        {
+          "cell": "A40",
+          "value": "Google Keyword Planner",
+          "formula": null
+        },
+        {
+          "cell": "B40",
+          "value": "https://ads.google.com/home/tools/keyword-planner/",
+          "formula": null
+        },
+        {
+          "cell": "C40",
+          "value": "谷歌官方的免费关键词工具，主要为广告主设计，但能提供准确的关键词搜索量和趋势，是关键词研究的起点。",
+          "formula": null
+        },
+        {
+          "cell": "A41",
+          "value": "Ahrefs Keywords Explorer",
+          "formula": null
+        },
+        {
+          "cell": "B41",
+          "value": "https://ahrefs.com/keywords-explorer",
+          "formula": null
+        },
+        {
+          "cell": "C41",
+          "value": "提供关键词难度（KD）、搜索量、点击率（CTC）估算等丰富数据，是顶级的关键词研究工具之一。",
+          "formula": null
+        },
+        {
+          "cell": "A42",
+          "value": "Semrush Keyword Magic Tool",
+          "formula": null
+        },
+        {
+          "cell": "B42",
+          "value": "https://www.semrush.com/features/keyword-magic-tool/",
+          "formula": null
+        },
+        {
+          "cell": "C42",
+          "value": "海量关键词数据库，可以从一个种子词扩展出大量长尾词，并提供丰富的指标。",
+          "formula": null
+        },
+        {
+          "cell": "A43",
+          "value": "AnswerThePublic",
+          "formula": null
+        },
+        {
+          "cell": "B43",
+          "value": "https://answerthepublic.com",
+          "formula": null
+        },
+        {
+          "cell": "C43",
+          "value": "通过可视化方式展示用户围绕一个主题提出的问题（Who， What， Where等），是寻找内容灵感和长尾问题的好工具。",
+          "formula": null
+        },
+        {
+          "cell": "A44",
+          "value": "网站审计与技术SEO",
+          "formula": null
+        },
+        {
+          "cell": "A45",
+          "value": "名称",
+          "formula": null
+        },
+        {
+          "cell": "B45",
+          "value": "网址",
+          "formula": null
+        },
+        {
+          "cell": "C45",
+          "value": "简介",
+          "formula": null
+        },
+        {
+          "cell": "A46",
+          "value": "Google Search Console",
+          "formula": null
+        },
+        {
+          "cell": "B46",
+          "value": "https://search.google.com/search-console/",
+          "formula": null
+        },
+        {
+          "cell": "C46",
+          "value": "谷歌官方免费工具，必用！ 用于监控网站在谷歌搜索中的表现，查看索引状态、提交站点地图、发现核心网页指标问题、查看搜索查询数据等。",
+          "formula": null
+        },
+        {
+          "cell": "A47",
+          "value": "Google Analytics",
+          "formula": null
+        },
+        {
+          "cell": "B47",
+          "value": "https://analytics.google.com/",
+          "formula": null
+        },
+        {
+          "cell": "C47",
+          "value": "是 Google 的一种网络分析工具，可让你免费跟踪和衡量网站上的用户流量和行为。 ",
+          "formula": null
+        },
+        {
+          "cell": "A48",
+          "value": "Google PageSpeed Insights",
+          "formula": null
+        },
+        {
+          "cell": "B48",
+          "value": "https://pagespeed.web.dev/",
+          "formula": null
+        },
+        {
+          "cell": "C48",
+          "value": "分析网页在移动设备和桌面设备上的速度性能，并提供具体的优化建议。",
+          "formula": null
+        },
+        {
+          "cell": "A49",
+          "value": "Screaming Frog SEO Spider",
+          "formula": null
+        },
+        {
+          "cell": "B49",
+          "value": "https://www.screamingfrog.co.uk/seo-spider/",
+          "formula": null
+        },
+        {
+          "cell": "C49",
+          "value": "桌面端的网站爬虫软件，可以像搜索引擎一样抓取网站，快速发现断链、重复内容、Meta信息问题、结构问题等，是技术SEO必备神器。",
+          "formula": null
+        },
+        {
+          "cell": "A50",
+          "value": "GTmetrix",
+          "formula": null
+        },
+        {
+          "cell": "B50",
+          "value": "https://gtmetrix.com/",
+          "formula": null
+        },
+        {
+          "cell": "C50",
+          "value": "综合性的网站速度测试工具，提供详细的加载时间、性能评分和优化建议，界面友好。",
+          "formula": null
+        },
+        {
+          "cell": "A51",
+          "value": "Google Trends",
+          "formula": null
+        },
+        {
+          "cell": "B51",
+          "value": "https://trends.google.com/trends/",
+          "formula": null
+        },
+        {
+          "cell": "C51",
+          "value": "谷歌趋势是一款免费的在线搜索工具，通过它查看某个关键词在一定时间范围内的受欢迎程度和搜索趋势。",
+          "formula": null
+        }
+      ]
+    }
+  ],
+  "embedded_media": [
+    "xl/media/",
+    "xl/media/image1.png",
+    "xl/media/image2.png",
+    "xl/media/image3.png",
+    "xl/media/image4.png",
+    "xl/media/image5.png",
+    "xl/media/image6.png",
+    "xl/media/image7.png"
+  ]
+}

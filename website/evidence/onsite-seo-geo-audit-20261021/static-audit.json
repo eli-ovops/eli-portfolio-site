@@ -1,0 +1,2257 @@
+{
+  "html_count": 296,
+  "titles_unique": 296,
+  "descriptions_unique": 296,
+  "one_h1_pages": 296,
+  "noindex_pages": [
+    "404.html",
+    "en/404.html"
+  ],
+  "internal_html_link_occurrences": 7228,
+  "internal_link_occurrences_with_pv": 5186,
+  "pages_with_pv_internal_links": 296,
+  "cases_without_main_service_link": [
+    "cases/p36.html",
+    "cases/p09.html",
+    "cases/p10.html",
+    "en/cases/p36.html",
+    "en/cases/p09.html",
+    "en/cases/p10.html"
+  ],
+  "focus": {
+    "services/ai-agent.html": {
+      "title": "企业知识库搭建与客服辅助答疑服务 - Eli",
+      "description": "产品资料分散、员工找资料费时、客服反复回答同样的问题？Eli 提供企业知识库整理、检索配置与问答试用，核对资料来源、版本和权限，保留人工确认。查看相关协作案例，初次沟通免费。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/services/ai-agent.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/services/ai-agent.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/services/ai-agent.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/services/ai-agent.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 9,
+      "main_service_links": [
+        {
+          "href": "fde-consulting.html?pv=4bc544a5361e14236d53",
+          "text": "中小企业 AI 落地实施服务 ↗",
+          "in_main": true
+        },
+        {
+          "href": "workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "库存核对与重复录入自动化 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://www.eliai.cn/services/ai-agent.html#service",
+              "name": "企业知识库搭建与客服辅助答疑",
+              "description": "产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。",
+              "url": "https://www.eliai.cn/services/ai-agent.html",
+              "provider": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://www.eliai.cn/services/ai-agent.html#questions",
+              "url": "https://www.eliai.cn/services/ai-agent.html#questions",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/services/ai-agent.html#page"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "一定要训练自己的模型吗？",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "不一定。先评估现有模型、资料检索和工具配置能否满足任务，避免在问题尚未明确时投入模型训练。"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "可以直接让 Agent 全自动处理客户业务吗？",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "先验证具体任务。涉及订单、付款、对外承诺或数据修改时，需要明确权限、确认和异常处理，再决定自动化程度。"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/services/ai-agent.html#page",
+              "url": "https://www.eliai.cn/services/ai-agent.html",
+              "name": "企业知识库搭建与客服辅助答疑服务 - Eli",
+              "description": "产品资料分散、员工找资料费时、客服反复回答同样的问题？Eli 提供企业知识库整理、检索配置与问答试用，核对资料来源、版本和权限，保留人工确认。查看相关协作案例，初次沟通免费。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "mainEntity": {
+                "@id": "https://www.eliai.cn/services/ai-agent.html#service"
+              },
+              "hasPart": {
+                "@id": "https://www.eliai.cn/services/ai-agent.html#questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "services/workflow-automation.html": {
+      "title": "库存核对与重复录入自动化｜中小企业流程提效 - Eli",
+      "description": "订单重复录入、入出库记录分散、月底库存难核对？先梳理规则和单据，评估现成工具或小范围库存软件，核对数量、流水和撤销更正。查看真实项目与验证边界，初次沟通免费。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/services/workflow-automation.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/services/workflow-automation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/services/workflow-automation.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 10,
+      "main_service_links": [
+        {
+          "href": "fde-consulting.html?pv=4bc544a5361e14236d53",
+          "text": "中小企业 AI 落地实施服务 ↗",
+          "in_main": true
+        },
+        {
+          "href": "ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "企业知识库搭建与客服辅助答疑 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://www.eliai.cn/services/workflow-automation.html#service",
+              "name": "库存核对与重复录入自动化",
+              "description": "同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。",
+              "url": "https://www.eliai.cn/services/workflow-automation.html",
+              "provider": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://www.eliai.cn/services/workflow-automation.html#questions",
+              "url": "https://www.eliai.cn/services/workflow-automation.html#questions",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/services/workflow-automation.html#page"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "企业提效一定要用 AI 吗？",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "不一定。固定规则用表单、校验或普通软件可能更直接。先选适合业务的做法，再决定 AI 是否有帮助。"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "能承诺节省多少时间或费用吗？",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "需要用你的实际任务试用后判断。先定义比较口径，记录正确性、耗时与维护成本，再讨论可验证的改善。"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/services/workflow-automation.html#page",
+              "url": "https://www.eliai.cn/services/workflow-automation.html",
+              "name": "库存核对与重复录入自动化｜中小企业流程提效 - Eli",
+              "description": "订单重复录入、入出库记录分散、月底库存难核对？先梳理规则和单据，评估现成工具或小范围库存软件，核对数量、流水和撤销更正。查看真实项目与验证边界，初次沟通免费。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "mainEntity": {
+                "@id": "https://www.eliai.cn/services/workflow-automation.html#service"
+              },
+              "hasPart": {
+                "@id": "https://www.eliai.cn/services/workflow-automation.html#questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "services/fde-consulting.html": {
+      "title": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli",
+      "description": "面向中小企业和工作室的 AI 实施服务。先梳理重复录入、资料查找等费时工作，再选择现成工具、调整流程或做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/services/fde-consulting.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/services/fde-consulting.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/services/fde-consulting.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/services/fde-consulting.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 98,
+      "main_service_links": [
+        {
+          "href": "ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "企业知识库搭建与客服辅助答疑 ↗",
+          "in_main": true
+        },
+        {
+          "href": "workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "库存核对与重复录入自动化 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://www.eliai.cn/services/fde-consulting.html#service",
+              "name": "中小企业 AI 落地实施服务",
+              "description": "每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。",
+              "url": "https://www.eliai.cn/services/fde-consulting.html",
+              "provider": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://www.eliai.cn/services/fde-consulting.html#questions",
+              "url": "https://www.eliai.cn/services/fde-consulting.html#questions",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/services/fde-consulting.html#page"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "不懂 AI，也可以咨询吗？",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "可以。描述一项每天反复做的工作即可，我会先了解业务，再讨论技术选择。"
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "FDE 咨询一定包含驻场吗？",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "沟通方式、现场调研、实施周期与交付范围在合作前确认。免费初次沟通不包含持续驻场服务。"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/services/fde-consulting.html#page",
+              "url": "https://www.eliai.cn/services/fde-consulting.html",
+              "name": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli",
+              "description": "面向中小企业和工作室的 AI 实施服务。先梳理重复录入、资料查找等费时工作，再选择现成工具、调整流程或做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "mainEntity": {
+                "@id": "https://www.eliai.cn/services/fde-consulting.html#service"
+              },
+              "hasPart": {
+                "@id": "https://www.eliai.cn/services/fde-consulting.html#questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "cases/p36.html": {
+      "title": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+      "description": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/cases/p36.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/cases/p36.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/cases/p36.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/cases/p36.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 10,
+      "main_service_links": [],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.eliai.cn/cases/p36.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "项目库",
+                  "item": "https://www.eliai.cn/records.html"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "英国某净水品牌 RAG 智能客服定制",
+                  "item": "https://www.eliai.cn/cases/p36.html"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/cases/p36.html#page",
+              "url": "https://www.eliai.cn/cases/p36.html",
+              "name": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+              "description": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "breadcrumb": {
+                "@id": "https://www.eliai.cn/cases/p36.html#breadcrumb"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "英国某净水品牌 RAG 智能客服定制"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "cases/p09.html": {
+      "title": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "description": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/cases/p09.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/cases/p09.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/cases/p09.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/cases/p09.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 9,
+      "main_service_links": [],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.eliai.cn/cases/p09.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "项目库",
+                  "item": "https://www.eliai.cn/records.html"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "某家具品牌扫码库存系统",
+                  "item": "https://www.eliai.cn/cases/p09.html"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/cases/p09.html#page",
+              "url": "https://www.eliai.cn/cases/p09.html",
+              "name": "扫码库存系统：入库、移库与出库案例 - Eli",
+              "description": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "breadcrumb": {
+                "@id": "https://www.eliai.cn/cases/p09.html#breadcrumb"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "某家具品牌扫码库存系统"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "cases/p10.html": {
+      "title": "洁具库存管理系统开发案例 - Eli",
+      "description": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/cases/p10.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/cases/p10.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/cases/p10.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/cases/p10.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 7,
+      "main_service_links": [],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.eliai.cn/cases/p10.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "项目库",
+                  "item": "https://www.eliai.cn/records.html"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "洁具行业某大型 B 端厂商库存管理系统",
+                  "item": "https://www.eliai.cn/cases/p10.html"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/cases/p10.html#page",
+              "url": "https://www.eliai.cn/cases/p10.html",
+              "name": "洁具库存管理系统开发案例 - Eli",
+              "description": "独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "breadcrumb": {
+                "@id": "https://www.eliai.cn/cases/p10.html#breadcrumb"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "洁具行业某大型 B 端厂商库存管理系统"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "articles/enterprise-knowledge-base.html": {
+      "title": "企业资料太散，做知识库答疑前要准备什么？ - Eli",
+      "description": "结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 5,
+      "main_service_links": [
+        {
+          "href": "../services/ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "了解知识库与答疑服务 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/articles/enterprise-knowledge-base.html#page",
+              "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+              "name": "企业资料太散，做知识库答疑前要准备什么？ - Eli",
+              "description": "结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "企业资料太散，做知识库答疑前要准备什么？",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "articles/inventory-reconciliation.html": {
+      "title": "库存每天靠人工核对，先改哪一步？ - Eli",
+      "description": "从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/articles/inventory-reconciliation.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/inventory-reconciliation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 5,
+      "main_service_links": [
+        {
+          "href": "../services/workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "了解库存与流程提效服务 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/articles/inventory-reconciliation.html#page",
+              "url": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+              "name": "库存每天靠人工核对，先改哪一步？ - Eli",
+              "description": "从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "库存每天靠人工核对，先改哪一步？",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "articles/ai-inventory-exceptions.html": {
+      "title": "用 AI 核对库存，第一步为什么只列异常？ - Eli",
+      "description": "用两张虚构库存表练习 AI 差异核对，按商品编号与规格匹配，保留单位、时间和原始行；先列异常，不自动改账。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 7,
+      "main_service_links": [
+        {
+          "href": "../services/workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "了解库存与流程提效服务 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/articles/ai-inventory-exceptions.html#page",
+              "url": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+              "name": "用 AI 核对库存，第一步为什么只列异常？ - Eli",
+              "description": "用两张虚构库存表练习 AI 差异核对，按商品编号与规格匹配，保留单位、时间和原始行；先列异常，不自动改账。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "用 AI 核对库存，第一步为什么只列异常？",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "articles/ai-knowledge-base-start.html": {
+      "title": "企业知识库从哪里开始，不是把文件全上传？ - Eli",
+      "description": "先选一个部门反复问的主题，整理有效版本、负责人与适用范围。",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+        }
+      ],
+      "homepage_depth": 1,
+      "incoming_distinct_pages": 8,
+      "main_service_links": [
+        {
+          "href": "../services/ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "了解知识库与答疑服务 ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/about.html",
+              "description": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+              "jobTitle": "FDE · 贴近业务，选工具、改流程",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/articles/ai-knowledge-base-start.html#page",
+              "url": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+              "name": "企业知识库从哪里开始，不是把文件全上传？ - Eli",
+              "description": "先选一个部门反复问的主题，整理有效版本、负责人与适用范围。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "企业知识库从哪里开始，不是把文件全上传？",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "en/services/ai-agent.html": {
+      "title": "Business Knowledge Base Setup & AI-Assisted Support | Eli",
+      "description": "Help staff find product information and support teams answer recurring questions. Assess document preparation, retrieval and source-backed answers with version, access and human-review checks. Related project experience and a free initial consultation.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/services/ai-agent.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/services/ai-agent.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/services/ai-agent.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/services/ai-agent.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 9,
+      "main_service_links": [
+        {
+          "href": "fde-consulting.html?pv=4bc544a5361e14236d53",
+          "text": "AI implementation for small businesses ↗",
+          "in_main": true
+        },
+        {
+          "href": "workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "Inventory reconciliation and data entry automation ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://www.eliai.cn/en/services/ai-agent.html#service",
+              "name": "Knowledge base setup and AI-assisted support",
+              "description": "Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.",
+              "url": "https://www.eliai.cn/en/services/ai-agent.html",
+              "provider": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://www.eliai.cn/en/services/ai-agent.html#questions",
+              "url": "https://www.eliai.cn/en/services/ai-agent.html#questions",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/en/services/ai-agent.html#page"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Do we have to train a model?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Not necessarily. Assess existing models, retrieval and tool configuration against the task before investing in training."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can an agent handle customer work autonomously?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Validate a specific task first. Orders, payments, commitments and data changes need defined permissions, confirmations and exception handling before deciding the automation level."
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/en/services/ai-agent.html#page",
+              "url": "https://www.eliai.cn/en/services/ai-agent.html",
+              "name": "Business Knowledge Base Setup & AI-Assisted Support | Eli",
+              "description": "Help staff find product information and support teams answer recurring questions. Assess document preparation, retrieval and source-backed answers with version, access and human-review checks. Related project experience and a free initial consultation.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "mainEntity": {
+                "@id": "https://www.eliai.cn/en/services/ai-agent.html#service"
+              },
+              "hasPart": {
+                "@id": "https://www.eliai.cn/en/services/ai-agent.html#questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "en/services/workflow-automation.html": {
+      "title": "Inventory Reconciliation & Data Entry Automation | Eli",
+      "description": "Review duplicate entry, scattered stock records and manual reconciliation. Assess existing tools or scoped inventory software, checking quantities, movement records and corrections. Project evidence, clear limits and a free initial consultation.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/services/workflow-automation.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/services/workflow-automation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/services/workflow-automation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/services/workflow-automation.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 10,
+      "main_service_links": [
+        {
+          "href": "fde-consulting.html?pv=4bc544a5361e14236d53",
+          "text": "AI implementation for small businesses ↗",
+          "in_main": true
+        },
+        {
+          "href": "ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "Knowledge base setup and AI-assisted support ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://www.eliai.cn/en/services/workflow-automation.html#service",
+              "name": "Inventory reconciliation and data entry automation",
+              "description": "Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.",
+              "url": "https://www.eliai.cn/en/services/workflow-automation.html",
+              "provider": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://www.eliai.cn/en/services/workflow-automation.html#questions",
+              "url": "https://www.eliai.cn/en/services/workflow-automation.html#questions",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/en/services/workflow-automation.html#page"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Does efficiency require AI?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can you promise a specific saving?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Assess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement."
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/en/services/workflow-automation.html#page",
+              "url": "https://www.eliai.cn/en/services/workflow-automation.html",
+              "name": "Inventory Reconciliation & Data Entry Automation | Eli",
+              "description": "Review duplicate entry, scattered stock records and manual reconciliation. Assess existing tools or scoped inventory software, checking quantities, movement records and corrections. Project evidence, clear limits and a free initial consultation.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "mainEntity": {
+                "@id": "https://www.eliai.cn/en/services/workflow-automation.html#service"
+              },
+              "hasPart": {
+                "@id": "https://www.eliai.cn/en/services/workflow-automation.html#questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "en/services/fde-consulting.html": {
+      "title": "Small Business AI Implementation & Workflow Support | Eli",
+      "description": "AI implementation support for small businesses and studios. Review repetitive tasks, assess existing tools and scope workflow changes or software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/services/fde-consulting.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/services/fde-consulting.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/services/fde-consulting.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/services/fde-consulting.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 98,
+      "main_service_links": [
+        {
+          "href": "ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "Knowledge base setup and AI-assisted support ↗",
+          "in_main": true
+        },
+        {
+          "href": "workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "Inventory reconciliation and data entry automation ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://www.eliai.cn/en/services/fde-consulting.html#service",
+              "name": "AI implementation for small businesses",
+              "description": "Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.",
+              "url": "https://www.eliai.cn/en/services/fde-consulting.html",
+              "provider": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "FAQPage",
+              "@id": "https://www.eliai.cn/en/services/fde-consulting.html#questions",
+              "url": "https://www.eliai.cn/en/services/fde-consulting.html#questions",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/en/services/fde-consulting.html#page"
+              },
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Can we talk if I do not understand AI?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Describe one repetitive task. We will understand the business before discussing technology."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Does FDE consulting include on-site work?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Agree communication, site visits, timing and deliverables before starting. A free initial conversation does not include an ongoing on-site engagement."
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/en/services/fde-consulting.html#page",
+              "url": "https://www.eliai.cn/en/services/fde-consulting.html",
+              "name": "Small Business AI Implementation & Workflow Support | Eli",
+              "description": "AI implementation support for small businesses and studios. Review repetitive tasks, assess existing tools and scope workflow changes or software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "mainEntity": {
+                "@id": "https://www.eliai.cn/en/services/fde-consulting.html#service"
+              },
+              "hasPart": {
+                "@id": "https://www.eliai.cn/en/services/fde-consulting.html#questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "en/cases/p36.html": {
+      "title": "AI Customer Support & Knowledge Retrieval | Eli Case Study",
+      "description": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p36.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/cases/p36.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/cases/p36.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/cases/p36.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 10,
+      "main_service_links": [],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.eliai.cn/en/cases/p36.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Projects",
+                  "item": "https://www.eliai.cn/en/records.html"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "UK water purification brand · RAG support",
+                  "item": "https://www.eliai.cn/en/cases/p36.html"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/en/cases/p36.html#page",
+              "url": "https://www.eliai.cn/en/cases/p36.html",
+              "name": "AI Customer Support & Knowledge Retrieval | Eli Case Study",
+              "description": "Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "breadcrumb": {
+                "@id": "https://www.eliai.cn/en/cases/p36.html#breadcrumb"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "UK water purification brand · RAG support"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "en/cases/p09.html": {
+      "title": "Barcode Inventory: Stock Movement | Eli Case Study",
+      "description": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p09.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/cases/p09.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/cases/p09.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/cases/p09.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 9,
+      "main_service_links": [],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.eliai.cn/en/cases/p09.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Projects",
+                  "item": "https://www.eliai.cn/en/records.html"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Furniture barcode inventory system",
+                  "item": "https://www.eliai.cn/en/cases/p09.html"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/en/cases/p09.html#page",
+              "url": "https://www.eliai.cn/en/cases/p09.html",
+              "name": "Barcode Inventory: Stock Movement | Eli Case Study",
+              "description": "Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "breadcrumb": {
+                "@id": "https://www.eliai.cn/en/cases/p09.html#breadcrumb"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "Furniture barcode inventory system"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "en/cases/p10.html": {
+      "title": "Inventory System Development | Eli Case Study",
+      "description": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/cases/p10.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/cases/p10.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/cases/p10.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/cases/p10.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 7,
+      "main_service_links": [],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.eliai.cn/en/cases/p10.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Projects",
+                  "item": "https://www.eliai.cn/en/records.html"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Sanitaryware manufacturer inventory system",
+                  "item": "https://www.eliai.cn/en/cases/p10.html"
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.eliai.cn/en/cases/p10.html#page",
+              "url": "https://www.eliai.cn/en/cases/p10.html",
+              "name": "Inventory System Development | Eli Case Study",
+              "description": "Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "breadcrumb": {
+                "@id": "https://www.eliai.cn/en/cases/p10.html#breadcrumb"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "Sanitaryware manufacturer inventory system"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "en/articles/enterprise-knowledge-base.html": {
+      "title": "Company information is scattered: what should you prepare for a knowledge base? - Eli",
+      "description": "Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/enterprise-knowledge-base.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 5,
+      "main_service_links": [
+        {
+          "href": "../services/ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "See knowledge-base and support services ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html#page",
+              "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+              "name": "Company information is scattered: what should you prepare for a knowledge base? - Eli",
+              "description": "Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "Company information is scattered: what should you prepare for a knowledge base?",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "en/articles/inventory-reconciliation.html": {
+      "title": "Manual inventory checks every day: where should you start? - Eli",
+      "description": "Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/inventory-reconciliation.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/inventory-reconciliation.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 5,
+      "main_service_links": [
+        {
+          "href": "../services/workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "See inventory and workflow services ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/en/articles/inventory-reconciliation.html#page",
+              "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+              "name": "Manual inventory checks every day: where should you start? - Eli",
+              "description": "Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "Manual inventory checks every day: where should you start?",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "en/articles/ai-inventory-exceptions.html": {
+      "title": "Why start AI inventory checking with an exception list? - Eli",
+      "description": "Practice inventory reconciliation with two fictional tables. Match item IDs and specifications, retain source rows and report exceptions without adjusting stock.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/ai-inventory-exceptions.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 7,
+      "main_service_links": [
+        {
+          "href": "../services/workflow-automation.html?pv=4bc544a5361e14236d53",
+          "text": "See inventory and workflow services ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html#page",
+              "url": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+              "name": "Why start AI inventory checking with an exception list? - Eli",
+              "description": "Practice inventory reconciliation with two fictional tables. Match item IDs and specifications, retain source rows and report exceptions without adjusting stock.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "Why start AI inventory checking with an exception list?",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    },
+    "en/articles/ai-knowledge-base-start.html": {
+      "title": "How do you start a business knowledge base? - Eli",
+      "description": "Choose one recurring question area and organize current versions, owners and scope.",
+      "h1_count": 1,
+      "robots": "index,follow",
+      "canonical": [
+        "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html"
+      ],
+      "hreflang": [
+        {
+          "rel": "alternate",
+          "hreflang": "zh-CN",
+          "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "en",
+          "href": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html"
+        },
+        {
+          "rel": "alternate",
+          "hreflang": "x-default",
+          "href": "https://www.eliai.cn/articles/ai-knowledge-base-start.html"
+        }
+      ],
+      "homepage_depth": 2,
+      "incoming_distinct_pages": 8,
+      "main_service_links": [
+        {
+          "href": "../services/ai-agent.html?pv=4bc544a5361e14236d53",
+          "text": "See knowledge-base and support services ↗",
+          "in_main": true
+        }
+      ],
+      "jsonld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://www.eliai.cn/#eli",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/en/about.html",
+              "description": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+              "jobTitle": "FDE · Practical tools and workflows",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "email": "[REDACTED_EMAIL]"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.eliai.cn/#website",
+              "name": "Eli",
+              "url": "https://www.eliai.cn/",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "publisher": {
+                "@id": "https://www.eliai.cn/#eli"
+              }
+            },
+            {
+              "@type": "Article",
+              "@id": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html#page",
+              "url": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+              "name": "How do you start a business knowledge base? - Eli",
+              "description": "Choose one recurring question area and organize current versions, owners and scope.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://www.eliai.cn/#website"
+              },
+              "author": {
+                "@id": "https://www.eliai.cn/#eli"
+              },
+              "headline": "How do you start a business knowledge base?",
+              "dateCreated": "2026-10-17",
+              "mainEntityOfPage": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+              "datePublished": "2026-10-17"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

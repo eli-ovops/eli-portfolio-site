@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-10-17T19:58:19.725471+08:00",
+  "status": "NATIVE_REPORTS_AUDITED_PARTIAL_INDEX_PROGRESS",
+  "topics": 102,
+  "article_urls": 204,
+  "native_url_sample_per_engine": 4,
+  "native_full_204_index_census": false,
+  "Google": {
+    "confirmed_indexed_minimum": 2,
+    "confirmed_indexed": [
+      "articles/enterprise-knowledge-base.html",
+      "articles/what-is-agent.html"
+    ],
+    "not_indexed_samples": [
+      "articles/inventory-reconciliation.html",
+      "en/articles/enterprise-knowledge-base.html"
+    ],
+    "total_article_indexed": "UNKNOWN",
+    "performance_filter": "URL contains /articles/; both languages",
+    "performance_selected_range": "3 months",
+    "latest_chart_date": "2026-10-14",
+    "displayed_impressions": 0,
+    "displayed_clicks": 0,
+    "post_publication_impressions": "UNKNOWN; data precedes article publication",
+    "post_publication_clicks": "UNKNOWN; data precedes article publication",
+    "sitemap_discovered": 88,
+    "sitemap_last_read": "2026-10-17"
+  },
+  "Bing": {
+    "samples_not_discovered": 4,
+    "total_article_indexed": "UNKNOWN",
+    "impressions": "UNKNOWN; report preparing",
+    "clicks": "UNKNOWN; report preparing",
+    "sitemap_discovered": 82,
+    "sitemap_last_crawl": "2026-10-15"
+  },
+  "Baidu": {
+    "article_indexed": "UNKNOWN; calculating",
+    "pc_site_impressions_7days": 0,
+    "pc_site_clicks_7days": 0,
+    "article_specific_metrics": "UNKNOWN; no page rows",
+    "mobile_metrics": "UNKNOWN; no verifiable values"
+  },
+  "technical": {
+    "current_sitemap_urls": 294,
+    "current_article_urls": 204,
+    "duplicate_sitemap_urls": 0,
+    "query_sitemap_urls": 0,
+    "lastmod_count": 0,
+    "prior_full_206_page_audit": "../articles-seo-geo-20261017/technical-checks.json",
+    "prior_llms_missing_entry": "superseded; bilingual article index links already deployed"
+  },
+  "website_changes": 0,
+  "visual_motion_changes": 0,
+  "search_submissions": 0,
+  "external_messages": 0,
+  "user_action_required": false,
+  "artifact_checks": {
+    "google_article_filter": true,
+    "google_stale_date": true,
+    "google_inventory_unknown": true,
+    "google_knowledge_indexed": true,
+    "google_agent_indexed": true,
+    "google_english_unknown": true,
+    "bing_samples_not_discovered": true,
+    "bing_performance_pending": true,
+    "baidu_index_pending": true,
+    "baidu_pc_no_rows": true
+  },
+  "artifacts": {
+    "bing-performance.txt": "9956c2dff3cf0e97a09daed6a1adc6f88497fea231fc7c7ed90a39efa268cd63",
+    "bing-inventory-zh.txt": "3f29a4579d25d6bd47d8c266bc8463fc9c150f308e545998fd68bf2beb1b97cd",
+    "google-agent-zh.txt": "18097a03de809100b3e8cdb5a577e9ee98a47f18065cb9c91cf9a342741191b4",
+    "baidu-index.txt": "041e6b9272e7b44b8480f822423c965bcfc6d84e75a4321ea10269fc6046d727",
+    "google-knowledge-zh.txt": "1010d5292256c2888e7003c27ebab64b8788b8ac7cf1f463989263484b6e0e79",
+    "bing-knowledge-en.txt": "786688d14ccbf1818ab8d231a7734e73efd95de655fbb443bacf5f2c3e561685",
+    "google-knowledge-indexed.png": "b6b75e3b8dc67a7db55a533d1db2a506055a102af3aeaf50170d8b862e67bd7c",
+    "report.md": "503d004ce2e110313fb4ad0767354b6c50984f03754a7a4ab12a2085d001f1ee",
+    "google-index-overview.txt": "05f20e68ea35e04eba7efe5091f8d6b2da5729dff6fe556c66f99fee14bca34c",
+    "scope.json": "87af69ac0abba97a134597da30d633d495b669b283de3eed46a67c5491753d37",
+    "bing-knowledge-zh.txt": "3f29a4579d25d6bd47d8c266bc8463fc9c150f308e545998fd68bf2beb1b97cd",
+    "bing-site-explorer.txt": "134014eddbe35571378473dc5375dc40129ddc17bce62fb7126f1a57c8e3c778",
+    "google-inventory-zh.txt": "ad84362d0c4035d22f40c777401157232ef038c2d975d5f40d480ef405952a4c",
+    "google-knowledge-en.txt": "1034c7c77e1b99cc9ba179bf3c8d7da83de43797e730f9504f5b5f1ae523fd8a",
+    "google-article-performance.txt": "bc1827a9f4fa40f6466591148ea51982cf272e6f1cd2c68f08ce8fb7f4be0e7e",
+    "description-candidates-current.json": "0e37686bf3a7996c391326f9fba42429eb7e8d6a566f7de635421fbd195823a2",
+    "bing-agent-zh.txt": "e4f7456723bf0ba1291e9e76701dbe5f62bd2917d9f83ee994ae1974b06c1b55",
+    "bing-sitemap.txt": "5e878794f8855a2a37e67929d6513c5b5355c7e16cd17b73fa1f977e216d40c7",
+    "sitemap-and-metadata-review.json": "7d8ff8d0a67dbd83d55c97ace4c9a7ffc680b1385127ad4a5c916ac2e8e1fec3",
+    "baidu-pc-performance.txt": "0f624bf508618c459f04d778f657beab7bb6490460e370403dcb572641afb932",
+    "baidu-mobile-performance.txt": "df4e72cd6a82c199ab526d739e82d10ae0defcd70eb0bbc3e548147b6eeb895e",
+    "google-article-performance-3months.txt": "bc1827a9f4fa40f6466591148ea51982cf272e6f1cd2c68f08ce8fb7f4be0e7e",
+    "google-article-performance.png": "40c565d9a21003bd499ed052b1aba2fc23e99f0eef402cf82aec02b2ed47f136",
+    "google-sitemap.txt": "740abd7ac1c899073e5727a97ba1c3055e9a5c798ed04237a39d7b7568e3ce58"
+  }
+}

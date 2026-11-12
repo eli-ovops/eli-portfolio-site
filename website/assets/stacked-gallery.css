@@ -1,0 +1,26 @@
+/* Original GSAP depth cards; solid image surfaces, no backdrop filtering. */
+.stack-gallery-enabled .depth-stage { padding-top:64px; overflow:clip; }
+.stack-gallery-enabled .poster-gallery { height:clamp(410px,45vw,580px); perspective:1600px; perspective-origin:30% 50%; }
+.stack-gallery-enabled .gallery-project { align-items:center; gap:clamp(24px,4vw,56px); }
+.stack-gallery-enabled .gallery-project>.project-image {
+ height:auto; aspect-ratio:16 / 10; max-height:none; padding:16px;
+ background:#1c1e24; border:1px solid var(--line); border-radius:4px;
+}
+.stack-gallery-enabled .project-image .office-art { display:block; color:var(--accent); }
+.stack-gallery-enabled .selected-caption { background:var(--bg); max-height:none; overflow:visible; }
+.stack-gallery-enabled .selected-caption h3 { font-size:clamp(23px,2.5vw,34px); }
+.stack-gallery-enabled .project-summary { font-size:15px; line-height:1.85; }
+.stack-gallery-enabled .depth-controls { position:static; padding-bottom:8px; background:var(--bg); }
+.stack-gallery-enabled .depth-controls button { min-width:44px; min-height:44px; }
+.stack-gallery-enabled .depth-index button { min-height:44px; font-size:13px; }
+.stack-gallery-enabled .depth-hint { display:none; }
+@media(max-width:650px) {
+ .stack-gallery-enabled .depth-stage { padding-top:44px; }
+ .stack-gallery-enabled .poster-gallery { height:auto; min-height:0; perspective:1200px; perspective-origin:50% 22%; }
+ .stack-gallery-enabled .gallery-project { grid-template-columns:minmax(0,1fr); grid-template-rows:auto auto; gap:20px; }
+ .stack-gallery-enabled .gallery-project>.project-image { height:auto; aspect-ratio:16 / 10; padding:12px; }
+ .stack-gallery-enabled .selected-caption { padding:0; }
+ .stack-gallery-enabled .selected-caption h3 { font-size:23px; line-height:1.5; }
+ .stack-gallery-enabled .project-summary { font-size:14px; line-height:1.8; }
+ .stack-gallery-enabled .depth-index { scrollbar-width:none; }
+}

@@ -1,0 +1,14 @@
+{
+  "content/projects.json": true,
+  "content/profile.json": true,
+  "content/en.json": true,
+  "content/seo.json": true,
+  "content/case-examples.json": true,
+  "assets/depth-gallery.js": true,
+  "assets/home-ambient.js": true,
+  "assets/dither-veil.js": true,
+  "assets/screenshot-viewer.js": true,
+  "assets/page-version.js": true,
+  "templates/layout.html": true,
+  "css_braces": true
+}

@@ -1,0 +1,719 @@
+{
+  "status": "FOCUSED_BROWSER_PASS",
+  "observations": [
+    {
+      "canonical": "http://[REDACTED_HOST]/sites/portfolio/",
+      "description": "企业想用 AI 降本增效，从哪里开始？Eli 提供免费初次咨询，从 WorkBuddy 等现成工具、资料查找与答疑、重复录入、库存核对和产品内容整理入手，先试一个小场景，再判断是否值得继续投入。",
+      "graph": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli",
+              "@type": "Person",
+              "description": "想用 AI 降本增效，却不知道从哪开始？我帮你梳理公司流程，从现成工具或一个小改动入手，改善重复工作。先试用，再判断效果。",
+              "email": "[REDACTED_EMAIL]",
+              "name": "Eli",
+              "sameAs": [
+                "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                "https://space.bilibili.com/432834855",
+                "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                "https://www.youtube.com/@EliChao-m9o6r",
+                "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                "https://x.com/cczij1112",
+                "https://weibo.com/u/7720929036",
+                "https://www.tiktok.com/@elimakesapps",
+                "https://www.instagram.com/eliaifde/",
+                "https://www.facebook.com/profile.php?id=61594512757125"
+              ],
+              "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+            },
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#website",
+              "@type": "WebSite",
+              "inLanguage": [
+                "zh-CN",
+                "en"
+              ],
+              "name": "Eli",
+              "publisher": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+              },
+              "url": "http://[REDACTED_HOST]/sites/portfolio/"
+            },
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#consultation",
+              "@type": "Service",
+              "description": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。",
+              "name": "企业 AI 应用咨询",
+              "provider": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+              },
+              "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#contact"
+            },
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-inventory",
+              "@type": "Service",
+              "description": "录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。",
+              "name": "录入和库存靠人核对",
+              "provider": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+              },
+              "serviceType": "库存与录入流程自动化",
+              "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+            },
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-knowledge",
+              "@type": "Service",
+              "description": "产品资料太散、员工或客户反复问同样的问题？可以先整理资料，再试用 AI 辅助查找和答疑。",
+              "name": "资料难找、问题反复问",
+              "provider": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+              },
+              "serviceType": "企业知识库与 AI 辅助答疑",
+              "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+            },
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-content",
+              "@type": "Service",
+              "description": "产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。",
+              "name": "产品内容总要重做",
+              "provider": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+              },
+              "serviceType": "AI 辅助产品内容整理",
+              "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+            },
+            {
+              "@id": "http://[REDACTED_HOST]/sites/portfolio/#page",
+              "@type": "WebPage",
+              "about": [
+                {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#consultation"
+                },
+                {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-inventory"
+                },
+                {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-knowledge"
+                },
+                {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-content"
+                }
+              ],
+              "author": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+              },
+              "description": "企业想用 AI 降本增效，从哪里开始？Eli 提供免费初次咨询，从 WorkBuddy 等现成工具、资料查找与答疑、重复录入、库存核对和产品内容整理入手，先试一个小场景，再判断是否值得继续投入。",
+              "inLanguage": "zh-CN",
+              "isPartOf": {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#website"
+              },
+              "name": "企业 AI 应用咨询与业务自动化 - Eli",
+              "url": "http://[REDACTED_HOST]/sites/portfolio/"
+            }
+          ]
+        }
+      ],
+      "heading": "帮你的公司用好 AI\n从重复工作开始",
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "title": "企业 AI 应用咨询与业务自动化 - Eli",
+      "url": "http://127.0.0.1:4178/index.html?pv=52b6291edac4f1ebddad",
+      "width": 1332
+    },
+    {
+      "check": "JavaScript disabled",
+      "observation": {
+        "canonical": "http://[REDACTED_HOST]/sites/portfolio/",
+        "description": "企业想用 AI 降本增效，从哪里开始？Eli 提供免费初次咨询，从 WorkBuddy 等现成工具、资料查找与答疑、重复录入、库存核对和产品内容整理入手，先试一个小场景，再判断是否值得继续投入。",
+        "graph": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli",
+                "@type": "Person",
+                "description": "想用 AI 降本增效，却不知道从哪开始？我帮你梳理公司流程，从现成工具或一个小改动入手，改善重复工作。先试用，再判断效果。",
+                "email": "[REDACTED_EMAIL]",
+                "name": "Eli",
+                "sameAs": [
+                  "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                  "https://space.bilibili.com/432834855",
+                  "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                  "https://www.youtube.com/@EliChao-m9o6r",
+                  "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                  "https://x.com/cczij1112",
+                  "https://weibo.com/u/7720929036",
+                  "https://www.tiktok.com/@elimakesapps",
+                  "https://www.instagram.com/eliaifde/",
+                  "https://www.facebook.com/profile.php?id=61594512757125"
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#website",
+                "@type": "WebSite",
+                "inLanguage": [
+                  "zh-CN",
+                  "en"
+                ],
+                "name": "Eli",
+                "publisher": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#consultation",
+                "@type": "Service",
+                "description": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。",
+                "name": "企业 AI 应用咨询",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#contact"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-inventory",
+                "@type": "Service",
+                "description": "录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。",
+                "name": "录入和库存靠人核对",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "库存与录入流程自动化",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-knowledge",
+                "@type": "Service",
+                "description": "产品资料太散、员工或客户反复问同样的问题？可以先整理资料，再试用 AI 辅助查找和答疑。",
+                "name": "资料难找、问题反复问",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "企业知识库与 AI 辅助答疑",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-content",
+                "@type": "Service",
+                "description": "产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。",
+                "name": "产品内容总要重做",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "AI 辅助产品内容整理",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#page",
+                "@type": "WebPage",
+                "about": [
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#consultation"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-inventory"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-knowledge"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-content"
+                  }
+                ],
+                "author": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "description": "企业想用 AI 降本增效，从哪里开始？Eli 提供免费初次咨询，从 WorkBuddy 等现成工具、资料查找与答疑、重复录入、库存核对和产品内容整理入手，先试一个小场景，再判断是否值得继续投入。",
+                "inLanguage": "zh-CN",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#website"
+                },
+                "name": "企业 AI 应用咨询与业务自动化 - Eli",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              }
+            ]
+          }
+        ],
+        "heading": "帮你的公司用好 AI\n从重复工作开始",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "企业 AI 应用咨询与业务自动化 - Eli",
+        "url": "http://127.0.0.1:4178/index.html?pv=52b6291edac4f1ebddad",
+        "width": 1332
+      }
+    },
+    {
+      "check": "Chinese320 home",
+      "observation": {
+        "canonical": "http://[REDACTED_HOST]/sites/portfolio/",
+        "description": "企业想用 AI 降本增效，从哪里开始？Eli 提供免费初次咨询，从 WorkBuddy 等现成工具、资料查找与答疑、重复录入、库存核对和产品内容整理入手，先试一个小场景，再判断是否值得继续投入。",
+        "graph": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli",
+                "@type": "Person",
+                "description": "想用 AI 降本增效，却不知道从哪开始？我帮你梳理公司流程，从现成工具或一个小改动入手，改善重复工作。先试用，再判断效果。",
+                "email": "[REDACTED_EMAIL]",
+                "name": "Eli",
+                "sameAs": [
+                  "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                  "https://space.bilibili.com/432834855",
+                  "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                  "https://www.youtube.com/@EliChao-m9o6r",
+                  "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                  "https://x.com/cczij1112",
+                  "https://weibo.com/u/7720929036",
+                  "https://www.tiktok.com/@elimakesapps",
+                  "https://www.instagram.com/eliaifde/",
+                  "https://www.facebook.com/profile.php?id=61594512757125"
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#website",
+                "@type": "WebSite",
+                "inLanguage": [
+                  "zh-CN",
+                  "en"
+                ],
+                "name": "Eli",
+                "publisher": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#consultation",
+                "@type": "Service",
+                "description": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。",
+                "name": "企业 AI 应用咨询",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#contact"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-inventory",
+                "@type": "Service",
+                "description": "录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。",
+                "name": "录入和库存靠人核对",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "库存与录入流程自动化",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-knowledge",
+                "@type": "Service",
+                "description": "产品资料太散、员工或客户反复问同样的问题？可以先整理资料，再试用 AI 辅助查找和答疑。",
+                "name": "资料难找、问题反复问",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "企业知识库与 AI 辅助答疑",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-content",
+                "@type": "Service",
+                "description": "产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。",
+                "name": "产品内容总要重做",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "AI 辅助产品内容整理",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#page",
+                "@type": "WebPage",
+                "about": [
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#consultation"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-inventory"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-knowledge"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/#service-content"
+                  }
+                ],
+                "author": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "description": "企业想用 AI 降本增效，从哪里开始？Eli 提供免费初次咨询，从 WorkBuddy 等现成工具、资料查找与答疑、重复录入、库存核对和产品内容整理入手，先试一个小场景，再判断是否值得继续投入。",
+                "inLanguage": "zh-CN",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#website"
+                },
+                "name": "企业 AI 应用咨询与业务自动化 - Eli",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              }
+            ]
+          }
+        ],
+        "heading": "帮你的公司用好 AI\n从重复工作开始",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "企业 AI 应用咨询与业务自动化 - Eli",
+        "url": "http://127.0.0.1:4178/index.html?pv=52b6291edac4f1ebddad",
+        "width": 320
+      }
+    },
+    {
+      "check": "Chinese320 About/contact",
+      "observation": {
+        "canonical": "http://[REDACTED_HOST]/sites/portfolio/about.html",
+        "description": "了解 Eli 如何帮助企业用好 AI：先免费讨论一项重复工作，再选择现成工具或小范围定制。初次咨询免费，工具订阅、开发、培训和维护的范围与费用另行确认；可通过邮箱、电话或微信联系。",
+        "graph": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli",
+                "@type": "Person",
+                "description": "想用 AI 降本增效，却不知道从哪开始？我帮你梳理公司流程，从现成工具或一个小改动入手，改善重复工作。先试用，再判断效果。",
+                "email": "[REDACTED_EMAIL]",
+                "name": "Eli",
+                "sameAs": [
+                  "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                  "https://space.bilibili.com/432834855",
+                  "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                  "https://www.youtube.com/@EliChao-m9o6r",
+                  "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                  "https://x.com/cczij1112",
+                  "https://weibo.com/u/7720929036",
+                  "https://www.tiktok.com/@elimakesapps",
+                  "https://www.instagram.com/eliaifde/",
+                  "https://www.facebook.com/profile.php?id=61594512757125"
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#website",
+                "@type": "WebSite",
+                "inLanguage": [
+                  "zh-CN",
+                  "en"
+                ],
+                "name": "Eli",
+                "publisher": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/about.html#questions",
+                "@type": "FAQPage",
+                "inLanguage": "zh-CN",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/about.html#page"
+                },
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "可以先免费聊聊公司最费时间的一件事。 员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。"
+                    },
+                    "name": "想用 AI，但不知道从哪开始？"
+                  },
+                  {
+                    "@type": "Question",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "先梳理流程，再选一个小场景。 初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。"
+                    },
+                    "name": "会怎么推进，费用怎么定？"
+                  },
+                  {
+                    "@type": "Question",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "用好一个工具，改善一个步骤，也可以开始。 可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。"
+                    },
+                    "name": "一定要开发一套系统吗？"
+                  }
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#questions"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/about.html#page",
+                "@type": "AboutPage",
+                "author": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "description": "了解 Eli 如何帮助企业用好 AI：先免费讨论一项重复工作，再选择现成工具或小范围定制。初次咨询免费，工具订阅、开发、培训和维护的范围与费用另行确认；可通过邮箱、电话或微信联系。",
+                "hasPart": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/about.html#questions"
+                },
+                "inLanguage": "zh-CN",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#website"
+                },
+                "mainEntity": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "name": "AI 应用怎么合作：免费咨询、工作方法与联系 - Eli",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+              }
+            ]
+          }
+        ],
+        "heading": "关于我",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "AI 应用怎么合作：免费咨询、工作方法与联系 - Eli",
+        "url": "http://127.0.0.1:4178/about.html?pv=52b6291edac4f1ebddad#contact",
+        "width": 320
+      }
+    },
+    {
+      "check": "English320 About",
+      "observation": {
+        "canonical": "http://[REDACTED_HOST]/sites/portfolio/en/about.html",
+        "description": "Discuss one repetitive business task with Eli in a free initial consultation. Review tools or custom work, agree implementation costs, and get in touch.",
+        "graph": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli",
+                "@type": "Person",
+                "description": "Want to use AI, but unsure where to start? I help review your workflows and improve repetitive tasks with an existing tool or a small change. Try it first, then assess the results.",
+                "email": "[REDACTED_EMAIL]",
+                "name": "Eli",
+                "sameAs": [
+                  "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                  "https://space.bilibili.com/432834855",
+                  "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                  "https://www.youtube.com/@EliChao-m9o6r",
+                  "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                  "https://x.com/cczij1112",
+                  "https://weibo.com/u/7720929036",
+                  "https://www.tiktok.com/@elimakesapps",
+                  "https://www.instagram.com/eliaifde/",
+                  "https://www.facebook.com/profile.php?id=61594512757125"
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#website",
+                "@type": "WebSite",
+                "inLanguage": [
+                  "zh-CN",
+                  "en"
+                ],
+                "name": "Eli",
+                "publisher": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#questions",
+                "@type": "FAQPage",
+                "inLanguage": "en",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#page"
+                },
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Start with a free conversation about one time-consuming task. What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan."
+                    },
+                    "name": "Want AI, but unsure where to start?"
+                  },
+                  {
+                    "@type": "Question",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Review the workflow, then choose one small use case. The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance."
+                    },
+                    "name": "How do we proceed and estimate cost?"
+                  },
+                  {
+                    "@type": "Question",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "One useful tool or one better step can be a starting point. We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding."
+                    },
+                    "name": "Do we need to build a whole system?"
+                  }
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#questions"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#page",
+                "@type": "AboutPage",
+                "author": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "description": "Discuss one repetitive business task with Eli in a free initial consultation. Review tools or custom work, agree implementation costs, and get in touch.",
+                "hasPart": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#questions"
+                },
+                "inLanguage": "en",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#website"
+                },
+                "mainEntity": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "name": "Work with Eli | Free AI Consultation & Contact",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html"
+              }
+            ]
+          }
+        ],
+        "heading": "About me",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "Work with Eli | Free AI Consultation & Contact",
+        "url": "http://127.0.0.1:4178/en/about.html?pv=52b6291edac4f1ebddad#contact",
+        "width": 320
+      }
+    },
+    {
+      "check": "English320 home",
+      "observation": {
+        "canonical": "http://[REDACTED_HOST]/sites/portfolio/en/",
+        "description": "Free initial AI consultation with Eli. Start with existing tools or one workflow in knowledge support, inventory or content, then assess the results.",
+        "graph": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli",
+                "@type": "Person",
+                "description": "Want to use AI, but unsure where to start? I help review your workflows and improve repetitive tasks with an existing tool or a small change. Try it first, then assess the results.",
+                "email": "[REDACTED_EMAIL]",
+                "name": "Eli",
+                "sameAs": [
+                  "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+                  "https://space.bilibili.com/432834855",
+                  "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+                  "https://www.youtube.com/@EliChao-m9o6r",
+                  "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+                  "https://x.com/cczij1112",
+                  "https://weibo.com/u/7720929036",
+                  "https://www.tiktok.com/@elimakesapps",
+                  "https://www.instagram.com/eliaifde/",
+                  "https://www.facebook.com/profile.php?id=61594512757125"
+                ],
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/#website",
+                "@type": "WebSite",
+                "inLanguage": [
+                  "zh-CN",
+                  "en"
+                ],
+                "name": "Eli",
+                "publisher": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#consultation",
+                "@type": "Service",
+                "description": "The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance.",
+                "name": "Business AI consultation",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#contact"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#service-inventory",
+                "@type": "Service",
+                "description": "Review entry and stock-checking steps to see where software can reduce repeated handling.",
+                "name": "Repeated entry and stock checks",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "Inventory and data-entry workflow automation",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#service-knowledge",
+                "@type": "Service",
+                "description": "Review scattered product documents and recurring questions, then try AI-assisted lookup and support.",
+                "name": "Information lookup and repeated questions",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "Business knowledge retrieval and AI-assisted support",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#service-content",
+                "@type": "Service",
+                "description": "Review how product information becomes copy and images, with people reviewing the output.",
+                "name": "Product content takes time",
+                "provider": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "serviceType": "AI-assisted product content preparation",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/#needs"
+              },
+              {
+                "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#page",
+                "@type": "WebPage",
+                "about": [
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#consultation"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#service-inventory"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#service-knowledge"
+                  },
+                  {
+                    "@id": "http://[REDACTED_HOST]/sites/portfolio/en/#service-content"
+                  }
+                ],
+                "author": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#eli"
+                },
+                "description": "Free initial AI consultation with Eli. Start with existing tools or one workflow in knowledge support, inventory or content, then assess the results.",
+                "inLanguage": "en",
+                "isPartOf": {
+                  "@id": "http://[REDACTED_HOST]/sites/portfolio/#website"
+                },
+                "name": "AI Consulting & Business Workflow Automation | Eli",
+                "url": "http://[REDACTED_HOST]/sites/portfolio/en/"
+              }
+            ]
+          }
+        ],
+        "heading": "Put AI to work\nin your company",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "AI Consulting & Business Workflow Automation | Eli",
+        "url": "http://127.0.0.1:4178/en/index.html?pv=52b6291edac4f1ebddad",
+        "width": 320
+      }
+    }
+  ],
+  "restored": "JavaScript enabled; desktop viewport restored",
+  "limits": [
+    "IAB desktop/simulated320, not physical phones or all browser engines",
+    "No actual indexing, search impressions, AI citations or lead attribution measured"
+  ]
+}

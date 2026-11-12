@@ -1,0 +1,54 @@
+{
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "revision": "38b247d439e2511cbca9",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "published": false,
+  "indexing_enabled": false,
+  "checks": {
+    "build_84_pages": "PASS",
+    "static": "PASS",
+    "localization": "PASS",
+    "SEO": "PASS",
+    "existing_first_pointer_return_related_search_regressions": "PASS",
+    "desktop_disclosure_keyboard_contact": "PASS",
+    "zh_en_320_390_layout": "PASS",
+    "english_case_image_and_back": "PASS",
+    "zh_consultation_scroll": "PASS",
+    "reduced_motion_readability": "PASS"
+  },
+  "limits": [
+    "Physical device and touch gestures not verified",
+    "Real scan/call/message not performed",
+    "English consultation scroll arrival not accepted from the early reload sample"
+  ],
+  "default_text_non_whitespace": {
+    "live": 641,
+    "local_desktop": 377
+  },
+  "protected_source_hashes": {
+    "motion.css": true,
+    "motion.js": true,
+    "app.js": true,
+    "assets/depth-gallery.js": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "content/seo.json": true,
+    "content/projects.json": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/case-examples.json": true,
+    "templates/home.html": true,
+    "styles.css": true
+  },
+  "changed_source_files": [
+    "templates/about.html",
+    "scripts/pages.py",
+    "scripts/localization.py",
+    "assets/editorial.css",
+    "assets/editorial.js"
+  ],
+  "evidence_root": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/about-components-20261014",
+  "routing_version": "ROUTING-2026-10-13-v4",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

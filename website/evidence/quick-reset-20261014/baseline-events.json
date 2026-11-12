@@ -1,0 +1,469 @@
+{
+  "baseline_revision": "70493fc6b47db38a0a92",
+  "fresh_trials": [
+    {
+      "trial": 0,
+      "active": "search",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "trial": 1,
+      "active": "search",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "trial": 2,
+      "active": "search",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "trial": 3,
+      "active": "search",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    }
+  ],
+  "trace_revision": "682188400781bcbd913a",
+  "original_intermittent_failure_reproduced": false,
+  "events": [
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerdown\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.137Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerdown\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.139Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mousedown\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.139Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mousedown\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.140Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.140Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.140Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerup\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.145Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerup\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.145Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mouseup\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.145Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mouseup\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.145Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"click\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.145Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"click\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.145Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"capture\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"9 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.168Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"\",\"count\":\"9 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.168Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"after\",\"target\":\"客户参与\",\"q\":\"\",\"count\":\"9 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.168Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"\",\"count\":\"9 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.168Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"9 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.170Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.179Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerdown\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.216Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerdown\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.216Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mousedown\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mousedown\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerup\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerup\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mouseup\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mouseup\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"click\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"click\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:04.217Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.228Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.229Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.229Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:04.229Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:20.554Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:20.554Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全\",\"count\":\"3 项记录\",\"active\":\"search\",\"query\":\"完\"}",
+      "timestamp": "2026-10-14T02:22:20.576Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全\",\"count\":\"3 项记录\",\"active\":\"search\",\"query\":\"完\"}",
+      "timestamp": "2026-10-14T02:22:20.576Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全\"}",
+      "timestamp": "2026-10-14T02:22:20.605Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全\"}",
+      "timestamp": "2026-10-14T02:22:20.605Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无\"}",
+      "timestamp": "2026-10-14T02:22:20.620Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无\"}",
+      "timestamp": "2026-10-14T02:22:20.621Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹\"}",
+      "timestamp": "2026-10-14T02:22:20.635Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹\"}",
+      "timestamp": "2026-10-14T02:22:20.635Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配X\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配\"}",
+      "timestamp": "2026-10-14T02:22:20.650Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配X\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配\"}",
+      "timestamp": "2026-10-14T02:22:20.650Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配XY\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配X\"}",
+      "timestamp": "2026-10-14T02:22:20.667Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配XY\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配X\"}",
+      "timestamp": "2026-10-14T02:22:20.667Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XY\"}",
+      "timestamp": "2026-10-14T02:22:20.685Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"input\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XY\"}",
+      "timestamp": "2026-10-14T02:22:20.685Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerdown\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerdown\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mousedown\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mousedown\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"search\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"change\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"change\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.766Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerup\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.771Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"pointerup\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.771Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mouseup\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.771Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"mouseup\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.771Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"click\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.771Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"click\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"完全无匹配XYZ\",\"count\":\"0 项记录\",\"active\":\"\",\"query\":\"完全无匹配XYZ\"}",
+      "timestamp": "2026-10-14T02:22:29.771Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"capture\",\"target\":\"reset-search text-link\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:29.783Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"capture\",\"target\":\"search\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:29.783Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"blur\",\"stage\":\"after\",\"target\":\"reset-search text-link\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:29.784Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    },
+    {
+      "level": "debug",
+      "message": "RESET_PROBE {\"type\":\"focus\",\"stage\":\"after\",\"target\":\"search\",\"q\":\"\",\"count\":\"38 项记录\",\"active\":\"search\",\"query\":null}",
+      "timestamp": "2026-10-14T02:22:29.784Z",
+      "url": "http://127.0.0.1:4178/app.js?v=9259545bdca1"
+    }
+  ]
+}

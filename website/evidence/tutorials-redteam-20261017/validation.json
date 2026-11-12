@@ -1,0 +1,1253 @@
+{
+  "status": "PASS",
+  "topics": 102,
+  "localized_detail_pages": 204,
+  "original_topics_retained": true,
+  "bilingual_practice_topics": 100,
+  "skill_file_samples_valid": true,
+  "arithmetic_examples": "PASS",
+  "visual_css_and_motion_unchanged": true,
+  "protected_files": {
+    "styles.css": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+    "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7",
+    "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+    "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "assets/stacked-gallery.css": "9c476e02cb4eeda0e4714905324c6b9534e8fd3d92cd86a24d5c7a19e700654a",
+    "assets/depth-gallery.js": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609",
+    "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+    "assets/home-ambient.css": "3087e27bb0b8ef5652bc44737516d7c38aea64cafc72f5dae84baef2c60f5247",
+    "assets/editorial.js": "e78c26d12a9f0063f96062644863806648726595b38a6df251d199f663be30bc",
+    "assets/articles.css": "73835f89336d9fbac27fc2c4b93e9625ecb6c57b08b169e5f808a5f168c66a72"
+  },
+  "language_checks": [
+    {
+      "slug": "inventory-reconciliation",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "enterprise-knowledge-base",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-ai",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-chat-vs-search",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "first-ai-task",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "choose-ai-tool",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-hallucination",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-privacy-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-file-reading",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-generated-images",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-jargon-map",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-learning-plan",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-llm",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "how-llm-generates",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-token",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "context-window",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "training-vs-inference",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "neural-network-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "embeddings-explained",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "rag-explained",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "model-size-and-cost",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "prompt-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "provide-context",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "prompt-with-example",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "structured-ai-output",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "break-down-task",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ask-clarifying-questions",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "rewrite-with-ai",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-compare-options",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "fix-bad-ai-answer",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "save-prompt-template",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-agent",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-first-task",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-tools-permissions",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-plan-and-act",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-workflow-difference",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-feedback-loop",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-memory",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-stop-rules",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "multi-agent-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-risk-checklist",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-skill",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-file-structure",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-vs-prompt",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-install-safely",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "create-first-skill",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-mcp",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "mcp-vs-api",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "mcp-read-only",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-not-working",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "prompt-injection-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-harness",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-coding-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "read-ai-code-plan",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "terminal-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-local-preview",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "acceptance-tests",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-debugging",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-checkpoints",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "dependency-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "coding-without-secrets",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-github",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "repository-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "readme-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "download-release-or-source",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "commit-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "branch-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "pull-request-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "issue-basics",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "open-source-license",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "github-public-private",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-workbuddy",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-first-task",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-file-organizing",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-meeting-notes",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-spreadsheet",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-write-document",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-skills",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-connectors",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-permissions",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-task-failed",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-email-draft",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-meeting-actions",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-inventory-exceptions",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-product-copy",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-translation-review",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-weekly-report",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-ocr-check",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-sop-writing",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "owner-ai-first-step",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-task-selection",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-pilot-design",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-cost-breakdown",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "measure-ai-benefit",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "choose-ai-provider",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-fde-business",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-employee-training",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-maintenance-owner",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-consultation-prepare",
+      "language": "zh-CN",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "inventory-reconciliation",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "enterprise-knowledge-base",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-ai",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-chat-vs-search",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "first-ai-task",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "choose-ai-tool",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-hallucination",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-privacy-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-file-reading",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-generated-images",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-jargon-map",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-learning-plan",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-llm",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "how-llm-generates",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-token",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "context-window",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "training-vs-inference",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "neural-network-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "embeddings-explained",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "rag-explained",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "model-size-and-cost",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "prompt-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "provide-context",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "prompt-with-example",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "structured-ai-output",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "break-down-task",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ask-clarifying-questions",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "rewrite-with-ai",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-compare-options",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "fix-bad-ai-answer",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "save-prompt-template",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-agent",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-first-task",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-tools-permissions",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-plan-and-act",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-workflow-difference",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-feedback-loop",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-memory",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-stop-rules",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "multi-agent-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "agent-risk-checklist",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-skill",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-file-structure",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-vs-prompt",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-install-safely",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "create-first-skill",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-mcp",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "mcp-vs-api",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "mcp-read-only",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "skill-not-working",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "prompt-injection-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-harness",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-coding-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "read-ai-code-plan",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "terminal-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-local-preview",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "acceptance-tests",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-debugging",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-checkpoints",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "dependency-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "coding-without-secrets",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-github",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "repository-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "readme-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "download-release-or-source",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "commit-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "branch-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "pull-request-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "issue-basics",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "open-source-license",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "github-public-private",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-workbuddy",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-first-task",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-file-organizing",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-meeting-notes",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-spreadsheet",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-write-document",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-skills",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-connectors",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-permissions",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "workbuddy-task-failed",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-email-draft",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-meeting-actions",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-inventory-exceptions",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-product-copy",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-translation-review",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-weekly-report",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-ocr-check",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-sop-writing",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "owner-ai-first-step",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-task-selection",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-pilot-design",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-cost-breakdown",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "measure-ai-benefit",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "choose-ai-provider",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "what-is-fde-business",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-employee-training",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-maintenance-owner",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    },
+    {
+      "slug": "ai-consultation-prepare",
+      "language": "en",
+      "language_pair": "PASS",
+      "draft": "PASS"
+    }
+  ],
+  "limitations": [
+    "No real beginner participant test",
+    "Responsive browser emulation, not physical phones",
+    "Official documentation review, not hands-on use of all external tools"
+  ]
+}

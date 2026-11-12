@@ -1,0 +1,6 @@
+{
+  "result": {
+    "type": "string",
+    "value": "{\"events\":[{\"kind\":\"DOMContentLoaded\",\"t\":107.2999999821186,\"target\":\"#document\",\"ready\":\"interactive\"},{\"kind\":\"pageshow\",\"t\":113.59999999403954,\"target\":\"#document\",\"ready\":\"complete\"},{\"kind\":\"pointerdown\",\"t\":170.40000000596046,\"target\":\"DIV\",\"ready\":\"complete\",\"x\":933,\"y\":355},{\"kind\":\"pointerup\",\"t\":171.59999999403954,\"target\":\"<a class=\\\"detail-image-trigger\\\" href=\\\"../assets/public-cases/p10.png\\\" data-image-view=\\\"\\\" data-image-title=\\\"洁具行业某大型 B 端厂商库存管理系统\\\" data-image-note=\\\"\\\" aria-haspopup=\\\"dialog\\\" aria-label=\\\"放大截图：洁具行业某大型 B 端厂商库存管理系统\\\"><img src=\\\"../assets/public-cases/p10.png\\\" alt=\\\"洁具行业某大型 B 端厂商库存管理系统脱敏界面展示\\\" loading=\\\"lazy\\\" dec\",\"ready\":\"complete\",\"x\":933,\"y\":355},{\"kind\":\"click\",\"t\":171.69999998807907,\"target\":\"DIV\",\"ready\":\"complete\",\"x\":933,\"y\":355}],\"open\":false,\"imageStyle\":\"\",\"url\":\"http://127.0.0.1:4179/cases/p10.html?pv=c2eb30e0505c4396515b\"}"
+  }
+}

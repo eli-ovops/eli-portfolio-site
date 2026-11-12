@@ -1,0 +1,97 @@
+{
+  "checked_at": "2026-10-21T01:51:35.360820+00:00",
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "candidate_revision": "cc132dc0e7da5cecf41d",
+  "package_ready": true,
+  "package_sha256": "091ecef4c9e4f53af503ad9d5a7a902f5419986b25476149e41599af2f7a70b0",
+  "public_files": 369,
+  "changed_non_html_files": [
+    "sitemap.xml",
+    "assets/page-version.js"
+  ],
+  "production_switches": 1,
+  "search_submissions": 0,
+  "security_changes": 0,
+  "ssh_attempts": 1,
+  "remote_validation": {
+    "observed_at": "2026-10-21T01:23:13.932365+00:00",
+    "source": "Authenticated native JDCloud WebTerminal screenshot",
+    "status": "VALIDATED_NOT_SWITCHED",
+    "revision": "cc132dc0e7da5cecf41d",
+    "files": 369,
+    "manifest_digest": "b826b5f70249c14d429dfe848d75523c8cb50f187f0b49bd24d01b616c220525",
+    "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+    "target": "/srv/eli-sites/portfolio/domain-releases/20261021-stable-urls-cc132dc0",
+    "configs_services_ip_preview": "UNCHANGED",
+    "evidence": "validate-webterminal.png",
+    "private_server_receipts": "/srv/eli-sites/portfolio/backups/20261021-stable-urls-cc132dc0",
+    "publication_switches": 0,
+    "input_blocker": "RESOLVED: Reconnected WebTerminal, owner logged in, echo 246 visibly executed, reviewed publish command returned PUBLISHED receipt."
+  },
+  "public_before_switch": {
+    "status": 200,
+    "sha256": "888743abcf5b664764b3a4af132f0e2b6e5951404ba784114576c79d607d4c92",
+    "revision": "4bc544a5361e14236d53",
+    "new_service_link_present": false,
+    "checked_at": "2026-10-21T01:23:14.204500+00:00"
+  },
+  "remote_staging_created": true,
+  "carrier": "Owner-authenticated WebTerminal; original deployment key expired and unchanged",
+  "public_latest": {
+    "checked_at": "2026-10-21T01:37:12.547232+00:00",
+    "status": 200,
+    "sha256": "888743abcf5b664764b3a4af132f0e2b6e5951404ba784114576c79d607d4c92",
+    "candidate_present": false,
+    "old_revision_present": true,
+    "new_service_link_present": false
+  },
+  "production_revision": "cc132dc0e7da5cecf41d",
+  "server_publication": {
+    "status": "PUBLISHED",
+    "revision": "cc132dc0e7da5cecf41d",
+    "current": "/srv/eli-sites/portfolio/domain-releases/20261021-stable-urls-cc132dc0",
+    "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+    "files_verified": 369,
+    "manifest_digest": "b826b5f70249c14d429dfe848d75523c8cb50f187f0b49bd24d01b616c220525",
+    "public_checks": 24,
+    "services": {
+      "erp-trial": "active",
+      "mysql": "active",
+      "nginx": "active",
+      "redis-server": "active"
+    },
+    "configs_and_ip_preview": "UNCHANGED",
+    "published_at": "2026-10-21T01:39:41.018527+00:00",
+    "source": "Native WebTerminal screenshot publish-webterminal.png; private server publish.json retained"
+  },
+  "browser_qa": {
+    "status": "PASS",
+    "browser_steps": 34,
+    "phone_pages": 6,
+    "sizes": [
+      "zh 360x800",
+      "en 390x844"
+    ],
+    "method": "browser viewport emulation, not physical devices",
+    "return_chains": [
+      "fresh-related-return",
+      "article-return-complete",
+      "home-return-project-retained",
+      "zh-case-consultation",
+      "case-en-consultation"
+    ],
+    "language_switch": "cases, services and contact paths passed",
+    "consultation": "Both language contact sections reached; no messages sent",
+    "cache_observation": "Old cached HTML briefly showed old pv URLs. Latest-resource checks passed. Temporary QA cache bypass and viewport override reset; no server cache changes.",
+    "traffic": "owner QA only; not organic traffic or customer enquiries"
+  },
+  "independent_public_hash_checks": 24,
+  "rollback_target": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+  "ssh_initial_failure": {
+    "attempts": 1,
+    "error": "Permission denied (publickey,password)",
+    "diagnosis": "Authorized deployment key expiry verified in server configuration; no matching expiry event was found in inspected logs; other historical disconnect causes remain UNKNOWN",
+    "resolution": "Owner-authenticated WebTerminal reconnected; owner logged in again. Expired original SSH key unchanged."
+  },
+  "archive_uploads": 0
+}

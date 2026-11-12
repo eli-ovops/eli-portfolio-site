@@ -1,0 +1,203 @@
+{
+  "local_system_lookup": "198.18.0.x fake-IP, not treated as public DNS evidence",
+  "queries": [
+    {
+      "provider": "Google",
+      "name": "www.eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answer": [
+        {
+          "name": "www.eliai.cn.",
+          "type": 1,
+          "TTL": 600,
+          "data": "[REDACTED_HOST]"
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "Google",
+      "name": "www.eliai.cn",
+      "type": "AAAA",
+      "status": 0,
+      "answer": [],
+      "authority": [
+        {
+          "name": "eliai.cn.",
+          "type": 6,
+          "TTL": 180,
+          "data": "ns11.xincache.com. ns12.xincache.com. 1791356266 3600 180 1209600 180"
+        }
+      ]
+    },
+    {
+      "provider": "Google",
+      "name": "eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answer": [
+        {
+          "name": "eliai.cn.",
+          "type": 1,
+          "TTL": 600,
+          "data": "[REDACTED_HOST]"
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "Google",
+      "name": "eliai.cn",
+      "type": "NS",
+      "status": 0,
+      "answer": [
+        {
+          "name": "eliai.cn.",
+          "type": 2,
+          "TTL": 21600,
+          "data": "ns12.xincache.com."
+        },
+        {
+          "name": "eliai.cn.",
+          "type": 2,
+          "TTL": 21600,
+          "data": "ns11.xincache.com."
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "AliDNS",
+      "name": "www.eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answer": [
+        {
+          "name": "www.eliai.cn.",
+          "TTL": 600,
+          "type": 1,
+          "data": "[REDACTED_HOST]"
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "AliDNS",
+      "name": "www.eliai.cn",
+      "type": "AAAA",
+      "status": 0,
+      "answer": [],
+      "authority": [
+        {
+          "name": "eliai.cn.",
+          "TTL": 180,
+          "type": 6,
+          "data": "ns11.xincache.com. ns12.xincache.com. 1791356266 3600 180 1209600 180"
+        }
+      ]
+    },
+    {
+      "provider": "AliDNS",
+      "name": "eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answer": [
+        {
+          "name": "eliai.cn.",
+          "TTL": 600,
+          "type": 1,
+          "data": "[REDACTED_HOST]"
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "AliDNS",
+      "name": "eliai.cn",
+      "type": "NS",
+      "status": 0,
+      "answer": [
+        {
+          "name": "eliai.cn.",
+          "TTL": 3600,
+          "type": 2,
+          "data": "ns12.xincache.com."
+        },
+        {
+          "name": "eliai.cn.",
+          "TTL": 3600,
+          "type": 2,
+          "data": "ns11.xincache.com."
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "Cloudflare",
+      "name": "www.eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answer": [
+        {
+          "name": "www.eliai.cn",
+          "type": 1,
+          "TTL": 600,
+          "data": "[REDACTED_HOST]"
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "Cloudflare",
+      "name": "www.eliai.cn",
+      "type": "AAAA",
+      "status": 0,
+      "answer": [],
+      "authority": [
+        {
+          "name": "eliai.cn",
+          "type": 6,
+          "TTL": 180,
+          "data": "ns11.xincache.com. ns12.xincache.com. 1791356266 3600 180 1209600 180"
+        }
+      ]
+    },
+    {
+      "provider": "Cloudflare",
+      "name": "eliai.cn",
+      "type": "A",
+      "status": 0,
+      "answer": [
+        {
+          "name": "eliai.cn",
+          "type": 1,
+          "TTL": 600,
+          "data": "[REDACTED_HOST]"
+        }
+      ],
+      "authority": []
+    },
+    {
+      "provider": "Cloudflare",
+      "name": "eliai.cn",
+      "type": "NS",
+      "status": 0,
+      "answer": [
+        {
+          "name": "eliai.cn",
+          "type": 2,
+          "TTL": 86400,
+          "data": "ns12.xincache.com."
+        },
+        {
+          "name": "eliai.cn",
+          "type": 2,
+          "TTL": 86400,
+          "data": "ns11.xincache.com."
+        }
+      ],
+      "authority": []
+    }
+  ]
+}

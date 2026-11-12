@@ -1,0 +1,179 @@
+{
+  "status": "LOCAL_ACCEPTED_FOCUS_STABILITY_REPAIR",
+  "date": "2026-10-14",
+  "revision": "147597147401d66f13ca",
+  "owner": "current website execution chat",
+  "modified_source": [
+    "app.js"
+  ],
+  "test_added": "scripts/check_search_reset.cjs",
+  "protected_files_byte_identical": {
+    "styles.css": true,
+    "assets/editorial.js": true,
+    "assets/editorial.css": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "assets/depth-gallery.js": true,
+    "motion.js": true,
+    "motion.css": true
+  },
+  "build": "PASS: 84 HTML pages / 38 records",
+  "tests": "PASS",
+  "browser": [
+    {
+      "name": "real-mouse-press-release",
+      "held": {
+        "active": "search",
+        "count": "0 项记录",
+        "q": "完全无匹配XYZ"
+      },
+      "released": {
+        "active": "search",
+        "category": "全部",
+        "count": "38 项记录",
+        "q": "",
+        "url": "http://127.0.0.1:4178/records.html?pv=147597147401d66f13ca"
+      }
+    },
+    {
+      "name": "mouse-drag-cancels-reset",
+      "count": "0 项记录",
+      "q": "完全无匹配XYZ"
+    },
+    {
+      "name": "keyboard-reset",
+      "count": "38 项记录",
+      "focus": "search",
+      "q": ""
+    },
+    {
+      "name": "8-rapid-filter-type-mouse-reset",
+      "trials": [
+        {
+          "trial": 0,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 1,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 2,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 3,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 4,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 5,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 6,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "trial": 7,
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        }
+      ]
+    },
+    {
+      "name": "after-reset-related-explicit-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "name": "after-reset-native-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "name": "native-return-then-immediate-mouse-reset",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "name": "English-390-reduce-mouse-reset",
+      "trials": [
+        {
+          "category": "All",
+          "count": "38 projects",
+          "focus": "search",
+          "q": "",
+          "width": 390
+        },
+        {
+          "category": "All",
+          "count": "38 projects",
+          "focus": "search",
+          "q": "",
+          "width": 390
+        },
+        {
+          "category": "All",
+          "count": "38 projects",
+          "focus": "search",
+          "q": "",
+          "width": 390
+        }
+      ]
+    },
+    {
+      "name": "English-390-reduce-return",
+      "category": "Client work",
+      "count": "2 projects",
+      "q": "inventory",
+      "width": 390
+    },
+    {
+      "name": "English-keyboard-reset",
+      "count": "38 projects",
+      "focus": "search",
+      "q": ""
+    }
+  ],
+  "root_cause_boundary": "Earlier intermittent query recommit not reproduced this turn. Actual baseline event trace proves blur/refocus cycle; repair eliminates this cycle. No claim that all browser/IME/native-host causes are proved.",
+  "probe_removed_from_delivery": true,
+  "publication": false,
+  "indexing": "DISABLED",
+  "created_artifacts": [
+    "/Users/USER/Documents/原点向量/个人网站/website/evidence/quick-reset-20261014",
+    "/Users/USER/Documents/原点向量/个人网站/website/scripts/check_search_reset.cjs"
+  ],
+  "cleanup": "No deletion; scoped source backup, probe and receipts retained as evidence."
+}

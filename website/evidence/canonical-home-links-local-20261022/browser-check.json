@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-22T11:12:31.700Z",
+  "observations": [
+    {
+      "test": "home language switch preserves work anchor",
+      "url": "http://127.0.0.1:4178/en/#work"
+    },
+    {
+      "test": "selected project kept switching to EN",
+      "url": "http://127.0.0.1:4178/en/?project=p36#work"
+    },
+    {
+      "test": "English case origin",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html?from=%2Fen%2F%3Fproject%3Dp36%23work",
+      "back": "http://127.0.0.1:4178/en/?project=p36#work"
+    },
+    {
+      "test": "English case return canonical home",
+      "url": "http://127.0.0.1:4178/en/?project=p36#work"
+    },
+    {
+      "test": "Return context switches back to ZH",
+      "url": "http://127.0.0.1:4178/?project=p36#work"
+    },
+    {
+      "test": "Chinese case canonical return",
+      "url": "http://127.0.0.1:4178/cases/p36.html?from=%2F%3Fproject%3Dp36%23work",
+      "back": "http://127.0.0.1:4178/?project=p36#work"
+    },
+    {
+      "test": "Chinese case returned to selected project",
+      "url": "http://127.0.0.1:4178/?project=p36#work"
+    },
+    {
+      "test": "Chinese consultation entry",
+      "url": "http://127.0.0.1:4178/about.html#contact"
+    },
+    {
+      "test": "legacy English index address canonicalized with query/hash",
+      "url": "http://127.0.0.1:4178/en/?project=p36&return=p10#work"
+    },
+    {
+      "test": "English consultation entry",
+      "url": "http://127.0.0.1:4178/en/about.html#contact"
+    }
+  ],
+  "traffic": "LOCAL_QA_NOT_ORGANIC"
+}

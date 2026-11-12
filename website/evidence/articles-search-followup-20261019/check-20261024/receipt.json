@@ -1,0 +1,252 @@
+{
+  "checked_at": "2026-10-24T02:16:05.821910+00:00",
+  "checked_date": "2026-10-24",
+  "current_production_revision_baseline": "ee333e5fb82b7096a06c",
+  "live_website_version_rechecked": false,
+  "scope": {
+    "article_topics": 102,
+    "bilingual_article_details": 204,
+    "article_directories": 2,
+    "chinese_service_pages": 3
+  },
+  "google": {
+    "index_report_last_updated": "2026-10-16",
+    "whole_site_indexed_urls": 77,
+    "canonical_alternates": 139,
+    "crawled_not_indexed": 223,
+    "403_count": 1,
+    "403_example": "https://www.eliai.cn/cases/",
+    "403_last_crawl": "2026-10-15",
+    "403_first_detected_label": "2026-10-17",
+    "403_postfix_recrawl_or_clearance": "NOT_CONFIRMED",
+    "article_index_total": "UNKNOWN",
+    "three_service_index_evidence": "historical 2026-10-22, not rechecked today",
+    "native_services": {
+      "selected_window": "7days",
+      "actual_chart_window": [
+        "2026-10-15",
+        "2026-10-21"
+      ],
+      "last_updated_label": "5小时前",
+      "impressions": 0,
+      "clicks": 0,
+      "position": "N/A - no impressions; UI0 is not a rank"
+    },
+    "native_ai_citation_report": "NOT_AVAILABLE_IN_OBSERVED_UI; AI customize report is not citation report"
+  },
+  "windsor": {
+    "account": "https://www.eliai.cn/",
+    "requested_window": [
+      "2026-10-17",
+      "2026-10-23"
+    ],
+    "final_actual_window": [
+      "2026-10-17",
+      "2026-10-21"
+    ],
+    "final_whole_site_impressions": 83,
+    "final_whole_site_clicks": 0,
+    "same_window_comparison": {
+      "window": [
+        "2026-10-17",
+        "2026-10-20"
+      ],
+      "today": 62,
+      "yesterday": 62,
+      "meaning": "same finalized window unchanged; newly covered21Oct is not a 7day trend"
+    },
+    "fresh_actual_window": [
+      "2026-10-17",
+      "2026-10-23"
+    ],
+    "fresh_article_paths": 43,
+    "fresh_article_raw_urls": 48,
+    "fresh_article_page_impressions": 107,
+    "fresh_article_clicks": 0,
+    "fresh_service_rows": [
+      {
+        "date": "2026-10-22",
+        "page": "https://www.eliai.cn/services/workflow-automation.html",
+        "impressions": 1,
+        "clicks": 0,
+        "position": 36,
+        "data_fetched_at": "2026-10-24T02:09:13"
+      },
+      {
+        "date": "2026-10-23",
+        "page": "https://www.eliai.cn/services/ai-agent.html",
+        "impressions": 3,
+        "clicks": 0,
+        "position": 4.3333,
+        "data_fetched_at": "2026-10-24T02:09:13"
+      },
+      {
+        "date": "2026-10-23",
+        "page": "https://www.eliai.cn/services/fde-consulting.html",
+        "impressions": 3,
+        "clicks": 0,
+        "position": 2.6667,
+        "data_fetched_at": "2026-10-24T02:09:13"
+      },
+      {
+        "date": "2026-10-23",
+        "page": "https://www.eliai.cn/services/workflow-automation.html",
+        "impressions": 3,
+        "clicks": 0,
+        "position": 5.3333,
+        "data_fetched_at": "2026-10-24T02:09:13"
+      }
+    ],
+    "fresh_disclosed_query_rows": 23,
+    "fresh_disclosed_query_impressions": 26,
+    "latest_disclosed_query_date": "2026-10-22",
+    "natural_attribution": "UNKNOWN",
+    "force_refresh_calls": 0,
+    "data_fetched_at_note": "per row retained; latest2026-10-24T02:09:13, older cache dates retained",
+    "known_cost_query": "same18Oct ai implementation cost1impression0click position91; not new or proven procurement"
+  },
+  "bing": {
+    "site_explorer_indexed_rows": 1,
+    "site_explorer_url": "https://eliai.cn",
+    "site_explorer_last_crawl_label": "15 Oct 2026",
+    "url_inspections": [
+      {
+        "url": "https://eliai.cn",
+        "status": "Indexed successfully / URL can appear on Bing",
+        "last_crawl_label": "22 Oct 2026 at20:29",
+        "index_allowed": true,
+        "fetch": "Successful",
+        "canonical": "--"
+      },
+      {
+        "url": "https://www.eliai.cn/",
+        "status": "Indexed successfully / URL can appear on Bing",
+        "last_crawl_label": "22 Oct 2026 at20:29",
+        "index_allowed": true,
+        "fetch": "Successful",
+        "canonical": "--"
+      },
+      {
+        "url": "https://www.eliai.cn/services/workflow-automation.html",
+        "status": "Discovered but not crawled / URL cannot appear on Bing",
+        "discovered": "16 Oct 2026",
+        "specific_cause": "UNKNOWN"
+      }
+    ],
+    "inspection_count": 3,
+    "timezone": "UNKNOWN - no conversion",
+    "scope_limit": "first confirmed homepage indexing; two homepage input variants not two independent content pages; does not prove all services/articles indexed",
+    "search": {
+      "window": [
+        "2026-10-17",
+        "2026-10-23"
+      ],
+      "impressions": 0,
+      "clicks": 0,
+      "scope": "whole site all search traffic"
+    },
+    "ai": {
+      "window": [
+        "2026-10-17",
+        "2026-10-23"
+      ],
+      "citations": 0,
+      "avg_cited_pages": 0,
+      "query_rows": 0,
+      "scope": "Microsoft Copilots and Partners; sampled"
+    },
+    "support": {
+      "ticket_id": "REQ00369079",
+      "reply_received_utc": "2026-10-22T13:25:30Z",
+      "first_read_by_this_task": "2026-10-24T02:16:05.821910+00:00",
+      "official_assessment": "Not technical; systems evaluate new site; some pages lack sufficient ranking signals; next couple of weeks estimate conditional on guidelines, ticket closing",
+      "evidence": "../../search-onboarding-gap-check-20261022/bing-support-reply-20261024.json",
+      "independent_root_cause_validation": false,
+      "new_submissions_or_replies": 0
+    }
+  },
+  "baidu": {
+    "index_total": "UNKNOWN - calculating",
+    "pc_recent7days": {
+      "impressions": 0,
+      "clicks": 0,
+      "query_rows": 0,
+      "exact_chart_dates": "not verified; native recent7days selected"
+    },
+    "mobile": "UNKNOWN - no verifiable numeric metrics",
+    "ai": {
+      "selected": "recent7days",
+      "chart_dates": [
+        "2026-10-17",
+        "2026-10-23"
+      ],
+      "citations": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "query_rows": 0,
+      "scope": "traditional search scene only"
+    },
+    "subject_association": "未关联",
+    "subject_icp_field": "未填写",
+    "approval_or_rejection": "UNKNOWN - all messages empty",
+    "original_feedback": {
+      "submitted_label": "2026-10-23 13:36:40",
+      "current_native_status": "未处理"
+    },
+    "new_feedback_or_identity_submissions": 0
+  },
+  "sogou": {
+    "login": "VALID",
+    "selected_site": "www.eliai.cn",
+    "native_index_status": "查询站点暂时没有收录和索引数据",
+    "index_total": "UNKNOWN"
+  },
+  "toutiao": {
+    "selected_site": "www.eliai.cn",
+    "native_index_status": "您的网站暂时未被收录",
+    "new_submissions": 0
+  },
+  "yandex": {
+    "site": "https://www.eliai.cn",
+    "pages_in_search": "reports and exports unavailable, possible data delay; totalUNKNOWN; no changes is not0",
+    "sitemap": "read-only, Add disabled; not a site technical failure"
+  },
+  "so360": {
+    "site": "www.eliai.cn",
+    "management": "未检测到备案; 请验证disabled",
+    "index_total": "UNKNOWN - no verified site report",
+    "original_independent_feedback": "Oct23 accepted, no new verifiable reply in focused email search; full reply absenceUNKNOWN",
+    "new_submissions": 0
+  },
+  "attribution": {
+    "confirmed_new_natural_target_service_progress": false,
+    "confirmed_new_natural_clicks": false,
+    "confirmed_new_unbranded_model_citations": false,
+    "unknown": "Fresh article and service page impressions cannot exclude own tests; disclosed query does not identify visitor",
+    "own_tests": "historical deployment QA and directed model reading kept separate; today only backend reads, no public search/model query",
+    "pv_rule": "presence or absence does not identify natural users"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deployments": 0,
+    "server_changes": 0,
+    "sitemap_submissions": 0,
+    "url_submissions": 0,
+    "index_requests": 0,
+    "live_fetch_tests": 0,
+    "validate_fix_clicks": 0,
+    "new_feedback": 0,
+    "emails_sent": 0,
+    "google_url_checks": 0,
+    "bing_url_checks": 3,
+    "baidu_url_checks": 0,
+    "active_model_queries": 0
+  },
+  "decision": "NOTIFY_FIRST_CONFIRMED_BING_HOMEPAGE_INDEX_AND_OFFICIAL_FINDINGS",
+  "notify_fingerprints": [
+    "bing-home-index-confirmed-20261024",
+    "bing-support-REQ00369079-reply-1a163c9d4f169874"
+  ],
+  "requires_user_action": false
+}

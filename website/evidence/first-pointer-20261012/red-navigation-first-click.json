@@ -1,0 +1,6 @@
+{
+  "result": {
+    "type": "string",
+    "value": "{\"events\":[{\"kind\":\"DOMContentLoaded\",\"t\":82.40000000596046,\"target\":\"#document\",\"selected\":\"全部\",\"ready\":\"interactive\"},{\"kind\":\"pageshow\",\"t\":87.5,\"target\":\"#document\",\"selected\":\"全部\",\"ready\":\"complete\"}],\"selected\":\"全部\",\"route\":\"local\",\"transition\":\"auto\",\"url\":\"http://127.0.0.1:4179/records.html?pv=c2eb30e0505c4396515b\"}"
+  }
+}

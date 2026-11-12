@@ -1,0 +1,85 @@
+{
+  "revision": "4bc544a5361e14236d53",
+  "desktop": {
+    "more": [
+      "更多行业",
+      "物流与仓储",
+      "软件与技术服务",
+      "教育与培训",
+      "农产品与食品经营",
+      "餐饮与连锁门店",
+      "旅游与住宿",
+      "会展与活动"
+    ],
+    "primary": [
+      "制造业",
+      "批发与零售",
+      "家具、家居与建材",
+      "电子商务",
+      "跨境电商",
+      "律所与专业服务",
+      "品牌与内容工作室",
+      "公益机构"
+    ],
+    "url": "http://127.0.0.1:4178/index.html?pv=4bc544a5361e14236d53#industries",
+    "width": 1335
+  },
+  "zhMobile": {
+    "childOpen": true,
+    "contentInside": true,
+    "insideParent": true,
+    "moreOrder": [
+      "industry-logistics-warehousing",
+      "industry-software-technology",
+      "industry-education-training",
+      "industry-agri-food",
+      "industry-food-multi-location",
+      "industry-tourism-hospitality",
+      "industry-events-exhibitions"
+    ],
+    "parentOpen": true,
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "zhContact": {
+    "contact": true,
+    "url": "http://127.0.0.1:4178/about.html?pv=4bc544a5361e14236d53#contact"
+  },
+  "enMobile": {
+    "childOpen": true,
+    "contentInside": true,
+    "lang": "en",
+    "more": [
+      "industry-logistics-warehousing",
+      "industry-software-technology",
+      "industry-education-training",
+      "industry-agri-food",
+      "industry-food-multi-location",
+      "industry-tourism-hospitality",
+      "industry-events-exhibitions"
+    ],
+    "parentOpen": true,
+    "primary": [
+      "industry-manufacturing",
+      "industry-wholesale-retail",
+      "industry-home-building",
+      "industry-ecommerce",
+      "industry-cross-border",
+      "industry-professional-services",
+      "industry-brands-studios",
+      "industry-nonprofits"
+    ],
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/index.html?pv=4bc544a5361e14236d53#industries",
+    "width": 390
+  },
+  "enContact": {
+    "contact": true,
+    "url": "http://127.0.0.1:4178/en/about.html?pv=4bc544a5361e14236d53#contact"
+  },
+  "returnToChinese": {
+    "lang": "zh-CN",
+    "url": "http://127.0.0.1:4178/index.html?pv=4bc544a5361e14236d53#industries"
+  },
+  "checkedAt": "2026-10-20T11:53:39.309Z"
+}

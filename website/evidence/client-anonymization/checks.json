@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-06",
+  "version": "0.10.0",
+  "public_aliases": {
+    "P01": "企业客户项目合作",
+    "P02": "深圳某慈善基金会",
+    "P03": "深圳某律师事务所",
+    "P04": "某律师事务所 OA 系统",
+    "P05": "英国某净水品牌全域营销",
+    "P07": "某家具品牌官网",
+    "P08": "某家具品牌产品目录",
+    "P09": "某家具品牌扫码库存系统",
+    "P10": "洁具行业某大型 B 端厂商库存管理系统",
+    "P21": "自动挂单流程修复",
+    "P36": "英国某净水品牌 RAG 智能客服定制"
+  },
+  "public_images": [
+    {
+      "project": "P02",
+      "path": "assets/public-cases/p02.png",
+      "dimensions": [
+        1213,
+        744
+      ],
+      "sha256": "0ba1bf01b635db210e2710a85f92dd6fcc47e30f9d46c3721b565f6af3eb2f87",
+      "pixel_color_chunks_sha256": "40e5434a7dafc050906e87dee884deef3224c4be239812f60e7b3c40bc915f6d",
+      "bytes": 775310,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    },
+    {
+      "project": "P03",
+      "path": "assets/public-cases/p03.png",
+      "dimensions": [
+        1340,
+        820
+      ],
+      "sha256": "25ab15538d8148901fffd58851bcd59e081611b8616338901e96ba99b940077b",
+      "pixel_color_chunks_sha256": "eac8a58077210320ad9f5f664886e9c980d270a5538b304451d355adeaaed04e",
+      "bytes": 1130810,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    },
+    {
+      "project": "P05",
+      "path": "assets/public-cases/p05.png",
+      "dimensions": [
+        2549,
+        1172
+      ],
+      "sha256": "e91667230d9c257cec58538491e381face667c1a0121c8c7e86c35ce2918de37",
+      "pixel_color_chunks_sha256": "2ea8896224eedd785e651f2b5c91ce52e184304af008a80594f73184a975316b",
+      "bytes": 1193449,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    },
+    {
+      "project": "P07",
+      "path": "assets/public-cases/p07.png",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "sha256": "3857da7b28b71d2bc14aedcad5b4db10bf0bda3ed2f6ce3469d4a37c8faff5c8",
+      "pixel_color_chunks_sha256": "6157f948752e1244f45db7331b0412019074dad557eb78b6bb191c26060d2edb",
+      "bytes": 638433,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    },
+    {
+      "project": "P09",
+      "path": "assets/public-cases/p09.png",
+      "dimensions": [
+        1280,
+        900
+      ],
+      "sha256": "791b837566546fe51886086a458a3f979b43dc0bd99c8c5012439b515ecee76e",
+      "pixel_color_chunks_sha256": "3e68216992ff1aad633dc162665728ae03d6b9cc0f1b0d7e54db33762a75855c",
+      "bytes": 161888,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    },
+    {
+      "project": "P10",
+      "path": "assets/public-cases/p10.png",
+      "dimensions": [
+        2558,
+        1120
+      ],
+      "sha256": "e89601b2aef80bb464c47f85cbec1bf8e74d51465a2e59f98799730a7be0b252",
+      "pixel_color_chunks_sha256": "4c04f64d33155de9acacd5f64a122a1ca5da01379f54fa1d35112cb1e60ff30a",
+      "bytes": 197621,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    },
+    {
+      "project": "P36",
+      "path": "assets/public-cases/p36.png",
+      "dimensions": [
+        410,
+        640
+      ],
+      "sha256": "35be3b77aa91d058cf4d5edcf6518a2cf56e2444bd4f0f1f90e2f0ada860387e",
+      "pixel_color_chunks_sha256": "6773c07d2f02848b28092768218cbec71f4200b2dcb0ff332312ffd8150fc733",
+      "bytes": 106265,
+      "png_chunks": [
+        "IDAT",
+        "IEND",
+        "IHDR",
+        "sRGB"
+      ]
+    }
+  ],
+  "source_assets_unchanged": true,
+  "ocr_customer_names": "NO_MATCHES_IN_7_CLIENT_AND_4_PERSONAL_IMAGES",
+  "ocr_product_or_assistant_names": "NO_MATCHES",
+  "png_source_metadata": "ABSENT",
+  "pixel_and_color_chunks_after_strip": "UNCHANGED",
+  "exported_image_hashes": "MATCH",
+  "raw_asset_urls": "404, see static-checks.json",
+  "asset_visual_review": "Seven sanitized image files inspected; no visible customer name, logo, address or readable watermark remains",
+  "browser_layout_review": "NOT_RUN: existing local URL safety refusal; no alternate channel used",
+  "scope": "local website only"
+}

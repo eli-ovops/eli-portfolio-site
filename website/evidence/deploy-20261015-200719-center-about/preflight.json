@@ -1,0 +1,19 @@
+{
+  "hostname": "lavm-zm3gcu3m6m",
+  "previous": "/srv/eli-sites/portfolio/domain-releases/20261015-183949-https-index",
+  "public": "/srv/eli-sites/portfolio/releases/20261015-165606-icp-footer",
+  "configs": {
+    "/etc/nginx/sites-available/portfolio-domain-pending": "5570323d452fc558369ebe860076dea84ad4490bce7e7ed3dfcdad6b78e0f759",
+    "/etc/nginx/sites-available/erp-trial": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445"
+  },
+  "previous_files_verified": 140,
+  "free_bytes": [REDACTED_PHONE],
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "concurrent_release": false,
+  "nginx_test": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful"
+}

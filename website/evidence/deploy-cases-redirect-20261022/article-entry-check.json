@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-10-22T10:43:42.735240+00:00",
+  "scope": "Actual article directory pages and two bilingual business-article samples; distinct from bare directory endpoints",
+  "results": [
+    {
+      "path": "/articles.html",
+      "status": 200,
+      "same_as_predeploy_file": true
+    },
+    {
+      "path": "/en/articles.html",
+      "status": 200,
+      "same_as_predeploy_file": true
+    },
+    {
+      "path": "/articles/inventory-reconciliation.html",
+      "status": 200,
+      "same_as_predeploy_file": true
+    },
+    {
+      "path": "/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "same_as_predeploy_file": true
+    },
+    {
+      "path": "/en/articles/inventory-reconciliation.html",
+      "status": 200,
+      "same_as_predeploy_file": true
+    },
+    {
+      "path": "/en/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "same_as_predeploy_file": true
+    }
+  ],
+  "pass": true
+}

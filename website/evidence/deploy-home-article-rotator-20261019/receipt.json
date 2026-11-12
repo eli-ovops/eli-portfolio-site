@@ -1,0 +1,121 @@
+{
+  "checked_at": "2026-10-19T19:26:06.572806+08:00",
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "revision": "db2a07f4b91429cb3f5c",
+  "release": "/srv/eli-sites/portfolio/domain-releases/20261019-home-article-rotator-db2a07f4",
+  "previous_release_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-article-service-links-5c2760c2",
+  "authorized_scope": "Bilingual homepage upward article carousel only; preserve layout and other motion; no search submissions",
+  "semantic_html_changed": [
+    "index.html",
+    "en/index.html"
+  ],
+  "other_html_content_unchanged": 294,
+  "new_assets": [
+    "assets/article-rotator.css",
+    "assets/article-rotator.js"
+  ],
+  "other_visual_motion_assets_unchanged": true,
+  "new_frosted_glass": false,
+  "public_files_verified": 367,
+  "server_public_hash_checks": 39,
+  "independent_public_hash_checks": 14,
+  "verification_files_preserved": 6,
+  "mobile": {
+    "languages": [
+      "zh-CN",
+      "en"
+    ],
+    "widths": [
+      360,
+      390
+    ],
+    "layout_states": 12,
+    "overflow": 0,
+    "physical_phone_test": false
+  },
+  "pause_both_languages": "PASS",
+  "desktop_full_cycle": "PASS",
+  "mobile_language_roundtrip": "PASS",
+  "article_case_return_consultation_flows": [
+    {
+      "step": "zh → en home",
+      "url": "https://www.eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c#articles"
+    },
+    {
+      "step": "en carousel → article",
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "en article → case",
+      "url": "https://www.eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← Back to article"
+    },
+    {
+      "step": "en case → original article",
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "en article → consultation",
+      "url": "https://www.eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    },
+    {
+      "step": "en → zh home",
+      "url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "zh carousel → article",
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "zh article → case",
+      "url": "https://www.eliai.cn/cases/p10.html?pv=db2a07f4b91429cb3f5c&from=%2Farticles%2Finventory-reconciliation.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← 返回文章"
+    },
+    {
+      "step": "zh case → original article",
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "zh article → consultation",
+      "url": "https://www.eliai.cn/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    }
+  ],
+  "contact_visible_unobstructed": "PASS; QR in contact section and email after normal scroll, both languages",
+  "initial_contact_measurements": "Initial immediate email/QR hit tests can be below the fold during page arrival. Stable QR checks and ordinary scrolling to email verified visibility and unobstructed targets; no contact source changes.",
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview_unchanged": true,
+  "search_submissions": 0,
+  "messages_sent": 0,
+  "analytics_attribution": "All QA visits and consultation navigation are our tests, not natural search traffic or customer enquiries.",
+  "artifact_retention": "Reviewed public archive, source preparation and validation scripts, before snapshots and QA evidence retained for audit/rollback; no deletion.",
+  "existing_seo_automation": "Updated current release baseline and QA attribution only; existing schedule, status and thread preserved.",
+  "console_errors": 0,
+  "temporary_viewport_override_reset": true,
+  "deliverable_url": "https://www.eliai.cn/index.html?pv=db2a07f4b91429cb3f5c#articles",
+  "baseline_manifest_matches_prior_release": true,
+  "evidence_sha256": {
+    "mobile-zh-390.jpg": "076ee30f659d74a0ade66b2df226dd7bf4bed080ba5f5ed633f3db5dad1d2648",
+    "contact-en-360.jpg": "cd3151c3d54e061234fad6fd9fda8014296769e3a7024e7dec3a6116df3e6bf8",
+    "browser-checks.json": "81536774721d5484a5257cc4aeec02dbb142a4952dc550275945ba2b61d3e7fa",
+    "plan.json": "9963022b9f5973e667ec10a039f600f1a3c041b758da2f53a74d8147d755b275",
+    "desktop-zh.jpg": "46c5b27af5b93d7f66c89a8a1c6478943c721acda2551341c04667f05ecd5a2c",
+    "postflight.json": "09d38dec9c049d78dc41975052cd0c478cfaad905ad57d053796f3580b5fccac",
+    "validate.json": "bcb4dc4edf6333234ac82a7321945a7353bf03e81a651b5a9f94771a6781c2fc",
+    "published-home.jpg": "5720c481ae856f5b35d2e4deb015e321fa4ebd9d7348a95bdaa91e3fcb72f655",
+    "mobile-en-360.jpg": "e17756d07cd1c658a13a150bff567790e89021b15f97d6fa9fa4652d15578af6",
+    "console-errors.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "contact-zh-360.jpg": "51bcd2f3fcca6fb7b4b6314483afd53e327a620410e828ed0780a33b27719aaa",
+    "public-http-checks.json": "528f47bc5c9dff6de341e6bc9f1ce5d5a5b0c1cc5ca0a16a2704a677b97cc077",
+    "mobile-en-390.jpg": "33bee0aacc73194c989b11ac88e726412bfc8b3de2ddd73195ea964374531db2",
+    "seo-automation-before.json": "e77696eea5dc2ab1a6f74f9482f2d4b5029f4bbd663db064e79c0ca793bae3e8",
+    "publish.json": "526ba7880311e275661da6bb6cc15dd70f1481d9d2a53582404062284e8f1033",
+    "seo-automation-after.json": "c234ddeeed3feb9d8d6a102b9a388a8eedb3b0815545fe5bef5fabc52e98829e",
+    "preflight.json": "f054a54256564ae4fa2add5378bc94290d5e58104e26134a80ac9730c6931adf",
+    "mobile-zh-360.jpg": "b9700a5a2a2b472894fa5a0b93915441d404cc89e7a1059e0cf53e4ad8caeb12"
+  }
+}

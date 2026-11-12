@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "html_pages": 96,
+  "article_pages": [
+    "articles.html",
+    "articles/inventory-reconciliation.html",
+    "articles/enterprise-knowledge-base.html",
+    "en/articles.html",
+    "en/articles/inventory-reconciliation.html",
+    "en/articles/enterprise-knowledge-base.html"
+  ],
+  "article_pairs": 3,
+  "checks": [
+    "all96 language switches target matching existing counterparts",
+    "six bilingual article pages noindex and reciprocal hreflang",
+    "English main content no untranslated Chinese",
+    "section paragraph bullet and calculation parity",
+    "public sitemap remains88 with no article drafts",
+    "original9 visual-motion files unchanged"
+  ]
+}

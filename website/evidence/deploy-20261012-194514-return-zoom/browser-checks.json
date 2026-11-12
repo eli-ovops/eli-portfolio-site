@@ -1,0 +1,90 @@
+[
+  {
+    "check": "new public entry with old query cache retained",
+    "revision": "c2eb30e0505c4396515b",
+    "robots": "noindex,nofollow",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/index.html?pv=c2eb30e0505c4396515b"
+  },
+  {
+    "check": "client filter keyboard after page settled",
+    "category": "客户项目",
+    "count": "9 项记录",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=c2eb30e0505c4396515b&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E"
+  },
+  {
+    "check": "public native Back with old unversioned cache retained",
+    "before": {
+      "category": "客户项目",
+      "iconWidth": "24px",
+      "query": "库存",
+      "revision": "c2eb30e0505c4396515b",
+      "rows": [
+        "project-p10",
+        "project-p09"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=c2eb30e0505c4396515b&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    "after": {
+      "category": "客户项目",
+      "iconWidth": "24px",
+      "query": "库存",
+      "revision": "c2eb30e0505c4396515b",
+      "rows": [
+        "project-p10",
+        "project-p09"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=c2eb30e0505c4396515b&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    }
+  },
+  {
+    "check": "public detail image keyboard modal",
+    "dialogs": 1,
+    "focused": "原尺寸",
+    "imageWidth": 2558,
+    "open": true,
+    "revision": "c2eb30e0505c4396515b"
+  },
+  {
+    "check": "public Escape restores main-image focus",
+    "focus": "detail-image-trigger",
+    "open": false,
+    "outline": "rgb(150, 152, 255) solid 3px"
+  },
+  {
+    "check": "public secondary link uses same dialog",
+    "dialogs": 1,
+    "open": true
+  },
+  {
+    "category": "客户项目",
+    "check": "public explicit back restores project focus",
+    "focused": "project-p10",
+    "query": "库存",
+    "revision": "c2eb30e0505c4396515b"
+  },
+  {
+    "check": "public empty search",
+    "count": "0 项记录",
+    "recoveryVisible": true
+  },
+  {
+    "category": "全部",
+    "check": "public reset",
+    "count": "38 项记录",
+    "query": ""
+  },
+  {
+    "category": "客户项目",
+    "check": "public settled pointer client filter",
+    "count": "9 项记录"
+  },
+  {
+    "check": "public English mobile390 reduced-motion dialog",
+    "note": "Independent VisualDemo discovery screen · demo profiles, not real community users · switch to actual size for details",
+    "open": true,
+    "revision": "c2eb30e0505c4396515b",
+    "scrollWidth": 375,
+    "transform": "none",
+    "width": 390
+  }
+]

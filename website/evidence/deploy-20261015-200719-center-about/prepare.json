@@ -1,0 +1,9 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261015-200719-center-about",
+  "files": 142,
+  "package_sha256": "da3f5b12f4fbadee37be02d520f00aa1073b15338b6f67dc78eb7a51dc131d43",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261015-183949-https-index",
+  "backup_record": "/srv/eli-sites/portfolio/backups/20261015-200719-center-about",
+  "free_bytes": [REDACTED_PHONE]
+}

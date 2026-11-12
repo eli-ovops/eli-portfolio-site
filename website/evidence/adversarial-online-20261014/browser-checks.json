@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-14",
+  "revision": "147597147401d66f13ca",
+  "checks": [
+    {
+      "test": "origin-A-P10",
+      "back": "/sites/portfolio/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98&return=p10",
+      "related": [
+        {
+          "href": "/sites/portfolio/cases/p09.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10",
+          "text": "某家具品牌扫码库存系统 ↗"
+        },
+        {
+          "href": "/sites/portfolio/cases/p04.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10",
+          "text": "某律师事务所 OA 系统 ↗"
+        }
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+    },
+    {
+      "test": "related-normal-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "test": "origin-B-same-P10",
+      "back": "/sites/portfolio/records.html?pv=147597147401d66f13ca&q=%E6%B4%81%E5%85%B7&return=p10",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26q%3D%25E6%25B4%2581%25E5%2585%25B7%26return%3Dp10"
+    },
+    {
+      "test": "earlier-case-before-refresh",
+      "back": "/sites/portfolio/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98&return=p10",
+      "case": "P10",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+    },
+    {
+      "test": "earlier-case-after-refresh",
+      "back": "/sites/portfolio/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98&return=p10",
+      "related": [
+        "/sites/portfolio/cases/p09.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10",
+        "/sites/portfolio/cases/p04.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+    },
+    {
+      "test": "earlier-context-explicit-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "test": "clear-before-home-case",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": "",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca&return=p10"
+    },
+    {
+      "test": "home-case-after-clear",
+      "back": "/sites/portfolio/records.html?pv=147597147401d66f13ca&q=%E6%B4%81%E5%85%B7&return=p10",
+      "editorial": "ready",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=147597147401d66f13ca"
+    },
+    {
+      "test": "confirmed-cleared-search-resurrected",
+      "category": "全部",
+      "count": "1 项记录",
+      "q": "洁具",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca&q=%E6%B4%81%E5%85%B7"
+    },
+    {
+      "test": "rapid-mixed-category-reset-6",
+      "trials": [
+        {
+          "before": {
+            "count": "0 项记录",
+            "q": "无匹配 & 中文 XYZ 0"
+          },
+          "after": {
+            "category": "全部",
+            "count": "38 项记录",
+            "focus": "search",
+            "q": "",
+            "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca"
+          }
+        },
+        {
+          "before": {
+            "count": "0 项记录",
+            "q": "无匹配 & 中文 XYZ 1"
+          },
+          "after": {
+            "category": "全部",
+            "count": "38 项记录",
+            "focus": "search",
+            "q": "",
+            "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca"
+          }
+        },
+        {
+          "before": {
+            "count": "0 项记录",
+            "q": "无匹配 & 中文 XYZ 2"
+          },
+          "after": {
+            "category": "全部",
+            "count": "38 项记录",
+            "focus": "search",
+            "q": "",
+            "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca"
+          }
+        },
+        {
+          "before": {
+            "count": "0 项记录",
+            "q": "无匹配 & 中文 XYZ 3"
+          },
+          "after": {
+            "category": "全部",
+            "count": "38 项记录",
+            "focus": "search",
+            "q": "",
+            "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca"
+          }
+        },
+        {
+          "before": {
+            "count": "0 项记录",
+            "q": "无匹配 & 中文 XYZ 4"
+          },
+          "after": {
+            "category": "全部",
+            "count": "38 项记录",
+            "focus": "search",
+            "q": "",
+            "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca"
+          }
+        },
+        {
+          "before": {
+            "count": "0 项记录",
+            "q": "无匹配 & 中文 XYZ 5"
+          },
+          "after": {
+            "category": "全部",
+            "count": "38 项记录",
+            "focus": "search",
+            "q": "",
+            "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca"
+          }
+        }
+      ]
+    },
+    {
+      "test": "minimal-repeat-cleared",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "test": "minimal-repeat-home-case",
+      "back": "/sites/portfolio/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98&return=p10",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html?pv=147597147401d66f13ca"
+    },
+    {
+      "test": "minimal-repeat-return-resurrects",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "test": "stable-modal-scroll-toggle-close",
+      "before": {
+        "open": true,
+        "y": 73
+      },
+      "wheel": {
+        "bodyWidth": 1265,
+        "figureY": 0,
+        "open": true,
+        "y": 73
+      },
+      "pan": {
+        "figureY": 631,
+        "y": 73
+      },
+      "closed": {
+        "focus": "查看大图 ↗",
+        "lock": false,
+        "open": false,
+        "y": 73
+      }
+    },
+    {
+      "test": "modal-backdrop-close",
+      "focus": "detail-image-trigger",
+      "lock": false,
+      "open": false,
+      "y": 0
+    },
+    {
+      "test": "modal-open-native-history",
+      "back": {
+        "lock": false,
+        "path": "/sites/portfolio/records.html",
+        "q": "库存"
+      },
+      "forward": {
+        "lock": false,
+        "open": false,
+        "path": "/sites/portfolio/cases/p10.html"
+      }
+    },
+    {
+      "test": "English-320-reduce-related-return",
+      "category": "Client work",
+      "count": "2 projects",
+      "q": "inventory",
+      "viewport": 320,
+      "width": 320
+    },
+    {
+      "test": "English-320-reduce-mouse-reset",
+      "category": "All",
+      "count": "38 projects",
+      "focus": "search",
+      "q": ""
+    },
+    {
+      "test": "English-320-reduce-keyboard-reset",
+      "count": "38 projects",
+      "q": ""
+    },
+    {
+      "test": "English-320-reduce-modal",
+      "locked": {
+        "open": true,
+        "y": 191
+      },
+      "pan": {
+        "figureY": 602,
+        "y": 191
+      },
+      "closed": {
+        "focus": "detail-image-trigger",
+        "lock": false,
+        "open": false,
+        "width": 320,
+        "y": 191
+      }
+    }
+  ],
+  "confirmed_finding": "Cleared list filters resurrect after entering same case from homepage; repeated with q=洁具 (1 result) and 客户参与 + 库存 (2 results).",
+  "unclassified_samples": [
+    {
+      "name": "fast-home-case-entry",
+      "observation": "One rapid programmatic homepage case entry remained on homepage; stable subsequent click navigated. Cause UNKNOWN."
+    },
+    {
+      "name": "caption-entry-during-arrival",
+      "before": {
+        "bodyWidth": 1265,
+        "entry": {
+          "bottom": 169.015625,
+          "height": 44,
+          "left": 1130.65625,
+          "right": 1201,
+          "top": 125.015625,
+          "width": 70.34375,
+          "x": 1130.65625,
+          "y": 125.015625
+        },
+        "y": 360
+      },
+      "after": {
+        "entryTop": 101.015625,
+        "entryBottom": 145.015625,
+        "open": false
+      },
+      "observation": "Coordinate click used entry rect top125 during motion; later rect moved to101. Visible pre-click paint/hit target not captured, so not a confirmed human-visible click defect."
+    }
+  ],
+  "viewport_restored": true,
+  "media_restored": true,
+  "limits": [
+    "IAB desktop and simulated English 320x740; no real touchscreen or iOS Safari/Edge/Baidu validation",
+    "No source/build/server/indexing changes"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "checked_at": "2026-10-22T10:40:18.751004+00:00",
+  "source": "Public Sitemap parent directories, one ordinary anonymous HTTPS GET each; no directory listing enabled",
+  "sitemap_urls": 294,
+  "directory_count": 8,
+  "directories": [
+    {
+      "url": "https://www.eliai.cn/",
+      "status": 200,
+      "title": "中小企业 AI 实施与流程提效服务 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/",
+      "status": 403,
+      "location": null,
+      "retried": false
+    },
+    {
+      "url": "https://www.eliai.cn/cases/",
+      "status": 403,
+      "location": null,
+      "retried": false
+    },
+    {
+      "url": "https://www.eliai.cn/en/",
+      "status": 200,
+      "title": "AI Implementation &amp; Workflow Improvement for Small Businesses | Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/",
+      "status": 403,
+      "location": null,
+      "retried": false
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/",
+      "status": 403,
+      "location": null,
+      "retried": false
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/",
+      "status": 403,
+      "location": null,
+      "retried": false
+    },
+    {
+      "url": "https://www.eliai.cn/services/",
+      "status": 403,
+      "location": null,
+      "retried": false
+    }
+  ],
+  "scope": "Directory endpoints implied by sitemap; not a full per-page 294-URL HTTP or indexing audit"
+}

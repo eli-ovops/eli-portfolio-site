@@ -1,0 +1,184 @@
+Browser tab: 29, Title: "中小企业 AI 落地 库存核对 知识库 实施服务", URL: "https://quark.sm.cn/s?q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%20AI%20%E8%90%BD%E5%9C%B0%20%E5%BA%93%E5%AD%98%E6%A0%B8%E5%AF%B9%20%E7%9F%A5%E8%AF%86%E5%BA%93%20%E5%AE%9E%E6%96%BD%E6%9C%8D%E5%8A%A1&safe=1&snum=0".
+1 AXWebArea 中小企业 AI 落地 库存核对 知识库 实施服务, URL: quark.sm.cn/s?q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%20AI%20%E8%90%BD%E5%9C%B0%20%E5%BA%93%E5%AD%98%E6%A0%B8%E5%AF%B9%20%E7%9F%A5%E8%AF%86%E5%BA%93%20%E5%AE%9E%E6%96%BD%E6%9C%8D%E5%8A%A1&safe=1&snum=0
+	2 container
+		3 container content
+			4 container
+				5 text entry area (settable) 中小企业 AI 落地 库存核对 知识库 实施服务
+				6 text 搜索
+			7 content list
+				8 container
+					9 text 全部
+					10 image
+				11 text 图片
+				12 text 经验
+				13 text 资讯
+				14 text 文档
+			15 container main
+				16 container page-time-fliter
+					17 text 发布时间：
+					18 content list
+						19 button 不限时间
+							20 text 不限时间
+						21 button 一天内
+							22 text 一天内
+						23 button 一周内
+							24 text 一周内
+						25 button 一月内
+							26 text 一月内
+						27 button 一年内
+							28 text 一年内
+				29 container results
+					32 container
+						33 link Description: 中小企业 AI 本地知识库搭建：企业为什么要做 AI 本地知识库？-百家号, Value: baijiahao.baidu.com/s?id=1865877243537302309
+						34 link Description: 但随着轻量化大模型、RAG检索技术的普及，2026年中小企业AI本地知识库已经实现 轻量化、低成本、易落地。hpxiaoheng 它不再需要高额预算和专业运维团队，也不用复杂的技术改造，完全适配., Value: baijiahao.baidu.com/s?id=1865877243537302309
+						35 link Description: 百家号 · 2026-05-23, Value: baijiahao.baidu.com/s?id=1865877243537302309
+					36 container
+						37 link Description: 企业 AI 知识库搭建全攻略：从 0 到 1 落地，附 SKC 实战方案（2026 最新）-CSDN博客, Value: m.blog.csdn.net/qq_35535702/article/details/160369601
+						38 link Description: 本文详解企业AI知识库的核心定义、7步通用搭建流程及SKC平台快速落地方法。涵盖知识盘点、结构化治理、向量化入库、AI问答/出题/学习等关键能力，并强调权限管控、安全合规与持续运营机制..., Value: m.blog.csdn.net/qq_35535702/article/details/160369601
+						39 link m.blog.csdn.net/qq_35535702/article/details/160369601
+						40 link Description: CSDN博客 · 2026-04-21, Value: m.blog.csdn.net/qq_35535702/article/details/160369601
+					41 container
+						42 text 中小企业
+						43 text 如何用
+						44 text AI知识库
+						45 text 降本增效？四大场景解析-百家号
+						46 container
+							47 text 用四个真实案例，告诉你 AI知识库 怎么帮 企业 省钱、赚钱、提效率。场景一：电商客服—80%重复咨询秒级响应 痛点：某淘宝/京东店铺，日均咨询量 500+，其中 80%是重复问题—"发什么快递""多久到货...
+						48 text 百家号 · 07-11
+					49 container
+						50 text 其他人还搜了
+						51 link Description: 中小企业查询入口, Value: quark.sm.cn/s?safe=1&q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E6%9F%A5%E8%AF%A2%E5%85%A5%E5%8F%A3&by=tuijian&by2=text
+						52 link Description: ai知识库系统服务商推荐, Value: quark.sm.cn/s?safe=1&q=ai%E7%9F%A5%E8%AF%86%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%E5%95%86%E6%8E%A8%E8%8D%90&by=tuijian&by2=text
+						53 link Description: 中小企业查询网站, Value: quark.sm.cn/s?safe=1&q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E6%9F%A5%E8%AF%A2%E7%BD%91%E7%AB%99&by=tuijian&by2=text
+						54 link Description: 中小企业划型标准规定, Value: quark.sm.cn/s?safe=1&q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E5%88%92%E5%9E%8B%E6%A0%87%E5%87%86%E8%A7%84%E5%AE%9A&by=tuijian&by2=text
+						55 link Description: 优质中小企业梯度平台, Value: quark.sm.cn/s?safe=1&q=%E4%BC%98%E8%B4%A8%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E6%A2%AF%E5%BA%A6%E5%B9%B3%E5%8F%B0&by=tuijian&by2=text
+						56 link Description: ai知识库服务, Value: quark.sm.cn/s?safe=1&q=ai%E7%9F%A5%E8%AF%86%E5%BA%93%E6%9C%8D%E5%8A%A1&by=tuijian&by2=text
+						57 link Description: 中小企业查询官网, Value: quark.sm.cn/s?safe=1&q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E6%9F%A5%E8%AF%A2%E5%AE%98%E7%BD%91&by=tuijian&by2=text
+						58 link Description: 中小企业ai落地策略, Value: quark.sm.cn/s?safe=1&q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9Aai%E8%90%BD%E5%9C%B0%E7%AD%96%E7%95%A5&by=tuijian&by2=text
+					59 link Description: 广告, Value: …
+					60 container
+						61 link Description: 中小企业 AI 落地怎么开始？一份从诊断到推广的实操指南-今日头条, Value: m.toutiao.com/article/7686317432017601064/
+						62 link Description: 一款本地安装运行的 AI 办公效率工具，支持本地知识库、文档智能处理、Agent 与工作流，由 2015 年起运营的山西色卡会网络科技有限公司开发，提供从免费需求诊断到定制开发的企业 AI 落地服务。, Value: m.toutiao.com/article/7686317432017601064/
+						63 link m.toutiao.com/article/7686317432017601064/
+						64 link Description: 今日头条 · 2026-09-17, Value: m.toutiao.com/article/7686317432017601064/
+					65 container
+						66 container
+							67 container
+								68 image
+								69 text 22:56
+							70 text 中小企业如何真正落地AI：从AI工具、知识库、智能体到AI数字员工。
+							71 text 小狐狸439414524 10-10
+							72 image
+							73 text 赞
+						74 container
+							75 container
+								76 image
+								77 text 02:32
+							78 text 企业AI知识库，从0到1的五步路线图
+							79 text 米咖学长 07-11
+							80 image
+							81 text 1
+						82 container
+							83 container
+								84 image
+								85 text 04:03
+								86 image
+							87 text 2026企业AI落地，终极解决方案是什么？
+							88 text 曲率出逃 07-18
+							89 image
+							90 text 23
+						91 container
+							92 text 企业AI落地，一张图看懂核心逻辑
+							93 text 生物充电记 08-20
+							94 image
+							95 text 82
+						96 container
+							97 container
+								98 image
+								99 text 12:38
+							100 text 完整的企业用Ai落地知识库sop搭建流程来了 #ai企业落地 #企业ai知识库 #ai企业赋能 #知识库构建 #博度AI #企业智能体
+							101 text 俗人六哥_Ai企业赋能 01-05
+							102 image
+							103 text 17
+						104 container
+							105 container
+								106 image
+								107 text 05:14
+							108 text 中小微企业私有知识AI落地新思路。轻量化云端向量检索+多模型智能路由，实现文档问答、溯源校验，快速搭建企业专属知识库。#大模型落地 #向量数据库
+							109 text 阡陌数智AI 09-06
+							110 image
+							111 text 236
+						112 container
+							113 container
+								114 image
+								115 text 05:11
+								116 image
+							117 text AI企业知识库
+							118 text bili_24101431750 07-15
+							119 image
+							120 text 15
+						121 container
+							122 container
+								123 image
+								124 text 02:11
+								125 image
+							126 text 电商公司已经在做AI落地了，把新人培训，考试，商品库存，自己计算快递全部自动化了
+							127 text 子明Ai智能体-长沙 10-05
+							128 image
+							129 text 赞
+						130 button 查看更多
+							131 text 查看更多
+							132 image
+					133 container
+						134 link Description: 中小企业 AI 落地别急着买工具：一套可复制的「企业 AI 轻诊断」方法论（附知识库清单 + 问题地图）-CSDN博客, Value: m.blog.csdn.net/cmh131419/article/details/165299108
+						135 link Description: 先给范围：适用于什么场景，不适用于什么 2. 再讲判断条件：客户与技术人员需核对哪些事实 3. 提供可核验资料：引用已公开的..., Value: m.blog.csdn.net/cmh131419/article/details/165299108
+						136 link m.blog.csdn.net/cmh131419/article/details/165299108
+						137 link Description: CSDN博客 · 2026-09-14, Value: m.blog.csdn.net/cmh131419/article/details/165299108
+					138 container
+						139 link Description: 企业 AI 落地 5 步路线图：诊断、企业知识库与 GEO 获客的工程化实施步骤-CSDN博客, Value: m.blog.csdn.net/cmh131419/article/details/165111496
+						140 link Value: m.blog.csdn.net/cmh131419/article/details/165111496, Description: 企业 AI 落地卡住的原因，多数不是模型不行，而是实施顺序不对.本文把企业 AI 落地拆成一条可验收的 5 步路线图：① 诊断 ② 企业知识库与问题库 ③ 自有站点与 GEO 双底座 ④ AI 岗位自动化 ⑤ ...
+						141 link m.blog.csdn.net/cmh131419/article/details/165111496
+						142 link Description: CSDN博客 · 2026-09-12, Value: …
+					143 container
+						144 link Description: 企业AI知识库与RAG落地-今日头条, Value: …
+						145 link Value: …, Description: 在企业落地人工智能的过程中，企业AI知识库与 RAG（Retrieval-Augmented Generation，检索增强生成）是目前最火热、也是最快能看到投资回报率（ROI）的应用方向。很多人问：“大模型本身不是什么都知道吗？为什么企业还要专门搞...
+						146 link Description: 今日头条 · 2026-08-20, Value: …
+					147 container
+						148 text AI知识库落地
+						149 text 避坑指南，数商云交付
+						150 text 实施
+						151 text 全流程分享-东方财富财富号
+						152 container
+							153 text 总结出了一套成熟的 AI知识库实施 方法论，能够帮助 企业 系统性规避从选型到运营的全链路陷阱。本文将从最常见的五大“坑”出发，深...
+						154 image
+						155 text 近期发布 东方财富财富号 · 09-20
+					156 container
+						157 text 从零搭建
+						158 text 企业AI知识库
+						159 text 完整
+						160 text 落地
+						161 text 流程（从上传到智能问答）-东方财富财富号
+						162 container
+							163 text 为了帮助企业清晰把握 AI知识库 的建设路径，实现从海量原始文档到高精度智能问答的跨越，本文将系统性地阐述从零搭建 企业AI知识库 的完整 落地 流程。依托数商云在企业数字化转型与AI应用构建领域的...
+						164 image
+						165 text 近期发布 东方财富财富号 · 08-26
+					166 container
+						167 text 相关搜索
+						168 button 反馈
+						169 link Description: 优质中小企业培育平台, Value: …
+						170 link Description: 是否中小企业怎么查, Value: …
+						171 link Description: 中小企业欠薪投诉平台, Value: …
+						172 link Description: 中小企业回款难问题治理, Value: …
+						173 link Description: 中小企业梯度培育平台, Value: …
+						174 link Description: 中小企业欠款投诉平台, Value: …
+						175 link Description: 中小企业查询, Value: …
+						176 link Description: 全国违约拖欠中小企业, Value: …
+						177 link Description: 关于加强中小企业回款, Value: …
+						178 link Description: 中小企业划分标准表, Value: …
+				179 link Description: 滑动加载更多 icon/通用/箭头类/弱箭头/f-angle-down@1x, Value: javascript:;, ID: pager
+		180 image
+		181 image
+		182 image
+		183 image
+
+The focused UI element is 1 AXWebArea 中小企业 AI 落地 库存核对 知识库 实施服务, URL: quark.sm.cn/s?q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%20AI%20%E8%90%BD%E5%9C%B0%20%E5%BA%93%E5%AD%98%E6%A0%B8%E5%AF%B9%20%E7%9F%A5%E8%AF%86%E5%BA%93%20%E5%AE%9E%E6%96%BD%E6%9C%8D%E5%8A%A1&safe=1&snum=0

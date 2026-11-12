@@ -1,0 +1,45 @@
+{
+  "mobile": {
+    "capabilityDisclosures": 0,
+    "caseLinks": [
+      {
+        "href": "cases/p10.html?pv=2f2b244afcfa46f64a45",
+        "text": "看库存案例 ↗"
+      },
+      {
+        "href": "cases/p36.html?pv=2f2b244afcfa46f64a45",
+        "text": "看答疑案例 ↗"
+      },
+      {
+        "href": "cases/p12.html?pv=2f2b244afcfa46f64a45",
+        "text": "看内容案例 ↗"
+      }
+    ],
+    "overflow": false,
+    "roleSections": 0,
+    "width": 390,
+    "workflow": 3
+  },
+  "english": {
+    "caseLinks": [
+      "Inventory case ↗",
+      "Support case ↗",
+      "Content case ↗"
+    ],
+    "disclosures": 0,
+    "overflow": false,
+    "path": "/en/about.html",
+    "width": 320,
+    "workflow": [
+      "Identify repetitive tasks, available data and the first use case.",
+      "Try a working approach, gather feedback and adjust.",
+      "Prepare code, documentation and instructions. Agree on handover and maintenance."
+    ]
+  },
+  "desktop": {
+    "width": 1440,
+    "overflow": false,
+    "veil": "webgl2 animating"
+  },
+  "consultation": "Anchor #contact reached; original mailto and tel present; no message sent"
+}

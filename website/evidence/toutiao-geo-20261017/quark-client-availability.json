@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-17 Asia/Shanghai",
+  "enabled_native_app_found": false,
+  "native_name_lookup": "Invalid app: 夸克",
+  "finder_applications_checked": true,
+  "quark_seen_in_applications": false,
+  "applications_visible_total": 64,
+  "official_entry": "https://www.quark.cn/",
+  "official_mac_download_link": "https://download.quark.cn/download/quarkmac?platform=mac&ch=pcquark@store_guanwang_zx",
+  "query_tests_performed": 0,
+  "next_action": "Need official Mac client installation or supported existing client entry; user asked agent to perform tests"
+}

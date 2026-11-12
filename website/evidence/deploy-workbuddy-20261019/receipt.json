@@ -1,0 +1,52 @@
+{
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "checked_at": "2026-10-19T14:39:30.704841+08:00",
+  "revision": "e2be96987b2798068e82",
+  "release": "/srv/eli-sites/portfolio/domain-releases/20261019-workbuddy-e2be9698",
+  "previous_release_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-about-bio-0e8f1d0f",
+  "authorized_scope": "User2026-10-19: publish approved bilingual WorkBuddy introduction, title and search description; preserve visuals/motion; verify mobile, language switch and consultation; no search submissions",
+  "semantic_html_changes": [
+    "articles.html",
+    "articles/what-is-workbuddy.html",
+    "en/articles.html",
+    "en/articles/what-is-workbuddy.html"
+  ],
+  "other_page_content_unchanged": 292,
+  "visual_motion_assets_unchanged": true,
+  "verification_files_preserved": 6,
+  "package_sha256": "b47e9cc8764ea56dcac9eb3d75e9ca2295a10047fa0b598becd2fb9a4e8a84b6",
+  "public_file_hashes_on_server_verified": 365,
+  "independent_public_http_hash_checks": 12,
+  "mobile_widths": [
+    360,
+    390
+  ],
+  "language_switch": "PASS: actual Chinese to English and back, same article slug",
+  "consultation_entry": "PASS: both languages lead to their contact section",
+  "physical_phone_test": false,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_ip_preview_previous_release_unchanged": true,
+  "initial_connection_failure": "Strict SSH and public access failed; later SSH banner and strict preflight recovered. No proxy, TLS, SSH or server configuration changed; root cause UNKNOWN.",
+  "search_submissions": 0,
+  "emails_sent": 0,
+  "external_contact_messages": 0,
+  "artifact_purpose": "Reviewed public package, deployment/rollback evidence and live browser QA; retained, no cleanup",
+  "evidence": {
+    "plan.json": "d021d799e045ce03bb8eb5442035595177e412d83a61a9a6d10126159c1a6415",
+    "package-checks.json": "e9a3fd9dc284144f06147c11b61a8011be1353c8a3ca9c431b6e3b63d001f369",
+    "preflight.json": "95c8f233de5d8b20beff6ea472078495cb89c93b71f0453ec8b2b64fecc96ce3",
+    "validate.json": "8b41ce292944abdaf88c59fd3b15efe75a03793b73bce4d7f1a6d73a797efc4a",
+    "publish.json": "ef7367e4bc23f8cc4500e949465b8904c7e4db6635ca9dd3d08a052025a2677f",
+    "postflight.json": "3ae4ad7888485fa68607bb1912e9128bd914da05d8a38db5dc2a851c7dba85e9",
+    "public-http-checks.json": "adf014d6424755f98fbe971ae6b191ee44dd658fdd4955847a0d119f13d0ac4a",
+    "browser-checks.json": "e777f386f7905f596387a9595e5b947f6d07a0a92f0e19ddaa1e6c646a3bd2e8",
+    "live-mobile-zh.png": "ceda9881812cec6537cd59ad40a3a58392b9958344cabcb9973e72928604d5a0",
+    "live-mobile-en.png": "0790d452b8bcb4757f6489fa8e60f80985b713fac75589c680aa7a3da9024a5a",
+    "artifact-accounting.json": "cfe0a6121b4d3c30505b80842d1a7feca9d356b4b32118b2abfdcd2adc0053ff"
+  }
+}

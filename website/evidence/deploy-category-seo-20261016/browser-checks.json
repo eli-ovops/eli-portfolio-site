@@ -1,0 +1,45 @@
+{
+  "revision": "03985a2ddb6824f06f7f",
+  "caseReturn": {
+    "h1": "FDE 企业 AI 落地咨询",
+    "scrollY": 1369,
+    "url": "https://www.eliai.cn/services/fde-consulting.html?pv=03985a2ddb6824f06f7f"
+  },
+  "serviceMobile": [
+    {
+      "h1": "FDE 企业 AI 落地咨询",
+      "motion": "ready",
+      "scrollWidth": 375,
+      "url": "https://www.eliai.cn/services/fde-consulting.html?pv=03985a2ddb6824f06f7f",
+      "width": 390
+    },
+    {
+      "h1": "企业 AI Agent 与知识库应用",
+      "motion": "ready",
+      "scrollWidth": 375,
+      "url": "https://www.eliai.cn/services/ai-agent.html?pv=03985a2ddb6824f06f7f",
+      "width": 390
+    },
+    {
+      "h1": "企业提效，从一项重复工作开始",
+      "motion": "ready",
+      "scrollWidth": 375,
+      "url": "https://www.eliai.cn/services/workflow-automation.html?pv=03985a2ddb6824f06f7f",
+      "width": 390
+    }
+  ],
+  "english320": {
+    "h1": "Business AI agents and knowledge assistants",
+    "scrollWidth": 305,
+    "url": "https://www.eliai.cn/en/services/ai-agent.html?pv=03985a2ddb6824f06f7f",
+    "width": 320
+  },
+  "home390": {
+    "backgroundActive": "true",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  "consultation": "Desktop and 390px mobile reached about.html#contact; visible within viewport",
+  "viewportOverride": "cleared",
+  "limitations": "Viewport simulation, not physical-device testing. Locator auto-scroll clicks were inconclusive; stable visible case link confirmed with native mouse."
+}

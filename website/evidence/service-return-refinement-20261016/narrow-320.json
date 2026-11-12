@@ -1,0 +1,50 @@
+[
+  {
+    "consultTop": 622.046875,
+    "heading": "FDE 企业 AI 落地咨询",
+    "proofBottom": 608.046875,
+    "scrollWidth": 320,
+    "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=261b385a8fe19e9371d2",
+    "width": 320
+  },
+  {
+    "consultTop": 650.84375,
+    "heading": "企业 AI Agent 与知识库应用",
+    "proofBottom": 636.84375,
+    "scrollWidth": 320,
+    "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=261b385a8fe19e9371d2",
+    "width": 320
+  },
+  {
+    "consultTop": 650.84375,
+    "heading": "企业提效，从一项重复工作开始",
+    "proofBottom": 636.84375,
+    "scrollWidth": 320,
+    "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=261b385a8fe19e9371d2",
+    "width": 320
+  },
+  {
+    "consultTop": 702.734375,
+    "heading": "FDE consulting for business AI",
+    "proofBottom": 688.734375,
+    "scrollWidth": 320,
+    "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=261b385a8fe19e9371d2",
+    "width": 320
+  },
+  {
+    "consultTop": 799.71875,
+    "heading": "Business AI agents and knowledge assistants",
+    "proofBottom": 785.71875,
+    "scrollWidth": 320,
+    "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=261b385a8fe19e9371d2",
+    "width": 320
+  },
+  {
+    "consultTop": 770.015625,
+    "heading": "Improve one repetitive business workflow",
+    "proofBottom": 756.015625,
+    "scrollWidth": 320,
+    "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=261b385a8fe19e9371d2",
+    "width": 320
+  }
+]

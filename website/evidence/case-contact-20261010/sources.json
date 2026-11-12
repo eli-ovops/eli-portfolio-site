@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/case-contact-20261010/before/content/projects.json",
+      "sha256": "b3b3c542dd802eb9a0f37d70a84a99e6610bdf8ddf192585833b69680eab9319"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/app/PetSocial/PROJECT_CORE.md",
+      "sha256": "fc43e6f8ce7918475f76301f9d979707e57e11f54db6aa00c5f900e211b2d613"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/app/PetSocial/Evidence/2026-10-05-device-core.md",
+      "sha256": "35adaa35d16cdc7bc457f56e8bf05c27682d4838045aa000ffefe8f8970ee26f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/小红书/docs/19_ACCEPTANCE_SIGNOFF.md",
+      "sha256": "273cbfbc5732518484d9c99975458f56f098f29e09f16f8b0b1242864b1313f6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/小红书/docs/evidence/electron-account-spike/p8-real-acceptance/P8_ACCEPTANCE.md",
+      "sha256": "ea098fec25ba02f9745914543cc6300d2d31144c19ad0155c461c481ecb63f23"
+    }
+  ],
+  "human_confirmation": {
+    "date": "2026-10-10",
+    "project": "P15",
+    "verbatim": "全部 都是我开发的呀，这个项目",
+    "scope": "Entire development; does not establish full acceptance or release"
+  },
+  "contact_basis": "User previously specified shared phone/WeChat/WhatsApp number; reuse profile number, add +86 international representation and wa.me route; do not validate by sending"
+}

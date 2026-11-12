@@ -1,0 +1,335 @@
+{
+  "checks": [
+    {
+      "check": "desktop_home",
+      "industries": 8,
+      "overflow": false,
+      "revision": "fcafe9ca8a0e904465b2",
+      "url": "https://www.eliai.cn/index.html?pv=fcafe9ca8a0e904465b2#industries",
+      "width": 1335
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-manufacturing",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 0,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-ecommerce",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 2,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-cross-border",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-wholesale-retail",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 2,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-home-building",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 2,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-professional-services",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-brands-studios",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-nonprofits",
+      "lang": "zh-CN",
+      "open": true,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "check": "zh_service_link",
+      "h1": "企业知识库搭建与客服辅助答疑",
+      "url": "https://www.eliai.cn/services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+    },
+    {
+      "check": "zh_contact",
+      "contact": true,
+      "overflow": false,
+      "qr": true,
+      "url": "https://www.eliai.cn/about.html?pv=fcafe9ca8a0e904465b2#contact"
+    },
+    {
+      "check": "zh_qr_visible",
+      "complete": true,
+      "naturalWidth": 728,
+      "unobstructed": false,
+      "visible": false,
+      "observation": "Initial scroll/arrival observation only; QR outside viewport, not an overlay failure. Superseded by successful zh_qr_stable_after_normal_scroll check; raw values retained."
+    },
+    {
+      "check": "home_zh_to_en",
+      "items": 8,
+      "lang": "en",
+      "url": "https://www.eliai.cn/en/index.html?pv=fcafe9ca8a0e904465b2#industries"
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-manufacturing",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 0,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-ecommerce",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 2,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-cross-border",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-wholesale-retail",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 2,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-home-building",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 2,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-professional-services",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-brands-studios",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "actionHeights": [
+        44,
+        44
+      ],
+      "caseLinks": 1,
+      "check": "industry_open",
+      "hintClipped": false,
+      "id": "industry-nonprofits",
+      "lang": "en",
+      "open": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "back": "https://www.eliai.cn/en/index.html?project=p36&pv=fcafe9ca8a0e904465b2#work",
+      "check": "en_case",
+      "url": "https://www.eliai.cn/en/cases/p36.html?pv=fcafe9ca8a0e904465b2&from=%2Fen%2Findex.html%3Fproject%3Dp36%26pv%3Dfcafe9ca8a0e904465b2%23work"
+    },
+    {
+      "check": "en_case_return",
+      "lang": "en",
+      "url": "https://www.eliai.cn/en/index.html?project=p36&pv=fcafe9ca8a0e904465b2#work"
+    },
+    {
+      "check": "en_service_link",
+      "h1": "AI implementation for small businesses",
+      "url": "https://www.eliai.cn/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+    },
+    {
+      "check": "en_contact",
+      "contact": true,
+      "overflow": false,
+      "qr": true,
+      "url": "https://www.eliai.cn/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+    },
+    {
+      "check": "en_qr_visible",
+      "complete": true,
+      "naturalWidth": 728,
+      "unobstructed": true,
+      "visible": true
+    },
+    {
+      "check": "contact_en_to_zh",
+      "contact": true,
+      "lang": "zh-CN",
+      "url": "https://www.eliai.cn/about.html?pv=fcafe9ca8a0e904465b2#contact"
+    },
+    {
+      "back": "https://www.eliai.cn/index.html?project=p10&pv=fcafe9ca8a0e904465b2#work",
+      "check": "zh_case",
+      "url": "https://www.eliai.cn/cases/p10.html?pv=fcafe9ca8a0e904465b2&from=%2Findex.html%3Fproject%3Dp10%26pv%3Dfcafe9ca8a0e904465b2%23work"
+    },
+    {
+      "check": "zh_case_return",
+      "industries": 8,
+      "overflow": false,
+      "url": "https://www.eliai.cn/index.html?project=p10&pv=fcafe9ca8a0e904465b2#work"
+    },
+    {
+      "bottom": 295.03125,
+      "check": "zh_qr_stable_after_normal_scroll",
+      "complete": true,
+      "naturalWidth": 728,
+      "top": 97.03125,
+      "unobstructed": true,
+      "url": "https://www.eliai.cn/about.html?pv=fcafe9ca8a0e904465b2#contact",
+      "visible": true
+    }
+  ],
+  "console_diagnostics": [
+    {
+      "level": "error",
+      "message": "AbortError: Transition was skipped. skipTransition() called",
+      "timestamp": "2026-10-20T07:38:50.836Z",
+      "url": "https://www.eliai.cn/index.html?pv=fcafe9ca8a0e904465b2#industries"
+    },
+    {
+      "level": "error",
+      "message": "AbortError: Transition was skipped. skipTransition() called",
+      "timestamp": "2026-10-20T07:39:42.075Z",
+      "url": "https://www.eliai.cn/en/index.html?pv=fcafe9ca8a0e904465b2#industries"
+    }
+  ],
+  "phone": "360px Chinese and 390px English browser simulation; not a physical phone",
+  "contact_note": "Initial anchor arrival and scrolling can leave the QR outside the viewport. Normal scrolling then confirmed loaded, fully visible, unobstructed QR in both languages. No contact source changes.",
+  "attribution": "All navigation, clicks and consultation entry QA are our tests, not natural search visits or customer enquiries."
+}

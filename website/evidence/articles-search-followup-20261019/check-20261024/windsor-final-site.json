@@ -1,0 +1,41 @@
+{
+  "status": "done",
+  "data": [
+    {
+      "date": "2026-10-17",
+      "impressions": 6,
+      "clicks": 0,
+      "position": 4.8333,
+      "data_fetched_at": "2026-10-21T01:58:14"
+    },
+    {
+      "date": "2026-10-18",
+      "impressions": 14,
+      "clicks": 0,
+      "position": 29.2857,
+      "data_fetched_at": "2026-10-24T02:09:13"
+    },
+    {
+      "date": "2026-10-19",
+      "impressions": 20,
+      "clicks": 0,
+      "position": 29.55,
+      "data_fetched_at": "2026-10-24T02:09:13"
+    },
+    {
+      "date": "2026-10-20",
+      "impressions": 22,
+      "clicks": 0,
+      "position": 15.1364,
+      "data_fetched_at": "2026-10-24T02:09:13"
+    },
+    {
+      "date": "2026-10-21",
+      "impressions": 21,
+      "clicks": 0,
+      "position": 12.1429,
+      "data_fetched_at": "2026-10-24T02:09:13"
+    }
+  ],
+  "total_rows": 5
+}

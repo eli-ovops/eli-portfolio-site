@@ -1,0 +1,23 @@
+{
+  "time": "2026-10-16T07:03:31.512Z",
+  "sdkCharacters": 30167,
+  "containsAllEightIds": true,
+  "requests": [
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "4",
+      "payload": "consultation*wechat_qr_click*/about.html|contact_details",
+      "canonicalPage": "https://www.eliai.cn/about.html",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "1",
+      "payload": "{id:#eli-consult-wechat-1,eventType:click}",
+      "canonicalPage": "https://www.eliai.cn/about.html",
+      "referrerOrigin": "https://www.eliai.cn"
+    }
+  ]
+}

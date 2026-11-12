@@ -1,0 +1,147 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: ../en/services/workflow-automation.html
+      - text: EN
+- main:
+  - link "← 返回业务场景":
+    - /url: ../index.html#needs
+  - generic: 企业 AI 服务
+  - heading "库存核对与重复录入自动化" [level=1]:
+    - generic: 库存核对与重复录入自动化
+  - paragraph: 同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。
+  - paragraph: 可约定的交付
+  - list:
+    - listitem: ↳一项流程的改造方案
+    - listitem: ↳可试用的工具或软件
+    - listitem: ↳核对方法与使用说明
+  - paragraph: 相关经验：主导扫码库存开发，处理入出库、重复提交与撤销纠错。
+  - link "看扫码库存案例 ↗":
+    - /url: ../cases/p09.html
+  - link "免费聊聊录入和库存核对问题 ↗":
+    - /url: ../about.html#contact
+  - link "更多相关案例 ↓":
+    - /url: "#cases"
+  - complementary:
+    - heading "内容导航" [level=2]
+    - navigation "内容导航":
+      - link "先改哪一步？":
+        - /url: "#priority"
+      - link "录入与库存核对":
+        - /url: "#inventory"
+      - link "产品资料、文案和配图整理":
+        - /url: "#content"
+      - link "怎样验证提效，避免只多一个工具？":
+        - /url: "#acceptance"
+      - link "库存与内容工作流案例":
+        - /url: "#cases"
+      - link "开始前常见问题":
+        - /url: "#questions"
+  - heading "先改哪一步？" [level=2]
+  - paragraph: 优先看每天都做、规则相对明确、输入输出可核对的工作。先记录谁负责、每次花多久、哪里返工，再找出重复搬运资料或人工核对的位置。
+  - paragraph: 企业降本增效要看总投入：工具费、员工学习时间、系统连接和维护都算成本。自动化一小步如果更好用，可以先停在这里，不必为了 AI 增加流程。
+  - heading "录入与库存核对" [level=2]
+  - paragraph: 适合先讨论同一份资料重复填写、入库移库出库的记录分散、盘点后人工对账等问题。先确认业务规则与权限，再判断使用现成工具还是开发库存软件。
+  - paragraph: 数量、单据和流水必须能核对；撤销、更正和操作记录也要有明确做法。规则确定的部分优先使用软件校验，需要理解非结构化内容时再评估 AI。
+  - heading "产品资料、文案和配图整理" [level=2]
+  - paragraph: 把产品事实、规格与可复用素材集中整理，再讨论 AI 是否适合辅助生成文案初稿或准备图片。内容发布前，价格、规格和品牌表述仍由负责人确认。
+  - paragraph: 先试一类产品或一个渠道，检查资料是否完整、输出是否需要反复修改。生成内容、人工审核和正式发布是不同步骤，分别确认是否可用。
+  - heading "怎样验证提效，避免只多一个工具？" [level=2]
+  - paragraph: 选择同类任务比较改造前后的处理时间、重复录入与返工情况，同时核对结果正确性。员工能否理解、出现错误能否恢复，也属于验收。
+  - paragraph: 先约定试用范围和成本，再按结果决定是否扩展。可以从 WorkBuddy 等现成工具的使用方式开始；需要定制开发、培训或后续维护时，另行确认费用。
+  - heading "库存与内容工作流案例" [level=2]
+  - paragraph: 库存项目与内容工具展示不同的工作方式。各案例分别说明个人职责、交付状态和验证范围，不把内容生成等同于全自动发布。
+  - heading "洁具行业某大型 B 端厂商库存管理系统 ↗" [level=3]:
+    - link "洁具行业某大型 B 端厂商库存管理系统 ↗":
+      - /url: ../cases/p10.html
+  - paragraph: 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。
+  - heading "某家具品牌扫码库存系统 ↗" [level=3]:
+    - link "某家具品牌扫码库存系统 ↗":
+      - /url: ../cases/p09.html
+  - paragraph: 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。
+  - heading "织境 · AI 内容工作台 ↗" [level=3]:
+    - link "织境 · AI 内容工作台 ↗":
+      - /url: ../cases/p12.html
+  - paragraph: 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。
+  - heading "开始前常见问题" [level=2]
+  - heading "企业提效一定要用 AI 吗？" [level=3]
+  - paragraph: 不一定。固定规则用表单、校验或普通软件可能更直接。先选适合业务的做法，再决定 AI 是否有帮助。
+  - heading "能承诺节省多少时间或费用吗？" [level=3]
+  - paragraph: 需要用你的实际任务试用后判断。先定义比较口径，记录正确性、耗时与维护成本，再讨论可验证的改善。
+  - heading "先聊一项具体工作" [level=2]
+  - paragraph: 说说现在怎么做、哪一步最费时间、希望变成什么样。
+  - link "免费聊聊录入和库存核对问题 ↗":
+    - /url: ../about.html#contact
+  - paragraph: 相关服务
+  - paragraph:
+    - link "中小企业 AI 落地实施服务 ↗":
+      - /url: fde-consulting.html
+    - text: ·
+    - link "企业知识库搭建与客服辅助答疑 ↗":
+      - /url: ai-agent.html
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

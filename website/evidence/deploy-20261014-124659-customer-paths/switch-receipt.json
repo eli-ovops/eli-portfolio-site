@@ -1,0 +1,12 @@
+{
+  "status": "SWITCHED",
+  "release": "20261014-124659-customer-paths",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-110604-return-origin",
+  "target": "/srv/eli-sites/portfolio/releases/20261014-124659-customer-paths",
+  "switched_at": "2026-10-14T04:47:15.358189+00:00",
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "nginx_config": "UNCHANGED",
+  "services": "UNCHANGED_ACTIVE",
+  "files_verified": 144,
+  "indexing": "DISABLED"
+}

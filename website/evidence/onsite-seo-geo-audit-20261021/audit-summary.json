@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-10-21T08:45:57.444059+08:00",
+  "website_revision": "4bc544a5361e14236d53",
+  "live_browser_pages": 12,
+  "live_public_text_files": 3,
+  "release_manifest_files_compared": 369,
+  "release_manifest_mismatches": 0,
+  "static_html_pages": 296,
+  "live_sitemap_urls": 294,
+  "live_sitemap_article_pages": 204,
+  "static_parameterized_internal_html_links": 5186,
+  "static_internal_html_link_occurrences": 7228,
+  "pages_with_parameterized_html_links": 296,
+  "direct_case_landings_without_main_service_links": [
+    "cases/p36.html",
+    "cases/p09.html",
+    "cases/p10.html",
+    "en/cases/p36.html",
+    "en/cases/p09.html",
+    "en/cases/p10.html"
+  ],
+  "latest_search_evidence_date": "2026-10-20T20:13:30.922748+08:00",
+  "new_search_console_checks": 0,
+  "new_model_queries": 0,
+  "website_source_edits": 0,
+  "builds": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "external_messages": 0,
+  "paid_resources": 0
+}

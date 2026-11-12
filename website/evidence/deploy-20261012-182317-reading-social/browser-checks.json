@@ -1,0 +1,194 @@
+[
+  {
+    "check": "About fresh",
+    "icons": 10,
+    "openQuestions": 0,
+    "questions": 3,
+    "robots": "noindex,nofollow",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#questions",
+    "workflow": 6
+  },
+  {
+    "check": "PetSocial case from About",
+    "intro": "以宠物资料连接发现、邀请和聊天，处理消息状态与重启恢复。",
+    "title": "PetSocial（现名 HelloTail）",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p15.html"
+  },
+  {
+    "check": "About back restores expanded answer",
+    "firstOpen": true,
+    "openQuestions": 1,
+    "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#questions"
+  },
+  {
+    "check": "library default order",
+    "count": "",
+    "order": [
+      "cases/p10.html",
+      "cases/p36.html",
+      "cases/p09.html",
+      "cases/p04.html",
+      "cases/p02.html",
+      "cases/p12.html",
+      "cases/p05.html"
+    ],
+    "schema": [
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html",
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html",
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html",
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p04.html",
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p02.html",
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p12.html",
+      "http://[REDACTED_HOST]/sites/portfolio/cases/p05.html"
+    ],
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html"
+  },
+  {
+    "check": "P10 concise case hero",
+    "facts": "我的工作\n独立负责需求、底座适配及交付\n使用状态\n已交付，尚未全面使用",
+    "intro": "围绕产品规格、采购、退货与盘点适配库存流程，连接 PC 与 H5 入口。",
+    "title": "洁具行业某大型 B 端厂商库存管理系统",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p10.html"
+  },
+  {
+    "check": "library search back",
+    "query": "库存",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98",
+    "visibleCases": [
+      "cases/p09.html",
+      "cases/p10.html"
+    ]
+  },
+  {
+    "check": "expanded gallery wheel",
+    "openIds": [
+      "process-p10"
+    ],
+    "url": "http://[REDACTED_HOST]/sites/portfolio/index.html",
+    "selected": "查看英国某净水品牌 RAG 智能客服定制"
+  },
+  {
+    "check": "gallery case back",
+    "before": {
+      "openIds": [
+        "process-p10",
+        "process-p36"
+      ],
+      "scrollY": 738,
+      "selected": "查看英国某净水品牌 RAG 智能客服定制"
+    },
+    "after": {
+      "openIds": [
+        "process-p10",
+        "process-p36"
+      ],
+      "scrollY": 738,
+      "selected": "查看英国某净水品牌 RAG 智能客服定制"
+    }
+  },
+  {
+    "check": "public colorful social marks",
+    "icons": [
+      {
+        "fill": "#FFFFFF",
+        "label": "小红书",
+        "layers": [
+          "#FF2442"
+        ],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": "#FB7299",
+        "label": "B站",
+        "layers": [],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": null,
+        "label": "抖音",
+        "layers": [
+          "#FF004F",
+          "#FFFFFF",
+          "#00F2EA"
+        ],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": "#FF0033",
+        "label": "YouTube",
+        "layers": [
+          "#FFFFFF"
+        ],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": "#0A66C2",
+        "label": "LinkedIn",
+        "layers": [
+          "#FFFFFF"
+        ],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": "#FFFFFF",
+        "label": "X",
+        "layers": [],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": "#E6162D",
+        "label": "微博",
+        "layers": [],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": null,
+        "label": "TikTok",
+        "layers": [
+          "#FF004F",
+          "#FFFFFF",
+          "#00F2EA"
+        ],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": null,
+        "label": "Instagram",
+        "layers": [
+          "url(#social-instagram-brand)",
+          "#FFFFFF"
+        ],
+        "opacity": "1",
+        "width": 24
+      },
+      {
+        "fill": "#0866FF",
+        "label": "Facebook",
+        "layers": [
+          "#FFFFFF"
+        ],
+        "opacity": "1",
+        "width": 24
+      }
+    ],
+    "url": "http://[REDACTED_HOST]/sites/portfolio/index.html"
+  },
+  {
+    "check": "English public mobile390 About",
+    "height": 844,
+    "openQuestions": 0,
+    "questions": 3,
+    "robots": "noindex,nofollow",
+    "scrollWidth": 375,
+    "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html#questions",
+    "width": 390
+  }
+]

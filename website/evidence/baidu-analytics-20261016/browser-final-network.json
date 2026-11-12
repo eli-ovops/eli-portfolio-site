@@ -1,0 +1,10 @@
+{
+  "responses": [
+    {
+      "path": "/hm.js",
+      "status": 200,
+      "contentLength": "0"
+    }
+  ],
+  "collectionRequests": 0
+}

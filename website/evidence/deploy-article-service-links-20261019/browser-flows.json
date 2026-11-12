@@ -1,0 +1,74 @@
+[
+  {
+    "step": "zh-CN workflow-automation article to service",
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=5c2760c23a73225e2ff6"
+  },
+  {
+    "step": "zh-CN workflow-automation case",
+    "url": "https://www.eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof",
+    "returnHref": "https://www.eliai.cn/services/workflow-automation.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "zh-CN workflow-automation return",
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "zh-CN workflow-automation consultation",
+    "url": "https://www.eliai.cn/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "contactVisible": true
+  },
+  {
+    "step": "en workflow-automation article to service",
+    "url": "https://www.eliai.cn/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6"
+  },
+  {
+    "step": "en workflow-automation case",
+    "url": "https://www.eliai.cn/en/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fen%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof",
+    "returnHref": "https://www.eliai.cn/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "en workflow-automation return",
+    "url": "https://www.eliai.cn/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "en workflow-automation consultation",
+    "url": "https://www.eliai.cn/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "contactVisible": true
+  },
+  {
+    "step": "zh-CN ai-agent article to service",
+    "url": "https://www.eliai.cn/services/ai-agent.html?pv=5c2760c23a73225e2ff6"
+  },
+  {
+    "step": "zh-CN ai-agent case",
+    "url": "https://www.eliai.cn/cases/p36.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fai-agent.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof",
+    "returnHref": "https://www.eliai.cn/services/ai-agent.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "zh-CN ai-agent return",
+    "url": "https://www.eliai.cn/services/ai-agent.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "zh-CN ai-agent consultation",
+    "url": "https://www.eliai.cn/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "contactVisible": true
+  },
+  {
+    "step": "en ai-agent article to service",
+    "url": "https://www.eliai.cn/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6"
+  },
+  {
+    "step": "en ai-agent case",
+    "url": "https://www.eliai.cn/en/cases/p36.html?pv=5c2760c23a73225e2ff6&from=%2Fen%2Fservices%2Fai-agent.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof",
+    "returnHref": "https://www.eliai.cn/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "en ai-agent return",
+    "url": "https://www.eliai.cn/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6#service-proof"
+  },
+  {
+    "step": "en ai-agent consultation",
+    "url": "https://www.eliai.cn/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+    "contactVisible": true
+  }
+]

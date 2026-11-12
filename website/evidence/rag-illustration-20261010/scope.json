@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-10",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "baseline": "hero-project-social-20261010",
+  "authorization": [
+    "现有资料补RAG，缺的不要编，本地不发布",
+    "随后用户确认没有原件，并要求拟写细节；明确采用示意标签，不能成为真实证据"
+  ],
+  "temporary_files": [],
+  "acceptance": [
+    "84-page build/static checks",
+    "42 paired English pages",
+    "2 labeled illustrative Q&A with internal source excerpt links",
+    "mobile/desktop visual checks",
+    "other37 projects unchanged"
+  ]
+}

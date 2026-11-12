@@ -1,0 +1,155 @@
+[
+  {
+    "check": "Desktop Chinese collapsed",
+    "mainIndustries": 9,
+    "moreIndustries": 6,
+    "moreOpen": false,
+    "newCaseLinks": 0,
+    "revision": "15bae53f8b145565a8a5",
+    "scrollWidth": 1425,
+    "url": "http://127.0.0.1:4178/index.html?pv=15bae53f8b145565a8a5#industries",
+    "width": 1440
+  },
+  {
+    "check": "Desktop more and nested industry keyboard open",
+    "childHeight": 139,
+    "childOpen": true,
+    "focused": "industry-education-training",
+    "moreOpen": true,
+    "parentOverflow": "visible",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "check": "Desktop close",
+    "moreOpen": true,
+    "motionState": "false"
+  },
+  {
+    "check": "Chinese360 logistics open",
+    "links": [
+      {
+        "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=15bae53f8b145565a8a5",
+        "text": "看库存与流程服务 ↗"
+      },
+      {
+        "href": "http://127.0.0.1:4178/about.html?pv=15bae53f8b145565a8a5#contact",
+        "text": "免费聊聊这项工作 ↗"
+      }
+    ],
+    "logisticsOpen": true,
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/index.html?pv=15bae53f8b145565a8a5#industry-logistics-warehousing",
+    "width": 360
+  },
+  {
+    "check": "Chinese360 all six expanded settled",
+    "children": [
+      {
+        "contentInside": true,
+        "id": "industry-education-training",
+        "inlineHeight": "",
+        "insideParent": true,
+        "open": true
+      },
+      {
+        "contentInside": true,
+        "id": "industry-food-multi-location",
+        "inlineHeight": "",
+        "insideParent": true,
+        "open": true
+      },
+      {
+        "contentInside": true,
+        "id": "industry-tourism-hospitality",
+        "inlineHeight": "",
+        "insideParent": true,
+        "open": true
+      },
+      {
+        "contentInside": true,
+        "id": "industry-events-exhibitions",
+        "inlineHeight": "",
+        "insideParent": true,
+        "open": true
+      },
+      {
+        "contentInside": true,
+        "id": "industry-software-technology",
+        "inlineHeight": "",
+        "insideParent": true,
+        "open": true
+      },
+      {
+        "contentInside": true,
+        "id": "industry-agri-food",
+        "inlineHeight": "",
+        "insideParent": true,
+        "open": true
+      }
+    ],
+    "inlineHeight": "",
+    "moreOpen": true,
+    "overflow": "visible",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "check": "Chinese more closed settled",
+    "focused": "industry-more",
+    "inlineHeight": "",
+    "moreOpen": false
+  },
+  {
+    "check": "Home industry language ZH to EN",
+    "lang": "en",
+    "mainCount": 9,
+    "moreCount": 6,
+    "url": "http://127.0.0.1:4178/en/index.html?pv=15bae53f8b145565a8a5#industry-logistics-warehousing"
+  },
+  {
+    "check": "English390 more open",
+    "labels": [
+      "Education and training",
+      "Restaurants and multi-location businesses",
+      "Travel and hospitality",
+      "Exhibitions and events",
+      "Software and technology services",
+      "Agricultural and food businesses"
+    ],
+    "lang": "en",
+    "moreOpen": true,
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/index.html?pv=15bae53f8b145565a8a5#industry-more",
+    "width": 390
+  },
+  {
+    "caseLinks": 0,
+    "check": "English nested tourism actions",
+    "links": [
+      {
+        "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=15bae53f8b145565a8a5",
+        "text": "Knowledge-base and support services ↗"
+      },
+      {
+        "href": "http://127.0.0.1:4178/en/about.html?pv=15bae53f8b145565a8a5#contact",
+        "text": "Discuss this task for free ↗"
+      }
+    ],
+    "open": true
+  },
+  {
+    "check": "English more industry to service",
+    "h1": "Knowledge base setup and AI-assisted support",
+    "lang": "en",
+    "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=15bae53f8b145565a8a5"
+  },
+  {
+    "check": "English new industry consultation",
+    "contact": true,
+    "lang": "en",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/about.html?pv=15bae53f8b145565a8a5#contact",
+    "width": 390
+  }
+]

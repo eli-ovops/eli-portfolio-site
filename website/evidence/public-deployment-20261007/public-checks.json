@@ -1,0 +1,28 @@
+{
+  "verified_exact_hash_files": 79,
+  "blocked": {
+    "docs/asset-register.json": 404,
+    "content/profile.json": 404,
+    "scripts/build.py": 404,
+    ".git/config": 404,
+    "cases/": 403,
+    "assets/img01.webp": 404,
+    "assets/img19.png": 404,
+    "missing-page": 404
+  },
+  "existing_erp_read_only_checks": {
+    "/login": {
+      "status": 200,
+      "bytes": 34891
+    },
+    "/mobile/": {
+      "status": 200,
+      "bytes": 978
+    },
+    "/erp-prod-api/captchaImage": {
+      "status": 200,
+      "bytes": 56
+    }
+  },
+  "public_url": "http://[REDACTED_HOST]/sites/portfolio/"
+}

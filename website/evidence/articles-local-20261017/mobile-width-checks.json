@@ -1,0 +1,38 @@
+[
+  {
+    "articleCount": 2,
+    "documentWidth": 305,
+    "headerRight": 285,
+    "path": "/articles.html",
+    "revision": "475b995cfd9e5b56cdfe",
+    "robots": "noindex,nofollow",
+    "width": 320
+  },
+  {
+    "articleCount": 1,
+    "documentWidth": 305,
+    "headerRight": 285,
+    "path": "/articles/inventory-reconciliation.html",
+    "revision": "475b995cfd9e5b56cdfe",
+    "robots": "noindex,nofollow",
+    "width": 320
+  },
+  {
+    "articleCount": 1,
+    "documentWidth": 305,
+    "headerRight": 285,
+    "path": "/articles/enterprise-knowledge-base.html",
+    "revision": "475b995cfd9e5b56cdfe",
+    "robots": "noindex,nofollow",
+    "width": 320
+  },
+  {
+    "articleCount": 2,
+    "documentWidth": 305,
+    "headerRight": 288.078125,
+    "path": "/index.html",
+    "revision": "475b995cfd9e5b56cdfe",
+    "robots": "index,follow",
+    "width": 320
+  }
+]

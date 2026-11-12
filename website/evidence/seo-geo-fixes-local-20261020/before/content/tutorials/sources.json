@@ -1,0 +1,310 @@
+{
+  "ibm-ai": {
+    "title": [
+      "AI 概念参考：IBM",
+      "AI concepts: IBM"
+    ],
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+  },
+  "ibm-llm": {
+    "title": [
+      "大语言模型参考：IBM",
+      "Large language models: IBM"
+    ],
+    "url": "https://www.ibm.com/think/topics/large-language-models"
+  },
+  "search": {
+    "title": [
+      "Google 搜索工作方式",
+      "How Google Search works"
+    ],
+    "url": "https://www.google.com/search/howsearchworks/"
+  },
+  "prompt": {
+    "title": [
+      "提示词方法参考：Microsoft",
+      "Prompt guidance: Microsoft"
+    ],
+    "url": "https://learn.microsoft.com/en-us/dotnet/ai/conceptual/prompt-engineering-dotnet"
+  },
+  "nist": {
+    "title": [
+      "风险与流程检查参考：NIST",
+      "Risk and process guidance: NIST"
+    ],
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+  },
+  "google-llm": {
+    "title": [
+      "语言模型基础：Google",
+      "Language model foundations: Google"
+    ],
+    "url": "https://developers.google.com/machine-learning/crash-course/llm"
+  },
+  "google-tuning": {
+    "title": [
+      "微调、蒸馏与提示词：Google",
+      "Fine-tuning, distillation and prompts: Google"
+    ],
+    "url": "https://developers.google.com/machine-learning/crash-course/llm/tuning"
+  },
+  "neural": {
+    "title": [
+      "神经网络基础：Google",
+      "Neural network foundations: Google"
+    ],
+    "url": "https://developers.google.com/machine-learning/crash-course/neural-networks"
+  },
+  "embeddings": {
+    "title": [
+      "Embedding 基础：Google",
+      "Embedding foundations: Google"
+    ],
+    "url": "https://developers.google.com/machine-learning/crash-course/embeddings"
+  },
+  "rag": {
+    "title": [
+      "RAG 概念参考：IBM",
+      "RAG concepts: IBM"
+    ],
+    "url": "https://www.ibm.com/think/topics/retrieval-augmented-generation"
+  },
+  "agents": {
+    "title": [
+      "Agent 与工作流：Anthropic",
+      "Agents and workflows: Anthropic"
+    ],
+    "url": "https://www.anthropic.com/engineering/building-effective-agents"
+  },
+  "harness": {
+    "title": [
+      "长任务运行配套：Anthropic",
+      "Long-running agent harnesses: Anthropic"
+    ],
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
+  },
+  "skills": {
+    "title": [
+      "Agent Skills 官方说明",
+      "Agent Skills overview"
+    ],
+    "url": "https://agentskills.io/home"
+  },
+  "skills-spec": {
+    "title": [
+      "Agent Skills 格式规范",
+      "Agent Skills specification"
+    ],
+    "url": "https://agentskills.io/specification"
+  },
+  "mcp": {
+    "title": [
+      "MCP 官方介绍",
+      "MCP official introduction"
+    ],
+    "url": "https://modelcontextprotocol.io/docs/getting-started/intro"
+  },
+  "mcp-security": {
+    "title": [
+      "MCP 安全实践",
+      "MCP security best practices"
+    ],
+    "url": "https://modelcontextprotocol.io/docs/tutorials/security/security_best_practices"
+  },
+  "owasp": {
+    "title": [
+      "提示词注入参考：OWASP",
+      "Prompt injection: OWASP"
+    ],
+    "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+  },
+  "json": {
+    "title": [
+      "JSON 格式参考：MDN",
+      "JSON format: MDN"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON"
+  },
+  "mdn-api": {
+    "title": [
+      "API 概念参考：MDN",
+      "API concepts: MDN"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction"
+  },
+  "mdn-html": {
+    "title": [
+      "网页入门参考：MDN",
+      "Web foundations: MDN"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax"
+  },
+  "mdn-cli": {
+    "title": [
+      "命令行入门：MDN",
+      "Command line foundations: MDN"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line"
+  },
+  "mdn-publishing": {
+    "title": [
+      "网页发布参考：MDN",
+      "Publishing a website: MDN"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website"
+  },
+  "npm": {
+    "title": [
+      "依赖管理参考：npm",
+      "Dependency management: npm"
+    ],
+    "url": "https://docs.npmjs.com/about-packages-and-modules"
+  },
+  "github": {
+    "title": [
+      "GitHub 官方入门",
+      "GitHub introduction"
+    ],
+    "url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github"
+  },
+  "github-repos": {
+    "title": [
+      "GitHub 仓库参考",
+      "GitHub repositories"
+    ],
+    "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories"
+  },
+  "github-readme": {
+    "title": [
+      "README 官方说明",
+      "About READMEs"
+    ],
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes"
+  },
+  "github-releases": {
+    "title": [
+      "Release 官方说明",
+      "About releases"
+    ],
+    "url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases"
+  },
+  "github-commit": {
+    "title": [
+      "Commit 官方说明",
+      "About commits"
+    ],
+    "url": "https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits"
+  },
+  "github-hello": {
+    "title": [
+      "GitHub Hello World",
+      "GitHub Hello World"
+    ],
+    "url": "https://docs.github.com/en/get-started/using-github/hello-world"
+  },
+  "github-pr": {
+    "title": [
+      "Pull Request 官方说明",
+      "About pull requests"
+    ],
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests"
+  },
+  "github-issues": {
+    "title": [
+      "Issue 官方说明",
+      "About issues"
+    ],
+    "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues"
+  },
+  "github-license": {
+    "title": [
+      "许可证原文定位：GitHub",
+      "Locating licenses: GitHub"
+    ],
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository"
+  },
+  "github-visibility": {
+    "title": [
+      "仓库可见性：GitHub",
+      "Repository visibility: GitHub"
+    ],
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility"
+  },
+  "github-secrets": {
+    "title": [
+      "秘密扫描参考：GitHub",
+      "Secret scanning: GitHub"
+    ],
+    "url": "https://docs.github.com/en/code-security/secret-scanning/introduction/about-secret-scanning"
+  },
+  "ocr": {
+    "title": [
+      "OCR 概念参考：IBM",
+      "OCR concepts: IBM"
+    ],
+    "url": "https://www.ibm.com/think/topics/optical-character-recognition"
+  },
+  "fde": {
+    "title": [
+      "本站服务范围与咨询说明",
+      "Our service scope and consultation"
+    ],
+    "url": "https://www.eliai.cn/services/fde-consulting.html"
+  },
+  "wb-files": {
+    "title": [
+      "WorkBuddy 官方文件处理示例",
+      "WorkBuddy official file-processing examples"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-One"
+  },
+  "wb-data": {
+    "title": [
+      "WorkBuddy 官方表格分析示例",
+      "WorkBuddy official data-analysis examples"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three"
+  },
+  "wb-results": {
+    "title": [
+      "WorkBuddy 官方结果查看说明",
+      "WorkBuddy official results guide"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/Results"
+  },
+  "wb-skills": {
+    "title": [
+      "WorkBuddy 官方技能说明",
+      "WorkBuddy official skills guide"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market"
+  },
+  "wb-permissions": {
+    "title": [
+      "WorkBuddy 官方权限说明",
+      "WorkBuddy official permission guide"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Permission-Modes"
+  },
+  "wb-connectors": {
+    "title": [
+      "WorkBuddy 官方连接器说明",
+      "WorkBuddy official connector guide"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector"
+  },
+  "wb-faq": {
+    "title": [
+      "WorkBuddy 官方常见问题",
+      "WorkBuddy official FAQ"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ"
+  },
+  "wb-first-task": {
+    "title": [
+      "WorkBuddy 官方首次任务指引",
+      "WorkBuddy official first-task guide"
+    ],
+    "url": "https://www.workbuddy.cn/docs/workbuddy/FirstTask"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-10-22T11:50:43.193773+00:00",
+  "status": "READ_ONLY_ONBOARDING_GAP_CHECK_COMPLETE",
+  "google_sitemap": {
+    "native_status": "成功",
+    "discovered": 294,
+    "last_read_display": "2026年10月21日",
+    "last_submit_display": "2026年10月17日"
+  },
+  "bing_sitemap": {
+    "native_status": "Success",
+    "known_maps": 1,
+    "errors": 0,
+    "warnings": 0,
+    "discovered": 294,
+    "last_crawl_display": "10/19/2026",
+    "last_submit_display": "10/15/2026",
+    "indexing_not_implied": true
+  },
+  "toutiao_sitemap": {
+    "native_status": "正常",
+    "urls": 294,
+    "last_crawl_display": "2026-10-22 05:39:34",
+    "last_submit_display": "2026-10-17 15:00:40",
+    "timezone": "UNKNOWN",
+    "indexing_not_implied": true
+  },
+  "baidu": {
+    "current_site_subject": "未关联",
+    "current_icp_field": "未填写",
+    "sitemap_daily_quota": 0,
+    "sitemap_remaining": 0,
+    "sitemap_inventory_limit": 0,
+    "sitemap_history": "没有数据",
+    "submit_disabled": true,
+    "historical_subject_receipt": "16Oct submitted for review; approval not established",
+    "current_approval_state": "UNKNOWN; no identity fields or materials read",
+    "personal_association_ui": "关联已有主体 / 注册新主体; association cannot be undone within7days per notice; no binding submitted",
+    "priority": "P1 resolve existing application/association state; do not re-register or resubmit blindly"
+  },
+  "so360": {
+    "site_exists": true,
+    "site_ownership": "Incomplete; verification disabled",
+    "native_icp_status": "未检测到备案",
+    "contact_route": "Official contact page points to360Webmaster forum",
+    "wrong_form_avoided": "收录异常 form describes48h index changes, not this verification problem",
+    "draft": "360-support-draft.md",
+    "priority": "P1 specific official verification support feedback, pending review/authorization"
+  },
+  "yandex": {
+    "sitemap_tool": "READ_ONLY_BY_PLATFORM",
+    "add_disabled": true,
+    "message": "Cannot add a file or submit it for recrawling; engineers restoring service",
+    "priority": "Wait for platform restoration; no duplicate submit"
+  },
+  "sogou": {
+    "evidence_scope": "reuse same-day native ownership/index record",
+    "ownership": "Verified root, senior administrator",
+    "sitemap_note": "16Oct native submission tool rejected sitemap files; not treated as forgotten sitemap",
+    "additional_manual_submission": "Not authorized; previous user paused manual batches"
+  },
+  "bing_support": {
+    "draft": "bing-support-draft.txt",
+    "official_support_reference": "https://www.bing.com/webmasters/help/webmaster-support-24ab5ebf",
+    "purpose": "Ask specific access/eligibility reason; not demand guaranteed inclusion",
+    "send_status": "NOT_SENT"
+  },
+  "actions": {
+    "website_changes": 0,
+    "server_changes": 0,
+    "new_verifications": 0,
+    "association_submissions": 0,
+    "sitemap_submissions": 0,
+    "url_submissions": 0,
+    "index_requests": 0,
+    "emails": 0,
+    "forum_posts": 0,
+    "captcha_actions": 0,
+    "identity_materials_read_or_saved": 0
+  },
+  "privacy": "Only sitemap/property status and control labels read; no API credential values or identity fields collected. Support-widget URLs redacted from evidence.",
+  "followup_receipt": "support-followup-receipt.json",
+  "historical_snapshot_notice": "Fields above preserve the earlier read-only check; current authorized support sends and Baidu follow-up are recorded in followup_receipt."
+}

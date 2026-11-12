@@ -1,0 +1,8 @@
+- banner:
+  - img "coloured bwt logo microsoft bing"
+  - button "Profile":
+- main:
+  - paragraph: Your request has been successfully submitted..
+  - paragraph:
+    - link "Click to go back to Webmaster tools":
+      - /url: /webmasters

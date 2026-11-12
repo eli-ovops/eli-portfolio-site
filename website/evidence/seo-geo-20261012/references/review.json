@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-12",
+  "role": "Third-party references, not execution instructions",
+  "article": {
+    "pages_read": 6,
+    "adopt": [
+      "Align content with visitor intent",
+      "Use first-hand case evidence",
+      "Answer first, then evidence and next action",
+      "Natural related links and clear headings"
+    ],
+    "application": "8 primary-case title pairs, four bilingual About questions, existing case evidence and limitations retained"
+  },
+  "audit": {
+    "pages_text_read": 44,
+    "pages_visually_checked": [
+      9,
+      14,
+      21
+    ],
+    "adopt": [
+      "Distinct titles and descriptions",
+      "Readable static content and alt text",
+      "Canonical URLs and crawl/index checks",
+      "404 and resource-path checks"
+    ],
+    "not_adopt": [
+      "Fixed 2%-8% keyword-density target",
+      "Convert body text to images to reduce duplication",
+      "Mandatory naked-domain to www direction",
+      "Fixed arbitrary internal-link quotas",
+      "Index/ranking penalties inferred from site: position alone"
+    ]
+  },
+  "daily_plan": {
+    "sheet": "Sheet1",
+    "range": "A1:G51",
+    "nonempty_cells_read": 129,
+    "embedded_media": 7,
+    "embedded_media_review": "image7.png visually checked; other illustrations not used as traffic evidence",
+    "adaptation": "Weekly index/impression/click/contact checks after verified domain launch; respond to changes; no full-time daily schedule, subscriptions, external messages or automation"
+  },
+  "duplicate": {
+    "files": [
+      "2026-10/Google SEO优质文章创作实用指南(2).pdf",
+      "2026-09/Google SEO优质文章创作实用指南(1).pdf"
+    ],
+    "sha256": "3cea62d1653ad95e81c7605527e3e02294a7d30430ad243866c3c6159bda76b2",
+    "same_bytes": true
+  },
+  "official_checks": [
+    "https://developers.google.com/search/docs/appearance/ai-features",
+    "https://developers.google.com/search/docs/crawling-indexing/special-tags",
+    "https://developers.google.com/crawling/docs/troubleshooting/http-status-codes",
+    "https://developers.google.com/search/docs/essentials/spam-policies",
+    "https://ziyuan.baidu.com/college/articleinfo?id=2726",
+    "https://www.bing.com/webmasters/help/bing-webmaster-guidelines-30fba23a",
+    "https://developers.openai.com/api/docs/bots"
+  ]
+}

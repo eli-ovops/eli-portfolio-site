@@ -1,0 +1,612 @@
+{
+  "revision": "f8690e826c7334c83a71",
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "desktop home case related return",
+      "result": {
+        "counter": "02 / 07",
+        "url": "https://www.eliai.cn/index.html?project=p36&pv=f8690e826c7334c83a71#work"
+      }
+    },
+    {
+      "check": "mobile gallery switch and return",
+      "result": {
+        "counter": "03 / 07",
+        "scrollWidth": 390,
+        "url": "https://www.eliai.cn/index.html?project=p09&pv=f8690e826c7334c83a71#work",
+        "width": 390
+      }
+    },
+    {
+      "check": "service related return mobile",
+      "result": {
+        "scrollWidth": 390,
+        "url": "https://www.eliai.cn/services/ai-agent.html?pv=f8690e826c7334c83a71#service-proof",
+        "width": 390
+      }
+    },
+    {
+      "check": "consultation mobile",
+      "result": {
+        "qrLoaded": true,
+        "scrollWidth": 390,
+        "url": "https://www.eliai.cn/about.html?pv=f8690e826c7334c83a71#contact",
+        "width": 390
+      }
+    },
+    {
+      "check": "catalogue search filter related return",
+      "result": {
+        "count": "2 项记录",
+        "search": "库存",
+        "url": "https://www.eliai.cn/records.html?pv=f8690e826c7334c83a71&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+      }
+    },
+    {
+      "check": "first click clear and return no stale conditions",
+      "result": {
+        "count": "38 项记录",
+        "filter": "全部",
+        "search": "",
+        "url": "https://www.eliai.cn/records.html?pv=f8690e826c7334c83a71"
+      }
+    },
+    {
+      "check": "responsive templates 390 and 320",
+      "result": [
+        {
+          "h1": "帮你的公司用好 AI从重复工作开始",
+          "images": [
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            }
+          ],
+          "path": "/index.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "images": [],
+          "path": "/records.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "h1": "关于我",
+          "images": [
+            {
+              "alt": "机器人视觉插画",
+              "loaded": true
+            },
+            {
+              "alt": "Eli 的微信二维码",
+              "loaded": true
+            }
+          ],
+          "path": "/about.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "h1": "FDE 企业 AI 落地咨询",
+          "images": [],
+          "path": "/services/fde-consulting.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "h1": "企业 AI Agent 与知识库应用",
+          "images": [],
+          "path": "/services/ai-agent.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "h1": "企业提效，从一项重复工作开始",
+          "images": [],
+          "path": "/services/workflow-automation.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "h1": "Sanitaryware manufacturer inventory system",
+          "images": [
+            {
+              "alt": "Sanitaryware manufacturer inventory system — anonymized interface",
+              "loaded": true
+            }
+          ],
+          "path": "/en/cases/p10.html",
+          "scrollWidth": 390,
+          "width": 390
+        },
+        {
+          "h1": "帮你的公司用好 AI从重复工作开始",
+          "images": [
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": true
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            },
+            {
+              "alt": "",
+              "loaded": false
+            }
+          ],
+          "path": "/index.html",
+          "scrollWidth": 320,
+          "width": 320
+        },
+        {
+          "images": [],
+          "path": "/records.html",
+          "scrollWidth": 320,
+          "width": 320
+        },
+        {
+          "h1": "关于我",
+          "images": [
+            {
+              "alt": "机器人视觉插画",
+              "loaded": true
+            },
+            {
+              "alt": "Eli 的微信二维码",
+              "loaded": true
+            }
+          ],
+          "path": "/about.html",
+          "scrollWidth": 320,
+          "width": 320
+        },
+        {
+          "h1": "FDE 企业 AI 落地咨询",
+          "images": [],
+          "path": "/services/fde-consulting.html",
+          "scrollWidth": 320,
+          "width": 320
+        },
+        {
+          "h1": "企业 AI Agent 与知识库应用",
+          "images": [],
+          "path": "/services/ai-agent.html",
+          "scrollWidth": 320,
+          "width": 320
+        },
+        {
+          "h1": "企业提效，从一项重复工作开始",
+          "images": [],
+          "path": "/services/workflow-automation.html",
+          "scrollWidth": 320,
+          "width": 320
+        },
+        {
+          "h1": "Sanitaryware manufacturer inventory system",
+          "images": [
+            {
+              "alt": "Sanitaryware manufacturer inventory system — anonymized interface",
+              "loaded": true
+            }
+          ],
+          "path": "/en/cases/p10.html",
+          "scrollWidth": 320,
+          "width": 320
+        }
+      ]
+    },
+    {
+      "check": "mobile image enlargement scroll lock and close",
+      "before": {
+        "bodyOverflow": "hidden",
+        "open": true,
+        "rootOverflow": "hidden",
+        "y": 168
+      },
+      "after": {
+        "open": true,
+        "y": 168
+      },
+      "closed": {
+        "focus": "detail-image-trigger",
+        "open": false
+      }
+    },
+    {
+      "check": "home returned reading position after smooth scroll settled",
+      "result": {
+        "counter": "02 / 07",
+        "url": "https://www.eliai.cn/index.html?project=p36&pv=f8690e826c7334c83a71#work",
+        "workTop": 24.328125,
+        "y": 1420
+      }
+    },
+    {
+      "check": "actual browser viewport 390 contact",
+      "result": {
+        "noOverflow": true,
+        "contactAnchorReached": true,
+        "qrLoaded": true
+      }
+    }
+  ],
+  "limitations": [
+    "Browser simulated viewport, no physical handset",
+    "No claim for all browser engines or FPS",
+    "No email/phone/WhatsApp message sent",
+    "Baidu conversion report not part of V1 release QA"
+  ],
+  "screenshots": "Use files with -viewport suffix for actual current viewport; earlier clip screenshots use document coordinates."
+}

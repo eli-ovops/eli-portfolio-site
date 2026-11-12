@@ -1,0 +1,46 @@
+{
+  "app.js": {
+    "sha256": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "unchanged": true
+  },
+  "templates/layout.html": {
+    "sha256": "acb8461f4b8049ec8c18b072e1350d4c1cb111f921bb376338c889cbd88b5ebd",
+    "unchanged": true
+  },
+  "assets/page-version.js": {
+    "sha256": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49",
+    "unchanged": true
+  },
+  "assets/screenshot-viewer.js": {
+    "sha256": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1",
+    "unchanged": true
+  },
+  "styles.css": {
+    "sha256": "0ea25f1104c04967e32d282ad807eed9ef395c018d1009db2ab1d527caffe1a9",
+    "unchanged": true
+  },
+  "assets/bits-ui.css": {
+    "sha256": "e75c2644ce741e39b4e6214c7eebe5a208bdbbf73c883ff713fb17a4c55f4068",
+    "unchanged": true
+  },
+  "assets/bits-ui.js": {
+    "sha256": "a4f94707670abf0e5d0f085dec4ee895d99e5f2f7ed1905957185e81d250ba5c",
+    "unchanged": true
+  },
+  "templates/about.html": {
+    "sha256": "225db010b452ed25f2ad7a1f5cbd06ff8aaf6354a945e2979cd46befc55df359",
+    "unchanged": true
+  },
+  "templates/home.html": {
+    "sha256": "8280881f652b81050c784ea2de98e8befc8f1e093e63ef5d346e9949e09a05ea",
+    "unchanged": true
+  },
+  "content/projects.json": {
+    "sha256": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+    "unchanged": true
+  },
+  "content/seo.json": {
+    "sha256": "dec264d79bde16dfd01771810c8fe810051452c37b9c8c33e82e028a6aa4a6d7",
+    "unchanged": true
+  }
+}

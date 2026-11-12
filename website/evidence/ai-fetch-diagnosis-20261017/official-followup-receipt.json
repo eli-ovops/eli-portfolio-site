@@ -1,0 +1,76 @@
+{
+  "checked_at": "2026-10-17T07:30:18.570835+00:00",
+  "status": "OFFICIAL_REMEDIATION_IDENTIFIED_FETCH_CAUSE_UNRESOLVED",
+  "baseline_receipt": "receipt.json",
+  "perplexity": {
+    "native_failure_reconfirmed_from_existing_thread": true,
+    "new_fetch_queries": 0,
+    "root_cause": "UNKNOWN",
+    "website_side_fix_supported_by_evidence": false,
+    "official_next_step": "Help > Contact Support or [REDACTED_EMAIL]",
+    "draft": "perplexity-support-draft.txt",
+    "sent": false,
+    "no_index_submission_endpoint_confirmed_in_reviewed_official_docs": true
+  },
+  "quark": {
+    "new_official_web_entry": "https://123.quark.cn/",
+    "destination_host": "www.quark.cn",
+    "query": "eliai.cn",
+    "result": "No exact website in first result screen",
+    "requires_installation": false,
+    "requires_login_for_test": false,
+    "ai_generated_answer_citation": "NOT_VERIFIED; this screen is web results despite Quark AI branding",
+    "independent_webmaster_submission_channel": "NOT_CONFIRMED",
+    "shenma_sitemap_guarantees_quark_ai_coverage": false,
+    "registration": "PAUSED_USER_REQUEST",
+    "draft": "quark-support-draft.txt",
+    "sent": false
+  },
+  "changes": {
+    "source_ui_css_js": false,
+    "production_config": false,
+    "deployments": 0,
+    "index_submissions": 0,
+    "software_installs": 0,
+    "external_support_sends": 0
+  },
+  "official_sources": [
+    {
+      "url": "https://docs.perplexity.ai/docs/resources/perplexity-crawlers",
+      "finding": "Separate PerplexityBot and Perplexity-User; allow robots and published ranges; WAF guidance is conditional, not a reason to add broad bypasses."
+    },
+    {
+      "url": "https://www.perplexity.ai/help-center/en/articles/10354894-how-do-i-submit-a-bug-report",
+      "finding": "Official bug report route: Help > Contact Support; include browser, reproduction details and optional screenshots."
+    },
+    {
+      "url": "https://www.perplexity.ai/en-GB/hub/security-vdp",
+      "finding": "Functional issues directed to [REDACTED_EMAIL], not vulnerability reporting."
+    },
+    {
+      "url": "https://www.perplexity.ai/help-center/en/articles/10354884-cloudflare-vpns",
+      "finding": "Concerns access to Perplexity own UI; user already completed challenge. Does not diagnose remote website fetching."
+    },
+    {
+      "url": "https://123.quark.cn/",
+      "finding": "Official navigation search opens www.quark.cn results in a new tab, usable without software installation or login for this query."
+    },
+    {
+      "url": "https://www.quark.cn/documents/help",
+      "finding": "Official customer service email [REDACTED_EMAIL]; public help reviewed did not establish a separate Quark webmaster submission channel."
+    },
+    {
+      "url": "https://zhanzhang.sm.cn/open/helpsitemap",
+      "finding": "Official Shenma sitemap documentation; says submission does not guarantee crawl, indexing or ranking. Does not establish guaranteed Quark AI coverage."
+    },
+    {
+      "url": "https://zhanzhang.sm.cn/open/help",
+      "finding": "Official Shenma support email and help links; registration remains paused by user."
+    }
+  ],
+  "evidence": [
+    "quark-official-pc-web-result.txt",
+    "quark-official-pc-web-result.jpg",
+    "perplexity-support-clean.jpg"
+  ]
+}

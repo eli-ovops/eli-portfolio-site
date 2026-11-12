@@ -1,0 +1,14 @@
+{
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261019-article-service-links-5c2760c2",
+  "files_verified": 365,
+  "previous_release_unchanged": true,
+  "nginx_configs_unchanged": true,
+  "ip_preview_unchanged": true,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "free_bytes": [REDACTED_PHONE]
+}

@@ -1,0 +1,49 @@
+/* Website layout around the unmodified official React Bits FlexCarousel. */
+.selected-work.flex-gallery-enabled { padding-top:24px; padding-bottom:28px; }
+.flex-gallery-enabled .work-heading { margin-bottom:18px; }
+.flex-gallery-enabled .depth-stage { display:flex; flex-direction:column; gap:0; overflow:visible; }
+/* Keep the official lens shaders and CSS. Only the host responds to screen size. */
+.official-flex-shell { position:relative; width:100%; height:560px; }
+.official-flex-shell .flex-carousel { width:100%; height:100%; }
+.official-flex-shell .flex-carousel__count { display:none; }
+.flex-gallery-enabled .depth-controls { position:static; z-index:auto; display:grid; grid-template-columns:80px minmax(0,1fr) 98px; gap:18px; padding:14px 0 18px; background:var(--bg); }
+.flex-gallery-enabled .depth-position { font-size:13px; margin:0; white-space:nowrap; }
+.flex-gallery-enabled .depth-controls>div { justify-content:flex-end; gap:10px; }
+.flex-gallery-enabled .depth-controls button { width:44px; height:44px; border:1px solid var(--line); background:var(--bg); color:var(--ink); }
+.flex-gallery-enabled .flex-carousel-index { display:flex; flex-wrap:wrap; justify-content:center; gap:4px 18px; }
+.flex-gallery-enabled .flex-carousel-index button { border:0; border-bottom:2px solid transparent; border-radius:0; width:auto; height:auto; min-height:44px; padding:6px 0; color:var(--muted); font-size:13px; white-space:nowrap; }
+.flex-gallery-enabled .flex-carousel-index button[aria-pressed=true] { color:var(--accent); border-bottom-color:var(--accent); }
+.flex-gallery-enabled .flex-carousel-index button:hover { color:var(--ink); }
+.selected-work.flex-gallery-enabled .poster-gallery { position:relative; display:grid; height:auto; min-height:0; perspective:none; isolation:auto; grid-template-columns:1fr; margin:0; }
+.selected-work.flex-gallery-enabled .gallery-project { display:none; position:static; inset:auto; grid-template-columns:none; gap:0; opacity:1; margin:0; padding:0; }
+.selected-work.flex-gallery-enabled .gallery-project.depth-current { display:block; }
+.selected-work.flex-gallery-enabled .gallery-project>.project-image { display:none; }
+.selected-work.flex-gallery-enabled .gallery-project .selected-caption { display:grid; grid-template-columns:minmax(0,.95fr) minmax(0,1.2fr); gap:10px 48px; padding:20px 0 0; border-top:1px solid var(--line); opacity:1; pointer-events:auto; max-height:none; overflow:visible; }
+.flex-gallery-enabled .selected-caption>.case-type { grid-column:1; grid-row:1; margin:0; font-size:12px; }
+.flex-gallery-enabled .selected-caption>h3 { grid-column:1; grid-row:2 / span 3; font-size:clamp(22px,2.3vw,30px); line-height:1.45; margin:0; max-width:20em; }
+.flex-gallery-enabled .selected-caption>.case-stage { grid-column:2; grid-row:1; margin:0; font-size:12px; color:var(--accent); }
+.flex-gallery-enabled .selected-caption>.project-summary { grid-column:2; grid-row:2; margin:0; font-size:15px; line-height:1.85; }
+.flex-gallery-enabled .selected-caption>.project-process { grid-column:2; grid-row:3; margin:0; border:0; }
+.flex-gallery-enabled .selected-caption>.case-detail-link { grid-column:2; grid-row:4; margin:0; min-height:44px; justify-self:start; align-self:start; }
+@media(max-width:850px) {
+ .flex-gallery-enabled .depth-controls { grid-template-columns:1fr 98px; }
+ .flex-gallery-enabled .flex-carousel-index { display:none; }
+ .selected-work.flex-gallery-enabled .gallery-project .selected-caption { gap:10px 28px; }
+}
+@media(max-width:650px) {
+ .selected-work.flex-gallery-enabled { padding-top:24px; }
+ .official-flex-shell { height:420px; }
+ .flex-gallery-enabled .depth-controls { padding:10px 0 14px; }
+ .selected-work.flex-gallery-enabled .gallery-project .selected-caption { display:flex; flex-direction:column; gap:8px; padding-top:16px; }
+ .flex-gallery-enabled .selected-caption>h3 { font-size:23px; max-width:none; }
+ .flex-gallery-enabled .selected-caption>.project-summary { font-size:14px; line-height:1.8; }
+ .flex-gallery-enabled .selected-caption>.case-detail-link { align-self:flex-start; }
+}
+@media(prefers-reduced-motion:no-preference) {
+ .flex-gallery-enabled .depth-current .selected-caption { animation:flex-caption-in .24s ease-out both; }
+ .flex-carousel-index button { transition:color .18s,border-color .18s; }
+ @keyframes flex-caption-in { from { opacity:.4; transform:translateY(5px); } to { opacity:1; transform:none; } }
+}
+
+.flex-official-enabled .selected-caption>.flex-full-image { grid-column:1; grid-row:5; justify-self:start; min-height:44px; font-size:13px; color:var(--muted); }
+@media(max-width:650px) { .flex-official-enabled .selected-caption>.flex-full-image { align-self:flex-start; } }

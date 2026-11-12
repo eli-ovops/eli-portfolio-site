@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-20T20:13:30.922748+08:00",
+  "status": "READ_ONLY_USER_REQUESTED_RECHECK_COMPLETE",
+  "website_revision": "4bc544a5361e14236d53",
+  "conclusion": "No newly confirmed natural target-service exposure, clicks or natural model citation",
+  "target_groups": [
+    "Enterprise knowledge base / support answers",
+    "Inventory reconciliation / repeated entry automation",
+    "SME AI implementation"
+  ],
+  "google": {
+    "native_three_chinese_service_pages": {
+      "actual_dates": [
+        "2026-10-14",
+        "2026-10-17"
+      ],
+      "impressions": 0,
+      "clicks": 0,
+      "updated_display": "5.5 hours ago",
+      "zero_position_not_interpreted_as_rank": true
+    },
+    "finalized_latest_date": "2026-10-17",
+    "fresh_latest_date": "2026-10-19",
+    "fresh_fetch_utc": "2026-10-20T12:08:42",
+    "fresh_article_paths": 21,
+    "fresh_article_page_impressions": 32.0,
+    "fresh_article_clicks": 0.0,
+    "fresh_articles_finalized": false,
+    "fresh_attribution": "UNKNOWN; not claimed as organic growth",
+    "fresh_service_rows": 0,
+    "fresh_priority_inventory_knowledge_article_rows": 0,
+    "candidate_service_query": {
+      "query": "ai implementation cost",
+      "date": "2026-10-18",
+      "page": "/en/articles/ai-cost-breakdown.html",
+      "impressions": 1,
+      "clicks": 0,
+      "average_position": 91,
+      "is_new_since_morning": false,
+      "natural_attribution": "UNKNOWN"
+    },
+    "no_explicit_enterprise_knowledge_or_inventory_queries_in_disclosed_rows": true,
+    "hidden_query_data": "UNKNOWN, not zero",
+    "force_refresh": "TRIAL plan rejects; no upgrade or bypass; followed supported cache read with timestamps"
+  },
+  "bing": {
+    "native_search_dates": [
+      "2026-10-13",
+      "2026-10-19"
+    ],
+    "search_scope": "All site",
+    "impressions": 0,
+    "clicks": 0,
+    "native_ai_dates": [
+      "2026-10-13",
+      "2026-10-19"
+    ],
+    "citations": 0,
+    "average_cited_pages": 0,
+    "query_rows": 0,
+    "ai_scope": "Microsoft Copilots and Partners sampled activity only",
+    "seven_day_aggregate_now_readable": true,
+    "ui_recovery": "AI page blank initially; one ordinary reload issued; browser session interrupted then resumed existing tab, values loaded; no new account or network change"
+  },
+  "baidu": {
+    "pc_recent7d_impressions": 0,
+    "pc_recent7d_clicks": 0,
+    "queries": "No data",
+    "mobile": "UNKNOWN; returned trend labels without verifiable numeric values",
+    "ai_dates": [
+      "2026-10-13",
+      "2026-10-19"
+    ],
+    "ai_trend": "Citation, exposure and click chart on zero line; no query rows",
+    "ai_scope": "Traditional search scenes only",
+    "ai_seven_day_overview_cards": "Absent; chart used, not missing cards inferred as zero"
+  },
+  "own_tests": {
+    "new_search_engine_keyword_queries": 0,
+    "new_active_model_queries": 0,
+    "new_url_inspections": 0,
+    "last_unbranded_model_tests": "2026-10-19 ChatGPT/Doubao, not selected; not repeated this round",
+    "previous_directed_reads_and_QA": "Tests only, excluded from natural progress",
+    "attribution_rule": "Known QA excluded; unresolved attribution kept UNKNOWN; pv parameter presence alone not attribution proof"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deployments": 0,
+    "search_submissions": 0,
+    "index_requests": 0,
+    "emails": 0,
+    "paid_resources": 0
+  },
+  "decision": "NO_NEW_CONFIRMED_NATURAL_PROGRESS",
+  "latest_positive_service_intent_event": "NONE_CONFIRMED",
+  "evidence": [
+    "windsor-read.json",
+    "data-summary.json",
+    "query-classification.json",
+    "google-service-filter.txt",
+    "google-services-7d.jpg",
+    "bing-search-7d.txt",
+    "bing-ai-3m.txt",
+    "bing-ai-7d.txt",
+    "bing-ai-7d.jpg",
+    "baidu-pc-7d.txt",
+    "baidu-ai-7d.txt",
+    "baidu-ai-7d.jpg"
+  ]
+}

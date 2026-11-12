@@ -1,0 +1,54 @@
+{
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "revision": "ea4c6ac4ca09e8d2fc30",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "scope": "Local zh/en homepage only",
+  "published": false,
+  "indexing_enabled": false,
+  "checks": {
+    "build_84_static_localization_seo": "PASS",
+    "prior_pointer_return_related_search": "PASS",
+    "moving_and_pause_stable": "PASS",
+    "keyboard_resume": "PASS",
+    "desktop_pointer_response": "PASS",
+    "gallery_forward_backward_case_back": "PASS",
+    "zh_en_320_390_overflow": "PASS",
+    "reduced_static_and_disabled_control": "PASS",
+    "non_home_unchanged_except_revision": "PASS"
+  },
+  "protected_source": {
+    "styles.css": true,
+    "motion.css": true,
+    "motion.js": true,
+    "app.js": true,
+    "assets/depth-gallery.js": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "assets/editorial.js": true,
+    "assets/editorial.css": true,
+    "templates/about.html": true,
+    "content/seo.json": true,
+    "content/projects.json": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/case-examples.json": true
+  },
+  "new_source_files": [
+    "assets/home-ambient.css",
+    "assets/home-ambient.js"
+  ],
+  "changed_source_files": [
+    "templates/home.html",
+    "scripts/components.py",
+    "scripts/localization.py"
+  ],
+  "limits": [
+    "Physical touch not verified",
+    "Low-end FPS/energy not measured",
+    "All-browser coverage not claimed"
+  ],
+  "routing_version": "ROUTING-2026-10-13-v4",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "evidence_root": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/home-ambient-20261015"
+}

@@ -1,0 +1,105 @@
+{
+  "checked_at": "2026-10-19T06:18:43.402466+00:00",
+  "reason": "one bounded ordinary curl GET for TLS EOF; no security rejection on these URLs; strict TLS unchanged; OWASP403 not retried",
+  "results": [
+    {
+      "id": "fde",
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.eliai.cn/services/fde-consulting.html",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.eliai.cn:443"
+    },
+    {
+      "id": "wb-files",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-One",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-One",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-data",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-results",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Results",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/Results",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-skills",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-permissions",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Permission-Modes",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Permission-Modes",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-connectors",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-faq",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    },
+    {
+      "id": "wb-first-task",
+      "url": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+      "curl_exit": 35,
+      "status": "000",
+      "final_url": "https://www.workbuddy.cn/docs/workbuddy/FirstTask",
+      "title": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.workbuddy.cn:443"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "revision": "8f3fdb85a445f943cf0f",
+  "local_url": "http://127.0.0.1:4178/index.html?pv=8f3fdb85a445f943cf0f",
+  "server_access": false,
+  "published": false,
+  "production_unchanged": "20261015-183949-https-index / 0421d7822f14ab0f1f29",
+  "production_indexing_policy": "Existing authorized indexing remains enabled; no production changes",
+  "local_headers": {
+    "Cache-Control": "no-store",
+    "X-Robots-Tag": "noindex, nofollow"
+  },
+  "protected_files": {
+    "assets/home-ambient.js": true,
+    "assets/home-ambient.css": true,
+    "assets/dither-veil.js": true,
+    "assets/bits-ui.js": true,
+    "assets/editorial.js": true,
+    "app.js": true,
+    "assets/page-version.js": true,
+    "templates/layout.html": true,
+    "styles.css": true,
+    "assets/bits-ui.css": true,
+    "assets/editorial.css": true,
+    "content/seo.json": true,
+    "content/social-links.json": true,
+    "content/projects.json": true,
+    "content/en.json": true
+  },
+  "changed_files_sha256": {
+    "templates/home.html": "d9bc82315a09d8651ccfbacd3cb0f8306ee874709950a77460df5af3e8298480",
+    "scripts/components.py": "0857275d508fbc7763ab1a687eb03010ca170280098d255ca19deaef4e948f4a",
+    "scripts/pages.py": "ae77e8114ce916a918faa4b93c1fd7200c01d748c15970e1cf766719e2370312",
+    "assets/content-layout.css": "0fc317b8f96281d8acf4106924a5ce57f5a10216d372e9a1159d9e5c8a6a1893",
+    "assets/office-workflow.svg": "1febd7bf0d52bcba5136424a8a3d72b1d5506525c717f1fee080afdc23a9075f",
+    "assets/depth-gallery.js": "a85901f212da4c82e57cfdf4493406c14713effddcdb67ee1c569e3c4621fb51",
+    "assets/screenshot-viewer.js": "5751cf1bacb2d636ea94389bc35fbfe7f21b90e24c1c7a8324b67500a664e1bc",
+    "site.yaml": "4532825f49b1be4a67b02f72c8c3398d12b33e8d577142ea364f4f117a8f708f",
+    "DESIGN.md": "355380e408ce8c66274d9375c50d9a44a16c98b0ae19d9d41aae3ad8ac0eb74e",
+    "docs/交付与验证.md": "52bbd4ee45c4b2ba10301264c7fdf7006ba9624afaee87f039825f47ad2503e8"
+  },
+  "validation": {
+    "build": "PASS 84 HTML pages / 38 records",
+    "latest_static_localization_seo": "PASS after final source change",
+    "interaction_regressions": "PASS five existing checks; see automated-checks.json",
+    "browser": "See browser-checks.json; desktop 1440, mobile simulated 390 and 320; gallery selection and return, modal lock/Escape, list related return, search/filter/clear",
+    "physical_devices": "NOT_TESTED",
+    "all_browsers": "NOT_TESTED",
+    "fps": "NOT_MEASURED"
+  },
+  "known_observation": "One earlier tag click during rapid history restoration timed out; later visible first click and full realistic return path passed. No claim of exhaustive race coverage."
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "test": "English detail at 320px",
+    "result": "PASS",
+    "contactHash": "#contact",
+    "contactPath": "/en/about.html",
+    "documentWidth": 305,
+    "width": 320
+  },
+  {
+    "test": "Detail returns to filtered category",
+    "url": "http://127.0.0.1:4178/articles.html?pv=b99174b97b2d2cd0b65b&category=harness",
+    "status": "10 篇文章 · 第 1 / 1 页"
+  },
+  {
+    "test": "Existing inventory article to case and return",
+    "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=b99174b97b2d2cd0b65b#case-records",
+    "heading": "库存每天靠人工核对，先改哪一步？"
+  },
+  {
+    "test": "Chinese article consultation",
+    "hash": "#contact",
+    "path": "/about.html",
+    "qr": true
+  },
+  {
+    "test": "Chinese list at 320px",
+    "documentWidth": 305,
+    "language": "EN",
+    "status": "102 篇文章 · 第 1 / 9 页",
+    "width": 320
+  },
+  {
+    "test": "Body search plus category",
+    "status": "1 篇文章 · 第 1 / 1 页",
+    "headings": [
+      "WorkBuddy 能帮我看 Excel 吗？先从异常清单开始"
+    ]
+  },
+  {
+    "test": "English switch retains category and supports Chinese keyword",
+    "status": "1 articles · page 1 of 1",
+    "url": "http://127.0.0.1:4178/en/articles.html?pv=b99174b97b2d2cd0b65b&q=%E8%A1%A8%E6%A0%BC&category=workbuddy",
+    "documentWidth": 375,
+    "language": "中文",
+    "width": 390
+  },
+  {
+    "test": "English list at 768px",
+    "documentWidth": 753,
+    "width": 768
+  },
+  {
+    "test": "Final singular English count and body search",
+    "status": "1 article · page 1 of 1"
+  }
+]

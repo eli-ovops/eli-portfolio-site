@@ -1,0 +1,98 @@
+{
+  "checked_at": "2026-10-22T10:34:36.308864+00:00",
+  "status": "READ_ONLY_ALERT_DIAGNOSIS_COMPLETE",
+  "native_summary": {
+    "indexed": 77,
+    "not_indexed": 363,
+    "alternate": 139,
+    "403": 1,
+    "crawled_not_indexed": 223,
+    "displayed_updated_date": "2026-10-16",
+    "sample_crawl_dates_include": "2026-10-17",
+    "not_article_count": true,
+    "not_current_whole_site_loss_claim": true
+  },
+  "alternate_rows_read": 139,
+  "alternate_all_have_pv": true,
+  "crawled_rows_read": 223,
+  "crawled_with_pv": 48,
+  "crawled_without_pv": 175,
+  "only_403_url": "https://www.eliai.cn/cases/",
+  "403_last_crawl_display": "2026-10-15",
+  "403_current_public_get": 403,
+  "current_public_service_get": 200,
+  "native_current_services": [
+    {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "native_current_status": "INDEXED",
+      "evidence": "knowledge-current-index.txt"
+    },
+    {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "native_current_status": "INDEXED",
+      "evidence": "inventory-current-index.txt"
+    },
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "native_current_status": "INDEXED",
+      "evidence": "implementation-current-index.txt"
+    }
+  ],
+  "google_url_inspections_today": 3,
+  "live_url_tests": 0,
+  "request_indexing": 0,
+  "validate_fix": 0,
+  "website_changes": 0,
+  "server_changes": 0,
+  "search_submissions": 0,
+  "external_messages": 0,
+  "root_cause": "CONFIRMED_DIRECTORY_INDEX_FORBIDDEN",
+  "proposal_not_implemented": "Permanent redirect exact /cases/ to /records.html, subject to future specific approval; do not enable directory listing",
+  "evidence_files": [
+    "index-overview.png",
+    "public-http-check.json",
+    "implementation-current-index.png",
+    "403-detail.png",
+    "implementation-current-index.txt",
+    "index-overview.txt",
+    "403-detail.txt",
+    "crawled-not-indexed-rows.json",
+    "knowledge-current-index.png",
+    "inventory-current-index.png",
+    "indexed-summary.txt",
+    "alternate-rows.json",
+    "alternate-urls.json",
+    "knowledge-current-index.txt",
+    "inventory-current-index.txt",
+    "diagnosis.md",
+    "alternate-all.txt",
+    "crawled-not-indexed-urls.json",
+    "crawled-not-indexed-all.txt"
+  ],
+  "root_cause_followup": {
+    "checked_at": "2026-10-22T10:37:34.694353+00:00",
+    "confirmed": true,
+    "cause": "Existing /cases/ directory has no index.html; enabled portfolio Nginx selects directory via try_files $uri $uri/ =404 and index index.html, with autoindex off. Nginx error.log confirms directory index is forbidden.",
+    "config": "/etc/nginx/sites-available/portfolio-domain-pending",
+    "config_lines": [
+      26,
+      27,
+      28,
+      30
+    ],
+    "case_directory_mode": "0755",
+    "p10_file_mode": "0644",
+    "nginx_active": true,
+    "current_release": "/srv/eli-sites/portfolio/domain-releases/20261021-stable-urls-cc132dc0",
+    "record_targets_http": {
+      "/records.html": 200,
+      "/en/records.html": 200
+    },
+    "evidence": [
+      "server-readonly-diagnosis.json",
+      "server-error-reason.json",
+      "redirect-target-check.json"
+    ],
+    "changes": 0
+  }
+}

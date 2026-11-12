@@ -1,0 +1,402 @@
+[
+  {
+    "slug": "what-is-harness",
+    "title": [
+      "Harness 是什么？为什么光有模型还不够？",
+      "What is an agent harness, and why does it matter?"
+    ],
+    "answer": [
+      "Harness 在 Agent 讨论里通常指让模型可靠工作的一套运行配套，例如工具、状态记录、权限和检查。不同产品对这些配套的命名和边界可能不同。你可把它理解成“工作台加流程”，而非另一个大模型。",
+      "In agent discussions, a harness is the surrounding execution setup: tools, state, permissions and checks. Terminology varies by product. Think of a workbench and procedures rather than another model."
+    ],
+    "steps": [
+      [
+        "拿“整理文件”列出模型之外需要的东西。",
+        "List what a filing task needs besides a model."
+      ],
+      [
+        "加入输入目录、输出位置、错误记录与停止条件。",
+        "Add input folder, output path, error log and stop rules."
+      ],
+      [
+        "检查缺哪项会导致任务无法复核。",
+        "Identify omissions that would prevent review."
+      ]
+    ],
+    "exercise": [
+      "为一个只读文件清单任务列出运行配套：输入、工具、权限、状态、验收。不选付费平台，不直接执行。",
+      "List inputs, tools, permissions, state and checks for a read-only file inventory. Do not select paid services or execute it."
+    ],
+    "problem": [
+      "不要把“用了 Harness”当可靠性证明，要看实际限制和检查是否工作。",
+      "The harness label does not establish reliability; inspect working controls and checks."
+    ],
+    "check": [
+      "能解释模型负责生成判断，而运行配套负责怎样执行和验收。",
+      "You can explain the model's role separately from execution and verification."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "ai-coding-basics",
+    "title": [
+      "不会编程，能让 AI 写一个小工具吗？",
+      "Can a non-programmer make a small tool with AI?"
+    ],
+    "answer": [
+      "可以从很小的本地需求试起，但生成代码不等于安全可用。先明确输入输出和不做范围，再让它做可检查的最小版本。处理真实业务前仍需要理解运行与维护责任。",
+      "Try a small local task, but generated code is not automatically safe or usable. Define inputs, outputs and exclusions before building a minimal version. Real business use requires ownership of operation and maintenance."
+    ],
+    "steps": [
+      [
+        "选一个不联网、不登录的练习，如文字去空行。",
+        "Choose an offline practice task such as removing blank lines."
+      ],
+      [
+        "先让 AI 解释实现和会改哪些文件。",
+        "Ask for the approach and files affected."
+      ],
+      [
+        "用普通、空白和异常输入检查。",
+        "Test ordinary, empty and unusual inputs."
+      ]
+    ],
+    "exercise": [
+      "做一个本地文字去空行练习页，不上传数据、不接账号。先列文件和验收点，再给最小代码。",
+      "Create a local blank-line remover without uploads or accounts. List files and checks before providing minimal code."
+    ],
+    "problem": [
+      "它开始接数据库或支付时，缩回单一功能，不为了像产品而加功能。",
+      "If it adds a database or payments, narrow back to the single practice function."
+    ],
+    "check": [
+      "你能运行、停止并检查小工具，且知道它没验证哪些场景。",
+      "You can run, stop and check it, and name untested cases."
+    ],
+    "source": [
+      "mdn-html"
+    ]
+  },
+  {
+    "slug": "read-ai-code-plan",
+    "title": [
+      "AI 改代码前，外行要看懂什么？",
+      "What should you understand before AI edits code?"
+    ],
+    "answer": [
+      "不用先看懂每个语法，但要知道改什么、为什么改、影响哪些页面以及怎样撤回。让它把文件变更对应到用户行为。范围不明时，先完成只读诊断。",
+      "You need not understand every syntax detail, but should know what changes, why, affected behavior and recovery. Ask for a file-to-behavior map. Begin with read-only diagnosis when scope is unclear."
+    ],
+    "steps": [
+      [
+        "描述当前错误和期望行为。",
+        "Describe the current defect and desired behavior."
+      ],
+      [
+        "要求列出拟改文件和不改范围。",
+        "Request planned files and exclusions."
+      ],
+      [
+        "确认验证办法能覆盖原问题。",
+        "Check that validation reproduces the original issue."
+      ]
+    ],
+    "exercise": [
+      "先只读检查这个按钮为什么失效，给出原因证据、最小改动文件和验证路径，不顺手重构页面。",
+      "Diagnose this broken button read-only. Provide evidence, minimal affected files and validation steps without redesigning the page."
+    ],
+    "problem": [
+      "“优化代码结构”不是修复原因，要求回到具体错误和证据。",
+      "Improve architecture is not a diagnosis; return to the concrete failure and evidence."
+    ],
+    "check": [
+      "你能复述改动对使用者有什么影响，而不只记住技术文件名。",
+      "You can explain user-visible effects rather than merely naming files."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "terminal-basics",
+    "title": [
+      "终端是什么？为什么 AI 总让我运行命令？",
+      "What is a terminal, and why does AI suggest commands?"
+    ],
+    "answer": [
+      "终端是用文字命令操作系统或程序的入口。命令可能只查看，也可能改文件、下载依赖或连接外部服务。不要因为命令看起来短就直接运行，先弄清工作目录与影响。",
+      "A terminal runs text commands for programs and the operating system. Commands may inspect, modify, download or connect externally. A short command is not necessarily harmless; understand its directory and effects."
+    ],
+    "steps": [
+      [
+        "先只用查看当前位置和文件列表的命令。",
+        "Start with commands that display the current directory and files."
+      ],
+      [
+        "让 AI 逐段解释准备执行的命令。",
+        "Ask for a part-by-part explanation of a proposed command."
+      ],
+      [
+        "涉及删除、管理员权限或下载脚本时单独审查。",
+        "Review deletion, elevated permissions and downloaded scripts separately."
+      ]
+    ],
+    "exercise": [
+      "解释这条命令的工作目录、读取写入、联网和是否可回退。不要运行，也不要要求我粘贴密码。",
+      "Explain this command's working directory, reads, writes, networking and recovery without running it or requesting a password."
+    ],
+    "problem": [
+      "出现陌生管道或远程脚本时先读源码，不照着“复制就行”操作。",
+      "Read unfamiliar pipelines or remote scripts instead of blindly copying them."
+    ],
+    "check": [
+      "能区分查看、改写和对外动作，并知道命令会在哪个目录执行。",
+      "You can distinguish inspection, modification and external actions and identify the working directory."
+    ],
+    "source": [
+      "mdn-cli"
+    ]
+  },
+  {
+    "slug": "what-is-local-preview",
+    "title": [
+      "本地预览和正式上线，有什么区别？",
+      "Local preview versus publishing: what's the difference?"
+    ],
+    "answer": [
+      "本地预览通常只在你的电脑或指定局域网可访问；上线把文件或服务放到公开环境。能打开本地地址不证明官网已更新。先验收本地，再单独决定是否发布。",
+      "A local preview is reachable on your computer or a chosen network. Publishing changes a public environment. A working local URL does not prove the live site changed. Review locally before making a separate release decision."
+    ],
+    "steps": [
+      [
+        "记录预览地址和官网地址。",
+        "Record the preview and public addresses."
+      ],
+      [
+        "在本地检查关键流程和手机宽度。",
+        "Test essential flows and phone-sized layouts locally."
+      ],
+      [
+        "发布后才检查公开地址的实际版本。",
+        "Check the public revision only after a release."
+      ]
+    ],
+    "exercise": [
+      "只启动本地预览，明确绑定127.0.0.1，报告地址和停止方式。不开放公网、不部署、不改 DNS（域名指向设置）。",
+      "Start a local preview bound explicitly to 127.0.0.1. Report its address and stop method. Do not expose it publicly, deploy or change DNS settings."
+    ],
+    "problem": [
+      "地址含 127.0.0.1 时别人通常无法用它访问你的电脑，不把它当客户链接。",
+      "A 127.0.0.1 address normally does not let someone else reach your computer; do not send it as a public link."
+    ],
+    "check": [
+      "你能确认看到的是本地版还是线上版，并避免误发布。",
+      "You can identify local versus live versions and avoid accidental publication."
+    ],
+    "source": [
+      "mdn-publishing"
+    ]
+  },
+  {
+    "slug": "acceptance-tests",
+    "title": [
+      "验收测试是什么？怎么判断 AI 写完了？",
+      "What is an acceptance test for AI-generated software?"
+    ],
+    "answer": [
+      "验收测试检查需求是否满足，而不是只看“构建（把源码转换为可运行或可发布的文件）通过”。按钮可以显示却点不了，文件能生成却内容错。把真实使用步骤和预期结果写下来，才能判断是否完成。",
+      "Acceptance tests check requirements rather than only a successful build (turning source into runnable or publishable files). A visible button may not work, and a generated file may contain errors. Document actions and expected outcomes to judge completion."
+    ],
+    "steps": [
+      [
+        "写一条正常使用路径。",
+        "Write one normal usage path."
+      ],
+      [
+        "再写空输入、重复点击和返回路径。",
+        "Add empty input, repeated clicks and return navigation."
+      ],
+      [
+        "记录实际结果与失败步骤。",
+        "Record outcomes and exact failing steps."
+      ]
+    ],
+    "exercise": [
+      "给文字整理工具写验收表：输入、操作、预期、实际。覆盖正常、空白、超长文本，实际结果先留空。",
+      "Create an acceptance table with input, action, expected and actual results for normal, empty and long text. Leave actual results blank."
+    ],
+    "problem": [
+      "没有操作却把实际列填“通过”是自述，不算验收记录。",
+      "Passing labels without execution are assertions, not test records."
+    ],
+    "check": [
+      "别人可以按同一流程复现结果，并看见未测项。",
+      "Another person can reproduce the result and identify untested cases."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "ai-debugging",
+    "title": [
+      "AI 修 Bug，怎么避免越修越乱？",
+      "How do you stop AI bug fixes from causing more bugs?"
+    ],
+    "answer": [
+      "先复现、定位，再做最小修改，最后复测（按同样步骤再检查一次）。保留错误原文和触发条件，比说“有问题”更有效。没有新证据时不要反复重装、重写或扩大范围。",
+      "Reproduce, diagnose, make a minimal change and retest (checking again using the same steps). Preserve exact errors and triggers. Avoid repeated reinstallations or rewrites without new evidence."
+    ],
+    "steps": [
+      [
+        "记录页面、操作、期望和实际结果。",
+        "Record page, action, expected result and actual result."
+      ],
+      [
+        "让 AI 提出一个最可能原因和验证办法。",
+        "Ask for the leading hypothesis and a test."
+      ],
+      [
+        "修正后复测原步骤及相邻功能。",
+        "Retest the original steps and neighboring behavior."
+      ]
+    ],
+    "exercise": [
+      "先复现首击按钮无反应，区分事件未绑定、被遮挡和状态未就绪。证据不足先检查，不一次改三个原因。",
+      "Reproduce the first-click failure and distinguish missing handlers, obstruction and readiness. Investigate before changing three suspected causes."
+    ],
+    "problem": [
+      "修了却换一种操作才通过，要继续测原路径，不能移动完成标准。",
+      "If a different path works after the fix, still test the original; do not change the criterion."
+    ],
+    "check": [
+      "原错误不再出现，相邻功能没有退化，改动范围清楚。",
+      "The original error is resolved, adjacent behavior works and scope is clear."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "ai-checkpoints",
+    "title": [
+      "长任务的检查点，应该记哪些信息？",
+      "What belongs in a checkpoint for a long AI task?"
+    ],
+    "answer": [
+      "检查点帮助下一次继续：当前目标、已完成、未完成、文件位置、关键限制和下一步。不能只写“进展顺利”。记录实际状态，比保存整段长聊天更容易接续。",
+      "A checkpoint records the goal, completed and pending work, file locations, constraints and next action. Going well is not enough. Actual state is more useful for resumption than an unstructured chat log."
+    ],
+    "steps": [
+      [
+        "每做完一阶段，保存产物位置。",
+        "Save artifact locations after each stage."
+      ],
+      [
+        "列出通过、失败和未测项目。",
+        "Separate passing, failing and untested checks."
+      ],
+      [
+        "给下一次写一个可立即执行的动作。",
+        "Provide an immediately actionable next step."
+      ]
+    ],
+    "exercise": [
+      "生成接续记录，区分历史结论和当前实测，保留不发布限制及最小下一步，不写秘密。",
+      "Write a handoff separating historical conclusions from current checks, preserving the no-publication limit and next action without secrets."
+    ],
+    "problem": [
+      "记录里只有计划没有产物时，补实际路径和状态，不把计划改成完成。",
+      "If the record has plans but no artifacts, add real paths and status without relabeling plans as done."
+    ],
+    "check": [
+      "换会话后无需猜测就知道从哪继续。",
+      "A new session knows where to resume without guessing."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "dependency-basics",
+    "title": [
+      "依赖是什么？装一个包为什么带来很多文件？",
+      "What is a dependency, and why does installation add files?"
+    ],
+    "answer": [
+      "依赖是程序复用的外部代码。安装它可能连带其他包，因此要确认来源、版本、许可证和维护情况。不是每个小功能都需要新依赖，现有能力够用时可以保持简单。",
+      "A dependency is external code your program uses, sometimes with dependencies of its own. Check provenance, version, license and maintenance. Small features do not always require another package."
+    ],
+    "steps": [
+      [
+        "让 AI 解释新依赖解决哪一个缺口。",
+        "Ask which specific gap a new dependency solves."
+      ],
+      [
+        "比较现有标准能力能否完成。",
+        "Check whether existing or standard capabilities suffice."
+      ],
+      [
+        "保留锁定版本和安装记录。",
+        "Keep version locks and an installation record."
+      ]
+    ],
+    "exercise": [
+      "这个功能是否需要新增依赖？列出不用新包的方案、包来源和维护影响，不先安装。",
+      "Does this feature require a new dependency? Compare an existing-tool approach, package source and maintenance impact before installing."
+    ],
+    "problem": [
+      "缺少包报错时先核对项目目录和清单，不在全局随便安装同名包。",
+      "For missing-package errors, check project directory and manifest before installing globally."
+    ],
+    "check": [
+      "你知道新增了什么、为什么需要、怎样复现安装。",
+      "You know what was added, why it is needed and how installation is reproduced."
+    ],
+    "source": [
+      "npm"
+    ]
+  },
+  {
+    "slug": "coding-without-secrets",
+    "title": [
+      "让 AI 看代码，API Key 应该怎么处理？",
+      "How should you handle API keys when AI reads code?"
+    ],
+    "answer": [
+      "API Key 是访问服务的凭证，不是普通配置示例。不要把真实值贴进聊天、公开仓库或截图。用占位符说明字段，凭证留在合适的秘密配置中；泄露后需要撤销或轮换。",
+      "An API key is a credential, not an ordinary example value. Keep real keys out of chat, public repositories and screenshots. Use placeholders in examples and suitable secret storage for actual values. Exposed keys need revocation or rotation."
+    ],
+    "steps": [
+      [
+        "把练习配置写成 YOUR_API_KEY 这样的占位符。",
+        "Use a placeholder such as YOUR_API_KEY in practice configuration."
+      ],
+      [
+        "检查提交或截图是否包含真实值。",
+        "Check commits and screenshots for actual values."
+      ],
+      [
+        "若曾泄露，联系服务商按官方流程处理。",
+        "If exposure occurred, follow the provider's recovery procedure."
+      ]
+    ],
+    "exercise": [
+      "只说明配置字段与秘密存放位置，不要求读取、输出或复制真实 API Key。",
+      "Explain configuration fields and secret locations without requesting, printing or copying real API keys."
+    ],
+    "problem": [
+      "删除公开文本不等于秘密恢复安全，历史副本可能仍在，需按泄露处理。",
+      "Deleting visible text does not restore secrecy; historical copies may remain."
+    ],
+    "check": [
+      "代码示例可分享，但无法凭示例访问你的账号。",
+      "Examples are shareable without granting access to your account."
+    ],
+    "source": [
+      "github-secrets"
+    ]
+  }
+]

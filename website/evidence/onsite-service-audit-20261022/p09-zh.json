@@ -1,0 +1,133 @@
+{
+  "canonical": "https://www.eliai.cn/cases/p09.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "某家具品牌扫码库存系统"
+    },
+    {
+      "tag": "H2",
+      "text": "内容概览"
+    },
+    {
+      "tag": "H2",
+      "text": "项目背景"
+    },
+    {
+      "tag": "H2",
+      "text": "承担职责"
+    },
+    {
+      "tag": "H2",
+      "text": "工作内容"
+    },
+    {
+      "tag": "H2",
+      "text": "实施方法"
+    },
+    {
+      "tag": "H3",
+      "text": "一次库存闭环"
+    },
+    {
+      "tag": "H2",
+      "text": "交付与验证"
+    },
+    {
+      "tag": "H2",
+      "text": "技术与实现"
+    },
+    {
+      "tag": "H3",
+      "text": "实现流程"
+    },
+    {
+      "tag": "H3",
+      "text": "验证范围"
+    },
+    {
+      "tag": "H2",
+      "text": "聊聊你的业务"
+    },
+    {
+      "tag": "H2",
+      "text": "统计与隐私"
+    },
+    {
+      "tag": "H2",
+      "text": ""
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/cases/p09.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/cases/p09.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/cases/p09.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../records.html",
+      "text": "← 返回项目库"
+    },
+    {
+      "href": "../assets/public-cases/p09.png",
+      "text": ""
+    },
+    {
+      "href": "../assets/public-cases/p09.png",
+      "text": "查看图片 ↗"
+    },
+    {
+      "href": "#why",
+      "text": "项目背景"
+    },
+    {
+      "href": "#role",
+      "text": "承担职责"
+    },
+    {
+      "href": "#outputs",
+      "text": "工作内容"
+    },
+    {
+      "href": "#process",
+      "text": "实施方法"
+    },
+    {
+      "href": "#result",
+      "text": "交付与验证"
+    },
+    {
+      "href": "#technical",
+      "text": "技术与实现"
+    },
+    {
+      "href": "../services/workflow-automation.html",
+      "text": "查看库存核对与流程自动化服务 ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "免费聊聊 ↗"
+    },
+    {
+      "href": "../records.html",
+      "text": "更多项目 ↗"
+    }
+  ],
+  "mainText": "← 返回项目库\n网站与工具\n某家具品牌扫码库存系统\n\n已交付\n\n按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。\n\n查看图片 ↗\n我的工作\n主导需求与开发，负责测试维护\n交付状态\n已交付\n内容概览\n项目背景\n承担职责\n工作内容\n实施方法\n交付与验证\n技术与实现\n项目背景\n\n单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。\n\n承担职责\n\n我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。\n\n工作内容\n\n实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。\n\n实施方法\n\n先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。\n\n一次库存闭环\n\n按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。\n\n操作\tA 库位\tB 库位\t总库存\n入库 10 箱\t10\t0\t10\n移库 4 箱\t6\t4\t10\n出库 3 箱\t3\t4\t7\n\n云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。\n\n交付与验证\n\n已交付客户，范围包括扫码入库、移库、出库与撤销纠错。下方技术说明对应现有实现。\n\n技术与实现\nTypeScript\nReact\nVite\nCloudflare Workers\nD1 / SQLite\nPlaywright\n\n按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。\n\n实现流程\n扫码与操作\n\nReact 录入与确认\n\n业务校验\n\nWorkers 处理重复提交\n\n库存变更\n\nD1 / SQLite 核对数量\n\n纠错与回放\n\n撤销操作与测试核对\n\n验证范围\n\n本地与云端记录核对了库存闭环、重复提交和库存不足等情况。具体数量变化与测试来源见上方表格。\n\n聊聊你的业务\n\n不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。\n\n查看库存核对与流程自动化服务\n↗\n\n免费聊聊\n↗\n更多项目\n↗",
+  "metaDescription": "主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/about.html\", \"description\": \"你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。\", \"jobTitle\": \"FDE · 贴近业务，选工具、改流程\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"BreadcrumbList\", \"@id\": \"https://www.eliai.cn/cases/p09.html#breadcrumb\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"项目库\", \"item\": \"https://www.eliai.cn/records.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"某家具品牌扫码库存系统\", \"item\": \"https://www.eliai.cn/cases/p09.html\"}]}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/cases/p09.html#page\", \"url\": \"https://www.eliai.cn/cases/p09.html\", \"name\": \"扫码库存系统：入库、移库与出库案例 - Eli\", \"description\": \"主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"breadcrumb\": {\"@id\": \"https://www.eliai.cn/cases/p09.html#breadcrumb\"}, \"about\": {\"@type\": \"Thing\", \"name\": \"某家具品牌扫码库存系统\"}}]}"
+  ],
+  "title": "扫码库存系统：入库、移库与出库案例 - Eli",
+  "url": "https://www.eliai.cn/cases/p09.html"
+}

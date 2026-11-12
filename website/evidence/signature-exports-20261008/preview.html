@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Eli signature exports</title><style>body{margin:0;padding:30px;background:#111214;color:#ededf0;font:14px system-ui}figure{margin:0 0 36px}canvas{display:block;max-width:100%;height:auto}figcaption{padding:10px 0;color:#a7a8b2}</style></head><body><main></main><script>
+(async()=>{
+ const face=new FontFace('Anton','url(anton.ttf)');await face.load();document.fonts.add(face);await document.fonts.ready;
+ const sizes=[['3-1',3840,1280],['4-1',3840,960],['5-4',3200,2560],['16-9',3840,2160]];
+ function width(ctx,text,size,tracking){ctx.font=`${size}px Anton`;return [...text].reduce((sum,c)=>sum+ctx.measureText(c).width,0)+(text.length-1)*size*tracking;}
+ function letters(ctx,text,x,y,size,color,tracking){ctx.font=`${size}px Anton`;ctx.fillStyle=color;ctx.textBaseline='alphabetic';for(const c of text){ctx.fillText(c,x,y);x+=ctx.measureText(c).width+size*tracking;}return x;}
+ function spark(ctx,x,y,size){ctx.save();ctx.translate(x,y);ctx.rotate(12*Math.PI/180);ctx.strokeStyle='#9698ff';ctx.lineWidth=size*.12;ctx.lineCap='butt';for(let i=0;i<4;i++){ctx.beginPath();ctx.moveTo(0,-size*.47);ctx.lineTo(0,size*.47);ctx.stroke();ctx.rotate(Math.PI/4);}ctx.restore();}
+ for(const [ratio,w,h] of sizes){
+  const figure=document.createElement('figure'),canvas=document.createElement('canvas');canvas.width=w;canvas.height=h;canvas.id='signature-'+ratio;figure.append(canvas);const cap=document.createElement('figcaption');cap.textContent=ratio.replace('-',':')+' · '+w+' × '+h;figure.append(cap);document.querySelector('main').append(figure);
+  const ctx=canvas.getContext('2d');ctx.fillStyle='#111214';ctx.fillRect(0,0,w,h);
+  const wide=w/h>=3;
+  let size=Math.min(h*.355,w*.34);
+  if(wide){
+   const units=width(ctx,'HELLO,',100,-.035)/100+.25+width(ctx,'I’M',100,-.04)/100+.15+width(ctx,'ELI',100,-.04)/100+.31;
+   size=Math.min(h*.65,w*.88/units);
+   const total=units*size;const left=(w-total)/2;
+   ctx.font=`${size}px Anton`;const metrics=ctx.measureText('HELLO,');const base=(h+metrics.actualBoundingBoxAscent-metrics.actualBoundingBoxDescent)/2;
+   let x=letters(ctx,'HELLO,',left,base,size,'#ededf0',-.035)+size*.25;
+   x=letters(ctx,'I’M',x,base,size,'#615dff',-.04)+size*.15;
+   x=letters(ctx,'ELI',x,base,size,'#615dff',-.04);
+   spark(ctx,x+size*.06+size*.125,base-metrics.actualBoundingBoxAscent*.65,size*.25);
+  }else{
+   const gap=size*.055;
+   const row1=width(ctx,'HELLO,',size,-.035);
+   const prefix=width(ctx,'I’M',size,-.04),name=width(ctx,'ELI',size,-.04),prefixGap=size*.15;
+   const starSize=size*.25,starGap=size*.06;
+   const row2=prefix+prefixGap+name+starGap+starSize;
+   const groupW=Math.max(row1,row2),groupH=size*1.78+gap;
+   const left=(w-groupW)/2,top=(h-groupH)/2;
+   ctx.font=`${size}px Anton`;const ink=ctx.measureText('HELLO').actualBoundingBoxAscent;
+   const baseline1=top+ink;const baseline2=baseline1+size*.99+gap;
+   letters(ctx,'HELLO,',left,baseline1,size,'#ededf0',-.035);
+   let x=letters(ctx,'I’M',left,baseline2,size,'#615dff',-.04)+prefixGap;
+   x=letters(ctx,'ELI',x,baseline2,size,'#615dff',-.04);
+   spark(ctx,x+starGap+starSize/2,baseline2-ink*.67,starSize);
+  }
+  // Fine, static surface texture matches the site's dark substrate.
+  let seed=71206;for(let i=0;i<w*h*.015;i++){seed=(Math.imul(seed,1664525)+1013904223)>>>0;const px=seed%w;seed=(Math.imul(seed,1664525)+1013904223)>>>0;const py=seed%h;ctx.fillStyle=i%2?'rgba(237,237,240,.015)':'rgba(0,0,0,.025)';ctx.fillRect(px,py,1,1);}
+  const download=document.createElement('a');download.download=canvas.id+'.png';download.href=canvas.toDataURL('image/png');download.textContent='Download PNG';download.style.color='#9698ff';figure.append(download);
+ }
+ document.body.dataset.ready='true';
+})();
+</script></body></html>

@@ -1,0 +1,92 @@
+[
+  {
+    "revision": "cc132dc0e7da5cecf41d",
+    "scrollWidth": 345,
+    "service": [
+      {
+        "height": 48.390625,
+        "href": "http://127.0.0.1:4178/services/workflow-automation.html",
+        "left": 20,
+        "right": 288.5625,
+        "text": "查看库存核对与流程自动化服务 ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/cases/p09.html#case-contact-title",
+    "width": 360
+  },
+  {
+    "revision": "cc132dc0e7da5cecf41d",
+    "scrollWidth": 345,
+    "service": [
+      {
+        "height": 48.390625,
+        "href": "http://127.0.0.1:4178/services/workflow-automation.html",
+        "left": 20,
+        "right": 288.5625,
+        "text": "查看库存核对与流程自动化服务 ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+    "width": 360
+  },
+  {
+    "revision": "cc132dc0e7da5cecf41d",
+    "scrollWidth": 345,
+    "service": [
+      {
+        "height": 48.390625,
+        "href": "http://127.0.0.1:4178/services/ai-agent.html",
+        "left": 20,
+        "right": 246.5625,
+        "text": "查看企业知识库搭建服务 ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/cases/p36.html#case-contact-title",
+    "width": 360
+  },
+  {
+    "revision": "cc132dc0e7da5cecf41d",
+    "scrollWidth": 375,
+    "service": [
+      {
+        "height": 70.78125,
+        "href": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+        "left": 20,
+        "right": 355,
+        "text": "View inventory reconciliation and workflow automation services ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/en/cases/p09.html#case-contact-title",
+    "width": 390
+  },
+  {
+    "revision": "cc132dc0e7da5cecf41d",
+    "scrollWidth": 375,
+    "service": [
+      {
+        "height": 70.78125,
+        "href": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+        "left": 20,
+        "right": 355,
+        "text": "View inventory reconciliation and workflow automation services ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/en/cases/p10.html#case-contact-title",
+    "width": 390
+  },
+  {
+    "revision": "cc132dc0e7da5cecf41d",
+    "scrollWidth": 375,
+    "service": [
+      {
+        "height": 70.78125,
+        "href": "http://127.0.0.1:4178/en/services/ai-agent.html",
+        "left": 20,
+        "right": 355,
+        "text": "View enterprise knowledge base setup services ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/en/cases/p36.html#case-contact-title",
+    "width": 390
+  }
+]

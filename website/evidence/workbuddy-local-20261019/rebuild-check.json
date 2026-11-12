@@ -1,0 +1,7 @@
+{
+  "exit_code": 0,
+  "output": "BUILD PASS: 296 HTML pages; 38 project records; no source paths.",
+  "ledger_sha256_before": "e081ab76dc7903739269ddff6ad9d89f5d96c159759746a25211a207a03863dd",
+  "ledger_sha256_after": "e081ab76dc7903739269ddff6ad9d89f5d96c159759746a25211a207a03863dd",
+  "dates_unchanged_on_rebuild": true
+}

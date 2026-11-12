@@ -1,0 +1,44 @@
+[
+  {
+    "bodyFont": "16px",
+    "caseFont": "14px",
+    "casesDocumentTop": 2048,
+    "consultHeight": 44,
+    "consultTop": 315.96875,
+    "intro": "公司想用 AI，却不知道先做哪一件事？从一项费时间、容易出错的工作开始，一起看清问题，再选择工具或开发软件。",
+    "navScrollWidth": 1017,
+    "navWidth": 337,
+    "pageHeight": 3924,
+    "scrollWidth": 390,
+    "url": "https://www.eliai.cn/services/fde-consulting.html?pv=03985a2ddb6824f06f7f",
+    "width": 390
+  },
+  {
+    "bodyFont": "16px",
+    "caseFont": "14px",
+    "casesDocumentTop": 2137,
+    "consultHeight": 44,
+    "consultTop": 360.15625,
+    "intro": "员工查资料慢、客服反复答同样的问题？先把可用资料整理清楚，再判断需要知识问答助手，还是能连接工具执行步骤的 AI Agent。",
+    "navScrollWidth": 1320,
+    "navWidth": 337,
+    "pageHeight": 3834,
+    "scrollWidth": 390,
+    "url": "https://www.eliai.cn/services/ai-agent.html?pv=03985a2ddb6824f06f7f",
+    "width": 390
+  },
+  {
+    "bodyFont": "16px",
+    "caseFont": "14px",
+    "casesDocumentTop": 2099,
+    "consultHeight": 44,
+    "consultTop": 360.15625,
+    "intro": "不必先买一整套系统。把录入、核对或内容准备中最费时间的一步找出来，比较工具与软件改造，再用实际使用结果判断是否值得继续。",
+    "navScrollWidth": 1106,
+    "navWidth": 337,
+    "pageHeight": 4037,
+    "scrollWidth": 390,
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=03985a2ddb6824f06f7f",
+    "width": 390
+  }
+]

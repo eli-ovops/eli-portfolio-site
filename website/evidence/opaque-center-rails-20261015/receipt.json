@@ -1,0 +1,36 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "revision": "d9e67c7c24c0e88205df",
+  "scope": "Opaque center content only; wave animation remains visible on both side gutters, Hero unchanged",
+  "source_change": "assets/content-layout.css",
+  "checks": {
+    "build": "PASS 84 HTML pages / 38 records",
+    "static": "PASS",
+    "wide_viewport": "1920x1080 center width 1296 and exposed rails; footer center opaque",
+    "mobile_viewport": "390x844 center width 335, 20px side gutter, no horizontal overflow",
+    "protected_sources": {
+      "assets/home-ambient.js": true,
+      "assets/home-ambient.css": true,
+      "assets/dither-veil.js": true,
+      "assets/bits-ui.js": true,
+      "assets/editorial.js": true,
+      "app.js": true,
+      "assets/page-version.js": true,
+      "templates/layout.html": true,
+      "styles.css": true,
+      "assets/bits-ui.css": true,
+      "assets/editorial.css": true,
+      "content/seo.json": true,
+      "content/social-links.json": true,
+      "content/projects.json": true,
+      "content/en.json": true
+    }
+  },
+  "server_access": false,
+  "deployment": false,
+  "evidence": [
+    "wide-center-rails.jpg",
+    "mobile-center-rails.jpg",
+    "browser-checks.json"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261015-165606-icp-footer",
+  "files": {
+    "ip": 138,
+    "domain": 138
+  },
+  "backup": "/srv/eli-sites/portfolio/backups/20261015-165606-icp-footer"
+}

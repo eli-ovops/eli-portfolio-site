@@ -1,0 +1,10 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261014-124659-customer-paths",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-110604-return-origin",
+  "target": "/srv/eli-sites/portfolio/releases/20261014-124659-customer-paths",
+  "backup": "/srv/eli-sites/portfolio/backups/20261014-124659-customer-paths",
+  "files_verified": 144,
+  "package_sha256": "237f8ffdb6b486410efb42155e27e9373cd705d72f297867831de891694a4673",
+  "indexing": "DISABLED"
+}

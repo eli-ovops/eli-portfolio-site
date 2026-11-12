@@ -1,0 +1,42 @@
+{
+  "eliai.cn": {
+    "addresses": [
+      "[REDACTED_HOST]"
+    ],
+    "tls": {
+      "version": "TLSv1.2",
+      "notAfter": "Jan 13 09:40:42 2027 GMT",
+      "subjectAltName": [
+        [
+          "DNS",
+          "eliai.cn"
+        ],
+        [
+          "DNS",
+          "www.eliai.cn"
+        ]
+      ],
+      "verified_default_trust": true
+    }
+  },
+  "www.eliai.cn": {
+    "addresses": [
+      "[REDACTED_HOST]"
+    ],
+    "tls": {
+      "version": "TLSv1.2",
+      "notAfter": "Jan 13 09:40:42 2027 GMT",
+      "subjectAltName": [
+        [
+          "DNS",
+          "eliai.cn"
+        ],
+        [
+          "DNS",
+          "www.eliai.cn"
+        ]
+      ],
+      "verified_default_trust": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "status": "PUBLISHED",
+  "revision": "cc132dc0e7da5cecf41d",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261021-stable-urls-cc132dc0",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+  "files_verified": 369,
+  "manifest_digest": "b826b5f70249c14d429dfe848d75523c8cb50f187f0b49bd24d01b616c220525",
+  "public_checks": 24,
+  "services": {
+    "erp-trial": "active",
+    "mysql": "active",
+    "nginx": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED",
+  "published_at": "2026-10-21T01:39:41.018527+00:00",
+  "source": "Native WebTerminal screenshot publish-webterminal.png; private server publish.json retained"
+}

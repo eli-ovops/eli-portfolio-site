@@ -1,0 +1,209 @@
+[
+  {
+    "captionSpill": 3,
+    "client": 305,
+    "name": "small-phone",
+    "page": "index.html",
+    "scroll": 305,
+    "stageHeight": 386,
+    "viewport": 568
+  },
+  {
+    "client": 305,
+    "name": "small-phone",
+    "page": "about.html",
+    "scroll": 305,
+    "viewport": 568
+  },
+  {
+    "client": 305,
+    "name": "small-phone",
+    "page": "records.html",
+    "scroll": 305,
+    "viewport": 568
+  },
+  {
+    "captionSpill": 1,
+    "client": 360,
+    "name": "phone",
+    "page": "index.html",
+    "scroll": 360,
+    "stageHeight": 583,
+    "viewport": 812
+  },
+  {
+    "client": 360,
+    "name": "phone",
+    "page": "about.html",
+    "scroll": 360,
+    "viewport": 812
+  },
+  {
+    "client": 360,
+    "name": "phone",
+    "page": "records.html",
+    "scroll": 360,
+    "viewport": 812
+  },
+  {
+    "captionSpill": 2,
+    "client": 415,
+    "name": "large-phone",
+    "page": "index.html",
+    "scroll": 415,
+    "stageHeight": 703,
+    "viewport": 932
+  },
+  {
+    "client": 415,
+    "name": "large-phone",
+    "page": "about.html",
+    "scroll": 415,
+    "viewport": 932
+  },
+  {
+    "client": 415,
+    "name": "large-phone",
+    "page": "records.html",
+    "scroll": 415,
+    "viewport": 932
+  },
+  {
+    "captionSpill": -27,
+    "client": 797,
+    "name": "phone-landscape",
+    "page": "index.html",
+    "scroll": 797,
+    "stageHeight": 335,
+    "viewport": 375
+  },
+  {
+    "client": 797,
+    "name": "phone-landscape",
+    "page": "about.html",
+    "scroll": 797,
+    "viewport": 375
+  },
+  {
+    "client": 797,
+    "name": "phone-landscape",
+    "page": "records.html",
+    "scroll": 797,
+    "viewport": 375
+  },
+  {
+    "captionSpill": -227,
+    "client": 753,
+    "name": "tablet",
+    "page": "index.html",
+    "scroll": 753,
+    "stageHeight": 780,
+    "viewport": 1024
+  },
+  {
+    "client": 753,
+    "name": "tablet",
+    "page": "about.html",
+    "scroll": 753,
+    "viewport": 1024
+  },
+  {
+    "client": 753,
+    "name": "tablet",
+    "page": "records.html",
+    "scroll": 753,
+    "viewport": 1024
+  },
+  {
+    "captionSpill": -118,
+    "client": 1009,
+    "name": "tablet-landscape",
+    "page": "index.html",
+    "scroll": 1009,
+    "stageHeight": 568,
+    "viewport": 768
+  },
+  {
+    "client": 1009,
+    "name": "tablet-landscape",
+    "page": "about.html",
+    "scroll": 1009,
+    "viewport": 768
+  },
+  {
+    "client": 1009,
+    "name": "tablet-landscape",
+    "page": "records.html",
+    "scroll": 1009,
+    "viewport": 768
+  },
+  {
+    "captionSpill": -192,
+    "client": 1425,
+    "name": "desktop",
+    "page": "index.html",
+    "scroll": 1425,
+    "stageHeight": 700,
+    "viewport": 900
+  },
+  {
+    "client": 1425,
+    "name": "desktop",
+    "page": "about.html",
+    "scroll": 1425,
+    "viewport": 900
+  },
+  {
+    "client": 1425,
+    "name": "desktop",
+    "page": "records.html",
+    "scroll": 1425,
+    "viewport": 900
+  },
+  {
+    "captionSpill": -231,
+    "client": 1905,
+    "name": "ultrawide",
+    "page": "index.html",
+    "scroll": 1905,
+    "stageHeight": 780,
+    "viewport": 1080
+  },
+  {
+    "client": 1905,
+    "name": "ultrawide",
+    "page": "about.html",
+    "scroll": 1905,
+    "viewport": 1080
+  },
+  {
+    "client": 1905,
+    "name": "ultrawide",
+    "page": "records.html",
+    "scroll": 1905,
+    "viewport": 1080
+  },
+  {
+    "captionSpill": 3,
+    "client": 553,
+    "name": "narrow-landscape",
+    "page": "index.html",
+    "scroll": 553,
+    "stageHeight": 296,
+    "viewport": 320
+  },
+  {
+    "client": 553,
+    "name": "narrow-landscape",
+    "page": "about.html",
+    "scroll": 553,
+    "viewport": 320
+  },
+  {
+    "client": 553,
+    "name": "narrow-landscape",
+    "page": "records.html",
+    "scroll": 553,
+    "viewport": 320
+  }
+]

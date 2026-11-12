@@ -1,0 +1,40 @@
+{
+  "zh-CN": {
+    "heading": "看看你的行业，可以从哪里开始",
+    "intro": "从一项重复、费时的工作开始评估。下面列的是可讨论的业务场景；相关案例只说明实际做过的工作，具体范围与费用在开始前确认。",
+    "scenario_label": "可先评估",
+    "case_label": "相关实践",
+    "service_label": "了解合作范围",
+    "contact_label": "聊聊这个场景",
+    "expand_label": "展开",
+    "items": [
+      {"id":"manufacturing","name":"制造业","summary":"库存核对、重复录入、产品与操作资料","detail":"可以先梳理物料或成品的登记、规格表和操作说明，评估哪些重复录入或查找步骤值得改善。涉及生产设备或现有系统对接时，单独确认条件和范围。","service":"workflow-automation","cases":["P10"],"case_note":"相关案例是洁具 B 端库存业务，供库存流程参考。"},
+      {"id":"ecommerce","name":"电子商务","summary":"商品资料、客服辅助答疑、内容整理","detail":"可以从一类商品说明、常见售前问题或重复整理任务开始，评估资料统一、客服辅助和内容整理的做法。先看你目前使用的平台与工具，再确定实施范围。","service":"ai-agent","cases":[],"case_note":""},
+      {"id":"cross-border","name":"跨境电商","summary":"中英文产品展示、品牌资料、客服支持","detail":"可以先看产品和品牌资料如何做中英文展示、哪些咨询总在重复，以及内容如何维护。结合目标市场与现有渠道，评估一个小范围的改进。","service":"fde-consulting","cases":["P05","P36"],"case_note":"相关经验是品牌出海营销与客服协作，具体职责见案例。"},
+      {"id":"wholesale-retail","name":"批发与零售","summary":"进出库、商品目录、单据核对","detail":"可以先挑一笔收货或出货记录，梳理登记、库存变动和核对过程，再评估重复提交、录错纠正和目录整理的处理办法。","service":"workflow-automation","cases":["P10"],"case_note":"相关库存项目展示具体业务适配与交付，使用效果边界见案例。"},
+      {"id":"home-building","name":"家具、家居与建材","summary":"产品规格展示、品牌网站、库存流程","detail":"可以从产品图片、型号、尺寸和规格的组织开始，也可以先看官网展示或库存登记中的一个卡点。品牌前台、后台维护和库存功能分别确认范围。","service":"fde-consulting","cases":["P07","P09"],"case_note":"已有家具品牌前台展示与扫码库存项目记录，完成范围分别说明。"},
+      {"id":"professional-services","name":"律所与专业服务","summary":"官网、资料查找、内部办公流程","detail":"可以先看客户如何了解服务并找到咨询入口，或员工如何查资料、处理重复办公任务。资料权限、人工确认和维护责任在合作前约定。","service":"fde-consulting","cases":["P03","P04"],"case_note":"相关案例为团队中的律所官网与 OA 开发经历，分工见详情。"},
+      {"id":"brands-studios","name":"品牌与内容工作室","summary":"素材管理、文案配图、重复内容制作","detail":"可以先梳理素材放在哪里、哪些文案或配图反复制作、哪些内容需要人工审核，再评估现成工具或小范围开发是否适合。","service":"fde-consulting","cases":["P05"],"case_note":"相关实践为团队品牌营销、内容与 AI 视频协作。"},
+      {"id":"nonprofits","name":"公益机构","summary":"官网、项目展示、信息公开与资料整理","detail":"可以先梳理机构介绍、项目内容与信息公开的展示，也可以讨论日常资料整理。哪些内容可公开、谁负责更新，需要在实施前确认。","service":"fde-consulting","cases":["P02"],"case_note":"相关实践为公益官网开发；具体职责和交付内容见案例。"}
+    ]
+  },
+  "en": {
+    "heading": "Where could we start in your industry?",
+    "intro": "Start by assessing one repetitive, time-consuming task. These are scenarios we can discuss; linked projects show the work actually done. Scope and fees are agreed before implementation.",
+    "scenario_label": "A starting point to assess",
+    "case_label": "Related work",
+    "service_label": "Explore the service scope",
+    "contact_label": "Discuss this task",
+    "expand_label": "Expand",
+    "items": [
+      {"id":"manufacturing","name":"Manufacturing","summary":"Inventory checks, repeated entry and product documentation","detail":"We can start with material or finished-goods records, specification sheets and operating instructions to assess repeated entry or information lookup. Equipment connections and integrations with existing systems need a separate scope review.","service":"workflow-automation","cases":["P10"],"case_note":"The related project concerns inventory for a sanitaryware B2B business, offered as a workflow reference."},
+      {"id":"ecommerce","name":"E-commerce","summary":"Product information, support assistance and content organization","detail":"We can assess one set of product descriptions, common presales questions or repetitive content tasks. Your current platform and tools determine which approaches are suitable and what implementation would involve.","service":"ai-agent","cases":[],"case_note":""},
+      {"id":"cross-border","name":"Cross-border e-commerce","summary":"Chinese and English product presentation, brand information and support","detail":"We can review bilingual product and brand information, recurring customer questions and content maintenance. The target market and existing channels help define a small improvement to assess.","service":"fde-consulting","cases":["P05","P36"],"case_note":"Related experience is in overseas brand marketing and customer support collaboration. Each case states my role."},
+      {"id":"wholesale-retail","name":"Wholesale and retail","summary":"Stock movements, product catalogs and record reconciliation","detail":"We can trace one receipt or dispatch through data entry, stock changes and reconciliation, then assess duplicate submissions, corrections and catalog organization.","service":"workflow-automation","cases":["P10"],"case_note":"The related inventory project shows business adaptation and delivery. Its case states the limits of the usage evidence."},
+      {"id":"home-building","name":"Furniture, home and building products","summary":"Product specifications, brand websites and inventory workflows","detail":"We can start with product images, model numbers, dimensions and specifications, or one difficulty in website presentation or stock recording. Public pages, content management and inventory functions have separate scopes.","service":"fde-consulting","cases":["P07","P09"],"case_note":"Furniture brand presentation and barcode inventory projects are documented separately, with their completion scope stated."},
+      {"id":"professional-services","name":"Law firms and professional services","summary":"Websites, information lookup and internal workflows","detail":"We can review how clients find service information and a contact route, or how staff find documents and handle recurring tasks. Access permissions, human review and maintenance responsibilities are agreed before implementation.","service":"fde-consulting","cases":["P03","P04"],"case_note":"Related work covers law-firm website and office-system development within a team. See each case for my responsibilities."},
+      {"id":"brands-studios","name":"Brands and content studios","summary":"Asset organization, copy, images and recurring content tasks","detail":"We can review where assets are stored, which copy or images are repeatedly produced and what needs human approval, then assess existing tools or a small development task.","service":"fde-consulting","cases":["P05"],"case_note":"Related experience is collaborative brand marketing, content and AI video work."},
+      {"id":"nonprofits","name":"Nonprofit organizations","summary":"Websites, project information, public disclosures and documents","detail":"We can review organization information, project presentation, public disclosures or recurring document tasks. What can be made public and who maintains it must be agreed before implementation.","service":"fde-consulting","cases":["P02"],"case_note":"Related work is nonprofit website development. The case describes my role and the delivered content."}
+    ]
+  }
+}

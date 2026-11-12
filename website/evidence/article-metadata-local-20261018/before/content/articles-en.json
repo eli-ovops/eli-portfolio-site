@@ -1,0 +1,215 @@
+{
+  "articles": [
+    {
+      "slug": "inventory-reconciliation",
+      "title": "Manual inventory checks every day: where should you start?",
+      "category": "Inventory workflows",
+      "summary": "Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.",
+      "date": "2026-10-17",
+      "reading": "6 min read",
+      "intro": "An incoming delivery gets entered into several spreadsheets. After a transfer, someone has to ask where the goods went. A stocktake discrepancy means searching for the original record again. Start by tracing one inventory workflow and checking its quantities and responsibilities before choosing a tool.",
+      "takeaway": "Start with one product, storage location or document type. Connect recording, reconciliation and corrections, then decide whether to expand.",
+      "service": "workflow-automation",
+      "service_label": "See inventory and workflow services",
+      "projects": [
+        "P10",
+        "P09"
+      ],
+      "sections": [
+        {
+          "id": "start",
+          "title": "Start with the step that keeps needing another check",
+          "paragraphs": [
+            "Take one recently completed transaction and walk through it: who received the goods, who recorded them, who confirmed the quantity and who needed the result. Look for information being copied more than once, and whether a stock change can be traced to its source document.",
+            "If people keep asking around, searching chat histories or copying data between spreadsheets, improving the record-keeping may help more than adding another AI tool."
+          ],
+          "bullets": [
+            "Recording: can each transaction be entered once?",
+            "Reconciliation: do documents, stock balances and movement records agree?",
+            "Corrections: can you trace what changed after an entry error, return or cancellation?"
+          ]
+        },
+        {
+          "id": "case-records",
+          "kind": "case",
+          "title": "What I actually did in two inventory projects",
+          "paragraphs": [
+            "For an inventory management system in the sanitary ware industry, I independently handled requirements, workflow analysis, adaptation of an existing software foundation and delivery. The scope connected product specifications, purchasing, returns and stocktakes, with PC and mobile access. Reviews checked documents, stock balances and movement records together, rather than relying on an on-screen success message.",
+            "For a furniture brand barcode inventory project, I led requirements analysis, workflow design and development across receipt, transfer, dispatch and reversal. Duplicate requests, insufficient stock and retries after cancellation needed explicit checks. Transfers also required agreement between the source location, destination and total quantity.",
+            "These projects show which workflows were implemented and checked. The public records contain no measured customer time savings. Quantity changes in the barcode case come from historical virtual-stock tests, not the customer's operating data.",
+            "The project notes also record that the sanitary ware system was delivered but was not yet in full customer use, with no conclusion on operational effects. This is the documented project status; delivery alone does not establish efficiency gains."
+          ],
+          "projects": [
+            "P10",
+            "P09"
+          ]
+        },
+        {
+          "id": "scope",
+          "title": "Set a small scope for the first trial",
+          "paragraphs": [
+            "Choose one clear path, such as receipts and dispatches for one product in one warehouse. Record the input, owner, quantity change and handover on a single workflow checklist.",
+            "Then decide whether an existing spreadsheet or tool is sufficient, or whether barcode screens, permissions or system connections are needed. Quantity validation and duplicate submission handling follow explicit rules; they do not all need AI judgment."
+          ],
+          "bullets": [
+            "Normal operation: record a transaction and check the document, stock balance and movement record.",
+            "Exceptions: what happens after a duplicate submission, insufficient quantity or entry error?",
+            "Human responsibility: who confirms an exception, who can reverse it, and is the reversal recorded?",
+            "Delivery scope: which functions will be built, which examples will be checked, and who maintains the result?"
+          ]
+        },
+        {
+          "id": "estimate",
+          "kind": "calculation",
+          "title": "Estimate the time involved before deciding to invest",
+          "label": "Hypothetical calculation, not measured results from these customers",
+          "paragraphs": [
+            "To illustrate the calculation, assume 30 records need checking each day, averaging 3 minutes each, across 20 working days a month. These are invented example inputs. Replace them with your own observations."
+          ],
+          "rows": [
+            [
+              "Current effort (assumed)",
+              "30 records × 3 minutes = 90 minutes a day"
+            ],
+            [
+              "If a trial measures 2 minutes per record",
+              "30 fewer minutes a day"
+            ],
+            [
+              "Monthly time difference",
+              "30 minutes × 20 days = 10 hours"
+            ]
+          ],
+          "paragraphs_after": [
+            "The last two rows only apply if a trial actually measures 2 minutes per record. Add time spent learning, correcting errors and maintaining the process. Time saved does not automatically mean cash costs have fallen.",
+            "There is no need to promise an efficiency percentage first. Compare similar tasks before and after the change, keep the records and check that the results remain correct."
+          ]
+        },
+        {
+          "id": "acceptance",
+          "title": "Include corrections in acceptance checks",
+          "paragraphs": [
+            "A useful workflow must handle more than the normal path. Ask the people who will use it to try exceptions: can an error be corrected, does a repeated submission create a duplicate entry, and can a colleague trace what happened?",
+            "Removing one spreadsheet may not help if another employee spends more time reconciling the result. Compare the effort across the whole workflow before continuing, reducing the scope or keeping the current approach."
+          ]
+        },
+        {
+          "id": "contact",
+          "title": "Bring one concrete problem to the first conversation",
+          "paragraphs": [
+            "You might say: “We record receipts in a spreadsheet, then enter dispatches separately. Checking the quantities each day takes the most time. Could we look at a small improvement?”",
+            "The initial conversation is free. Implementation services start at CNY 500, with scope and fees agreed before work begins. That starting price does not cover an entire inventory system. Tool subscriptions, development, training and maintenance are agreed separately according to the need.",
+            "You can start with anonymized examples. There is no need to share account passwords, customer personal information or complete business datasets."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "enterprise-knowledge-base",
+      "title": "Company information is scattered: what should you prepare for a knowledge base?",
+      "category": "Knowledge and support",
+      "summary": "Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.",
+      "date": "2026-10-17",
+      "reading": "6 min read",
+      "intro": "Specifications live in a product sheet, service rules sit in chat histories, and the same questions keep coming up. This can be a starting point for a knowledge-base trial. First establish which documents are trustworthy, who updates them and what happens when an answer cannot be found.",
+      "takeaway": "Start with one document category and a set of common questions. Check whether the assistant finds evidence, answers correctly and stops when there is no basis for an answer.",
+      "service": "ai-agent",
+      "service_label": "See knowledge-base and support services",
+      "projects": [
+        "P36"
+      ],
+      "sections": [
+        {
+          "id": "start",
+          "title": "Define who needs to find which information",
+          "paragraphs": [
+            "Helping employees find operating instructions differs from answering customers' product questions. Permissions, wording and confirmation requirements vary. Identify the users first, then choose a frequently searched topic with reasonably complete documentation.",
+            "Knowledge-base question answering typically retrieves documents before generating an answer from them. This is often called RAG. Its usefulness depends on the documents being correct, retrieval finding the right material and answers staying within what that material supports.",
+            "A first trial can focus on finding information and assisting with answers. Changing orders, updating stock or committing to refunds requires a separate review of interfaces, permissions and human confirmation."
+          ]
+        },
+        {
+          "id": "case-records",
+          "kind": "case",
+          "title": "My part in a brand customer-support project",
+          "paragraphs": [
+            "According to the project notes, in a customer-support customization project for a UK water-filter brand, I handled knowledge organization, retrieval configuration and testing, working with the team from demonstrations through customer confirmation and live-site tests. The team handled version backups, deployment and upgrade rollback preparation.",
+            "The available public records show the initial support interface, welcome message, quick support options, question input and contact entry. They do not independently demonstrate answer accuracy or time saved. Neither has measured results in the available records.",
+            "The case page labels its sample answers as AI-written illustrations. They are not real support conversations or evidence of customer outcomes. Assessing answer quality requires records linking actual questions, answers and cited documents."
+          ],
+          "projects": [
+            "P36"
+          ]
+        },
+        {
+          "id": "prepare",
+          "title": "Prepare four things in your documents",
+          "paragraphs": [
+            "You do not need to upload every company document on the first day. Pick one small topic and create a document set that can be checked and updated. Do not use files for testing without permission."
+          ],
+          "bullets": [
+            "Source: which document is authoritative for product parameters, operating steps and service rules?",
+            "Version: who maintains each document, when is it updated, and how are old versions retired?",
+            "Access: what is internal-only, and what can be used in external answers?",
+            "Boundaries: which questions can be answered directly, which need clarification, and which require a person?"
+          ],
+          "paragraphs_after": [
+            "If documents conflict, ask the responsible person to resolve the conflict first. Do not let a model guess which one is true. A fluent answer about something missing from the knowledge base is not evidence that it is correct."
+          ]
+        },
+        {
+          "id": "test",
+          "title": "Test with questions people actually ask",
+          "paragraphs": [
+            "Collect common employee or customer questions, remove personal information and ask the business owner to identify acceptable source material. During testing, review the question, answer, cited content and human judgment together."
+          ],
+          "bullets": [
+            "The answer exists: does retrieval find the right document, and does the citation actually support the answer?",
+            "The question is unclear: does the assistant ask for the model, context or other necessary details?",
+            "The documents have no answer: does it say it cannot confirm and point to the responsible person?",
+            "The material changes: are old versions excluded, and does the answer reflect the update?"
+          ],
+          "paragraphs_after": [
+            "Rather than rushing to report an accuracy figure, record the specific failure: missing evidence, the wrong version, a misunderstanding or a commitment beyond the source. Each needs a different correction."
+          ]
+        },
+        {
+          "id": "estimate",
+          "kind": "calculation",
+          "title": "Estimate search effort before arranging a small trial",
+          "label": "Hypothetical calculation, not measured data from the brand support project",
+          "paragraphs": [
+            "Assume the team looks up information 20 times a day, averaging 4 minutes per lookup, across 20 working days a month. This example illustrates workload; it is not an industry average or a customer measurement."
+          ],
+          "rows": [
+            [
+              "Current lookup time (assumed)",
+              "20 lookups × 4 minutes = 80 minutes a day"
+            ],
+            [
+              "If a trial measures 2 minutes per lookup",
+              "40 fewer minutes a day"
+            ],
+            [
+              "Monthly time difference",
+              "40 minutes × 20 days = 13 hours 20 minutes"
+            ]
+          ],
+          "paragraphs_after": [
+            "Include time spent verifying answers, identifying errors and handing over to a person. If repeated corrections cancel out faster lookups, the trial has not demonstrated an efficiency gain.",
+            "Further investment also depends on subscriptions, document maintenance, employee learning and implementation costs. Test your own tasks before applying someone else's percentage."
+          ]
+        },
+        {
+          "id": "contact",
+          "title": "Start with a question that keeps coming up",
+          "paragraphs": [
+            "For example: “We have product manuals and service instructions. Our support team keeps looking up the same specifications. Could we help employees find the source faster?” This makes the trial scope clearer than choosing a model first.",
+            "The initial conversation is free. Before implementation, agree on the document scope, typical questions, citation requirements, human handover and acceptance checks, then confirm the fee. Complex integrations, permissions and ongoing maintenance need separate assessment.",
+            "Start with anonymized material you have permission to use. Do not send account passwords, customer personal information or unprocessed internal files during the initial conversation."
+          ]
+        }
+      ]
+    }
+  ]
+}

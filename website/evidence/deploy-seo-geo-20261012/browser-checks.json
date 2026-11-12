@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-12",
+  "release": "20261012-143006-seo-geo",
+  "browser": "Codex In-app Browser",
+  "scope": "Actual public URL desktop and simulated 390px; standalone browsers not retested",
+  "checks": [
+    {
+      "case": "online-about",
+      "overflow": false,
+      "questions": 4,
+      "robots": "noindex,nofollow",
+      "sameAs": 10,
+      "title": "关于 Eli - 开发经历、工作方法与联系方式",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+    },
+    {
+      "case": "online-faq-to-rag",
+      "description": "参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。 问答为 AI 拟写示意，非真实客服记录。",
+      "illustration": true,
+      "robots": "noindex,nofollow",
+      "title": "RAG 智能客服定制：知识库与检索实践 - Eli",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p36.html"
+    },
+    {
+      "case": "online-faq-back",
+      "overflow": false,
+      "questions": 4,
+      "url": "http://[REDACTED_HOST]/sites/portfolio/about.html"
+    },
+    {
+      "case": "online-gallery-wheel",
+      "opened": true,
+      "position": "02 / 07",
+      "scrollY": 738
+    },
+    {
+      "case": "online-gallery-case-back",
+      "opened": true,
+      "overflow": false,
+      "position": "02 / 07",
+      "scrollY": 738,
+      "url": "http://[REDACTED_HOST]/sites/portfolio/"
+    },
+    {
+      "case": "online-english-mobile",
+      "overflow": false,
+      "questions": 4,
+      "robots": "noindex,nofollow",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html",
+      "width": 390
+    },
+    {
+      "case": "online-project-list-schema",
+      "items": 38,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    }
+  ],
+  "viewport_reset": true
+}

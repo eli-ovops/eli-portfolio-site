@@ -1,0 +1,59 @@
+{
+  "browser": "Codex IAB / Chromium",
+  "revision": "27742c55f5009d07ccfc",
+  "desktop_native_viewport": [1332, 1202],
+  "simulated_widths": [390, 320],
+  "gallery": {
+    "first_next_click": "01 -> 02 PASS",
+    "index_selection": "third project PASS",
+    "drag_and_snap": "third -> fourth PASS; no modal opened",
+    "short_wheel": "01 -> 02 PASS; page scrollY remained 1027",
+    "side_card_click": "01 -> 02 PASS",
+    "keyboard_reverse": "02 -> 01 PASS",
+    "home_screenshot_opener": "dialog open and Escape close PASS",
+    "p09_browser_back": "third selection and reading context restored PASS",
+    "english_p04_mobile_back": "fourth selection and expanded process restored PASS",
+    "all_image_sources_loaded": true,
+    "office_flow_svg_tiles": 8
+  },
+  "library": {
+    "query": "净水",
+    "category": "客户项目",
+    "filtered_results": 2,
+    "related_route": "P36 -> P05 -> library",
+    "query_and_category_restored": true,
+    "rapid_empty_reset": "38 results; empty query; all category PASS",
+    "cleared_then_p10_return": "38 results; no stale query/category PASS"
+  },
+  "screenshots": {
+    "p09_modal_background_wheel": "scrollY remained 0; HTML/body overflow hidden",
+    "escape_close": "dialog closed; body overflow restored",
+    "first_click_after_fast_about_home_navigation": "PASS after early snapshot cancellation",
+    "mobile_vertical_scroll": "scrollY 1749 -> 2044; current project remained first"
+  },
+  "reduced_motion": {
+    "ring_hidden": true,
+    "original_accessible_cases": 7,
+    "duplicate_screenshot_actions_hidden": true,
+    "background_active_after_change": false,
+    "background_control_disabled_after_change": true,
+    "normal_mode_restored": true
+  },
+  "responsive": {
+    "desktop_overflow": false,
+    "zh_390_home_about_contact": "PASS",
+    "zh_320_library_and_cases": "PASS",
+    "en_320_home_about_library_p04": "PASS",
+    "consultation_anchor": "contact top 104px and visible at 390 width; destinations retained"
+  },
+  "limits": [
+    "Mobile tests use viewport emulation, not physical touch hardware.",
+    "No Safari, Edge, Baidu-browser matrix or FPS/load benchmarks.",
+    "Visual browsing samples common page templates; static checks cover all 84 pages.",
+    "Early diagnostic captures are intermediate versions. Final desktop screenshots and source hashes identify the delivered version.",
+    "Native transition cancellation emitted AbortError/InvalidState notices in earlier runs; no application TypeError or module-load error was observed in the final checked route."
+  ],
+  "temporary_emulation_restored": true,
+  "reference_tab_closed": true,
+  "preview_tab_retained": true
+}

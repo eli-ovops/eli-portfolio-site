@@ -1,0 +1,113 @@
+{
+  "checked_at": "2026-10-19T01:47:07.230Z",
+  "task": "Connect Windsor.ai to Google Search Console for eliai.cn SEO reporting",
+  "status": "CONNECTED_AND_READ_VERIFIED",
+  "scope": {
+    "destination": "Windsor.ai",
+    "source": "searchconsole",
+    "selected_accounts": [
+      "https://www.eliai.cn/"
+    ],
+    "purpose": "Read existing SEO reports"
+  },
+  "authorization": {
+    "user_approved_current_google_read_grant": true,
+    "permission": "View Search Console data for verified sites",
+    "google_scope": "Account verified sites; Windsor selection limited to eliai.cn",
+    "write_actions_enabled": false
+  },
+  "completed": [
+    "Google read permission granted after explicit user approval",
+    "Only https://www.eliai.cn/ selected in Windsor",
+    "Finish and ChatGPT OAuth callback completed",
+    "MCP lists the selected Search Console account",
+    "Field and options discovery completed",
+    "Search Analytics and Sitemaps reads returned status done"
+  ],
+  "performance_request": {
+    "connector": "searchconsole",
+    "accounts": [
+      "https://www.eliai.cn/"
+    ],
+    "date_from": "2026-10-15",
+    "date_to": "2026-10-18",
+    "fields": [
+      "date",
+      "clicks",
+      "impressions",
+      "ctr",
+      "position"
+    ],
+    "options": {
+      "include_fresh_data": false
+    }
+  },
+  "performance_result": {
+    "status": "done",
+    "data": [
+      {
+        "date": "2026-10-15",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 1.5
+      },
+      {
+        "date": "2026-10-16",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 11.5
+      }
+    ],
+    "total_rows": 2
+  },
+  "sitemap_result": {
+    "status": "done",
+    "data": [
+      {
+        "path": null,
+        "last_submitted": null,
+        "last_downloaded": null,
+        "submitted": 0,
+        "errors": 0,
+        "warnings": 0
+      },
+      {
+        "path": "https://www.eliai.cn/sitemap.xml",
+        "last_submitted": "2026-10-17T05:58:37.298Z",
+        "last_downloaded": "2026-10-19T01:08:39.595Z",
+        "submitted": 294,
+        "errors": 0,
+        "warnings": 0
+      }
+    ],
+    "total_rows": 2
+  },
+  "query_result": {
+    "status": "done",
+    "data": [
+      {
+        "date": "2026-10-16",
+        "query": "claimflow.co",
+        "page": "https://www.eliai.cn/en/cases/p20.html",
+        "clicks": 0,
+        "impressions": 1,
+        "position": 43
+      }
+    ],
+    "total_rows": 1
+  },
+  "interpretation": [
+    "Requested performance dates 2026-10-15 through 2026-10-18; returned rows only October15 and16",
+    "Returned site total 6 impressions,0 clicks; not evidence of target service-query exposure or natural traffic",
+    "One disclosed query claimflow.co points to English p20 case; query-level rows do not account for all aggregate impressions",
+    "Sitemap294 submitted URLs with0 errors,0 warnings is a read, not a new submission or indexed count"
+  ],
+  "pending": [],
+  "website_changes": 0,
+  "search_submissions": 0,
+  "payments": 0,
+  "raw_oauth_urls_saved": false,
+  "verification_codes_saved": false
+}

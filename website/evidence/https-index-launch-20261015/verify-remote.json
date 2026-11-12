@@ -1,0 +1,489 @@
+{
+  "status": "PASS",
+  "remote_files": 140,
+  "https_http_checks": [
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "sha256": "a903d9e440486000fc2b43b0f1eef6882d131350046516d6aee88e8b8d8e785e"
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "645bf620b2e3ad9da8725e8b7e3c24ea86d6abb390bc8c9fb2bdbdea17bb411c"
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256": "44f6ccbf872f0651220b0c37e993fa4891ccec87972baaf606ca522b49616b47"
+    },
+    {
+      "path": "records.html",
+      "status": 200,
+      "sha256": "0f1e9ca90a72525332f65561787fc6d5c6e92638a9619c8f70a3d6a5b6a399d5"
+    },
+    {
+      "path": "404.html",
+      "status": 200,
+      "sha256": "4db30a00a3c2df75cffdc8b0f6a42c04588c7395c5b8f8af9d147eab420a4034"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "sha256": "01f8da24d35ae4fd8e2a58a8537e6ae68211e9fcd86cd352782bfbe8a72844b8"
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32"
+    },
+    {
+      "path": "app.js",
+      "status": 200,
+      "sha256": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31"
+    },
+    {
+      "path": "cases/p18.html",
+      "status": 200,
+      "sha256": "89b453961547f6cf2e314e6949cea4a70ce76c6add08a007429f69aeccdd02f6"
+    },
+    {
+      "path": "cases/p34.html",
+      "status": 200,
+      "sha256": "ad2d9eded1ec0cd7cadb4f05e41a42bba9aa99d2d4253e257ab3cedf1e39e2f5"
+    },
+    {
+      "path": "cases/p22.html",
+      "status": 200,
+      "sha256": "d3bc1191a3957372cb22fee6f007bb99da2b8d09603af4d06eae0ab8767454f3"
+    },
+    {
+      "path": "cases/p02.html",
+      "status": 200,
+      "sha256": "8217c20438d9288b939c890d1de6c9de3cacf13db04489a28b86490282f50fbe"
+    },
+    {
+      "path": "cases/p14.html",
+      "status": 200,
+      "sha256": "cc56e2cb41cfe7399f4c3221bf1e3f35d2300aed256842f45e587d8e14af7530"
+    },
+    {
+      "path": "cases/p15.html",
+      "status": 200,
+      "sha256": "ee57396b4999b339f0644d3320e6ac52bf45c7169ce0f902abc8e227cb05a792"
+    },
+    {
+      "path": "cases/p03.html",
+      "status": 200,
+      "sha256": "e83c86e7475ce037795a8f91bf207fbc0d2d674909c22df9f2afaf662cb6e1fa"
+    },
+    {
+      "path": "cases/p23.html",
+      "status": 200,
+      "sha256": "ce62446b5b83655b9296ab530210b8b2ddd6ac2b2dbf35d640a96fcbfaf0ff85"
+    },
+    {
+      "path": "cases/p35.html",
+      "status": 200,
+      "sha256": "131445b8a033d2b7ac5763737ec59654ab24a85ea67dfd7c1d728319a48a1771"
+    },
+    {
+      "path": "cases/p19.html",
+      "status": 200,
+      "sha256": "20701d0e5da0a2214fdbc22c7c26a9bb59fb3f1f3583fc4d397adeb886db2741"
+    },
+    {
+      "path": "cases/p04.html",
+      "status": 200,
+      "sha256": "0adc1890d8fb0aa4ac7f493e67926d311e5aaf6881518aa44c771c072a4ad764"
+    },
+    {
+      "path": "cases/n02.html",
+      "status": 200,
+      "sha256": "46c0d3a4bb56a42e6c56b54a2fd668628275fb04723f2e626fd0a3cbc6936b9d"
+    },
+    {
+      "path": "cases/p12.html",
+      "status": 200,
+      "sha256": "7cf8f339957e481ccd38ab460b0d77819dfdf602f57b29811f6c61083d6b8e45"
+    },
+    {
+      "path": "cases/p28.html",
+      "status": 200,
+      "sha256": "4b76d9ba386e23a351040bb537d24b1faaee1aa3b74b5bb903bf28aa5836d12b"
+    },
+    {
+      "path": "cases/p08.html",
+      "status": 200,
+      "sha256": "966a2dc10e14f81ed750e5fbd55c0efdf3ddffe89a270668a888c2b8afb61ace"
+    },
+    {
+      "path": "cases/p32.html",
+      "status": 200,
+      "sha256": "6baea18ecf7d8ae0cc47244e747e4d76449c1d1af136676d4086b5d1aef9d12d"
+    },
+    {
+      "path": "cases/p24.html",
+      "status": 200,
+      "sha256": "348a1824127b8b3cb4e48afc2f63ae9361f2cc855e7870b1711d3c9cc3ef4efd"
+    },
+    {
+      "path": "cases/p25.html",
+      "status": 200,
+      "sha256": "af29d467d1db1ed5ebbc2d545dadd02c8b44eae634ed7912e71ef091a567d839"
+    },
+    {
+      "path": "cases/p33.html",
+      "status": 200,
+      "sha256": "9e60362fff646531cd58d017268c62ab561597ae092e2d5da9ccb208d0e0be39"
+    },
+    {
+      "path": "cases/p09.html",
+      "status": 200,
+      "sha256": "f2743b95a3182ef28bb7e704ac99f6ab50da93824a47e372de1ab9c8c19a8600"
+    },
+    {
+      "path": "cases/p29.html",
+      "status": 200,
+      "sha256": "f16026051be0053c799067ddd23ca8b042a883558d2e9bd67918606f531536d9"
+    },
+    {
+      "path": "cases/p13.html",
+      "status": 200,
+      "sha256": "0d3a5b5b734375fc3db95f2e3be11ff27414be00787b48c519e479352da31ae4"
+    },
+    {
+      "path": "cases/p05.html",
+      "status": 200,
+      "sha256": "e61bcb2334b516cc88e7b5f75a93931dcba709c6a5a19129a0f71de3d7e3705f"
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "sha256": "4d43e06cfcf9a8c44a7fc728533aa0712dd84b08411bfc344aee14cf931befe5"
+    },
+    {
+      "path": "cases/p06.html",
+      "status": 200,
+      "sha256": "12d005fa648bb45a7256e273922e1d2264c3a398d75f959d31de0d838a490d86"
+    },
+    {
+      "path": "cases/p26.html",
+      "status": 200,
+      "sha256": "6f9c83a011c6e435f2c12b19adfb31fe1d57985edb9d0cb3e9c1888f9fb1beda"
+    },
+    {
+      "path": "cases/p30.html",
+      "status": 200,
+      "sha256": "f35a1b60d8c3e05a92e6f63e96e6e525a6f0bbb5eaf24a53995c6793fd4dea73"
+    },
+    {
+      "path": "cases/p31.html",
+      "status": 200,
+      "sha256": "da73cfc401fddd6c023a72980e41c4a88858e30ae518cfbbe08a15bee0185948"
+    },
+    {
+      "path": "cases/p27.html",
+      "status": 200,
+      "sha256": "b85810c221e6444465d43921dd548f1f361c4df545d51ab80c17e80d1327f240"
+    },
+    {
+      "path": "cases/p07.html",
+      "status": 200,
+      "sha256": "de1c9629d247de8a4c97fdb2d12297e18654bcbd9d0fd548c22159a6364955c1"
+    },
+    {
+      "path": "cases/n01.html",
+      "status": 200,
+      "sha256": "0e4ec190c95f4b59e8eda167e7bf5af825eb09c742e633e6dcf0d340261380d5"
+    },
+    {
+      "path": "cases/p11.html",
+      "status": 200,
+      "sha256": "879ed6abb59ea5f2f9b64f937d25d0fa25763170146f14d603081a5b99dc9867"
+    },
+    {
+      "path": "cases/p20.html",
+      "status": 200,
+      "sha256": "d1450e148d354a8100c744fe23833b1a80a26c25974b62e60d0522582ee7d64b"
+    },
+    {
+      "path": "cases/p36.html",
+      "status": 200,
+      "sha256": "20998ab4d3d6b2e5bb11838ad21357bf186b7257305398925d04a6a2fdb43e54"
+    },
+    {
+      "path": "cases/p16.html",
+      "status": 200,
+      "sha256": "939f9ffc3a3cdb7a056e6bff31484a554f71311e0ad0d97ad89bf1a496061374"
+    },
+    {
+      "path": "cases/p01.html",
+      "status": 200,
+      "sha256": "9933da87c4871aa904b07ce0cd1dbeebb0c7255cfc8b80f4121e6b5b901a0ac3"
+    },
+    {
+      "path": "cases/p17.html",
+      "status": 200,
+      "sha256": "2b0b6699fa891033d081e7a2acf14c9241729cf32f80c3c19f87b955e254a505"
+    },
+    {
+      "path": "cases/p21.html",
+      "status": 200,
+      "sha256": "1b502e44de5cad9a77fcf8c20a5b60e23884e60abae8a9e0f0360394aec1e0fb"
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "sha256": "c8acc2ad5b382827f7ea52f2f6c5550eb4870949c93968feb2d267190e58bd8e"
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256": "b4fc3d1f112497072bca74e5d2b4d945dc0ad85a5a0554e6724609d01286e608"
+    },
+    {
+      "path": "en/records.html",
+      "status": 200,
+      "sha256": "1422996ac59e8db6818c809874a71315cbe973f06f3c45113aabeb37aa824843"
+    },
+    {
+      "path": "en/404.html",
+      "status": 200,
+      "sha256": "eae86c3c4c6da0259f18263b9417506f2ce91771bd2610c37b65683238e3c865"
+    },
+    {
+      "path": "en/cases/p18.html",
+      "status": 200,
+      "sha256": "84f422258620cc9d2353b560bf2b232dfff1839a893e1ab1e63c5734e5d59234"
+    },
+    {
+      "path": "en/cases/p34.html",
+      "status": 200,
+      "sha256": "14464c182eb5fc8e0fb415c3ed6e904c8857329dd5a8ad5ab327cdba8186aa2c"
+    },
+    {
+      "path": "en/cases/p22.html",
+      "status": 200,
+      "sha256": "23b11df0c74af3e414f59a51ce5007ad7f7b6d9853a56bdcb508587d3e2d051f"
+    },
+    {
+      "path": "en/cases/p02.html",
+      "status": 200,
+      "sha256": "4325d796e1f6c21e4c832880f07324f1d2bba55eba1708f5d91be97b25b6afb3"
+    },
+    {
+      "path": "en/cases/p14.html",
+      "status": 200,
+      "sha256": "821c228c67e5b12b5951f9c9de9107e6ed2de3d67f2621fd514403ecee3e3f93"
+    },
+    {
+      "path": "en/cases/p15.html",
+      "status": 200,
+      "sha256": "eb5bca38880c7ae32c407724337ed2007cb48bd71a92b8bffd0cacae0088bab5"
+    },
+    {
+      "path": "en/cases/p03.html",
+      "status": 200,
+      "sha256": "98e35598b3c4358b402587e97c459be0295ac4b307552c30a1357d9217f2bd5a"
+    },
+    {
+      "path": "en/cases/p23.html",
+      "status": 200,
+      "sha256": "824c13e9b0927d45be0e1360ef225054b1af9f48dc64914b78463f5de91cabbd"
+    },
+    {
+      "path": "en/cases/p35.html",
+      "status": 200,
+      "sha256": "039b2000dfa2706ebf086b13d662f161e654a1eca003158c0d9c9e7314dd8c0b"
+    },
+    {
+      "path": "en/cases/p19.html",
+      "status": 200,
+      "sha256": "d3eb085e28250a3af6f35b2c8a72ce446e77f4adea6b79169a7c85bb3ef650dc"
+    },
+    {
+      "path": "en/cases/p04.html",
+      "status": 200,
+      "sha256": "a460422b5e18b6a31bc99178bae1f7d0aae1b0bbc2fe02a57748399ed070a754"
+    },
+    {
+      "path": "en/cases/n02.html",
+      "status": 200,
+      "sha256": "f6d9b9f9e32ca2f8b21691e67472603fdbf95e7674661dbaf0b2acfe573cde77"
+    },
+    {
+      "path": "en/cases/p12.html",
+      "status": 200,
+      "sha256": "0e8322a0450a1fb1e91e7e7dbe5eedf2efd25fba46435cc78957c5d8f28287ee"
+    },
+    {
+      "path": "en/cases/p28.html",
+      "status": 200,
+      "sha256": "1c7975a1634b5ca6f13f3e054df8912178df4ef3b1ac56d97ed09818aabd8612"
+    },
+    {
+      "path": "en/cases/p08.html",
+      "status": 200,
+      "sha256": "d1eaab591605b9437945fe4d3a5a3d497328eabf1790ed30abd0ec618ff4aa55"
+    },
+    {
+      "path": "en/cases/p32.html",
+      "status": 200,
+      "sha256": "26c1b57362003d3f23fb0e8d53b1aea5abf07b447959e68b36ae9c8d20c9d8bf"
+    },
+    {
+      "path": "en/cases/p24.html",
+      "status": 200,
+      "sha256": "a96c7933b590878194bcd33d4b180f66b1cf89b579574798eaaabd286bd5f736"
+    },
+    {
+      "path": "en/cases/p25.html",
+      "status": 200,
+      "sha256": "99ff5fdb43d45f08c714095c1ffba95cc087f591e8f2f4b0cda62fbc032090e3"
+    },
+    {
+      "path": "en/cases/p33.html",
+      "status": 200,
+      "sha256": "440f4c06ba3bccad0be0eff6955d92c7e56220b59acf1ee926786088fbc763a7"
+    },
+    {
+      "path": "en/cases/p09.html",
+      "status": 200,
+      "sha256": "3ed9facdb3e6cb8cc82e5c81c26d1defef433248f8bb1d93f2aee3f39787f5a8"
+    },
+    {
+      "path": "en/cases/p29.html",
+      "status": 200,
+      "sha256": "19f65983be5b3d01f359bd8a6ae73a0a42a7ffbb45d8e0829e5eb9313e99866e"
+    },
+    {
+      "path": "en/cases/p13.html",
+      "status": 200,
+      "sha256": "8b53bd664b59b8c05180b2e343eb17665a62dd7317188c8b3ac7e9030bb67695"
+    },
+    {
+      "path": "en/cases/p05.html",
+      "status": 200,
+      "sha256": "af4ef6a099f7b7cde4f940a5d9d7babd834f489129fd742bb4bed698f92db75d"
+    },
+    {
+      "path": "en/cases/p10.html",
+      "status": 200,
+      "sha256": "7321d382cb28a7725e9e6c7de25539d64e751946335db163c6f94852c3343c34"
+    },
+    {
+      "path": "en/cases/p06.html",
+      "status": 200,
+      "sha256": "eed92b4bd3692c0a227465ddb5c2f436215dcf675f042d7acee1f921b7a53d52"
+    },
+    {
+      "path": "en/cases/p26.html",
+      "status": 200,
+      "sha256": "b5c2b55bbb2d263aac4ad1ba55d2fbda05fabd65023eb5919e86b471cc527e6b"
+    },
+    {
+      "path": "en/cases/p30.html",
+      "status": 200,
+      "sha256": "528031f16ed91a61cb0ba1e401fb967894dbeedda3ae47820989946657d83025"
+    },
+    {
+      "path": "en/cases/p31.html",
+      "status": 200,
+      "sha256": "3fe86214a2c3a92af2d4e1815ce09a5d702515bba3f681d85c052edd14e3f66a"
+    },
+    {
+      "path": "en/cases/p27.html",
+      "status": 200,
+      "sha256": "88bc3dc5e9e6bc7cd3a2f3bd21433cedd4d6f92f04508a3419c5387ba467b2ce"
+    },
+    {
+      "path": "en/cases/p07.html",
+      "status": 200,
+      "sha256": "5ac4419300871f3424070baab5d44caeb2ba24e98a428ece1d7b3fd5a9632711"
+    },
+    {
+      "path": "en/cases/n01.html",
+      "status": 200,
+      "sha256": "d31cd827e6bb1988d091e73b9ac4cda1ac4763e08353a5bbfc4fa8744da3f3da"
+    },
+    {
+      "path": "en/cases/p11.html",
+      "status": 200,
+      "sha256": "f462493e6aa84a5ce4a5d0e1fb32edc7d060b2fab95d3b3833b9883ff17adc57"
+    },
+    {
+      "path": "en/cases/p20.html",
+      "status": 200,
+      "sha256": "afbd51ae110659ac49835ca823f2703c887ec2a8378b4ec61eec2d980722f578"
+    },
+    {
+      "path": "en/cases/p36.html",
+      "status": 200,
+      "sha256": "b311ac3b94947e4f08f4d0d393678a5350e7c8f80b41dbad85110ee4602f9942"
+    },
+    {
+      "path": "en/cases/p16.html",
+      "status": 200,
+      "sha256": "7ad1f2847fdbfb5fe19ce4a18d709ddbd1f094f9df1b4efc6f45fd1fa573254c"
+    },
+    {
+      "path": "en/cases/p01.html",
+      "status": 200,
+      "sha256": "54d3683da3fd4250f017552729b353992ae6699fb0cc6dc5679c2e89f62124fe"
+    },
+    {
+      "path": "en/cases/p17.html",
+      "status": 200,
+      "sha256": "e14d2110af11a7144ba702e6714317ce57e7eb3571fcd85ed3e6895bf051ac96"
+    },
+    {
+      "path": "en/cases/p21.html",
+      "status": 200,
+      "sha256": "efc965a545a3c7eda156db2e46e412c290e5e291a75c83675efb45f334054adf"
+    },
+    {
+      "path": "assets/social-footer.css",
+      "status": 200,
+      "sha256": "c0ebaf390cc42f170f969596b7158a2ead4c3106ddc103407064137f1fbc19df"
+    },
+    {
+      "path": "assets/editorial.js",
+      "status": 200,
+      "sha256": "e78c26d12a9f0063f96062644863806648726595b38a6df251d199f663be30bc"
+    }
+  ],
+  "indexable_pages": 82,
+  "noindex_404": 2,
+  "redirects": [
+    {
+      "url": "http://eliai.cn/",
+      "status": 301,
+      "location": "https://www.eliai.cn/"
+    },
+    {
+      "url": "http://www.eliai.cn/",
+      "status": 301,
+      "location": "https://www.eliai.cn/"
+    },
+    {
+      "url": "https://eliai.cn/",
+      "status": 301,
+      "location": "https://www.eliai.cn/"
+    }
+  ],
+  "sitemap_urls": 82,
+  "IP_noindex": true,
+  "private_paths": "403/404",
+  "ERP_config_unchanged": true,
+  "renew_hook": "PASS",
+  "timer_enabled": "enabled",
+  "timer_next": "Fri 2026-10-16 07:10:47 CST",
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active",
+    "certbot.timer": "active"
+  }
+}

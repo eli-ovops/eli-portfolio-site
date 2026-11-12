@@ -1,0 +1,105 @@
+Browser tab: 42, Title: "网址检查", URL: "https://search.google.com/search-console/inspect?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&id=vjHOz_crphQeCNGCzNgzVg".
+0 AXWebArea 网址检查, URL: search.google.com/search-console/inspect?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&id=vjHOz_crphQeCNGCzNgzVg
+	1 container
+		2 container yDmH0d
+			3 container gb
+				4 container
+					5 button (collapsed) Description: 主菜单, Secondary Actions: Expand
+						6 image
+					7 link Description: Google Search Console, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F, ID: sdgBod
+					8 container
+						9 combo box (collapsed, settable) Description: 检查 https://www.eliai.cn/ 中的任何网址, Secondary Actions: Expand
+					10 button 搜索
+						11 image
+					12 button 帮助
+					13 button 用户设置
+					120 container
+						121 button 未读消息：2 条
+						137 text 2
+					15 button (collapsed) Description: Google 应用, Secondary Actions: Expand
+					16 button (collapsed) Description: Google 账号： Eli Chao ([REDACTED_EMAIL]), Secondary Actions: Expand
+			17 container navigational drawer
+				18 container
+					19 container 主要
+						20 pop up button (collapsed) Description: 搜索资源, Secondary Actions: Expand
+							21 image 网站图标
+							22 combo box (collapsed, settable) Description: https://www.eliai.cn/, Secondary Actions: Expand
+						23 container
+							24 link Description: 概述, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							25 link Description: 数据洞见, Value: search.google.com/search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							26 link Description: 效果, Value: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							27 button 网址检查
+								28 text 网址检查
+							123 container
+								124 text 编制索引
+								125 button (expanded) Description: “编制索引”报告部分, Secondary Actions: Collapse
+								126 link Description: 网页, Value: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								127 link Description: 站点地图, Value: search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								128 link Description: 移除, Value: search.google.com/search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							129 container
+								130 text 体验
+								131 button (expanded) Description: “体验”报告部分, Secondary Actions: Collapse
+								132 link Description: 核心网页指标, Value: search.google.com/search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								133 link Description: HTTPS, Value: search.google.com/search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							134 container
+								135 text 安全问题和人工处置措施
+								136 button (collapsed) Description: “安全问题和人工处置措施”报告部分, Secondary Actions: Expand
+							42 link Description: “链接”报告, Value: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							43 link Description: 成就, Value: search.google.com/search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							44 link Description: 设置, Value: search.google.com/search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							45 button 提交反馈
+								46 text 提交反馈
+							47 button Search Console 简介
+								48 text Search Console 简介
+							49 link Description: 隐私权, Value: myaccount.google.com/privacypolicy?hl=zh-CN
+							50 link Description: 条款, Value: myaccount.google.com/termsofservice?hl=zh-CN
+			138 container
+				139 text https://www.eliai.cn/en/articles/ai-cost-breakdown.html
+				140 container
+					141 container 路径
+						142 heading 网址检查, Value: 1
+							143 text 网址检查
+					144 button 测试实际网址
+						145 text 测试实际网址
+					146 container
+						147 text 网址已收录到 Google
+						148 container
+							149 text 它能显示在 Google 搜索结果中（如果没有受到人工处置措施或移除要求的影响），并能使用所有相关的增强选项。
+							150 link Description: 了解详情, Value: support.google.com/webmasters/answer/9012289#url_on_google
+						151 button 查看被抓取的网页
+							152 text 查看被抓取的网页
+						153 text 更改了网页？
+						154 button 请求编入索引再次提交请求
+							155 text 请求编入索引
+					161 container
+						162 button (expanded) 网页索引编制 网页已编入索引, Secondary Actions: Collapse
+							163 text 网页索引编制
+							164 text 网页已编入索引
+						165 text 发现
+						166 text 站点地图
+						167 text https://www.eliai.cn/sitemap.xml
+						168 text 引荐来源网页
+						169 text https://www.eliai.cn/articles/ai-cost-breakdown.html?pv=e3304385905f8d1cdd01
+						170 text 抓取
+						171 text 上次抓取时间
+						172 text 2026年10月17日 19:09:37
+						173 text 当时所用的用户代理
+						174 text Googlebot 智能手机版
+						175 text 是否允许抓取？
+						176 text 是
+						177 text 网页抓取
+						178 text 成功
+						179 text 是否允许编入索引？
+						180 text 是
+						181 text 编制索引
+						182 text 用户声明的规范网址
+						183 text https://www.eliai.cn/en/articles/ai-cost-breakdown.html
+						184 text Google 选择的规范网址
+						185 button (collapsed) Description: null, Secondary Actions: Expand
+						186 text 所检查的网址
+						187 link Description: 链接至更详尽的文档, Value: support.google.com/webmasters/answer/7440203#submitted_and_indexed
+						188 link Description: 打开报告, Value: search.google.com/search-console/index/drilldown?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&item_key=CAMYASAB
+					159 text 增强功能和体验
+					160 link Description: HTTPS 网页采用 HTTPS 协议, Value: search.google.com/search-console/inspect/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&id=vjHOz_crphQeCNGCzNgzVg
+
+The focused UI element is 162 button (expanded) 网页索引编制 网页已编入索引, Secondary Actions: Collapse

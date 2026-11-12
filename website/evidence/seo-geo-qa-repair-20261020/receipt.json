@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-10-20T16:35:55.279164+08:00",
+  "status": "PASS_VERIFICATION_TOOL_REPAIR_ONLY",
+  "prior_goal_turn": "PROGRESS: responsive images implemented and candidate package verified",
+  "script_changes": [
+    "scripts/check_tutorials.py",
+    "scripts/check_localization.py"
+  ],
+  "tutorials": "PASS:100 bilingual tutorials/200 pages plus 2 retained article topics, 102 per language; homepage2 visible/8 pool",
+  "localization": "PASS148 bilingual page pairs, all assets/srcsets and same-page language links",
+  "negative_and_positive_controls": [
+    {
+      "control": "Chinese body",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    },
+    {
+      "control": "Chinese alt",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    },
+    {
+      "control": "Allowed text outside practice",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    },
+    {
+      "control": "Unlabelled pre",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    },
+    {
+      "control": "Changed practice text",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    },
+    {
+      "control": "Exact labelled bilingual exercise",
+      "expected": "ACCEPT",
+      "observed": "ACCEPT"
+    },
+    {
+      "control": "Ignore unrelated templates, count actual 2+8 rows",
+      "expected": "ACCEPT",
+      "observed": "ACCEPT"
+    },
+    {
+      "control": "Missing visible row",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    },
+    {
+      "control": "Missing pool row",
+      "expected": "REJECT",
+      "observed": "REJECT"
+    }
+  ],
+  "website_files_unchanged": 383,
+  "pending_implementation_source_hashes_unchanged": 9,
+  "candidate_package_unchanged": true,
+  "candidate_revision": "87919417171750dd1242",
+  "builds": 0,
+  "website_content_edits": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "emails": 0,
+  "publishing_approval": "Still pending; existing single question not repeated",
+  "goal_status": "Active, not complete; publication and real SEO/GEO results not claimed",
+  "evidence_sha256": {
+    "report.md": "6671c8917ca7a0bb925403d5495b91fa908a115f99075d5bea7b8a53ca92aa95",
+    "tutorial-checks.json": "f00d62af6ad0c799d6ead07cef15ad37c125dbd885310fed1c764fe7de564f85",
+    "localization-checks.json": "3a25b4cb18ee19b5f796b20922325e67e10a2a65d9a8f9e3c40bfab8f7d41295",
+    "baseline.json": "49f9e8dd6c926262773135870ca958bd88c0e0c90286d509328e54cc7add89e4"
+  }
+}

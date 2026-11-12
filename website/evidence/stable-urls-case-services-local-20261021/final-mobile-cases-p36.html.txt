@@ -1,0 +1,97 @@
+Browser tab: 9, Title: "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli", URL: "http://127.0.0.1:4178/cases/p36.html#case-contact-title".
+1 AXWebArea 企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli, URL: 127.0.0.1:4178/cases/p36.html#case-contact-title
+	2 link Description: 跳到正文, Value: 127.0.0.1:4178/cases/p36.html#main
+	3 container
+		4 link Description: Eli首页, Value: 127.0.0.1:4178/index.html
+		5 container 主导航
+			6 link Description: 首页, Value: 127.0.0.1:4178/index.html
+			7 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+			8 link Description: 文章, Value: 127.0.0.1:4178/articles.html
+			9 link Description: 关于, Value: 127.0.0.1:4178/about.html
+			10 link Description: 切换到英文版, Value: 127.0.0.1:4178/en/cases/p36.html
+	11 container main
+		12 link Description: ← 返回项目库, Value: 127.0.0.1:4178/records.html
+		13 text 客户项目
+		14 heading 英国某净水品牌 RAG 智能客服定制, Value: 1
+			15 text 英国某净水品牌 RAG 智能客服定制
+		16 text 团队定制与交付
+		17 text 面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。
+		18 container
+			19 link Description: 放大截图：英国某净水品牌 RAG 智能客服定制, Value: 127.0.0.1:4178/assets/public-cases/p36.png
+			20 link Description: 查看图片 ↗, Value: 127.0.0.1:4178/assets/public-cases/p36.png
+		21 definition list
+			22 container
+				23 container 我的工作
+					24 text 我的工作
+				25 text 知识库整理、检索配置与测试 01
+			26 container
+				27 container 页面记录
+					28 text 页面记录
+				29 text 客服初始界面与入口 02
+		30 container
+			31 heading 内容概览, Value: 2
+				32 text 内容概览
+			33 container 案例内容
+				34 link Description: 项目背景, Value: 127.0.0.1:4178/cases/p36.html#why
+				35 link Description: 承担职责, Value: 127.0.0.1:4178/cases/p36.html#role
+				36 link Description: 工作内容, Value: 127.0.0.1:4178/cases/p36.html#outputs
+				37 link Description: 实施方法, Value: 127.0.0.1:4178/cases/p36.html#process
+				38 link Description: 交付与反馈, Value: 127.0.0.1:4178/cases/p36.html#result
+				39 link Description: 职责与页面记录, Value: 127.0.0.1:4178/cases/p36.html#evidence
+		40 container why
+			41 heading 项目背景, Value: 2
+				42 text 项目背景
+			43 text 独立站访客需要查询净水产品与品牌知识。
+		44 container role
+			45 heading 承担职责, Value: 2
+				46 text 承担职责
+			47 text 我负责知识库整理、检索配置与测试。版本备份、上线及升级回滚准备由团队负责。
+		48 container outputs
+			49 heading 工作内容, Value: 2
+				50 text 工作内容
+			51 text 客服界面提供欢迎信息、快捷支持、问答输入和联系入口。
+		52 container process
+			53 heading 实施方法, Value: 2
+				54 text 实施方法
+			55 text 团队基于成熟底座定制，项目由咨询范围梳理、知识库与检索配置，推进至演示、客户确认和上线实测。
+		56 container result
+			57 heading 交付与反馈, Value: 2
+				58 text 交付与反馈
+			59 text 据本人项目说明，约两个月完成交付；回答准确率和客服效率没有量化数据。
+		60 container evidence
+			61 heading 职责与页面记录, Value: 2
+				62 text 职责与页面记录
+			63 text 已有本人项目说明及客服初始界面记录，可查看欢迎信息、快捷支持、问答输入和联系入口。回答质量与检索效果需要对应问答和检索记录支持。
+		64 link Description: 企业客户项目合作 ↗, Value: 127.0.0.1:4178/cases/p01.html
+		65 link Description: 英国某净水品牌全域营销 ↗, Value: 127.0.0.1:4178/cases/p05.html
+		66 container 聊聊你的业务
+			67 heading 聊聊你的业务, Value: 2, ID: case-contact-title
+				68 text 聊聊你的业务
+			69 text 不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。
+			70 link Description: 查看企业知识库搭建服务, Value: 127.0.0.1:4178/services/ai-agent.html
+			71 link Description: 免费聊聊, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1
+		72 link Description: 更多项目, Value: 127.0.0.1:4178/records.html
+	73 container
+		74 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/index.html
+		75 container 联系方式
+			76 text 邮箱
+			77 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			78 text 电话
+			79 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		80 container 页面导航
+			81 link Description: 项目库 ↗, Value: 127.0.0.1:4178/records.html
+			82 link Description: 回到顶部 ↑, Value: 127.0.0.1:4178/cases/p36.html#main
+		83 container 社交主页
+			84 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			85 link Description: B站, Value: space.bilibili.com/432834855
+			86 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			87 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			88 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			89 link Description: X, Value: x.com/cczij1112
+			90 link Description: 微博, Value: weibo.com/u/7720929036
+			91 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			92 link Description: Instagram, Value: instagram.com/eliaifde/
+			93 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		94 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea 企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli, URL: 127.0.0.1:4178/cases/p36.html#case-contact-title

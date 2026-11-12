@@ -1,0 +1,29 @@
+{
+  "service_pages": [
+    "services/fde-consulting.html",
+    "services/ai-agent.html",
+    "services/workflow-automation.html",
+    "en/services/fde-consulting.html",
+    "en/services/ai-agent.html",
+    "en/services/workflow-automation.html"
+  ],
+  "schema_matches_visible_copy": "PASS",
+  "crawlable_internal_links": "PASS",
+  "existing_case_and_about_bodies": "PASS for scoped snapshots; release query normalized",
+  "presentation_assets_unchanged": [
+    "styles.css",
+    "motion.css",
+    "app.js",
+    "motion.js",
+    "assets/editorial.css",
+    "assets/editorial.js",
+    "assets/bits-ui.css",
+    "assets/bits-ui.js",
+    "assets/home-ambient.css",
+    "assets/home-ambient.js",
+    "assets/content-layout.css"
+  ],
+  "indexing_enabled": true,
+  "deployment": "NOT DEPLOYED",
+  "keyword_rankings": "NOT CLAIMED"
+}

@@ -1,0 +1,30 @@
+Browser tab: 29, Title: "site:eliai.cn", URL: "https://quark.sm.cn/s?q=site%3Aeliai.cn&safe=1&by=submit&snum=0".
+1 AXWebArea site:eliai.cn, URL: quark.sm.cn/s?q=site%3Aeliai.cn&safe=1&by=submit&snum=0
+	2 container content
+		3 container
+			4 text entry area (settable) site:eliai.cn
+			5 text 搜索
+		6 content list
+			7 container
+				8 text 全部
+				9 image
+			10 text 图片
+			11 text 经验
+			12 text 资讯
+			13 text 文档
+		14 container no-result
+			15 container
+				16 text 抱歉，没有找到与“ site:eliai.cn ”相关的结果。
+			17 text 建议您: 
+			18 content list
+				19 container
+					20 AXListMarker • 
+					21 text 请检查输入文字是否有误；
+				22 container
+					23 AXListMarker • 
+					24 text 请尝试其他查询词；
+				25 container
+					26 AXListMarker • 
+					27 text 请改用较常见的文字。
+
+The focused UI element is 1 AXWebArea site:eliai.cn, URL: quark.sm.cn/s?q=site%3Aeliai.cn&safe=1&by=submit&snum=0

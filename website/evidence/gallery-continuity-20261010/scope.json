@@ -1,0 +1,17 @@
+{
+  "scope": "展开暂停滚轮、返回恢复、图片放大标识；只本地",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "files": [
+    "assets/depth-gallery.js",
+    "templates/home.html",
+    "scripts/components.py",
+    "styles.css",
+    "scripts/localization.py",
+    "docs/交付与验证.md"
+  ],
+  "new_artifact_root": "/Users/USER/Documents/原点向量/个人网站/website/evidence/gallery-continuity-20261010",
+  "purpose": "备份、差异与必要本地验收，保留",
+  "routing": "ROUTING-2026-09-30-v3",
+  "actual_model_effort_speed": "UNKNOWN",
+  "sop_sha256": "5b70133e7a155a713c130d07d883afffbd1f57eaa7bfc7c2e2c3dfc9f9bb926a"
+}

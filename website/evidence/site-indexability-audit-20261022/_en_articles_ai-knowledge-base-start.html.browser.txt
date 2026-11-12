@@ -1,0 +1,167 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: ../index.html
+    - link "Projects":
+      - /url: ../records.html
+    - link "Articles":
+      - /url: ../articles.html
+    - link "About":
+      - /url: ../about.html
+    - link "Switch to Chinese":
+      - /url: https://www.eliai.cn/articles/ai-knowledge-base-start.html
+      - text: 中文
+- main:
+  - link "← Back to articles":
+    - /url: https://www.eliai.cn/en/articles.html
+  - generic: Office tasks
+  - paragraph:
+    - text: Eli · Written on
+    - time: 2026-10-17
+    - text: · 1 min read
+  - heading "How do you start a business knowledge base?" [level=1]:
+    - generic: How do you start a business knowledge base?
+  - paragraph: Choose one recurring question area and organize current versions, owners and scope.
+  - complementary:
+    - heading "On this page" [level=2]
+    - navigation "On this page":
+      - link "The short answer":
+        - /url: "#understand"
+      - link "Try it in three steps":
+        - /url: "#try"
+      - link "A practice prompt":
+        - /url: "#example"
+      - link "If it goes wrong":
+        - /url: "#troubleshoot"
+      - link "Check your result":
+        - /url: "#check"
+      - link "References and scope":
+        - /url: "#sources"
+  - article:
+    - heading "The short answer" [level=2]
+    - paragraph: Duplicate or conflicting material undermines answers. Get a small set working before expanding to the whole drive.
+    - heading "Try it in three steps" [level=2]
+    - list:
+      - listitem: Collect current material on one topic.
+      - listitem: Remove obsolete duplicates from the working set and record owners.
+      - listitem: Test supported, unsupported and conflicting questions.
+    - heading "A practice prompt" [level=2]
+    - paragraph:
+      - strong: Before you start
+    - paragraph: Build a version inventory first; the original case article covers evaluation in depth.
+    - paragraph:
+      - strong: Practice material (fictional)
+    - code: Returns v1 is retired. v2 is current and owned by service support. An unapproved support note conflicts with v2.
+    - paragraph: Replace placeholders in the prompt with this material, or append the material if there are no placeholders. Reading time excludes doing the exercise.
+    - code: Organize these practice policies by current version, audience and owner. List conflicts without deciding them silently.
+    - paragraph:
+      - strong: What to look for (not a recorded test result)
+    - paragraph: The active set should point to v2 and flag the conflicting note. Retiring a document from retrieval does not mean deleting the original.
+    - heading "If it goes wrong" [level=2]
+    - paragraph: For wrong answers, inspect source versions and coverage before changing the model.
+    - heading "Check your result" [level=2]
+    - paragraph: Answers point to current rules and missing information prompts human review.
+    - heading "References and scope" [level=2]
+    - paragraph: The links below support the concepts or product navigation. The steps and exercises are our teaching suggestions, not official certification or measured customer outcomes. Product interfaces and availability may change. References checked on 2026-10-17.
+    - list:
+      - 'link "RAG concepts: IBM"':
+        - /url: https://www.ibm.com/think/topics/retrieval-augmented-generation
+  - heading "Start with one task" [level=2]
+  - paragraph: Describe the current process and its slowest step. The initial conversation is free.
+  - link "Let’s talk ↗":
+    - /url: ../about.html#contact
+  - link "See knowledge-base and support services ↗":
+    - /url: ../services/ai-agent.html
+  - region "Keep reading":
+    - heading "Keep reading" [level=2]
+    - article:
+      - generic: Office tasks
+      - generic: 1 min read
+      - heading "How do you turn experience into a usable procedure?" [level=3]:
+        - link "How do you turn experience into a usable procedure?":
+          - /url: ../articles/ai-sop-writing.html
+      - paragraph: Interview the actual operator and document steps, prerequisites, exceptions and completion checks.
+      - 'link "Read: How do you turn experience into a usable procedure?"':
+        - /url: ../articles/ai-sop-writing.html
+        - text: Read
+        - generic: ↗
+    - article:
+      - generic: Office tasks
+      - generic: 1 min read
+      - heading "What is OCR, and what should you check on a receipt?" [level=3]:
+        - link "What is OCR, and what should you check on a receipt?":
+          - /url: ../articles/ai-ocr-check.html
+      - paragraph: OCR turns image text into machine-readable text but can misread digits and table structure.
+      - 'link "Read: What is OCR, and what should you check on a receipt?"':
+        - /url: ../articles/ai-ocr-check.html
+        - text: Read
+        - generic: ↗
+    - article:
+      - generic: Office tasks
+      - generic: 1 min read
+      - heading "How do you use AI for a weekly report honestly?" [level=3]:
+        - link "How do you use AI for a weekly report honestly?":
+          - /url: ../articles/ai-weekly-report.html
+      - paragraph: Separate completed, ongoing, planned and blocked work.
+      - 'link "Read: How do you use AI for a weekly report honestly?"':
+        - /url: ../articles/ai-weekly-report.html
+        - text: Read
+        - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: ../records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

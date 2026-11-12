@@ -1,0 +1,204 @@
+{
+  "checked_at": "2026-10-23T02:14:45.836Z",
+  "checked_date_local": "2026-10-23",
+  "status": "READ_ONLY_CHECK_COMPLETE_WITH_REPORT_GAPS",
+  "scope": {
+    "article_topics": 102,
+    "article_details": 204,
+    "priority_services": [
+      "/services/fde-consulting.html",
+      "/services/ai-agent.html",
+      "/services/workflow-automation.html"
+    ],
+    "inventory_reference": "../check-20261021/inventory.json",
+    "inventory_recount": false
+  },
+  "production_baseline": "ee333e5fb82b7096a06c",
+  "live_revision_rechecked": false,
+  "google": {
+    "index": {
+      "report_update_label": "2026/10/16",
+      "indexed_site_urls": 77,
+      "not_indexed_site_urls": 363,
+      "canonical_alternates": 139,
+      "crawled_not_indexed": 223,
+      "article_204_total": "UNKNOWN",
+      "scope": "Dated all-site URLs including parameters; not article totals"
+    },
+    "error403": {
+      "affected": 1,
+      "example": "https://www.eliai.cn/cases/",
+      "last_crawl_display": "2026年10月15日",
+      "detected_display": "2026/10/17",
+      "report_update_display": "2026/10/16",
+      "status": "Old report unchanged; no post-fix crawl established",
+      "inspection_or_validation_actions": 0
+    },
+    "native_services": {
+      "selected_window": "7 天",
+      "actual_chart_dates": [
+        "2026-10-14",
+        "2026-10-20"
+      ],
+      "impressions": 0,
+      "clicks": 0,
+      "update_label": "4.5小时前",
+      "filter": "^https://www\\.eliai\\.cn/services/(fde-consulting|ai-agent|workflow-automation)\\.html(\\?.*)?$",
+      "final_21_22": "UNKNOWN; not zero"
+    },
+    "windsor": {
+      "final_request": [
+        "2026-10-14",
+        "2026-10-22"
+      ],
+      "final_last_date": "2026-10-20",
+      "final_site_impressions": 68,
+      "final_clicks": 0,
+      "fresh_request": [
+        "2026-10-16",
+        "2026-10-22"
+      ],
+      "fresh_last_date": "2026-10-22",
+      "article_paths": 36,
+      "article_raw_urls": 41,
+      "article_page_impressions": 88,
+      "article_clicks": 0,
+      "service_page_rows": [
+        {
+          "date": "2026-10-22",
+          "page": "https://www.eliai.cn/services/workflow-automation.html",
+          "impressions": 1,
+          "clicks": 0,
+          "data_fetched_at": "2026-10-23T02:03:58"
+        }
+      ],
+      "service_query_rows": [],
+      "core_case_article_rows": [],
+      "query_rows": 24,
+      "query_impressions": 27,
+      "data_fetched_at": [
+        "2026-10-20T01:56:19",
+        "2026-10-20T06:31:42",
+        "2026-10-20T12:08:42",
+        "2026-10-22T02:06:00",
+        "2026-10-23T02:03:57",
+        "2026-10-23T02:03:58"
+      ],
+      "attribution": "UNKNOWN",
+      "service_page_note": "First returned workflow page impression Oct22 is provisional; query undisclosed and source identity unknown. Not confirmed natural target-service exposure.",
+      "trend": "Not computed from rolling windows or backfilled data"
+    }
+  },
+  "bing": {
+    "native_report_status": "UNAVAILABLE_THIS_ROUND",
+    "cause": "UNKNOWN; empty DOM before and after one ordinary reload; navigation/evaluate timed out",
+    "search_impressions": "UNKNOWN",
+    "search_clicks": "UNKNOWN",
+    "ai_citations": "UNKNOWN",
+    "index_total": "UNKNOWN",
+    "url_checks": 0,
+    "support_ticket": "Existing Oct22 success; no duplicate or email access"
+  },
+  "baidu": {
+    "pc_selected": "最近7天",
+    "pc_impressions": 0,
+    "pc_clicks": 0,
+    "pc_query_table": "暂无数据",
+    "mobile": "No verifiable values; UNKNOWN",
+    "ai_actual_window": [
+      "2026-10-16",
+      "2026-10-22"
+    ],
+    "ai_citations": 0,
+    "ai_impressions": 0,
+    "ai_clicks": 0,
+    "ai_query_rows": 0,
+    "ai_scope": "Traditional search scenes only; native cards and zero trend verified",
+    "index_total": "UNKNOWN - 数据计算中",
+    "subject": "未关联",
+    "subject_icp_field": "未填写",
+    "original_application_notice": "提交成功！我们将在2-5个工作日内完成审核，请耐心等待。",
+    "approval_outcome": "UNKNOWN",
+    "messages": "Current navigation timed out; no explicit new decision obtained",
+    "identity_materials_or_binding_submissions": 0
+  },
+  "other_platforms": {
+    "sogou": {
+      "status": "LOGIN_REQUIRED",
+      "index_total": "UNKNOWN",
+      "retained_tab": "4",
+      "challenge": "Existing account login/CAPTCHA. No values read or saved; user required",
+      "notification": "First reminder this round; suppress unchanged repeats",
+      "followup": {
+        "checked_at": "2026-10-23T02:23:13.714Z",
+        "user_reported_login_completed": true,
+        "observed_url": "https://zhanzhang.sogou.com/index.php/site/index",
+        "native_login_recovered": false,
+        "observations": [
+          "Native analysis route returned to public landing page with login control",
+          "One ordinary reload remained unauthenticated",
+          "Existing login dialog retained with CAPTCHA prompt; no field values read or saved"
+        ],
+        "index_total": "UNKNOWN",
+        "status": "LOGIN_NOT_EFFECTIVE_IN_CURRENT_IAB_SESSION",
+        "retained_tab": "4",
+        "website_changes": 0,
+        "submissions": 0
+      }
+    },
+    "toutiao": {
+      "site": "www.eliai.cn",
+      "status": "您的网站暂时未被收录"
+    },
+    "yandex": {
+      "report": "Charts/export unavailable and data may be delayed",
+      "all_pages": "disabled",
+      "excluded_pages": "disabled",
+      "change_table": "No changes to page indexing",
+      "index_total": "UNKNOWN"
+    },
+    "so360": {
+      "site": "www.eliai.cn",
+      "icp": "未检测到备案",
+      "verification": "disabled",
+      "index_report": "No available verified-site data",
+      "index_total": "UNKNOWN",
+      "feedback": "Alternative form identified, not filled/submitted; no repeat forum post"
+    }
+  },
+  "attribution": {
+    "confirmed_new_natural_service_exposure": "NONE_CONFIRMED",
+    "confirmed_new_natural_service_clicks": "NONE_CONFIRMED",
+    "new_unbranded_model_citations": "NONE_CONFIRMED",
+    "known_own_QA": "Historical deploy/test visits and directed model reads excluded",
+    "other_small_sample": "UNKNOWN; pv presence/absence cannot identify visitor",
+    "candidate_query": "ai implementation cost Oct18 remains same 1 impression, not a new procurement event; attribution UNKNOWN"
+  },
+  "geo": {
+    "new_active_queries": 0,
+    "last_unbranded_test": "2026-10-19",
+    "next_regular_not_before": "2026-10-26",
+    "perplexity_email": "Not accessed; independent automation"
+  },
+  "actions": {
+    "website_changes": 0,
+    "server_changes": 0,
+    "builds": 0,
+    "deployments": 0,
+    "sitemap_submissions": 0,
+    "url_submissions": 0,
+    "index_requests": 0,
+    "url_inspections": 0,
+    "new_identity_verifications": 0,
+    "emails": 0,
+    "forum_posts": 0,
+    "support_submissions": 0,
+    "force_refresh": 0,
+    "public_searches": 0,
+    "active_model_queries": 0,
+    "new_automations": 0
+  },
+  "requires_user_action": true,
+  "notification": "NOTIFY_LOGIN_ONLY",
+  "decision": "NO_NEW_CONFIRMED_NATURAL_SERVICE_PROGRESS; SOGOU_LOGIN_HANDOFF"
+}

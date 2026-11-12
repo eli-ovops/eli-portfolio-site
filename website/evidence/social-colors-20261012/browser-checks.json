@@ -1,0 +1,331 @@
+[
+  {
+    "icons": [
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "#FF2442"
+        ],
+        "href": "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+        "iconWidth": 24,
+        "name": "小红书",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [],
+        "href": "https://space.bilibili.com/432834855",
+        "iconWidth": 24,
+        "name": "B站",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "#FF004F",
+          "#FFFFFF",
+          "#00F2EA"
+        ],
+        "href": "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+        "iconWidth": 24,
+        "name": "抖音",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "#FFFFFF"
+        ],
+        "href": "https://www.youtube.com/@EliChao-m9o6r",
+        "iconWidth": 24,
+        "name": "YouTube",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "#FFFFFF"
+        ],
+        "href": "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+        "iconWidth": 24,
+        "name": "LinkedIn",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [],
+        "href": "https://x.com/cczij1112",
+        "iconWidth": 24,
+        "name": "X",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [],
+        "href": "https://weibo.com/u/7720929036",
+        "iconWidth": 24,
+        "name": "微博",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "#FF004F",
+          "#FFFFFF",
+          "#00F2EA"
+        ],
+        "href": "https://www.tiktok.com/@elimakesapps",
+        "iconWidth": 24,
+        "name": "TikTok",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "url(#social-instagram-brand)",
+          "#FFFFFF"
+        ],
+        "href": "https://www.instagram.com/eliaifde/",
+        "iconWidth": 24,
+        "name": "Instagram",
+        "opacity": "1"
+      },
+      {
+        "box": {
+          "height": 44,
+          "width": 44
+        },
+        "colors": [
+          "#FFFFFF"
+        ],
+        "href": "https://www.facebook.com/profile.php?id=61594512757125",
+        "iconWidth": 24,
+        "name": "Facebook",
+        "opacity": "1"
+      }
+    ],
+    "scrollWidth": 1265,
+    "url": "http://127.0.0.1:4178/index.html",
+    "width": 1280
+  },
+  {
+    "check": "keyboard focus",
+    "name": "B站",
+    "outline": "rgb(150, 152, 255) solid 2px",
+    "tooltip": "0.788617"
+  },
+  {
+    "check": "mobile390",
+    "height": 844,
+    "icons": [
+      {
+        "height": 52,
+        "left": 20,
+        "name": "小红书",
+        "textOpacity": "1",
+        "top": 721.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 92.75,
+        "name": "B站",
+        "textOpacity": "1",
+        "top": 721.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 165.5,
+        "name": "抖音",
+        "textOpacity": "1",
+        "top": 721.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 238.25,
+        "name": "YouTube",
+        "textOpacity": "1",
+        "top": 721.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 311,
+        "name": "LinkedIn",
+        "textOpacity": "1",
+        "top": 721.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 20,
+        "name": "X",
+        "textOpacity": "1",
+        "top": 779.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 92.75,
+        "name": "微博",
+        "textOpacity": "1",
+        "top": 779.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 165.5,
+        "name": "TikTok",
+        "textOpacity": "1",
+        "top": 779.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 238.25,
+        "name": "Instagram",
+        "textOpacity": "1",
+        "top": 779.921875,
+        "width": 44
+      },
+      {
+        "height": 52,
+        "left": 311,
+        "name": "Facebook",
+        "textOpacity": "1",
+        "top": 779.921875,
+        "width": 44
+      }
+    ],
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "check": "English mobile320",
+    "icons": [
+      {
+        "height": 52,
+        "name": "Xiaohongshu",
+        "opacity": "1",
+        "right": 64,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "Bilibili",
+        "opacity": "1",
+        "right": 119.25,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "Douyin",
+        "opacity": "1",
+        "right": 174.5,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "YouTube",
+        "opacity": "1",
+        "right": 229.75,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "LinkedIn",
+        "opacity": "1",
+        "right": 285,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "X",
+        "opacity": "1",
+        "right": 64,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "Weibo",
+        "opacity": "1",
+        "right": 119.25,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "TikTok",
+        "opacity": "1",
+        "right": 174.5,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "Instagram",
+        "opacity": "1",
+        "right": 229.75,
+        "textOpacity": "1",
+        "width": 44
+      },
+      {
+        "height": 52,
+        "name": "Facebook",
+        "opacity": "1",
+        "right": 285,
+        "textOpacity": "1",
+        "width": 44
+      }
+    ],
+    "scrollWidth": 305,
+    "width": 320
+  },
+  {
+    "check": "reduced motion",
+    "opacity": "1",
+    "transform": "none"
+  },
+  {
+    "check": "desktop hover",
+    "gradient": "url(#social-instagram-brand)",
+    "hover": "Instagram",
+    "opacity": "1",
+    "transform": "matrix(1, 0, 0, 1, 0, -1.82301)"
+  }
+]

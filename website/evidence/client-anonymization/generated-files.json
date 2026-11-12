@@ -1,0 +1,1326 @@
+{
+  "task_root": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization",
+  "cache": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache",
+  "temporary_cache_files": [
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/ObjectiveC-2LO7CQKQ2K199.swiftmodule",
+      "bytes": 2527,
+      "mtime_ns": 1791258423319119470,
+      "inode": 96821747,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/_Builtin_float-3LWTRXF2NUUQU.swiftmodule",
+      "bytes": 887,
+      "mtime_ns": 1791258423273470777,
+      "inode": 96821736,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Observation-2TSSX6J1W2M80.swiftmodule",
+      "bytes": 2187,
+      "mtime_ns": 1791258423334923655,
+      "inode": 96821751,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Foundation-2Z43AO0N9NLCS.swiftmodule",
+      "bytes": 4761,
+      "mtime_ns": 1791258423278603284,
+      "inode": 96821737,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreGraphics-3KMUWHTZVHJCH.swiftmodule",
+      "bytes": 5193,
+      "mtime_ns": 1791258423348396107,
+      "inode": 96821755,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Symbols-1Q8BM7L1HKG3Y.swiftmodule",
+      "bytes": 4976,
+      "mtime_ns": 1791258425013038904,
+      "inode": 96821846,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/ColorSync-32TOZM2L9W5BZ.swiftmodule",
+      "bytes": 4983,
+      "mtime_ns": 1791258425009383719,
+      "inode": 96821845,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/os-2CH0OSMU12LE4.swiftmodule",
+      "bytes": 3893,
+      "mtime_ns": 1791258424989433264,
+      "inode": 96821840,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Synchronization-24PJP7FS29HMQ.swiftmodule",
+      "bytes": 2010,
+      "mtime_ns": 1791258426173352016,
+      "inode": 96821931,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/_DarwinFoundation1-EP5BXQR2PB2R.swiftmodule",
+      "bytes": 1091,
+      "mtime_ns": 1791258423271649706,
+      "inode": 96821735,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/XPC-3TT0Y6MN9KKUZ.swiftmodule",
+      "bytes": 3574,
+      "mtime_ns": 1791258423324092978,
+      "inode": 96821748,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Accelerate-J2BXUWP6XEC0.swiftmodule",
+      "bytes": 6667,
+      "mtime_ns": 1791258426525885253,
+      "inode": 96821947,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/_DarwinFoundation2-251F0692A6LPF.swiftmodule",
+      "bytes": 1442,
+      "mtime_ns": 1791258423293312768,
+      "inode": 96821740,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Vision-2L55F76893AZO.swiftmodule",
+      "bytes": 12939,
+      "mtime_ns": 1791258425686489487,
+      "inode": 96821902,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/SwiftUICore-35FWHSIN7SVIV.swiftmodule",
+      "bytes": 9044,
+      "mtime_ns": 1791258425103307447,
+      "inode": 96821867,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/_DarwinFoundation3-1PIV42JPMDZAJ.swiftmodule",
+      "bytes": 1637,
+      "mtime_ns": 1791258423295704669,
+      "inode": 96821741,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/AVFAudio-2BD70CSFKAOY5.swiftmodule",
+      "bytes": 8378,
+      "mtime_ns": 1791258426164841152,
+      "inode": 96821929,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/System-2WOS0QESGAL9G.swiftmodule",
+      "bytes": 2369,
+      "mtime_ns": 1791258423327775703,
+      "inode": 96821749,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/ImageIO-3062VE9ZRINGN.swiftmodule",
+      "bytes": 6412,
+      "mtime_ns": 1791258425006519112,
+      "inode": 96821844,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/DataDetection-2C02H6LS9LSQD.swiftmodule",
+      "bytes": 5000,
+      "mtime_ns": 1791258425041644636,
+      "inode": 96821852,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/DeveloperToolsSupport-2HS5DWG2DOZAD.swiftmodule",
+      "bytes": 5782,
+      "mtime_ns": 1791258425063590995,
+      "inode": 96821858,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/OSLog-LF66F88E90OP.swiftmodule",
+      "bytes": 5252,
+      "mtime_ns": 1791258425074080843,
+      "inode": 96821862,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/_StringProcessing-25AG38YRGPEB3.swiftmodule",
+      "bytes": 897,
+      "mtime_ns": 1791258421593548582,
+      "inode": 96821623,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Combine-6GZPDYDBZP28.swiftmodule",
+      "bytes": 2410,
+      "mtime_ns": 1791258423287657306,
+      "inode": 96821738,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Accessibility-1I5VXALINCFVS.swiftmodule",
+      "bytes": 5430,
+      "mtime_ns": 1791258421660389801,
+      "inode": 96821630,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/AVFoundation-969JCNOLLWKX.swiftmodule",
+      "bytes": 11018,
+      "mtime_ns": 1791258425693359195,
+      "inode": 96821903,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/IOKit-1GW0EE3NTXFO0.swiftmodule",
+      "bytes": 3445,
+      "mtime_ns": 1791258423332455672,
+      "inode": 96821750,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Spatial-22D0X1PWT1H13.swiftmodule",
+      "bytes": 2556,
+      "mtime_ns": 1791258425113349840,
+      "inode": 96821868,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreImage-EQ6GVRIJ6PWD.swiftmodule",
+      "bytes": 6791,
+      "mtime_ns": 1791258425016383299,
+      "inode": 96821847,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/MediaToolbox-3R97VWP73CEIK.swiftmodule",
+      "bytes": 8398,
+      "mtime_ns": 1791258426510106764,
+      "inode": 96821945,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreAudio-FA2F0RSBK4XQ.swiftmodule",
+      "bytes": 5338,
+      "mtime_ns": 1791258426169659081,
+      "inode": 96821930,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/SwiftOnoneSupport-22SXL8KA5EVWY.swiftmodule",
+      "bytes": 896,
+      "mtime_ns": 1791258421605094247,
+      "inode": 96821628,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Dispatch-11LT09ESHVL65.swiftmodule",
+      "bytes": 3078,
+      "mtime_ns": 1791258423316120365,
+      "inode": 96821746,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/UniformTypeIdentifiers-3OBC4T4VCUKF7.swiftmodule",
+      "bytes": 5198,
+      "mtime_ns": 1791258424917729101,
+      "inode": 96821829,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreML-X3Y4FG51VTLW.swiftmodule",
+      "bytes": 7009,
+      "mtime_ns": 1791258426910431883,
+      "inode": 96821961,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/QuartzCore-3JMKWKADHRYUQ.swiftmodule",
+      "bytes": 6159,
+      "mtime_ns": 1791258424993956318,
+      "inode": 96821841,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Metal-1HHIMBXINP5ZU.swiftmodule",
+      "bytes": 5116,
+      "mtime_ns": 1791258425002576513,
+      "inode": 96821843,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/AudioToolbox-1FA2XNCLIZOQD.swiftmodule",
+      "bytes": 6546,
+      "mtime_ns": 1791258426176294624,
+      "inode": 96821932,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreText-1JUSAC7A48NOK.swiftmodule",
+      "bytes": 6010,
+      "mtime_ns": 1791258424912696134,
+      "inode": 96821828,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/_Concurrency-PXYIQ3WRN940.swiftmodule",
+      "bytes": 884,
+      "mtime_ns": 1791258421602250101,
+      "inode": 96821627,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/simd-2UP0SOZ8TQBOR.swiftmodule",
+      "bytes": 2364,
+      "mtime_ns": 1791258425640114566,
+      "inode": 96821898,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Darwin-ZIPXO1PM4JCS.swiftmodule",
+      "bytes": 1797,
+      "mtime_ns": 1791258423291342740,
+      "inode": 96821739,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/VideoToolbox-28MG99N2HQMU3.swiftmodule",
+      "bytes": 7395,
+      "mtime_ns": 1791258426514350447,
+      "inode": 96821946,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreVideo-3VEKTHYLJ83HU.swiftmodule",
+      "bytes": 5780,
+      "mtime_ns": 1791258424998088083,
+      "inode": 96821842,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Swift-7JL1KBZ3A6V3.swiftmodule",
+      "bytes": 681,
+      "mtime_ns": 1791258421502165876,
+      "inode": 96821618,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/modules.timestamp",
+      "bytes": 0,
+      "mtime_ns": 1791258742517748058,
+      "inode": 96825010,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreFoundation-371HMVRS2UE1.swiftmodule",
+      "bytes": 3282,
+      "mtime_ns": 1791258423312369224,
+      "inode": 96821745,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/Compression-35RKCH47GVAQN.swiftmodule",
+      "bytes": 4949,
+      "mtime_ns": 1791258426893842732,
+      "inode": 96821957,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreTransferable-3STMBQQYPIPJ4.swiftmodule",
+      "bytes": 5427,
+      "mtime_ns": 1791258425021387808,
+      "inode": 96821848,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/AppKit-1ET5HRFVKXRNI.swiftmodule",
+      "bytes": 11119,
+      "mtime_ns": 1791258421655785168,
+      "inode": 96821629,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreData-3GGY508JJII7D.swiftmodule",
+      "bytes": 5489,
+      "mtime_ns": 1791258424952441919,
+      "inode": 96821833,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreMIDI-82DO8JH8WRNE.swiftmodule",
+      "bytes": 4941,
+      "mtime_ns": 1791258426179404647,
+      "inode": 96821933,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/CoreMedia-QEDCSMGJ5927.swiftmodule",
+      "bytes": 6961,
+      "mtime_ns": 1791258426184117452,
+      "inode": 96821934,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/AVFAudio-MFFJ6HCE9A7Z.pcm",
+      "bytes": 1317336,
+      "mtime_ns": 1791258426156669661,
+      "inode": 96821906,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Vision-15ADOFJRMBWUU.pcm",
+      "bytes": 787600,
+      "mtime_ns": 1791258427007884179,
+      "inode": 96821970,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Symbols-3KC1789KJFX94.pcm",
+      "bytes": 135448,
+      "mtime_ns": 1791258424432577519,
+      "inode": 96821820,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_DarwinFoundation1-2YSBQADOLX02V.pcm",
+      "bytes": 469200,
+      "mtime_ns": 1791258421777140529,
+      "inode": 96821648,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/AppKit-2VI8NB39I5AT6.pcm",
+      "bytes": 10920704,
+      "mtime_ns": 1791258424892571805,
+      "inode": 96821758,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreData-1KHK1L2CYC2N6.pcm",
+      "bytes": 816384,
+      "mtime_ns": 1791258423755255790,
+      "inode": 96821788,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreText-3FAL1B4J38DIR.pcm",
+      "bytes": 999400,
+      "mtime_ns": 1791258423454491644,
+      "inode": 96821766,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreAudio-J9DSWC1670R6.pcm",
+      "bytes": 354472,
+      "mtime_ns": 1791258425822391313,
+      "inode": 96821915,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/UniformTypeIdentifiers-1OLJP4K3PLM48.pcm",
+      "bytes": 224080,
+      "mtime_ns": 1791258424947064454,
+      "inode": 96821832,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/sys_types-3J4ZFA06I5V1P.pcm",
+      "bytes": 46608,
+      "mtime_ns": 1791258423305315688,
+      "inode": 96821744,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/MachO-20RPYVQSX341K.pcm",
+      "bytes": 471792,
+      "mtime_ns": 1791258422259081026,
+      "inode": 96821698,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/libDER-26DYHF6GC6WWA.pcm",
+      "bytes": 59392,
+      "mtime_ns": 1791258422770079360,
+      "inode": 96821724,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_AvailabilityInternal-2YSBQADOLX02V.pcm",
+      "bytes": 435496,
+      "mtime_ns": 1791258421747652870,
+      "inode": 96821651,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/QuartzCore-39A8LQKF980J1.pcm",
+      "bytes": 707400,
+      "mtime_ns": 1791258424593883813,
+      "inode": 96821823,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/os-2MV8OP7R98AN8.pcm",
+      "bytes": 168344,
+      "mtime_ns": 1791258424985064417,
+      "inode": 96821836,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/ptrcheck-2OQWMRBVRD4OJ.pcm",
+      "bytes": 46168,
+      "mtime_ns": 1791258421757428131,
+      "inode": 96821654,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_stdatomic-2OQWMRBVRD4OJ.pcm",
+      "bytes": 75640,
+      "mtime_ns": 1791258424970439178,
+      "inode": 96821839,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/ptrauth-2OQWMRBVRD4OJ.pcm",
+      "bytes": 53024,
+      "mtime_ns": 1791258422177229683,
+      "inode": 96821686,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/AVFoundation-7VNZZNFQDWLP.pcm",
+      "bytes": 6407192,
+      "mtime_ns": 1791258426498424000,
+      "inode": 96821937,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CFNetwork-1PNPO1ORVQZLS.pcm",
+      "bytes": 327416,
+      "mtime_ns": 1791258422939238924,
+      "inode": 96821734,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/launch-3T3BU4MASLMUM.pcm",
+      "bytes": 100272,
+      "mtime_ns": 1791258422740465443,
+      "inode": 96821721,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_inttypes-2OQWMRBVRD4OJ.pcm",
+      "bytes": 47600,
+      "mtime_ns": 1791258421898311142,
+      "inode": 96821678,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Darwin-1FXX23EKWOBA9.pcm",
+      "bytes": 6025448,
+      "mtime_ns": 1791258422164872565,
+      "inode": 96821681,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/OpenGL-H89XJT7GTCP.pcm",
+      "bytes": 2772968,
+      "mtime_ns": 1791258423971922751,
+      "inode": 96821801,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/SwiftUICore-86HIVXUC6WOA.pcm",
+      "bytes": 58728,
+      "mtime_ns": 1791258425657866623,
+      "inode": 96821901,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreVideo-DBBGB2LXU3HG.pcm",
+      "bytes": 446480,
+      "mtime_ns": 1791258424216786660,
+      "inode": 96821798,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_limits-2OQWMRBVRD4OJ.pcm",
+      "bytes": 47616,
+      "mtime_ns": 1791258421844255537,
+      "inode": 96821668,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_DarwinFoundation2-3J4ZFA06I5V1P.pcm",
+      "bytes": 489032,
+      "mtime_ns": 1791258421834726899,
+      "inode": 96821661,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreImage-39ZO87840M5PP.pcm",
+      "bytes": 1278760,
+      "mtime_ns": 1791258424292982044,
+      "inode": 96821795,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreTransferable-27T896KGHFB3R.pcm",
+      "bytes": 54856,
+      "mtime_ns": 1791258425036980041,
+      "inode": 96821851,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/ColorSync-3EIM4S8RXNRVI.pcm",
+      "bytes": 163224,
+      "mtime_ns": 1791258423480822509,
+      "inode": 96821773,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Accessibility-RCJSN2GG3RAR.pcm",
+      "bytes": 261008,
+      "mtime_ns": 1791258423262198311,
+      "inode": 96821633,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Foundation-24LYWIP48SHNP.pcm",
+      "bytes": 6570384,
+      "mtime_ns": 1791258423231343518,
+      "inode": 96821710,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/DiskArbitration-3LBJF5I58QD8.pcm",
+      "bytes": 142200,
+      "mtime_ns": 1791258422884452850,
+      "inode": 96821730,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreML-59H0IRBTCTIW.pcm",
+      "bytes": 464448,
+      "mtime_ns": 1791258426955718656,
+      "inode": 96821964,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/DataDetection-R5W4QHNMPWVH.pcm",
+      "bytes": 81328,
+      "mtime_ns": 1791258425059351647,
+      "inode": 96821855,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/string_h-47SZ9A199RUD.pcm",
+      "bytes": 46872,
+      "mtime_ns": 1791258423343943887,
+      "inode": 96821754,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/XPC-T0ZXCAST7PE3.pcm",
+      "bytes": 413864,
+      "mtime_ns": 1791258422750712496,
+      "inode": 96821718,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_stdint-2OQWMRBVRD4OJ.pcm",
+      "bytes": 46848,
+      "mtime_ns": 1791258421859460759,
+      "inode": 96821674,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreMedia-SHYM2JB41P4U.pcm",
+      "bytes": 1457240,
+      "mtime_ns": 1791258425843218392,
+      "inode": 96821912,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_stdbool-2OQWMRBVRD4OJ.pcm",
+      "bytes": 40840,
+      "mtime_ns": 1791258421714270864,
+      "inode": 96821639,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/MediaToolbox-1P5YMSVDQUIJ6.pcm",
+      "bytes": 89960,
+      "mtime_ns": 1791258426316121334,
+      "inode": 96821944,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreMIDI-1WOF0UOPGOCPX.pcm",
+      "bytes": 623152,
+      "mtime_ns": 1791258425912672838,
+      "inode": 96821921,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/os_object-2MV8OP7R98AN8.pcm",
+      "bytes": 63624,
+      "mtime_ns": 1791258422275217455,
+      "inode": 96821692,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Carbon-3FMY3B0T5SZYU.pcm",
+      "bytes": 2464672,
+      "mtime_ns": 1791258426066942800,
+      "inode": 96821924,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/SwiftShims-2IMTS4WWRU7VJ.pcm",
+      "bytes": 179104,
+      "mtime_ns": 1791258421585621556,
+      "inode": 96821622,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/IOSurface-26455DPS9NDS0.pcm",
+      "bytes": 223760,
+      "mtime_ns": 1791258423860123544,
+      "inode": 96821804,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/ImageIO-2ZSF831VT29UB.pcm",
+      "bytes": 931400,
+      "mtime_ns": 1791258423537913167,
+      "inode": 96821779,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreServices-39NCTJOEW7PQ2.pcm",
+      "bytes": 4513752,
+      "mtime_ns": 1791258423049048363,
+      "inode": 96821727,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_float-2OQWMRBVRD4OJ.pcm",
+      "bytes": 48264,
+      "mtime_ns": 1791258421729121131,
+      "inode": 96821645,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_stdarg-2OQWMRBVRD4OJ.pcm",
+      "bytes": 44008,
+      "mtime_ns": 1791258421795061856,
+      "inode": 96821664,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/simd-KY25Q80SBOHY.pcm",
+      "bytes": 3959496,
+      "mtime_ns": 1791258425516170499,
+      "inode": 96821875,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_stddef-2OQWMRBVRD4OJ.pcm",
+      "bytes": 45848,
+      "mtime_ns": 1791258421722724386,
+      "inode": 96821642,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Security-3QCVXOV25KK54.pcm",
+      "bytes": 3124736,
+      "mtime_ns": 1791258422823926149,
+      "inode": 96821715,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/ApplicationServices-3NXEUUZF9JJBD.pcm",
+      "bytes": 1241152,
+      "mtime_ns": 1791258423617152551,
+      "inode": 96821763,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/OSLog-218FBXNFJGY61.pcm",
+      "bytes": 151328,
+      "mtime_ns": 1791258425095863661,
+      "inode": 96821865,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/VideoToolbox-399HUKQS9UOSB.pcm",
+      "bytes": 880840,
+      "mtime_ns": 1791258426282114869,
+      "inode": 96821940,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_tgmath-2OQWMRBVRD4OJ.pcm",
+      "bytes": 47480,
+      "mtime_ns": 1791258425295318866,
+      "inode": 96821886,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/libkern-2KQ0X67RTM1JF.pcm",
+      "bytes": 77336,
+      "mtime_ns": 1791258422399864331,
+      "inode": 96821707,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/AudioToolbox-3FX4B654ICQE2.pcm",
+      "bytes": 1780208,
+      "mtime_ns": 1791258426100957631,
+      "inode": 96821918,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Compression-RPKE1V5WW4W9.pcm",
+      "bytes": 66216,
+      "mtime_ns": 1791258426904870458,
+      "inode": 96821960,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_SwiftConcurrencyShims-2IMTS4WWRU7VJ.pcm",
+      "bytes": 41184,
+      "mtime_ns": 1791258421598543337,
+      "inode": 96821626,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/IOKit-1IAL9NTK1TABA.pcm",
+      "bytes": 3726192,
+      "mtime_ns": 1791258422533201771,
+      "inode": 96821704,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Metal-1GCZV9N85NJOH.pcm",
+      "bytes": 2736488,
+      "mtime_ns": 1791258424197574367,
+      "inode": 96821807,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/ObjectiveC-1G8H182PQX3QE.pcm",
+      "bytes": 335696,
+      "mtime_ns": 1791258422268180254,
+      "inode": 96821695,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/os_workgroup-2MV8OP7R98AN8.pcm",
+      "bytes": 95712,
+      "mtime_ns": 1791258422291255259,
+      "inode": 96821701,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CUPS-1HLHMKUB322XA.pcm",
+      "bytes": 759664,
+      "mtime_ns": 1791258423577281319,
+      "inode": 96821782,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Accelerate-3L7RU227MNPS5.pcm",
+      "bytes": 12472320,
+      "mtime_ns": 1791258426880372770,
+      "inode": 96821950,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_Builtin_intrinsics-2OQWMRBVRD4OJ.pcm",
+      "bytes": 3275304,
+      "mtime_ns": 1791258425253964955,
+      "inode": 96821878,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Dispatch-R76HXUP80TVL.pcm",
+      "bytes": 298040,
+      "mtime_ns": 1791258422312031405,
+      "inode": 96821689,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreGraphics-1PSDCAYCIV3T9.pcm",
+      "bytes": 1275872,
+      "mtime_ns": 1791258422566624287,
+      "inode": 96821636,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/_DarwinFoundation3-2NSGASPTSNBVQ.pcm",
+      "bytes": 631824,
+      "mtime_ns": 1791258421888498672,
+      "inode": 96821671,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/Spatial-1JZLH83HN83CS.pcm",
+      "bytes": 2014512,
+      "mtime_ns": 1791258425631559785,
+      "inode": 96821871,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/DeveloperToolsSupport-3SUCMSK9ZS2JA.pcm",
+      "bytes": 38904,
+      "mtime_ns": 1791258425070296535,
+      "inode": 96821861,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreAudioTypes-11649WXSRCA0E.pcm",
+      "bytes": 252016,
+      "mtime_ns": 1791258425724596501,
+      "inode": 96821909,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/swift-cache/1MTWNDVONU6Q/CoreFoundation-16SA8WK3L6MQN.pcm",
+      "bytes": 1399152,
+      "mtime_ns": 1791258422350132930,
+      "inode": 96821658,
+      "uid": 501,
+      "source": "Current task swiftc -module-cache-path; Apple SDK compiler intermediate",
+      "purpose": "Completed compilation only; regenerable; no preview/runtime dependency",
+      "action": "remove after verified exact-path inventory"
+    }
+  ],
+  "retained": {
+    "paths": [
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/watermark-detail.png",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/redact-client-screenshots",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/pixel-chunks-before-metadata-strip.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/original-hashes.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/ocr-source-p10.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/ocr-source-p10-contrast.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/ocr-public-images.txt",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/checks.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/README.md",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/masks.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/ocr-personal-images.txt",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/ocr-source-p02.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/ocr-source-p03.json",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img18.jpg",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img07.webp",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img19.png",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img01.webp",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img02.webp",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img17.jpg",
+      "/Users/USER/Documents/原点向量/个人网站/website/evidence/client-anonymization/private-export-before/img05.webp"
+    ],
+    "purpose": "Original exported-image backups, mask specifications, source/OCR/hash receipts, helper executable and visual evidence"
+  },
+  "df_before": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 172160452  12312160    94% 1967270 123121600    2%   /System/Volumes/Data\n",
+  "df_after": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 172067500  12405112    94% 1967140 124051120    2%   /System/Volumes/Data\n",
+  "available_kib_change": 92952,
+  "cleanup_complete": true,
+  "space_attribution": "Measured df change on the same filesystem; concurrent activity may affect attribution"
+}

@@ -1,0 +1,14 @@
+{
+  "user_authorized": "另外5个目录入口按对应中英文栏目永久跳转并上线；保留目录保护、视觉动效；检查跳转详情服务；不重复提交",
+  "before_sha256": "5eb89e90bbe3def108a216fcb86f3ce778ed9f9667b53a033975aa3cb6a91352",
+  "candidate_sha256": "5a40bb27cb240fd1196306caa9e723d890a40441b531529f722a2e8990bc361d",
+  "added_exact_routes": [
+    "    location = /articles/ { return 301 /articles.html; }",
+    "    location = /en/articles/ { return 301 /en/articles.html; }",
+    "    location = /en/cases/ { return 301 /en/records.html; }",
+    "    location = /services/ { return 301 \"/index.html#needs\"; }",
+    "    location = /en/services/ { return 301 \"/en/index.html#needs\"; }"
+  ],
+  "content_changes": 0,
+  "submissions": 0
+}

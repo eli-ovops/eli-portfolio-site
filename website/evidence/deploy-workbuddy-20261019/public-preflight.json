@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-10-19T06:32:24.577988+00:00",
+  "url": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+  "method": "one ordinary HTTPS GET; certificate verification enabled",
+  "status": "UNKNOWN",
+  "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+}

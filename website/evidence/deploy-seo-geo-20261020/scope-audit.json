@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "comparison": "Exact old published archive hashes matched current preflight, versus authorized candidate archive",
+  "html_pages": 296,
+  "semantic_html_changed": 294,
+  "only_structured_data_delta": "Person.description aligned with approved bilingual About bio",
+  "visible_html_changed": [
+    "articles/ai-ocr-check.html",
+    "articles/workbuddy-spreadsheet.html",
+    "cases/p02.html",
+    "cases/p05.html",
+    "en/articles/ai-consultation-prepare.html",
+    "en/articles/ai-ocr-check.html",
+    "en/articles/what-is-fde-business.html",
+    "en/articles/workbuddy-spreadsheet.html",
+    "en/cases/p02.html",
+    "en/cases/p05.html"
+  ],
+  "other_visible_bodies_unchanged": 286,
+  "non_html_public_files_unchanged_except_sitemap": 68,
+  "all_verification_files_preserved": 6,
+  "new_assets": 0
+}

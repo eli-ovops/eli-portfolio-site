@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-20T11:58:47.511196+00:00",
+  "checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "6284d5a2ad517be36f229a5df5c1030a2b2fc688cff229086842b47b6d9952bd"
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "sha256": "8e3a405217c3f5263a68cb70e0bc3db6efb9cc92bc8b5a460e6d11c3f991831a"
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256": "8577d7c7c8a38d4ab05332bdefe6b20bb1e6b47709af73214ff3fd4216485564"
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256": "83f61da5a7e75da832428b9bd4660290aaa07e7ced246cbb2bc65f3a17b4850e"
+    },
+    {
+      "path": "assets/industry-scenarios.css",
+      "status": 200,
+      "sha256": "6a618e5e1f3ee3efddd4e40ae6f7b84bf9cca4ad52c1791e0afcbb3f3d11e9c0"
+    },
+    {
+      "path": "assets/industry-scenarios.js",
+      "status": 200,
+      "sha256": "698c845d4f5e727ea3d74427a81f2c86d4d5610729f96770ca2472241e0a8579"
+    },
+    {
+      "path": "motion.js",
+      "status": 200,
+      "sha256": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e"
+    },
+    {
+      "path": "assets/depth-gallery.js",
+      "status": 200,
+      "sha256": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "sha256": "085d2449e5efc7dffcf543ccd38caad0b003a2da2a293c1036f76e18e5adc7ef"
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32"
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01"
+    }
+  ]
+}

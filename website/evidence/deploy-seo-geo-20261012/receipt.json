@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-12",
+  "status": "PUBLISHED_ACCEPTED_INDEXING_DISABLED",
+  "release": "20261012-143006-seo-geo",
+  "previous": "20261010-223517-portfolio-local-fixes",
+  "url": "http://[REDACTED_HOST]/sites/portfolio/",
+  "switched_at": "2026-10-12T06:32:37.075870+00:00",
+  "accepted_at": "2026-10-12T06:39:07.848579+00:00",
+  "package_sha256": "46239f282c235d9bc994d4946af21a9bab0905add9aea7f5853314229eaa094f",
+  "files": 143,
+  "public_text_files_verified": 101,
+  "html_pages_noindex": 84,
+  "live_sitemap": false,
+  "nginx": "UNCHANGED; no reload",
+  "erp": "PC/mobile entry pages 200; services active; no business operations",
+  "visual_motion_source_hashes": "UNCHANGED",
+  "browser": "Public desktop, 390px English, FAQ/case/back and expanded-gallery wheel/back; standalone browsers not retested",
+  "evidence": [
+    "preflight-receipt.json",
+    "prepare-receipt.json",
+    "switch-receipt.json",
+    "postcheck-receipt.json",
+    "public-checks.json",
+    "browser-checks.json"
+  ],
+  "retention": "Previous release/private backup/upload package retained; no cleanup"
+}

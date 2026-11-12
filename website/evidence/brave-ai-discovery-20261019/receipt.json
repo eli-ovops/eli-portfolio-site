@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-19T05:34:55.606Z",
+  "website": "https://www.eliai.cn/",
+  "website_changes": 0,
+  "index_submissions": 0,
+  "model_prompts_sent": 6,
+  "brave": {
+    "queries": [
+      "site:eliai.cn",
+      "eliai.cn",
+      "中小企业 AI 实施 库存核对 知识库 服务商"
+    ],
+    "observed_site_result": false,
+    "scope": "Each returned first results page; site operator reported too few matches and not applied. Not an exhaustive indexing report."
+  },
+  "gemini": {
+    "status": "BLOCKED_REGION",
+    "message": "Gemini 目前不支持你所在的地区。敬请期待！",
+    "natural_discovery": "UNKNOWN",
+    "direct_read_and_citation": "UNKNOWN"
+  },
+  "tongyi": {
+    "status": "CHECKED_AFTER_USER_LOGIN",
+    "natural_query_count": 1,
+    "natural_source_count": 17,
+    "natural_site_mention": false,
+    "natural_site_source": false,
+    "direct_url": "https://www.eliai.cn/services/fde-consulting.html",
+    "direct_read": "Page-specific facts reproduced and match public page reference; no server-log confirmation",
+    "citation": "FAIL: answer source text malformed as https:fde-consulting.html; only DOM eliai.cn hyperlink belongs to user prompt",
+    "accuracy_issue": "Answer claims trial stage not separately charged; page does not make that promise",
+    "limitations": "One personalized logged-in session; not a citation rate or exhaustive discoverability audit."
+  },
+  "nami": {
+    "status": "CHECKED",
+    "natural_query_count": 1,
+    "natural_source_count": 10,
+    "natural_site_source": false,
+    "natural_answer": "Only tool-search narration; no completed shortlist",
+    "direct_url": "https://www.eliai.cn/services/fde-consulting.html",
+    "direct_read": "FAILED: native answer explicitly says reading failed",
+    "citation": "No verified source-based citation; answer echoes prompted URL",
+    "root_cause": "UNKNOWN"
+  },
+  "completed_at": "2026-10-19T05:42:37.155Z",
+  "model_prompt_scope": {
+    "nami": 2,
+    "tongyi_guest_rejected": 2,
+    "tongyi_after_login": 2
+  }
+}

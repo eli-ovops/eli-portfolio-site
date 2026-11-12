@@ -1,0 +1,17 @@
+{
+  "creationTime": "2025-10-17T10:17:00.000000",
+  "prefixes": [
+    {
+      "ipv4Prefix": "[REDACTED_HOST]/32"
+    },
+    {
+      "ipv4Prefix": "[REDACTED_HOST]/32"
+    },
+    {
+      "ipv4Prefix": "[REDACTED_HOST]/30"
+    },
+    {
+      "ipv4Prefix": "[REDACTED_HOST]/29"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "checked_date": "2026-10-20",
+  "timezone": "Asia/Shanghai",
+  "status": "READ_ONLY_CHECK_COMPLETE",
+  "website_revision": "db2a07f4b91429cb3f5c",
+  "scope": {
+    "article_topics": 102,
+    "zh_details": 102,
+    "en_details": 102,
+    "service_pages": 3,
+    "sitemap_urls": 294
+  },
+  "natural_target_service_exposure": "NOT_CONFIRMED",
+  "natural_target_service_clicks": "NOT_CONFIRMED",
+  "natural_model_citations": "NOT_CONFIRMED",
+  "google": {
+    "finalized_latest_date": "2026-10-17",
+    "finalized_all_site_daily": [
+      [
+        "2026-10-14",
+        0,
+        0
+      ],
+      [
+        "2026-10-15",
+        2,
+        0
+      ],
+      [
+        "2026-10-16",
+        4,
+        0
+      ],
+      [
+        "2026-10-17",
+        6,
+        0
+      ]
+    ],
+    "daily_columns": [
+      "date",
+      "impressions",
+      "clicks"
+    ],
+    "native_service_filter": {
+      "impressions": 0,
+      "clicks": 0,
+      "actual_chart_dates": [
+        "2026-10-14",
+        "2026-10-17"
+      ],
+      "updated_display": "6.5 hours ago",
+      "no_position_for_zero": true
+    },
+    "fresh_article_pages": {
+      "dates": [
+        "2026-10-17",
+        "2026-10-19"
+      ],
+      "distinct_normalized_paths": 14,
+      "impressions": 21,
+      "clicks": 0,
+      "finalized": false,
+      "attribution": "UNKNOWN",
+      "fetched_at_utc": "2026-10-20T01:56:19"
+    },
+    "candidate_service_query": {
+      "query": "ai implementation cost",
+      "date": "2026-10-18",
+      "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 91,
+      "finalized": false,
+      "classification": "English AI implementation price information; service-adjacent, not proven procurement demand",
+      "attribution": "UNKNOWN; no matching own-test phrase in the narrowly checked prior evidence, but no per-impression visitor identification",
+      "counted_as_confirmed_natural": false
+    },
+    "index_overview": "Processing data; total UNKNOWN",
+    "url_samples": [
+      {
+        "url": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+        "indexed": true,
+        "first_confirmed_here": "2026-10-20",
+        "last_crawl_display": "2026-10-17 19:09:37",
+        "display_timezone": "UNKNOWN",
+        "fetch": "success",
+        "crawl_allowed": true,
+        "index_allowed": true,
+        "canonical": "self",
+        "is_new_index_date": "UNKNOWN; first confirmation is not first index date"
+      }
+    ]
+  },
+  "bing": {
+    "search": {
+      "dates": [
+        "2026-10-13",
+        "2026-10-19"
+      ],
+      "scope": "all site",
+      "impressions": 0,
+      "clicks": 0,
+      "query_rows": 0
+    },
+    "ai": {
+      "sources": "Microsoft Copilots and Partners",
+      "three_month_initial_observation": {
+        "dates": [
+          "2026-07-20",
+          "2026-10-19"
+        ],
+        "citations": 0,
+        "avg_cited_pages": 0
+      },
+      "seven_day": {
+        "query_rows": 0,
+        "aggregate_citations": "UNKNOWN; totals/chart absent after selecting7D, saved raw state"
+      },
+      "sampled_activity": true
+    },
+    "url_samples_checked": 0,
+    "last_service_index_check": "2026-10-19; not repeated today"
+  },
+  "baidu": {
+    "pc": {
+      "window": "native 最近7天; exact endpoints not read",
+      "impressions": 0,
+      "clicks": 0,
+      "queries": "no data"
+    },
+    "ai": {
+      "dates": [
+        "2026-10-13",
+        "2026-10-19"
+      ],
+      "citations": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "rows": 0,
+      "scope": "traditional search scenes only"
+    },
+    "index": "Data being calculated",
+    "mobile": "Not rechecked; previous UNKNOWN not promoted to current zero"
+  },
+  "own_tests": {
+    "new_active_model_queries": 0,
+    "last_unbranded_tests": "2026-10-19 ChatGPT and Doubao; not our site",
+    "previous_directed_reads": "Tests, not natural discoveries",
+    "search_tests_today": 0,
+    "own_public_reads": [
+      "sitemap.xml",
+      "index.html"
+    ],
+    "query_log_search": "No exact match for ai implementation cost in the three specified Oct19 evidence directories; not comprehensive attribution proof"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deploys": 0,
+    "search_submissions": 0,
+    "index_requests": 0,
+    "emails": 0,
+    "paid_resources": 0,
+    "credentials_or_api_tokens_read": 0
+  },
+  "decision": "DONT_NOTIFY",
+  "decision_reason": "Only a newly confirmed index sample and non-final, unattributed small exposure changes. No confirmed natural target-service clicks/exposure or natural model citations, no required user action.",
+  "dedupe": {
+    "completed_round": "2026-10-20",
+    "google_url_sample_count": 1,
+    "bing_url_sample_count": 0,
+    "baidu_url_sample_count": 0,
+    "model_queries": 0,
+    "new_index_sample_not_to_repeat_as_future_event": "en/articles/ai-cost-breakdown.html",
+    "candidate_query_not_to_repeat_as_new": "2026-10-18|ai implementation cost|en/articles/ai-cost-breakdown.html"
+  }
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "slug": "owner-ai-first-step",
+    "title": [
+      "老板想用 AI 提效，第一步不是买系统",
+      "An owner's first AI step is not buying a system"
+    ],
+    "answer": [
+      "先找一件反复做、能描述、能检查的小事。记录谁在做、花在哪里、容易错什么。只有弄清问题，才知道用现成工具、改流程还是写软件。",
+      "Find one repeated, describable and checkable task. Record who does it, where effort goes and common errors. Understand the problem before choosing tools, process changes or software."
+    ],
+    "steps": [
+      [
+        "请员工演示一次真实流程，不先推荐产品。",
+        "Observe a worker's actual process before recommending products."
+      ],
+      [
+        "把重复动作与必要判断分开。",
+        "Separate repetition from necessary judgment."
+      ],
+      [
+        "选一个低风险环节试点。",
+        "Choose a low-risk step for a pilot."
+      ]
+    ],
+    "exercise": [
+      "帮我梳理一项重复工作，先问现在怎么做、哪里耗时、怎么检查结果，不先推销工具或系统。",
+      "Help map a repeated task by asking about the current process, time-consuming steps and checks before recommending tools."
+    ],
+    "problem": [
+      "员工说不清时看一次实际操作，不让 AI 代填虚构流程。",
+      "If the process is unclear, observe it rather than asking AI to invent one."
+    ],
+    "check": [
+      "能用一句具体话说明试点要改善哪个动作。",
+      "You can state the specific action the pilot aims to improve."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "ai-task-selection",
+    "title": [
+      "哪些工作适合先用 AI，哪些先别碰？",
+      "Which business tasks should AI try first?"
+    ],
+    "answer": [
+      "优先考虑重复、输入稳定、容易核对且错误可恢复的工作。高风险审批、付款和不清楚责任的流程不适合直接全自动。判断适合不靠“别人都在用”，而靠你自己的流程。",
+      "Prioritize repeatable tasks with stable inputs, checkable outputs and recoverable mistakes. Avoid immediate full automation of high-risk approvals, payments or unclear responsibilities. Evaluate your process rather than others' adoption."
+    ],
+    "steps": [
+      [
+        "列出五件重复工作。",
+        "List five repeated tasks."
+      ],
+      [
+        "按频率、错误后果、检查难度比较。",
+        "Compare frequency, consequences and review difficulty."
+      ],
+      [
+        "选一件小范围只读试点。",
+        "Select one limited read-only pilot."
+      ]
+    ],
+    "exercise": [
+      "把这些任务分为可先辅助、需人工审批、暂不适合，说明依据和未知项，不给虚构收益分数。",
+      "Classify tasks as assist first, require approval or not ready, with reasons and unknowns rather than invented benefit scores."
+    ],
+    "problem": [
+      "任务量很低却要复杂维护时，先比较手工标准化是否更划算。",
+      "For rare tasks, compare simple standardization before adding maintenance-heavy automation."
+    ],
+    "check": [
+      "试点选择能解释收益来源和出错处理。",
+      "The choice explains potential value and how errors are handled."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "ai-pilot-design",
+    "title": [
+      "AI 小试点怎么做，避免一上来花大钱？",
+      "How do you design a small AI pilot?"
+    ],
+    "answer": [
+      "只试一个场景、少量获准样本和明确周期。事先写下通过标准及不通过怎么办。试点的目的是发现适用边界，不是找几个漂亮结果证明一定成功。",
+      "Test one scenario with a small approved sample set and a defined period. Write passing criteria and a fallback beforehand. A pilot should reveal limits, not cherry-pick impressive outputs."
+    ],
+    "steps": [
+      [
+        "约定试点输入和不做范围。",
+        "Define inputs and exclusions."
+      ],
+      [
+        "保留正常、边界和失败样本。",
+        "Include normal, edge and failed cases."
+      ],
+      [
+        "按预先标准评估后决定继续或停止。",
+        "Use preset criteria to continue or stop."
+      ]
+    ],
+    "exercise": [
+      "设计一周的练习试点，只做资料查找，不自动对客回复；列样本、检查人、通过条件和停止条件。",
+      "Design a one-week practice pilot for information lookup without automatic customer replies. Define samples, reviewer, passing and stopping rules."
+    ],
+    "problem": [
+      "只有容易样本通过时，不扩大到全部业务；补困难样本再判断。",
+      "Do not expand from easy successes alone; test difficult cases first."
+    ],
+    "check": [
+      "试点结束能清楚作继续、调整或停止决定。",
+      "The pilot supports a clear continue, adjust or stop decision."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "ai-cost-breakdown",
+    "title": [
+      "AI 提效要花哪些钱？别只看会员费",
+      "What costs belong in an AI implementation budget?"
+    ],
+    "answer": [
+      "费用可能包括工具、调用、配置开发、培训、审核和维护。便宜套餐不代表总成本最低。把一次性与持续费用分开，按实际用量及人工修正时间核算。",
+      "Costs can include subscriptions, usage, configuration, development, training, review and maintenance. A cheap plan may not have the lowest total cost. Separate one-time and ongoing expenses and measure actual correction effort."
+    ],
+    "steps": [
+      [
+        "列当前人工流程耗时，作为基线。",
+        "Measure current manual effort as a baseline."
+      ],
+      [
+        "列全部工具及服务费用，未知留空。",
+        "List tool and service costs, leaving unknowns blank."
+      ],
+      [
+        "把复核和维护时间计入试点。",
+        "Include review and maintenance time in the pilot."
+      ]
+    ],
+    "exercise": [
+      "做费用清单模板，区分一次性、按月、按用量和人工时间。不估造单价，不把免费咨询等同于免费实施。",
+      "Create a cost template separating one-time, monthly, usage and labor costs. Invent no rates and distinguish free consultation from implementation."
+    ],
+    "problem": [
+      "看到低起价先问范围、工具费和后续支持，不自行理解成全包。",
+      "For a low starting price, ask about scope, tools and support instead of assuming all-inclusive service."
+    ],
+    "check": [
+      "能算全成本并列出尚缺的报价或用量数据。",
+      "You can estimate total cost while identifying missing quotes and usage data."
+    ],
+    "source": [
+      "wb-faq"
+    ]
+  },
+  {
+    "slug": "measure-ai-benefit",
+    "title": [
+      "AI 到底有没有提效？老板怎么量？",
+      "How should an owner measure AI's benefit?"
+    ],
+    "answer": [
+      "看完成同类任务的总时间、错误、返工和人工复核，不只看模型生成速度。先测原流程，再测试点。教学数字可以帮助理解公式，但不能冒充客户收益。",
+      "Measure total task time, errors, rework and review, not generation speed alone. Establish a baseline before the pilot. Illustrative numbers may explain a calculation but are not customer results."
+    ],
+    "steps": [
+      [
+        "选可比较的任务样本并记录复杂度。",
+        "Choose comparable samples and record complexity."
+      ],
+      [
+        "分别计时准备、处理、复核和返工。",
+        "Time preparation, execution, review and rework separately."
+      ],
+      [
+        "保留失败样本，比较整体结果。",
+        "Keep failures and compare complete outcomes."
+      ]
+    ],
+    "exercise": [
+      "给我一份测量表：样本、人工基线、AI处理、复核、返工、结果。数据留空，由实际测试填写。",
+      "Create a measurement table for sample, manual baseline, AI time, review, rework and outcome. Leave measurements blank."
+    ],
+    "problem": [
+      "样本难度不同不能直接比较平均时间，先分组或补同类样本。",
+      "Do not compare average times across different difficulty levels without grouping or comparable samples."
+    ],
+    "check": [
+      "收益结论能回到实测记录，并包含失败和额外人工。",
+      "Benefit claims trace to measured records including failures and additional labor."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "choose-ai-provider",
+    "title": [
+      "怎么挑企业 AI 提效服务商，不被术语绕晕？",
+      "How do you evaluate an AI implementation provider?"
+    ],
+    "answer": [
+      "让对方围绕你的一个流程说明输入、交付、边界和验收。问清本人职责、项目状态和可公开证据。模型名词多不代表适合你的业务，真实交付范围比技术堆栈更重要。",
+      "Ask a provider to explain inputs, deliverables, limits and acceptance for one of your workflows. Clarify role, project status and public evidence. Technical vocabulary is not a substitute for relevant delivery scope."
+    ],
+    "steps": [
+      [
+        "提供一份脱敏流程说明给候选方。",
+        "Give candidates a sanitized workflow brief."
+      ],
+      [
+        "要求同一口径的范围和报价。",
+        "Request comparable scopes and quotes."
+      ],
+      [
+        "核对案例证据与交付责任。",
+        "Check case evidence and delivery responsibility."
+      ]
+    ],
+    "exercise": [
+      "把供应商方案整理成问题、交付物、费用、验收、维护、未知项，不按自称领先给分。",
+      "Organize the proposal by problem, deliverables, cost, acceptance, maintenance and unknowns without scoring self-promotional claims."
+    ],
+    "problem": [
+      "把团队成果全算个人能力或把演示当生产交付时，要追问具体角色与回执。",
+      "Ask for role and records when team outcomes or demos are presented as personal production delivery."
+    ],
+    "check": [
+      "你能比较具体服务，而不是只比较包装和价格下限。",
+      "You can compare actual services rather than branding and starting prices."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "what-is-fde-business",
+    "title": [
+      "FDE 是什么？中小企业需要关心这个职位吗？",
+      "What is FDE, and why might a business owner care?"
+    ],
+    "answer": [
+      "FDE 常指 Forward Deployed Engineer，工作方式偏向贴近客户流程，把技术落到实际场景。职位名称不证明服务能力。老板更该问能改哪一步、交付什么、谁负责维护及如何验收。",
+      "FDE commonly means Forward Deployed Engineer, a role working close to customer workflows to implement technology. The title does not prove capability. Ask which step improves, what is delivered, who maintains it and how it is checked."
+    ],
+    "steps": [
+      [
+        "选一个你公司的具体卡点。",
+        "Choose a concrete blockage in your business."
+      ],
+      [
+        "让服务方讲清现成工具、流程调整和开发的选择。",
+        "Ask how existing tools, process changes and development compare."
+      ],
+      [
+        "先约定小范围交付与验收。",
+        "Agree a limited deliverable and acceptance criteria first."
+      ]
+    ],
+    "exercise": [
+      "不解释职业黑话，直接用库存核对举例：你会先了解什么、交付什么、哪些不保证。",
+      "Use inventory reconciliation to explain what you would investigate, deliver and not guarantee, without relying on job jargon."
+    ],
+    "problem": [
+      "“驻场”是否包含在服务里要单独确认，不能从 FDE 三个字推断。",
+      "Confirm on-site work separately instead of assuming it follows from the title."
+    ],
+    "check": [
+      "不懂术语也能判断这项服务是否匹配需求。",
+      "You can judge the service's fit without understanding the terminology."
+    ],
+    "source": [
+      "fde"
+    ]
+  },
+  {
+    "slug": "ai-employee-training",
+    "title": [
+      "员工不愿用 AI，怎么安排入门培训？",
+      "How do you train staff who are reluctant to use AI?"
+    ],
+    "answer": [
+      "从员工最熟悉的一项小任务开始，让他们看到结果如何检查及何时找人。不要用“不会 AI 就被淘汰”制造焦虑。先有清楚规则和可用帮助，再要求稳定使用。",
+      "Start with a familiar small task and teach review and escalation. Avoid fear-based claims that everyone without AI will be replaced. Establish clear rules and support before expecting routine adoption."
+    ],
+    "steps": [
+      [
+        "选员工能判断对错的任务。",
+        "Choose a task staff can judge."
+      ],
+      [
+        "演示一个成功样例和一个错误样例。",
+        "Show both a useful output and a failure."
+      ],
+      [
+        "让员工独立练习并反馈困难。",
+        "Have staff practice independently and report difficulties."
+      ]
+    ],
+    "exercise": [
+      "设计一次基础练习：整理非敏感笔记、发现编造信息、标未知、转人工。不要承诺培训后人人自动熟练。",
+      "Design practice for organizing non-sensitive notes, spotting fabrication, marking unknowns and escalating. Promise no instant mastery."
+    ],
+    "problem": [
+      "员工害怕责任时，先明确复核人和允许范围，不把培训变成追责。",
+      "If staff fear blame, clarify scope and review ownership rather than making training punitive."
+    ],
+    "check": [
+      "员工知道何时能用、怎么检查、何时停下求助。",
+      "Staff know when to use it, how to check and when to ask for help."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "ai-maintenance-owner",
+    "title": [
+      "AI 工具交付后，谁负责更新和修问题？",
+      "Who maintains an AI tool after delivery?"
+    ],
+    "answer": [
+      "资料、账号、模型与业务规则会变化，所以维护不能默认为“交付后永远好用”。约定负责人、变更入口、响应方式和退出方案。工具可用与业务规则有效要分别检查。",
+      "Documents, accounts, models and business rules change. Delivery does not imply perpetual correctness. Define owners, change reporting, support and exit plans, checking operation separately from rule validity."
+    ],
+    "steps": [
+      [
+        "列数据、规则、软件和账号各自负责人。",
+        "Assign owners for data, rules, software and accounts."
+      ],
+      [
+        "约定修改后怎样复测。",
+        "Define retesting after changes."
+      ],
+      [
+        "保留导出、备份和停用办法。",
+        "Keep export, backup and shutdown procedures."
+      ]
+    ],
+    "exercise": [
+      "写维护交接清单，区分资料更新、账号续费、故障处理和规则变更，不新增未经确认的响应时限。",
+      "Draft a handover covering content updates, renewals, incidents and rule changes without inventing response commitments."
+    ],
+    "problem": [
+      "“包维护”没范围时，问清包含什么、多久、超范围如何收费。",
+      "If maintenance is vaguely included, clarify scope, duration and out-of-scope charges."
+    ],
+    "check": [
+      "出现问题知道找谁，停止合作也能取回必要资料。",
+      "You know who handles problems and how to recover necessary data on exit."
+    ],
+    "source": [
+      "nist"
+    ]
+  },
+  {
+    "slug": "ai-consultation-prepare",
+    "title": [
+      "免费咨询前，老板准备哪三句话就够了？",
+      "What should an owner prepare for an initial consultation?"
+    ],
+    "answer": [
+      "先说做什么业务、现在怎么处理、哪一步最麻烦。没选工具、没完整方案也能讨论。初步沟通先用脱敏描述，不需要把账号密码或整库数据交给陌生服务方。",
+      "Describe the business, current process and most troublesome step. You do not need a selected tool or complete specification. Use sanitized descriptions instead of sharing passwords or entire datasets."
+    ],
+    "steps": [
+      [
+        "写下一个日常工作实例。",
+        "Write one everyday work example."
+      ],
+      [
+        "说明频率、参与人和容易错的地方，未知留空。",
+        "State frequency, roles and common errors, leaving unknowns blank."
+      ],
+      [
+        "问清免费阶段与后续实施的边界。",
+        "Ask where initial discussion ends and implementation begins."
+      ]
+    ],
+    "exercise": [
+      "我们做[业务]，现在用[做法]处理[任务]，最麻烦的是[步骤]。想先判断有没有小范围改进办法，暂不提供账号或客户明细。",
+      "We do [business] and use [process] for [task]. The hardest step is [step]. We want a small improvement assessment without sharing accounts or client details."
+    ],
+    "problem": [
+      "对方先要求全套密码或直接上大系统时，先确认必要性和授权范围。",
+      "If asked for full credentials or a major system immediately, clarify necessity and scope first."
+    ],
+    "check": [
+      "第一次沟通后至少清楚问题、待确认项和下一步，而不是只拿到一串工具名。",
+      "The first conversation clarifies the problem, unknowns and next step rather than merely listing tools."
+    ],
+    "source": [
+      "fde"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "browser_steps": 34,
+  "phone_pages": 6,
+  "sizes": [
+    "zh 360x800",
+    "en 390x844"
+  ],
+  "method": "browser viewport emulation, not physical devices",
+  "return_chains": [
+    "fresh-related-return",
+    "article-return-complete",
+    "home-return-project-retained",
+    "zh-case-consultation",
+    "case-en-consultation"
+  ],
+  "language_switch": "cases, services and contact paths passed",
+  "consultation": "Both language contact sections reached; no messages sent",
+  "cache_observation": "Old cached HTML briefly showed old pv URLs. Latest-resource checks passed. Temporary QA cache bypass and viewport override reset; no server cache changes.",
+  "traffic": "owner QA only; not organic traffic or customer enquiries"
+}

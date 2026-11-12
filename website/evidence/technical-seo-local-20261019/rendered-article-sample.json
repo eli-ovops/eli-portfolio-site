@@ -1,0 +1,79 @@
+{
+  "alternates": [
+    {
+      "language": "zh-CN",
+      "url": "https://www.eliai.cn/articles/what-is-agent.html"
+    },
+    {
+      "language": "en",
+      "url": "https://www.eliai.cn/en/articles/what-is-agent.html"
+    },
+    {
+      "language": "x-default",
+      "url": "https://www.eliai.cn/articles/what-is-agent.html"
+    }
+  ],
+  "canonical": "https://www.eliai.cn/articles/what-is-agent.html",
+  "heading": "Agent 是什么？跟普通 AI 聊天差在哪？",
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://www.eliai.cn/#eli",
+          "@type": "Person",
+          "description": "初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。",
+          "email": "[REDACTED_EMAIL]",
+          "jobTitle": "FDE · 贴近业务，选工具、改流程",
+          "name": "Eli",
+          "sameAs": [
+            "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+            "https://space.bilibili.com/432834855",
+            "https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH",
+            "https://www.youtube.com/@EliChao-m9o6r",
+            "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+            "https://x.com/cczij1112",
+            "https://weibo.com/u/7720929036",
+            "https://www.tiktok.com/@elimakesapps",
+            "https://www.instagram.com/eliaifde/",
+            "https://www.facebook.com/profile.php?id=61594512757125"
+          ],
+          "url": "https://www.eliai.cn/about.html"
+        },
+        {
+          "@id": "https://www.eliai.cn/#website",
+          "@type": "WebSite",
+          "inLanguage": [
+            "zh-CN",
+            "en"
+          ],
+          "name": "Eli",
+          "publisher": {
+            "@id": "https://www.eliai.cn/#eli"
+          },
+          "url": "https://www.eliai.cn/"
+        },
+        {
+          "@id": "https://www.eliai.cn/articles/what-is-agent.html#page",
+          "@type": "Article",
+          "author": {
+            "@id": "https://www.eliai.cn/#eli"
+          },
+          "dateCreated": "2026-10-17",
+          "datePublished": "2026-10-17",
+          "description": "Agent 通常指能结合工具、反馈和多步行动推进目标的系统。",
+          "headline": "Agent 是什么？跟普通 AI 聊天差在哪？",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://www.eliai.cn/#website"
+          },
+          "mainEntityOfPage": "https://www.eliai.cn/articles/what-is-agent.html",
+          "name": "Agent 是什么？跟普通 AI 聊天差在哪？ - Eli",
+          "url": "https://www.eliai.cn/articles/what-is-agent.html"
+        }
+      ]
+    }
+  ],
+  "title": "Agent 是什么？跟普通 AI 聊天差在哪？ - Eli",
+  "url": "https://www.eliai.cn/articles/what-is-agent.html?pv=0e8f1d0f8a593578ab3e"
+}

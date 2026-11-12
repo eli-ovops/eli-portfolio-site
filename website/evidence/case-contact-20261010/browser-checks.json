@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-10",
+  "results": [
+    {
+      "path": "index.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "FDE前沿部署工程师",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "records.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "项目索引",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "about.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "关于我",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "cases/p12.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "织境 · AI 内容工作台",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "cases/p15.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "PetSocial（现名 HelloTail）",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "en/index.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "FDEForward Deployed Engineer",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "en/records.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "Project library",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "en/about.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "About me",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "en/cases/p12.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "Zhijing · AI content workbench",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "en/cases/p15.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "heading": "PetSocial (now HelloTail)",
+        "scrollWidth": 305
+      }
+    },
+    {
+      "path": "index.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "FDE前沿部署工程师",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "records.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "项目索引",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "about.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "关于我",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "cases/p12.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "织境 · AI 内容工作台",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "cases/p15.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "PetSocial（现名 HelloTail）",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "en/index.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "FDEForward Deployed Engineer",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "en/records.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "Project library",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "en/about.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "About me",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "en/cases/p12.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "Zhijing · AI content workbench",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "en/cases/p15.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "heading": "PetSocial (now HelloTail)",
+        "scrollWidth": 375
+      }
+    },
+    {
+      "path": "index.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "FDE前沿部署工程师",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "records.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "项目索引",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "about.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "关于我",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "cases/p12.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "织境 · AI 内容工作台",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "cases/p15.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "PetSocial（现名 HelloTail）",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "en/index.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "FDEForward Deployed Engineer",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "en/records.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "Project library",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "en/about.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "About me",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "en/cases/p12.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "Zhijing · AI content workbench",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "path": "en/cases/p15.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "heading": "PetSocial (now HelloTail)",
+        "scrollWidth": 1265
+      }
+    },
+    {
+      "test": "contact semantics zh",
+      "metrics": {
+        "phoneE164": true,
+        "wechatVisible": true,
+        "whatsappBlank": true,
+        "whatsappUsesSameNumber": true
+      }
+    },
+    {
+      "test": "contact semantics en",
+      "metrics": {
+        "ambiguous": false,
+        "labels": [
+          "Email",
+          "Phone",
+          "WhatsApp"
+        ],
+        "qr": true
+      }
+    }
+  ],
+  "limits": "Simulated viewport; no calls, messages, WhatsApp account validation, QR decoding or publication"
+}

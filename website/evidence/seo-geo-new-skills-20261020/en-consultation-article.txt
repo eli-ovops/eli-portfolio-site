@@ -1,0 +1,128 @@
+Browser tab: 5, Title: "What should an owner prepare for an initial consultation? - Eli", URL: "https://www.eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2".
+0 AXWebArea What should an owner prepare for an initial consultation? - Eli, URL: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2
+	1 link Description: Skip to content, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#main
+	2 container
+		3 link Description: Eli home, Value: eliai.cn/en/index.html?pv=fcafe9ca8a0e904465b2
+		4 container Main navigation
+			5 link Description: Home, Value: eliai.cn/en/index.html?pv=fcafe9ca8a0e904465b2
+			6 link Description: Projects, Value: eliai.cn/en/records.html?pv=fcafe9ca8a0e904465b2
+			7 link Description: Articles, Value: eliai.cn/en/articles.html?pv=fcafe9ca8a0e904465b2
+			8 link Description: About, Value: eliai.cn/en/about.html?pv=fcafe9ca8a0e904465b2
+			9 link Description: Switch to Chinese, Value: eliai.cn/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2
+	10 container main
+		11 link Description: ← Back to articles, Value: eliai.cn/en/articles.html?pv=fcafe9ca8a0e904465b2
+		12 text AI for business owners
+		13 container
+			14 text Eli · Written on 
+			15 text 2026-10-17
+			16 text  · 1 min read
+			17 heading What should an owner prepare for an initial consultation?, Value: 1
+				18 text What should an owner prepare for an initial consultation?
+			19 text Describe the business, current process and most troublesome step.
+		20 container
+			21 heading On this page, Value: 2
+				22 text On this page
+			23 container On this page
+				24 link Description: The short answer, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#understand
+				25 link Description: Try it in three steps, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#try
+				26 link Description: A practice prompt, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#example
+				27 link Description: If it goes wrong, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#troubleshoot
+				28 link Description: Check your result, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#check
+				29 link Description: References and scope, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#sources
+		30 container
+			31 container understand
+				32 heading The short answer, Value: 2
+					33 text The short answer
+				34 text You do not need a selected tool or complete specification. Use sanitized (with identifying personal or client details removed) descriptions instead of sharing passwords or entire datasets.
+			35 container try
+				36 heading Try it in three steps, Value: 2
+					37 text Try it in three steps
+				38 content list
+					39 container
+						40 AXListMarker • 
+						41 text Write one everyday work example.
+					42 container
+						43 AXListMarker • 
+						44 text State frequency, roles and common errors, leaving unknowns blank.
+					45 container
+						46 AXListMarker • 
+						47 text Ask where initial discussion ends and implementation begins.
+			48 container example
+				49 heading A practice prompt, Value: 2
+					50 text A practice prompt
+				51 text Before you start
+				52 text Practice an opening message with a fictional scenario, without private data or sending.
+				53 text Practice material (fictional)
+				54 text We run a fictional stationery wholesaler, record receipts in sheets and struggle to match item aliases. We want to consider a small improvement.
+				55 text Replace placeholders in the prompt with this material, or append the material if there are no placeholders. Reading time excludes doing the exercise.
+				56 text We do [business] and use [process] for [task]. The hardest step is [step]. We want a small improvement assessment without sharing accounts or client details.
+				57 text What to look for (not a recorded test result)
+				58 text The message covers business, process and blockage. Confirm volume and frequency later without preparing a full specification or sharing passwords.
+			59 container troubleshoot
+				60 heading If it goes wrong, Value: 2
+					61 text If it goes wrong
+				62 text If asked for full credentials or a major system immediately, clarify necessity and scope first.
+			63 container check
+				64 heading Check your result, Value: 2
+					65 text Check your result
+				66 text The first conversation clarifies the problem, unknowns and next step rather than merely listing tools.
+			67 container sources
+				68 heading References and scope, Value: 2
+					69 text References and scope
+				70 text The links below support the concepts or product navigation. The steps and exercises are our teaching suggestions, not official certification or measured customer outcomes. Product interfaces and availability may change. References checked on 2026-10-17.
+				71 content list
+					72 container
+						73 AXListMarker • 
+						74 link Description: Our service scope and consultation, Value: eliai.cn/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2
+		75 container
+			76 heading Start with one task, Value: 2
+				77 text Start with one task
+			78 text Describe the current process and its slowest step. The initial conversation is free.
+			79 link Description: Let’s talk ↗, Value: eliai.cn/en/about.html?pv=fcafe9ca8a0e904465b2#contact, ID: eli-consult-entry-1
+		80 link Description: Need help? See small-scale implementation services ↗, Value: eliai.cn/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2
+		81 container Keep reading
+			82 heading Keep reading, Value: 2, ID: article-next-title
+				83 text Keep reading
+			84 container
+				85 text AI for business owners 1 min read
+				86 heading Who maintains an AI tool after delivery?, Value: 3
+					87 link Description: Who maintains an AI tool after delivery?, Value: eliai.cn/en/articles/ai-maintenance-owner.html?pv=fcafe9ca8a0e904465b2
+				88 text Documents, accounts, models and business rules change.
+				89 link Description: Read: Who maintains an AI tool after delivery?, Value: eliai.cn/en/articles/ai-maintenance-owner.html?pv=fcafe9ca8a0e904465b2
+			90 container
+				91 text AI for business owners 1 min read
+				92 heading How do you train staff who are reluctant to use AI?, Value: 3
+					93 link Description: How do you train staff who are reluctant to use AI?, Value: eliai.cn/en/articles/ai-employee-training.html?pv=fcafe9ca8a0e904465b2
+				94 text Start with a familiar small task and teach review and escalation.
+				95 link Description: Read: How do you train staff who are reluctant to use AI?, Value: eliai.cn/en/articles/ai-employee-training.html?pv=fcafe9ca8a0e904465b2
+			96 container
+				97 text AI for business owners 1 min read
+				98 heading What is FDE, and why might a business owner care?, Value: 3
+					99 link Description: What is FDE, and why might a business owner care?, Value: eliai.cn/en/articles/what-is-fde-business.html?pv=fcafe9ca8a0e904465b2
+				100 text FDE commonly means Forward Deployed Engineer, a role working close to customer workflows to implement technology.
+				101 link Description: Read: What is FDE, and why might a business owner care?, Value: eliai.cn/en/articles/what-is-fde-business.html?pv=fcafe9ca8a0e904465b2
+	102 container
+		103 link Description: Eli FDE / SELECTED WORK, Value: eliai.cn/en/index.html?pv=fcafe9ca8a0e904465b2
+		104 container Contact details
+			105 text Email
+			106 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			107 text Phone
+			108 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		109 container Page navigation
+			110 link Description: Projects ↗, Value: eliai.cn/en/records.html?pv=fcafe9ca8a0e904465b2
+			111 link Description: Back to top ↑, Value: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2#main
+		112 container Social profiles
+			113 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			114 link Description: Bilibili, Value: space.bilibili.com/432834855
+			115 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			116 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			117 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			118 link Description: X, Value: x.com/cczij1112
+			119 link Description: Weibo, Value: weibo.com/u/7720929036
+			120 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			121 link Description: Instagram, Value: instagram.com/eliaifde/
+			122 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		123 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+		124 button Analytics & privacy
+
+The focused UI element is 0 AXWebArea What should an owner prepare for an initial consultation? - Eli, URL: eliai.cn/en/articles/ai-consultation-prepare.html?pv=fcafe9ca8a0e904465b2

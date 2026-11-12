@@ -1,0 +1,13 @@
+{
+  "url": "https://www.bing.com/webmasters/",
+  "navigation": "Timed out",
+  "dom_observed": "Empty DOM on existing URL before and after one ordinary reload",
+  "reloads": 1,
+  "reads_unavailable": [
+    "search performance",
+    "AI performance",
+    "site explorer"
+  ],
+  "cause": "UNKNOWN; not evidence of site crawling/indexing problem",
+  "new_ticket_or_submissions": 0
+}

@@ -1,0 +1,7 @@
+{
+  "url_requested": "https://eliai.cn/",
+  "final_url": "https://www.eliai.cn/",
+  "status": 200,
+  "homepage_matches_www_release": true,
+  "note": "ChatGPT reported its fetch500 for apex; this independent HTTP check cannot reproduce and does not prove all crawler environments"
+}

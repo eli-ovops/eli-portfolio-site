@@ -1,0 +1,24 @@
+{
+  "task_owned_artifacts": [
+    {
+      "path": "/srv/eli-sites/portfolio/domain-releases/20261019-workbuddy-e2be9698",
+      "files": 365,
+      "bytes": 20333724,
+      "mtime_utc": "2026-10-19T06:33:38.200125+00:00"
+    },
+    {
+      "path": "/root/portfolio-20261019-workbuddy-e2be9698.tar.gz",
+      "files": 1,
+      "bytes": 10591299,
+      "mtime_utc": "2026-10-19T06:33:33.648134+00:00"
+    },
+    {
+      "path": "/srv/eli-sites/portfolio/backups/20261019-workbuddy-e2be9698",
+      "files": 2,
+      "bytes": 75935,
+      "mtime_utc": "2026-10-19T06:33:38.292125+00:00"
+    }
+  ],
+  "free_bytes": [REDACTED_PHONE],
+  "retention": "Current release, upload package and audit/rollback metadata retained; no deletion"
+}

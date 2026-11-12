@@ -1,0 +1,139 @@
+[
+  {
+    "test": "Chinese search GitHub",
+    "url": "https://www.eliai.cn/articles.html?pv=e3304385905f8d1cdd01&q=GitHub",
+    "visible": 11
+  },
+  {
+    "test": "Chinese search + category",
+    "url": "https://www.eliai.cn/articles.html?pv=e3304385905f8d1cdd01&q=GitHub&category=github",
+    "status": "10 篇文章 · 第 1 / 1 页"
+  },
+  {
+    "test": "English switch keeps search/category",
+    "lang": "en",
+    "url": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01&q=GitHub&category=github"
+  },
+  {
+    "test": "English filters after loaded",
+    "status": "10 articles · page 1 of 1",
+    "links": 102
+  },
+  {
+    "test": "First-click Clear in English",
+    "status": "102 articles · page 1 of 9",
+    "url": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01"
+  },
+  {
+    "test": "Chinese inventory article to case",
+    "back": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01#case-records",
+    "text": "← 返回文章",
+    "url": "https://www.eliai.cn/cases/p10.html?pv=e3304385905f8d1cdd01&from=%2Farticles%2Finventory-reconciliation.html%3Fpv%3De3304385905f8d1cdd01%23case-records"
+  },
+  {
+    "test": "Case returns to original Chinese article section",
+    "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01#case-records"
+  },
+  {
+    "test": "English article counterpart",
+    "back": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01",
+    "lang": "en",
+    "switch": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01",
+    "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01"
+  },
+  {
+    "test": "English article to case after load",
+    "back": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01#case-records",
+    "text": "← Back to article",
+    "url": "https://www.eliai.cn/en/cases/p10.html?pv=e3304385905f8d1cdd01&from=%2Fen%2Farticles%2Finventory-reconciliation.html%3Fpv%3De3304385905f8d1cdd01%23case-records"
+  },
+  {
+    "test": "English case return to original article section",
+    "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01#case-records"
+  },
+  {
+    "test": "Detail language switch preserves case section",
+    "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01#case-records"
+  },
+  {
+    "test": "Chinese consultation reaches contact",
+    "url": "https://www.eliai.cn/about.html?pv=e3304385905f8d1cdd01#contact"
+  },
+  {
+    "test": "Contact QR loaded at mobile width",
+    "banner": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "documentWidth": 375,
+    "qr": [
+      {
+        "loaded": true,
+        "source": "https://www.eliai.cn/assets/wechat-qr.png",
+        "width": 198
+      }
+    ],
+    "url": "https://www.eliai.cn/about.html?pv=e3304385905f8d1cdd01#contact",
+    "width": 390
+  },
+  {
+    "test": "Wechat image opens in new tab",
+    "loaded": true,
+    "url": "https://www.eliai.cn/assets/wechat-qr.png"
+  },
+  {
+    "test": "Knowledge-base article → case → same article section",
+    "source": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01",
+    "back": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01#case-records",
+    "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01#case-records"
+  },
+  {
+    "test": "Knowledge-base article → case → same article section",
+    "source": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01",
+    "back": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01#case-records",
+    "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01#case-records"
+  },
+  {
+    "test": "English consultation to contact with QR",
+    "documentWidth": 375,
+    "qr": [
+      {
+        "loaded": true,
+        "width": 198
+      }
+    ],
+    "url": "https://www.eliai.cn/en/about.html?pv=e3304385905f8d1cdd01#contact",
+    "width": 390
+  },
+  {
+    "test": "Existing service → case → service",
+    "back": "https://www.eliai.cn/services/fde-consulting.html?pv=e3304385905f8d1cdd01#service-proof",
+    "url": "https://www.eliai.cn/services/fde-consulting.html?pv=e3304385905f8d1cdd01#service-proof"
+  },
+  {
+    "test": "Existing stacked homepage card → case → same homepage project",
+    "back": "https://www.eliai.cn/index.html?project=p10&pv=e3304385905f8d1cdd01#work",
+    "url": "https://www.eliai.cn/index.html?project=p10&pv=e3304385905f8d1cdd01#work"
+  },
+  {
+    "test": "Tutorial language switch preserves section and filtered return",
+    "url": "https://www.eliai.cn/en/articles/skill-file-structure.html?pv=e3304385905f8d1cdd01#example",
+    "back": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01&q=SKILL.md&category=skills"
+  },
+  {
+    "test": "English filtered list restored",
+    "url": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01&q=SKILL.md&category=skills",
+    "status": "1 article · page 1 of 1"
+  },
+  {
+    "test": "Mobile pagination",
+    "status": "102 articles · page 2 of 9",
+    "url": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01&page=2"
+  }
+]

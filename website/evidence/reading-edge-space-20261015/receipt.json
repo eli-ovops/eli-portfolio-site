@@ -1,0 +1,29 @@
+{
+  "status": "LOCAL_VERIFIED_NOT_PUBLISHED",
+  "revision": "2c1e8782ce854393cc74",
+  "change": "Only CSS: opaque center expands 32px each side on desktop, 12px mobile, leaving content aligned and wave gutters visible; footer matches",
+  "checks": {
+    "build": "PASS 84 HTML pages",
+    "static": "PASS",
+    "browser": "1440 and1920 desktop;390 mobile no horizontal overflow",
+    "protected_sources": {
+      "assets/home-ambient.js": true,
+      "assets/home-ambient.css": true,
+      "assets/dither-veil.js": true,
+      "assets/bits-ui.js": true,
+      "assets/editorial.js": true,
+      "app.js": true,
+      "assets/page-version.js": true,
+      "templates/layout.html": true,
+      "styles.css": true,
+      "assets/bits-ui.css": true,
+      "assets/editorial.css": true,
+      "content/seo.json": true,
+      "content/social-links.json": true,
+      "content/projects.json": true,
+      "content/en.json": true
+    }
+  },
+  "published": false,
+  "server_access": false
+}

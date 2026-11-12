@@ -1,0 +1,16 @@
+{
+  "foreground": [
+    167,
+    168,
+    178
+  ],
+  "body_background": [
+    17,
+    18,
+    20
+  ],
+  "ratio": 7.9315968639414125,
+  "solid_pair_only": true,
+  "minimum_normal_text": 4.5,
+  "passes_solid_pair": true
+}

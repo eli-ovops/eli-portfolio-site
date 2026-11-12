@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-10-17T18:55:04.469412+08:00",
+  "scope": "current access.log; 2026-10-17; official IP plus UA; no raw visitor IPs stored; global log lacks hostname",
+  "bots": {
+    "PerplexityBot": {
+      "verified_article_requests": 0,
+      "unverified_article_requests": 0,
+      "verified_all_paths": {
+        "/robots.txt": 1,
+        "/": 1,
+        "/records.html": 1,
+        "/cases/p13.html": 1,
+        "/assets/img13.png": 1
+      },
+      "last_events": [
+        {
+          "time": "17/Oct/2026:15:02:37 +0800",
+          "path": "/robots.txt",
+          "status": "200"
+        },
+        {
+          "time": "17/Oct/2026:15:02:40 +0800",
+          "path": "/",
+          "status": "200"
+        },
+        {
+          "time": "17/Oct/2026:15:02:41 +0800",
+          "path": "/records.html",
+          "status": "200"
+        },
+        {
+          "time": "17/Oct/2026:15:02:43 +0800",
+          "path": "/cases/p13.html",
+          "status": "200"
+        },
+        {
+          "time": "17/Oct/2026:15:02:52 +0800",
+          "path": "/assets/img13.png",
+          "status": "200"
+        }
+      ]
+    },
+    "Perplexity-User": {
+      "verified_article_requests": 0,
+      "unverified_article_requests": 0,
+      "verified_all_paths": {},
+      "last_events": []
+    }
+  },
+  "marker_hits": [],
+  "config_sha256": "5570323d452fc558369ebe860076dea84ad4490bce7e7ed3dfcdad6b78e0f759",
+  "current_release": "/srv/eli-sites/portfolio/domain-releases/20261017-llms-utf8-e253f5b6"
+}

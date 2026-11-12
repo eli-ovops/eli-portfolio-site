@@ -1,0 +1,26 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "hash": "PASS",
+    "final_url": "https://www.eliai.cn/index.html?v=ddeecaea4720bde0a52a"
+  },
+  {
+    "path": "about.html",
+    "status": 200,
+    "hash": "PASS",
+    "final_url": "https://www.eliai.cn/about.html?v=ddeecaea4720bde0a52a"
+  },
+  {
+    "path": "assets/content-layout.css",
+    "status": 200,
+    "hash": "PASS",
+    "final_url": "https://www.eliai.cn/assets/content-layout.css?v=ddeecaea4720bde0a52a"
+  },
+  {
+    "path": "robots.txt",
+    "status": 200,
+    "hash": "PASS",
+    "final_url": "https://www.eliai.cn/robots.txt?v=ddeecaea4720bde0a52a"
+  }
+]

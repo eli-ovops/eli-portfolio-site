@@ -1,0 +1,43 @@
+Browser tab: 26, Title: "头条搜索站长平台", URL: "https://zhanzhang.toutiao.com/page/inner/site/add?id=2001878".
+0 AXWebArea 头条搜索站长平台, URL: zhanzhang.toutiao.com/page/inner/site/add?id=2001878
+	1 container
+		2 container
+			3 link zhanzhang.toutiao.com/
+			4 link Description: 首页, Value: zhanzhang.toutiao.com/
+			5 link Description: 网站工具, Value: zhanzhang.toutiao.com/page/inner/site/manage
+			6 link Description: 站长学院, Value: zhanzhang.toutiao.com/page/outer/docs
+			7 link Description: 联系我们, Value: zhanzhang.toutiao.com/page/outer/contact
+			8 container
+				9 image avatar
+				10 text 俊俏旭日IS
+			11 container
+				12 link Description: 站点管理, Value: zhanzhang.toutiao.com/page/inner/site/manage
+				13 image
+				14 text 数据提交
+				15 image
+				16 link Description: 链接提交, Value: zhanzhang.toutiao.com/page/inner/link/info
+				17 link Description: 死链提交, Value: zhanzhang.toutiao.com/page/inner/link/deadlink
+				18 link Description: 自动收录, Value: zhanzhang.toutiao.com/page/inner/link/auto_include
+				19 link Description: 时间因子, Value: zhanzhang.toutiao.com/page/inner/link/time_factor
+				20 link Description: 移动适配, Value: zhanzhang.toutiao.com/page/inner/link/mobile_fit
+				21 image
+				22 text 数据监控
+				23 image
+				24 link Description: 流量与展示量, Value: zhanzhang.toutiao.com/page/inner/data/traffic
+				25 link Description: 索引量, Value: zhanzhang.toutiao.com/page/inner/data/index
+				26 link Description: 抓取频次, Value: zhanzhang.toutiao.com/page/inner/data/frequency
+			27 container
+				28 container
+					29 link Description: 站点管理, Value: zhanzhang.toutiao.com/page/inner/site/manage
+					30 image
+					31 text 新建网站
+				32 container
+					33 image
+					34 text 输入网站
+				35 container
+					36 text 2 网站验证
+				37 image
+				38 text 验证成功 点击链接提交，开始添加该网站链接
+				39 link Description: 链接提交, Value: zhanzhang.toutiao.com/page/inner/link/info
+
+The focused UI element is 0 AXWebArea 头条搜索站长平台, URL: zhanzhang.toutiao.com/page/inner/site/add?id=2001878

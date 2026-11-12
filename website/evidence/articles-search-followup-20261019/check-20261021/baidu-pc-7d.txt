@@ -1,0 +1,185 @@
+- link "logo":
+  - /url: /
+  - img "logo"
+- list:
+  - link "搜索学堂":
+    - /url: /college#/type=1&cate=newcontent
+  - link "搜索服务":
+    - /url: /dashboard/index
+  - listitem: 互动交流
+  - link "资源合作":
+    - /url: /cooperateresource/index
+  - link "用户中心":
+    - /url: /site/index
+- link:
+  - /url: /prompt/index
+- link:
+  - /url: https://passport.baidu.com
+- link "子建大魔王":
+  - /url: https://passport.baidu.com
+- text: "|"
+- link "退出":
+  - /url: /auth/logout?u=https%3A%2F%2Fziyuan.baidu.com%2Fkeywords%2Findex%3Frange%3Dweek%26site%3Dhttps%253A%252F%252Fwww.eliai.cn%252F
+- list:
+  - link:
+    - /url: [support-widget-url-redacted]
+  - link:
+    - /url: /feedback/index
+  - link:
+    - /url: "#top"
+- generic: 站点
+- textbox "点击选择站点": https://www.eliai.cn
+- generic: 将该网站设置为默认站点
+- term:
+  - link "站点信息":
+    - /url: /dashboard/index?site=https://www.eliai.cn/
+- definition
+- term:
+  - link "资源提交":
+    - /url: "#"
+- definition:
+  - link "快速抓取":
+    - /url: /fastcrawl/index?site=https://www.eliai.cn/
+  - link "普通收录":
+    - /url: /linksubmit/index?site=https://www.eliai.cn/
+  - link "移动适配":
+    - /url: /mobile/index?site=https://www.eliai.cn/
+  - link "死链提交":
+    - /url: /badlink/index?site=https://www.eliai.cn/
+- term:
+  - link "数据统计":
+    - /url: "#"
+- definition:
+  - link "索引量":
+    - /url: /indexs/index?site=https://www.eliai.cn/
+  - link "流量与关键词":
+    - /url: /keywords/index?site=https://www.eliai.cn/
+  - link "抓取频次":
+    - /url: /pressure/index?site=https://www.eliai.cn/
+  - link "抓取诊断":
+    - /url: /crawltools/index?site=https://www.eliai.cn/
+  - link "抓取异常":
+    - /url: /crawl/index?site=https://www.eliai.cn/
+  - link "Robots":
+    - /url: /robots/index?site=https://www.eliai.cn/
+- term:
+  - link "搜索小工具":
+    - /url: "#"
+- definition:
+  - link "小工具提交":
+    - /url: /aitoolset/index?site=https://www.eliai.cn/
+  - link "我的小工具列表":
+    - /url: /aitoolset/list?site=https://www.eliai.cn/
+  - link "数据看板":
+    - /url: /aitoolset/databoard?site=https://www.eliai.cn/
+- term:
+  - link "权威溯源":
+    - /url: "#"
+- definition:
+  - link "权威提交":
+    - /url: /sourcetrace/index?site=https://www.eliai.cn/
+  - link "我的溯源提交":
+    - /url: /sourcetrace/dashboard?site=https://www.eliai.cn/
+- term:
+  - link "AI流量分析":
+    - /url: /aiflow/index?site=https://www.eliai.cn/
+- definition
+- term:
+  - link "搜索展现":
+    - /url: "#"
+- definition:
+  - link "站点属性":
+    - /url: /property/index?site=https://www.eliai.cn/
+  - link "站点子链":
+    - /url: /sitelink/index?site=https://www.eliai.cn/
+  - link "视频极速服务":
+    - /url: /videomonetize/index?site=https://www.eliai.cn/
+- term:
+  - link "优化与维护":
+    - /url: "#"
+- definition:
+  - link "网站改版":
+    - /url: /rewrite/index?site=https://www.eliai.cn/
+- heading "流量与关键词" [level=1]
+- generic: 使用说明
+- list:
+  - listitem: 提供站点的热门关键词在百度搜索结果中的展现及点击量数据，同时提供关键词定制功能，方便网站根据需求设置需要重点关注的关键词，通过对关键词表现情况的监控，帮助网站更好进行优化，工具旨在全面帮助站长了解网站在百度搜索引擎中的表现，决定页面及网站的优化方向，为网站运营决策提供分析依据。
+- link "PC搜索":
+  - /url: /keywords/index?site=https%3A%2F%2Fwww.eliai.cn%2F
+- link "移动搜索":
+  - /url: /keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F
+- heading "指数概况" [level=2]
+- list:
+  - paragraph: 点击量： 0
+  - paragraph: 展现量： 0
+- heading "热点趋势 自定义日期 今天 昨天 最近7天 最近30天" [level=2]:
+  - text: 热点趋势
+  - generic: 自定义日期
+  - list:
+    - link "今天":
+      - /url: /keywords/index?range=today&site=https%3A%2F%2Fwww.eliai.cn%2F
+    - link "昨天":
+      - /url: /keywords/index?range=yesterday&site=https%3A%2F%2Fwww.eliai.cn%2F
+    - link "最近7天":
+      - /url: /keywords/index?range=week&site=https%3A%2F%2Fwww.eliai.cn%2F
+    - link "最近30天":
+      - /url: /keywords/index?range=month&site=https%3A%2F%2Fwww.eliai.cn%2F
+- generic: 对比前7天
+- generic: 展现量
+- generic: 点击量
+- list:
+  - listitem: 热门关键词
+  - listitem: 热门页面
+- textbox "输入关键字"
+- table:
+  - rowgroup:
+    - row "关键词 点击量 展现量 点击率 排名 详情":
+      - columnheader "关键词"
+      - columnheader "点击量"
+      - columnheader "展现量"
+      - columnheader "点击率"
+      - columnheader "排名"
+      - columnheader "详情"
+  - rowgroup:
+    - row "暂无数据":
+      - cell "暂无数据"
+- generic: 下载表格
+- paragraph: 说明
+- list:
+  - listitem: 数据一般小时级更新，当天数据会有约5个小时的延迟，例如当天16：00时可给出当天11：00时前的数据；
+  - listitem: 热门关键词列表、热门页面列表默认按点击量降序排列。
+  - listitem: 设置的时间范围超过最近30天，无详情数据。
+  - listitem: 用户点击搜索结果进入您网站之后产生的其它点击不会计入到点击量当中。
+- list:
+  - link "Q：流量与关键词工具里出现的展现量、点击量、点击率、排名都是什么？":
+    - /url: /college/courseinfo?id=267&page=7
+  - link "Q：热门关键词和热门页面分别指什么？":
+    - /url: /college/courseinfo?id=267&page=7
+  - link "Q：使用流量与关键词工具能给您带来什么？":
+    - /url: /college/courseinfo?id=267&page=7
+- link "智能小程序":
+  - /url: https://smartprogram.baidu.com/developer/index.html
+- link "投诉平台":
+  - /url: //help.baidu.com/newadd?prod_id=1&category=1
+- link "百度统计":
+  - /url: https://tongji.baidu.com/web/welcome/login
+- link "百度智能云":
+  - /url: https://cloud.baidu.com/
+- link "百度云加速":
+  - /url: https://su.baidu.com/
+- link "百度安全":
+  - /url: http://anquan.baidu.com/
+- link "百度大脑":
+  - /url: https://ai.baidu.com/
+- link "百度保障":
+  - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+- link "百度开发者中心":
+  - /url: https://developer.baidu.com/?hmsr=站长平台&hmpl=&hmcu=&hmkw=&hmci
+- link "联系我们":
+  - /url: //ziyuan.baidu.com/college/articleinfo?id=2114
+- link "微信公众号":
+  - /url: //ziyuan.baidu.com/wiki/3148
+- text: ©2026 Baidu
+- link "使用百度前必读":
+  - /url: https://www.baidu.com/duty/
+- text: 京ICP证030173号

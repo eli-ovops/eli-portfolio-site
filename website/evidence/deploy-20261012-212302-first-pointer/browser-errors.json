@@ -1,0 +1,8 @@
+[
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-12T13:27:55.711Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+  }
+]

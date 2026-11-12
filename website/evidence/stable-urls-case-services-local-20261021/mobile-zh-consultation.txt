@@ -1,0 +1,94 @@
+Browser tab: 9, Title: "关于 Eli｜FDE 工作方式、免费 AI 咨询与联系", URL: "http://127.0.0.1:4178/about.html#contact".
+1 AXWebArea 关于 Eli｜FDE 工作方式、免费 AI 咨询与联系, URL: 127.0.0.1:4178/about.html#contact
+	2 link Description: 跳到正文, Value: 127.0.0.1:4178/about.html#main
+	3 container
+		4 link Description: Eli首页, Value: 127.0.0.1:4178/index.html
+		5 container 主导航
+			6 link Description: 首页, Value: 127.0.0.1:4178/index.html
+			7 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+			8 link Description: 文章, Value: 127.0.0.1:4178/articles.html
+			9 link Description: 关于, Value: 127.0.0.1:4178/about.html
+			10 link Description: 切换到英文版, Value: 127.0.0.1:4178/en/about.html
+	11 container main
+		12 container
+			13 text FDE · 前沿部署工程师
+			14 heading 关于我, Value: 1
+				15 text 关于我
+			16 text 帮企业把 AI 用到日常工作里。
+			17 link Description: 免费聊聊, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1
+			18 text 你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。 你不需要先懂 AI，也不必准备完整方案，可以从一件最费时间的事开始聊。初次咨询免费；如果需要进一步实施，我们会先确认范围和费用，再开始。
+			19 image 机器人视觉插画
+			20 container
+				21 text 需要时，再开发软件。
+				22 button 揭开画面 , Help: 揭开画面后，点阵会逐渐复原
+		23 container contact
+			24 text 不知道从哪开始，也可以先聊。
+			25 text 微信、电话或邮箱都可以，按你平时说话的方式描述就好。
+			26 text 可以这样开口
+			27 text 你好，我做的是___，现在最费时间的是___，想看看有没有简单的改进办法。
+			28 container wechat
+				29 heading 微信, Value: 3
+					30 text 微信
+				31 link Description: 放大微信二维码, Value: 127.0.0.1:4178/assets/wechat-qr.png, ID: eli-consult-wechat-1
+				32 text 手机上可长按识别；或点开图片，保存后在微信扫一扫中从相册选择。
+			33 text 邮箱
+			34 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			35 text 电话
+			36 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+			37 text WhatsApp
+			38 link Description: [REDACTED_PHONE] ↗, Value: wa.me/[REDACTED_PHONE], ID: eli-consult-whatsapp-1
+		39 container 怎么一起做？, ID: fde
+			40 heading 怎么一起做？, Value: 2, ID: fde-title
+				41 text 怎么一起做？
+			42 content list
+				43 container
+					44 heading 找问题, Value: 4
+						45 text 找问题
+					46 text 先看哪件事最费时间。
+					47 button (collapsed) 展开做法, Secondary Actions: Expand
+						48 text 展开做法
+				49 container
+					50 heading 小范围试用, Value: 4
+						51 text 小范围试用
+					52 text 先试一个工具或一个流程。
+					53 button (collapsed) 展开做法, Secondary Actions: Expand
+						54 text 展开做法
+				55 container
+					56 heading 落地交付, Value: 4
+						57 text 落地交付
+					58 text 交付后，跟进使用反馈。
+					59 button (collapsed) 展开做法, Secondary Actions: Expand
+						60 text 展开做法
+		61 container 常见合作问题, ID: questions
+			62 heading 常见合作问题, Value: 2, ID: questions-title
+				63 text 常见合作问题
+			64 button (collapsed) 想用 AI，但不知道从哪开始？, Secondary Actions: Expand
+				65 text 想用 AI，但不知道从哪开始？
+			66 button (collapsed) 会怎么推进，费用怎么定？, Secondary Actions: Expand
+				67 text 会怎么推进，费用怎么定？
+			68 button (collapsed) 一定要开发一套系统吗？, Secondary Actions: Expand
+				69 text 一定要开发一套系统吗？
+	70 container
+		71 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/index.html
+		72 container 联系方式
+			73 text 邮箱
+			74 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-2
+			75 text 电话
+			76 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-2
+		77 container 页面导航
+			78 link Description: 项目库 ↗, Value: 127.0.0.1:4178/records.html
+			79 link Description: 回到顶部 ↑, Value: 127.0.0.1:4178/about.html#main
+		80 container 社交主页
+			81 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			82 link Description: B站, Value: space.bilibili.com/432834855
+			83 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			84 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			85 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			86 link Description: X, Value: x.com/cczij1112
+			87 link Description: 微博, Value: weibo.com/u/7720929036
+			88 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			89 link Description: Instagram, Value: instagram.com/eliaifde/
+			90 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		91 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea 关于 Eli｜FDE 工作方式、免费 AI 咨询与联系, URL: 127.0.0.1:4178/about.html#contact

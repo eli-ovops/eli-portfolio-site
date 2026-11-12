@@ -1,0 +1,9 @@
+{
+  "scope": "Local bottom cookie consent bar only; preserve site visuals/motion; no deployment or dashboard changes",
+  "before_hashes": {
+    "assets/site-analytics.css": "4503eb384a0b9a17f1ffd4812e1352393f7a24bfaf5201e80cb09b4750d5ada7",
+    "assets/site-analytics.js": "ba77c7ddb93510d7c863f411c05c7fd1e7ff382a02c94b3c01f2806cf7b936fe",
+    "scripts/analytics.py": "08051306ad8275505b614c45eca856055f4f80a629e3e1424fc2c79603651e9a",
+    "scripts/check_analytics.cjs": "44ec606d2f17b833b946942ee15745cc65fa0f5329fceaaa499236e43abb0a93"
+  }
+}

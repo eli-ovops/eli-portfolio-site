@@ -1,0 +1,16 @@
+{
+  "html_pages": 296,
+  "article_details": 204,
+  "sitemap_urls": 294,
+  "errors": [],
+  "missing_fragment_targets": [],
+  "unreachable_indexable_pages": [],
+  "max_static_link_depth": 3,
+  "article_depth_distribution": {
+    "2": 102,
+    "1": 2,
+    "3": 100
+  },
+  "website_files_modified": false,
+  "search_submissions": 0
+}

@@ -1,0 +1,76 @@
+{
+  "status": "LOCAL_PREVIEW_READY_FOR_USER_REVIEW",
+  "checked_at": "2026-10-17T08:00:30.029121+00:00",
+  "revision": "475b995cfd9e5b56cdfe",
+  "new_pages": [
+    "articles.html",
+    "articles/inventory-reconciliation.html",
+    "articles/enterprise-knowledge-base.html"
+  ],
+  "scope": "Chinese article section, two articles, article-to-case return; preserve current site visuals/motion, no publication",
+  "article_numbers": "Clearly labelled hypothetical arithmetic examples, not customer outcome statistics",
+  "project_sources": [
+    "content/projects.json:P10",
+    "content/projects.json:P09",
+    "content/projects.json:P36"
+  ],
+  "presentation_baseline": {
+    "styles.css": "UNCHANGED",
+    "motion.css": "UNCHANGED",
+    "motion.js": "UNCHANGED",
+    "app.js": "UNCHANGED",
+    "assets/stacked-gallery.css": "UNCHANGED",
+    "assets/depth-gallery.js": "UNCHANGED",
+    "assets/home-ambient.js": "UNCHANGED",
+    "assets/home-ambient.css": "UNCHANGED",
+    "assets/editorial.js": "UNCHANGED"
+  },
+  "homepage_existing_markup": "UNCHANGED after removing authorized article-section placeholder",
+  "checks": {
+    "build": "PASS,93 HTML pages and38 records",
+    "static_links_anchors_privacy_http": "PASS all93 pages",
+    "article_metadata": "PASS noindex,nofollow; no phantom English alternate",
+    "local_http_headers": "PASS noindex,nofollow",
+    "sitemap": "PASS still88 public URLs; local drafts excluded",
+    "mobile": "Native browser responsive emulation at320 and390; no horizontal overflow; not a physical handset test",
+    "article_case_return": "Inventory → P10 → related P09 → original article; knowledge article → P36 → original article; PASS",
+    "existing_service_case_return": "FDE service → P10 returns to service proof; PASS",
+    "consultation": "Article consultation link opens local about#contact; public contact methods present; no email/phone/WhatsApp message sent",
+    "console": "No console errors in checked local article-list tab",
+    "historical_service_seo_script": "Content/schema/link assertions passed; later historical20261016 asset-baseline assertion fails on previously changed styles.css; not counted as full pass"
+  },
+  "changed_source_files": [
+    "content/articles.json",
+    "scripts/articles.py",
+    "templates/article.html",
+    "assets/articles.css",
+    "scripts/build.py",
+    "scripts/pages.py",
+    "scripts/components.py",
+    "scripts/seo.py",
+    "templates/home.html",
+    "assets/page-version.js",
+    "site.yaml"
+  ],
+  "source_sha256": {
+    "content/articles.json": "3cfbae8231ce9f66ead3dc4508facd8b21e0f6be11b20d9b19a84ffbb27c76b4",
+    "scripts/articles.py": "20c9748e221896df114d4f2cfe9ffd9f2e446361fb7619c6eb359606d9723cf3",
+    "templates/article.html": "5c80e2e2d4d5a3be2466352247b2dc745d7a1eadc8e1c38c9c37b79c41f75563",
+    "assets/articles.css": "4ab49d1e0f323989fc6ee7231a6e8d3290cb374d794c5adb6ccea9f141d1aa41",
+    "scripts/build.py": "2eabb3a4e0c199614442574cedf1951fababc1aba864e64ae3ed54d0a3e2a7a4",
+    "scripts/pages.py": "ef510668232ee8eadccf12d3af522231acafd16157a0a27a4fdf5daee4d3315d",
+    "scripts/components.py": "008afed2827925cd035ba9b4b2bec062f98237a71a6209f797d4db31e2ee65d3",
+    "scripts/seo.py": "7cd458772bd3a1f0dd4272e6333cd16bb5c51224c7ea85df5e88e9275f5579ad",
+    "templates/home.html": "f65c165bc0a09d1834f3b837f9d161b4e13aa585bee4da22dfd3bb195f621ec8",
+    "assets/page-version.js": "e3e80c78af181bf1c9eebe5e87b61e77a4304891a964c388d2918ebf674c26a8",
+    "site.yaml": "2f9d053fd1bf4701ecb0729ad2ee56910ea08921728d5f87909e6eb1305f1c24"
+  },
+  "production_changes": 0,
+  "deployments": 0,
+  "index_submissions": 0,
+  "dependencies_added": 0,
+  "browser_viewport": "RESET",
+  "retained_files": "Task source, before snapshots, baseline and QA screenshots are all needed for review; no cleanup",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

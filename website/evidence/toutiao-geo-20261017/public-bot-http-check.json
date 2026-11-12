@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-17T07:05:30.257125+00:00",
+  "url": "https://www.eliai.cn/services/fde-consulting.html",
+  "checks": [
+    {
+      "user_agent": "OAI-SearchBot",
+      "robots_allows": true,
+      "status": 200,
+      "bytes": 37755,
+      "x_robots_tag": null,
+      "body_has_price": true,
+      "body_has_service": true
+    },
+    {
+      "user_agent": "PerplexityBot",
+      "robots_allows": true,
+      "status": 200,
+      "bytes": 37755,
+      "x_robots_tag": null,
+      "body_has_price": true,
+      "body_has_service": true
+    }
+  ],
+  "limitation": "User-Agent-only requests do not prove native crawler IP reachability, indexing, AI tool access or citation; actual platform tests recorded separately"
+}

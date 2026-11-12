@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/USER/Documents/原点向量/个人网站/website/scripts/check_seo.py", line 47, in <module>
+    load_config(fixture)
+  File "/Users/USER/Documents/原点向量/个人网站/website/scripts/seo.py", line 26, in load_config
+    lessons_zh, lessons_en = load_tutorials(root)
+  File "/Users/USER/Documents/原点向量/个人网站/website/scripts/tutorials.py", line 15, in load_tutorials
+    source = json.loads((root/'content/tutorials/sources.json').read_text())
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/pathlib.py", line 1256, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/pathlib.py", line 1242, in open
+    return io.open(self, mode, buffering, encoding, errors, newline,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/pathlib.py", line 1110, in _opener
+    return self._accessor.open(self, flags, mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/portfolio-seo-check-ese036se/content/tutorials/sources.json'

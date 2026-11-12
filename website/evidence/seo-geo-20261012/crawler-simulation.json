@@ -1,0 +1,64 @@
+{
+  "scope": "Local HTTP user-agent simulations only; not real crawler or browser visits",
+  "requests": 32,
+  "checks": [
+    {
+      "path": "index.html",
+      "same_html_for_agents": true,
+      "agents": [
+        "Mozilla/5.0",
+        "Baiduspider",
+        "bingbot",
+        "Googlebot",
+        "Sogou web spider",
+        "360Spider",
+        "OAI-SearchBot",
+        "PerplexityBot"
+      ]
+    },
+    {
+      "path": "records.html",
+      "same_html_for_agents": true,
+      "agents": [
+        "Mozilla/5.0",
+        "Baiduspider",
+        "bingbot",
+        "Googlebot",
+        "Sogou web spider",
+        "360Spider",
+        "OAI-SearchBot",
+        "PerplexityBot"
+      ]
+    },
+    {
+      "path": "about.html",
+      "same_html_for_agents": true,
+      "agents": [
+        "Mozilla/5.0",
+        "Baiduspider",
+        "bingbot",
+        "Googlebot",
+        "Sogou web spider",
+        "360Spider",
+        "OAI-SearchBot",
+        "PerplexityBot"
+      ]
+    },
+    {
+      "path": "cases/p36.html",
+      "same_html_for_agents": true,
+      "agents": [
+        "Mozilla/5.0",
+        "Baiduspider",
+        "bingbot",
+        "Googlebot",
+        "Sogou web spider",
+        "360Spider",
+        "OAI-SearchBot",
+        "PerplexityBot"
+      ]
+    }
+  ],
+  "cloaking": "NONE",
+  "indexing": "DISABLED"
+}

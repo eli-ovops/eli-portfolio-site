@@ -1,0 +1,184 @@
+- navigation "主导航":
+  - link "Perplexity":
+    - /url: /
+    - img "Perplexity"
+  - link "新建":
+    - /url: /
+  - generic: 新建
+  - link "Computer":
+    - /url: /computer/tasks
+  - generic: Computer
+  - link "自动化":
+    - /url: /computer/automations
+  - generic: 自动化
+  - link "工件":
+    - /url: /computer/artifacts
+  - generic: 工件
+  - link "自定义":
+    - /url: /computer/connectors
+  - generic: 自定义
+  - link "项目":
+    - /url: /projects
+  - generic: 项目
+  - link "最近":
+    - /url: /library
+  - generic: 最近
+  - button "升级计划":
+  - button "Eli Chao":
+    - generic: Eli Chao
+  - separator "调整侧边栏宽度"
+- main:
+  - tablist "回答模式标签页":
+    - tab "答案" [selected]:
+      - text: 答案
+    - tab "链接":
+      - text: 链接
+    - tab "图片":
+      - text: 图片
+  - button "会话操作":
+  - button "分享":
+    - generic: 分享
+  - button "下载 Comet":
+    - generic: 下载 Comet
+  - generic: 17:38
+  - button "编辑查询":
+  - button "复制查询":
+  - paragraph: 请联网查找适合完全不懂技术的中小企业老板看的中文入门文章，分别回答三个问题：1.库存每天靠人工核对，先改哪一步？2.企业资料分散，做知识库答疑前要准备什么？3.AI Agent 是什么，新手如何安全试一件小任务？每题只选1篇有实际步骤的文章，给出真实标题、可点击的原文链接和一条具体步骤。不要编造来源。
+  - button "已研究 3秒":
+    - generic "已研究"
+    - generic: 3秒
+  - paragraph: 以下每题只选一篇面向非技术中小企业老板、且有可执行步骤的中文文章；链接均为检索到的真实原文。
+  - heading "1. 库存每天人工核对：先改哪一步？" [level=2]
+  - paragraph:
+    - strong: 先改“造成最多返工的那一类库存记录”
+    - text: ，不要一上来就买系统或全面盘点。文章建议先选定一个记录类别——例如收货差异、移动确认、循环盘点、调整或补货申请——再明确它的必填字段、负责人、状态、截止日期和凭证要求。
+    - generic "库存管理：定义、流程与方法":
+      - link "可信域名 jodoo":
+        - /url: https://www.jodoo.com/zh-cn/ai/guides/inventory-management
+        - img "可信域名":
+        - generic: jodoo
+  - list:
+    - paragraph:
+      - strong: 文章标题
+      - text: ：《库存管理：定义、流程与方法》
+    - paragraph:
+      - strong: 原文链接
+      - text: ：
+      - generic "库存管理：定义、流程与方法":
+        - link "https://www.jodoo.com/zh-cn/ai/guides/inventory-management":
+          - /url: https://www.jodoo.com/zh-cn/ai/guides/inventory-management
+    - paragraph:
+      - strong: 一条具体步骤
+      - text: ：先找出每天最常引起返工的记录，例如“收货差异”；为它固定记录“预计数量、实收数量、损坏/缺失数量、照片、供应商、采购订单和到货时间”，并规定只有验收合格的数量才转为可用库存。
+      - generic "库存管理：定义、流程与方法":
+        - link "可信域名 jodoo":
+          - /url: https://www.jodoo.com/zh-cn/ai/guides/inventory-management
+          - img "可信域名":
+          - generic: jodoo
+  - heading "2. 企业资料分散：做知识库答疑前准备什么？" [level=2]
+  - paragraph:
+    - strong: 先做知识盘点，而不是直接把文件批量上传。
+    - text: 文章指出，第一步要弄清资料在哪里、哪些是正式来源、是否存在重复或过期版本、缺少哪些资料、谁负责维护，以及谁能查看。
+    - generic "企业知识库怎么建：从资料盘点到持续运营 | PMSOLO":
+      - link "pmsolo":
+        - /url: https://www.pmsolo.com/knowledge-base-beyond-upload/
+        - generic: pmsolo
+  - list:
+    - paragraph:
+      - strong: 文章标题
+      - text: ：《企业知识库怎么建：从资料盘点到持续运营》
+    - paragraph:
+      - strong: 原文链接
+      - text: ：
+      - generic "企业知识库怎么建：从资料盘点到持续运营 | PMSOLO":
+        - link "https://www.pmsolo.com/knowledge-base-beyond-upload/":
+          - /url: https://www.pmsolo.com/knowledge-base-beyond-upload/
+    - paragraph:
+      - strong: 一条具体步骤
+      - text: ：选定一个答疑场景后，为每份权威资料补齐“来源、版本、生效时间、负责人和权限”，再导入；导入后抽查解析与切片，确认关键条件没有丢失。
+      - generic "企业知识库怎么建：从资料盘点到持续运营 | PMSOLO":
+        - link "pmsolo":
+          - /url: https://www.pmsolo.com/knowledge-base-beyond-upload/
+          - generic: pmsolo
+  - heading "3. AI Agent 是什么？新手怎样安全试一件小任务？" [level=2]
+  - paragraph:
+    - strong: AI Agent 是能围绕一个目标，规划多步动作、调用工具并交付可检查成果的工作方式
+    - text: ；它不只是回答问题，但涉及账号、敏感数据、外部发布或不可逆写入时，必须保留权限和人工确认节点。
+    - generic "AI 办公Agent 是什么？它如何从回答问题走向执行任务- 飞书官网":
+      - link "可信域名 feishu":
+        - /url: https://www.feishu.cn/content/article/7667878385099557850
+        - img "可信域名":
+        - generic: feishu
+  - list:
+    - paragraph:
+      - strong: 文章标题
+      - text: ：《AI 办公Agent 是什么？它如何从回答问题走向执行任务》
+    - paragraph:
+      - strong: 原文链接
+      - text: ：
+      - generic "AI 办公Agent 是什么？它如何从回答问题走向执行任务- 飞书官网":
+        - link "https://www.feishu.cn/content/article/7667878385099557850":
+          - /url: https://www.feishu.cn/content/article/7667878385099557850
+    - paragraph:
+      - strong: 一条具体步骤
+      - text: ：第一次不要追求全自动；选一个低风险、耗时但高频的任务，提供脱敏后的真实材料和优秀样例，并写明允许访问的范围、禁止动作和必须人工确认的节点。
+      - generic "AI 办公Agent 是什么？它如何从回答问题走向执行任务- 飞书官网":
+        - link "可信域名 feishu":
+          - /url: https://www.feishu.cn/content/article/7667878385099557850
+          - img "可信域名":
+          - generic: feishu
+  - paragraph:
+    - text: 一个适合老板的第一件小任务示例：让 Agent 把本周客户咨询按“产品咨询、售后、物流”分类，只生成一份
+    - strong: 待人工确认的分类草稿
+    - text: ，不允许它直接回复客户或修改任何业务系统。
+    - generic "AI 办公Agent 是什么？它如何从回答问题走向执行任务- 飞书官网":
+      - link "可信域名 feishu":
+        - /url: https://www.feishu.cn/content/article/7667878385099557850
+        - img "可信域名":
+        - generic: feishu
+  - button "复制":
+  - button "分享":
+  - button "有帮助":
+  - button "没有帮助":
+  - button "复刻":
+  - button "25 个来源":
+    - text: 25 个来源
+  - button "更多操作":
+  - button "针对第一步的库存表字段怎么设计"
+  - text: 针对第一步的库存表字段怎么设计
+  - button "企业知识库第一批资料选哪个部门"
+  - text: 企业知识库第一批资料选哪个部门
+  - button "有哪些适合中小企业的AI小任务"
+  - text: 有哪些适合中小企业的AI小任务
+  - button "怎么给AI设置安全底线和权限"
+  - text: 怎么给AI设置安全底线和权限
+  - button "有没有具体的库存表格模板可以参考"
+  - text: 有没有具体的库存表格模板可以参考
+  - button "收起面板":
+  - button "来源 25":
+    - generic: 来源
+    - text: "25"
+  - button "滚动到末尾":
+    - generic: ⠏
+  - generic: 使用 Computer 寻找更实用的中文 AI 入门文章
+  - generic: Computer 可以协助查找并整理适合中小企业新手的文章与实操步骤。
+  - button "运行任务":
+    - generic: 运行任务
+  - button "关闭":
+  - status:
+    - generic: 您正处于隐身模式。
+    - button "退出隐身模式":
+      - generic: 退出无痕模式
+  - textbox [active]:
+    - paragraph
+  - generic: 提出后续问题
+  - button "添加文件或工具":
+  - button "搜索" [pressed]:
+    - text: 搜索
+  - button "Computer":
+    - text: Computer
+  - button "模型":
+    - generic: 模型
+  - button "语音输入":
+  - button "提交" [disabled]:
+- listbox "Typeahead menu"

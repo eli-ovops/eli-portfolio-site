@@ -1,0 +1,83 @@
+- link "Logo":
+  - /url: /sites/
+- list:
+  - combobox "https://www.eliai.cn"
+  - link:
+    - /url: /sites/add/
+  - textbox "Search"
+- list:
+  - link "Summary":
+    - /url: /site/https:www.eliai.cn:443/dashboard/?_from=menu
+    - generic: Summary
+  - button "Website optimization":
+    - generic: Website optimization
+  - button "Efficiency":
+    - generic: Efficiency
+  - button "Indexing":
+    - generic: Indexing
+  - button "Tools":
+    - generic: Tools
+  - button "Your website in Yandex search":
+    - generic: Your website in Yandex search
+  - button "Links":
+    - generic: Links
+  - link "Tutorials":
+    - /url: /site/https:www.eliai.cn:443/education/?_from=menu
+    - generic: Tutorials
+- button
+- button "Ваш профиль":
+- button
+- link:
+  - /url: /notifications/
+- button:
+- button:
+- heading "Pages in Search" [level=2]
+- generic: Working to get everything working again ❤️
+- generic: Charts and report export are temporarily unavailable in the Searchable pages tool. Data may not be updated or may be updated with a delay. Our engineers are working to restore full functionality as soon as possible.
+- link "More about the situation":
+  - /url: https://yandex.ru/company/news/09-10-2026-01
+- link "More about the situation":
+  - /url: https://yandex.ru/company/news/09-10-2026-01
+- combobox:
+  - generic: https://www.eliai.cn
+- radiogroup:
+  - radio "Latest changes" [checked]
+  - generic: Latest changes
+  - radio "All pages" [disabled]
+  - generic: All pages
+  - radio "Excluded pages" [disabled]
+  - generic: Excluded pages
+- table:
+  - rowgroup:
+    - row "Updated Status and URL Last access Title Source":
+      - columnheader "Updated":
+        - generic: Updated
+      - columnheader "Status and URL":
+        - generic: Status and URL
+      - columnheader "Last access":
+        - generic: Last access
+      - columnheader "Title":
+        - generic: Title
+      - columnheader "Source"
+  - rowgroup:
+    - row "No changes to page indexing":
+      - cell "No changes to page indexing":
+        - generic: No changes to page indexing
+- generic: Download table
+- button "XLS" [disabled]:
+  - generic: XLS
+- button "CSV" [disabled]:
+  - generic: CSV
+- link "User Agreement":
+  - /url: https://yandex.com/legal/webmaster_termsofuse/?utm_source=webmaster&utm_medium=interface&utm_campaign=footer&utm_content=site_indexing_searchable
+- link "Privacy Policy":
+  - /url: https://yandex.com/legal/confidential/?utm_source=webmaster&utm_medium=interface&utm_campaign=footer&utm_content=site_indexing_searchable
+- link "en":
+    - /url: [private-support-link-redacted]
+  - generic: en
+- link "ru":
+    - /url: [private-support-link-redacted]
+  - generic: ru
+- generic: © 2004–2026
+- link "Yandex LLC":
+  - /url: https://yandex.com

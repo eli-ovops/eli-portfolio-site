@@ -1,0 +1,28 @@
+{
+  "status": "PREPARED_NOT_PUBLISHED",
+  "revision": "1884526158ef3680b12f",
+  "public_files": 365,
+  "html_pages": 296,
+  "semantic_html_changes": [
+    "en/services/ai-agent.html",
+    "en/services/fde-consulting.html",
+    "en/services/workflow-automation.html",
+    "services/ai-agent.html",
+    "services/fde-consulting.html",
+    "services/workflow-automation.html"
+  ],
+  "other_page_content_unchanged": 290,
+  "changed_non_html": [
+    "llms.txt",
+    "sitemap.xml"
+  ],
+  "sitemap_urls": 294,
+  "verification_files_preserved": 6,
+  "visual_motion_assets_unchanged": true,
+  "package_bytes": 10591940,
+  "package_sha256": "b6f5cd024156047891348e5c3459896e6689e23a30bffa4ca69ac9239c07ace6",
+  "production_current_state": "PREFLIGHT_REQUIRED",
+  "deployments": 0,
+  "uploads": 0,
+  "search_submissions": 0
+}

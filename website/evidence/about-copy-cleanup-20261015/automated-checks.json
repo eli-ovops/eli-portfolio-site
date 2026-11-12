@@ -1,0 +1,32 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "8583a5",
+      "wall_time_seconds": 0.666802084,
+      "exit_code": 0,
+      "original_token_count": 106,
+      "output": "{\n  \"date\": \"2026-10-06\",\n  \"version\": \"0.11.0\",\n  \"html_pages_checked\": 84,\n  \"internal_links\": \"PASS\",\n  \"fragment_links\": \"PASS\",\n  \"one_h1_per_page\": \"PASS\",\n  \"private_paths_in_output\": \"NONE\",\n  \"http_pages\": \"PASS\",\n  \"source_and_directory_exposure\": \"BLOCKED_404\",\n  \"retired_experiments_page\": \"404\",\n  \"public_customer_identifiers\": \"NONE_IN_HTML_ATTRIBUTES_JS_CSS_MANIFEST\",\n  \"raw_customer_asset_urls\": \"404\"\n}\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "46f1f3",
+      "wall_time_seconds": 0.023118375,
+      "exit_code": 0,
+      "original_token_count": 61,
+      "output": "{\n  \"english_pages\": 42,\n  \"chinese_pages\": 42,\n  \"visitor_copy\": \"English; Chinese only in language switch and verified official ICP number\",\n  \"same_page_switches\": \"PASS\",\n  \"asset_and_srcset_paths\": \"PASS\",\n  \"project_translations\": 38\n}\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "chunk_id": "125f8d",
+      "wall_time_seconds": 0.062185625,
+      "exit_code": 0,
+      "original_token_count": 168,
+      "output": "{\n  \"html_pages\": 84,\n  \"unique_titles\": 84,\n  \"unique_descriptions\": 84,\n  \"paired_hreflang\": \"PASS\",\n  \"self_canonical\": \"PASS\",\n  \"structured_data\": \"82 valid JSON graphs\",\n  \"same_as_existing_profiles\": \"PASS\",\n  \"project_lists\": \"2 x 38\",\n  \"case_breadcrumbs\": 76,\n  \"visible_bilingual_questions\": \"PASS\",\n  \"visible_service_consistency\": \"2 x 4 Service nodes PASS\",\n  \"faq_consistency\": \"2 x 3 answers PASS\",\n  \"ai_context\": \"PUBLIC same-source context PASS\",\n  \"share_images\": \"Existing visitor images only\",\n  \"candidate_sitemap_urls\": 82,\n  \"indexing\": \"ENABLED\",\n  \"body_scope\": \"Not compared; no batch baseline supplied\",\n  \"future_domain_dry_run\": \"PASS\"\n}\n"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "dist/index.html": true,
+  "dist/en/index.html": true,
+  "styles.css": true,
+  "motion.js": true,
+  "assets/depth-gallery.js": true
+}

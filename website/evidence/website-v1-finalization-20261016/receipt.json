@@ -1,0 +1,43 @@
+{
+  "time": "2026-10-16T07:34:26.402438+00:00",
+  "status": "LOCAL_V1_CANDIDATE_CHECKED_AWAITING_USER_VISUAL_ACCEPTANCE",
+  "revision": "f8690e826c7334c83a71",
+  "production_changed": false,
+  "production_baseline": "178520c8fe26246e904b",
+  "source_changes": [
+    "assets/page-version.js",
+    "assets/depth-gallery.js",
+    "scripts/check_home_case_return.cjs"
+  ],
+  "already_approved_local_changes": "Project labels/facet explanation/type/mobile grid/spacing and short About workflow lines included from existing source; llms regenerated from visible service source.",
+  "new_defect": "Explicit homepage case return previously landed on records. Unified owner now carries clean homepage source and selected project through related cases.",
+  "verification": {
+    "build": "90HTML/38 records PASS",
+    "static": "90 pages, internal references, anchors, privacy/404 checks PASS; script has legacy constant date, execution time is this receipt",
+    "localization": "45 bilingual pairs PASS",
+    "seo": "90 unique titles/descriptions,88 canonical/sitemap routes, visible/schema/context consistency PASS",
+    "unit_regressions": [
+      "home_case_return RED before fix/GREEN after",
+      "navigation_version",
+      "return_owner",
+      "related_return",
+      "service_return",
+      "first_pointer",
+      "search_reset",
+      "home_entry",
+      "analytics"
+    ],
+    "browser": "browser-final.json plus initial layout checks in browser-checks.json; same CSS and content markup retained across navigation-only correction",
+    "archive": "155files/5verification files/all tar member hashes PASS",
+    "style": "CSS hashes unchanged this turn; no active backdrop-filter declarations; finite workflow lines and continuous gallery operation checked"
+  },
+  "limits": [
+    "Mobile browser viewports rather than real phones",
+    "No all-engine or FPS/load performance certification",
+    "No new independent case-result audit",
+    "Baidu conversion backend summary remains a separate unresolved item"
+  ],
+  "user_next_action": "Review local V1 candidate appearance; no publication performed or requested here",
+  "manifest": "v1-manifest.json",
+  "artifacts": "Known source backups, initial superseded candidate, final candidate, archives, hashes, browser checks/screenshots retained. Only16 known generated copies removed from this task initial candidate; original sources and dist untouched. df available increased9800KiB during cleanup; concurrent activity prevents exact attribution. No other cleanup."
+}

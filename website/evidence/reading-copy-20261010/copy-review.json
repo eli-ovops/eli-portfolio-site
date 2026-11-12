@@ -1,0 +1,66 @@
+{
+  "all38_reviewed": true,
+  "changed": [
+    {
+      "id": "P02",
+      "story_chars_before": 148,
+      "story_chars_after": 117
+    },
+    {
+      "id": "P03",
+      "story_chars_before": 136,
+      "story_chars_after": 117
+    },
+    {
+      "id": "P04",
+      "story_chars_before": 141,
+      "story_chars_after": 117
+    },
+    {
+      "id": "P05",
+      "story_chars_before": 195,
+      "story_chars_after": 161
+    },
+    {
+      "id": "P09",
+      "story_chars_before": 251,
+      "story_chars_after": 218
+    },
+    {
+      "id": "P10",
+      "story_chars_before": 319,
+      "story_chars_after": 230
+    },
+    {
+      "id": "P12",
+      "story_chars_before": 308,
+      "story_chars_after": 243
+    },
+    {
+      "id": "P13",
+      "story_chars_before": 125,
+      "story_chars_after": 116
+    },
+    {
+      "id": "P15",
+      "story_chars_before": 389,
+      "story_chars_after": 268
+    },
+    {
+      "id": "P36",
+      "story_chars_before": 564,
+      "story_chars_after": 325
+    }
+  ],
+  "preserved": "All projects.json fields except publicStory/processSummary; internal caseStudy, roleConfirmation, status and image fields preserved",
+  "measurement": "Chinese publicStory text characters only, not reading speed or all rendered page copy",
+  "gallery_process_ids": [
+    "P02",
+    "P04",
+    "P05",
+    "P09",
+    "P10",
+    "P12",
+    "P36"
+  ]
+}

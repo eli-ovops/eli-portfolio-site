@@ -1,0 +1,116 @@
+Browser tab: 9, Title: "库存核对与重复录入自动化｜中小企业流程提效 - Eli", URL: "http://127.0.0.1:4178/services/workflow-automation.html#service-proof".
+1 AXWebArea 库存核对与重复录入自动化｜中小企业流程提效 - Eli, URL: 127.0.0.1:4178/services/workflow-automation.html#service-proof
+	2 link Description: 跳到正文, Value: 127.0.0.1:4178/services/workflow-automation.html#main
+	3 container
+		4 link Description: Eli首页, Value: 127.0.0.1:4178/index.html
+		5 container 主导航
+			6 link Description: 首页, Value: 127.0.0.1:4178/index.html
+			7 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+			8 link Description: 文章, Value: 127.0.0.1:4178/articles.html
+			9 link Description: 关于, Value: 127.0.0.1:4178/about.html
+			10 link Description: 切换到英文版, Value: 127.0.0.1:4178/en/services/workflow-automation.html
+	11 container main
+		12 link Description: ← 返回业务场景, Value: 127.0.0.1:4178/index.html#needs
+		13 text 企业 AI 服务
+		14 heading 库存核对与重复录入自动化, Value: 1
+			15 text 库存核对与重复录入自动化
+		16 text 同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。
+		17 text 可约定的交付
+		18 content list
+			19 container
+				20 text ↳ 一项流程的改造方案
+			21 container
+				22 text ↳ 可试用的工具或软件
+			23 container
+				24 text ↳ 核对方法与使用说明
+		25 container service-proof
+			26 text 相关经验：主导扫码库存开发，处理入出库、重复提交与撤销纠错。
+			27 link Description: 看扫码库存案例 ↗, Value: 127.0.0.1:4178/cases/p09.html
+		28 link Description: 免费聊聊录入和库存核对问题 ↗, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1
+		29 link Description: 更多相关案例 ↓, Value: 127.0.0.1:4178/services/workflow-automation.html#cases
+		30 container
+			31 heading 内容导航, Value: 2
+				32 text 内容导航
+			33 container 内容导航
+				34 link Description: 先改哪一步？, Value: 127.0.0.1:4178/services/workflow-automation.html#priority
+				35 link Description: 录入与库存核对, Value: 127.0.0.1:4178/services/workflow-automation.html#inventory
+				36 link Description: 产品资料、文案和配图整理, Value: 127.0.0.1:4178/services/workflow-automation.html#content
+				37 link Description: 怎样验证提效，避免只多一个工具？, Value: 127.0.0.1:4178/services/workflow-automation.html#acceptance
+				38 link Description: 库存与内容工作流案例, Value: 127.0.0.1:4178/services/workflow-automation.html#cases
+				39 link Description: 开始前常见问题, Value: 127.0.0.1:4178/services/workflow-automation.html#questions
+		40 container priority
+			41 heading 先改哪一步？, Value: 2
+				42 text 先改哪一步？
+			43 text 优先看每天都做、规则相对明确、输入输出可核对的工作。先记录谁负责、每次花多久、哪里返工，再找出重复搬运资料或人工核对的位置。
+			44 text 企业降本增效要看总投入：工具费、员工学习时间、系统连接和维护都算成本。自动化一小步如果更好用，可以先停在这里，不必为了 AI 增加流程。
+		45 container inventory
+			46 heading 录入与库存核对, Value: 2
+				47 text 录入与库存核对
+			48 text 适合先讨论同一份资料重复填写、入库移库出库的记录分散、盘点后人工对账等问题。先确认业务规则与权限，再判断使用现成工具还是开发库存软件。
+			49 text 数量、单据和流水必须能核对；撤销、更正和操作记录也要有明确做法。规则确定的部分优先使用软件校验，需要理解非结构化内容时再评估 AI。
+		50 container content
+			51 heading 产品资料、文案和配图整理, Value: 2
+				52 text 产品资料、文案和配图整理
+			53 text 把产品事实、规格与可复用素材集中整理，再讨论 AI 是否适合辅助生成文案初稿或准备图片。内容发布前，价格、规格和品牌表述仍由负责人确认。
+			54 text 先试一类产品或一个渠道，检查资料是否完整、输出是否需要反复修改。生成内容、人工审核和正式发布是不同步骤，分别确认是否可用。
+		55 container acceptance
+			56 heading 怎样验证提效，避免只多一个工具？, Value: 2
+				57 text 怎样验证提效，避免只多一个工具？
+			58 text 选择同类任务比较改造前后的处理时间、重复录入与返工情况，同时核对结果正确性。员工能否理解、出现错误能否恢复，也属于验收。
+			59 text 先约定试用范围和成本，再按结果决定是否扩展。可以从 WorkBuddy 等现成工具的使用方式开始；需要定制开发、培训或后续维护时，另行确认费用。
+		60 container cases
+			61 heading 库存与内容工作流案例, Value: 2
+				62 text 库存与内容工作流案例
+			63 text 库存项目与内容工具展示不同的工作方式。各案例分别说明个人职责、交付状态和验证范围，不把内容生成等同于全自动发布。
+			64 heading 洁具行业某大型 B 端厂商库存管理系统 ↗, Value: 3
+				65 link Description: 洁具行业某大型 B 端厂商库存管理系统 ↗, Value: 127.0.0.1:4178/cases/p10.html
+			66 text 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。
+			67 heading 某家具品牌扫码库存系统 ↗, Value: 3
+				68 link Description: 某家具品牌扫码库存系统 ↗, Value: 127.0.0.1:4178/cases/p09.html
+			69 text 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。
+			70 heading 织境 · AI 内容工作台 ↗, Value: 3
+				71 link Description: 织境 · AI 内容工作台 ↗, Value: 127.0.0.1:4178/cases/p12.html
+			72 text 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。
+		73 container questions
+			74 heading 开始前常见问题, Value: 2
+				75 text 开始前常见问题
+			76 heading 企业提效一定要用 AI 吗？, Value: 3
+				77 text 企业提效一定要用 AI 吗？
+			78 text 不一定。固定规则用表单、校验或普通软件可能更直接。先选适合业务的做法，再决定 AI 是否有帮助。
+			79 heading 能承诺节省多少时间或费用吗？, Value: 3
+				80 text 能承诺节省多少时间或费用吗？
+			81 text 需要用你的实际任务试用后判断。先定义比较口径，记录正确性、耗时与维护成本，再讨论可验证的改善。
+		82 container
+			83 heading 先聊一项具体工作, Value: 2
+				84 text 先聊一项具体工作
+			85 text 说说现在怎么做、哪一步最费时间、希望变成什么样。
+			86 link Description: 免费聊聊录入和库存核对问题 ↗, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-2
+		87 text 相关服务
+		88 container
+			89 link Description: 中小企业 AI 落地实施服务 ↗, Value: 127.0.0.1:4178/services/fde-consulting.html
+			90 text  · 
+			91 link Description: 企业知识库搭建与客服辅助答疑 ↗, Value: 127.0.0.1:4178/services/ai-agent.html
+	92 container
+		93 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/index.html
+		94 container 联系方式
+			95 text 邮箱
+			96 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			97 text 电话
+			98 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		99 container 页面导航
+			100 link Description: 项目库 ↗, Value: 127.0.0.1:4178/records.html
+			101 link Description: 回到顶部 ↑, Value: 127.0.0.1:4178/services/workflow-automation.html#main
+		102 container 社交主页
+			103 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			104 link Description: B站, Value: space.bilibili.com/432834855
+			105 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			106 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			107 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			108 link Description: X, Value: x.com/cczij1112
+			109 link Description: 微博, Value: weibo.com/u/7720929036
+			110 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			111 link Description: Instagram, Value: instagram.com/eliaifde/
+			112 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		113 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea 库存核对与重复录入自动化｜中小企业流程提效 - Eli, URL: 127.0.0.1:4178/services/workflow-automation.html#service-proof

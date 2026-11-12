@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-19T05:50:32.074937+00:00",
+  "source": "Cloudflare public DNS over HTTPS",
+  "domain": "www.eliai.cn",
+  "queries": [
+    {
+      "type": "A",
+      "status": 0,
+      "answers": [
+        {
+          "name": "www.eliai.cn",
+          "type": 1,
+          "TTL": 600,
+          "data": "[REDACTED_HOST]"
+        }
+      ]
+    },
+    {
+      "type": "AAAA",
+      "status": 0,
+      "answers": []
+    }
+  ],
+  "local_dns_note": "Local resolver returned [REDACTED_HOST]; this is not an authoritative public DNS result and was not treated as origin IP."
+}

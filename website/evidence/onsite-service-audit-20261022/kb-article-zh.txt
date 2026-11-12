@@ -1,0 +1,182 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: https://www.eliai.cn/en/articles/enterprise-knowledge-base.html
+      - text: EN
+- main:
+  - link "← 返回文章":
+    - /url: ../articles.html
+  - generic: 知识库与答疑
+  - paragraph:
+    - text: Eli · 写于
+    - time: 2026-10-17
+    - text: · 约 6 分钟
+  - heading "企业资料太散，做知识库答疑前要准备什么？" [level=1]:
+    - generic: 企业资料太散，做知识库答疑前要准备什么？
+  - paragraph: 规格在产品表里，售后规则在聊天记录里，同一个问题每天换个人问。知识库答疑可以从这类工作开始评估，但先要确定哪些资料可信、由谁更新，以及找不到答案时怎么办。
+  - paragraph: 先选一类资料和一组常见问题，验证能否找到依据、答对问题，并在没有依据时正确停止。
+  - complementary:
+    - heading "文章目录" [level=2]
+    - navigation "文章目录":
+      - link "先说明希望谁少找哪类资料":
+        - /url: "#start"
+      - link "我在品牌客服项目里负责的部分":
+        - /url: "#case-records"
+      - link "资料先整理四件事":
+        - /url: "#prepare"
+      - link "用实际会问的问题验收":
+        - /url: "#test"
+      - link "先估查找成本，再安排小范围试用":
+        - /url: "#estimate"
+      - link "第一次沟通，可以先说一个反复被问的问题":
+        - /url: "#contact"
+  - article:
+    - heading "先说明希望谁少找哪类资料" [level=2]
+    - paragraph: 给内部员工查操作说明，和给外部客户回答产品问题，需要的权限、用词与确认方式不同。先确定使用对象，再挑一类经常查找、资料相对完整的问题。
+    - paragraph: 知识库问答通常先检索资料，再根据找到的内容生成回答，这种做法常被称为 RAG。它是否有用，要看资料是否正确、检索是否找对，以及回答有没有越过资料能证明的范围。
+    - paragraph: 第一轮可以先做资料查找与辅助答疑。若还希望它改订单、更新库存或承诺退款，就需要单独评估接口、权限和人工确认。
+    - heading "我在品牌客服项目里负责的部分" [level=2]
+    - paragraph: 据现有项目说明，在英国某净水品牌的客服定制项目中，我负责知识库整理、检索配置与测试，协同团队从演示推进到客户确认和上线实测。版本备份、上线及升级回滚准备由团队负责。
+    - paragraph: 现有公开页面记录能展示客服初始界面、欢迎信息、快捷支持、问答输入和联系入口。它们不能单独证明回答准确率或节省了多少客服时间，这两项目前没有量化数据。
+    - paragraph: 案例详情中的问答内容已标明为 AI 拟写示意，不能拿来当真实客服对话或客户使用效果。真正判断回答质量，还需要实际问题、回答和引用资料之间的对应记录。
+    - navigation "相关案例":
+      - link "英国某净水品牌 RAG 智能客服定制 ↗":
+        - /url: ../cases/p36.html
+    - heading "资料先整理四件事" [level=2]
+    - paragraph: 不用第一天就把公司所有文档都放进去。先挑一个小主题，整理成能检查、能更新的资料集合。任何未经允许使用的文件，都不应直接拿来测试。
+    - list:
+      - listitem: 来源：产品参数、操作步骤和服务规则分别以哪份文件为准？
+      - listitem: 版本：谁维护，何时更新，旧版资料如何停用？
+      - listitem: 权限：哪些内容只给内部员工看，哪些可以对外回答？
+      - listitem: 边界：哪些问题能直接答，哪些要补问，哪些必须转人工？
+    - paragraph: 资料互相冲突时，应先请负责人确认，不让模型猜哪份是真的。知识库没有收录的内容，也不能因为回答听起来顺畅就当作事实。
+    - heading "用实际会问的问题验收" [level=2]
+    - paragraph: 可以先收集员工或客户经常问的问题，去掉个人信息，并请业务负责人写出可接受的答案依据。测试时把问题、回答、引用内容和人工判断放在一起看。
+    - list:
+      - listitem: 资料中有答案：能否找到正确文档，引用是否真正支持回答？
+      - listitem: 问题没说清：是否先问清型号、场景或必要条件？
+      - listitem: 资料里没有答案：是否说明无法确认，并指向负责人？
+      - listitem: 资料更新之后：旧版本是否被排除，回答是否跟着改变？
+    - paragraph: 开始时不必急着给出一个漂亮的准确率。先记录具体错在哪里：没找到资料、找错版本、理解有偏差，还是超出资料擅自承诺。不同问题需要不同修正。
+    - heading "先估查找成本，再安排小范围试用" [level=2]
+    - paragraph: 假设测算，不是品牌客服项目的实测数据
+    - paragraph: 假设团队每天需要查资料 20 次，每次平均 4 分钟，每月按 20 个工作日估算。这只是帮助理解工作量的示例，并非行业平均值或客户统计。
+    - term: 目前查找时间（假设）
+    - definition: 20 次 × 4 分钟 = 每天 80 分钟
+    - term: 若试用后实测为每次 2 分钟
+    - definition: 每天少 40 分钟
+    - term: 对应的月度时间差
+    - definition: 40 分钟 × 20 天 = 13 小时 20 分钟
+    - paragraph: 测量时，核对答案、发现错误和转人工的时间也要计入。若节省的查找时间被反复纠错抵消，就不能把这项试用称为提效。
+    - paragraph: 是否继续投入，还要结合工具订阅、资料维护、员工学习和实施成本判断。先用你们自己的任务测一轮，比套用别人的百分比更可靠。
+    - heading "第一次沟通，可以先说一个反复被问的问题" [level=2]
+    - paragraph: 例如：“我们有产品手册和售后说明，客服每天都要找同样的参数。想先看看能不能让员工更快找到出处。”这比先决定买哪种模型更容易明确试用范围。
+    - paragraph: 初次沟通免费。后续可先约定资料范围、典型问题、引用要求、人工接管和验收方式，再确认实施费用。复杂的系统连接、权限与持续维护需要另行评估。
+    - paragraph: 先用有权使用的脱敏资料。不要在初次沟通时发送账号密码、客户个人信息或未经处理的内部文件。
+  - heading "先聊一项具体工作" [level=2]
+  - paragraph: 说说现在怎么做、哪一步最费时间。初次沟通免费。
+  - link "免费聊聊 ↗":
+    - /url: ../about.html#contact
+  - link "了解知识库与答疑服务 ↗":
+    - /url: ../services/ai-agent.html
+  - region "继续阅读":
+    - heading "继续阅读" [level=2]
+    - article:
+      - generic: 库存与流程
+      - generic: 约 6 分钟
+      - heading "库存每天靠人工核对，先改哪一步？" [level=3]:
+        - link "库存每天靠人工核对，先改哪一步？":
+          - /url: ../articles/inventory-reconciliation.html
+      - paragraph: 从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。
+      - 'link "阅读: 库存每天靠人工核对，先改哪一步？"':
+        - /url: ../articles/inventory-reconciliation.html
+        - text: 阅读
+        - generic: ↗
+    - article:
+      - generic: AI 入门
+      - generic: 约 1 分钟阅读
+      - heading "AI 是什么？先从一件小事理解" [level=3]:
+        - link "AI 是什么？先从一件小事理解":
+          - /url: ../articles/what-is-ai.html
+      - paragraph: AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。
+      - 'link "阅读: AI 是什么？先从一件小事理解"':
+        - /url: ../articles/what-is-ai.html
+        - text: 阅读
+        - generic: ↗
+    - article:
+      - generic: AI 入门
+      - generic: 约 2 分钟阅读
+      - heading "AI 聊天和搜索引擎有什么区别？" [level=3]:
+        - link "AI 聊天和搜索引擎有什么区别？":
+          - /url: ../articles/ai-chat-vs-search.html
+      - paragraph: 搜索主要帮你找到网页，AI 聊天主要帮你组织答案。
+      - 'link "阅读: AI 聊天和搜索引擎有什么区别？"':
+        - /url: ../articles/ai-chat-vs-search.html
+        - text: 阅读
+        - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

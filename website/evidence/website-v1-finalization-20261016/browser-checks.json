@@ -1,0 +1,450 @@
+{
+  "time": "2026-10-16T07:28:38.608Z",
+  "revision": "7a22fe8d4bbc27b7e98f",
+  "checks": [
+    {
+      "label": "Desktop first category click",
+      "active": "客户项目",
+      "count": "9 项记录",
+      "documentWidth": 1425,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E",
+      "visible": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p05",
+        "project-p03",
+        "project-p07",
+        "project-p08"
+      ],
+      "width": 1440
+    },
+    {
+      "label": "Desktop client+inventory search",
+      "active": "客户项目",
+      "count": "2 项记录",
+      "documentWidth": 1440,
+      "query": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98",
+      "visible": [
+        "project-p10",
+        "project-p09"
+      ],
+      "width": 1440
+    },
+    {
+      "label": "Screenshot wheel background lock",
+      "backgroundScrollY": 0,
+      "open": true
+    },
+    {
+      "label": "Related case returns with query and category",
+      "active": "客户项目",
+      "count": "2 项记录",
+      "documentWidth": 1440,
+      "query": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98",
+      "visible": [
+        "project-p10",
+        "project-p09"
+      ],
+      "width": 1440
+    },
+    {
+      "label": "Quick first reset click",
+      "active": "全部",
+      "count": "38 项记录",
+      "documentWidth": 1425,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f",
+      "visible": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "width": 1440
+    },
+    {
+      "label": "Cleared filters stay cleared through related return",
+      "active": "全部",
+      "count": "38 项记录",
+      "documentWidth": 1425,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f",
+      "visible": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "width": 1440
+    },
+    {
+      "label": "Mobile catalog layout 390",
+      "active": "全部",
+      "count": "38 项记录",
+      "documentWidth": 390,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f",
+      "visible": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "width": 390
+    },
+    {
+      "label": "Mobile category first click",
+      "active": "网站与工具",
+      "count": "8 项记录",
+      "documentWidth": 390,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f&category=%E7%BD%91%E7%AB%99%E4%B8%8E%E5%B7%A5%E5%85%B7",
+      "visible": [
+        "project-p10",
+        "project-p09",
+        "project-p12",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p20"
+      ],
+      "width": 390
+    },
+    {
+      "label": "Mobile website search",
+      "active": "网站与工具",
+      "count": "2 项记录",
+      "documentWidth": 390,
+      "query": "官网",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f&category=%E7%BD%91%E7%AB%99%E4%B8%8E%E5%B7%A5%E5%85%B7&q=%E5%AE%98%E7%BD%91",
+      "visible": [
+        "project-p07",
+        "project-p11"
+      ],
+      "width": 390
+    },
+    {
+      "label": "Mobile browser Back keeps website search",
+      "active": "网站与工具",
+      "count": "2 项记录",
+      "documentWidth": 390,
+      "query": "官网",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f&category=%E7%BD%91%E7%AB%99%E4%B8%8E%E5%B7%A5%E5%85%B7&q=%E5%AE%98%E7%BD%91",
+      "visible": [
+        "project-p07",
+        "project-p11"
+      ],
+      "width": 390
+    },
+    {
+      "label": "Mobile quick reset after browser Back",
+      "active": "全部",
+      "count": "38 项记录",
+      "documentWidth": 390,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f",
+      "visible": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "width": 390
+    },
+    {
+      "label": "Mobile service proof and related return",
+      "slug": "fde-consulting",
+      "before": {
+        "documentWidth": 390,
+        "heading": "FDE 企业 AI 落地咨询",
+        "path": "/services/fde-consulting.html",
+        "width": 390
+      },
+      "firstBack": "http://127.0.0.1:4178/services/fde-consulting.html?pv=7a22fe8d4bbc27b7e98f#service-proof",
+      "after": {
+        "documentWidth": 390,
+        "hash": "#service-proof",
+        "path": "/services/fde-consulting.html",
+        "width": 390
+      },
+      "pass": true
+    },
+    {
+      "label": "Mobile service proof and related return",
+      "slug": "ai-agent",
+      "before": {
+        "documentWidth": 390,
+        "heading": "企业 AI Agent 与知识库应用",
+        "path": "/services/ai-agent.html",
+        "width": 390
+      },
+      "firstBack": "http://127.0.0.1:4178/services/ai-agent.html?pv=7a22fe8d4bbc27b7e98f#service-proof",
+      "after": {
+        "documentWidth": 390,
+        "hash": "#service-proof",
+        "path": "/services/ai-agent.html",
+        "width": 390
+      },
+      "pass": true
+    },
+    {
+      "label": "Mobile service proof and related return",
+      "slug": "workflow-automation",
+      "before": {
+        "documentWidth": 390,
+        "heading": "企业提效，从一项重复工作开始",
+        "path": "/services/workflow-automation.html",
+        "width": 390
+      },
+      "firstBack": "http://127.0.0.1:4178/services/workflow-automation.html?pv=7a22fe8d4bbc27b7e98f#service-proof",
+      "after": {
+        "documentWidth": 390,
+        "hash": "#service-proof",
+        "path": "/services/workflow-automation.html",
+        "width": 390
+      },
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "帮你的公司用好 AI从重复工作开始",
+      "path": "/index.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "项目索引",
+      "path": "/records.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "关于我",
+      "path": "/about.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "FDE 企业 AI 落地咨询",
+      "path": "/services/fde-consulting.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "企业 AI Agent 与知识库应用",
+      "path": "/services/ai-agent.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "企业提效，从一项重复工作开始",
+      "path": "/services/workflow-automation.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "320px template overflow",
+      "documentWidth": 320,
+      "h1": "Sanitaryware manufacturer inventory system",
+      "path": "/en/cases/p10.html",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "label": "About FAQ opens at320",
+      "documentWidth": 320,
+      "questionOpen": true,
+      "width": 320
+    },
+    {
+      "label": "Rapid About to Home then first gallery next/previous",
+      "next": {
+        "documentWidth": 320,
+        "position": "02 / 07"
+      },
+      "previous": {
+        "documentWidth": 320,
+        "position": "01 / 07"
+      }
+    },
+    {
+      "label": "Home consultation mobile320",
+      "contactTop": 451.421875,
+      "documentWidth": 320,
+      "hash": "#contact",
+      "path": "/about.html",
+      "width": 320
+    },
+    {
+      "label": "Home gallery case explicit return",
+      "back": "../records.html?pv=7a22fe8d4bbc27b7e98f",
+      "after": {
+        "hash": "",
+        "path": "/records.html"
+      }
+    }
+  ],
+  "consoleErrors": [
+    {
+      "level": "error",
+      "message": "AbortError: Transition was skipped. skipTransition() called",
+      "timestamp": "2026-10-16T07:28:38.477Z",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f"
+    }
+  ],
+  "limitations": "Browser-simulated320/390 mobile; no real phone, measured FPS, all-engine test or messages sent."
+}

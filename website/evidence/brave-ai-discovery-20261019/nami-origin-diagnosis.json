@@ -1,0 +1,101 @@
+{
+  "checked_at": "2026-10-19T05:47:20.673382+00:00",
+  "read_only": true,
+  "window_utc": [
+    "2026-10-19T05:30:00+00:00",
+    "2026-10-19T05:45:00+00:00"
+  ],
+  "logs": [
+    {
+      "name": "access.log",
+      "bytes": 1308014
+    },
+    {
+      "name": "access.log.1",
+      "bytes": 617886
+    }
+  ],
+  "target": "/services/fde-consulting.html",
+  "today_target_status_counts": {
+    "200": 10,
+    "206": 1
+  },
+  "window_target_requests": [
+    {
+      "utc": "2026-10-19T05:36:20+00:00",
+      "method": "GET",
+      "status": "200",
+      "bytes": "37905",
+      "user_agent": "Python-urllib/3.9",
+      "source_group": 1
+    },
+    {
+      "utc": "2026-10-19T05:36:58+00:00",
+      "method": "GET",
+      "status": "206",
+      "bytes": "1025",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36",
+      "source_group": 2
+    },
+    {
+      "utc": "2026-10-19T05:37:00+00:00",
+      "method": "HEAD",
+      "status": "200",
+      "bytes": "0",
+      "user_agent": "Python/3.12 aiohttp/3.11.18",
+      "source_group": 3
+    },
+    {
+      "utc": "2026-10-19T05:37:03+00:00",
+      "method": "HEAD",
+      "status": "200",
+      "bytes": "0",
+      "user_agent": "Python/3.12 aiohttp/3.11.18",
+      "source_group": 4
+    },
+    {
+      "utc": "2026-10-19T05:37:08+00:00",
+      "method": "HEAD",
+      "status": "200",
+      "bytes": "0",
+      "user_agent": "Python/3.12 aiohttp/3.11.18",
+      "source_group": 5
+    },
+    {
+      "utc": "2026-10-19T05:39:12+00:00",
+      "method": "GET",
+      "status": "200",
+      "bytes": "14449",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.54 Safari/537.36",
+      "source_group": 6
+    }
+  ],
+  "source_group_note": "Ephemeral equality groups only; not identities",
+  "claimed_nami_or_360_ua_today": [],
+  "bot_identity_verified": false,
+  "error_log_window_counts": {
+    "global_tls_errors_unattributed": 1
+  },
+  "error_time_interpretation": "Server local timezone converted to UTC",
+  "site_directives_present": {
+    "deny": false,
+    "allow": false,
+    "auth_basic": false,
+    "limit_req": false,
+    "limit_conn": false,
+    "if": false,
+    "proxy_pass": false,
+    "access_log": false,
+    "error_log": false
+  },
+  "site_config_sha256": "5570323d452fc558369ebe860076dea84ad4490bce7e7ed3dfcdad6b78e0f759",
+  "global_configs": [
+    {
+      "file": "/etc/nginx/nginx.conf",
+      "restriction_directives": [],
+      "log_format_contains_host": false
+    }
+  ],
+  "current_release": "/srv/eli-sites/portfolio/domain-releases/20261019-about-bio-0e8f1d0f",
+  "limitations": "Combined access logs omit host and Range; no official Nami IP/UA verification found."
+}

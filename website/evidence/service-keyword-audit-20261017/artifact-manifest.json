@@ -1,0 +1,194 @@
+{
+  "bing-fde-live-test.txt": {
+    "bytes": 304,
+    "sha256": "f50b6788ee9e9013d941fc4e45db5257e619ccaec78588bc63b19e28a068700e"
+  },
+  "bing-performance.txt": {
+    "bytes": 88,
+    "sha256": "9956c2dff3cf0e97a09daed6a1adc6f88497fea231fc7c7ed90a39efa268cd63"
+  },
+  "google-fde-inspection.png": {
+    "bytes": 60598,
+    "sha256": "db09de49a6beb79aa0fd642991f23ed8a3deb8667ca5d5927c2b9c920319bb9d"
+  },
+  "serp-bing-efficiency.json": {
+    "bytes": 11554,
+    "sha256": "05a11f5c96d0ed1754a19d250b4259f676758a5e65fb0ac40ee1c462923b66ce"
+  },
+  "google-sitemap-after.txt": {
+    "bytes": 976,
+    "sha256": "ebf5f4e29882a809817ecdcd3faedab330bd4252d07955f6ed6112abf8f64ebc"
+  },
+  "bing-fde-inspection.png": {
+    "bytes": 80801,
+    "sha256": "2e09392b133b9dbe041ed11a700d84bcc9884badb4d3e1e51bac2fe36476fbc5"
+  },
+  "serp-baidu-fde.png": {
+    "bytes": 98647,
+    "sha256": "2a7790b0ac1a1e3387342a9d388248c0f2c436e954ebb86df68f6fa6989747c5"
+  },
+  "baidu-index.txt": {
+    "bytes": 1702,
+    "sha256": "041e6b9272e7b44b8480f822423c965bcfc6d84e75a4321ea10269fc6046d727"
+  },
+  "serp-bing-fde.png": {
+    "bytes": 71922,
+    "sha256": "cddf45f8c9dae4c5a04ccf8ec5d641fb97259d134c0735d674e6156b46005d3f"
+  },
+  "google-workflow-inspection.txt": {
+    "bytes": 1539,
+    "sha256": "bcac6303df4d4ab3f81bd0bb88eb8c4208b06042489659aadccc016873f8527f"
+  },
+  "google-sitemap-before.png": {
+    "bytes": 47915,
+    "sha256": "04a1832803255fd0032bc7b73f764ac12a6686ab342423db94c06b126b64a900"
+  },
+  "serp-baidu-agent.png": {
+    "bytes": 100740,
+    "sha256": "e892b2e23fc43200b38d1cc3140366b6c000219fa03c6940a28eeaaef2a15234"
+  },
+  "report.md": {
+    "bytes": 5147,
+    "sha256": "1b1655626b825234f0162c7f6c581ab0324de97656a932e633259f4e5445cf62"
+  },
+  "bing-fde-live-test.png": {
+    "bytes": 64663,
+    "sha256": "e02996361e8f951a6d0922400a27238b9ba5b858804e9e21c2481646791e9a6f"
+  },
+  "bing-performance.png": {
+    "bytes": 42897,
+    "sha256": "e699ceec8bb85da8e9937b74cfe26e61ed42341ebf5a7fd994780d32d6a9a160"
+  },
+  "google-fde-inspection.txt": {
+    "bytes": 1521,
+    "sha256": "f55ddc70619e98c59c02d78249458a27ce87e6815f758255e7e7d3231880c150"
+  },
+  "protected-runtime-check.json": {
+    "bytes": 762,
+    "sha256": "617f449bbc435012adbe942ad4142f2e5ca836553ce9b9c565d5634165a4fe24"
+  },
+  "bing-fde-inspection.txt": {
+    "bytes": 662,
+    "sha256": "1e25dcd00a646125fc9834d7054aaaf4d3ff8dd7e9324ac41f2217e761708d66"
+  },
+  "baidu-index.png": {
+    "bytes": 113691,
+    "sha256": "d50d212f6746dfebb1641a418e3c7720ced4bee4090e13fde3d411fa821de1d0"
+  },
+  "google-workflow-inspection.png": {
+    "bytes": 60706,
+    "sha256": "831c4735c2d03f5ac4b0b8c7080eeeecd460d43f4111101073f1442c8be45460"
+  },
+  "public-search-summary.json": {
+    "bytes": 9564,
+    "sha256": "4e1b88179b3c91b82436fd5ac4abb87f458555f9cb742008a7339d3dc98cb3fc"
+  },
+  "serp-google-efficiency.png": {
+    "bytes": 66753,
+    "sha256": "517c6959c95db70ef491a74f02bd354b8dd309669eb4bd06d4e4d289c40f9b90"
+  },
+  "serp-bing-agent.png": {
+    "bytes": 82021,
+    "sha256": "86d893c816ab063543af267ad67ff8abb524a8d4f44d6293fa73a0008afcb020"
+  },
+  "serp-bing-fde.json": {
+    "bytes": 8869,
+    "sha256": "da27acc7ec7abfa0c8b32fcc0c88d7725757b6f5816a27b8f8b51fc135df7970"
+  },
+  "google-sitemap-before.txt": {
+    "bytes": 976,
+    "sha256": "2e037d0f7375a81a91c7cf4031643ea34306849426dfebd01e70ef8857d569f4"
+  },
+  "serp-baidu-agent.json": {
+    "bytes": 10635,
+    "sha256": "2be0b51ee5994145f0ab18092a1871af38ab517653c3130b5996236e4c4660c5"
+  },
+  "public-service-check.json": {
+    "bytes": 3317,
+    "sha256": "e0881d5a54397bf90e4588f4ce39755f41b94089b94950bc3a60d87f94fe1ece"
+  },
+  "serp-baidu-efficiency.png": {
+    "bytes": 94957,
+    "sha256": "534566e2cf3ba37083523db48419c3b1c7cfda7d1e5b66aba12cc312b589d6f8"
+  },
+  "serp-baidu-fde.json": {
+    "bytes": 10620,
+    "sha256": "501c715b44c0b9cf0b3dedbf4a9864a264f53923a9aae107add051323f84cd3d"
+  },
+  "google-sitemap-submitted.png": {
+    "bytes": 56479,
+    "sha256": "4789d278f414ddf30c057f0b979c23fc2c3949d091c70f2294863d58d69d3aab"
+  },
+  "google-agent-inspection.png": {
+    "bytes": 76919,
+    "sha256": "363fab2c5a36ca9718b61f181d9c3e37967ad256a34faec544f8414ebb2ce8f9"
+  },
+  "serp-google-agent.png": {
+    "bytes": 90983,
+    "sha256": "1eeef9764807bb09af259c82e4bd9cc38f1b2fc630ad809dfab2fb132b35caa9"
+  },
+  "serp-bing-efficiency.png": {
+    "bytes": 68183,
+    "sha256": "9bc9fb043db35f9ca757bbd2037f6bcab6dd4a3bc48503b326ccd9c796300c5e"
+  },
+  "google-performance-7d.png": {
+    "bytes": 67687,
+    "sha256": "f3146cc5d93c0ba4cff2ab0346b7f1a51aecab3766912b3a96bb6de1a4d5e4b5"
+  },
+  "baidu-pc-7d.txt": {
+    "bytes": 2068,
+    "sha256": "80178e1a46f6894ec75b58583b7d6e56463b7b7c1dd2c9bec9eb2e63318a2793"
+  },
+  "serp-google-fde.png": {
+    "bytes": 85759,
+    "sha256": "5f75cd2a41a70b2bc226cc39d030701b058db2fdd74b553cf496e7466c468868"
+  },
+  "baidu-mobile.txt": {
+    "bytes": 1864,
+    "sha256": "df4e72cd6a82c199ab526d739e82d10ae0defcd70eb0bbc3e548147b6eeb895e"
+  },
+  "google-sitemap-submitted.txt": {
+    "bytes": 1142,
+    "sha256": "8530ff36df2e77112ec7cb2ccef703a71852c267b0095a8f39962ef8ce8261cc"
+  },
+  "serp-baidu-efficiency.json": {
+    "bytes": 12707,
+    "sha256": "b18db2f6f7dd4b4f04d4312d0db00ef05955ac4e8cae7c681cb8844960215486"
+  },
+  "google-agent-inspection.txt": {
+    "bytes": 1515,
+    "sha256": "7c1e27f9c65cd4902794e5988887f9a97c517f14b4710da9cd025e08af2c9a39"
+  },
+  "serp-google-agent.json": {
+    "bytes": 4990,
+    "sha256": "e1059f978aef9b290db7f41d61ef8aac2ba057ac99524704a54838fe291f6255"
+  },
+  "serp-google-efficiency.json": {
+    "bytes": 5365,
+    "sha256": "9a167032e1f51a95f41ca248cd50fb436153634afe16be9adedd210928b2f43e"
+  },
+  "google-performance-7d.txt": {
+    "bytes": 1289,
+    "sha256": "43586f4120eca94895a89770398edc803dbfe8be9f5543cfbbffcfcc4081ba86"
+  },
+  "baidu-pc-7d.png": {
+    "bytes": 156813,
+    "sha256": "407d6f97a49791409e850e8508cf31c273d2fe9e4829c34c0e0e328d582dd437"
+  },
+  "serp-google-fde.json": {
+    "bytes": 5174,
+    "sha256": "947e4916c9acda759328762e4da814c751ff822c40f308904168e6d862b35549"
+  },
+  "receipt.json": {
+    "bytes": 2681,
+    "sha256": "df6c447774fd60c8480275b94047020f3a69fa640e9d770076f876242f5770b3"
+  },
+  "serp-bing-agent.json": {
+    "bytes": 10640,
+    "sha256": "d8a41dd6ead6617e4811eacc6cf16f46ec1acd46536cbdce106081df87537296"
+  },
+  "baidu-mobile.png": {
+    "bytes": 139375,
+    "sha256": "aae055c59edfb7714ca1e0c645a0df74c16ead4f3b93c7d4aee737de018ace9f"
+  }
+}

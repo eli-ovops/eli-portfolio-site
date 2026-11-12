@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-06",
+  "document": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/eli-opendesign-handoff-dbiegr_i/Eli_个人作品展示网站_OpenDesign交接_20261006.md",
+  "bytes": 32671,
+  "sha256": "ef1e0345d2575e4b8997ca2d55c611b4f0c428234cccc82019ef885246c5670a",
+  "project_records": 38,
+  "customer_names": "Anonymized public titles only",
+  "source": "Current public fields and human-confirmed conversation instructions",
+  "purpose": "User-requested independent Open Design design trial handoff",
+  "receiver_status": "Not dispatched or accepted",
+  "retention": "Deliverable; keep for user download",
+  "scope": "Documentation only; no site implementation or deployment",
+  "validation": {
+    "utf8": "PASS",
+    "public_record_rows": 38,
+    "exact_ids_match_source": true,
+    "original_customer_names_absent": true,
+    "required_sections": "PASS",
+    "document_sha256": "MATCH",
+    "scope": "Handoff artifact verified; website tests not rerun"
+  }
+}

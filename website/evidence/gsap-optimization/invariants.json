@@ -1,0 +1,9 @@
+{
+  "styles.css": "e22c2f472bd483a1d71ddff7037f0c91c35ba79a5adbe066e0fd077f6cfd6350",
+  "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+  "content/profile.json": "11f6833e59016e907b4739395ae1c21d1369f17df7aa11485d2748e02ab2fdaf",
+  "content/projects.json": "03f7be318e647a98637703f27003b6ffa5e0b983b6075426f1857786e681d921",
+  "templates/home.html": "b64218a1ea9874e6eed4c37382b770d273690d1bfd84b17292c9309424d5d554",
+  "templates/about.html": "6ecb5c960b74fbc24b60b599b25a18304792cfe05797be113c68aa27410e6292",
+  "templates/gallery-project.html": "d67afa0782f6a393978678229fcc226a7f476c382b9ccfb486d742615f401ac1"
+}

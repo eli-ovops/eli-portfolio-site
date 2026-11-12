@@ -1,0 +1,7 @@
+{
+  "user_request": "把这轮中英文首页规范链接修复同步到官网，保留锚点和返回参数，视觉和动效不改。上线后检查语言切换、案例返回和咨询入口，别重复提交搜索平台。",
+  "revision": "ee333e5fb82b7096a06c",
+  "scope": "Canonical bilingual homepage links, preserve anchors and return context; no visual/motion changes or search submissions",
+  "website_content_only": true,
+  "nginx_configuration_changes": false
+}

@@ -1,0 +1,82 @@
+Browser tab: 42, Title: "网页索引编制", URL: "https://search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F".
+0 AXWebArea 网页索引编制, URL: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+	1 container
+		2 container yDmH0d
+			3 container gb
+				4 container
+					5 button (collapsed) Description: 主菜单, Secondary Actions: Expand
+						6 image
+					7 link Description: Google Search Console, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F, ID: sdgBod
+					8 container
+						9 combo box (collapsed, settable) Description: 检查 https://www.eliai.cn/ 中的任何网址, Secondary Actions: Expand
+					10 button 搜索
+						11 image
+					12 button 帮助
+					13 button 用户设置
+					120 container
+						121 button 未读消息：2 条
+						137 text 2
+					15 button (collapsed) Description: Google 应用, Secondary Actions: Expand
+					16 button (collapsed) Description: Google 账号： Eli Chao ([REDACTED_EMAIL]), Secondary Actions: Expand
+			17 container navigational drawer
+				18 container
+					19 container 主要
+						20 pop up button (collapsed) Description: 搜索资源, Secondary Actions: Expand
+							21 image 网站图标
+							22 combo box (collapsed, settable) Description: https://www.eliai.cn/, Secondary Actions: Expand
+						23 container
+							24 link Description: 概述, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							25 link Description: 数据洞见, Value: search.google.com/search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							26 link Description: 效果, Value: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							27 button 网址检查
+								28 text 网址检查
+							123 container
+								124 text 编制索引
+								125 button (expanded) Description: “编制索引”报告部分, Secondary Actions: Collapse
+								126 link Description: 网页, Value: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								127 link Description: 站点地图, Value: search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								128 link Description: 移除, Value: search.google.com/search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							129 container
+								130 text 体验
+								131 button (expanded) Description: “体验”报告部分, Secondary Actions: Collapse
+								132 link Description: 核心网页指标, Value: search.google.com/search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								133 link Description: HTTPS, Value: search.google.com/search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							134 container
+								135 text 安全问题和人工处置措施
+								136 button (collapsed) Description: “安全问题和人工处置措施”报告部分, Secondary Actions: Expand
+							42 link Description: “链接”报告, Value: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							43 link Description: 成就, Value: search.google.com/search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							44 link Description: 设置, Value: search.google.com/search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							45 button 提交反馈
+								46 text 提交反馈
+							47 button Search Console 简介
+								48 text Search Console 简介
+							49 link Description: 隐私权, Value: myaccount.google.com/privacypolicy?hl=zh-CN
+							50 link Description: 条款, Value: myaccount.google.com/termsofservice?hl=zh-CN
+			138 container
+				139 container 路径
+					140 heading 网页索引编制, Value: 1
+						141 text 网页索引编制
+				142 container
+					143 text 正在处理数据，请过 1 天左右再来查看
+					144 text 网页未被编入索引的原因
+					145 text 未编入索引的网页无法显示在 Google 中
+					146 pop up button (collapsed) Description: 过滤表格行, Secondary Actions: Expand
+					147 table
+						148 row
+							149 cell
+								150 text 原因
+							151 cell
+								152 text 来源
+								153 container
+									154 button (collapsed) Description: null, Secondary Actions: Expand
+							155 cell
+								156 text 验证
+							157 cell
+								158 text 趋势
+							159 cell
+								160 text 网页
+					161 text 正在处理数据，请过 1 天左右再来查看
+		162 text 网页索引编制
+
+The focused UI element is 126 link Description: 网页, URL: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F

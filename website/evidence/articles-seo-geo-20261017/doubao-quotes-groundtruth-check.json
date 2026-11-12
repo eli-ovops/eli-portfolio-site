@@ -1,0 +1,11 @@
+{
+  "inventory-reconciliation": {
+    "先挑一条库存路径，把数量和责任核对清楚。": false
+  },
+  "enterprise-knowledge-base": {
+    "先选定使用对象，再挑选一类高频查找的问题。": false
+  },
+  "what-is-agent": {
+    "Agent 能结合工具、反馈做多步行动推进目标。": false
+  }
+}

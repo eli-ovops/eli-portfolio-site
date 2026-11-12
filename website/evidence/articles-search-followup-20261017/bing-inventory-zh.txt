@@ -1,0 +1,27 @@
+URL Inspection
+
+Inspect
+Bing Index
+Live URL
+Page updated?
+Request indexing
+
+Not discovered
+URL cannot appear on Bing
+
+
+Discover
+The inspected URL is not known to Bing.
+Get this URL indexed by clicking on Request indexing button.
+Request indexing
+IMPORTANT TIP :To ensure discovery of URLs, please use following tools
+Sitemaps :Regularly update your sitemap and submit it to Bing.
+ Submit URLs :Inform Bing about newly added, updated and deleted URLs.
+
+Crawl
+
+Index
+
+SEO/GEO processing can be done only on indexed URLs.
+
+Markup Processing can be done only on Indexed URLs

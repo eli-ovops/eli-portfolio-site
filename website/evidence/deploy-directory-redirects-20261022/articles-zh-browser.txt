@@ -1,0 +1,232 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: index.html
+    - link "项目库":
+      - /url: records.html
+    - link "文章":
+      - /url: articles.html
+    - link "关于":
+      - /url: about.html
+    - link "切换到英文版":
+      - /url: https://www.eliai.cn/en/articles.html
+      - text: EN
+- main:
+  - paragraph: 一次弄懂一个问题
+  - heading "AI 入门教程与实践文章" [level=1]:
+    - generic: AI 入门教程与实践文章
+  - paragraph: 100 篇基础教程，从第一次提问到 Agent 和日常办公。每篇都有步骤、练习和排错办法，也保留两篇结合实际项目的文章。
+  - generic "不知道从哪看？先读这五篇"
+  - search:
+    - text: 搜索文章
+    - searchbox "搜索文章"
+    - text: 分类
+    - combobox "分类":
+      - option "全部" [selected]
+      - option "案例实践"
+      - option "AI 入门"
+      - option "大模型原理"
+      - option "提问方法"
+      - option "Agent 入门"
+      - option "Skills 与 MCP"
+      - option "Harness 与 AI 编程"
+      - option "GitHub 入门"
+      - option "WorkBuddy 办公"
+      - option "办公实操"
+      - option "老板用 AI"
+    - button "清除"
+  - status: 102 篇文章 · 第 1 / 9 页
+  - article:
+    - generic: 库存与流程
+    - generic: 约 6 分钟
+    - heading "库存每天靠人工核对，先改哪一步？" [level=2]:
+      - link "库存每天靠人工核对，先改哪一步？":
+        - /url: articles/inventory-reconciliation.html
+    - paragraph: 从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。
+    - 'link "阅读: 库存每天靠人工核对，先改哪一步？"':
+      - /url: articles/inventory-reconciliation.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: 知识库与答疑
+    - generic: 约 6 分钟
+    - heading "企业资料太散，做知识库答疑前要准备什么？" [level=2]:
+      - link "企业资料太散，做知识库答疑前要准备什么？":
+        - /url: articles/enterprise-knowledge-base.html
+    - paragraph: 结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。
+    - 'link "阅读: 企业资料太散，做知识库答疑前要准备什么？"':
+      - /url: articles/enterprise-knowledge-base.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 1 分钟阅读
+    - heading "AI 是什么？先从一件小事理解" [level=2]:
+      - link "AI 是什么？先从一件小事理解":
+        - /url: articles/what-is-ai.html
+    - paragraph: AI 是人工智能的简称，涵盖识别、预测、生成等多种技术，既有基于规则的办法，也有从数据学习的办法。
+    - 'link "阅读: AI 是什么？先从一件小事理解"':
+      - /url: articles/what-is-ai.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 2 分钟阅读
+    - heading "AI 聊天和搜索引擎有什么区别？" [level=2]:
+      - link "AI 聊天和搜索引擎有什么区别？":
+        - /url: articles/ai-chat-vs-search.html
+    - paragraph: 搜索主要帮你找到网页，AI 聊天主要帮你组织答案。
+    - 'link "阅读: AI 聊天和搜索引擎有什么区别？"':
+      - /url: articles/ai-chat-vs-search.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 1 分钟阅读
+    - heading "第一次用 AI，应该拿什么任务练手？" [level=2]:
+      - link "第一次用 AI，应该拿什么任务练手？":
+        - /url: articles/first-ai-task.html
+    - paragraph: 选一个小、可检查、做错也容易恢复的任务，比如把个人笔记改成待办清单。
+    - 'link "阅读: 第一次用 AI，应该拿什么任务练手？"':
+      - /url: articles/first-ai-task.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 2 分钟阅读
+    - heading "新手怎么选 AI 工具，避免买一堆会员？" [level=2]:
+      - link "新手怎么选 AI 工具，避免买一堆会员？":
+        - /url: articles/choose-ai-tool.html
+    - paragraph: 先列任务，再选工具。
+    - 'link "阅读: 新手怎么选 AI 工具，避免买一堆会员？"':
+      - /url: articles/choose-ai-tool.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 1 分钟阅读
+    - heading "AI 一本正经胡说，怎么识别？" [level=2]:
+      - link "AI 一本正经胡说，怎么识别？":
+        - /url: articles/ai-hallucination.html
+    - paragraph: AI 可能生成看似真实却没有依据的内容，常被叫作“幻觉”。
+    - 'link "阅读: AI 一本正经胡说，怎么识别？"':
+      - /url: articles/ai-hallucination.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 2 分钟阅读
+    - heading "哪些资料不该直接发给 AI？" [level=2]:
+      - link "哪些资料不该直接发给 AI？":
+        - /url: articles/ai-privacy-basics.html
+    - paragraph: 先确认资料能否交给这个服务，再考虑怎样提问。
+    - 'link "阅读: 哪些资料不该直接发给 AI？"':
+      - /url: articles/ai-privacy-basics.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 1 分钟阅读
+    - heading "上传文件后，AI 真的读完了吗？" [level=2]:
+      - link "上传文件后，AI 真的读完了吗？":
+        - /url: articles/ai-file-reading.html
+    - paragraph: 上传成功只说明文件交给了产品，不证明每一页都被读懂。
+    - 'link "阅读: 上传文件后，AI 真的读完了吗？"':
+      - /url: articles/ai-file-reading.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 1 分钟阅读
+    - heading "AI 图片能直接当产品实拍图吗？" [level=2]:
+      - link "AI 图片能直接当产品实拍图吗？":
+        - /url: articles/ai-generated-images.html
+    - paragraph: AI 图片可以帮助讨论构图和风格，但可能改变产品尺寸、接口、文字和材质。
+    - 'link "阅读: AI 图片能直接当产品实拍图吗？"':
+      - /url: articles/ai-generated-images.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 1 分钟阅读
+    - heading "AI 圈黑话太多？先分清这十个词" [level=2]:
+      - link "AI 圈黑话太多？先分清这十个词":
+        - /url: articles/ai-jargon-map.html
+    - paragraph: 先分清模型、工具、连接和运行环境，再看产品介绍。
+    - 'link "阅读: AI 圈黑话太多？先分清这十个词"':
+      - /url: articles/ai-jargon-map.html
+      - text: 阅读
+      - generic: ↗
+  - article:
+    - generic: AI 入门
+    - generic: 约 2 分钟阅读
+    - heading "零基础学 AI，第一周怎么安排？" [level=2]:
+      - link "零基础学 AI，第一周怎么安排？":
+        - /url: articles/ai-learning-plan.html
+    - paragraph: 先把一件事做对，再学更多名词。
+    - 'link "阅读: 零基础学 AI，第一周怎么安排？"':
+      - /url: articles/ai-learning-plan.html
+      - text: 阅读
+      - generic: ↗
+  - navigation "文章分页":
+    - button "上一页" [disabled]
+    - generic: 1 / 9
+    - button "下一页"
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

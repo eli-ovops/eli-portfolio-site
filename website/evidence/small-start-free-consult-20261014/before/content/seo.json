@@ -1,0 +1,119 @@
+{
+  "base_url": "http://[REDACTED_HOST]/sites/portfolio/",
+  "planned_base_url": "https://www.eliai.cn/",
+  "indexing_enabled": false,
+  "note": "Prepare locally while domain identity, HTTPS and ICP filing remain pending. Change base_url only after the domain serves this site; enable indexing only with launch authorization.",
+  "home": {
+    "zh-CN": {
+      "title": "Eli - 帮企业用好 AI，改善重复工作与业务流程",
+      "description": "想用 AI 降本增效却不知道从哪开始？与 Eli 一起梳理公司的重复工作，从资料查找与答疑、录入与库存核对、内容整理中选择一个小场景，再验证是否值得投入。查看实际案例与合作方式。"
+    },
+    "en": {
+      "title": "Eli | Put AI to Work in Your Business",
+      "description": "Unsure where AI can help your company? Review repetitive tasks with Eli, choose one use case in knowledge support, inventory or content, and validate it before further investment. See project experience and discuss your workflow."
+    }
+  },
+  "about": {
+    "zh-CN": {
+      "title": "关于 Eli - 开发经历、工作方法与联系方式",
+      "description": "了解 Eli 的项目经历与工作方式：从需求梳理、流程设计到 AI 辅助开发、测试与交付，并查看联系邮箱、电话和微信。"
+    },
+    "en": {
+      "title": "About Eli | Development Experience & Contact",
+      "description": "Learn about Eli’s project experience and approach to requirements, workflow design, AI-assisted development, testing and delivery. Find contact details."
+    }
+  },
+  "records": {
+    "zh-CN": {
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。"
+    },
+    "en": {
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project."
+    }
+  },
+  "case_titles": {
+    "P10": {
+      "zh-CN": "洁具库存管理系统开发案例 - Eli",
+      "en": "Inventory System Development | Eli Case Study"
+    },
+    "P09": {
+      "zh-CN": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "en": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    "P36": {
+      "zh-CN": "RAG 智能客服定制：知识库与检索实践 - Eli",
+      "en": "RAG Support: Knowledge & Retrieval | Eli Case Study"
+    },
+    "P12": {
+      "zh-CN": "织境 AI 内容工作台：内容流程与人工确认 - Eli",
+      "en": "Zhijing AI Content Workbench | Eli Case Study"
+    },
+    "P15": {
+      "zh-CN": "PetSocial / HelloTail：原生 iOS 开发实践 - Eli",
+      "en": "PetSocial / HelloTail: Native iOS | Eli Case Study"
+    },
+    "P04": {
+      "zh-CN": "律所 OA 办公系统开发案例 - Eli",
+      "en": "Law Firm Office Workflows | Eli Case Study"
+    },
+    "P02": {
+      "zh-CN": "慈善基金会官网开发案例 - Eli",
+      "en": "Nonprofit Website Development | Eli Case Study"
+    },
+    "P05": {
+      "zh-CN": "英国品牌全域营销协作案例 - Eli",
+      "en": "UK Brand Marketing Collaboration | Eli Case Study"
+    },
+    "P07": {
+      "zh-CN": "企业官网开发：家具品牌展示与浏览路径案例 - Eli",
+      "en": "Business Website: Brand & Buyer Paths | Eli Case Study"
+    }
+  },
+  "questions": [
+    {
+      "zh-CN": {
+        "question": "想用 AI，但不知道从哪开始？",
+        "lead": "可以先聊公司最费时间的一件事。",
+        "answer": "员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。"
+      },
+      "en": {
+        "question": "Want AI, but unsure where to start?",
+        "lead": "Start with one task that takes too much time.",
+        "answer": "What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "会怎么推进，费用怎么定？",
+        "lead": "先梳理流程，再选一个小场景。",
+        "answer": "确定问题和判断效果的标准，再讨论实现。涉及人数、资料整理、现有工具接入和后续维护影响工作量；范围与费用单独确认。"
+      },
+      "en": {
+        "question": "How do we proceed and estimate cost?",
+        "lead": "Review the workflow, then choose one small use case.",
+        "answer": "Define the problem and how to judge results before discussing implementation. Users, data preparation, existing tools and maintenance affect the work. Agree scope and cost separately."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "能帮我们改善哪些工作？",
+        "lead": "从查资料、重复录入和内容整理开始看。",
+        "answer": "结合现有案例讨论答疑、库存核对或产品内容制作。先判断哪些适合 AI，哪些适合软件自动化，再核对资料与权限条件。"
+      },
+      "en": {
+        "question": "What work could we improve?",
+        "lead": "Look at information lookup, repeated entry and content preparation.",
+        "answer": "Use existing support, inventory and product-content cases to guide the discussion. Decide where AI or software automation fits, then check data and access requirements."
+      },
+      "projects": [
+        "P36",
+        "P09",
+        "P12"
+      ]
+    }
+  ]
+}

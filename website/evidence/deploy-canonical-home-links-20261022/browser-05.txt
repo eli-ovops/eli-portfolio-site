@@ -1,0 +1,295 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: /
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: /
+    - link "项目库":
+      - /url: records.html
+    - link "文章":
+      - /url: articles.html
+    - link "关于":
+      - /url: about.html
+    - link "切换到英文版":
+      - /url: /en/?project=p36#work
+      - text: EN
+- main:
+  - region "个人介绍":
+    - button "背景动效" [pressed]:
+      - generic: 背景动效
+    - generic: HELLO,
+    - paragraph:
+      - generic: I’M
+      - generic: E
+      - generic: L
+      - generic: I
+    - paragraph: FDE · 贴近业务，选工具、改流程
+    - heading "帮中小企业用好 AI 从重复工作开始" [level=1]:
+      - text: 帮中小企业用好 AI
+      - text: 从重复工作开始
+    - paragraph: 初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。
+    - list "服务方式":
+      - listitem: 录入核对
+      - listitem: 资料答疑
+      - listitem: 内容整理
+    - paragraph: 说说最费时间的一件事，不用懂技术，也不用准备方案。
+    - link "免费聊聊":
+      - /url: about.html#contact
+      - text: 免费聊聊
+      - generic: ↗
+    - link "看实际案例":
+      - /url: "#work"
+      - text: 看实际案例
+      - generic: ↓
+  - region "哪些工作，可以先一起看看？":
+    - heading "哪些工作，可以先一起看看？" [level=2]
+    - paragraph:
+      - text: 不必从大系统开始。先用好现成的 AI 助手，或改善一个重复步骤。
+      - link "FDE 怎么合作 ↗":
+        - /url: services/fde-consulting.html
+    - article:
+      - heading "录入和库存靠人核对" [level=3]
+      - paragraph: 减少重复录入与人工核对。
+      - 'generic "展开做法: 录入和库存靠人核对"':
+        - text: 展开做法
+        - generic: +
+      - link "看库存案例":
+        - /url: cases/p10.html
+        - text: 看库存案例
+        - generic: ↗
+      - link "看扫码案例":
+        - /url: cases/p09.html
+        - text: 看扫码案例
+        - generic: ↗
+    - article:
+      - heading "资料难找、问题反复问" [level=3]
+      - paragraph: 让资料更好找，答疑有依据。
+      - 'generic "展开做法: 资料难找、问题反复问"':
+        - text: 展开做法
+        - generic: +
+      - link "看答疑案例":
+        - /url: cases/p36.html
+        - text: 看答疑案例
+        - generic: ↗
+    - article:
+      - heading "产品内容总要重做" [level=3]
+      - paragraph: 让文案和配图不必每次从头做。
+      - 'generic "展开做法: 产品内容总要重做"':
+        - text: 展开做法
+        - generic: +
+      - link "看内容案例":
+        - /url: cases/p12.html
+        - text: 看内容案例
+        - generic: ↗
+  - region "看看你的行业，可以从哪里开始":
+    - heading "看看你的行业，可以从哪里开始" [level=2]
+    - paragraph: 选择接近你业务的行业，从一件费时的工作开始。下面是可讨论的场景，相关案例注明实际做过的部分。
+    - generic "制造业 库存反复核对，产品与操作资料不好找":
+      - generic: 制造业
+      - generic: 库存反复核对，产品与操作资料不好找
+      - generic: +
+    - generic "批发与零售 进出库重复登记，单据与库存对不上":
+      - generic: 批发与零售
+      - generic: 进出库重复登记，单据与库存对不上
+      - generic: +
+    - generic "家具、家居与建材 型号规格不好找，展示与库存资料难维护":
+      - generic: 家具、家居与建材
+      - generic: 型号规格不好找，展示与库存资料难维护
+      - generic: +
+    - generic "电子商务 商品资料反复整理，客服总答同样的问题":
+      - generic: 电子商务
+      - generic: 商品资料反复整理，客服总答同样的问题
+      - generic: +
+    - generic "跨境电商 中英文产品资料难维护，海外咨询反复回复":
+      - generic: 跨境电商
+      - generic: 中英文产品资料难维护，海外咨询反复回复
+      - generic: +
+    - generic "律所与专业服务 客户找服务信息费力，员工查文件费时":
+      - generic: 律所与专业服务
+      - generic: 客户找服务信息费力，员工查文件费时
+      - generic: +
+    - generic "品牌与内容工作室 素材到处找，文案配图每次从头做":
+      - generic: 品牌与内容工作室
+      - generic: 素材到处找，文案配图每次从头做
+      - generic: +
+    - generic "公益机构 项目资料难归集，官网内容更新费时":
+      - generic: 公益机构
+      - generic: 项目资料难归集，官网内容更新费时
+      - generic: +
+    - generic "更多行业 物流仓储、教育培训、餐饮门店等七类场景":
+      - generic: 更多行业
+      - generic: 物流仓储、教育培训、餐饮门店等七类场景
+      - generic: +
+  - region "代表项目":
+    - paragraph: 客户项目与产品实践
+    - heading "代表项目" [level=2]
+    - link "项目库":
+      - /url: records.html
+      - text: 项目库
+      - generic: ↗
+    - navigation "快速选择项目":
+      - button "查看洁具行业某大型 B 端厂商库存管理系统": 库存管理
+      - button "查看英国某净水品牌 RAG 智能客服定制" [pressed]: 客服答疑
+      - button "查看某家具品牌扫码库存系统": 扫码库存
+      - button "查看某律师事务所 OA 系统": 办公协同
+      - button "查看深圳某慈善基金会": 公益官网
+      - button "查看英国某净水品牌全域营销": 品牌营销
+    - generic "代表项目：英国某净水品牌 RAG 智能客服定制。图片上滚动切换 · 正文滚动阅读。":
+      - paragraph: 02 / 06
+      - button "上一个案例": ←
+      - button "下一个案例": →
+      - article:
+        - link:
+          - /url: assets/public-cases/p10.png
+          - generic: 查看图片 ↗
+        - paragraph: 库存管理
+        - heading [level=3]: 洁具行业某大型 B 端厂商库存管理系统
+        - paragraph: 已交付
+        - paragraph: 采购、退货和盘点需要统一核对 → 交付 PC 与手机端库存系统 → 已交付，暂无量化使用效果数据。
+        - generic: 查看项目过程 ＋
+        - link:
+          - /url: cases/p10.html
+          - text: 查看案例 ↗
+      - article:
+        - link "查看 英国某净水品牌 RAG 智能客服定制 截图":
+          - /url: assets/public-cases/p36.png
+          - img "英国某净水品牌 RAG 智能客服定制脱敏界面展示"
+          - generic: 查看图片 ↗
+        - paragraph: AI 客服
+        - heading "英国某净水品牌 RAG 智能客服定制" [level=3]
+        - paragraph: 产品资料需要用于重复答疑 → 参与知识库整理、检索配置与测试 → 团队定制交付，暂无回答准确率或提效数据。
+        - generic "查看项目过程 ＋"
+        - link "完整案例：英国某净水品牌 RAG 智能客服定制":
+          - /url: cases/p36.html
+          - text: 查看案例 ↗
+      - article:
+        - link:
+          - /url: assets/public-cases/p09.png
+          - generic: 查看图片 ↗
+        - paragraph: 扫码库存
+        - heading [level=3]: 某家具品牌扫码库存系统
+        - paragraph: 已交付
+        - paragraph: 家具按箱出入库、移库需要追踪 → 交付扫码库存系统 → 已交付；公开数量记录来自历史虚拟库存测试。
+        - generic: 查看项目过程 ＋
+        - link:
+          - /url: cases/p09.html
+          - text: 查看案例 ↗
+      - article:
+        - link:
+          - /url: assets/office-workflow.svg
+        - paragraph: 办公协同
+        - heading [level=3]: 某律师事务所 OA 系统
+        - paragraph: 依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。
+        - generic: 查看项目过程 ＋
+        - link:
+          - /url: cases/p04.html
+          - text: 查看案例 ↗
+      - article:
+        - link:
+          - /url: assets/public-cases/p02.png
+          - generic: 查看图片 ↗
+        - paragraph: 公益网站
+        - heading [level=3]: 深圳某慈善基金会
+        - paragraph: 参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。
+        - generic: 查看项目过程 ＋
+        - link:
+          - /url: cases/p02.html
+          - text: 查看案例 ↗
+      - article:
+        - link:
+          - /url: assets/public-cases/p05.png
+          - generic: 查看图片 ↗
+        - paragraph: 品牌营销
+        - heading [level=3]: 英国某净水品牌全域营销
+        - paragraph: 参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。
+        - generic: 查看项目过程 ＋
+        - link:
+          - /url: cases/p05.html
+          - text: 查看案例 ↗
+  - region "实践文章":
+    - paragraph: 从实际工作出发
+    - heading "实践文章" [level=2]
+    - button "暂停轮播":
+      - generic: Ⅱ
+    - button "下一篇文章":
+      - generic: ↑
+    - link "全部文章 ↗":
+      - /url: articles.html
+    - article:
+      - generic: 库存与流程
+      - generic: 约 6 分钟
+      - heading "库存每天靠人工核对，先改哪一步？" [level=3]:
+        - link "库存每天靠人工核对，先改哪一步？":
+          - /url: articles/inventory-reconciliation.html
+      - paragraph: 从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。
+      - 'link "阅读: 库存每天靠人工核对，先改哪一步？"':
+        - /url: articles/inventory-reconciliation.html
+        - text: 阅读
+        - generic: ↗
+    - article:
+      - generic: 知识库与答疑
+      - generic: 约 6 分钟
+      - heading "企业资料太散，做知识库答疑前要准备什么？" [level=3]:
+        - link "企业资料太散，做知识库答疑前要准备什么？":
+          - /url: articles/enterprise-knowledge-base.html
+      - paragraph: 结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。
+      - 'link "阅读: 企业资料太散，做知识库答疑前要准备什么？"':
+        - /url: articles/enterprise-knowledge-base.html
+        - text: 阅读
+        - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: /
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

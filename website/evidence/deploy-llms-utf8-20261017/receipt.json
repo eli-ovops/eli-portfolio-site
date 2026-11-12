@@ -1,0 +1,37 @@
+{
+  "status": "PUBLISHED_LIVE_QA_PASSED",
+  "timestamp": "2026-10-17T17:54:16.999486+08:00",
+  "url": "https://www.eliai.cn/llms.txt",
+  "html_revision": "e3304385905f8d1cdd01",
+  "release": "20261017-llms-utf8-e253f5b6",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261017-llms-utf8-e253f5b6",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261017-llms-articles-4c25f599",
+  "pre_task_release": "/srv/eli-sites/portfolio/domain-releases/20261017-articles-e3304385",
+  "llms_sha256": "e253f5b6957196cbd9c48472248c9876fec447407b38ac1c1c7e52da200b7c7e",
+  "archive_sha256": "76d3214d5bdff3bc7927488988e3dc58c7765994da339dbdecc15b791fe72b42",
+  "changed_public_files": [
+    "llms.txt"
+  ],
+  "unchanged_public_files": 364,
+  "encoding": "UTF-8 with signature;browser Chinese decoding verified",
+  "entries": [
+    "https://www.eliai.cn/articles.html",
+    "https://www.eliai.cn/en/articles.html"
+  ],
+  "articles_per_language": 102,
+  "sitemap_urls": 294,
+  "search_submissions": 0,
+  "visual_motion_changes": false,
+  "server_config_changes": false,
+  "validation": [
+    "Source conditional publication gates",
+    "365 remote file hashes",
+    "29 public HTTP hashes",
+    "External llms hash and UTF-8 signature",
+    "Real browser Chinese/English text and both linked lists",
+    "Unchanged config,services,IP preview and old releases"
+  ],
+  "first_release": "evidence/deploy-llms-articles-20261017/publish.json",
+  "first_browser_finding": "No charset on text/plain caused legacy Chinese decoding;resolved with file signature only",
+  "website_content_recommendation": "Discovery aid only;not an indexing or citation guarantee"
+}

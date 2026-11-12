@@ -1,0 +1,14 @@
+{
+  "status": "REMOTE_POSTCHECK_PASS",
+  "release": "20261015-131729-records-catalog",
+  "files_verified": 138,
+  "previous_files_preserved": 144,
+  "nginx_config": "UNCHANGED",
+  "services": {
+    "nginx": true,
+    "erp-trial": true,
+    "mysql": true,
+    "redis-server": true
+  },
+  "indexing": "DISABLED"
+}

@@ -1,0 +1,179 @@
+[
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 202.34375,
+        "text": "免费聊一件最费时间的工作 ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#cases",
+        "right": 324.921875,
+        "text": "更多相关案例 ↓",
+        "x": 226.34375
+      }
+    ],
+    "heading": "中小企业 AI 落地实施服务",
+    "intro": "每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。",
+    "language": "zh-CN",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f",
+    "width": 360,
+    "slug": "fde-consulting",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 303.671875,
+        "text": "Discuss one time-consuming task for free ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#cases",
+        "right": 157.5625,
+        "text": "More related cases ↓",
+        "x": 20
+      }
+    ],
+    "heading": "AI implementation for small businesses",
+    "intro": "Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.",
+    "language": "en",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f",
+    "width": 360,
+    "slug": "fde-consulting",
+    "expectedLanguage": "en"
+  },
+  {
+    "slug": "fde-consulting",
+    "languageRoundTrip": {
+      "language": "zh-CN",
+      "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f"
+    }
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 216.34375,
+        "text": "免费聊聊资料查找和答疑问题 ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#cases",
+        "right": 118.578125,
+        "text": "更多相关案例 ↓",
+        "x": 20
+      }
+    ],
+    "heading": "企业知识库搭建与客服辅助答疑",
+    "intro": "产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。",
+    "language": "zh-CN",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f",
+    "width": 360,
+    "slug": "ai-agent",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "actions": [
+      {
+        "height": 47.59375,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 325,
+        "text": "Discuss your knowledge and support needs for free ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#cases",
+        "right": 157.5625,
+        "text": "More related cases ↓",
+        "x": 20
+      }
+    ],
+    "heading": "Knowledge base setup and AI-assisted support",
+    "intro": "Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.",
+    "language": "en",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f",
+    "width": 360,
+    "slug": "ai-agent",
+    "expectedLanguage": "en"
+  },
+  {
+    "slug": "ai-agent",
+    "languageRoundTrip": {
+      "language": "zh-CN",
+      "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f"
+    }
+  },
+  {
+    "actions": [
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 216.34375,
+        "text": "免费聊聊录入和库存核对问题 ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#cases",
+        "right": 118.578125,
+        "text": "更多相关案例 ↓",
+        "x": 20
+      }
+    ],
+    "heading": "库存核对与重复录入自动化",
+    "intro": "同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。",
+    "language": "zh-CN",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f",
+    "width": 360,
+    "slug": "workflow-automation",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "actions": [
+      {
+        "height": 47.59375,
+        "href": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+        "right": 325,
+        "text": "Discuss your entry and stock-checking needs for free ↗",
+        "x": 20
+      },
+      {
+        "height": 44,
+        "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#cases",
+        "right": 157.5625,
+        "text": "More related cases ↓",
+        "x": 20
+      }
+    ],
+    "heading": "Inventory reconciliation and data entry automation",
+    "intro": "Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.",
+    "language": "en",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f",
+    "width": 360,
+    "slug": "workflow-automation",
+    "expectedLanguage": "en"
+  },
+  {
+    "slug": "workflow-automation",
+    "languageRoundTrip": {
+      "language": "zh-CN",
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f"
+    }
+  }
+]

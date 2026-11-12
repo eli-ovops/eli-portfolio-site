@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-06T06:16:59.140605+00:00",
+  "version": "0.11.0",
+  "owner": "Current local portfolio execution thread",
+  "design": "Dark poster gallery with real sanitized screenshots; local Anton + system CJK; accent #d4f74b; native WAAPI/CSS3D",
+  "build": "PASS: 42 HTML / 38 records",
+  "static_links_and_privacy": "PASS: evidence/static-checks.json",
+  "content_and_profile_bytes": "Unchanged from design-v11 brief hashes",
+  "sanitized_picture_bytes": "All seven unchanged from anonymization checks",
+  "browser_original_url": "Direct original 127.0.0.1:4178 URL accepted and rendered; no alternate host/port/browser used as substitute",
+  "viewport_checks": [
+    {
+      "width": 375,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "columns": 1,
+      "heroBottom": 672.125,
+      "ctaBottom": 614.125
+    },
+    {
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "columns": 2,
+      "ctaBottom": 403
+    },
+    {
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "columns": 3
+    }
+  ],
+  "gallery_filter": "Systems -> 2 correct cases, All -> 6",
+  "case_route_and_back": "P10 renders on 375px, anonymous title complete, return ../index.html#work works",
+  "contact": "Existing mailto, tel and square QR href/asset retained; portrait absent; no actual mail/call/scan sent",
+  "archive": "Inventory search -> 2 correct records; unmatched query -> 0 with visible reset; reset -> 38",
+  "keyboard": "Tab reaches category control with solid 3px outline",
+  "motion": "Actual pointer input produced non-identity matrix3d and cursor opacity 0.978734; reduced preference true shows E/L/I opacity 1 transform none and spark transition 0s on 375px",
+  "contrast_core_pairs": {
+    "ink": 15.72,
+    "muted": 8.87,
+    "accent": 14.78
+  },
+  "finesse_detector": "p0=0; detector does not assess subjective craft or fake screenshots, manually reviewed",
+  "environment_cleanup": "Temporary test tab closed; reduced media reset; refreshed current viewport capability restored user tab to 1085 x 1202, reduced false",
+  "not_verified": [
+    "Physical mobile device FPS and true touch interaction",
+    "Physical WeChat scanning or actual mail/tel actions",
+    "User aesthetic acceptance",
+    "Public deployment or customer acceptance"
+  ],
+  "screenshots": [
+    "hero-desktop.jpg",
+    "gallery-desktop.jpg",
+    "hero-mobile.jpg"
+  ],
+  "new_artifact_inventory": [
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/brief.json",
+      "bytes": 2021,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/hero-mobile.jpg",
+      "bytes": 28144,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/gallery-desktop.jpg",
+      "bytes": 105641,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/contrast.json",
+      "bytes": 54,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/current-state.json",
+      "bytes": 2415,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/hero-desktop.jpg",
+      "bytes": 68211,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/handoff-document.json",
+      "bytes": 694,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/styles.css",
+      "bytes": 32460,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/package.json",
+      "bytes": 304,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/motion.js",
+      "bytes": 7421,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/motion.css",
+      "bytes": 4842,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/app.js",
+      "bytes": 3252,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/scripts/build.py",
+      "bytes": 5208,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/scripts/check.py",
+      "bytes": 2726,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/scripts/pages.py",
+      "bytes": 5366,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/scripts/components.py",
+      "bytes": 4105,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/templates/home.html",
+      "bytes": 4043,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/templates/layout.html",
+      "bytes": 1283,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/design-v11/before/assets/mark.svg",
+      "bytes": 211,
+      "purpose": "Rollback source, design brief or verification evidence; retain"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "fde-consulting",
+    "language": "zh-CN",
+    "servicePath": "/services/fde-consulting.html",
+    "caseState": {
+      "back": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#service-proof",
+      "url": "http://127.0.0.1:4178/cases/p10.html?pv=1884526158ef3680b12f&from=%2Fservices%2Ffde-consulting.html%3Fpv%3D1884526158ef3680b12f%23service-proof"
+    },
+    "backState": {
+      "heading": "中小企业 AI 落地实施服务",
+      "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=1884526158ef3680b12f#service-proof"
+    },
+    "contactState": {
+      "contactExists": true,
+      "language": "zh-CN",
+      "url": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+      "wechatImage": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4178/assets/wechat-qr.png"
+        }
+      ]
+    },
+    "consultationClickVerified": true
+  },
+  {
+    "slug": "fde-consulting",
+    "language": "en",
+    "servicePath": "/en/services/fde-consulting.html",
+    "caseState": {
+      "back": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#service-proof",
+      "url": "http://127.0.0.1:4178/en/cases/p10.html?pv=1884526158ef3680b12f&from=%2Fen%2Fservices%2Ffde-consulting.html%3Fpv%3D1884526158ef3680b12f%23service-proof"
+    },
+    "backState": {
+      "heading": "AI implementation for small businesses",
+      "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=1884526158ef3680b12f#service-proof"
+    },
+    "contactState": {
+      "contactExists": true,
+      "language": "en",
+      "url": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+      "wechatImage": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4178/assets/wechat-qr.png"
+        }
+      ]
+    },
+    "consultationClickVerified": true
+  },
+  {
+    "slug": "ai-agent",
+    "language": "zh-CN",
+    "servicePath": "/services/ai-agent.html",
+    "caseState": {
+      "back": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#service-proof",
+      "url": "http://127.0.0.1:4178/cases/p36.html?pv=1884526158ef3680b12f&from=%2Fservices%2Fai-agent.html%3Fpv%3D1884526158ef3680b12f%23service-proof"
+    },
+    "backState": {
+      "heading": "企业知识库搭建与客服辅助答疑",
+      "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=1884526158ef3680b12f#service-proof"
+    },
+    "contactState": {
+      "contactExists": true,
+      "language": "zh-CN",
+      "url": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+      "wechatImage": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4178/assets/wechat-qr.png"
+        }
+      ]
+    },
+    "consultationClickVerified": true
+  },
+  {
+    "slug": "ai-agent",
+    "language": "en",
+    "servicePath": "/en/services/ai-agent.html",
+    "caseState": {
+      "back": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#service-proof",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html?pv=1884526158ef3680b12f&from=%2Fen%2Fservices%2Fai-agent.html%3Fpv%3D1884526158ef3680b12f%23service-proof"
+    },
+    "backState": {
+      "heading": "Knowledge base setup and AI-assisted support",
+      "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1884526158ef3680b12f#service-proof"
+    },
+    "contactState": {
+      "contactExists": true,
+      "language": "en",
+      "url": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+      "wechatImage": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4178/assets/wechat-qr.png"
+        }
+      ]
+    },
+    "consultationClickVerified": true
+  },
+  {
+    "slug": "workflow-automation",
+    "language": "zh-CN",
+    "servicePath": "/services/workflow-automation.html",
+    "caseState": {
+      "back": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#service-proof",
+      "url": "http://127.0.0.1:4178/cases/p09.html?pv=1884526158ef3680b12f&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D1884526158ef3680b12f%23service-proof"
+    },
+    "backState": {
+      "heading": "库存核对与重复录入自动化",
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1884526158ef3680b12f#service-proof"
+    },
+    "contactState": {
+      "contactExists": true,
+      "language": "zh-CN",
+      "url": "http://127.0.0.1:4178/about.html?pv=1884526158ef3680b12f#contact",
+      "wechatImage": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4178/assets/wechat-qr.png"
+        }
+      ]
+    },
+    "consultationClickVerified": true
+  },
+  {
+    "slug": "workflow-automation",
+    "language": "en",
+    "servicePath": "/en/services/workflow-automation.html",
+    "caseState": {
+      "back": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#service-proof",
+      "url": "http://127.0.0.1:4178/en/cases/p09.html?pv=1884526158ef3680b12f&from=%2Fen%2Fservices%2Fworkflow-automation.html%3Fpv%3D1884526158ef3680b12f%23service-proof"
+    },
+    "backState": {
+      "heading": "Inventory reconciliation and data entry automation",
+      "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=1884526158ef3680b12f#service-proof"
+    },
+    "contactState": {
+      "contactExists": true,
+      "language": "en",
+      "url": "http://127.0.0.1:4178/en/about.html?pv=1884526158ef3680b12f#contact",
+      "wechatImage": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4178/assets/wechat-qr.png"
+        }
+      ]
+    },
+    "consultationClickVerified": true
+  }
+]

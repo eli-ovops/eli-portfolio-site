@@ -1,0 +1,626 @@
+[
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img01.webp",
+    "cropHeight": 744,
+    "masks": [
+      {
+        "x": 165,
+        "y": 8,
+        "width": 208,
+        "height": 57,
+        "color": "ffffff",
+        "label": "公益机构",
+        "fontSize": 22,
+        "bold": true,
+        "textColor": "333333"
+      },
+      {
+        "x": 164,
+        "y": 218,
+        "width": 146,
+        "height": 27,
+        "color": "627576",
+        "label": "慈善基金会",
+        "fontSize": 12,
+        "textColor": "ffffff"
+      },
+      {
+        "x": 164,
+        "y": 252,
+        "width": 244,
+        "height": 47,
+        "color": "9ba9a8",
+        "label": "慈善与公益",
+        "fontSize": 38,
+        "bold": true,
+        "textColor": "ffffff"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p02.png"
+  },
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img02.webp",
+    "cropHeight": 820,
+    "masks": [
+      {
+        "x": 35,
+        "y": 10,
+        "width": 255,
+        "height": 49,
+        "color": "ffffff",
+        "label": "律师事务所",
+        "fontSize": 23,
+        "bold": true,
+        "textColor": "333333"
+      },
+      {
+        "x": 648,
+        "y": 23,
+        "width": 82,
+        "height": 26,
+        "color": "ffffff"
+      },
+      {
+        "x": 933,
+        "y": 23,
+        "width": 65,
+        "height": 26,
+        "color": "ffffff"
+      },
+      {
+        "x": 115,
+        "y": 145,
+        "width": 183,
+        "height": 57,
+        "color": "51809b",
+        "label": "律所介绍",
+        "fontSize": 23,
+        "textColor": "ffffff"
+      },
+      {
+        "x": 115,
+        "y": 209,
+        "width": 360,
+        "height": 39,
+        "color": "7596a4",
+        "label": "专业法律服务",
+        "fontSize": 28,
+        "bold": true,
+        "textColor": "ffffff"
+      },
+      {
+        "x": 57,
+        "y": 475,
+        "width": 120,
+        "height": 30,
+        "color": "f3f3f1",
+        "label": "案例展示",
+        "fontSize": 23,
+        "bold": true,
+        "textColor": "8b1118"
+      },
+      {
+        "x": 374,
+        "y": 475,
+        "width": 120,
+        "height": 30,
+        "color": "f3f3f1",
+        "label": "资讯动态",
+        "fontSize": 23,
+        "bold": true,
+        "textColor": "8b1118"
+      },
+      {
+        "x": 56,
+        "y": 532,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 56,
+        "y": 582,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 56,
+        "y": 632,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 56,
+        "y": 682,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 374,
+        "y": 532,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 374,
+        "y": 582,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 374,
+        "y": 632,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 374,
+        "y": 682,
+        "width": 253,
+        "height": 25,
+        "color": "f5f5f2"
+      },
+      {
+        "x": 1008,
+        "y": 681,
+        "width": 258,
+        "height": 26,
+        "color": "f5f5f2"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p03.png"
+  },
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img05.webp",
+    "masks": [
+      {
+        "x": 44,
+        "y": 24,
+        "width": 157,
+        "height": 38,
+        "color": "45443f",
+        "label": "Furniture",
+        "fontSize": 24,
+        "bold": true,
+        "textColor": "ffffff"
+      },
+      {
+        "x": 268,
+        "y": 548,
+        "width": 151,
+        "height": 32,
+        "color": "62625e",
+        "label": "Email us",
+        "fontSize": 16,
+        "bold": false,
+        "textColor": "ffffff"
+      },
+      {
+        "x": 47,
+        "y": 677,
+        "width": 177,
+        "height": 29,
+        "color": "333430"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p07.png"
+  },
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img07.webp",
+    "masks": [
+      {
+        "x": 17,
+        "y": 25,
+        "width": 170,
+        "height": 47,
+        "color": "fcfdfb",
+        "label": "库存工作台",
+        "fontSize": 18,
+        "bold": true,
+        "textColor": "243f35"
+      },
+      {
+        "x": 260,
+        "y": 24,
+        "width": 144,
+        "height": 26,
+        "color": "fcfdfb",
+        "label": "库存管理",
+        "fontSize": 12,
+        "bold": false,
+        "textColor": "738178"
+      },
+      {
+        "x": 259,
+        "y": 847,
+        "width": 173,
+        "height": 26,
+        "color": "f6f7f4"
+      },
+      {
+        "x": 328,
+        "y": 153,
+        "width": 310,
+        "height": 45,
+        "color": "eaf4eb"
+      },
+      {
+        "x": 292,
+        "y": 402,
+        "width": 220,
+        "height": 26,
+        "color": "ffffff",
+        "label": "示例产品",
+        "fontSize": 14,
+        "bold": false,
+        "textColor": "243f35"
+      },
+      {
+        "x": 339,
+        "y": 557,
+        "width": 184,
+        "height": 23,
+        "color": "ffffff",
+        "label": "示例产品",
+        "fontSize": 12,
+        "bold": false,
+        "textColor": "738178"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p09.png"
+  },
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img17.jpg",
+    "masks": [
+      {
+        "x": 30,
+        "y": 10,
+        "width": 212,
+        "height": 55,
+        "color": "ffffff",
+        "label": "Water purifier",
+        "fontSize": 25,
+        "bold": true,
+        "textColor": "333333"
+      },
+      {
+        "x": 71,
+        "y": 360,
+        "width": 94,
+        "height": 21,
+        "color": "45504c"
+      },
+      {
+        "x": 1575,
+        "y": 663,
+        "width": 130,
+        "height": 34,
+        "color": "a5957e"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p05.png"
+  },
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img18.jpg",
+    "masks": [
+      {
+        "x": 23,
+        "y": 10,
+        "width": 207,
+        "height": 29,
+        "color": "ffffff",
+        "label": "Product Support",
+        "fontSize": 16,
+        "bold": true,
+        "textColor": "151515"
+      },
+      {
+        "x": 24,
+        "y": 67,
+        "width": 44,
+        "height": 40,
+        "color": "ffffff"
+      },
+      {
+        "x": 92,
+        "y": 81,
+        "width": 289,
+        "height": 45,
+        "color": "f7fbfc",
+        "label": "Hi, I'm your AI support assistant.",
+        "fontSize": 14,
+        "bold": false,
+        "textColor": "142337"
+      },
+      {
+        "x": 92,
+        "y": 130,
+        "width": 290,
+        "height": 29,
+        "color": "f7fbfc",
+        "label": "How can I help?",
+        "fontSize": 17,
+        "bold": true,
+        "textColor": "142337"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p36.png"
+  },
+  {
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img19.png",
+    "masks": [
+      {
+        "x": 44,
+        "y": 6,
+        "width": 155,
+        "height": 50,
+        "color": "ffffff",
+        "label": "库存管理",
+        "fontSize": 17,
+        "bold": true,
+        "textColor": "526577"
+      }
+    ],
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p10.png",
+    "weakMasks": [
+      {
+        "x": 262,
+        "y": 125,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 653,
+        "y": 125,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1044,
+        "y": 125,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1435,
+        "y": 125,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1826,
+        "y": 125,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 2217,
+        "y": 125,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 262,
+        "y": 308,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 653,
+        "y": 308,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1044,
+        "y": 308,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1435,
+        "y": 308,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1826,
+        "y": 308,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 2217,
+        "y": 308,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 262,
+        "y": 491,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 653,
+        "y": 491,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1044,
+        "y": 491,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1435,
+        "y": 491,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1826,
+        "y": 491,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 2217,
+        "y": 491,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 262,
+        "y": 674,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 653,
+        "y": 674,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1044,
+        "y": 674,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1435,
+        "y": 674,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1826,
+        "y": 674,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 2217,
+        "y": 674,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 262,
+        "y": 857,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 653,
+        "y": 857,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1044,
+        "y": 857,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1435,
+        "y": 857,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1826,
+        "y": 857,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 2217,
+        "y": 857,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 262,
+        "y": 1040,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 653,
+        "y": 1040,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1044,
+        "y": 1040,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1435,
+        "y": 1040,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 1826,
+        "y": 1040,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      },
+      {
+        "x": 2217,
+        "y": 1040,
+        "width": 98,
+        "height": 70,
+        "color": "ffffff"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "checked_at": "2026-10-19T14:36:33.090482+08:00",
+  "checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "f2f3c83553c38d6c8c54699ff170f44cb2756db03ccc970a3c79daa01dbf7f46",
+      "matches_release": true
+    },
+    {
+      "path": "articles.html",
+      "status": 200,
+      "sha256": "02394439ecfbf2be2e898334476e8f234d2e4743b9506ca446bd81627f2d98cc",
+      "matches_release": true
+    },
+    {
+      "path": "en/articles.html",
+      "status": 200,
+      "sha256": "7b9e81b50162e00087e8dfcb6ea02118fd080a14e759d22ffa638026a9154ecb",
+      "matches_release": true
+    },
+    {
+      "path": "articles/what-is-workbuddy.html",
+      "status": 200,
+      "sha256": "1a9f99537e9739254a1c6ad7ca4d940d0111e3e19a1427b5e3a7fd5ededa34df",
+      "matches_release": true
+    },
+    {
+      "path": "en/articles/what-is-workbuddy.html",
+      "status": 200,
+      "sha256": "ac07b9161bd5bf777c4f65e16f9537df2345db7248b8f6d15163baf84ca50d45",
+      "matches_release": true
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256": "de2525f7d67cb620085dda5e2e5b94a3cea11682509166aee5ba57817175f0e5",
+      "matches_release": true
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256": "1996dfc49d63ce994e04b9f332ab2b6e7d0071215331165c95b4fc2af57bfc46",
+      "matches_release": true
+    },
+    {
+      "path": "assets/articles.css",
+      "status": 200,
+      "sha256": "73835f89336d9fbac27fc2c4b93e9625ecb6c57b08b169e5f808a5f168c66a72",
+      "matches_release": true
+    },
+    {
+      "path": "assets/article-library.js",
+      "status": 200,
+      "sha256": "cd7689e85a9fc4105f8754fd1d77d56076782b97b929f1c3ea98a3395227b2a1",
+      "matches_release": true
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "matches_release": true
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "sha256": "c8c62314c3fb2b4cd6b750500814587246491d7f222a9ba294aecf9166293e86",
+      "matches_release": true
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "sha256": "2f30cc175ab07f7639a7cf4856c6c1e3e10cde44ce49dc20224dd6163175b67f",
+      "matches_release": true
+    }
+  ],
+  "all_pass": true
+}

@@ -1,0 +1,14 @@
+{
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261020-home-industries-fcafe9ca",
+  "files_verified": 369,
+  "previous_release_unchanged": true,
+  "nginx_configs_unchanged": true,
+  "ip_preview_unchanged": true,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "free_bytes": 11295956992
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "entries": [
+      {
+        "bottom": 1261.546875,
+        "href": "https://www.eliai.cn/about.html?pv=5c2760c23a73225e2ff6#contact",
+        "right": 136.34375,
+        "text": "免费聊聊 ↗",
+        "unobscured": false,
+        "x": 20,
+        "y": 1211.75
+      },
+      {
+        "bottom": 1354.546875,
+        "href": "https://www.eliai.cn/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+        "right": 174.34375,
+        "text": "了解知识库与答疑服务 ↗",
+        "unobscured": false,
+        "x": 20,
+        "y": 1310.546875
+      }
+    ],
+    "scrollWidth": 345,
+    "url": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360
+  },
+  {
+    "entries": [
+      {
+        "bottom": 1417.375,
+        "href": "https://www.eliai.cn/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+        "right": 138.296875,
+        "text": "Let’s talk ↗",
+        "unobscured": false,
+        "x": 20,
+        "y": 1367.578125
+      },
+      {
+        "bottom": 1510.375,
+        "href": "https://www.eliai.cn/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+        "right": 309.515625,
+        "text": "See knowledge-base and support services ↗",
+        "unobscured": false,
+        "x": 20,
+        "y": 1466.375
+      }
+    ],
+    "scrollWidth": 345,
+    "url": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360
+  }
+]

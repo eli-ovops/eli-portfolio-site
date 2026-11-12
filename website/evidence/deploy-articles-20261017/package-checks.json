@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "files": 365,
+  "bytes": 10581713,
+  "added": 208,
+  "changed_non_html": [
+    "sitemap.xml",
+    "asset-manifest.json",
+    "assets/page-version.js"
+  ],
+  "verification_files_preserved": 6,
+  "protected_visual_files": 9,
+  "stale_experiments_excluded": true
+}

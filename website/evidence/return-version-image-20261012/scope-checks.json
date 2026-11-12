@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-12",
+  "pages": 84,
+  "single_revision": "c2eb30e0505c4396515b",
+  "case_pages_with_zoom": 22,
+  "visible_text_and_image_attributes": "IDENTICAL to batch baseline",
+  "internal_html_navigation": "ALL_VERSIONED",
+  "canonical_indexing": "Checked separately by check_seo.py",
+  "protected_sources": "UNCHANGED",
+  "protected": [
+    "styles.css",
+    "motion.css",
+    "motion.js",
+    "app.js",
+    "assets/depth-gallery.js",
+    "assets/social-footer.css",
+    "content/projects.json",
+    "content/case-examples.json",
+    "content/seo.json"
+  ]
+}

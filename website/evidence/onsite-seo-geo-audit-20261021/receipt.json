@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-21T08:45:57.444059+08:00",
+  "website_revision": "4bc544a5361e14236d53",
+  "live_browser_pages": 12,
+  "live_public_text_files": 3,
+  "release_manifest_files_compared": 369,
+  "release_manifest_mismatches": 0,
+  "static_html_pages": 296,
+  "live_sitemap_urls": 294,
+  "live_sitemap_article_pages": 204,
+  "static_parameterized_internal_html_links": 5186,
+  "static_internal_html_link_occurrences": 7228,
+  "pages_with_parameterized_html_links": 296,
+  "direct_case_landings_without_main_service_links": [
+    "cases/p36.html",
+    "cases/p09.html",
+    "cases/p10.html",
+    "en/cases/p36.html",
+    "en/cases/p09.html",
+    "en/cases/p10.html"
+  ],
+  "latest_search_evidence_date": "2026-10-20T20:13:30.922748+08:00",
+  "new_search_console_checks": 0,
+  "new_model_queries": 0,
+  "website_source_edits": 0,
+  "builds": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "external_messages": 0,
+  "paid_resources": 0,
+  "status": "READ_ONLY_ONSITE_AUDIT_COMPLETE",
+  "findings": [
+    {
+      "id": "SEO-01",
+      "priority": "P1",
+      "kind": "Confirmed URL consistency issue; search impact not causally proven",
+      "issue": "Public navigation versions HTML URLs using pv while canonical and sitemap use clean URLs"
+    },
+    {
+      "id": "SEO-02",
+      "priority": "P1",
+      "kind": "Confirmed missing contextual service links, not broken consultation",
+      "issue": "P09/P10/P36 direct case landings lack permanent main-content link to the relevant service, in both languages"
+    },
+    {
+      "id": "GEO-03",
+      "priority": "P1",
+      "kind": "Confirmed evidence gap; not proof the underlying service fails",
+      "issue": "Knowledge-base page proposes answers with sources, but P36 public record only supports duties and initial UI, not answer quality"
+    },
+    {
+      "id": "CONTENT-04",
+      "priority": "P2",
+      "kind": "Buyer-decision information gap, not a technical indexing error",
+      "issue": "AI implementation service publishes a CNY500 floor without a concrete unit or example of what that floor covers"
+    },
+    {
+      "id": "CONTENT-05",
+      "priority": "P2",
+      "kind": "Editorial focus judgment, not proven keyword cannibalization",
+      "issue": "Inventory service page also devotes a full section and a case to product copy/image work"
+    }
+  ],
+  "findings_implemented": false,
+  "known_critical_indexing_blocker": "None observed in reviewed samples; crawler-specific access not proven",
+  "performance_field_data": "NOT_MEASURED",
+  "report": "report.md",
+  "skill_scores": "Not generated; uncalibrated score is not indexing/citation evidence",
+  "website_changed": false
+}

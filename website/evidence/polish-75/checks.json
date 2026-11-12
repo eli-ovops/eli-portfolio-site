@@ -1,0 +1,44 @@
+{
+  "scope": "4178 preserve palette/signature/depth presentation",
+  "improvements": [
+    "partial scene scroll no longer captured",
+    "top controls + Esc exit",
+    "seven direct project choices",
+    "native image dialog with original-size mode and focus return",
+    "responsive preview images",
+    "clear label for OA process illustration",
+    "concrete hero copy",
+    "unused decorative CSS and libraries removed"
+  ],
+  "tests": {
+    "partial_entry": {
+      "before_page": 240,
+      "after_page": 481,
+      "case_unchanged": "01"
+    },
+    "project_index": "inventory03 and RAG04 PASS",
+    "image_viewer": {
+      "original_width": 2558,
+      "rendered_original_width": 2558,
+      "modal_width_mobile": 322,
+      "escape_and_focus_return": "PASS"
+    },
+    "loop": "07 -> 01 PASS",
+    "filters": "systems3 names correct",
+    "mobile": "client360 scroll360",
+    "reduced": "all7 list, inert0",
+    "srcset_export": "all previews present",
+    "build_links_privacy": "PASS"
+  },
+  "image_bytes": {
+    "original_six": 2580735,
+    "large_preview_six": 532367
+  },
+  "unused_css_blocks_removed": 73,
+  "pending": [
+    "P12 complete real workflow confirmation",
+    "real phone touch/performance and real visitor feedback"
+  ],
+  "case_records": "unchanged pending human answer",
+  "production": "not deployed"
+}

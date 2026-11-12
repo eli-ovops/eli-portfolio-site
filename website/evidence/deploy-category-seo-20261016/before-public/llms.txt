@@ -1,0 +1,61 @@
+# Eli
+
+## FDE 前沿部署工程师｜企业 AI 应用咨询与自动化 - Eli
+Eli 是 FDE（前沿部署工程师），贴近企业业务，帮助选工具、改流程，需要时开发软件。提供免费初次咨询，可从 WorkBuddy 等现成工具、资料查找、库存核对或内容整理开始，先试一个小场景，再判断效果。
+
+[联系与合作](https://www.eliai.cn/about.html#contact)
+
+### 录入和库存靠人核对
+录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。
+[看库存案例](https://www.eliai.cn/cases/p10.html)
+[看扫码案例](https://www.eliai.cn/cases/p09.html)
+
+### 资料难找、问题反复问
+产品资料太散、员工或客户反复问同样的问题？可以先整理资料，再试用 AI 辅助查找和答疑。
+[看答疑案例](https://www.eliai.cn/cases/p36.html)
+
+### 产品内容总要重做
+产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。
+[看内容案例](https://www.eliai.cn/cases/p12.html)
+
+### 想用 AI，但不知道从哪开始？
+可以先免费聊聊公司最费时间的一件事。
+员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。
+
+### 会怎么推进，费用怎么定？
+先梳理流程，再选一个小场景。
+初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。
+
+### 一定要开发一套系统吗？
+用好一个工具，改善一个步骤，也可以开始。
+可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。
+
+## FDE & AI Consulting for Business | Eli
+Work with Eli, a forward deployed engineer (FDE), to choose AI tools, improve workflows or build software. Free initial consultation; start with one use case.
+
+[Contact and cooperation](https://www.eliai.cn/en/about.html#contact)
+
+### Repeated entry and stock checks
+Review entry and stock-checking steps to see where software can reduce repeated handling.
+[Inventory case](https://www.eliai.cn/en/cases/p10.html)
+[Barcode case](https://www.eliai.cn/en/cases/p09.html)
+
+### Information lookup and repeated questions
+Review scattered product documents and recurring questions, then try AI-assisted lookup and support.
+[Support case](https://www.eliai.cn/en/cases/p36.html)
+
+### Product content takes time
+Review how product information becomes copy and images, with people reviewing the output.
+[Content case](https://www.eliai.cn/en/cases/p12.html)
+
+### Want AI, but unsure where to start?
+Start with a free conversation about one time-consuming task.
+What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan.
+
+### How do we proceed and estimate cost?
+Review the workflow, then choose one small use case.
+The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance.
+
+### Do we need to build a whole system?
+One useful tool or one better step can be a starting point.
+We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding.

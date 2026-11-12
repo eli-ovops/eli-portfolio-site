@@ -1,0 +1,24 @@
+{
+  "scope": [
+    "templates/layout.html",
+    "assets/social-footer.css",
+    "scripts/localization.py"
+  ],
+  "build_pages": 84,
+  "localization": "PASS",
+  "desktop": {
+    "footer_height_px": 194.390625,
+    "previous_height_px": 208.6875,
+    "overflow": false
+  },
+  "mobile_375": {
+    "footer_height_px": 337.390625,
+    "overflow": false,
+    "social_columns": 5
+  },
+  "english_mobile_overflow": false,
+  "social_links": 10,
+  "qr": "preserved",
+  "deployment": "not performed",
+  "files": "retained before backups, desktop screenshot and this acceptance receipt; no disposable intermediates"
+}

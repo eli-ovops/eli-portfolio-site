@@ -1,0 +1,44 @@
+{
+  "time": "2026-10-16T05:53:52.723849+00:00",
+  "status": "LOCAL_VALIDATED_NOT_PUBLISHED",
+  "revision": "93c0170f65a3847d1b0f",
+  "production_revision_unchanged": "03985a2ddb6824f06f7f",
+  "changes": {
+    "navigation": "Known same-language service sources are retained through case links, related cases, history/BFCache and referrer fallback. Return label and anchor reflect service. List filter/search source rules preserved; service links do not overwrite list session.",
+    "content": "3 bilingual service intros and possible deliverables clarified; real related case proof and consultation placed before the detailed sections; Agent knowledge experience distinguished from action automation validation.",
+    "style": "Service-only lightweight typography/divider, case links17px; no glass, no motion controller changes; previous local About short-line refinement retained."
+  },
+  "changed_files": {
+    "assets/page-version.js": "9bd07351f7cfce8d7bfd7cb5036874270da63ed1525a75510e3fa92c7c7f5569",
+    "assets/editorial.css": "229ec502fbaa10734cda2efe84a79b2ac1373d61870b074bf0db8580511d3b40",
+    "content/seo.json": "d2396c5b2c1690aa9181a5ee58febf4c3c3277b7232632545de1641b364f7f6d",
+    "scripts/pages.py": "9212cd9b28f2a8ed8c604f4b323f0cc8577ce032d90cd6ee29479f2d50077663",
+    "templates/service.html": "4c2351d37a433f4ec8991eec045ecabb126a79183605dce9659d41f945ec19a3",
+    "scripts/check_service_return.cjs": "39cbca9a6ed01416d4c6e189198ad8d6f4b00ec136672bfe6f275be390577c00"
+  },
+  "tests": {
+    "baseline_red": "Known old navigation fails service-return requirement; log saved",
+    "return_green": "PASS: service entry, related chain, BFCache/history/referrer, bilingual/subpath origins, catalogue isolation and invalid sources",
+    "other_regressions": [
+      "check_return_owner.cjs",
+      "check_related_return.cjs",
+      "check_navigation_version.cjs",
+      "check_search_reset.cjs"
+    ],
+    "build": "90 HTML pages,38 unchanged project records",
+    "seo": "90 unique title/description,88 canonical indexable routes",
+    "localization": "45 language pairs",
+    "static_http_links": "90 pages checked",
+    "browser": "All3 Chinese390 service→case→service→consult; FDE→P10→relatedP09→service; English related source return;320px all6 no horizontal overflow; English2 shortened after check"
+  },
+  "viewport_limit": "Browser simulation only, not physical device. English Agent320 consultation is just below first fold, remains in normal page flow; Chinese320/390 proof and consultation visible in first fold.",
+  "assets_preserved": [
+    "assets/editorial.js",
+    "assets/bits-ui.js",
+    "assets/bits-ui.css"
+  ],
+  "publication": false,
+  "indexing_settings": "UNCHANGED; local HTTP still noindex",
+  "server_or_platform_changes": false,
+  "artifacts": "Before copies, logs, screenshots and receipts retained; no disposable assets deleted."
+}

@@ -1,0 +1,357 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: index.html
+    - link "项目库":
+      - /url: records.html
+    - link "文章":
+      - /url: articles.html
+    - link "关于":
+      - /url: about.html
+    - link "切换到英文版":
+      - /url: en/records.html
+      - text: EN
+- main:
+  - heading "项目索引" [level=1]:
+    - generic: 项目索引
+  - paragraph: 客户项目、产品实践与专题研究。
+  - generic "项目筛选":
+    - button "全部" [pressed]
+    - button "客户项目"
+    - button "网站与工具"
+    - button "移动应用"
+    - button "内容与研究"
+    - button "方法与工具"
+  - generic: 搜索项目
+  - searchbox "搜索项目"
+  - paragraph: “客户项目”跨作品类型，筛选结果可重合。
+  - paragraph: 38 项记录
+  - generic: 精选优先
+  - generic "搜索建议":
+    - text: 搜索建议
+    - generic: +
+  - list:
+    - link "P10 网站与工具 洁具行业某大型 B 端厂商库存管理系统 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。":
+      - /url: cases/p10.html
+      - text: P10
+      - generic: 网站与工具
+      - generic: 洁具行业某大型 B 端厂商库存管理系统
+      - generic: 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。
+      - generic: ↗
+    - link "P36 客户项目 英国某净水品牌 RAG 智能客服定制 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。":
+      - /url: cases/p36.html
+      - text: P36
+      - generic: 客户项目
+      - generic: 英国某净水品牌 RAG 智能客服定制
+      - generic: 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。
+      - generic: ↗
+    - link "P09 网站与工具 某家具品牌扫码库存系统 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。":
+      - /url: cases/p09.html
+      - text: P09
+      - generic: 网站与工具
+      - generic: 某家具品牌扫码库存系统
+      - generic: 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。
+      - generic: ↗
+    - link "P04 客户项目 某律师事务所 OA 系统 依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。":
+      - /url: cases/p04.html
+      - text: P04
+      - generic: 客户项目
+      - generic: 某律师事务所 OA 系统
+      - generic: 依据团队驻场调研成果承担律所 OA 系统开发，围绕各岗位办公需求与分散资料进行功能定制，协同完成培训及交付。
+      - generic: ↗
+    - link "P02 客户项目 深圳某慈善基金会 参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。":
+      - /url: cases/p02.html
+      - text: P02
+      - generic: 客户项目
+      - generic: 深圳某慈善基金会
+      - generic: 参与公益机构官网开发，规划机构介绍、公益项目、新闻资讯与信息公开栏目，设计网站导航及内容页面之间的浏览路径。
+      - generic: ↗
+    - link "P05 客户项目 英国某净水品牌全域营销 参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。":
+      - /url: cases/p05.html
+      - text: P05
+      - generic: 客户项目
+      - generic: 英国某净水品牌全域营销
+      - generic: 参与品牌出海营销，围绕客户自有独立站开展活动策划、内容与 AI 视频制作，结合 KOC 合作及社交平台推广。
+      - generic: ↗
+    - link "P01 方法与工具 企业客户项目合作 参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。":
+      - /url: cases/p01.html
+      - text: P01
+      - generic: 方法与工具
+      - generic: 企业客户项目合作
+      - generic: 参与公益机构和律所官网、律所办公系统、英国品牌营销及智能客服项目，承担需求梳理、项目计划和演示版本开发。
+      - generic: ↗
+    - link "P03 客户项目 深圳某律师事务所 参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。":
+      - /url: cases/p03.html
+      - text: P03
+      - generic: 客户项目
+      - generic: 深圳某律师事务所
+      - generic: 参与律所官网开发，整合专业服务、律师团队、新闻资讯与咨询入口，规划内容结构与页面导航，呈现专业服务信息。
+      - generic: ↗
+    - link "P06 网站与工具 AI 录单交互原型 制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。":
+      - /url: cases/p06.html
+      - text: P06
+      - generic: 网站与工具
+      - generic: AI 录单交互原型
+      - generic: 制作单据录入交互原型，演示上传、字段呈现、人工修正、状态筛选和审计日志，并整理录单流程与需求材料。
+      - generic: ↗
+    - link "P07 网站与工具 某家具品牌官网 主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。":
+      - /url: cases/p07.html
+      - text: P07
+      - generic: 网站与工具
+      - generic: 某家具品牌官网
+      - generic: 主导面向国际采购商的品牌网站开发，整合产品、工厂与图库内容，提供语言切换，并梳理询盘流程和内容维护需求。
+      - generic: ↗
+    - link "P08 网站与工具 某家具品牌产品目录 整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。":
+      - /url: cases/p08.html
+      - text: P08
+      - generic: 网站与工具
+      - generic: 某家具品牌产品目录
+      - generic: 整理家具产品图片、型号、尺寸和规格，制作适合纸张与手机浏览的产品目录，并区分真实产品图与生成场景素材。
+      - generic: ↗
+    - link "P11 网站与工具 英国／澳大利亚小商户网站改版与获客实验 整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。":
+      - /url: cases/p11.html
+      - text: P11
+      - generic: 网站与工具
+      - generic: 英国／澳大利亚小商户网站改版与获客实验
+      - generic: 整理英国和澳大利亚小商户的公开信息，制作网站改版演示，核对手机浏览与询盘路径，并准备报价和合作材料。
+      - generic: ↗
+    - link "P12 网站与工具 织境 · AI 内容工作台 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。":
+      - /url: cases/p12.html
+      - text: P12
+      - generic: 网站与工具
+      - generic: 织境 · AI 内容工作台
+      - generic: 主导家居面料内容工作台开发，组织产品资料、风格设置、内容编辑与人工确认，并分别验证模型输出、账号连接和导出路径。
+      - generic: ↗
+    - link "P13 移动应用 Pocket Rove 主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。":
+      - /url: cases/p13.html
+      - text: P13
+      - generic: 移动应用
+      - generic: Pocket Rove
+      - generic: 主导双语每日任务应用开发，设计任务完成、历史回顾与纪念品流程，加入通知与付费入口，制作应用商店展示素材。
+      - generic: ↗
+    - link "P14 移动应用 Focumi 开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。":
+      - /url: cases/p14.html
+      - text: P14
+      - generic: 移动应用
+      - generic: Focumi
+      - generic: 开发宠物陪伴专注应用，制作宠物认领、目标时长与状态切换流程，处理系统权限、锁屏活动和通知相关接入。
+      - generic: ↗
+    - link "P15 移动应用 PetSocial（现名 HelloTail） 开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。":
+      - /url: cases/p15.html
+      - text: P15
+      - generic: 移动应用
+      - generic: PetSocial（现名 HelloTail）
+      - generic: 开发宠物资料、照片展示、发现邀请与聊天流程，处理消息发送和重启恢复，并制作独立演示界面用于体验验证。
+      - generic: ↗
+    - link "P16 移动应用 LocalStamp · 地点水印相机 制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。":
+      - /url: cases/p16.html
+      - text: P16
+      - generic: 移动应用
+      - generic: LocalStamp · 地点水印相机
+      - generic: 制作地点时间水印相机，接入拍摄与定位，提供三种水印、本地图片生成、相册保存和分享，处理权限失败反馈。
+      - generic: ↗
+    - link "P17 移动应用 周易留白 · 阅读原型 制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。":
+      - /url: cases/p17.html
+      - text: P17
+      - generic: 移动应用
+      - generic: 周易留白 · 阅读原型
+      - generic: 制作六轮起卦与卦文阅读原型，组织六十四卦原文、开放式反思问题和本地历史，加入记录导入导出与网页包装。
+      - generic: ↗
+    - link "P18 移动应用 学习时长提醒原型 制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。":
+      - /url: cases/p18.html
+      - text: P18
+      - generic: 移动应用
+      - generic: 学习时长提醒原型
+      - generic: 制作学习时长达标提醒原型，配置应用目标与提醒时间，接入用量回调，处理日期隔离和状态展示，验证提醒逻辑。
+      - generic: ↗
+    - link "P19 移动应用 发型试戴与发型师参考卡 制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。":
+      - /url: cases/p19.html
+      - text: P19
+      - generic: 移动应用
+      - generic: 发型试戴与发型师参考卡
+      - generic: 制作发型试戴与发型师参考卡原型，组织三视图输入、发质条件和候选对比，探索关键点校准、跟随展示与资料导出。
+      - generic: ↗
+    - link "P20 网站与工具 ClaimFlow · 理赔产品概念页 制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。":
+      - /url: cases/p20.html
+      - text: P20
+      - generic: 网站与工具
+      - generic: ClaimFlow · 理赔产品概念页
+      - generic: 制作保险理赔产品概念页，组织理赔工作流、功能展示、常见问题和产品示意界面，以静态页面表达定位与使用场景。
+      - generic: ↗
+    - link "P21 内容与研究 自动挂单流程修复 修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。":
+      - /url: cases/p21.html
+      - text: P21
+      - generic: 内容与研究
+      - generic: 自动挂单流程修复
+      - generic: 修复自动挂单的中断续办与重连流程，加入订单核对、保护单检查、持久审计、通知退避和防重复部署处理。
+      - generic: ↗
+    - link "P22 内容与研究 跨交易所盘口价差取证系统 搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。":
+      - /url: cases/p22.html
+      - text: P22
+      - generic: 内容与研究
+      - generic: 跨交易所盘口价差取证系统
+      - generic: 搭建盘口价差取证流程，核对报价时效、交易深度、手续费与数量规则，保存原始事件并进行独立数据回放。
+      - generic: ↗
+    - link "P23 内容与研究 策略研究框架 构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。":
+      - /url: cases/p23.html
+      - text: P23
+      - generic: 内容与研究
+      - generic: 策略研究框架
+      - generic: 构建策略研究框架，整理突破与退出规则，加入费用和延迟情景，用独立实现逐笔对照回测过程与数据。
+      - generic: ↗
+    - link "P24 内容与研究 Serenity · 公司与产业研究 整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。":
+      - /url: cases/p24.html
+      - text: P24
+      - generic: 内容与研究
+      - generic: Serenity · 公司与产业研究
+      - generic: 整理产业与公司候选矩阵，用公司公告和官方资料核对催化因素、估值假设与反证，形成可追溯的研究记录。
+      - generic: ↗
+    - link "P25 移动应用 个性化AI新闻简报 梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。":
+      - /url: cases/p25.html
+      - text: P25
+      - generic: 移动应用
+      - generic: 个性化AI新闻简报
+      - generic: 梳理兴趣画像与信息来源，设计新闻去重和简报流程，验证公开信息订阅解析，整理样例输出与后续开发需求。
+      - generic: ↗
+    - link "P26 内容与研究 AI短视频制作与App推广资产 把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。":
+      - /url: cases/p26.html
+      - text: P26
+      - generic: 内容与研究
+      - generic: AI短视频制作与App推广资产
+      - generic: 把应用功能整理为短视频脚本与分镜，制作字幕、截图和声音剪辑素材，按不同社交平台格式组织版本化交付。
+      - generic: ↗
+    - link "P27 内容与研究 无脸播客／真实历史奇事频道研究 研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。":
+      - /url: cases/p27.html
+      - text: P27
+      - generic: 内容与研究
+      - generic: 无脸播客／真实历史奇事频道研究
+      - generic: 研究无脸播客和历史奇事频道，整理样本频道、选题候选与制作成本，建立首期制作计划和后续内容生产规范。
+      - generic: ↗
+    - link "P28 内容与研究 独立App机会与海外本土化研究 围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。":
+      - /url: cases/p28.html
+      - text: P28
+      - generic: 内容与研究
+      - generic: 独立App机会与海外本土化研究
+      - generic: 围绕针织、摄影、旅行和运动等场景整理小应用机会，比较需求与替代工具，制作筛选报告和方向评分材料。
+      - generic: ↗
+    - link "P29 内容与研究 AI Project Radar · 项目情报 整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。":
+      - /url: cases/p29.html
+      - text: P29
+      - generic: 内容与研究
+      - generic: AI Project Radar · 项目情报
+      - generic: 整理 AI 生态项目线索，制定公开来源、评分规则和日报模板，组织重点项目说明，形成可人工触发的情报任务包。
+      - generic: ↗
+    - link "P30 方法与工具 AI 协作规则与工作方式 整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。":
+      - /url: cases/p30.html
+      - text: P30
+      - generic: 方法与工具
+      - generic: AI 协作规则与工作方式
+      - generic: 整理 AI 协作中的任务分工、工具选择和成果检查，把项目接续与文件管理连成清楚的流程，方便不同工作持续推进。
+      - generic: ↗
+    - link "P31 方法与工具 Mac磁盘审计与安全清理 按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。":
+      - /url: cases/p31.html
+      - text: P31
+      - generic: 方法与工具
+      - generic: Mac磁盘审计与安全清理
+      - generic: 按项目核对磁盘占用和可清理范围，保护独有数据与运行依赖，验证外盘副本、文件哈希和清理前后的空间变化。
+      - generic: ↗
+    - link "P32 方法与工具 Skills 与知识整理 整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。":
+      - /url: cases/p32.html
+      - text: P32
+      - generic: 方法与工具
+      - generic: Skills 与知识整理
+      - generic: 整理技能来源、知识索引和学习步骤，梳理工具的适用范围、依赖与复用方式，将项目资料组织为可检索的知识入口。
+      - generic: ↗
+    - link "P33 方法与工具 Ox Alpha · 远程模型客户端 制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。":
+      - /url: cases/p33.html
+      - text: P33
+      - generic: 方法与工具
+      - generic: Ox Alpha · 远程模型客户端
+      - generic: 制作隔离的远程模型试用客户端，核对价格与模型可用性，设置隐藏密钥输入、独立配置目录和指定调用入口。
+      - generic: ↗
+    - link "P34 方法与工具 Upwork／UUMIT · 合作准备 整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。":
+      - /url: cases/p34.html
+      - text: P34
+      - generic: 方法与工具
+      - generic: Upwork／UUMIT · 合作准备
+      - generic: 整理个人能力与项目经验，准备合作范围、机会评分和提案材料，建立接活工作区，用于匹配客户需求与合作机会。
+      - generic: ↗
+    - link "P35 内容与研究 化工毕业论文与资料整理 整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。":
+      - /url: cases/p35.html
+      - text: P35
+      - generic: 内容与研究
+      - generic: 化工毕业论文与资料整理
+      - generic: 整理化工毕业论文的学校要求、选题材料和工作目录，建立交接包，便于接续资料查阅、写作与进度管理。
+      - generic: ↗
+    - link "N01 移动应用 APNs 远程通知验证 搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。":
+      - /url: cases/n01.html
+      - text: N01
+      - generic: 移动应用
+      - generic: APNs 远程通知验证
+      - generic: 搭建远程通知的最小验证界面，处理通知授权和设备注册，整理单次真机实验计划与证据，用于核对通知送达链路。
+      - generic: ↗
+    - link "N02 内容与研究 OpenAI DevDay · 官方内容研究 建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。":
+      - /url: cases/n02.html
+      - text: N02
+      - generic: 内容与研究
+      - generic: OpenAI DevDay · 官方内容研究
+      - generic: 建立 DevDay 官方内容研究任务，围绕开发能力、开放状态与创业应用边界安排后续专题阅读和学习。
+      - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

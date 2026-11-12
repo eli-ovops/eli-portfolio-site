@@ -1,0 +1,14 @@
+[
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. Page already revealed",
+    "timestamp": "2026-10-21T00:56:52.169Z",
+    "url": "http://127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10"
+  },
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. Page already revealed",
+    "timestamp": "2026-10-21T00:56:52.738Z",
+    "url": "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory&return=p10"
+  }
+]

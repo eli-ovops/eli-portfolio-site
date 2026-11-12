@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-21",
+  "status": "LOCAL_READY_NOT_PUBLISHED",
+  "candidate_revision": "cc132dc0e7da5cecf41d",
+  "production_revision_unchanged": "4bc544a5361e14236d53",
+  "production_actions": 0,
+  "search_submissions": 0,
+  "email_or_external_sends": 0,
+  "new_dependencies": 0,
+  "source_files_changed": [
+    "site.yaml",
+    "content/page-updates.json",
+    "scripts/check_localization.py",
+    "scripts/page_updates.py",
+    "scripts/page_versions.py",
+    "scripts/check_service_return.cjs",
+    "scripts/check_related_return.cjs",
+    "scripts/pages.py",
+    "scripts/check_home_case_return.cjs",
+    "scripts/check_navigation_version.cjs",
+    "scripts/check_return_owner.cjs",
+    "assets/page-version.js"
+  ],
+  "checks": {
+    "build": "PASS; ordinary rebuild without date override also passed",
+    "static_html_http_links_fragments": "296 pages PASS",
+    "bilingual_metadata": "296 pages PASS",
+    "language_pairs": 148,
+    "navigation_regression_suites": 5,
+    "browser_steps_file": "browser-steps.json",
+    "mobile_cases_file": "mobile-final.json",
+    "scope_and_dates": "scope-checks.json"
+  },
+  "preview": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+  "notes": [
+    "Mobile checks use browser viewport simulation, not real phones.",
+    "Two native View Transition InvalidStateError messages during rapid navigation; functional return paths passed. Existing animation code remains byte-identical."
+  ]
+}

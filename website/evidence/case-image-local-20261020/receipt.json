@@ -1,0 +1,119 @@
+{
+  "checked_at": "2026-10-20T16:29:50.257155+08:00",
+  "status": "LOCAL_COMBINED_CANDIDATE_VERIFIED_NOT_PUBLISHED",
+  "prior_goal_turn": "PROGRESS: source changed, built and browser verified; no active job waited or restarted",
+  "objective": "继续优化我的官网，还有seo/geo",
+  "production_revision": "fcafe9ca8a0e904465b2",
+  "local_revision": "87919417171750dd1242",
+  "parent_receipt": "evidence/seo-geo-fixes-local-20261020/receipt.json",
+  "source_changes_this_turn": [
+    "scripts/components.py",
+    "scripts/pages.py",
+    "content/page-updates.json",
+    "site.yaml"
+  ],
+  "html_changes_this_turn": [
+    "cases/p02.html",
+    "cases/p05.html",
+    "en/cases/p02.html",
+    "en/cases/p05.html"
+  ],
+  "combined_visible_changes": [
+    "articles/ai-ocr-check.html",
+    "articles/workbuddy-spreadsheet.html",
+    "cases/p02.html",
+    "cases/p05.html",
+    "en/articles/ai-consultation-prepare.html",
+    "en/articles/ai-ocr-check.html",
+    "en/articles/what-is-fde-business.html",
+    "en/articles/workbuddy-spreadsheet.html",
+    "en/cases/p02.html",
+    "en/cases/p05.html"
+  ],
+  "protected_assets_unchanged": 84,
+  "media_changed": 0,
+  "dependencies_added": 0,
+  "build": "PASS296",
+  "seo": "PASS294indexable/204articles",
+  "static_http_links_privacy": "PASS296; execution time in receipt, harness date field hardcoded",
+  "browser": "PASS: four bilingual cases, mobile360/390 and desktop1440 samples, originals/dialog/return/contact",
+  "physical_phone_test": false,
+  "size_measurement": [
+    {
+      "case": "p02",
+      "original_bytes": 775310,
+      "responsive_candidates": [
+        {
+          "width": 640,
+          "bytes": 68807,
+          "reduction_fraction": 0.9112522732842347
+        },
+        {
+          "width": 1200,
+          "bytes": 172020,
+          "reduction_fraction": 0.7781274586939417
+        }
+      ]
+    },
+    {
+      "case": "p05",
+      "original_bytes": 1193449,
+      "responsive_candidates": [
+        {
+          "width": 640,
+          "bytes": 40492,
+          "reduction_fraction": 0.966071445030328
+        },
+        {
+          "width": 1200,
+          "bytes": 109454,
+          "reduction_fraction": 0.9082876603859905
+        }
+      ]
+    }
+  ],
+  "search_outcome_improvement": "NOT_MEASURED",
+  "submissions": 0,
+  "indexing_requests": 0,
+  "emails": 0,
+  "deployments": 0,
+  "production_approval": "PENDING; prior deployment authority was for frozen industries revision only",
+  "goal_completion": "NOT_CLAIMED: production remains unchanged; real case evidence and qualified search outcomes still require evidence",
+  "preview": "http://127.0.0.1:4178/cases/p02.html?pv=87919417171750dd1242",
+  "artifact_retention": "Evidence, before snapshots and previews retained for review; no cleanup",
+  "evidence_sha256": {
+    "report.md": "513c88a709ceecf6a6fae3f7213c26301f17cf6bd8cc6ef52623db29d3dfb905",
+    "prepare_candidate.py": "77188bf7a130e3392c26769a8767805ae3f50ca5b9f642a3913c6b77b797066d",
+    "browser-after.json": "e371964156d08560f81ec2853408cd09d579dc1c59b0f7fdb65f476e94ab8a95",
+    "verify_scope.py": "6294e02c5b904d6a88b03ecb54b9ad2934ec2436cbc0c4e05fa446a0c9688c82",
+    "seo-checks.json": "6374d34c694185538f16493b304ec3d9c37b0619704c29d65f56f63eafa820c6",
+    "combined-checks.json": "b62d3abec719b9c9c7efd025550856a369e2767fc00adbac1e5be95c9fbc8740",
+    "baseline.json": "168eba84a347757509ada459bb854a4e3198e8a6ccfc9878ebf3407cfa0d6fa9",
+    "browser-before.json": "449653cb3897708597c1457d280f660f7310d8c1dbf26f3b265174922bd0952d",
+    "candidate-package.json": "a8239ee8b14e8e69f754bb5c75c23069013db26994f39956a815eb1d190c8270",
+    "static-checks.json": "b7623b0b516ed30140caf97733476040a9e5a2e97a8f6a03f6a0f43eaaa75614",
+    "20261020-seo-geo-87919417.tar.gz": "384c4e0a36101fb14d91d5fc8dea14eb38ef6bfd17a01ae9cec3457636b87e0c",
+    "chinese-mobile-case.jpg": "58e20229814b8babd7b35b1722a7bb1428b90c01c3221b1cb3b193ff2aab27fe",
+    "english-mobile-case.jpg": "8727f4a712894cd57b9b7961ea6c00305a46a53090769594b277f57a3954b110",
+    "scope-checks.json": "d0b84d46cc44e643790ec8498a2c727cb8368c737ea59a0423b11c86c70efb87"
+  },
+  "local_package": {
+    "package": "/Users/USER/Documents/原点向量/个人网站/website/evidence/case-image-local-20261020/20261020-seo-geo-87919417.tar.gz",
+    "package_sha256": "384c4e0a36101fb14d91d5fc8dea14eb38ef6bfd17a01ae9cec3457636b87e0c",
+    "archive_bytes": 10651850,
+    "public_file_count": 369,
+    "publication_authorized": false,
+    "live_preflight_required_before_upload": true
+  },
+  "source_hashes": {
+    "scripts/seo.py": "e76aa9d7dc7974cfc827ec8cceca96f547ce38a0a557edc0e763b241d418f2ca",
+    "scripts/tutorials.py": "f3298264b9b107515bd34e618f245e1dcd338d0e0d387f2973993ffa115e27f7",
+    "scripts/components.py": "bae3daad7e30f2b8c7420fda57b7702651ca061a6898ecbd6380330dfe22343e",
+    "scripts/pages.py": "016220a58340c4d42f778db0fdb466be9af596501ce01b0258dcf8b1fe8f1fe2",
+    "content/tutorials/sources.json": "dec2b4ff067babfe373247622a1b135cf6a1489f67da87cf7d05c17c3ef42e2f",
+    "content/tutorials/office.json": "6235f3928020b44fe28111e212a84d52279c0bb26bb3285b1cd9736ee74664e5",
+    "content/tutorials/workbuddy.json": "7c2bd0b359bbe95699011362668756ac1ff25243127eac31311552bd5ae6e298",
+    "content/page-updates.json": "9db5291538e4bf03bef1f2135a889e3d899aced1d1414def2364931dc693e8ee",
+    "site.yaml": "2c27356261a7ddf0162921d94d3597ef624b07b67e05f8eaa3231cb1f61712f4"
+  }
+}

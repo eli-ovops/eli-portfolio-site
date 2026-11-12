@@ -1,0 +1,68 @@
+[
+  {
+    "check": "P02 desktop before",
+    "frame": {
+      "bottom": 684.890625,
+      "height": 460.796875,
+      "left": 742.296875,
+      "right": 1352,
+      "top": 224.09375,
+      "width": 609.703125,
+      "x": 742.296875,
+      "y": 224.09375
+    },
+    "image": [
+      {
+        "alt": "深圳某慈善基金会脱敏界面展示",
+        "complete": true,
+        "rect": {
+          "bottom": 684.890625,
+          "height": 460.796875,
+          "left": 742.296875,
+          "right": 1352,
+          "top": 224.09375,
+          "width": 609.703125,
+          "x": 742.296875,
+          "y": 224.09375
+        },
+        "src": "http://127.0.0.1:4178/assets/public-cases/p02.png"
+      }
+    ],
+    "scrollWidth": 1425,
+    "url": "http://127.0.0.1:4178/cases/p02.html?pv=0670cd51cec094148791",
+    "width": 1440
+  },
+  {
+    "check": "P05 English mobile before",
+    "frame": {
+      "bottom": 684.38427734375,
+      "height": 240.00003051757812,
+      "left": 21,
+      "right": 354,
+      "top": 444.3842468261719,
+      "width": 333,
+      "x": 21,
+      "y": 444.3842468261719
+    },
+    "image": [
+      {
+        "alt": "UK water purification brand marketing — anonymized interface",
+        "complete": true,
+        "rect": {
+          "bottom": 684.38427734375,
+          "height": 240.00003051757812,
+          "left": 21,
+          "right": 354,
+          "top": 444.3842468261719,
+          "width": 333,
+          "x": 21,
+          "y": 444.3842468261719
+        },
+        "src": "http://127.0.0.1:4178/assets/public-cases/p05.png"
+      }
+    ],
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/cases/p05.html?pv=0670cd51cec094148791",
+    "width": 390
+  }
+]

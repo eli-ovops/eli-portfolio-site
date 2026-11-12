@@ -1,0 +1,175 @@
+# Global canonical blank template. Copy to a project as site.yaml.
+# Never put secret values, credentials, business data, or real private keys here.
+schema_version: "1.0"
+status: "public-static-release"
+site_id: "personal-practice-portfolio"
+project: "personal-website"
+confirmed_by: "user: publish current portfolio on shared server"
+confirmed_at: "2026-10-07"
+no_secret_values: true
+
+server:
+  reference: "/Users/USER/.codex/servers/jdcloud-[REDACTED_HOST]/AGENTS.md"
+  owner: "user"
+
+environments:
+  # `enabled` only declares whether this target is configured for use.
+  # It never grants deploy authorization; authorization is recorded under `deployment`.
+  preview:
+    enabled: true
+    public_url: "http://127.0.0.1:4178"
+    admin_path: null
+  production:
+    enabled: true
+    public_url: "https://www.eliai.cn/"
+    admin_path: null
+
+repository:
+  repo_url: "UNKNOWN"
+  approved_branch: "UNKNOWN"
+  production_branch: "main"
+  commit_sha_required: false # existing non-Git source; release file hashes and archive SHA-256 recorded
+
+architecture: "static"
+
+toolchain:
+  node: ">=20.9.0"
+  pnpm_major: null
+  package_manager: null
+  lockfile: null
+  payload_version: null
+
+runtime:
+  app_port_reference: null
+  health_port_reference: null
+
+deployment:
+  # Select exactly one mechanism that is confirmed by the project guide/site contract.
+  # Supported mechanisms: local, ssh-forced-command, ssh-shell, container, ci, console.
+  # Do not infer a forced command, publisher, wrapper, validate step, or lock from this template.
+  mechanism: "ssh-shell"
+  call_carrier: "strict SSH/SCP according to server guide"
+  forced_command_reference: null
+  allowed_modes:
+    - "static"
+  guide_reference: "/Users/USER/.codex/servers/jdcloud-[REDACTED_HOST]/AGENTS.md"
+  production_approval_required: true
+  authorization_reference: "2026-10-16 user authorizes only Cookie button labels 允许 / 暂不 deployment; evidence/deploy-cookie-labels-20261016-4214c0d6/receipt.json"
+  deploy_owner: "current website execution chat"
+  validate_required: "not-applicable"
+  status_required: true
+
+  # Eli preview exception: use `ssh-shell`, set `validate_required: not-applicable`,
+  # and reference `eli-roxychao-deployment` plus its live guide. Eli has ordinary
+  # SSH/PTY and no forced command, publisher, wrapper, validate chain, or deploy lock.
+  eli_preview_exception: false
+
+storage:
+  code_reference: "UNKNOWN"
+  releases_reference: "UNKNOWN"
+  database_reference: "UNKNOWN"
+  media_reference: "UNKNOWN"
+
+database:
+  type: "UNKNOWN"
+  credential_secret_ref: "UNKNOWN"
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "UNKNOWN"
+  developer: "UNKNOWN"
+  server_owner: "UNKNOWN"
+
+migration:
+  required: false
+  required_for_localization: true
+  procedure_reference: "UNKNOWN"
+  production_approval_required: true
+
+backup:
+  procedure_reference: "UNKNOWN"
+  database_and_media_separate: true
+  restore_rehearsal_required: true
+
+release_retention:
+  policy_reference: "UNKNOWN"
+  previous_accepted_release_required: true
+
+health_checks:
+  public_page: "UNKNOWN"
+  application: "UNKNOWN"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "UNKNOWN"
+  explicit_authorization_required: true
+
+local_scope:
+  level: "internal preview"
+  current_task_authorization: "2026-10-17 user requests official FlexCarousel JS-CSS with liquid edge shaders for local representative projects; no publication"
+  current_task_publication_authorized: false
+  current_task_publication_scope: "Local first-contact candidate only; production remains 4214c0d6f6cd8e3dd8ce"
+  current_task_receipt: "evidence/flex-carousel-official-local-20261017/receipt.json"
+  python: "3.9.6"
+  project_dependencies: ["GSAP 3.15.0 core, locally vendored", "isolated homepage React 19.3.1 / React DOM 19.3.1 / OGL 1.0.11; components/react-bits/package-lock.json"]
+  database: null
+  publication_authorized: false
+  source_asset_rights: "UNKNOWN"
+  actual_model: "UNKNOWN"
+  actual_effort: "UNKNOWN"
+  routing_version: "ROUTING-2026-10-13-v4"
+
+localization:
+  default_language: "zh-CN"
+  languages: ["zh-CN", "en"]
+  english_path: "en/"
+  authorization_reference: "2026-10-07 user requests full English version with language switching"
+
+seo:
+  configuration_reference: "content/seo.json"
+  indexing_enabled: true
+  status: "Analytics release178520c8fe26246e904b; canonical sitemap88; indexing remains enabled; IP preview remains noindex"
+  local_optimization_reference: "docs/SEO与GEO服务定位-20261014.md"
+  experiment_reference: "docs/SEO准备与自然流量实验.md"
+
+filing:
+  status: "APPROVED"
+  website_number: "浙ICP备2026044062号-2"
+  domain: "eliai.cn"
+  evidence_reference: "evidence/icp-approved-20261015/receipt.json"
+  footer_reference: "evidence/icp-footer-domain-20261015/receipt.json"
+  https_status: "VERIFIED; certificate valid to 2027-01-13; renewal timer and dry-run passed"
+
+search_platforms:
+  property: "https://www.eliai.cn/"
+  required_public_root_files_reference: "verification-files/manifest.json"
+  preserve_verification_files_on_every_domain_release: true
+  physical_release_reference: "evidence/deploy-cookie-labels-20261016-4214c0d6/deployed-manifest.json"
+  google: "Ownership verified; sitemap successfully processed82 URLs; actual index count unknown"
+  bing: "Ownership verified;6 new service URLs accepted; submitted total88; public sitemap88; native sitemap reprocessing not re-requested in this run"
+  baidu: "Ownership verified; adaptive site saved; personal subject submitted pending2–5business-day review; sitemap quota still0;0 confirmed link submissions"
+  other_platforms: "360 site added but ICP not detected, genuine JDCloud proof uploaded, final captcha pending; Sogou root verified senior admin,60 URLs confirmed, further manual push paused by user; Shenma login pending; Yandex verified sitemap read-only"
+
+analytics:
+  provider: "Baidu Tongji free"
+  configuration: "content/analytics.json"
+  status: "PARTIALLY_VERIFIED_CONVERSION_REPORT_UNRESOLVED; valid SDK/all8 goals; backend PV3/UV1/direct source PV3; consultation and WeChat collector200; conversion summary--"
+  receipt: "evidence/baidu-analytics-20261016/receipt.json"
+  verification_followup: "evidence/baidu-analytics-verification-20261016/receipt.json"
+
+website_v1:
+  status: "PUBLISHED_LIVE_QA_PASSED_V1_ESTABLISHED"
+  revision: "f8690e826c7334c83a71"
+  production_baseline: "178520c8fe26246e904b"
+  production_revision: "4214c0d6f6cd8e3dd8ce"
+  release_receipt: "evidence/deploy-cookie-labels-20261016-4214c0d6/receipt.json"
+  pending_local_change: "First-contact and price copy plus official FlexCarousel local candidate; evidence/flex-carousel-official-local-20261017/receipt.json"
+  rollback_target: "/srv/eli-sites/portfolio/domain-releases/20261016-sme-price-4faf1760"
+  scope_reference: "docs/网站V1定型清单-20261016.md"
+  candidate_manifest: "evidence/website-v1-finalization-20261016/v1-manifest.json"
+  change_policy: "Keep current structure and style; fix verified defects and update confirmed business content; new design ideas are deferred unless user changes scope"

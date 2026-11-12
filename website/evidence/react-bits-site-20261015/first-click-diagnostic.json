@@ -1,0 +1,5 @@
+{
+  "events": "[{\"type\":\"pointerdown\",\"tag\":\"A\",\"cls\":\"text-link\",\"href\":\"#work\",\"x\":245,\"y\":434},{\"type\":\"pointerup\",\"tag\":\"A\",\"cls\":\"text-link\",\"href\":\"#work\",\"x\":245,\"y\":434},{\"type\":\"click\",\"tag\":\"A\",\"cls\":\"text-link\",\"href\":\"#work\",\"x\":245,\"y\":434}]",
+  "transition": false,
+  "url": "http://127.0.0.1:4178/index.html?pv=08c802aa1872f5445146#work"
+}

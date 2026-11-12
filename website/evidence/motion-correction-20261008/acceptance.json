@@ -1,0 +1,29 @@
+{
+  "homepage_unchanged": {
+    "dist/index.html": true,
+    "dist/en/index.html": true,
+    "styles.css": true,
+    "motion.js": true,
+    "assets/depth-gallery.js": true
+  },
+  "build_pages": 84,
+  "desktop": {
+    "gsap": "3.15.0",
+    "reduced_motion": false,
+    "title_reveal_observed": "clip 85.8229%, x34.3291",
+    "filter_observed": "clip 71.4%, x34.272, opacity0.286",
+    "quick_filter_final": 38,
+    "case_transition": "native-title",
+    "case_image_final": "cleared",
+    "case_return_focus": "p02",
+    "console_errors": []
+  },
+  "mobile": {
+    "width": 375,
+    "overflow": false,
+    "mobile_apps": 9,
+    "reduced_motion_all": 38,
+    "remaining_clipped_rows": 0
+  },
+  "deployment": "not performed"
+}

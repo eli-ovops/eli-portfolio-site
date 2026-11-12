@@ -1,0 +1,14 @@
+{
+  "source_sha256": "fd1a2c76f0bcfc405596d9f4facfc0a6746813d434d0ff4727d4a5943bfadc91",
+  "encoded_characters": 2472,
+  "payload_keys": [
+    "release",
+    "revision",
+    "target",
+    "previous",
+    "candidate_digest",
+    "public_checks"
+  ],
+  "same_publish_logic": true,
+  "no_security_changes": true
+}

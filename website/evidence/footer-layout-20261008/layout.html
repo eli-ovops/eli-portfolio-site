@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="${lang}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="${robots}">
+  <meta name="description" content="${description}">
+  <meta name="theme-color" content="#111214">
+  <title>${title}</title>
+  ${seo_head}
+  <link rel="icon" href="${base}assets/mark.svg?v=blue-20261007" type="image/svg+xml">
+  <link rel="stylesheet" href="${base}styles.css?v=20261008-polish">
+  <link rel="stylesheet" href="${base}motion.css">
+  <link rel="stylesheet" href="${base}assets/social-footer.css">
+  <script src="${base}assets/vendor/gsap-3.15.0/gsap.min.js" defer></script>
+  <script src="${base}app.js?v=20261008-motion" defer></script>
+  <script src="${base}assets/depth-gallery.js?v=20261008-continuous" defer></script>
+  <script src="${base}motion.js?v=20261008-motion" defer></script>
+  <script src="${base}assets/screenshot-viewer.js" defer></script>
+</head>
+<body>
+  <div class="reading-progress" aria-hidden="true"></div>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="site-header">
+    <a class="brand" href="${base}index.html" aria-label="${name}首页">
+      <span class="brand-symbol" aria-hidden="true">*</span><span>${name}</span>
+    </a>
+    <nav aria-label="主导航">${nav}${language_switch}</nav>
+  </header>
+  ${body}
+  <footer>
+    <div class="footer-compact-copy">
+      <div class="footer-meta"><a class="footer-brand" href="${base}index.html">${name}<span>FDE / SELECTED WORK</span></a><div class="footer-links"><a href="${base}records.html">项目库 ↗</a><a href="#main">回到顶部 ↑</a></div></div>
+    </div>
+    ${contact}
+    ${social_nav}
+  </footer>
+</body>
+</html>

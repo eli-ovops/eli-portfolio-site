@@ -1,0 +1,43 @@
+{
+  "status": "PUBLISHED_LIVE_QA_PASSED",
+  "timestamp": "2026-10-17T17:09:14.165011+08:00",
+  "public_url": "https://www.eliai.cn/articles.html",
+  "revision": "e3304385905f8d1cdd01",
+  "release": "20261017-articles-e3304385",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261017-articles-e3304385",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261017-toutiao-verification",
+  "archive_sha256": "902ca12880810b167fecab6c03cf48ef05565de79081f9c10e05308c48ab7885",
+  "files": 365,
+  "article_topics": 102,
+  "localized_article_pages": 204,
+  "categories": "100 tutorials in 10 categories plus 2 case articles",
+  "sitemap_urls": 294,
+  "search_submissions": 0,
+  "verification_files_preserved": 6,
+  "protected_visual_motion_files": 9,
+  "production_browser_mobile_pages_checked": 204,
+  "browser_flow_records": 22,
+  "source_content": "Matches the reviewed local articles; only publication metadata changed",
+  "limits": [
+    "Responsive browser viewport at 320px and 390px, not a physical phone",
+    "No messages, email, calls or WhatsApp sent",
+    "Published/discoverable does not establish indexing or ranking",
+    "Baidu analytics conversion verification remains a separate task"
+  ],
+  "evidence": [
+    "plan.json",
+    "package-checks.json",
+    "validate.json",
+    "publish.json",
+    "postflight.json",
+    "public-http-checks.json",
+    "content-checks.json",
+    "static-check-output.json",
+    "mobile-all204.json",
+    "browser-flows.json",
+    "redirect-and-erp-smoke.json",
+    "live-mobile-articles-320.png",
+    "live-mobile-contact.png",
+    "live-mobile-english-practice.png"
+  ]
+}

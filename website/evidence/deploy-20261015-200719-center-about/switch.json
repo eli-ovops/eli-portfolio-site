@@ -1,0 +1,8 @@
+{
+  "status": "SWITCHED_HEALTH_OK",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261015-200719-center-about",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261015-183949-https-index",
+  "revision": "ddeecaea4720bde0a52a",
+  "configs_unchanged": true,
+  "nginx_reload": false
+}

@@ -1,0 +1,20 @@
+{
+  "config_before_sha": "63e0b3c4d3853108cac6d9396d158ced9c3704fdd932af3069501ca17cfd6398",
+  "erp_sha": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "public": "/srv/eli-sites/portfolio/releases/20261015-165606-icp-footer",
+  "domain": "/srv/eli-sites/portfolio/domain-releases/20261015-165606-icp-footer",
+  "certbot": "certbot 1.21.0",
+  "backup": "/srv/eli-sites/portfolio/backups/https-index-20261015",
+  "bootstrap_sha": "affbceef3878890496055913f2a825635b0785c0c73cce97a15da8f5137a8a7b",
+  "challenge_checks": [
+    {
+      "host": "eliai.cn",
+      "status": 200
+    },
+    {
+      "host": "www.eliai.cn",
+      "status": 200
+    }
+  ],
+  "nginx_test": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful"
+}

@@ -1,0 +1,229 @@
+[
+  {
+    "check": "Published Chinese homepage",
+    "industries": 8,
+    "lang": "zh-CN",
+    "person": "你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。",
+    "revision": "87919417171750dd1242",
+    "scrollWidth": 1425,
+    "url": "https://www.eliai.cn/index.html?pv=87919417171750dd1242",
+    "width": 1440
+  },
+  {
+    "check": "Fixed English source on mobile",
+    "scrollWidth": 375,
+    "source": [
+      {
+        "href": "https://www.eliai.cn/en/services/fde-consulting.html?pv=87919417171750dd1242",
+        "text": "Our service scope and consultation"
+      }
+    ],
+    "url": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html?pv=87919417171750dd1242#sources",
+    "width": 390
+  },
+  {
+    "check": "English source actual landing",
+    "h1": "AI implementation for small businesses",
+    "lang": "en",
+    "person": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+    "revision": "87919417171750dd1242",
+    "url": "https://www.eliai.cn/en/services/fde-consulting.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "Second fixed English source",
+    "href": "https://www.eliai.cn/en/services/fde-consulting.html?pv=87919417171750dd1242",
+    "scrollWidth": 375,
+    "url": "https://www.eliai.cn/en/articles/what-is-fde-business.html?pv=87919417171750dd1242#sources",
+    "width": 390
+  },
+  {
+    "check": "Second English source actual landing",
+    "lang": "en",
+    "url": "https://www.eliai.cn/en/services/fde-consulting.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "English WorkBuddy article mobile",
+    "scrollWidth": 375,
+    "service": [
+      "https://www.eliai.cn/en/services/workflow-automation.html?pv=87919417171750dd1242"
+    ],
+    "url": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html?pv=87919417171750dd1242",
+    "width": 390
+  },
+  {
+    "check": "English inventory service actual landing",
+    "lang": "en",
+    "url": "https://www.eliai.cn/en/services/workflow-automation.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "English mobile consultation",
+    "contact": true,
+    "lang": "en",
+    "scrollWidth": 375,
+    "url": "https://www.eliai.cn/en/about.html?pv=87919417171750dd1242#contact",
+    "width": 390
+  },
+  {
+    "check": "English contact layout",
+    "links": [
+      {
+        "href": "https://www.eliai.cn/assets/wechat-qr.png",
+        "rect": {
+          "bottom": 726.484375,
+          "height": 198,
+          "left": 57,
+          "right": 255,
+          "top": 528.484375,
+          "width": 198,
+          "x": 57,
+          "y": 528.484375
+        }
+      },
+      {
+        "href": "mailto:[REDACTED_EMAIL]",
+        "rect": {
+          "bottom": 978.046875,
+          "height": 52,
+          "left": 41,
+          "right": 273.4375,
+          "top": 926.046875,
+          "width": 232.4375,
+          "x": 41,
+          "y": 926.046875
+        }
+      },
+      {
+        "href": "tel:[REDACTED_PHONE]",
+        "rect": {
+          "bottom": 1089.140625,
+          "height": 52,
+          "left": 41,
+          "right": 231.734375,
+          "top": 1037.140625,
+          "width": 190.734375,
+          "x": 41,
+          "y": 1037.140625
+        }
+      },
+      {
+        "href": "https://wa.me/[REDACTED_PHONE]",
+        "rect": {
+          "bottom": 1200.234375,
+          "height": 52,
+          "left": 41,
+          "right": 231.734375,
+          "top": 1148.234375,
+          "width": 190.734375,
+          "x": 41,
+          "y": 1148.234375
+        }
+      }
+    ],
+    "rect": {
+      "bottom": 1234.234375,
+      "height": 1118.25,
+      "left": 20,
+      "right": 355,
+      "top": 115.984375,
+      "width": 335,
+      "x": 20,
+      "y": 115.984375
+    },
+    "url": "https://www.eliai.cn/en/about.html?pv=87919417171750dd1242#contact"
+  },
+  {
+    "check": "Chinese OCR mobile",
+    "scrollWidth": 345,
+    "service": [
+      "https://www.eliai.cn/services/workflow-automation.html?pv=87919417171750dd1242"
+    ],
+    "url": "https://www.eliai.cn/articles/ai-ocr-check.html?pv=87919417171750dd1242",
+    "width": 360
+  },
+  {
+    "check": "OCR language ZH to EN",
+    "lang": "en",
+    "service": [
+      "https://www.eliai.cn/en/services/workflow-automation.html?pv=87919417171750dd1242"
+    ],
+    "url": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "OCR language EN to ZH",
+    "lang": "zh-CN",
+    "url": "https://www.eliai.cn/articles/ai-ocr-check.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "Chinese inventory service actual landing",
+    "lang": "zh-CN",
+    "url": "https://www.eliai.cn/services/workflow-automation.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "Chinese mobile consultation",
+    "contact": true,
+    "lang": "zh-CN",
+    "scrollWidth": 345,
+    "url": "https://www.eliai.cn/about.html?pv=87919417171750dd1242#contact",
+    "width": 360
+  },
+  {
+    "back": "https://www.eliai.cn/index.html?project=p02&pv=87919417171750dd1242#work",
+    "backLabel": "← 返回首页案例",
+    "check": "Home to P02 case",
+    "complete": true,
+    "lang": "zh-CN",
+    "scrollWidth": 345,
+    "src": "https://www.eliai.cn/assets/previews/p02-640.jpg",
+    "url": "https://www.eliai.cn/cases/p02.html?pv=87919417171750dd1242&from=%2Findex.html%3Fproject%3Dp02%26pv%3D87919417171750dd1242%23work",
+    "width": 360
+  },
+  {
+    "check": "Published P02 original viewer",
+    "complete": false,
+    "naturalWidth": 1213,
+    "open": true,
+    "src": "https://www.eliai.cn/assets/public-cases/p02.png"
+  },
+  {
+    "actual": "true",
+    "check": "P02 actual-size control"
+  },
+  {
+    "check": "Case returns to original homepage project",
+    "selected": [
+      "查看深圳某慈善基金会"
+    ],
+    "url": "https://www.eliai.cn/index.html?project=p02&pv=87919417171750dd1242#work"
+  },
+  {
+    "check": "Published P02 original fully loaded",
+    "complete": true,
+    "naturalWidth": 1213,
+    "open": true,
+    "src": "https://www.eliai.cn/assets/public-cases/p02.png"
+  },
+  {
+    "check": "Published P05 English mobile preview",
+    "complete": true,
+    "scrollWidth": 375,
+    "src": "https://www.eliai.cn/assets/previews/p05-640.jpg",
+    "url": "https://www.eliai.cn/en/cases/p05.html?pv=87919417171750dd1242",
+    "width": 390
+  },
+  {
+    "check": "Published P05 original fully loaded",
+    "complete": true,
+    "naturalWidth": 2549,
+    "open": true,
+    "src": "https://www.eliai.cn/assets/public-cases/p05.png"
+  },
+  {
+    "check": "P05 language to Chinese",
+    "complete": true,
+    "lang": "zh-CN",
+    "scrollWidth": 375,
+    "src": "https://www.eliai.cn/assets/previews/p05-640.jpg",
+    "url": "https://www.eliai.cn/cases/p05.html?pv=87919417171750dd1242",
+    "width": 390
+  }
+]

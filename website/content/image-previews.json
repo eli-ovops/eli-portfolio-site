@@ -1,0 +1,70 @@
+{
+  "P02": {
+    "sources": [
+      {
+        "path": "assets/previews/p02-640.jpg",
+        "width": 640
+      },
+      {
+        "path": "assets/previews/p02-1200.jpg",
+        "width": 1200
+      }
+    ]
+  },
+  "P05": {
+    "sources": [
+      {
+        "path": "assets/previews/p05-640.jpg",
+        "width": 640
+      },
+      {
+        "path": "assets/previews/p05-1200.jpg",
+        "width": 1200
+      }
+    ]
+  },
+  "P09": {
+    "sources": [
+      {
+        "path": "assets/previews/p09-640.jpg",
+        "width": 640
+      },
+      {
+        "path": "assets/previews/p09-1200.jpg",
+        "width": 1200
+      }
+    ]
+  },
+  "P10": {
+    "sources": [
+      {
+        "path": "assets/previews/p10-640.jpg",
+        "width": 640
+      },
+      {
+        "path": "assets/previews/p10-1200.jpg",
+        "width": 1200
+      }
+    ]
+  },
+  "P12": {
+    "sources": [
+      {
+        "path": "assets/previews/p12-640.jpg",
+        "width": 640
+      },
+      {
+        "path": "assets/previews/p12-1200.jpg",
+        "width": 1200
+      }
+    ]
+  },
+  "P36": {
+    "sources": [
+      {
+        "path": "assets/previews/p36-410.jpg",
+        "width": 410
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "html_pages": 296,
+  "body_text_and_other_markup_unchanged": true,
+  "home_alias_hrefs_remaining": 0,
+  "static_url_semantic_cases": 5,
+  "changed_media_css_js": [
+    "assets/page-version.js"
+  ],
+  "presentation_css_motion_media_unchanged": true,
+  "revision": "ee333e5fb82b7096a06c",
+  "navigation_tests": [
+    {
+      "script": "check_navigation_version.cjs",
+      "returncode": 0,
+      "stdout": "PASS: clean/legacy URLs, nested return, replace-only history, filters/hash, bilingual/subpath scope, external/media cache parameters\nPASS: canonical homepage aliases and nested returns preserve parameters/fragments; external homepages unchanged\n",
+      "stderr": ""
+    },
+    {
+      "script": "check_home_case_return.cjs",
+      "returncode": 0,
+      "stdout": "PASS: homepage/root entry, related origin, project selection, no stale filters, bilingual/subpath boundaries\n",
+      "stderr": ""
+    },
+    {
+      "script": "check_return_owner.cjs",
+      "returncode": 0,
+      "stdout": "PASS: homepage/cleared origin stays clean; real explicit/history/legacy list origins retained in both controllers\n",
+      "stderr": ""
+    },
+    {
+      "script": "check_service_return.cjs",
+      "returncode": 0,
+      "stdout": "PASS: service entry, related chain, BFCache/history/referrer, bilingual/subpath origins, catalogue isolation and invalid sources\n",
+      "stderr": ""
+    },
+    {
+      "script": "check_home_entry.cjs",
+      "returncode": 0,
+      "stdout": "PASS: early home/unrelated-route snapshot cancellation; shared title routes retained; snapshots cannot take input\n",
+      "stderr": ""
+    }
+  ],
+  "publication": false,
+  "search_submissions": 0
+}

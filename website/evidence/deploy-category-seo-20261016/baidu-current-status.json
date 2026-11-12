@@ -1,0 +1,28 @@
+{
+  "review": "提交成功！我们将在2-5个工作日内完成审核，请耐心等待。 返回",
+  "quota": {
+    "controls": [
+      {
+        "disabled": false,
+        "placeholder": "点击选择站点",
+        "tag": "INPUT",
+        "type": "text"
+      },
+      {
+        "disabled": true,
+        "placeholder": "",
+        "tag": "TEXTAREA",
+        "type": null
+      },
+      {
+        "disabled": true,
+        "label": "提交",
+        "placeholder": null,
+        "tag": "BUTTON",
+        "type": null
+      }
+    ],
+    "text": "2、API提交和手动提交共享配额，sitemap提交配额不与其他方式共享，具体配额以站点页面显示数据为准 。配额不可累计，当日有效。\n今日提交上限：0条   今日提交余额：0条\n填写站点的主体备案号，可以提高每日提交上限。去填写\n存量文件上限：0条  存量文件余额：0条"
+  },
+  "newSubmissions": 0
+}

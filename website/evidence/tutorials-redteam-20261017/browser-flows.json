@@ -1,0 +1,71 @@
+[
+  {
+    "test": "Detail language switch keeps section and filtered return",
+    "url": "http://127.0.0.1:4178/en/articles/skill-file-structure.html?pv=6bb2818c1aab690a77d4#example",
+    "back": "http://127.0.0.1:4178/en/articles.html?pv=6bb2818c1aab690a77d4&q=SKILL.md&category=skills"
+  },
+  {
+    "test": "English list retains Chinese-origin filters",
+    "status": "1 article · page 1 of 1",
+    "url": "http://127.0.0.1:4178/en/articles.html?pv=6bb2818c1aab690a77d4&q=SKILL.md&category=skills"
+  },
+  {
+    "test": "No results",
+    "status": "0 articles · page 1 of 1"
+  },
+  {
+    "test": "First click clear",
+    "status": "102 articles · page 1 of 9"
+  },
+  {
+    "test": "Pagination",
+    "status": "102 articles · page 2 of 9"
+  },
+  {
+    "test": "Case return 库存每天靠人工核对，先改哪一步？",
+    "back": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=6bb2818c1aab690a77d4#case-records",
+    "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=6bb2818c1aab690a77d4#case-records"
+  },
+  {
+    "test": "Case return 企业资料太散，做知识库答疑前要准备什么？",
+    "back": "http://127.0.0.1:4178/articles/enterprise-knowledge-base.html?pv=6bb2818c1aab690a77d4#case-records",
+    "url": "http://127.0.0.1:4178/articles/enterprise-knowledge-base.html?pv=6bb2818c1aab690a77d4#case-records"
+  },
+  {
+    "test": "Case return Manual inventory checks every day: where should you start?",
+    "back": "http://127.0.0.1:4178/en/articles/inventory-reconciliation.html?pv=6bb2818c1aab690a77d4#case-records",
+    "url": "http://127.0.0.1:4178/en/articles/inventory-reconciliation.html?pv=6bb2818c1aab690a77d4#case-records"
+  },
+  {
+    "test": "Case return Company information is scattered: what should you prepare for a knowledge base?",
+    "back": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=6bb2818c1aab690a77d4#case-records",
+    "url": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=6bb2818c1aab690a77d4#case-records"
+  },
+  {
+    "test": "English consultation",
+    "url": "http://127.0.0.1:4178/en/about.html?pv=6bb2818c1aab690a77d4#contact",
+    "qr": true
+  },
+  {
+    "test": "Chinese example at 390px",
+    "documentWidth": 375,
+    "hash": "#example",
+    "path": "/articles/what-is-ai.html",
+    "width": 390
+  },
+  {
+    "test": "English example at 390px",
+    "documentWidth": 375,
+    "hash": "#example",
+    "path": "/en/articles/what-is-ai.html",
+    "practice": "Only 3 boxes are confirmed. The extra 2 are tentative and the eraser quantity is unknown. Five confirmed boxes would be wrong.",
+    "width": 390
+  },
+  {
+    "test": "English list at 768px",
+    "documentWidth": 753,
+    "path": "/en/articles.html",
+    "status": "1 article · page 1 of 1",
+    "width": 768
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261012-194514-return-zoom",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-182317-reading-social",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-194514-return-zoom",
+  "backup": "/srv/eli-sites/portfolio/backups/20261012-194514-return-zoom",
+  "files_verified": 144,
+  "package_sha256": "1b6a855902f9ad2a1a5d6260912e8e6a12c1c529d908456ad94874c9d32a61bf",
+  "indexing": "DISABLED"
+}

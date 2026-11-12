@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-21T10:23:41.881520+08:00",
+  "url": "https://www.eliai.cn/",
+  "http_status": 200,
+  "sha256": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+  "meta_robots": [
+    "index,follow"
+  ],
+  "canonical": [
+    "https://www.eliai.cn/"
+  ],
+  "x_robots_tag": null,
+  "boundaries": "Current public source only; does not replace dated Bing Index record or prove indexing."
+}

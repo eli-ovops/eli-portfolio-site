@@ -1,0 +1,372 @@
+{
+  "checks": [
+    {
+      "hintClipped": false,
+      "id": "industry-manufacturing",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看库存与流程服务 ↗",
+          "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-ecommerce",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看知识库与答疑服务 ↗",
+          "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-cross-border",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看 AI 实施合作方式 ↗",
+          "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-wholesale-retail",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看库存与流程服务 ↗",
+          "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-home-building",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看 AI 实施合作方式 ↗",
+          "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-professional-services",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看 AI 实施合作方式 ↗",
+          "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-brands-studios",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看 AI 实施合作方式 ↗",
+          "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-nonprofits",
+      "lang": "zh-CN",
+      "links": [
+        {
+          "height": 44,
+          "text": "看 AI 实施合作方式 ↗",
+          "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "免费聊聊这项工作 ↗",
+          "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "check": "zh_service_link",
+      "h1": "企业知识库搭建与客服辅助答疑",
+      "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+    },
+    {
+      "check": "zh_industry_contact",
+      "contact": true,
+      "overflow": false,
+      "qr": true,
+      "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+    },
+    {
+      "check": "home_zh_to_en",
+      "items": 8,
+      "lang": "en",
+      "url": "http://127.0.0.1:4178/en/index.html?pv=fcafe9ca8a0e904465b2#industries"
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-manufacturing",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "Inventory and workflow services ↗",
+          "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-ecommerce",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "Knowledge-base and support services ↗",
+          "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-cross-border",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "AI implementation services ↗",
+          "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-wholesale-retail",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "Inventory and workflow services ↗",
+          "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-home-building",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "AI implementation services ↗",
+          "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-professional-services",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "AI implementation services ↗",
+          "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-brands-studios",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "AI implementation services ↗",
+          "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "hintClipped": false,
+      "id": "industry-nonprofits",
+      "lang": "en",
+      "links": [
+        {
+          "height": 44,
+          "text": "AI implementation services ↗",
+          "url": "http://127.0.0.1:4178/en/services/fde-consulting.html?pv=fcafe9ca8a0e904465b2"
+        },
+        {
+          "height": 44,
+          "text": "Discuss this task for free ↗",
+          "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+        }
+      ],
+      "open": true,
+      "overflow": false
+    },
+    {
+      "check": "en_service_link",
+      "h1": "Knowledge base setup and AI-assisted support",
+      "lang": "en",
+      "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=fcafe9ca8a0e904465b2"
+    },
+    {
+      "check": "en_industry_contact",
+      "contact": true,
+      "overflow": false,
+      "qr": true,
+      "url": "http://127.0.0.1:4178/en/about.html?pv=fcafe9ca8a0e904465b2#contact"
+    },
+    {
+      "check": "contact_en_to_zh",
+      "contact": true,
+      "lang": "zh-CN",
+      "url": "http://127.0.0.1:4178/about.html?pv=fcafe9ca8a0e904465b2#contact"
+    },
+    {
+      "check": "case_return",
+      "industries": 8,
+      "overflow": false,
+      "url": "http://127.0.0.1:4178/index.html?project=p10&pv=fcafe9ca8a0e904465b2#work"
+    },
+    {
+      "check": "desktop",
+      "overflow": false,
+      "width": 1335
+    }
+  ],
+  "errors": [
+    {
+      "level": "error",
+      "message": "AbortError: Transition was skipped. skipTransition() called",
+      "timestamp": "2026-10-20T07:32:05.735Z",
+      "url": "http://127.0.0.1:4178/index.html?pv=fcafe9ca8a0e904465b2#industries"
+    },
+    {
+      "level": "error",
+      "message": "InvalidStateError: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+      "timestamp": "2026-10-20T07:32:52.208Z",
+      "url": "http://127.0.0.1:4178/en/index.html?pv=fcafe9ca8a0e904465b2#industries"
+    }
+  ],
+  "phone": "360px Chinese and 390px English browser simulation; no real device",
+  "interaction_note": "History return restored the disclosure state differently between visits; re-observed closed state then reopened before contact test. Contact tests passed; no page code change."
+}

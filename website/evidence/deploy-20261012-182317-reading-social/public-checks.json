@@ -1,0 +1,630 @@
+{
+  "date": "2026-10-12",
+  "status": "PUBLIC_CHECKS_PASS",
+  "release": "20261012-182317-reading-social",
+  "text_files_verified": 101,
+  "html_pages_noindex": 84,
+  "robots": "Disallow: / at portfolio path",
+  "sitemap_public": false,
+  "private_paths": {
+    "sitemap.xml": 404,
+    "content/seo.json": 404,
+    "scripts/seo.py": 404,
+    "evidence/seo-geo-20261012/receipt.json": 404,
+    ".git/config": 404,
+    "assets/img01.webp": 404,
+    "cases/": 403
+  },
+  "erp_entry_pages": {
+    "login": 200,
+    "mobile/": 200
+  },
+  "checks": [
+    {
+      "path": "404.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "app.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "asset-manifest.json",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/depth-gallery.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/editorial.css",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/editorial.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/fonts/LICENSE-Anton.txt",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/screenshot-viewer.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/social-footer.css",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/vendor/gsap-3.15.0/Flip.min.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/vendor/gsap-3.15.0/ScrollTrigger.min.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "assets/vendor/gsap-3.15.0/gsap.min.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/n01.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/n02.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p01.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p02.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p03.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p04.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p05.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p06.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p07.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p08.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p09.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p11.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p12.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p13.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p14.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p15.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p16.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p17.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p18.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p19.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p20.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p21.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p22.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p23.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p24.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p25.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p26.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p27.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p28.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p29.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p30.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p31.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p32.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p33.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p34.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p35.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "cases/p36.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/404.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/n01.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/n02.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p01.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p02.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p03.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p04.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p05.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p06.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p07.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p08.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p09.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p10.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p11.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p12.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p13.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p14.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p15.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p16.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p17.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p18.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p19.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p20.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p21.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p22.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p23.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p24.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p25.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p26.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p27.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p28.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p29.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p30.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p31.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p32.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p33.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p34.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p35.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/cases/p36.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "en/records.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "health.json",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "motion.css",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "motion.js",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "records.html",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    },
+    {
+      "path": "styles.css",
+      "status": 200,
+      "sha256_matches": true,
+      "robots_header": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": "e2be96987b2798068e82",
+  "desktop": {
+    "canonical": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+    "clientWidth": 1265,
+    "description": "腾讯 WorkBuddy 入门：认准 workbuddy.cn 官方入口，从一份练习材料开始，了解任务、文件产物与权限边界，核对结果后再用于正式工作。",
+    "revision": "e2be96987b2798068e82",
+    "scrollWidth": 1265,
+    "title": "腾讯 WorkBuddy 是什么？新手怎么用它协助办公？ - Eli",
+    "url": "https://www.eliai.cn/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 1280
+  },
+  "zh390": {
+    "clientWidth": 375,
+    "h1": "腾讯 WorkBuddy 是什么？新手怎么用它协助办公？",
+    "scrollWidth": 375,
+    "url": "https://www.eliai.cn/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 390
+  },
+  "en390": {
+    "canonical": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+    "clientWidth": 375,
+    "description": "Learn what Tencent WorkBuddy at workbuddy.cn does. Start with practice files, check task outputs and permissions, then decide how it fits office work.",
+    "scrollWidth": 375,
+    "title": "What is Tencent WorkBuddy? A beginner’s guide to office tasks - Eli",
+    "url": "https://www.eliai.cn/en/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 390
+  },
+  "zh360": {
+    "clientWidth": 345,
+    "h1": "腾讯 WorkBuddy 是什么？新手怎么用它协助办公？",
+    "scrollWidth": 345,
+    "url": "https://www.eliai.cn/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 360
+  },
+  "en360": {
+    "clientWidth": 345,
+    "h1": "What is Tencent WorkBuddy? A beginner’s guide to office tasks",
+    "scrollWidth": 345,
+    "url": "https://www.eliai.cn/en/articles/what-is-workbuddy.html?pv=e2be96987b2798068e82",
+    "width": 360
+  },
+  "zhContact": {
+    "contactBottom": 1148.59375,
+    "contactTop": 104.125,
+    "contactVisible": true,
+    "heading": "微信",
+    "url": "https://www.eliai.cn/about.html?pv=e2be96987b2798068e82#contact",
+    "viewportHeight": 800
+  },
+  "enContact": {
+    "contactBottom": 1248.03125,
+    "contactTop": 129.78125,
+    "contactVisible": true,
+    "heading": "WeChat",
+    "url": "https://www.eliai.cn/en/about.html?pv=e2be96987b2798068e82#contact",
+    "viewportHeight": 800
+  },
+  "languageSwitch": "PASS: actual switch to English and back to same Chinese article",
+  "physicalPhone": false,
+  "externalMessagesSent": 0,
+  "qaVisits": "QA traffic; not natural visits or customer enquiries"
+}

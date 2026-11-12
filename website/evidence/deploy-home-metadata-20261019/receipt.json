@@ -1,0 +1,53 @@
+{
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "checked_at": "2026-10-19T15:40:25.452568+08:00",
+  "revision": "fdaded69427dfb1ce994",
+  "release": "/srv/eli-sites/portfolio/domain-releases/20261019-home-metadata-fdaded69",
+  "previous_release_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-service-intent-18845261",
+  "authorized_scope": "User2026-10-19 explicitly approves publishing homepage Chinese/English search and share title/description, generated llms homepage summary and real update dates; preserve all visible bodies/visual/motion; no search submissions.",
+  "changed_html": [
+    "index.html",
+    "en/index.html"
+  ],
+  "changed_non_html": [
+    "llms.txt",
+    "sitemap.xml"
+  ],
+  "visible_page_bodies_unchanged": 296,
+  "other_html_content_unchanged": 294,
+  "public_visual_motion_assets_unchanged": true,
+  "verification_files_preserved": 6,
+  "public_files_verified_on_server": 365,
+  "independent_public_http_hash_checks": 14,
+  "mobile_widths": [
+    360,
+    390
+  ],
+  "language_switch": "PASS: actual zh-en-zh",
+  "consultation": "PASS: correct language contact section from both homepages",
+  "physical_phone_test": false,
+  "package_sha256": "fe7b7a5621eb7e78027987d8fbe152702d9b9fb98b451caf5f349f574a92fd82",
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_ip_preview_previous_release_unchanged": true,
+  "search_submissions": 0,
+  "emails_sent": 0,
+  "external_contact_messages": 0,
+  "traffic_attribution": "Deployment QA pageviews and consultation clicks are our tests, not natural customer traffic or inquiries.",
+  "seo_geo_effect": "Publication verified; no new crawl, ranking, click or AI citation claim.",
+  "artifact_purpose": "Retain reviewed package, snapshots, receipts and screenshots for publication/rollback evidence; no cleanup.",
+  "evidence": {
+    "plan.json": "0d8369a6962694174701b3b654344ee473b9ce8a7d4f7d1fecd86177055c6b70",
+    "preflight.json": "0d5fc177ab92ad0263f57aa99db40d714fa850e5eda122c412d5df98ad25b39d",
+    "validate.json": "7eae9c18a239ce3c6462595e218361f61a4847e05bafc33685d7eedac362efe3",
+    "publish.json": "339740d1b9e736fc4af754a643d8a7a18a09ca9524162fc7e0723fe74239761a",
+    "postflight.json": "4a34a55a92e1f04e143c88f224a1a8ff19fd62ea4f490bc77b337d6a14acf4a5",
+    "public-http-checks.json": "b8a39fd307b0ed9a23d1da1f3e8be4cc0d0f59bc3a3fa8c94cb5756b2a67e6b9",
+    "browser-checks.json": "50418f0bb731acf62ab781bc93491eea3ab6cec0944fb490127f9d4c9c26c8b7",
+    "language-roundtrip.json": "87524ea7ff1e6578f5914a08022b2b48c2aa2874597e2b7c565bd35b81a9c9b8"
+  }
+}

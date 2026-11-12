@@ -1,0 +1,19 @@
+{
+  "status": "HTTPS_ENABLED_NOINDEX_PENDING_VERIFICATION",
+  "config_sha": "302f96983bd591230ba98eb39db35c09ea595e2aade509b10d3b2b5c75044edd",
+  "certificate_validation": [
+    {
+      "host": "eliai.cn",
+      "TLS": "TLSv1.3",
+      "expires": "Jan 13 09:40:42 2027 GMT"
+    },
+    {
+      "host": "www.eliai.cn",
+      "TLS": "TLSv1.3",
+      "expires": "Jan 13 09:40:42 2027 GMT"
+    }
+  ],
+  "renew_hook": "/etc/letsencrypt/renewal-hooks/deploy/eli-portfolio-reload",
+  "timer": "active",
+  "nginx_test": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful"
+}

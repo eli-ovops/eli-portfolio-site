@@ -1,0 +1,67 @@
+{
+  "status": "LOCAL_FLEX_CAROUSEL_TRIAL_READY_NOT_PUBLISHED",
+  "revision": "7b36147c98697cc9defa",
+  "production_unchanged": "4214c0d6f6cd8e3dd8ce",
+  "inherited_receipt": "evidence/implementation-price-wording-local-20261016/receipt.json",
+  "source": "https://reactbits.dev/components/flex-carousel",
+  "integration": "Native DOM adaptation of upstream image geometry, wrapping, nearest/snap and damped travel; React/OGL lens path not installed",
+  "features": [
+    "6 actual case cards and static fallback retained",
+    "Flat variable-width images; pointer drag with momentum; side click focus; arrow and keyboard selection",
+    "Active-image click or Enter opens original screenshot dialog",
+    "Reduced motion switches immediately; no autoplay; normal vertical page scroll",
+    "Closed caption panels reserve consistent height; expanded details grow naturally",
+    "Individual/team and delivery/test evidence boundaries unchanged"
+  ],
+  "omitted": [
+    "Liquid-glass lens and shader distortion",
+    "React/OGL runtime dependencies",
+    "Vertical wheel capture"
+  ],
+  "verification": {
+    "automated": "checks.json; static90 pages,45 bilingual pairs,88 sitemap URLs;9 Node navigation/search/analytics regression scripts PASS",
+    "browser": "IAB desktop1440x960, mobile390x844 and320x740 emulation; not physical devices",
+    "observed": [
+      "Desktop selection02/06 and direct case return preservep36",
+      "Keyboard End06/06 followed by Next wraps01/06",
+      "Real pointer drag changes project without accidental dialog",
+      "Active image click and Enter open screenshot, close releases scroll lock",
+      "Browser Back retains selected project and expanded process",
+      "Quick About→Home, first Next click selects02/06",
+      "Consultation reachesabout#contact and QR728px loads",
+      "English320px and reduced-motion selection pass with no overflow",
+      "JS disabled: six semantic cards andsix case links remain; scripting restored"
+    ],
+    "protected_files_unchanged": [
+      "assets/page-version.js",
+      "assets/site-analytics.js",
+      "assets/site-analytics.css",
+      "assets/home-ambient.js",
+      "assets/home-ambient.css",
+      "content/profile.json",
+      "content/seo.json",
+      "content/projects.json",
+      "content/en.json",
+      "content/case-examples.json",
+      "motion.js",
+      "motion.css"
+    ]
+  },
+  "screenshots": [
+    "desktop.png",
+    "mobile.png"
+  ],
+  "changed_files": [
+    "assets/depth-gallery.js",
+    "templates/home.html",
+    "scripts/components.py",
+    "assets/vendor/react-bits-components/NOTICE.md",
+    "site.yaml",
+    "assets/flex-carousel.css"
+  ],
+  "limitations": [
+    "Trial awaits user visual review",
+    "Adaptation is not the unmodified upstream React/WebGL component",
+    "No production deploy or external platform submission"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "SWITCHED",
+  "release": "20261012-194514-return-zoom",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-182317-reading-social",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-194514-return-zoom",
+  "switched_at": "2026-10-12T11:48:45.247219+00:00",
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "nginx_config": "UNCHANGED",
+  "services": "UNCHANGED_ACTIVE",
+  "files_verified": 144,
+  "indexing": "DISABLED"
+}

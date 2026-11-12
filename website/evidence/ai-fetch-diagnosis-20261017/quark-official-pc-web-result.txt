@@ -1,0 +1,72 @@
+Browser tab: 32, Title: "eliai.cn - 夸克AI", URL: "https://www.quark.cn/s/AM22Ygg8gnlrvao0wx?q=eliai.cn&uc_param_str=ntnwvepffrbiprsvchutosstxsnx&by=submit&from=kkframenew_pc_webnavigation&queryId=Q6PPvtQq3fiMnVDH0ZS8AwVnrgzis3CE7iVWitSXluwj0utYd21xHyq7SZi0us1txuoSzHpdlV92QTSZcjbIJPfsuAY6b".
+0 AXWebArea eliai.cn - 夸克AI, URL: quark.cn/s/AM22Ygg8gnlrvao0wx?q=eliai.cn&uc_param_str=ntnwvepffrbiprsvchutosstxsnx&by=submit&from=kkframenew_pc_webnavigation&queryId=Q6PPvtQq3fiMnVDH0ZS8AwVnrgzis3CE7iVWitSXluwj0utYd21xHyq7SZi0us1txuoSzHpdlV92QTSZcjbIJPfsuAY6b
+	1 container
+		2 container content
+			3 container
+				4 image logo1
+				5 image
+				6 container
+					7 text entry area (settable) Value: eliai.cn, ID: pc-search-bottom-input
+					8 image
+				9 container
+					10 image
+					11 text 登录
+			12 container server-container
+				13 container
+					14 container
+						15 text 全部
+						16 text 图片
+						17 text 资讯
+						18 text 文档
+					19 text 筛选
+					20 image
+				21 container
+					22 container
+						23 container scs
+							24 container
+								25 link Description: 武汉市蔡甸区人民政府, Value: caidian.gov.cn/
+								26 container
+									27 text 武汉市蔡甸区人民政府,政务公开,办事服务,政民互动,专题活动,门户网站,www.caidian.gov. cn
+								28 link Description: 武汉市蔡甸区人民政府, Value: caidian.gov.cn/
+							29 container
+								30 link Description: Ellie – AI 驱动的企业级数据建模平台-SD分享导航站, Value: designshidai.com/19594.html
+								31 text ellie.ai 是一款ai 驱动的企业级数据建模平台，核心使命是打通数据与业务的连接，让企业数据规划、建模、治理与协作更高效，降低技术门槛的同时实现数据价值的快速落地，是面向大型企业打造的全链路数据产品设计与管理解决方案。平台以自动化建模和智能化协作...
+								32 link Description: SD分享导航站 2026-03-08, Value: designshidai.com/19594.html
+								33 link designshidai.com/19594.html
+							34 container
+								35 link Description: 公司新闻-艾莱依时尚股份有限公司, Value: eral-fashion.com/news.php
+								36 text 阅读艾莱依公司新闻，了解品牌动态、羽绒产业交流、产品设计、制造业务和员工活动。
+								37 link Description: 艾莱依时尚股份有限公司 2026-09-10, Value: eral-fashion.com/news.php
+							38 container
+								39 link Description: ieiai.com - AI 智能未来, Value: ieiai.com/
+								40 text ieiai.com - 探索 AI 的无限可能，体验智能未来
+								41 link Description: www.ieiai.com, Value: ieiai.com/
+							42 container
+								43 link Description: 我们的品牌-艾莱依时尚股份有限公司, Value: eral-fashion.com/brand.php?3
+								44 text 了解艾莱依旗下业务与品牌：艾莱依ERAL服装、眠野羽绒家居与睡眠产品、LEXTHON俪信成服装制造。
+								45 link Description: 艾莱依时尚股份有限公司, Value: eral-fashion.com/brand.php?3
+							46 container
+								47 link Description: 易班-百度百科, Value: baike.baidu.com/item/%E6%98%93%E7%8F%AD
+								48 text 易班是由上海市教卫党委主导、教育部支持建设的综合性网络互动社区，于2009年正式启动，主要面向高校师生提供教育教学、生活服务及文化娱乐功能。平台集成论坛、社交、博客等Web2.0应用，配套题库系统、在线课程及智慧校园服务模块，支持网页端与移动客户端双...
+								49 link Description: 百度百科, Value: baike.baidu.com/item/%E6%98%93%E7%8F%AD
+								50 link baike.baidu.com/item/%E6%98%93%E7%8F%AD
+							51 container
+								52 link Description: 艾莱依ERAL-艾莱依时尚股份有限公司, Value: eral-fashion.com/index_eral.php
+								53 text 了解艾莱依ERAL服装品牌、生活与穿搭理念，以及页面列出的官方购物与社交渠道。
+								54 link Description: 艾莱依时尚股份有限公司, Value: eral-fashion.com/index_eral.php
+							55 container
+								56 link Description: 雅思报名官网入口（附官方网址）-深圳本地宝, Value: sz.bendibao.com/edu/202694/1012220.shtm
+								57 container
+									58 text 深圳本地宝深圳教育提供雅思报名官网入口（附官方网址）有关的信息，雅思报名唯一官网为https://ielts.neea. cn /（教育部教育考试院），考生须注册账号登录后选考位并缴费
+								59 link Description: 深圳本地宝 2026-09-04, Value: sz.bendibao.com/edu/202694/1012220.shtm
+							60 container
+								61 link Description: 雅思考试官网报名流程是-新航道, Value: xhd.cn/ielts/ask/209717.html
+								62 container
+									63 text 报名官网：https://ielts.neea.edu. cn / 1 注册新用户 进入教育部考试中心雅思报名网站： https://ielts.neea. cn  点击“立即注册”。2 填写个人信息 根据文字提示，依次填写个人信息。注册成功后会出现NEEA USER ID，建议大家截图保存。3 登录账户，充值考试费...
+								64 link Description: 新航道 2026-05-18, Value: xhd.cn/ielts/ask/209717.html
+							65 container
+								66 link Description: 账户注册, Value: page.sm.cn/blm/node-page-new-995/index?h=www.bilibili.com&id=26_2c0f41e57b62dda405a1d8e10c6c60c9&uc_param_str=dnntnwvepffrbijbprsvchgputdemennosstodcaaagidsdieinikplopcnxxs&uc_biz_str=OPT%3ABACK_BTN_STYLE%400%7COPT%3AIMMERSIVE%401%7COPT%3ATOOLBAR_STYLE%400%7COPT%3AWEB_MENU_DISABLE%401&q=eliai.cn&title=%E8%B4%A6%E6%88%B7%E6%B3%A8%E5%86%8C&from=kkframenew_resultsearch
+								67 text 在EA官方网页上如何进行账户注册和团队设置。注册可通过手机、邮箱或微信扫码方式完成。设置包括更改姓名、头像、账号，并需通过手机接收验证码进行身份验证。最后，指导如何通过账号密码登录，并设置团队名称和logo。
+								68 link Description: 哔哩哔哩 2026-05-19, Value: page.sm.cn/blm/node-page-new-995/index?h=www.bilibili.com&id=26_2c0f41e57b62dda405a1d8e10c6c60c9&uc_param_str=dnntnwvepffrbijbprsvchgputdemennosstodcaaagidsdieinikplopcnxxs&uc_biz_str=OPT%3ABACK_BTN_STYLE%400%7COPT%3AIMMERSIVE%401%7COPT%3ATOOLBAR_STYLE%400%7COPT%3AWEB_MENU_DISABLE%401&from=kkframenew_resultsearch
+
+The focused UI element is 0 AXWebArea eliai.cn - 夸克AI, URL: quark.cn/s/AM22Ygg8gnlrvao0wx?q=eliai.cn&uc_param_str=ntnwvepffrbiprsvchutosstxsnx&by=submit&from=kkframenew_pc_webnavigation&queryId=Q6PPvtQq3fiMnVDH0ZS8AwVnrgzis3CE7iVWitSXluwj0utYd21xHyq7SZi0us1txuoSzHpdlV92QTSZcjbIJPfsuAY6b

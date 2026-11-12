@@ -1,0 +1,25 @@
+{
+  "status": "PREPARED_NOT_PUBLISHED",
+  "revision": "e2be96987b2798068e82",
+  "public_files": 365,
+  "html_pages": 296,
+  "semantic_html_changes": [
+    "articles.html",
+    "articles/what-is-workbuddy.html",
+    "en/articles.html",
+    "en/articles/what-is-workbuddy.html"
+  ],
+  "other_page_content_unchanged": 292,
+  "changed_non_html": [
+    "sitemap.xml"
+  ],
+  "sitemap_urls": 294,
+  "verification_files_preserved": 6,
+  "visual_motion_assets_unchanged": true,
+  "package_bytes": 10591299,
+  "package_sha256": "b47e9cc8764ea56dcac9eb3d75e9ca2295a10047fa0b598becd2fb9a4e8a84b6",
+  "production_current_state": "UNKNOWN: strict SSH preflight connection closed",
+  "deployments": 0,
+  "uploads": 0,
+  "search_submissions": 0
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "count": 102,
+    "text": "Describe the current process and its slowest step. The initial conversation is free.",
+    "finding": "Shared disclosure/CTA/instruction; do not classify as duplicate article substance from this alone"
+  },
+  {
+    "count": 100,
+    "text": "以下资料用于核对概念或产品入口，练习步骤由本站整理，不代表官方认证或客户效果。界面和可用功能可能更新，请以当前产品为准。资料核对日期：2026-10-17。",
+    "finding": "Shared disclosure/CTA/instruction; do not classify as duplicate article substance from this alone"
+  },
+  {
+    "count": 100,
+    "text": "Replace placeholders in the prompt with this material, or append the material if there are no placeholders. Reading time excludes doing the exercise.",
+    "finding": "Shared disclosure/CTA/instruction; do not classify as duplicate article substance from this alone"
+  },
+  {
+    "count": 100,
+    "text": "The links below support the concepts or product navigation. The steps and exercises are our teaching suggestions, not official certification or measured customer outcomes. Product interfaces and availability may change. References checked on 2026-10-17.",
+    "finding": "Shared disclosure/CTA/instruction; do not classify as duplicate article substance from this alone"
+  },
+  {
+    "count": 38,
+    "text": "You do not need a complete solution. Share one time-consuming task and we can discuss where AI or software could help.",
+    "finding": "Shared disclosure/CTA/instruction; do not classify as duplicate article substance from this alone"
+  }
+]

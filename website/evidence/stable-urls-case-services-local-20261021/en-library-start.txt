@@ -1,0 +1,95 @@
+Browser tab: 9, Title: "Eli Projects | Business Systems, AI & Product Work", URL: "http://127.0.0.1:4178/en/records.html".
+1 AXWebArea Eli Projects | Business Systems, AI & Product Work, URL: 127.0.0.1:4178/en/records.html
+	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/records.html#main
+	3 container
+		4 link Description: Eli home, Value: 127.0.0.1:4178/en/index.html
+		5 container Main navigation
+			6 link Description: Home, Value: 127.0.0.1:4178/en/index.html
+			7 link Description: Projects, Value: 127.0.0.1:4178/en/records.html
+			8 link Description: Articles, Value: 127.0.0.1:4178/en/articles.html
+			9 link Description: About, Value: 127.0.0.1:4178/en/about.html
+			10 link Description: Switch to Chinese, Value: 127.0.0.1:4178/records.html
+	11 container main
+		12 container
+			13 heading Project library, Value: 1
+				14 text Project library
+			15 text Client work, product development and research.
+		16 container archive
+			17 container Project filters
+				18 checkbox All, Value: 1
+				19 checkbox Client work, Value: 0
+				20 checkbox Websites & tools, Value: 0
+				21 checkbox Mobile apps, Value: 0
+				22 checkbox Content & research, Value: 0
+				23 checkbox Methods & tools, Value: 0
+			24 container
+				25 text Search projects
+				26 search text field (settable) Search projects, ID: search
+			27 text Client work spans project types; filters may overlap.
+			28 text 38 projects
+			29 text Featured first
+			30 button (collapsed) Search tips, Secondary Actions: Expand
+				31 text Search tips
+			32 content list
+				33 link Value: 127.0.0.1:4178/en/cases/p10.html, Description: P10 Websites & tools Sanitaryware manufacturer inventory system Independently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.
+				34 link Value: 127.0.0.1:4178/en/cases/p36.html, Description: P36 Client work UK water purification brand · RAG support Contributed to customized RAG support through knowledge base organization, retrieval configuration and testing, helping the team progress from demos to live testing and delivery.
+				35 link Value: 127.0.0.1:4178/en/cases/p09.html, Description: P09 Websites & tools Furniture barcode inventory system Led a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.
+				36 link Value: 127.0.0.1:4178/en/cases/p04.html, Description: P04 Client work Law firm office system Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.
+				37 link Value: 127.0.0.1:4178/en/cases/p02.html, Description: P02 Client work Shenzhen charity foundation Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.
+				38 link Value: 127.0.0.1:4178/en/cases/p05.html, Description: P05 Client work UK water purification brand marketing Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.
+				39 link Value: 127.0.0.1:4178/en/cases/p01.html, Description: P01 Methods & tools Enterprise client projects Contributed to nonprofit and law firm websites, an office system, UK brand marketing and AI support, with work on requirements, planning and demo development.
+				40 link Value: 127.0.0.1:4178/en/cases/p03.html, Description: P03 Client work Shenzhen law firm website Contributed to a law firm website, bringing together services, lawyer profiles, news and inquiry channels through a coherent content structure.
+				41 link Value: 127.0.0.1:4178/en/cases/p06.html, Description: P06 Websites & tools AI order entry interaction prototype Built an order entry prototype demonstrating uploads, field display, manual corrections, status filters and audit logs, supported by workflow and requirements documentation.
+				42 link Value: 127.0.0.1:4178/en/cases/p07.html, Description: P07 Websites & tools Furniture brand website Led development of a website for international buyers, combining product, factory and gallery content with language switching and a structured inquiry flow.
+				43 link Value: 127.0.0.1:4178/en/cases/p08.html, Description: P08 Websites & tools Furniture product catalog Organized product images, models, dimensions and specifications into print and mobile catalogs, distinguishing real product photos from generated scene imagery.
+				44 link Value: 127.0.0.1:4178/en/cases/p11.html, Description: P11 Websites & tools UK and Australia small business website experiments Researched public information on small businesses, built website redesign demos, checked mobile browsing and inquiry flows, and prepared quotes and collaboration materials.
+				45 link Value: 127.0.0.1:4178/en/cases/p12.html, Description: P12 Websites & tools Zhijing · AI content workbench Led a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.
+				46 link Value: 127.0.0.1:4178/en/cases/p13.html, Description: P13 Mobile apps Pocket Rove Led a bilingual daily task app with completion tracking, history and souvenirs, adding notification and payment entry points and preparing App Store presentation assets.
+				47 link Value: 127.0.0.1:4178/en/cases/p14.html, Description: P14 Mobile apps Focumi Developed a pet companion focus app with pet adoption, duration goals and state transitions, integrating permissions, Live Activities and notifications.
+				48 link Value: 127.0.0.1:4178/en/cases/p15.html, Description: P15 Mobile apps PetSocial (now HelloTail) Developed pet profiles, photo displays, discovery invitations and chat, handling message sending and recovery after restart with a separate experience demo.
+				49 link Value: 127.0.0.1:4178/en/cases/p16.html, Description: P16 Mobile apps LocalStamp · location watermark camera Built a location and time watermark camera with capture, positioning, three watermark styles, local image generation, photo saving and sharing, including permission failure feedback.
+				50 link Value: 127.0.0.1:4178/en/cases/p17.html, Description: P17 Mobile apps I Ching · reading prototype Built a six-round casting and reading prototype with the original texts of 64 hexagrams, open reflection questions, local history and record import and export.
+				51 link Value: 127.0.0.1:4178/en/cases/p18.html, Description: P18 Mobile apps Study duration reminder prototype Built a study reminder prototype with app goals and reminder times, usage callbacks, date isolation and status display to validate reminder logic.
+				52 link Value: 127.0.0.1:4178/en/cases/p19.html, Description: P19 Mobile apps Hairstyle try-on and stylist reference cards Built a hairstyle try-on prototype with three-view inputs, hair conditions and candidate comparisons, exploring landmark alignment, tracking and reference exports.
+				53 link Value: 127.0.0.1:4178/en/cases/p20.html, Description: P20 Websites & tools ClaimFlow · insurance claims concept Created a static insurance claims concept page presenting workflows, features, FAQs and illustrative interfaces to communicate product positioning and use cases.
+				54 link Value: 127.0.0.1:4178/en/cases/p21.html, Description: P21 Content & research Automated order workflow repair Repaired interrupted order and reconnection flows, adding order verification, protective-order checks, persistent auditing, notification backoff and duplicate-deployment prevention.
+				55 link Value: 127.0.0.1:4178/en/cases/p22.html, Description: P22 Content & research Cross-exchange order book evidence system Built a price-spread evidence pipeline that checks quote freshness, market depth, fees and quantity rules, preserving raw events for independent replay.
+				56 link Value: 127.0.0.1:4178/en/cases/p23.html, Description: P23 Content & research Trading strategy research framework Built a research framework for breakout and exit rules with fee and latency scenarios, independently comparing backtest events and data.
+				57 link Value: 127.0.0.1:4178/en/cases/p24.html, Description: P24 Content & research Serenity · company and industry research Organized company and industry candidates, checking catalysts, valuation assumptions and counterevidence against company disclosures and official sources.
+				58 link Value: 127.0.0.1:4178/en/cases/p25.html, Description: P25 Mobile apps Personalized AI news brief Designed interest profiles, source selection, deduplication and briefing flows, tested public feed parsing, and documented sample outputs and development requirements.
+				59 link Value: 127.0.0.1:4178/en/cases/p26.html, Description: P26 Content & research AI short videos and app promotion assets Turned app features into video scripts and storyboards, producing subtitles, screenshots and audio edits with versioned assets for different social platforms.
+				60 link Value: 127.0.0.1:4178/en/cases/p27.html, Description: P27 Content & research Faceless podcast and history channel research Researched sample channels, topics and production costs for faceless podcasts and historical stories, preparing a first-episode plan and production guidelines.
+				61 link Value: 127.0.0.1:4178/en/cases/p28.html, Description: P28 Content & research Independent app opportunities and localization Researched small app opportunities in knitting, photography, travel and fitness, comparing needs and alternatives to produce screening reports and direction scores.
+				62 link Value: 127.0.0.1:4178/en/cases/p29.html, Description: P29 Content & research AI Project Radar Organized AI ecosystem leads, public sources, scoring rules and daily report templates into an intelligence task package that can be triggered manually.
+				63 link Value: 127.0.0.1:4178/en/cases/p30.html, Description: P30 Methods & tools AI collaboration workflows Organized task ownership, tool selection and output checks into clear project continuation and file management workflows.
+				64 link Value: 127.0.0.1:4178/en/cases/p31.html, Description: P31 Methods & tools Mac storage audit and safe cleanup Audited storage and cleanup scope by project, protecting unique data and runtime dependencies while checking external copies, file hashes and space changes.
+				65 link Value: 127.0.0.1:4178/en/cases/p32.html, Description: P32 Methods & tools Skills and knowledge organization Organized skill sources, knowledge indexes and learning steps, documenting tool scope, dependencies and reuse through searchable entry points.
+				66 link Value: 127.0.0.1:4178/en/cases/p33.html, Description: P33 Methods & tools Ox Alpha · remote model client Built an isolated remote model trial client with pricing and availability checks, masked key input, separate configuration and a specified invocation interface.
+				67 link Value: 127.0.0.1:4178/en/cases/p34.html, Description: P34 Methods & tools Upwork / UUMIT · collaboration preparation Prepared service scopes, opportunity scores and proposals from personal capabilities and project experience to match potential client needs.
+				68 link Value: 127.0.0.1:4178/en/cases/p35.html, Description: P35 Content & research Chemical engineering thesis preparation Organized university requirements, topic materials and working files into a handover package to support research, writing and progress tracking.
+				69 link Value: 127.0.0.1:4178/en/cases/n01.html, Description: N01 Mobile apps APNs remote notification validation Built a minimal notification validation interface, handling permission and device registration and preparing a single-device experiment and evidence plan.
+				70 link Value: 127.0.0.1:4178/en/cases/n02.html, Description: N02 Content & research OpenAI DevDay · official content research Organized research into official DevDay content, focusing on developer capabilities, availability and the boundaries of potential startup applications.
+	71 container
+		72 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/en/index.html
+		73 container Contact details
+			74 text Email
+			75 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			76 text Phone
+			77 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		78 container Page navigation
+			79 link Description: Projects ↗, Value: 127.0.0.1:4178/en/records.html
+			80 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/records.html#main
+		81 container Social profiles
+			82 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			83 link Description: Bilibili, Value: space.bilibili.com/432834855
+			84 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			85 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			86 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			87 link Description: X, Value: x.com/cczij1112
+			88 link Description: Weibo, Value: weibo.com/u/7720929036
+			89 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			90 link Description: Instagram, Value: instagram.com/eliaifde/
+			91 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		92 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea Eli Projects | Business Systems, AI & Product Work, URL: 127.0.0.1:4178/en/records.html

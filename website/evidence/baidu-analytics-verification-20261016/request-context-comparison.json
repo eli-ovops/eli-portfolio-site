@@ -1,0 +1,18 @@
+[
+  {
+    "time": "2026-10-16T06:56:50.935459+00:00",
+    "variant": "same_browser_user_agent",
+    "status": 200,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "time": "2026-10-16T06:56:51.091298+00:00",
+    "variant": "same_browser_user_agent_and_public_referrer",
+    "status": 200,
+    "bytes": 30135,
+    "sha256": "cbe0af43a2bb23124825e589133898751c8fa59f5b6d7c99f8ca284d972c2c2e",
+    "content_type": "application/javascript"
+  }
+]

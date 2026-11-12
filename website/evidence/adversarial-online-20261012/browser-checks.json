@@ -1,0 +1,316 @@
+{
+  "release": "20261012-212302-first-pointer",
+  "revision": "374bf42e288f80f56bf7",
+  "checks": [
+    {
+      "category": "客户项目",
+      "count": "2 项记录",
+      "query": "库存",
+      "test": "list-context-before-related-path",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "back": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7",
+      "test": "related-case-back-destination",
+      "title": "某家具品牌扫码库存系统",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html?pv=374bf42e288f80f56bf7"
+    },
+    {
+      "category": "全部",
+      "count": "38 项记录",
+      "query": "",
+      "test": "related-chain-explicit-return",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=374bf42e288f80f56bf7"
+    },
+    {
+      "dialogRect": {
+        "bottom": 679.1875,
+        "left": 30.90625,
+        "right": 1234.09375,
+        "top": 40.796875
+      },
+      "dialogScroll": 0,
+      "figureScroll": 0,
+      "open": true,
+      "pageScroll": 0,
+      "test": "modal-before-outside-wheel",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    },
+    {
+      "dialogScroll": 0,
+      "figureScroll": 0,
+      "open": true,
+      "pageScroll": 720,
+      "test": "modal-after-outside-wheel"
+    },
+    {
+      "focus": "detail-image-trigger",
+      "open": false,
+      "pageScroll": 720,
+      "test": "modal-close-after-background-wheel"
+    },
+    {
+      "dialogScroll": 0,
+      "open": true,
+      "pageScroll": 720,
+      "test": "modal-toolbar-wheel"
+    },
+    {
+      "active": "RAG 客服",
+      "index": "02 / 07",
+      "stage": "代表项目：英国某净水品牌 RAG 智能客服定制。展示区内滚动切换 · 区外滚动页面。",
+      "test": "gallery-rapid-switch",
+      "visibleDetails": [
+        {
+          "id": "process-p36",
+          "open": false
+        }
+      ]
+    },
+    {
+      "active": "扫码库存",
+      "index": "03 / 07",
+      "pageScroll": 738,
+      "test": "gallery-wheel-expanded"
+    },
+    {
+      "active": "AI 内容工作台",
+      "focusOutline": "auto",
+      "index": "06 / 07",
+      "test": "gallery-keyboard-end"
+    },
+    {
+      "active": "全域营销",
+      "focus": "depth-stage",
+      "index": "07 / 07",
+      "test": "gallery-keyboard-end-settled"
+    },
+    {
+      "after": {
+        "active": "全域营销",
+        "expanded": [
+          "process-p36"
+        ],
+        "scroll": 738
+      },
+      "before": {
+        "active": "全域营销",
+        "expanded": [
+          "process-p36"
+        ],
+        "scroll": 658
+      },
+      "revision": "374bf42e288f80f56bf7",
+      "test": "gallery-native-return"
+    },
+    {
+      "background": "rgb(17, 18, 20)",
+      "bodyColor": "rgb(167, 168, 178)",
+      "bodyFont": "16px",
+      "bodyLineHeight": "31.2px",
+      "h1": "Sanitaryware manufacturer inventory system",
+      "height": 740,
+      "scrollWidth": 305,
+      "test": "english-case-narrow-layout",
+      "titleRect": {
+        "height": 132.5625,
+        "left": 20,
+        "right": 285
+      },
+      "width": 320
+    },
+    {
+      "focus": "\n  \n  Skip to content\n  \n    \n      *Eli\n    \n    HomeProjectsAbout中文\n  \n  \n  ← Back to projectsWebsites & tools\n  Sanitaryware manufacturer inventory systemAdapted existing foundationConnect product specifications, purchasing, returns and stocktaking through inventory workflows and PC/H5 entry points.View full image ↗\n  My workIndependent requirements, foundation adaptation and deliveryUse statusDelivered; not yet in full use\n  \n    OverviewContextMy roleWork deliveredApproachDelivery & feedbackTechnical approach\n    ContextThe client needed inventory management connected to product variants, purchasing, returns and stocktakes. Quantities and statuses must agree with the actual business operations.My roleIndependently handled requirements, workflow analysis, development on the existing foundation and delivery.Work deliveredAdapted an existing foundation for inventory, connecting PC and H5 entry points with reference data, purchasing, stock and business overview pages.ApproachDefined the scope after a half-day requirements discussion. With limited later client communication, I continued from the initial discovery and industry understanding.Cross-checked documents, stock and transactions rather than relying on a success message. A stocktake example appears below.One stocktake reviewIn a test record dated September 23, 2026, a product variant had 1 unit on the books and 0 counted. Three results were cross-checked after submission.CheckRecorded resultStocktake documentOriginal 1, counted 0, stocktake completedTest-location inventoryReduced from 1 unit to 0Inventory transactionThe matching variant records −1 unitThis historical shortage example does not establish acceptance of every workflow. The same review recorded eight passing examples and one issue across nine checks; it does not determine the current system state.Delivery & feedbackDelivery took about two months. The client has not yet put the system into full use, so usage outcomes remain unconfirmed.Technical approachJavaSpring BootVueMySQLRedisNginxPC and H5 interfaces connect to a business backend for inventory, purchasing, returns and stocktakes, adapting an existing foundation.Implementation flowBusiness interfacesVue PC and H5Business servicesSpring Boot APIsData storageMySQL and RedisTrial deploymentLinux / Nginx environmentValidation scopeBuild, trial deployment and workflow review records exist. Delivery, trial operation and full customer adoption are separate milestones.Furniture barcode inventory system ↗Law firm office system ↗\n  \n  More projects ↗\n\n\n  \n    \n      EliFDE / SELECTED WORK\n    \n    [REDACTED_EMAIL] ↗Phone[REDACTED_PHONE] ↗\n    Projects ↗Back to top ↑XiaohongshuBilibiliDouyinYouTubeLinkedInXWeiboTikTokInstagramFacebook\n  \n\n\nActual sizeClose ×Interface preview · switch to actual size for details",
+      "hash": "#process",
+      "scrollWidth": 305,
+      "tableRect": {
+        "left": 20,
+        "right": 285
+      },
+      "test": "english-narrow-toc-table",
+      "viewport": 320
+    },
+    {
+      "filtersOverflow": {
+        "scrollWidth": 663,
+        "width": 265
+      },
+      "inputFont": "16px",
+      "inputRect": {
+        "height": 48.1875,
+        "left": 20,
+        "right": 285
+      },
+      "scrollWidth": 305,
+      "test": "english-mobile-search-layout",
+      "width": 320
+    },
+    {
+      "category": "Client work",
+      "count": "2 projects",
+      "focusOutline": "solid",
+      "projects": [
+        "project-p10",
+        "project-p09"
+      ],
+      "query": "inventory",
+      "scrollWidth": 305,
+      "test": "narrow-fast-filter-search-keyboard"
+    },
+    {
+      "count": "38 projects",
+      "focus": "search",
+      "outline": "solid",
+      "query": "",
+      "scrollWidth": 305,
+      "test": "narrow-keyboard-empty-recovery"
+    },
+    {
+      "focusOutline": "solid",
+      "h1Count": 1,
+      "mainCount": 1,
+      "questions": [
+        false,
+        false,
+        false
+      ],
+      "scrollWidth": 305,
+      "test": "about-narrow-keyboard-disclosure",
+      "width": 320
+    },
+    {
+      "active": "SUMMARY",
+      "outline": "solid",
+      "questions": [
+        true,
+        false,
+        false
+      ],
+      "test": "about-space-disclosure"
+    },
+    {
+      "active": "SUMMARY",
+      "questions": [
+        true,
+        false,
+        false
+      ],
+      "test": "about-settled-enter-disclosure"
+    },
+    {
+      "test": "rapid-header-navigation-unresolved",
+      "observed": {
+        "ready": "complete",
+        "title": "Eli Projects | Business Systems, AI & Product Work",
+        "url": "http://[REDACTED_HOST]/sites/portfolio/en/records.html?pv=374bf42e288f80f56bf7"
+      },
+      "expected": "about page; summary present",
+      "error": "summary selector absent after rapid Projects -> About navigation; no causal conclusion"
+    },
+    {
+      "active": "SUMMARY",
+      "questions": [
+        false,
+        false,
+        false
+      ],
+      "test": "about-entry-exact-route-enter",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html?pv=374bf42e288f80f56bf7"
+    },
+    {
+      "cases": [
+        {
+          "name": "Full case study: Sanitaryware manufacturer inventory system",
+          "visible": true
+        },
+        {
+          "name": "Full case study: UK water purification brand · RAG support",
+          "visible": true
+        },
+        {
+          "name": "Full case study: Furniture barcode inventory system",
+          "visible": true
+        },
+        {
+          "name": "Full case study: Law firm office system",
+          "visible": true
+        },
+        {
+          "name": "Full case study: Shenzhen charity foundation",
+          "visible": true
+        },
+        {
+          "name": "Full case study: Zhijing · AI content workbench",
+          "visible": true
+        },
+        {
+          "name": "Full case study: UK water purification brand marketing",
+          "visible": true
+        }
+      ],
+      "indexHidden": true,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 305,
+      "test": "home-reduced-motion-narrow",
+      "transforms": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "width": 320
+    },
+    {
+      "contactTop": 23.84375,
+      "hash": "#contact",
+      "links": [
+        {
+          "scheme": "mailto",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "scheme": "tel",
+          "text": "[REDACTED_PHONE] ↗"
+        },
+        {
+          "scheme": "https",
+          "text": "[REDACTED_PHONE] ↗"
+        },
+        {
+          "scheme": "../assets/wechat-qr.png",
+          "text": ""
+        }
+      ],
+      "scrollWidth": 305,
+      "socialCount": 0,
+      "test": "narrow-contact-entry",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html?pv=374bf42e288f80f56bf7#contact",
+      "width": 320
+    },
+    {
+      "test": "gallery-click-state-observed",
+      "saved": {
+        "selected": "process-p05",
+        "expanded": [
+          "process-p36"
+        ],
+        "scrollY": 738
+      },
+      "returnedScroll": 738,
+      "note": "Pre-locator snapshot was658; saved click-time state was738; this difference is not counted as return failure."
+    }
+  ],
+  "unresolved": [
+    "Initial about Enter samples did not open; settled Enter and Space worked; website versus automation/focus timing UNKNOWN",
+    "One rapid Projects->About sequence remained on Projects; exact-route stable navigation worked; cause UNKNOWN"
+  ],
+  "screen_reader": "NOT_TESTED",
+  "real_browser_zoom_200": "NOT_TESTED",
+  "true_touch_device": "NOT_TESTED"
+}

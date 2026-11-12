@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "fdaded69427dfb1ce994",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261019-home-metadata-fdaded69",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-service-intent-18845261",
+  "public_hashes_checked": 31,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

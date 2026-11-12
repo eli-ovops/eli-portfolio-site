@@ -1,0 +1,1040 @@
+{
+  "status": "PASS",
+  "tutorial_topics": 100,
+  "tutorial_pages": 200,
+  "retained_case_topics": 2,
+  "total_articles_per_language": 102,
+  "categories": {
+    "basics": 10,
+    "models": 10,
+    "prompting": 10,
+    "agents": 10,
+    "skills": 10,
+    "harness": 10,
+    "github": 10,
+    "workbuddy": 10,
+    "office": 10,
+    "business": 10
+  },
+  "static_article_links_per_language": 102,
+  "homepage_article_previews": 2,
+  "sitemap_urls": 88,
+  "drafts_indexable": false,
+  "complete_english_text": true,
+  "paired_language_switches": 200,
+  "unique_practice_prompts": 100,
+  "protected_hashes": {
+    "styles.css": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+    "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7",
+    "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+    "assets/page-version.js": "7c785b08aea1581da7fd9ff5b0bf8c7c7eecf0164fc0502fc7cb5f4cb447318d",
+    "assets/stacked-gallery.css": "9c476e02cb4eeda0e4714905324c6b9534e8fd3d92cd86a24d5c7a19e700654a",
+    "assets/depth-gallery.js": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609",
+    "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+    "assets/home-ambient.css": "3087e27bb0b8ef5652bc44737516d7c38aea64cafc72f5dae84baef2c60f5247",
+    "assets/editorial.js": "e78c26d12a9f0063f96062644863806648726595b38a6df251d199f663be30bc"
+  },
+  "content_lengths": [
+    {
+      "slug": "what-is-ai",
+      "lang": "zh-CN",
+      "visible_characters": 1031
+    },
+    {
+      "slug": "what-is-ai",
+      "lang": "en",
+      "visible_characters": 2543
+    },
+    {
+      "slug": "ai-chat-vs-search",
+      "lang": "zh-CN",
+      "visible_characters": 1055
+    },
+    {
+      "slug": "ai-chat-vs-search",
+      "lang": "en",
+      "visible_characters": 2543
+    },
+    {
+      "slug": "first-ai-task",
+      "lang": "zh-CN",
+      "visible_characters": 980
+    },
+    {
+      "slug": "first-ai-task",
+      "lang": "en",
+      "visible_characters": 2358
+    },
+    {
+      "slug": "choose-ai-tool",
+      "lang": "zh-CN",
+      "visible_characters": 1035
+    },
+    {
+      "slug": "choose-ai-tool",
+      "lang": "en",
+      "visible_characters": 2588
+    },
+    {
+      "slug": "ai-hallucination",
+      "lang": "zh-CN",
+      "visible_characters": 985
+    },
+    {
+      "slug": "ai-hallucination",
+      "lang": "en",
+      "visible_characters": 2412
+    },
+    {
+      "slug": "ai-privacy-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1038
+    },
+    {
+      "slug": "ai-privacy-basics",
+      "lang": "en",
+      "visible_characters": 2623
+    },
+    {
+      "slug": "ai-file-reading",
+      "lang": "zh-CN",
+      "visible_characters": 1005
+    },
+    {
+      "slug": "ai-file-reading",
+      "lang": "en",
+      "visible_characters": 2516
+    },
+    {
+      "slug": "ai-generated-images",
+      "lang": "zh-CN",
+      "visible_characters": 977
+    },
+    {
+      "slug": "ai-generated-images",
+      "lang": "en",
+      "visible_characters": 2483
+    },
+    {
+      "slug": "ai-jargon-map",
+      "lang": "zh-CN",
+      "visible_characters": 1127
+    },
+    {
+      "slug": "ai-jargon-map",
+      "lang": "en",
+      "visible_characters": 2971
+    },
+    {
+      "slug": "ai-learning-plan",
+      "lang": "zh-CN",
+      "visible_characters": 1012
+    },
+    {
+      "slug": "ai-learning-plan",
+      "lang": "en",
+      "visible_characters": 2541
+    },
+    {
+      "slug": "what-is-llm",
+      "lang": "zh-CN",
+      "visible_characters": 1032
+    },
+    {
+      "slug": "what-is-llm",
+      "lang": "en",
+      "visible_characters": 2576
+    },
+    {
+      "slug": "how-llm-generates",
+      "lang": "zh-CN",
+      "visible_characters": 1022
+    },
+    {
+      "slug": "how-llm-generates",
+      "lang": "en",
+      "visible_characters": 2639
+    },
+    {
+      "slug": "what-is-token",
+      "lang": "zh-CN",
+      "visible_characters": 1050
+    },
+    {
+      "slug": "what-is-token",
+      "lang": "en",
+      "visible_characters": 2671
+    },
+    {
+      "slug": "context-window",
+      "lang": "zh-CN",
+      "visible_characters": 1021
+    },
+    {
+      "slug": "context-window",
+      "lang": "en",
+      "visible_characters": 2715
+    },
+    {
+      "slug": "training-vs-inference",
+      "lang": "zh-CN",
+      "visible_characters": 1040
+    },
+    {
+      "slug": "training-vs-inference",
+      "lang": "en",
+      "visible_characters": 2647
+    },
+    {
+      "slug": "neural-network-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1040
+    },
+    {
+      "slug": "neural-network-basics",
+      "lang": "en",
+      "visible_characters": 2662
+    },
+    {
+      "slug": "embeddings-explained",
+      "lang": "zh-CN",
+      "visible_characters": 1020
+    },
+    {
+      "slug": "embeddings-explained",
+      "lang": "en",
+      "visible_characters": 2611
+    },
+    {
+      "slug": "rag-explained",
+      "lang": "zh-CN",
+      "visible_characters": 1032
+    },
+    {
+      "slug": "rag-explained",
+      "lang": "en",
+      "visible_characters": 2665
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "lang": "zh-CN",
+      "visible_characters": 1031
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "lang": "en",
+      "visible_characters": 2605
+    },
+    {
+      "slug": "model-size-and-cost",
+      "lang": "zh-CN",
+      "visible_characters": 1016
+    },
+    {
+      "slug": "model-size-and-cost",
+      "lang": "en",
+      "visible_characters": 2570
+    },
+    {
+      "slug": "prompt-basics",
+      "lang": "zh-CN",
+      "visible_characters": 993
+    },
+    {
+      "slug": "prompt-basics",
+      "lang": "en",
+      "visible_characters": 2448
+    },
+    {
+      "slug": "provide-context",
+      "lang": "zh-CN",
+      "visible_characters": 1025
+    },
+    {
+      "slug": "provide-context",
+      "lang": "en",
+      "visible_characters": 2547
+    },
+    {
+      "slug": "prompt-with-example",
+      "lang": "zh-CN",
+      "visible_characters": 981
+    },
+    {
+      "slug": "prompt-with-example",
+      "lang": "en",
+      "visible_characters": 2445
+    },
+    {
+      "slug": "structured-ai-output",
+      "lang": "zh-CN",
+      "visible_characters": 1023
+    },
+    {
+      "slug": "structured-ai-output",
+      "lang": "en",
+      "visible_characters": 2518
+    },
+    {
+      "slug": "break-down-task",
+      "lang": "zh-CN",
+      "visible_characters": 942
+    },
+    {
+      "slug": "break-down-task",
+      "lang": "en",
+      "visible_characters": 2439
+    },
+    {
+      "slug": "ask-clarifying-questions",
+      "lang": "zh-CN",
+      "visible_characters": 934
+    },
+    {
+      "slug": "ask-clarifying-questions",
+      "lang": "en",
+      "visible_characters": 2360
+    },
+    {
+      "slug": "rewrite-with-ai",
+      "lang": "zh-CN",
+      "visible_characters": 946
+    },
+    {
+      "slug": "rewrite-with-ai",
+      "lang": "en",
+      "visible_characters": 2396
+    },
+    {
+      "slug": "ai-compare-options",
+      "lang": "zh-CN",
+      "visible_characters": 971
+    },
+    {
+      "slug": "ai-compare-options",
+      "lang": "en",
+      "visible_characters": 2382
+    },
+    {
+      "slug": "fix-bad-ai-answer",
+      "lang": "zh-CN",
+      "visible_characters": 928
+    },
+    {
+      "slug": "fix-bad-ai-answer",
+      "lang": "en",
+      "visible_characters": 2347
+    },
+    {
+      "slug": "save-prompt-template",
+      "lang": "zh-CN",
+      "visible_characters": 973
+    },
+    {
+      "slug": "save-prompt-template",
+      "lang": "en",
+      "visible_characters": 2449
+    },
+    {
+      "slug": "what-is-agent",
+      "lang": "zh-CN",
+      "visible_characters": 1036
+    },
+    {
+      "slug": "what-is-agent",
+      "lang": "en",
+      "visible_characters": 2509
+    },
+    {
+      "slug": "agent-first-task",
+      "lang": "zh-CN",
+      "visible_characters": 1021
+    },
+    {
+      "slug": "agent-first-task",
+      "lang": "en",
+      "visible_characters": 2473
+    },
+    {
+      "slug": "agent-tools-permissions",
+      "lang": "zh-CN",
+      "visible_characters": 986
+    },
+    {
+      "slug": "agent-tools-permissions",
+      "lang": "en",
+      "visible_characters": 2420
+    },
+    {
+      "slug": "agent-plan-and-act",
+      "lang": "zh-CN",
+      "visible_characters": 1011
+    },
+    {
+      "slug": "agent-plan-and-act",
+      "lang": "en",
+      "visible_characters": 2476
+    },
+    {
+      "slug": "agent-workflow-difference",
+      "lang": "zh-CN",
+      "visible_characters": 1013
+    },
+    {
+      "slug": "agent-workflow-difference",
+      "lang": "en",
+      "visible_characters": 2423
+    },
+    {
+      "slug": "agent-feedback-loop",
+      "lang": "zh-CN",
+      "visible_characters": 998
+    },
+    {
+      "slug": "agent-feedback-loop",
+      "lang": "en",
+      "visible_characters": 2433
+    },
+    {
+      "slug": "agent-memory",
+      "lang": "zh-CN",
+      "visible_characters": 996
+    },
+    {
+      "slug": "agent-memory",
+      "lang": "en",
+      "visible_characters": 2422
+    },
+    {
+      "slug": "agent-stop-rules",
+      "lang": "zh-CN",
+      "visible_characters": 1028
+    },
+    {
+      "slug": "agent-stop-rules",
+      "lang": "en",
+      "visible_characters": 2434
+    },
+    {
+      "slug": "multi-agent-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1023
+    },
+    {
+      "slug": "multi-agent-basics",
+      "lang": "en",
+      "visible_characters": 2453
+    },
+    {
+      "slug": "agent-risk-checklist",
+      "lang": "zh-CN",
+      "visible_characters": 1022
+    },
+    {
+      "slug": "agent-risk-checklist",
+      "lang": "en",
+      "visible_characters": 2453
+    },
+    {
+      "slug": "what-is-skill",
+      "lang": "zh-CN",
+      "visible_characters": 1057
+    },
+    {
+      "slug": "what-is-skill",
+      "lang": "en",
+      "visible_characters": 2413
+    },
+    {
+      "slug": "skill-file-structure",
+      "lang": "zh-CN",
+      "visible_characters": 1138
+    },
+    {
+      "slug": "skill-file-structure",
+      "lang": "en",
+      "visible_characters": 2599
+    },
+    {
+      "slug": "skill-vs-prompt",
+      "lang": "zh-CN",
+      "visible_characters": 1041
+    },
+    {
+      "slug": "skill-vs-prompt",
+      "lang": "en",
+      "visible_characters": 2427
+    },
+    {
+      "slug": "skill-install-safely",
+      "lang": "zh-CN",
+      "visible_characters": 1070
+    },
+    {
+      "slug": "skill-install-safely",
+      "lang": "en",
+      "visible_characters": 2521
+    },
+    {
+      "slug": "create-first-skill",
+      "lang": "zh-CN",
+      "visible_characters": 1096
+    },
+    {
+      "slug": "create-first-skill",
+      "lang": "en",
+      "visible_characters": 2673
+    },
+    {
+      "slug": "what-is-mcp",
+      "lang": "zh-CN",
+      "visible_characters": 1062
+    },
+    {
+      "slug": "what-is-mcp",
+      "lang": "en",
+      "visible_characters": 2548
+    },
+    {
+      "slug": "mcp-vs-api",
+      "lang": "zh-CN",
+      "visible_characters": 1070
+    },
+    {
+      "slug": "mcp-vs-api",
+      "lang": "en",
+      "visible_characters": 2646
+    },
+    {
+      "slug": "mcp-read-only",
+      "lang": "zh-CN",
+      "visible_characters": 1059
+    },
+    {
+      "slug": "mcp-read-only",
+      "lang": "en",
+      "visible_characters": 2627
+    },
+    {
+      "slug": "skill-not-working",
+      "lang": "zh-CN",
+      "visible_characters": 1057
+    },
+    {
+      "slug": "skill-not-working",
+      "lang": "en",
+      "visible_characters": 2553
+    },
+    {
+      "slug": "prompt-injection-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1054
+    },
+    {
+      "slug": "prompt-injection-basics",
+      "lang": "en",
+      "visible_characters": 2640
+    },
+    {
+      "slug": "what-is-harness",
+      "lang": "zh-CN",
+      "visible_characters": 1099
+    },
+    {
+      "slug": "what-is-harness",
+      "lang": "en",
+      "visible_characters": 2579
+    },
+    {
+      "slug": "ai-coding-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1103
+    },
+    {
+      "slug": "ai-coding-basics",
+      "lang": "en",
+      "visible_characters": 2619
+    },
+    {
+      "slug": "read-ai-code-plan",
+      "lang": "zh-CN",
+      "visible_characters": 1043
+    },
+    {
+      "slug": "read-ai-code-plan",
+      "lang": "en",
+      "visible_characters": 2576
+    },
+    {
+      "slug": "terminal-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1097
+    },
+    {
+      "slug": "terminal-basics",
+      "lang": "en",
+      "visible_characters": 2678
+    },
+    {
+      "slug": "what-is-local-preview",
+      "lang": "zh-CN",
+      "visible_characters": 1087
+    },
+    {
+      "slug": "what-is-local-preview",
+      "lang": "en",
+      "visible_characters": 2709
+    },
+    {
+      "slug": "acceptance-tests",
+      "lang": "zh-CN",
+      "visible_characters": 1047
+    },
+    {
+      "slug": "acceptance-tests",
+      "lang": "en",
+      "visible_characters": 2633
+    },
+    {
+      "slug": "ai-debugging",
+      "lang": "zh-CN",
+      "visible_characters": 1057
+    },
+    {
+      "slug": "ai-debugging",
+      "lang": "en",
+      "visible_characters": 2627
+    },
+    {
+      "slug": "ai-checkpoints",
+      "lang": "zh-CN",
+      "visible_characters": 1010
+    },
+    {
+      "slug": "ai-checkpoints",
+      "lang": "en",
+      "visible_characters": 2555
+    },
+    {
+      "slug": "dependency-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1034
+    },
+    {
+      "slug": "dependency-basics",
+      "lang": "en",
+      "visible_characters": 2589
+    },
+    {
+      "slug": "coding-without-secrets",
+      "lang": "zh-CN",
+      "visible_characters": 1072
+    },
+    {
+      "slug": "coding-without-secrets",
+      "lang": "en",
+      "visible_characters": 2668
+    },
+    {
+      "slug": "what-is-github",
+      "lang": "zh-CN",
+      "visible_characters": 1033
+    },
+    {
+      "slug": "what-is-github",
+      "lang": "en",
+      "visible_characters": 2395
+    },
+    {
+      "slug": "repository-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1075
+    },
+    {
+      "slug": "repository-basics",
+      "lang": "en",
+      "visible_characters": 2484
+    },
+    {
+      "slug": "readme-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1024
+    },
+    {
+      "slug": "readme-basics",
+      "lang": "en",
+      "visible_characters": 2373
+    },
+    {
+      "slug": "download-release-or-source",
+      "lang": "zh-CN",
+      "visible_characters": 1060
+    },
+    {
+      "slug": "download-release-or-source",
+      "lang": "en",
+      "visible_characters": 2545
+    },
+    {
+      "slug": "commit-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1056
+    },
+    {
+      "slug": "commit-basics",
+      "lang": "en",
+      "visible_characters": 2441
+    },
+    {
+      "slug": "branch-basics",
+      "lang": "zh-CN",
+      "visible_characters": 990
+    },
+    {
+      "slug": "branch-basics",
+      "lang": "en",
+      "visible_characters": 2355
+    },
+    {
+      "slug": "pull-request-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1028
+    },
+    {
+      "slug": "pull-request-basics",
+      "lang": "en",
+      "visible_characters": 2382
+    },
+    {
+      "slug": "issue-basics",
+      "lang": "zh-CN",
+      "visible_characters": 1005
+    },
+    {
+      "slug": "issue-basics",
+      "lang": "en",
+      "visible_characters": 2437
+    },
+    {
+      "slug": "open-source-license",
+      "lang": "zh-CN",
+      "visible_characters": 1076
+    },
+    {
+      "slug": "open-source-license",
+      "lang": "en",
+      "visible_characters": 2648
+    },
+    {
+      "slug": "github-public-private",
+      "lang": "zh-CN",
+      "visible_characters": 1046
+    },
+    {
+      "slug": "github-public-private",
+      "lang": "en",
+      "visible_characters": 2554
+    },
+    {
+      "slug": "what-is-workbuddy",
+      "lang": "zh-CN",
+      "visible_characters": 1075
+    },
+    {
+      "slug": "what-is-workbuddy",
+      "lang": "en",
+      "visible_characters": 2563
+    },
+    {
+      "slug": "workbuddy-first-task",
+      "lang": "zh-CN",
+      "visible_characters": 1197
+    },
+    {
+      "slug": "workbuddy-first-task",
+      "lang": "en",
+      "visible_characters": 2816
+    },
+    {
+      "slug": "workbuddy-file-organizing",
+      "lang": "zh-CN",
+      "visible_characters": 1040
+    },
+    {
+      "slug": "workbuddy-file-organizing",
+      "lang": "en",
+      "visible_characters": 2536
+    },
+    {
+      "slug": "workbuddy-meeting-notes",
+      "lang": "zh-CN",
+      "visible_characters": 1091
+    },
+    {
+      "slug": "workbuddy-meeting-notes",
+      "lang": "en",
+      "visible_characters": 2622
+    },
+    {
+      "slug": "workbuddy-spreadsheet",
+      "lang": "zh-CN",
+      "visible_characters": 1103
+    },
+    {
+      "slug": "workbuddy-spreadsheet",
+      "lang": "en",
+      "visible_characters": 2725
+    },
+    {
+      "slug": "workbuddy-write-document",
+      "lang": "zh-CN",
+      "visible_characters": 1046
+    },
+    {
+      "slug": "workbuddy-write-document",
+      "lang": "en",
+      "visible_characters": 2566
+    },
+    {
+      "slug": "workbuddy-skills",
+      "lang": "zh-CN",
+      "visible_characters": 1071
+    },
+    {
+      "slug": "workbuddy-skills",
+      "lang": "en",
+      "visible_characters": 2658
+    },
+    {
+      "slug": "workbuddy-connectors",
+      "lang": "zh-CN",
+      "visible_characters": 1034
+    },
+    {
+      "slug": "workbuddy-connectors",
+      "lang": "en",
+      "visible_characters": 2555
+    },
+    {
+      "slug": "workbuddy-permissions",
+      "lang": "zh-CN",
+      "visible_characters": 1034
+    },
+    {
+      "slug": "workbuddy-permissions",
+      "lang": "en",
+      "visible_characters": 2534
+    },
+    {
+      "slug": "workbuddy-task-failed",
+      "lang": "zh-CN",
+      "visible_characters": 1063
+    },
+    {
+      "slug": "workbuddy-task-failed",
+      "lang": "en",
+      "visible_characters": 2660
+    },
+    {
+      "slug": "ai-email-draft",
+      "lang": "zh-CN",
+      "visible_characters": 966
+    },
+    {
+      "slug": "ai-email-draft",
+      "lang": "en",
+      "visible_characters": 2479
+    },
+    {
+      "slug": "ai-meeting-actions",
+      "lang": "zh-CN",
+      "visible_characters": 981
+    },
+    {
+      "slug": "ai-meeting-actions",
+      "lang": "en",
+      "visible_characters": 2467
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "lang": "zh-CN",
+      "visible_characters": 965
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "lang": "en",
+      "visible_characters": 2459
+    },
+    {
+      "slug": "ai-inventory-exceptions",
+      "lang": "zh-CN",
+      "visible_characters": 989
+    },
+    {
+      "slug": "ai-inventory-exceptions",
+      "lang": "en",
+      "visible_characters": 2594
+    },
+    {
+      "slug": "ai-product-copy",
+      "lang": "zh-CN",
+      "visible_characters": 992
+    },
+    {
+      "slug": "ai-product-copy",
+      "lang": "en",
+      "visible_characters": 2556
+    },
+    {
+      "slug": "ai-translation-review",
+      "lang": "zh-CN",
+      "visible_characters": 989
+    },
+    {
+      "slug": "ai-translation-review",
+      "lang": "en",
+      "visible_characters": 2513
+    },
+    {
+      "slug": "ai-weekly-report",
+      "lang": "zh-CN",
+      "visible_characters": 978
+    },
+    {
+      "slug": "ai-weekly-report",
+      "lang": "en",
+      "visible_characters": 2509
+    },
+    {
+      "slug": "ai-ocr-check",
+      "lang": "zh-CN",
+      "visible_characters": 1027
+    },
+    {
+      "slug": "ai-ocr-check",
+      "lang": "en",
+      "visible_characters": 2626
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "lang": "zh-CN",
+      "visible_characters": 986
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "lang": "en",
+      "visible_characters": 2533
+    },
+    {
+      "slug": "ai-sop-writing",
+      "lang": "zh-CN",
+      "visible_characters": 1017
+    },
+    {
+      "slug": "ai-sop-writing",
+      "lang": "en",
+      "visible_characters": 2578
+    },
+    {
+      "slug": "owner-ai-first-step",
+      "lang": "zh-CN",
+      "visible_characters": 972
+    },
+    {
+      "slug": "owner-ai-first-step",
+      "lang": "en",
+      "visible_characters": 2496
+    },
+    {
+      "slug": "ai-task-selection",
+      "lang": "zh-CN",
+      "visible_characters": 986
+    },
+    {
+      "slug": "ai-task-selection",
+      "lang": "en",
+      "visible_characters": 2576
+    },
+    {
+      "slug": "ai-pilot-design",
+      "lang": "zh-CN",
+      "visible_characters": 1000
+    },
+    {
+      "slug": "ai-pilot-design",
+      "lang": "en",
+      "visible_characters": 2513
+    },
+    {
+      "slug": "ai-cost-breakdown",
+      "lang": "zh-CN",
+      "visible_characters": 1026
+    },
+    {
+      "slug": "ai-cost-breakdown",
+      "lang": "en",
+      "visible_characters": 2626
+    },
+    {
+      "slug": "measure-ai-benefit",
+      "lang": "zh-CN",
+      "visible_characters": 1033
+    },
+    {
+      "slug": "measure-ai-benefit",
+      "lang": "en",
+      "visible_characters": 2589
+    },
+    {
+      "slug": "choose-ai-provider",
+      "lang": "zh-CN",
+      "visible_characters": 1062
+    },
+    {
+      "slug": "choose-ai-provider",
+      "lang": "en",
+      "visible_characters": 2606
+    },
+    {
+      "slug": "what-is-fde-business",
+      "lang": "zh-CN",
+      "visible_characters": 1025
+    },
+    {
+      "slug": "what-is-fde-business",
+      "lang": "en",
+      "visible_characters": 2542
+    },
+    {
+      "slug": "ai-employee-training",
+      "lang": "zh-CN",
+      "visible_characters": 1030
+    },
+    {
+      "slug": "ai-employee-training",
+      "lang": "en",
+      "visible_characters": 2543
+    },
+    {
+      "slug": "ai-maintenance-owner",
+      "lang": "zh-CN",
+      "visible_characters": 1042
+    },
+    {
+      "slug": "ai-maintenance-owner",
+      "lang": "en",
+      "visible_characters": 2576
+    },
+    {
+      "slug": "ai-consultation-prepare",
+      "lang": "zh-CN",
+      "visible_characters": 1093
+    },
+    {
+      "slug": "ai-consultation-prepare",
+      "lang": "en",
+      "visible_characters": 2726
+    }
+  ]
+}

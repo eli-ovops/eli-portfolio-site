@@ -1,0 +1,19 @@
+{
+  "assets/depth-gallery.js": "a6f09d227f8bd446b41ee16e868b93f12b39059c28f2fef8bd4b3b9d1582bcb8",
+  "templates/home.html": "ccd21200c2449bee26d8fa6697d0ed9c35a2b0239886a38b4b9ae9b7d46c3ec4",
+  "scripts/components.py": "4191ad6edbb92da5f899e95c78e63e6615601ec456ac541e26ee4bc314c345ee",
+  "assets/vendor/react-bits-components/NOTICE.md": "c745e7e52db8f80234e2d867eeab177d73f40c5fd74d7f09e855b705384ba169",
+  "site.yaml": "288f6b1ef56e1c69dc0ef2c46007a90350a676b0e69e94d3374d66a2e59266f4",
+  "assets/page-version.js": "4836a1f24fa637150f34777916d23a45685efd0c0313c344733acc2102ef5ebd",
+  "assets/site-analytics.js": "4dc5c210e817ea89cbf8fcb8ba350cd7b689983978db97203f96ecd28ee2c1a4",
+  "assets/site-analytics.css": "0dc3a2815e93e70918316a2651e777ee5f835e1b5416e4aa834899cd7131006a",
+  "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+  "assets/home-ambient.css": "3087e27bb0b8ef5652bc44737516d7c38aea64cafc72f5dae84baef2c60f5247",
+  "content/profile.json": "41138a317e3b1db8debad6d2f138838c528d8ee5dcbd84e92b58923ea4610892",
+  "content/seo.json": "28da5c99e2fbf25c7b591f96d051274aecea94b94f5cb4fb9ce73805e8dca104",
+  "content/projects.json": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+  "content/en.json": "cdd044ff5aa683510b1e2b2310066c05351a89aeb12b30aab6375178d344090d",
+  "content/case-examples.json": "55a7a7167ec0f32d65d73b442419cc42c6dc344ebdbbefe26bfb32562c1cbb2f",
+  "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+  "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7"
+}

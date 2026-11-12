@@ -1,0 +1,89 @@
+{
+  "status": "LOCAL_IMPLEMENTED_QA_PASSED_NOT_PUBLISHED",
+  "date": "2026-10-16",
+  "production_unchanged": "4214c0d6f6cd8e3dd8ce",
+  "local_revision": "237ae15f2d0908416cf7",
+  "changed_files": [
+    "content/profile.json",
+    "content/en.json",
+    "content/seo.json",
+    "templates/home.html",
+    "templates/about.html",
+    "scripts/pages.py",
+    "scripts/components.py",
+    "scripts/project_order.py",
+    "scripts/localization.py",
+    "assets/editorial.css",
+    "site.yaml",
+    "styles.css",
+    "assets/depth-gallery.js",
+    "templates/gallery-project.html"
+  ],
+  "changes": [
+    "保留业务标题与FDE副身份，改用三个工作场景和免费聊聊入口",
+    "首次联系引导及费用边界统一，不新增时长和交付套餐承诺",
+    "移除30+概括，六个精选保留，P12仍在38条项目库",
+    "三个相关案例用原问题、实际工作与证据状态串联",
+    "微信前置并补同机保存/相册识别提示；未新增未经确认的微信号",
+    "轮播短标签随卡片生成，避免精选调整后标签与项目错位"
+  ],
+  "verification": {
+    "static_checks": {
+      "logs": [
+        "evidence/first-contact-local-20261016/check.log",
+        "evidence/first-contact-local-20261016/check_analytics.log",
+        "evidence/first-contact-local-20261016/check_first_pointer.log",
+        "evidence/first-contact-local-20261016/check_home_case_return.log",
+        "evidence/first-contact-local-20261016/check_home_entry.log",
+        "evidence/first-contact-local-20261016/check_localization.log",
+        "evidence/first-contact-local-20261016/check_navigation_version.log",
+        "evidence/first-contact-local-20261016/check_related_return.log",
+        "evidence/first-contact-local-20261016/check_return_owner.log",
+        "evidence/first-contact-local-20261016/check_search_reset.log",
+        "evidence/first-contact-local-20261016/check_seo.log",
+        "evidence/first-contact-local-20261016/check_service_return.log"
+      ],
+      "content": "6 featured, P12 retained, 38 catalogue rows in both languages",
+      "protected_unchanged": [
+        "assets/site-analytics.js",
+        "assets/site-analytics.css",
+        "assets/page-version.js",
+        "motion.css"
+      ]
+    },
+    "browser": "真实IAB操作，桌面1440×960；手机尺寸模拟，未做实体手机或微信真机测试",
+    "mobile320": {
+      "viewport": "320×740",
+      "cta_bottom": 597.546875,
+      "cookie_top": 619.125061,
+      "horizontal_overflow": false
+    },
+    "mobile390": {
+      "viewport": "390×844",
+      "cta_bottom": 687.921875,
+      "cookie_top": 744.58606,
+      "horizontal_overflow": false
+    },
+    "paths": [
+      "手机免费聊聊首击到about#contact",
+      "轮播客服答疑02/06，案例返回保留p36选中",
+      "品牌营销06/06链接p05",
+      "库存搜索2条；客户分类后无结果搜索，清除首击恢复38条、搜索与分类为空",
+      "服务页proof→p10→关联p09→返回FDE服务页proof",
+      "服务页咨询到about#contact；微信点击打开728×728PNG",
+      "中英文手机页面无横向溢出",
+      "本地Cookie暂不和允许均关闭；允许后不加载百度SDK"
+    ],
+    "screenshots": [
+      "home-mobile.png",
+      "contact-mobile.png",
+      "home-desktop.png"
+    ]
+  },
+  "limits": [
+    "没有发布或改生产",
+    "微信号和回复时间未确认，未添加承诺",
+    "500起未包装成未经确认的固定套餐",
+    "不把测试与截图当成客户量化收益"
+  ]
+}

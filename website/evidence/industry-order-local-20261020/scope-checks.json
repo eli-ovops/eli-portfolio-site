@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "html_changes": [
+    "index.html",
+    "en/index.html"
+  ],
+  "content_changes": "Order only in both languages; all industry fields and case mappings unchanged",
+  "protected_assets": "All CSS, JS and media unchanged",
+  "outside_industry_section": "Unchanged after revision normalization",
+  "counts": {
+    "primary": 8,
+    "more": 7
+  },
+  "deployments": 0,
+  "search_submissions": 0,
+  "revision": "4bc544a5361e14236d53",
+  "checked_at": "2026-10-20T11:53:39.309Z"
+}

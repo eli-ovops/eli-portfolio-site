@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "1884526158ef3680b12f",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261019-service-intent-18845261",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-workbuddy-e2be9698",
+  "public_hashes_checked": 31,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

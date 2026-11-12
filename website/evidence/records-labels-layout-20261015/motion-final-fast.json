@@ -1,0 +1,389 @@
+{
+  "baseline": {
+    "anchors": [
+      {
+        "id": "project-p10",
+        "top": 351.890625
+      },
+      {
+        "id": "project-p36",
+        "top": 351.890625
+      },
+      {
+        "id": "project-p09",
+        "top": 516.21875
+      },
+      {
+        "id": "project-p04",
+        "top": 516.21875
+      },
+      {
+        "id": "project-p02",
+        "top": 680.546875
+      },
+      {
+        "id": "project-p12",
+        "top": 680.546875
+      },
+      {
+        "id": "project-p05",
+        "top": 844.875
+      },
+      {
+        "id": "project-p01",
+        "top": 844.875
+      },
+      {
+        "id": "project-p03",
+        "top": 1009.203125
+      },
+      {
+        "id": "project-p06",
+        "top": 1009.203125
+      },
+      {
+        "id": "project-p07",
+        "top": 1173.53125
+      },
+      {
+        "id": "project-p08",
+        "top": 1173.53125
+      },
+      {
+        "id": "project-p11",
+        "top": 1337.859375
+      },
+      {
+        "id": "project-p13",
+        "top": 1337.859375
+      },
+      {
+        "id": "project-p14",
+        "top": 1502.1875
+      },
+      {
+        "id": "project-p15",
+        "top": 1502.1875
+      },
+      {
+        "id": "project-p16",
+        "top": 1666.515625
+      },
+      {
+        "id": "project-p17",
+        "top": 1666.515625
+      },
+      {
+        "id": "project-p18",
+        "top": 1830.84375
+      },
+      {
+        "id": "project-p19",
+        "top": 1830.84375
+      },
+      {
+        "id": "project-p20",
+        "top": 1995.171875
+      },
+      {
+        "id": "project-p21",
+        "top": 1995.171875
+      },
+      {
+        "id": "project-p22",
+        "top": 2159.5
+      },
+      {
+        "id": "project-p23",
+        "top": 2159.5
+      },
+      {
+        "id": "project-p24",
+        "top": 2323.828125
+      },
+      {
+        "id": "project-p25",
+        "top": 2323.828125
+      },
+      {
+        "id": "project-p26",
+        "top": 2488.15625
+      },
+      {
+        "id": "project-p27",
+        "top": 2488.15625
+      },
+      {
+        "id": "project-p28",
+        "top": 2652.484375
+      },
+      {
+        "id": "project-p29",
+        "top": 2652.484375
+      },
+      {
+        "id": "project-p30",
+        "top": 2816.8125
+      },
+      {
+        "id": "project-p31",
+        "top": 2816.8125
+      },
+      {
+        "id": "project-p32",
+        "top": 2981.140625
+      },
+      {
+        "id": "project-p33",
+        "top": 2981.140625
+      },
+      {
+        "id": "project-p34",
+        "top": 3145.46875
+      },
+      {
+        "id": "project-p35",
+        "top": 3145.46875
+      },
+      {
+        "id": "project-n01",
+        "top": 3309.796875
+      },
+      {
+        "id": "project-n02",
+        "top": 3309.796875
+      }
+    ],
+    "revision": "c0038c82900507e8955e"
+  },
+  "samples": [
+    {
+      "revision": "c0038c82900507e8955e",
+      "rows": [
+        {
+          "anchorTransform": "none",
+          "id": "project-p22",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2159.5
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p23",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2159.5
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p24",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2323.828125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p25",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2323.828125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p26",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2488.15625
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p27",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2488.15625
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p28",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2652.484375
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p29",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2652.484375
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p30",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2816.8125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p31",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2816.8125
+        }
+      ],
+      "scroll": 2200
+    },
+    {
+      "revision": "c0038c82900507e8955e",
+      "rows": [
+        {
+          "anchorTransform": "none",
+          "id": "project-p22",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2159.5
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p23",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2159.5
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p24",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2323.828125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p25",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2323.828125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p26",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2488.15625
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p27",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2488.15625
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p28",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2652.484375
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p29",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2652.484375
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p30",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2816.8125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p31",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2816.8125
+        }
+      ],
+      "scroll": 2200
+    },
+    {
+      "revision": "c0038c82900507e8955e",
+      "rows": [
+        {
+          "anchorTransform": "none",
+          "id": "project-p22",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2159.5
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p23",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2159.5
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p24",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2323.828125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p25",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2323.828125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p26",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2488.15625
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p27",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2488.15625
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p28",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2652.484375
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p29",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2652.484375
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p30",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2816.8125
+        },
+        {
+          "anchorTransform": "none",
+          "id": "project-p31",
+          "rowTransform": "none",
+          "titleClip": "none",
+          "top": 2816.8125
+        }
+      ],
+      "scroll": 2200
+    }
+  ]
+}

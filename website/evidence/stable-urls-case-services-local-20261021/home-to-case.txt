@@ -1,0 +1,144 @@
+Browser tab: 9, Title: "洁具库存管理系统开发案例 - Eli", URL: "http://127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work".
+1 AXWebArea 洁具库存管理系统开发案例 - Eli, URL: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work
+	2 link Description: 跳到正文, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#main
+	3 container
+		4 link Description: Eli首页, Value: 127.0.0.1:4178/index.html
+		5 container 主导航
+			6 link Description: 首页, Value: 127.0.0.1:4178/index.html
+			7 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+			8 link Description: 文章, Value: 127.0.0.1:4178/articles.html
+			9 link Description: 关于, Value: 127.0.0.1:4178/about.html
+			10 link Description: 切换到英文版, Value: 127.0.0.1:4178/en/cases/p10.html
+	11 container main
+		12 link Description: ← 返回首页案例, Value: 127.0.0.1:4178/index.html?project=p10#work
+		13 text 网站与工具
+		14 heading 洁具行业某大型 B 端厂商库存管理系统, Value: 1
+			15 text 洁具行业某大型 B 端厂商库存管理系统
+		16 text 已交付
+		17 text 围绕产品规格、采购、退货与盘点适配库存流程，连接 PC 与 H5 入口。
+		18 container
+			19 link Description: 放大截图：洁具行业某大型 B 端厂商库存管理系统, Value: 127.0.0.1:4178/assets/public-cases/p10.png
+			20 link Description: 查看图片 ↗, Value: 127.0.0.1:4178/assets/public-cases/p10.png
+		21 definition list
+			22 container
+				23 container 我的工作
+					24 text 我的工作
+				25 text 独立负责需求、底座适配及交付 01
+			26 container
+				27 container 交付状态
+					28 text 交付状态
+				29 text 已交付 02
+		30 container
+			31 heading 内容概览, Value: 2
+				32 text 内容概览
+			33 container 案例内容
+				34 link Description: 项目背景, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#why
+				35 link Description: 承担职责, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#role
+				36 link Description: 工作内容, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#outputs
+				37 link Description: 实施方法, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#process
+				38 link Description: 交付与反馈, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#result
+				39 link Description: 技术与实现, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#technical
+		40 container why
+			41 heading 项目背景, Value: 2
+				42 text 项目背景
+			43 text 客户需要以库存管理为核心，连接产品规格、采购、退货与盘点。系统中的数量和状态需要与实际业务操作一致。
+		44 container role
+			45 heading 承担职责, Value: 2
+				46 text 承担职责
+			47 text 独立负责需求沟通、业务梳理、底座适配开发及交付。
+		48 container outputs
+			49 heading 工作内容, Value: 2
+				50 text 工作内容
+			51 text 基于成熟底座适配库存业务，连接 PC 与 H5 入口，包含资料、采购、库存及业务概览。
+		52 container process
+			53 heading 实施方法, Value: 2
+				54 text 实施方法
+			55 text 半天需求沟通后明确范围。客户后续沟通有限，我结合前期调研和行业理解推进实现。
+			56 text 复查时交叉核对单据、库存和流水，避免只凭页面提示判断成功。下方展示一次盘点样例。
+			57 heading 一次盘点复查, Value: 3
+				58 text 一次盘点复查
+			59 text 2026 年 9 月 23 日的测试记录：测试仓内某规格账面 1 件，实盘 0 件。提交后交叉核对三个结果。
+			60 table 一次盘点复查
+				61 row
+					62 cell
+						63 text 核对对象
+					64 cell
+						65 text 记录结果
+				66 row
+					67 cell
+						68 text 盘点单据
+					69 cell
+						70 text 原数量 1，实盘 0，状态已盘
+				71 row
+					72 cell
+						73 text 测试仓库存
+					74 cell
+						75 text 从 1 件扣减为 0 件
+				76 row
+					77 cell
+						78 text 出入库流水
+					79 cell
+						80 text 对应规格记 −1 件
+			81 text 这是历史盘亏样例，不代表所有业务组合均通过。同期九项复查为八项具体样例通过、一项发现问题；此处不据旧记录判断系统当前状态。
+		82 container result
+			83 heading 交付与反馈, Value: 2
+				84 text 交付与反馈
+			85 text 历时约两个月完成系统交付。暂无量化使用效果数据。
+		86 container technical
+			87 heading 技术与实现, Value: 2
+				88 text 技术与实现
+			89 content list
+				90 text Java
+				91 text Spring Boot
+				92 text Vue
+				93 text MySQL
+				94 text Redis
+				95 text Nginx
+			96 text PC 与 H5 入口连接业务后端，围绕库存、采购、退货与盘点组织流程；基于成熟底座进行业务适配。
+			97 heading 实现流程, Value: 3
+				98 text 实现流程
+			99 content list 实现流程
+				100 container
+					101 text 01 业务入口 Vue PC 与 H5
+				102 container
+					103 text 02 业务服务 Spring Boot 接口
+				104 container
+					105 text 03 数据存储 MySQL 与 Redis
+				106 container
+					107 text 04 试部署 Linux / Nginx 环境
+			108 heading 验证范围, Value: 3
+				109 text 验证范围
+			110 text 已有构建、试部署与业务复查记录；上方盘点表展示单据、库存和流水的交叉核对。
+		111 link Description: 某家具品牌扫码库存系统 ↗, Value: 127.0.0.1:4178/cases/p09.html?from=%2Findex.html%3Fproject%3Dp10%23work
+		112 link Description: 某律师事务所 OA 系统 ↗, Value: 127.0.0.1:4178/cases/p04.html?from=%2Findex.html%3Fproject%3Dp10%23work
+		113 container 聊聊你的业务
+			114 heading 聊聊你的业务, Value: 2, ID: case-contact-title
+				115 text 聊聊你的业务
+			116 text 不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。
+			117 link Description: 查看库存核对与流程自动化服务, Value: 127.0.0.1:4178/services/workflow-automation.html
+			118 link Description: 免费聊聊, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1
+		119 link Description: 更多项目, Value: 127.0.0.1:4178/records.html
+	120 container
+		121 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/index.html
+		122 container 联系方式
+			123 text 邮箱
+			124 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			125 text 电话
+			126 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		127 container 页面导航
+			128 link Description: 项目库 ↗, Value: 127.0.0.1:4178/records.html
+			129 link Description: 回到顶部 ↑, Value: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work#main
+		130 container 社交主页
+			131 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			132 link Description: B站, Value: space.bilibili.com/432834855
+			133 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			134 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			135 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			136 link Description: X, Value: x.com/cczij1112
+			137 link Description: 微博, Value: weibo.com/u/7720929036
+			138 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			139 link Description: Instagram, Value: instagram.com/eliaifde/
+			140 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		141 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea 洁具库存管理系统开发案例 - Eli, URL: 127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work

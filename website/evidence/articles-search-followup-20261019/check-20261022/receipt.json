@@ -1,0 +1,177 @@
+{
+  "checked_at": "2026-10-22T02:09:47.806Z",
+  "status": "READ_ONLY_DAILY_CHECK_COMPLETE",
+  "scope": {
+    "article_topics": 102,
+    "article_details": 204,
+    "zh": 102,
+    "en": 102,
+    "priority_chinese_service_pages": [
+      "/services/fde-consulting.html",
+      "/services/ai-agent.html",
+      "/services/workflow-automation.html"
+    ],
+    "source_inventory_reference": "../check-20261021/inventory.json",
+    "current_inventory_recount": false
+  },
+  "website_revision_baseline": "cc132dc0e7da5cecf41d",
+  "revision_live_rechecked": false,
+  "google": {
+    "native_service_report": {
+      "selected": "7 days",
+      "actual_chart_dates": [
+        "2026-10-14",
+        "2026-10-19"
+      ],
+      "impressions": 0,
+      "clicks": 0,
+      "update_label": "5.5 hours ago",
+      "scope": "Exact three Chinese service URLs plus optional query string",
+      "missing_20_21": "UNKNOWN",
+      "average_position_zero_not_rank": true
+    },
+    "index_summary": "Processing; 204 article total UNKNOWN; no repeated known URL inspection",
+    "windsor": {
+      "requested_window": [
+        "2026-10-15",
+        "2026-10-21"
+      ],
+      "final_site_last_date": "2026-10-19",
+      "final_site_impressions": 46,
+      "final_site_clicks": 0,
+      "fresh_last_date": "2026-10-21",
+      "article_distinct_paths": 31,
+      "article_raw_urls": 35,
+      "article_page_impressions": 69,
+      "article_clicks": 0,
+      "service_page_rows": [],
+      "core_article_rows": [],
+      "query_rows": 22,
+      "query_impressions": 24,
+      "data_fetched_at": [
+        "2026-10-20T06:31:42",
+        "2026-10-21T01:58:15",
+        "2026-10-22T02:05:57"
+      ],
+      "attribution": "UNKNOWN",
+      "new_natural_service_progress": "NONE_CONFIRMED"
+    },
+    "unreported_queries": "UNKNOWN, not zero",
+    "candidate_query": {
+      "query": "ai implementation cost",
+      "date": "2026-10-18",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 91,
+      "new": false,
+      "attribution": "UNKNOWN",
+      "procurement": "Not established"
+    },
+    "new_query_note": "workbaddy (2026-10-21, 1 impression, 0 clicks) and backfilled tool/definition/ambiguous rows; not target service acquisition"
+  },
+  "bing": {
+    "search_window": [
+      "2026-10-15",
+      "2026-10-21"
+    ],
+    "site_impressions": 0,
+    "site_clicks": 0,
+    "ai_window": [
+      "2026-10-15",
+      "2026-10-21"
+    ],
+    "ai_citations": 0,
+    "ai_average_cited_pages": 0,
+    "ai_query_rows": 0,
+    "ai_scope": "Microsoft Copilots and Partners sample",
+    "index_aggregate": "Indexed URLs / No data available; total UNKNOWN",
+    "url_sample": {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "result": "Discovered but not crawled / URL cannot appear on Bing",
+      "discovered_on": "2026-10-16",
+      "root_cause": "UNKNOWN, only generic guideline prompt",
+      "new_indexing": false
+    },
+    "url_checks": 1,
+    "live_url_tests": 0,
+    "index_requests": 0,
+    "yesterday_failed_knowledge_not_retried": true
+  },
+  "baidu": {
+    "pc_recent7d_impressions": 0,
+    "pc_recent7d_clicks": 0,
+    "pc_query_rows": 0,
+    "mobile_impressions": "UNKNOWN",
+    "mobile_clicks": "UNKNOWN",
+    "ai_window": [
+      "2026-10-15",
+      "2026-10-21"
+    ],
+    "ai_citations": 0,
+    "ai_impressions": 0,
+    "ai_clicks": 0,
+    "ai_query_rows": 0,
+    "ai_scope": "Traditional search scenes only; screenshot cards and zero trend verified",
+    "index": "Data calculating, total UNKNOWN",
+    "quota_and_subject": "Not rechecked"
+  },
+  "other_index_platforms": {
+    "sogou": {
+      "ownership": "Verified root, senior administrator",
+      "index": "No collection or index data for site",
+      "total": "UNKNOWN",
+      "note": "Initial async route showed no verified site, index query then correctly loaded existing www.eliai.cn; no verification performed"
+    },
+    "toutiao": {
+      "site": "www.eliai.cn",
+      "index": "Website temporarily not indexed"
+    },
+    "yandex": {
+      "index": "Pages in Search report temporarily unavailable, may update with delay",
+      "controls": "All pages / Excluded pages disabled",
+      "total": "UNKNOWN"
+    },
+    "so360": {
+      "site": "www.eliai.cn",
+      "ownership": "ICP not detected; verification button disabled",
+      "index": "No available verified-site report",
+      "total": "UNKNOWN"
+    }
+  },
+  "new_confirmed_indexing_platforms": 0,
+  "confirmed_platform_count_including_historical_google": 1,
+  "natural_attribution": {
+    "known_own_QA": "Excluded; historical deployment QA reference retained",
+    "unresolved_small_sample": "UNKNOWN",
+    "pv_rule": "Presence or absence does not establish visitor identity",
+    "hidden_queries": "UNKNOWN",
+    "confirmed_service_organic_impressions": "NONE_CONFIRMED",
+    "confirmed_service_organic_clicks": "NONE_CONFIRMED",
+    "new_natural_model_citations": "NONE_CONFIRMED"
+  },
+  "geo_tests": {
+    "new_queries": 0,
+    "last_unbranded_test": "2026-10-19 ChatGPT/Doubao; no selection of site",
+    "next_regular_test_not_before": "2026-10-26 unless new official repair or necessary evidence-based retest",
+    "perplexity_email": "Not accessed; independent automation owns follow-up"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deployments": 0,
+    "server_changes": 0,
+    "search_submissions": 0,
+    "index_requests": 0,
+    "verification_actions": 0,
+    "new_sites": 0,
+    "emails": 0,
+    "paid_resources": 0,
+    "new_automations": 0,
+    "force_refresh": 0,
+    "public_keyword_searches": 0
+  },
+  "requires_user_action": false,
+  "decision": "NO_NEW_CONFIRMED_NATURAL_PROGRESS",
+  "notification": "DONT_NOTIFY",
+  "next": "Reuse this check for today; no repeat submissions, public searches or known failing inspection."
+}

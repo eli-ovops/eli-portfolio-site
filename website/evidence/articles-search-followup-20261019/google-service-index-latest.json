@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-10-19T15:30:24.122627+08:00",
+  "scope": "Three Chinese service URLs; URL inspection only, no live test or indexing request",
+  "rows": [
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "google_index_status": "INDEXED",
+      "first_confirmed_in_this_followup": true,
+      "first_indexed_date": "UNKNOWN",
+      "last_crawl_display": "2026年10月17日 14:11:23",
+      "report_timezone": "UNKNOWN; preserve UI display",
+      "crawl_agent": "Googlebot smartphone",
+      "fetch": "SUCCESS",
+      "crawl_allowed": true,
+      "index_allowed": true,
+      "declared_canonical": "https://www.eliai.cn/services/fde-consulting.html",
+      "google_canonical": "INSPECTED_URL",
+      "sitemap_field": "https://www.eliai.cn/sitemap.xml",
+      "native_evidence": "google-service-fde-consulting-latest.txt"
+    },
+    {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "google_index_status": "INDEXED",
+      "first_confirmed_in_this_followup": true,
+      "first_indexed_date": "UNKNOWN",
+      "last_crawl_display": "2026年10月17日 14:09:14",
+      "report_timezone": "UNKNOWN; preserve UI display",
+      "crawl_agent": "Googlebot smartphone",
+      "fetch": "SUCCESS",
+      "crawl_allowed": true,
+      "index_allowed": true,
+      "declared_canonical": "https://www.eliai.cn/services/ai-agent.html",
+      "google_canonical": "INSPECTED_URL",
+      "sitemap_field": "TEMPORARY_PROCESSING_ERROR",
+      "native_evidence": "google-service-ai-agent-latest.txt"
+    },
+    {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "google_index_status": "INDEXED",
+      "first_confirmed_in_this_followup": true,
+      "first_indexed_date": "UNKNOWN",
+      "last_crawl_display": "2026年10月19日 07:53:05",
+      "report_timezone": "UNKNOWN; preserve UI display",
+      "crawl_agent": "Googlebot smartphone",
+      "fetch": "SUCCESS",
+      "crawl_allowed": true,
+      "index_allowed": true,
+      "declared_canonical": "https://www.eliai.cn/services/workflow-automation.html",
+      "google_canonical": "INSPECTED_URL",
+      "sitemap_field": "https://www.eliai.cn/sitemap.xml",
+      "native_evidence": "google-service-workflow-automation-latest.txt"
+    }
+  ],
+  "confirmed_service_urls_indexed": 3,
+  "new_publication_crawled": "UNKNOWN: indexed snapshot is not proof of the newest title/intro",
+  "service_keyword_impressions_clicks": "No new performance query in this round; prior rows unavailable, natural customer traffic unconfirmed",
+  "sitemap_note": "Native sitemap list observed success, 294 discovered URLs, last read 2026-10-19. AI-agent URL inspection has a temporary processing error in the sitemap association field, while page indexed and fetch success. Do not infer a site-wide sitemap failure or resubmit.",
+  "search_submissions": 0,
+  "active_model_queries": 0,
+  "natural_ai_citations_newly_confirmed": 0
+}

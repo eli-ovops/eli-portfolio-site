@@ -1,0 +1,44 @@
+To: [REDACTED_EMAIL]
+Subject: Re: Perplexity Search cannot read a public static HTML service page on eliai.cn
+Reply in the existing support thread; do not create a duplicate ticket.
+Status: DRAFT ONLY - NOT SENT
+
+Hello Perplexity Support,
+
+Thank you for your reply. Here are the requested thread URLs and verbatim answer text.
+
+1. Original service-page failure:
+https://www.perplexity.ai/search/c41fe3f2-d9fa-42b7-8fe3-d169f669cbe3
+
+Verbatim answer excerpt:
+无法读取该网页正文：对来源链接的直接抓取返回了失败结果，因此我不能基于猜测回答服务对象或“免费沟通/收费实施”的区分。
+
+2. A fresh reproduction on 17 October 2026 at approximately 18:57 UTC+8 also affects three public articles and a homepage control:
+https://www.perplexity.ai/search/1ecece57-5ea6-4a23-a7de-c75804b32e71
+
+Verbatim answer paragraph:
+四个 URL 均无法读取正文；抓取器未返回页面标题、正文或更具体的 HTTP 错误，仅报告“Failed to fetch content”。因此无法从实际页面内容中摘录原文。
+
+No underlying HTTP status or internal error identifier was exposed to us.
+
+Canonical article URLs:
+https://www.eliai.cn/articles/inventory-reconciliation.html
+https://www.eliai.cn/articles/enterprise-knowledge-base.html
+https://www.eliai.cn/articles/what-is-agent.html
+
+Each URL in the fresh test, including the homepage control, carried this diagnostic query parameter:
+?diag=perplexity-article-20261017-1820
+
+Test environment: desktop web, macOS, Codex in-app browser; existing signed-in account, incognito conversation, Search enabled, Computer disabled. The UI warns that incognito threads expire after 24 hours, so the screenshot and copied text are included as durable evidence. We have not changed thread privacy or sharing permissions.
+
+Fresh checks:
+- All three canonical articles return HTTP 200 over certificate-verified HTTPS and contain their content in static HTML. They have self-referencing canonicals and index,follow, with no X-Robots-Tag restriction.
+- robots.txt permits both PerplexityBot and Perplexity-User. Public DNS currently returns the expected IPv4 address and no AAAA record for both hostnames.
+- Comparing the origin access log immediately before and after this test found no diagnostic-marker hits and no new requests matching both your published IP ranges and either Perplexity user agent. No article requests from those verified agents were present in the current day's log. The log lacks a hostname field, and the server clock is approximately two minutes behind the client; these limits do not change the zero-delta observation.
+- Earlier on the same day, verified PerplexityBot requests successfully fetched robots.txt, the homepage, records.html and a case page with HTTP 200. We therefore have not assumed a blanket origin block.
+
+Could you investigate whether the failed reads occur before reaching origin, including any cached fetch failure or URL/domain policy, and advise the supported remediation? We cannot determine the internal cause from the generic answer alone and have not weakened security or repeatedly submitted URLs.
+
+Thank you.
+
+Proposed attachment (not yet sent): native-retest.png

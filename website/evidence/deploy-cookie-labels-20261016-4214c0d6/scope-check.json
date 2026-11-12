@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "only_public_delta": "Chinese allow button label 允许统计 to 允许; release revision changes; all other bytes normalized identical",
+  "files": 155,
+  "non_html_asset_delta": []
+}

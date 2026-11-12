@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-06",
+  "version": "0.11.0",
+  "html_pages_checked": 296,
+  "internal_links": "PASS",
+  "fragment_links": "PASS",
+  "one_h1_per_page": "PASS",
+  "private_paths_in_output": "NONE",
+  "http_pages": "PASS",
+  "source_and_directory_exposure": "BLOCKED_404",
+  "retired_experiments_page": "404",
+  "public_customer_identifiers": "NONE_IN_HTML_ATTRIBUTES_JS_CSS_MANIFEST",
+  "raw_customer_asset_urls": "404"
+}

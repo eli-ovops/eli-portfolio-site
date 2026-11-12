@@ -1,0 +1,84 @@
+[
+  {
+    "command": [
+      "node",
+      "scripts/check_return_owner.cjs"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS: homepage/cleared origin stays clean; real explicit/history/legacy list origins retained in both controllers\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "node",
+      "scripts/check_related_return.cjs"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS: related cases preserve list query/category/origin without GSAP; external/foreign-language/invalid origins ignored\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "node",
+      "scripts/check_navigation_version.cjs"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS: replace-only navigation, reading state, filters/hash, bilingual/subpath scope, external/media links and current version\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "node",
+      "scripts/check_first_pointer.cjs"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS: early editorial transition cancellation; shared title, home curtain and fallback preserved\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "node",
+      "scripts/check_search_reset.cjs"
+    ],
+    "exit_code": 0,
+    "stdout": "PASS: mouse focus continuity, cancelled press, keyboard reset, fresh search, bilingual URL/result state\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "npm",
+      "run",
+      "build"
+    ],
+    "exit_code": 0,
+    "stdout": "\n> personal-practice-portfolio@0.11.0 build\n> python3 scripts/build.py\n\nBUILD PASS: 84 HTML pages; 38 project records; no source paths.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "scripts/check.py"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"date\": \"2026-10-06\",\n  \"version\": \"0.11.0\",\n  \"html_pages_checked\": 84,\n  \"internal_links\": \"PASS\",\n  \"fragment_links\": \"PASS\",\n  \"one_h1_per_page\": \"PASS\",\n  \"private_paths_in_output\": \"NONE\",\n  \"http_pages\": \"PASS\",\n  \"source_and_directory_exposure\": \"BLOCKED_404\",\n  \"retired_experiments_page\": \"404\",\n  \"public_customer_identifiers\": \"NONE_IN_HTML_ATTRIBUTES_JS_CSS_MANIFEST\",\n  \"raw_customer_asset_urls\": \"404\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "scripts/check_seo.py"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"html_pages\": 84,\n  \"unique_titles\": 84,\n  \"unique_descriptions\": 84,\n  \"paired_hreflang\": \"PASS\",\n  \"self_canonical\": \"PASS\",\n  \"structured_data\": \"82 valid JSON graphs\",\n  \"same_as_existing_profiles\": \"PASS\",\n  \"project_lists\": \"2 x 38\",\n  \"case_breadcrumbs\": 76,\n  \"visible_bilingual_questions\": \"PASS\",\n  \"share_images\": \"Existing visitor images only\",\n  \"candidate_sitemap_urls\": 82,\n  \"indexing\": \"DISABLED\",\n  \"body_scope\": \"Not compared; no batch baseline supplied\",\n  \"future_domain_dry_run\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python3",
+      "scripts/check_localization.py"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"english_pages\": 42,\n  \"chinese_pages\": 42,\n  \"visitor_copy\": \"English; Chinese only in language switch\",\n  \"same_page_switches\": \"PASS\",\n  \"asset_and_srcset_paths\": \"PASS\",\n  \"project_translations\": 38\n}\n",
+    "stderr": ""
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "recorded_at_utc": "2026-10-22T12:32:18.149226+00:00",
+  "user_authorization": "Check original Baidu certification and subject association; send the two approved drafts once each through Bing and 360 official channels. Do not change the website or duplicate search submissions.",
+  "baidu": {
+    "approval_outcome": "UNKNOWN",
+    "original_application_notice": "Submitted successfully; review within 2-5 business days",
+    "all_messages": "No messages displayed",
+    "subject_association": "未关联",
+    "new_identity_or_binding_submissions": 0,
+    "receipt": "baidu-subject-followup.json"
+  },
+  "bing": {
+    "status": "SUBMITTED_SUCCESS",
+    "create_ticket_clicks": 1,
+    "ticket_id": "UNKNOWN - no number displayed",
+    "receipt": "bing-support-submission.json",
+    "proof": "bing-support-success.png"
+  },
+  "360": {
+    "status": "REJECTED_URL_POSTING_PERMISSION",
+    "publish_clicks": 1,
+    "acceptance": false,
+    "post_url": null,
+    "receipt": "360-support-submission.json",
+    "draft_and_one_image_prepared": true,
+    "rule": "Stop. Do not click publish again or disguise links to evade permission restrictions. No user verification is currently pending.",
+    "native_notice": "抱歉，您没有权限发表 URL 链接",
+    "successful_posts": 0
+  },
+  "boundaries": {
+    "website_changes": 0,
+    "server_changes": 0,
+    "sitemap_submissions": 0,
+    "url_submissions": 0,
+    "indexing_requests": 0,
+    "emails": 0,
+    "new_identity_submissions": 0,
+    "identity_material_or_captcha_values_read_saved": 0
+  },
+  "automation": "Updated existing seo automation; no new automation created.",
+  "updated_at_utc": "2026-10-22T12:36:49.033469+00:00",
+  "360_alternative_readonly_reference": "360-alternative-feedback-receipt.json"
+}

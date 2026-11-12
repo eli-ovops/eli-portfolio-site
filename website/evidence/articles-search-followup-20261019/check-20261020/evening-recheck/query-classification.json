@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2026-10-16",
+    "query": "claimflow.co",
+    "page": "https://www.eliai.cn/en/cases/p20.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 43.0,
+    "data_fetched_at": "2026-10-20T01:56:19",
+    "classification": "Third-party domain word",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-17",
+    "query": "workbuddy.ai",
+    "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 10.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "Third-party tool/product word",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-18",
+    "query": "ai implementation cost",
+    "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 91.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "AI implementation cost information; service-adjacent, unchanged morning observation",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-18",
+    "query": "local preview",
+    "page": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 9.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "General tutorial/developer term",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-18",
+    "query": "token是什么意思",
+    "page": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 60.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "General tutorial/developer term",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-18",
+    "query": "work buddy ne demek",
+    "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 72.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "Third-party tool/product word",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-18",
+    "query": "workbuddy ai",
+    "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 9.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "Third-party tool/product word",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-19",
+    "query": "ai receipt ocr",
+    "page": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 95.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "Document OCR task/tool query; not inventory reconciliation or implementation-service procurement",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-19",
+    "query": "branch",
+    "page": "https://www.eliai.cn/articles/branch-basics.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 83.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "General tutorial/developer term",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-19",
+    "query": "fde ltd",
+    "page": "https://www.eliai.cn/en/articles/what-is-fde-business.html?pv=e3304385905f8d1cdd01",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 55.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "Ambiguous company-like query; not evidence of FDE consulting intent",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-19",
+    "query": "repository file meaning",
+    "page": "https://www.eliai.cn/en/articles/repository-basics.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 87.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "General tutorial/developer term",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-19",
+    "query": "token 是 什么",
+    "page": "https://www.eliai.cn/articles/what-is-token.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 74.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "General tutorial/developer term",
+    "natural_attribution": "UNKNOWN"
+  },
+  {
+    "date": "2026-10-19",
+    "query": "workbuddy",
+    "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+    "impressions": 1.0,
+    "clicks": 0.0,
+    "position": 37.0,
+    "data_fetched_at": "2026-10-20T12:08:42",
+    "classification": "Third-party tool/product word",
+    "natural_attribution": "UNKNOWN"
+  }
+]

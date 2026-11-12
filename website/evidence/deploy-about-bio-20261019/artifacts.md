@@ -1,0 +1,1 @@
+This directory contains the reviewed deployment scripts, exact public-only archive, preflight, validation, publication and postflight receipts, public hashes and browser QA. All are retained for release audit and rollback; no source, secret or private evidence is in the public package.

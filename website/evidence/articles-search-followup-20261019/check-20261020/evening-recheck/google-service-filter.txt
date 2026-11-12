@@ -1,0 +1,79 @@
+container 路径
+					56 heading 效果, Value: 1
+						57 text 效果
+				58 pop up button (collapsed) Description: 导出, Secondary Actions: Expand
+				59 container
+					60 Select time range
+						61 radio button 24 小时, Value: 0
+						62 radio button 7 天, Value: 1
+						63 radio button 28 天, Value: 0
+						64 radio button 3 个月, Value: 0
+					65 button More time ranges
+					66 content list
+						67 button 搜索类型：网络
+						68 container
+							69 text 新功能！请查看您的网站在多模态网页搜索中的效果
+							70 button 关闭
+						71 button 网页：自定义（正则表达式）
+							72 text 网页：自定义（正则表达式）
+						73 button 移除网页：自定义（正则表达式）
+						74 pop up button (collapsed) 添加过滤条件, Secondary Actions: Expand
+						75 button 使用 AI 自定义效果报告
+						76 button 重置过滤条件
+							77 text 重置过滤条件
+				78 text 上次更新日期：5.5小时前
+				79 container
+					80 container
+						81 button 总点击次数 0
+							82 text 总点击次数
+							83 text 0
+						84 container
+							85 button (collapsed) Description: null, Secondary Actions: Expand
+						86 button 总曝光次数 0
+							87 text 总曝光次数
+							88 text 0
+						89 container
+							90 button (collapsed) Description: null, Secondary Actions: Expand
+						91 button 平均点击率 0%
+							92 text 平均点击率
+							93 text 0%
+						94 container
+							95 button (collapsed) Description: null, Secondary Actions: Expand
+						96 button 平均排名 0
+							97 text 平均排名
+							98 text 0
+						99 container
+							100 button (collapsed) Description: null, Secondary Actions: Expand
+						101 pop up button (collapsed) Description: 所选时间粒度：每日, Secondary Actions: Expand
+							102 image
+						103 text 应用过滤条件后，图表总计和表格结果可能不完整。 
+						104 link Description: 了解详情, Value: support.google.com/webmasters/answer/7576553/#data_discrepancies
+						105 container chart
+							106 text 图表，包含从 2026年10月14日到 2026年10月17日的总点击次数、总曝光次数、平均点击率和平均排名计数
+					107 container dimension-tables
+						108 tab group
+							109 tab (selected, settable, boolean) 查询数, Value: 1
+查询数
+							110 tab (selectable, settable, boolean) 网页, Value: 0
+网页
+							111 tab (selectable, settable, boolean) 国家/地区, Value: 0
+国家/地区
+							112 tab (selectable, settable, boolean) 设备, Value: 0
+设备
+							113 tab (selectable, settable, boolean) 搜索结果呈现, Value: 0
+搜索结果呈现
+							114 tab (selectable, settable, boolean) 天, Value: 0
+天
+						115 container
+							116 pop up button (collapsed) Description: 过滤表格行, Secondary Actions: Expand
+							117 table
+								118 row
+									119 cell
+										120 text 热门查询
+									121 cell
+										122 text 点击次数
+									123 cell
+										124 text 展示
+							125 text 无数据
+
+The focused UI element is 1 AXWebArea 在 Google 搜索结果中的表现, URL: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&num_of_days=7&page=~%5Ehttps%3A%2F%2Fwww%5C.eliai%5C.cn%2Fservices%2F(fde-consulting%7Cai-agent%7Cworkflow-automation)%5C.html(%5B%3F%23%5D.*)%3F%24

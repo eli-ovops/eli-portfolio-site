@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-06",
+  "version": "0.7.0",
+  "scope": "local portfolio assets and work grouping",
+  "groups": {
+    "前台展示网站": [
+      "P02",
+      "P03"
+    ],
+    "业务系统与流程": [
+      "P10",
+      "P04"
+    ],
+    "品牌营销与 AI 客服": [
+      "P05",
+      "P36"
+    ]
+  },
+  "capture": {
+    "origin": "https://otherwater.co.uk/",
+    "browser": "Chrome",
+    "home": "evidence/otherwater-home-20261006.jpg",
+    "homePixels": [
+      2549,
+      1172
+    ],
+    "support": "evidence/otherwater-support-20261006.jpg",
+    "supportPixels": [
+      410,
+      640
+    ],
+    "supportClip": {
+      "x": 2119,
+      "y": 417,
+      "width": 410,
+      "height": 640
+    },
+    "sentQuestion": false
+  },
+  "userInputs": {
+    "support": "evidence/otherwater-support-user-20261006.png",
+    "inventory": "assets/img19.png",
+    "inventoryPixels": [
+      2558,
+      1120
+    ]
+  },
+  "finalAssets": [
+    "assets/img17.jpg",
+    "assets/img18.jpg",
+    "assets/img19.png"
+  ],
+  "newAssetBytes": 364379,
+  "localBrowserReview": {
+    "status": "not_verified",
+    "reason": "Prior localhost browser URL safety denial; no alternate address, port, native app or CDP bypass attempted."
+  },
+  "miaoRole": "Existing business verification and trial deployment records; explicit module ownership awaiting user clarification.",
+  "runtimeLogic": "app.js, motion.js and motion.css unchanged",
+  "deployment": "not performed"
+}

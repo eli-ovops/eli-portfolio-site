@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-10-19T05:49:53.806277+00:00",
+  "scope": "ordinary verified HTTPS only; not a Nami crawler simulation",
+  "requests": [
+    {
+      "label": "full_get",
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "final_url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": 200,
+      "bytes": 37905,
+      "sha256": "133ccde29375f64192044beb94949618fd74b54e847544deb23892882e97af90",
+      "headers": {
+        "Content-Type": "text/html",
+        "Content-Length": "37905",
+        "Accept-Ranges": "bytes"
+      },
+      "robots_meta": [
+        "<meta name=\"robots\" content=\"index,follow\">"
+      ],
+      "html_static_business_facts": {
+        "业务流程与改造清单": true,
+        "工具配置或小范围软件": true,
+        "操作说明与维护范围": true,
+        "500元起": true,
+        "初次沟通免费": true
+      }
+    },
+    {
+      "label": "robots",
+      "url": "https://www.eliai.cn/robots.txt",
+      "final_url": "https://www.eliai.cn/robots.txt",
+      "status": 200,
+      "bytes": 65,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "headers": {
+        "Content-Type": "text/plain",
+        "Content-Length": "65",
+        "Accept-Ranges": "bytes"
+      },
+      "text": "User-agent: *\nAllow: /\nSitemap: https://www.eliai.cn/sitemap.xml\n"
+    },
+    {
+      "label": "range_control",
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "final_url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": 206,
+      "bytes": 1025,
+      "sha256": "98c665d221a28115a9a21142d16774de0b77e4bf5ea7ed03222408e7c1af786b",
+      "headers": {
+        "Content-Type": "text/html",
+        "Content-Length": "1025",
+        "Content-Range": "bytes 0-1024/37905"
+      }
+    }
+  ],
+  "dns_addresses": [
+    "[REDACTED_HOST]"
+  ],
+  "tls": {
+    "verified": true,
+    "protocol": "TLSv1.2",
+    "expires": "Jan 13 09:40:42 2027 GMT",
+    "subject_alternative_names": [
+      [
+        "DNS",
+        "eliai.cn"
+      ],
+      [
+        "DNS",
+        "www.eliai.cn"
+      ]
+    ]
+  }
+}

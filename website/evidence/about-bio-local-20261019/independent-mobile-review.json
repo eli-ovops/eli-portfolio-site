@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-19",
+  "reviewer": "about_mobile_review",
+  "revision": "ec095f94c1b430789479",
+  "method": "Independent named Playwright CLI browser, actual local page interactions; not a physical phone",
+  "coverage": {
+    "zh": [
+      320,
+      390,
+      1280
+    ],
+    "en": [
+      320,
+      390,
+      1280
+    ],
+    "language_switch": "Actual zh-to-en and en-to-zh succeeded; contact hash retained on zh-to-en",
+    "consultation": "Actual zh/en CTA clicked, contact top approximately104px after scroll",
+    "wechat": "Actual QR link opened new tab, image728x728; original About tab preserved"
+  },
+  "findings": [
+    {
+      "severity": "P3",
+      "type": "conversion-friction-not-functional-bug",
+      "location": "About opening consultation CTA",
+      "evidence": {
+        "zh320x740": {
+          "ctaTop": 745.09
+        },
+        "en320x740": {
+          "ctaTop": 981.84
+        },
+        "en390x844": {
+          "ctaTop": 867.27
+        }
+      },
+      "suggestion": "Move or repeat existing consultation link immediately after short opening introduction, preserving all approved biography text and current styling"
+    }
+  ],
+  "checks_passed": [
+    "No horizontal overflow at checked widths",
+    "All biography paragraphs rendered in corresponding language",
+    "Both content images loaded",
+    "Consultation targets correct contact section",
+    "QR PNG opens without replacing About page"
+  ],
+  "cookie_check": {
+    "method": "Existing analytics-preview=1 loopback-only consent UI; no collector enabled and no choice changed",
+    "en390x844height": 99.44,
+    "en320x740height": 120.88,
+    "observation": "After contact anchor QR appears but saving instructions initially below viewport/notice. Continued normal scroll can reach them. No permanent button blockage established."
+  },
+  "artifacts": [
+    ".playwright-cli/page-2026-10-19T03-19-23-106Z.png",
+    ".playwright-cli/page-2026-10-19T03-19-36-226Z.yml",
+    ".playwright-cli/page-2026-10-19T03-20-42-761Z.yml"
+  ],
+  "not_verified": [
+    "Real iOS/Android browser behavior",
+    "Actual WeChat recognition or saving via OS",
+    "Phone,email,WhatsApp external actions",
+    "Full-site case return flows (outside About delta)"
+  ],
+  "product_changes": 0,
+  "deployments": 0,
+  "external_submissions": 0
+}

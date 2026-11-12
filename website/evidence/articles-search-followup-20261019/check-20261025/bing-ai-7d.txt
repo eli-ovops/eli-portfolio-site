@@ -1,0 +1,184 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#content"
+  - button "Show Bing tools":
+    - generic: 
+  - img "white bwt logo microsoft bing webmaster"
+  - button "Copilot":
+  - button "Notifications":
+    - generic: 
+  - button "Help":
+    - generic: 
+  - button "Feedback":
+    - generic: 
+  - button "Settings":
+    - generic: 
+  - button "Profile":
+- button "Select website":
+  - generic: 
+  - generic: www.eliai.cn/
+  - generic: 
+- navigation "Main menu":
+  - tree:
+    - treeitem "Home":
+      - generic: 
+      - text: Home
+    - treeitem "Search Performance":
+      - generic: 
+      - text: Search Performance
+    - treeitem "AI Performance BETA":
+      - generic: 
+      - text: AI Performance
+      - generic: BETA
+    - treeitem "URL Inspection":
+      - generic: 
+      - text: URL Inspection
+    - treeitem "Site Explorer":
+      - generic: 
+      - text: Site Explorer
+    - treeitem "Sitemaps":
+      - generic: 
+      - text: Sitemaps
+    - treeitem "IndexNow":
+      - text: IndexNow
+    - treeitem "URL Submission":
+      - generic: 
+      - text: URL Submission
+    - treeitem "Backlinks":
+      - generic: 
+      - text: Backlinks
+    - treeitem "Keyword Research":
+      - generic: 
+      - text: Keyword Research
+    - treeitem "Recommendations":
+      - generic: 
+      - text: Recommendations
+    - treeitem "Site Scan":
+      - generic: 
+      - text: Site Scan
+    - treeitem "Configuration":
+      - text: Configuration
+      - generic: 
+    - treeitem "Tools & Enhancements":
+      - text: Tools & Enhancements
+      - generic: 
+    - treeitem "Security & Privacy":
+      - text: Security & Privacy
+      - generic: 
+    - treeitem "User management":
+      - generic: 
+      - text: User management
+    - treeitem "Microsoft Clarity":
+      - generic: 
+      - text: Microsoft Clarity
+- main:
+  - heading "AI Performance" [level=2]
+  - generic: "Citation sources: Microsoft Copilots and Partners"
+  - tablist:
+    - tab "7 D" [active] [selected]:
+      - generic: 7 D
+    - tab "30 D":
+      - generic: 30 D
+    - tab "3 M":
+      - generic: 3 M
+    - tab "6 M":
+      - generic: 6 M
+    - tab "Custom":
+      - generic: Custom
+    - tab "Compare":
+      - generic: Compare
+  - tabpanel "7 D"
+  - button "Download":
+    - generic: Download
+    - generic: 
+  - checkbox "Total Citations" [checked]:
+    - generic: Total Citations
+    - button "Total Citations info": 
+    - generic: "0"
+  - checkbox "Avg. Cited Pages" [checked]:
+    - generic: Avg. Cited Pages
+    - button "Avg. Cited Pages info": 
+    - generic: "0"
+  - generic: Citations
+  - generic: Cited Pages
+  - group "Line chart showing Citations,Cited Pages from October 18, 2026 to October 24, 2026. Citations:0,Cited Pages:0. Toggle checkboxes to show the selected options in chart":
+    - img "Line chart showing Citations,Cited Pages from October 18, 2026 to October 24, 2026. Citations:0,Cited Pages:0. Toggle checkboxes to show the selected options in chart":
+      - img "Line chart showing Citations,Cited Pages from October 18, 2026 to October 24, 2026. Citations:0,Cited Pages:0. Toggle checkboxes to show the selected options in chart"
+    - table:
+      - rowgroup:
+        - row "Date October 18, 2026 October 19, 2026 October 20, 2026 October 21, 2026 October 22, 2026":
+          - columnheader "Date"
+          - columnheader "October 18, 2026"
+          - columnheader "October 19, 2026"
+          - columnheader "October 20, 2026"
+          - columnheader "October 21, 2026"
+          - columnheader "October 22, 2026"
+      - rowgroup:
+        - row "Total Citations 0 0 0 0 0":
+          - cell "Total Citations"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+        - row "Avg. Cited Pages 0 0 0 0 0":
+          - cell "Avg. Cited Pages"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+  - generic: Citations
+  - generic: Cited Pages
+  - heading "List By" [level=3]
+  - tablist "List By":
+    - tab "Grounding Queries" [selected]:
+      - generic: Grounding Queries
+    - tab "Pages":
+      - generic: Pages
+  - tabpanel "Grounding Queries"
+  - button "Download all" [disabled]:
+    - generic: Download all
+    - generic: 
+  - generic: 
+  - textbox:
+    - /placeholder: Search your query
+  - button "Search":
+    - generic: Search
+  - generic: No data available
+  - grid "AI Search Queries Report":
+    - row "Grounding Query, sortable Intent, sortable Topic, sortable Citations, sortable, sorted descending order Citation Share, sortable":
+      - columnheader "Grounding Query, sortable":
+        - button "Grounding Query, sortable":
+          - generic: Grounding Query
+      - button
+      - columnheader "Intent, sortable":
+        - button "Intent, sortable":
+          - generic: Intent
+      - button
+      - columnheader "Topic, sortable":
+        - button "Topic, sortable":
+          - generic: Topic
+      - button
+      - columnheader "Citations, sortable, sorted descending order":
+        - button "Citations, sortable, sorted descending order":
+          - generic: Citations
+          - generic: 
+      - button
+      - columnheader "Citation Share, sortable":
+        - button "Citation Share, sortable":
+          - generic: Citation Share
+      - button
+    - paragraph: No data available
+  - navigation:
+    - generic: 0 rows
+  - generic: 
+  - paragraph: The data shown below represents a sample of overall activity. Results may be refined as additional data is processed
+  - link "learnmore":
+    - /url: /webmasters/help/9f8e7d6c
+    - generic: Learn more
+  - generic: 
+  - paragraph: Intent and topic labels are AI generated and can filter potentially unsafe queries.
+  - link "learnmore":
+    - /url: /webmasters/help/9f8e7d6c
+    - generic: Learn more

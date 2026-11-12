@@ -1,0 +1,23 @@
+{
+  "original_application_evidence": "../search-platform-baidu-20261016/receipt.json",
+  "current_original_entry_notice": "提交成功！我们将在2-5个工作日内完成审核，请耐心等待。",
+  "audit_outcome": "UNKNOWN - no explicit approved/rejected result displayed",
+  "messages_scope": "全部消息",
+  "messages_notice": "您暂时没有消息提醒",
+  "site_property_subject": "未关联",
+  "site_property_icp_field": "未填写",
+  "existing_personal_subject_tab_notice": "暂不支持将站点关联到其他个人主体，如果您是个人用户，请选择注册新主体。",
+  "interpretation": "Original application entry still exposes its submitted receipt. This is not proof of approval, rejection, or a technical failure. Existing-personal-subject UI is not a supported route to bind another personal identity. No new identity registration or site binding was performed.",
+  "root_cause": "UNKNOWN",
+  "proof": [
+    "baidu-original-certification-current.txt",
+    "baidu-original-certification-current.png",
+    "baidu-messages-current.txt",
+    "baidu-property.txt",
+    "baidu-property.png"
+  ],
+  "new_identity_submissions": 0,
+  "site_binding_submissions": 0,
+  "credentials_or_identity_materials_read": 0,
+  "recorded_at_utc": "2026-10-22T12:32:18.149226+00:00"
+}

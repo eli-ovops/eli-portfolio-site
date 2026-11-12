@@ -1,0 +1,128 @@
+Browser tab: 37, Title: "用 AI 核对库存，第一步为什么只列异常？ - Eli", URL: "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources".
+1 AXWebArea 用 AI 核对库存，第一步为什么只列异常？ - Eli, URL: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources
+	2 link Description: 跳到正文, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#main
+	3 container
+		4 link Description: Eli首页, Value: eliai.cn/index.html?pv=5c2760c23a73225e2ff6
+		5 container 主导航
+			6 link Description: 首页, Value: eliai.cn/index.html?pv=5c2760c23a73225e2ff6
+			7 link Description: 项目库, Value: eliai.cn/records.html?pv=5c2760c23a73225e2ff6
+			8 link Description: 文章, Value: eliai.cn/articles.html?pv=5c2760c23a73225e2ff6
+			9 link Description: 关于, Value: eliai.cn/about.html?pv=5c2760c23a73225e2ff6
+			10 link Description: 切换到英文版, Value: eliai.cn/en/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources
+	11 container main
+		12 link Description: ← 返回文章, Value: eliai.cn/articles.html?pv=5c2760c23a73225e2ff6
+		13 text 办公实操
+		14 container
+			15 text Eli · 写于 
+			16 text 2026-10-17
+			17 text  · 约 1 分钟阅读
+			18 heading 用 AI 核对库存，第一步为什么只列异常？, Value: 1
+				19 text 用 AI 核对库存，第一步为什么只列异常？
+			20 text 账面、实物、在途与预留库存不是同一个概念。
+		21 container
+			22 heading 文章目录, Value: 2
+				23 text 文章目录
+			24 container 文章目录
+				25 link Description: 先弄明白, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#understand
+				26 link Description: 分三步试一试, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#try
+				27 link Description: 可以这样问, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#example
+				28 link Description: 遇到问题怎么办, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#troubleshoot
+				29 link Description: 怎么判断学会了, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#check
+				30 link Description: 参考资料与适用范围, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources
+		31 container
+			32 container understand
+				33 heading 先弄明白, Value: 2
+					34 text 先弄明白
+				35 text 先明确核对口径，再用工具找差异，交给负责人确认。不能让语言模型猜一遍后直接改真实库存。
+			36 container try
+				37 heading 分三步试一试, Value: 2
+					38 text 分三步试一试
+				39 content list
+					40 container
+						41 AXListMarker • 
+						42 text 用虚构商品做两张小表，附单位和时间。
+					43 container
+						44 AXListMarker • 
+						45 text 按商品编号与规格匹配。
+					46 container
+						47 AXListMarker • 
+						48 text 输出差异及原始行，不自动修账。
+			49 container example
+				50 heading 可以这样问, Value: 2
+					51 text 可以这样问
+				52 text 先准备好
+				53 text 两表均为虚构，时间和单位相同；练习计算差异，不调整真实库存。
+				54 text 练习材料（虚构示例）
+				55 text 账面：A商品10件、B商品5件。盘点：A商品8件、B商品5件。差异定义为盘点减账面。
+				56 text 把提示词里的占位符换成上面的材料；没有占位符时，将材料接到提示词后。阅读时长不含实际练习。
+				57 text 对照两份练习库存表，只列无法匹配、数量不同、单位不同的行。不要决定哪一份正确，不回写（把结果改回原系统或原表）。
+				58 text 结果怎么核对（供练习对照）
+				59 text A差异-2件，B为0；不能仅凭这两张表判断丢货原因，仍需核对单据。
+			60 container troubleshoot
+				61 heading 遇到问题怎么办, Value: 2
+					62 text 遇到问题怎么办
+				63 text 名称相似却规格不同要分开，模糊匹配只作候选不能当结论。
+			64 container check
+				65 heading 怎么判断学会了, Value: 2
+					66 text 怎么判断学会了
+				67 text 每条异常可追溯，真实更正仍由业务负责人确认。
+			68 container sources
+				69 heading 参考资料与适用范围, Value: 2
+					70 text 参考资料与适用范围
+				71 text 以下资料用于核对概念或产品入口，练习步骤由本站整理，不代表官方认证或客户效果。界面和可用功能可能更新，请以当前产品为准。资料核对日期：2026-10-17。
+				72 content list
+					73 container
+						74 AXListMarker • 
+						75 link Description: WorkBuddy 官方表格分析示例, Value: workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three
+		76 container
+			77 heading 先聊一项具体工作, Value: 2
+				78 text 先聊一项具体工作
+			79 text 说说现在怎么做、哪一步最费时间。初次沟通免费。
+			80 link Description: 免费聊聊 ↗, Value: eliai.cn/about.html?pv=5c2760c23a73225e2ff6#contact, ID: eli-consult-entry-1
+		81 link Description: 了解库存与流程提效服务 ↗, Value: eliai.cn/services/workflow-automation.html?pv=5c2760c23a73225e2ff6
+		82 container 继续阅读
+			83 heading 继续阅读, Value: 2, ID: article-next-title
+				84 text 继续阅读
+			85 container
+				86 text 办公实操 约 1 分钟阅读
+				87 heading AI 写产品文案，哪些信息绝对不能编？, Value: 3
+					88 link Description: AI 写产品文案，哪些信息绝对不能编？, Value: eliai.cn/articles/ai-product-copy.html?pv=5c2760c23a73225e2ff6
+				89 text 尺寸、材质、认证、适用范围和效果必须有依据。
+				90 link Description: 阅读: AI 写产品文案，哪些信息绝对不能编？, Value: eliai.cn/articles/ai-product-copy.html?pv=5c2760c23a73225e2ff6
+			91 container
+				92 text 办公实操 约 1 分钟阅读
+				93 heading AI 翻译能直接发客户吗？怎么检查？, Value: 3
+					94 link Description: AI 翻译能直接发客户吗？怎么检查？, Value: eliai.cn/articles/ai-translation-review.html?pv=5c2760c23a73225e2ff6
+				95 text 翻译要保留数字、条件、否定和术语，不能只看语句流畅。
+				96 link Description: 阅读: AI 翻译能直接发客户吗？怎么检查？, Value: eliai.cn/articles/ai-translation-review.html?pv=5c2760c23a73225e2ff6
+			97 container
+				98 text 办公实操 约 1 分钟阅读
+				99 heading 周报怎么用 AI 整理，不把计划写成成果？, Value: 3
+					100 link Description: 周报怎么用 AI 整理，不把计划写成成果？, Value: eliai.cn/articles/ai-weekly-report.html?pv=5c2760c23a73225e2ff6
+				101 text 把实际完成、进行中、计划和阻断分开。
+				102 link Description: 阅读: 周报怎么用 AI 整理，不把计划写成成果？, Value: eliai.cn/articles/ai-weekly-report.html?pv=5c2760c23a73225e2ff6
+	103 container
+		104 link Description: Eli FDE / SELECTED WORK, Value: eliai.cn/index.html?pv=5c2760c23a73225e2ff6
+		105 container 联系方式
+			106 text 邮箱
+			107 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			108 text 电话
+			109 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		110 container 页面导航
+			111 link Description: 项目库 ↗, Value: eliai.cn/records.html?pv=5c2760c23a73225e2ff6
+			112 link Description: 回到顶部 ↑, Value: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#main
+		113 container 社交主页
+			114 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			115 link Description: B站, Value: space.bilibili.com/432834855
+			116 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			117 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			118 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			119 link Description: X, Value: x.com/cczij1112
+			120 link Description: 微博, Value: weibo.com/u/7720929036
+			121 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			122 link Description: Instagram, Value: instagram.com/eliaifde/
+			123 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		124 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+		125 button 统计与隐私
+
+The focused UI element is 1 AXWebArea 用 AI 核对库存，第一步为什么只列异常？ - Eli, URL: eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources

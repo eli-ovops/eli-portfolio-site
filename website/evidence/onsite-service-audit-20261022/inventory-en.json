@@ -1,0 +1,153 @@
+{
+  "canonical": "https://www.eliai.cn/en/services/workflow-automation.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Inventory reconciliation and data entry automation"
+    },
+    {
+      "tag": "H2",
+      "text": "On this page"
+    },
+    {
+      "tag": "H2",
+      "text": "Which step should change first?"
+    },
+    {
+      "tag": "H2",
+      "text": "Entry and inventory checks"
+    },
+    {
+      "tag": "H2",
+      "text": "Product information, copy and images"
+    },
+    {
+      "tag": "H2",
+      "text": "Check the improvement, not just the tool"
+    },
+    {
+      "tag": "H2",
+      "text": "Inventory and content workflow experience"
+    },
+    {
+      "tag": "H3",
+      "text": "Sanitaryware manufacturer inventory system ↗"
+    },
+    {
+      "tag": "H3",
+      "text": "Furniture barcode inventory system ↗"
+    },
+    {
+      "tag": "H3",
+      "text": "Zhijing · AI content workbench ↗"
+    },
+    {
+      "tag": "H2",
+      "text": "Questions before starting"
+    },
+    {
+      "tag": "H3",
+      "text": "Does efficiency require AI?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can you promise a specific saving?"
+    },
+    {
+      "tag": "H2",
+      "text": "Start with one task"
+    },
+    {
+      "tag": "H2",
+      "text": "Analytics & privacy"
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/services/workflow-automation.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/services/workflow-automation.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../index.html#needs",
+      "text": "← Explore business needs"
+    },
+    {
+      "href": "../cases/p09.html",
+      "text": "View the barcode inventory case ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "Discuss your entry and stock-checking needs for free ↗"
+    },
+    {
+      "href": "#cases",
+      "text": "More related cases ↓"
+    },
+    {
+      "href": "#priority",
+      "text": "Which step should change first?"
+    },
+    {
+      "href": "#inventory",
+      "text": "Entry and inventory checks"
+    },
+    {
+      "href": "#content",
+      "text": "Product information, copy and images"
+    },
+    {
+      "href": "#acceptance",
+      "text": "Check the improvement, not just the tool"
+    },
+    {
+      "href": "#cases",
+      "text": "Inventory and content workflow experience"
+    },
+    {
+      "href": "#questions",
+      "text": "Questions before starting"
+    },
+    {
+      "href": "../cases/p10.html",
+      "text": "Sanitaryware manufacturer inventory system ↗"
+    },
+    {
+      "href": "../cases/p09.html",
+      "text": "Furniture barcode inventory system ↗"
+    },
+    {
+      "href": "../cases/p12.html",
+      "text": "Zhijing · AI content workbench ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "Discuss your entry and stock-checking needs for free ↗"
+    },
+    {
+      "href": "fde-consulting.html",
+      "text": "AI implementation for small businesses ↗"
+    },
+    {
+      "href": "ai-agent.html",
+      "text": "Knowledge base setup and AI-assisted support ↗"
+    }
+  ],
+  "mainText": "← Explore business needs\nAI services\nInventory reconciliation and data entry automation\n\nEntering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.\n\nPossible deliverables\n\nOne workflow change plan\nA usable tool or software pilot\nChecking and operating guidance\n\nLed barcode inventory development: stock movements, duplicate requests and corrections.\n\nView the barcode inventory case ↗\nDiscuss your entry and stock-checking needs for free ↗\nMore related cases ↓\nOn this page\nWhich step should change first?\nEntry and inventory checks\nProduct information, copy and images\nCheck the improvement, not just the tool\nInventory and content workflow experience\nQuestions before starting\nWhich step should change first?\n\nLook for frequent work with reasonably clear rules and checkable inputs and outputs. Record who owns it, how long it takes and why rework happens. Identify repeated transfer or checking.\n\nInclude subscriptions, staff learning, integrations and maintenance in the cost. A small change that works can be enough; do not add process just to use AI.\n\nEntry and inventory checks\n\nDiscuss duplicate entry, scattered stock movement records or manual reconciliation. Confirm business rules and access before choosing existing tools or custom inventory software.\n\nQuantities, documents and movement records must reconcile. Define correction, reversal and activity records. Use software validation for fixed rules and assess AI when unstructured content needs interpretation.\n\nProduct information, copy and images\n\nOrganize product facts, specifications and reusable assets, then assess AI for drafting copy or preparing images. A responsible person checks prices, specifications and brand wording before publication.\n\nTry one product type or channel. Check source completeness and the amount of editing required. Generation, human review and publication are separate steps with separate checks.\n\nCheck the improvement, not just the tool\n\nCompare similar tasks before and after the change for duration, repeated entry and rework while checking correctness. Staff understanding and recovery from mistakes are part of acceptance.\n\nAgree pilot scope and cost first, then expand only if results justify it. Existing tools such as WorkBuddy can be a starting point. Agree custom development, training and maintenance separately.\n\nInventory and content workflow experience\n\nThese projects illustrate different workflows. Each case distinguishes role, delivery status and validation scope; generating content does not establish automated publication.\n\nSanitaryware manufacturer inventory system ↗\n\nIndependently developed and delivered an inventory system for a large B2B sanitaryware manufacturer, covering requirements, workflow analysis and implementation.\n\nFurniture barcode inventory system ↗\n\nLed a carton-based barcode inventory system, designing receiving, transfers and dispatch with permissions, duplicate-submission handling and correction flows.\n\nZhijing · AI content workbench ↗\n\nLed a content workbench for furnishing fabrics, organizing product facts, style settings, editing and human review while validating model output, account connection and export separately.\n\nQuestions before starting\nDoes efficiency require AI?\n\nNo. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first.\n\nCan you promise a specific saving?\n\nAssess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement.\n\nStart with one task\n\nDescribe the current process, its slowest step and the result you want.\n\nDiscuss your entry and stock-checking needs for free ↗\n\nRelated services\n\nAI implementation for small businesses ↗ · Knowledge base setup and AI-assisted support ↗",
+  "metaDescription": "Review duplicate entry, scattered stock records and manual reconciliation. Assess existing tools or scoped inventory software, checking quantities, movement records and corrections. Project evidence, clear limits and a free initial consultation.",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/en/about.html\", \"description\": \"Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.\", \"jobTitle\": \"FDE · Practical tools and workflows\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/en/services/workflow-automation.html#service\", \"name\": \"Inventory reconciliation and data entry automation\", \"description\": \"Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.\", \"url\": \"https://www.eliai.cn/en/services/workflow-automation.html\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"FAQPage\", \"@id\": \"https://www.eliai.cn/en/services/workflow-automation.html#questions\", \"url\": \"https://www.eliai.cn/en/services/workflow-automation.html#questions\", \"inLanguage\": \"en\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/en/services/workflow-automation.html#page\"}, \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Does efficiency require AI?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"No. Forms, validation or conventional software may fit fixed rules better. Choose the approach for the business task first.\"}}, {\"@type\": \"Question\", \"name\": \"Can you promise a specific saving?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Assess your actual tasks in a pilot. Agree comparison measures, then record correctness, duration and maintenance cost before claiming improvement.\"}}]}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/en/services/workflow-automation.html#page\", \"url\": \"https://www.eliai.cn/en/services/workflow-automation.html\", \"name\": \"Inventory Reconciliation \\u0026 Data Entry Automation | Eli\", \"description\": \"Review duplicate entry, scattered stock records and manual reconciliation. Assess existing tools or scoped inventory software, checking quantities, movement records and corrections. Project evidence, clear limits and a free initial consultation.\", \"inLanguage\": \"en\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"mainEntity\": {\"@id\": \"https://www.eliai.cn/en/services/workflow-automation.html#service\"}, \"hasPart\": {\"@id\": \"https://www.eliai.cn/en/services/workflow-automation.html#questions\"}}]}"
+  ],
+  "title": "Inventory Reconciliation & Data Entry Automation | Eli",
+  "url": "https://www.eliai.cn/en/services/workflow-automation.html"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "case": "p02",
+    "original": "assets/public-cases/p02.png",
+    "original_bytes": 775310,
+    "existing_previews": [
+      {
+        "path": "assets/previews/p02-1200.jpg",
+        "bytes": 172020
+      },
+      {
+        "path": "assets/previews/p02-640.jpg",
+        "bytes": 68807
+      }
+    ]
+  },
+  {
+    "case": "p03",
+    "original": "assets/public-cases/p03.png",
+    "original_bytes": 1130810,
+    "existing_previews": []
+  },
+  {
+    "case": "p05",
+    "original": "assets/public-cases/p05.png",
+    "original_bytes": 1193449,
+    "existing_previews": [
+      {
+        "path": "assets/previews/p05-1200.jpg",
+        "bytes": 109454
+      },
+      {
+        "path": "assets/previews/p05-640.jpg",
+        "bytes": 40492
+      }
+    ]
+  },
+  {
+    "case": "p07",
+    "original": "assets/public-cases/p07.png",
+    "original_bytes": 638433,
+    "existing_previews": []
+  },
+  {
+    "case": "p13",
+    "original": "assets/img13.png",
+    "original_bytes": 711604,
+    "existing_previews": []
+  }
+]

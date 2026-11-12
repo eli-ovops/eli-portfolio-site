@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-15",
+  "revision": "7dcf7dd0c56b6448f5a3",
+  "status": "LOCAL_VALIDATED_NOT_PUBLISHED",
+  "change": "Removed global brand-symbol circular border and radial background; size, purple star and hover rotation retained",
+  "source": "assets/bits-ui.css",
+  "sha256": "80e9a9ebb692d6cb6dca22c6bffc0c72c1c9d5d3b923fb37a563332153d69ce7",
+  "verification": {
+    "build": "84 HTML / 38 records PASS",
+    "static_links_http": "PASS",
+    "browser": "border 0px; background-image none; purple color rgb(150,152,255); no desktop overflow",
+    "screenshot": "header.jpg"
+  },
+  "deployed": false,
+  "indexing_enabled": false,
+  "model": "UNKNOWN",
+  "reasoning_effort": "UNKNOWN",
+  "temporary_files": "None; exact before backups and actual screenshot retained as evidence"
+}

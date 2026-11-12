@@ -1,0 +1,86 @@
+heading  AI引用概览 , Value: 2
+			89 text  AI引用概览 
+			90 text 
+		91 heading AI引用趋势, Value: 2
+			92 text AI引用趋势
+		93 container
+			94 text 昨天
+		95 container
+			96 text 最近7天
+		97 container
+			98 text 最近30天
+		99 container
+			100 text 自定义日期
+		101 container
+			102 menu bar
+				103 引用量
+				104 引用页面量
+			105 text 对比前7天
+			106 text AI引用量 AI曝光量 AI点击量
+		107 heading AI引用热门关键词, Value: 2
+			108 text AI引用热门关键词
+		109 container
+			110 text field (settable)
+			111 radio button 热门关键词, Value: 1
+				112 text 热门关键词
+			113 radio button 热门页面, Value: 0
+				114 text 热门页面
+			115 table
+				116 row
+					117 cell
+						118 text 关键词
+					119 cell
+						120 text AI引用量
+					121 cell
+						122 text AI曝光量
+					123 cell
+						124 text AI点击量
+					125 cell
+						126 text AI点击率
+					127 cell
+						128 text 操作
+			129 container
+				130 text 暂无数据
+			131 button  下载表格
+				132 text 
+				133 text 下载表格
+			134 button (disabled) 
+				135 text 
+			136 content list
+				137 text 1
+			138 button (disabled) 
+				139 text 
+			140 text 前往
+			141 stepper (settable, integer) 1
+			142 text 页
+			143 container
+				144 text field 10条/页
+				145 text 
+			146 text 共 0 条
+		147 heading 说明, Value: 4
+			148 text 说明
+		149 content list
+			150 container
+				151 AXListMarker • 
+				152 text 当前数据仅覆盖传统搜索场景，每日更新前一日数据。受数据采集、计算等环节影响，数据更新时间可能存在延迟。
+			153 container
+				154 AXListMarker • 
+				155 text 热门关键词列表、热门页面列表默认按点击量降序排列，最多展示点击量top5万的关键词或页面。
+	156 container
+		157 container
+			158 link Description: 智能小程序, Value: smartprogram.baidu.com/developer/index.html
+			159 link Description: 投诉平台, Value: help.baidu.com/newadd?prod_id=1&category=1
+			160 link Description: 百度统计, Value: tongji.baidu.com/web/welcome/login
+			161 link Description: 百度智能云, Value: cloud.baidu.com/
+			162 link Description: 百度云加速, Value: su.baidu.com/
+			163 link Description: 百度安全, Value: anquan.baidu.com/
+			164 link Description: 百度大脑, Value: ai.baidu.com/
+			165 link Description: 百度保障, Value: baozhang.baidu.com/guarantee/?from=ziyuan
+			166 link Description: 百度开发者中心, Value: developer.baidu.com/?hmsr=%E7%AB%99%E9%95%BF%E5%B9%B3%E5%8F%B0&hmpl=&hmcu=&hmkw=&hmci
+			167 link Description: 联系我们, Value: ziyuan.baidu.com/college/articleinfo?id=2114
+			168 link Description: 微信公众号, Value: ziyuan.baidu.com/wiki/3148
+		169 text ©2026 Baidu 
+		170 link Description: 使用百度前必读, Value: baidu.com/duty/
+		171 text  京ICP证030173号
+
+The focused UI element is 0 AXWebArea 百度搜索资源平台_共创共享鲜活搜索, URL: ziyuan.baidu.com/aiflow/index?site=https://www.eliai.cn/

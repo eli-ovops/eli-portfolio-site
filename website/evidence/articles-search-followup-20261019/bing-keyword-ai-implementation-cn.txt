@@ -1,0 +1,173 @@
+Browser tab: 33, Title: "Keyword Research - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=AI%E5%AE%9E%E6%96%BD".
+0 AXWebArea Keyword Research - Bing Webmaster Tools, URL: bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=AI%E5%AE%9E%E6%96%BD
+	1 container
+		2 container root
+			3 container
+				4 link Description: Skip to main content, Value: bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=AI%E5%AE%9E%E6%96%BD#content
+				5 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				6 image white bwt logo microsoft bing webmaster
+				7 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				8 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					13 image
+			14 container
+				15 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					16 text www.eliai.cn/
+				17 container Main menu
+					18 outline
+						19 row (selectable) Home
+							20 text Home
+						21 row (selectable) Search Performance
+							22 text Search Performance
+						23 row (selectable) AI Performance BETA
+							24 text AI Performance
+							25 text BETA
+						26 row (selectable) URL Inspection
+							27 text URL Inspection
+						28 row (selectable) Site Explorer
+							29 text Site Explorer
+						30 row (selectable) Sitemaps
+							31 text Sitemaps
+						32 row (selectable) IndexNow
+							33 text IndexNow
+						34 row (selectable) URL Submission
+							35 text URL Submission
+						36 row (selectable) Backlinks
+							37 text Backlinks
+						38 row (selectable) Keyword Research
+							39 text Keyword Research
+						40 row (selectable) Recommendations
+							41 text Recommendations
+						42 row (selectable) Site Scan
+							43 text Site Scan
+						44 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							45 text CONFIGURATION
+						46 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							47 text TOOLS & ENHANCEMENTS
+						48 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							49 text SECURITY & PRIVACY
+						50 row (selectable) User management
+							51 text User management
+						52 row (selectable) Microsoft Clarity
+							53 text Microsoft Clarity
+			54 container content
+				55 heading Keyword Research, Value: 2
+					56 text Keyword Research
+				57 text field (settable) Description: Enter keyword phrases, Value: AI实施, ID: TextField95
+				58 button Get details
+					59 text Get details
+				60 combo box (collapsed) Description: dropdown filter, Value: People's Republic of China, ID: Dropdown104, Secondary Actions: Expand
+					61 text People's Republic of China
+				62 combo box (collapsed) Description: dropdown filter, Value: All, ID: Dropdown106, Secondary Actions: Expand
+					63 text All
+				64 combo box (collapsed) Description: Select Device, Value: All, ID: Dropdown107, Secondary Actions: Expand
+					65 text All
+				77 combo box (collapsed) Description: Duration, Value: 3 M, ID: Dropdown114, Secondary Actions: Expand
+					78 text 3 M
+				79 container
+					80 heading Keyword, Value: 4
+						81 text Keyword
+					82 heading AI实施, Value: 1
+						83 text AI实施
+				124 text Bing doesn’t have enough data to show trend here.
+				94 heading List By, Value: 3, ID: keywordIdeasList
+					95 text List By
+				96 container
+					97 tab group
+						98 tab (selected, settable, boolean) Related keywords, ID: Pivot123-Tab0, Value: 1
+Related keywords
+						99 tab (selectable, settable, boolean) Question keywords, ID: Pivot123-Tab1, Value: 0
+Question keywords
+						100 tab (selectable, settable, boolean) Newly discovered, ID: Pivot123-Tab2, Value: 0
+Newly discovered
+					101 container Related keywords
+				102 button Download all
+					103 text Download all
+				104 table keyword ideas details
+					105 row select all items Keywords, sortable Trends Impressions, sortable
+						106 cell select all items
+							107 checkbox Description: select all items, Value: 0, ID: header138-check
+						108 cell
+							109 button Description: Keywords, sortable, ID: header138-Query
+								110 text Keywords
+						111 cell Trends
+							112 text Trends
+						113 cell
+							114 button Description: Impressions, sortable, ID: header138-ImpressionCount
+								115 text Impressions
+					125 text No data available
+				126 container
+					127 text 0 rows
+				116 heading Top 10 url ranking on this keyword, Value: 3
+					117 text Top 10 url ranking on this keyword
+				118 table Top 10 url ranking on this keyword
+					119 row Title & URL Topics
+						120 cell Title & URL
+							121 text Title & URL
+						122 cell Topics
+							123 text Topics
+					128 row ID: row361-0, 人工智能实施：成功的 8 个步骤 - IBM https://www.ibm.com/cn-zh/think/insights/artificial-intelligence-implementation -
+						129 cell row361-0-header
+							130 link Description: 人工智能实施：成功的 8 个步骤 - IBM, Value: bing.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E6%96%BD%EF%BC%9A%E6%88%90%E5%8A%9F%E7%9A%84%208%20%E4%B8%AA%E6%AD%A5%E9%AA%A4%20-%20IBM
+							131 link Description: https://www.ibm.com/cn-zh/think/insights/artificial-intelligence-implementation, Value: ibm.com/cn-zh/think/insights/artificial-intelligence-implementation
+						132 cell row361-0-header
+							133 text -
+					134 row ID: row361-1, 国务院关于深入实施“人工智能+”行动的意见__2025年第25号国务院公报_中国政府网 https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html -
+						135 cell row361-1-header
+							136 link Description: 国务院关于深入实施“人工智能+”行动的意见__2025年第25号国务院公报_中国政府网, Value: bing.com/search?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%B7%B1%E5%85%A5%E5%AE%9E%E6%96%BD%E2%80%9C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%2B%E2%80%9D%E8%A1%8C%E5%8A%A8%E7%9A%84%E6%84%8F%E8%A7%81__2025%E5%B9%B4%E7%AC%AC25%E5%8F%B7%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E6%8A%A5_%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BD%91
+							137 link Description: https://www.gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html, Value: gov.cn/gongbao/2025/issue_12266/202509/content_7039598.html
+						138 cell row361-1-header
+							139 text -
+					140 row ID: row361-2, AI 实施策略指南 | Microsoft 365 https://www.microsoft.com/zh-cn/microsoft-365/business-insights-ideas/resources/ai-implementation -
+						141 cell row361-2-header
+							142 link Description: AI 实施策略指南 | Microsoft 365, Value: bing.com/search?q=AI%20%E5%AE%9E%E6%96%BD%E7%AD%96%E7%95%A5%E6%8C%87%E5%8D%97%20%7C%20Microsoft%20365
+							143 link Description: https://www.microsoft.com/zh-cn/microsoft-365/business-insights-ideas/resources/ai-implementation, Value: microsoft.com/zh-cn/microsoft-365/business-insights-ideas/resources/ai-implementation
+						144 cell row361-2-header
+							145 text -
+					146 row 企业 AI 实施服务：从试点到生产 - ZenAI https://zenaicorp.com/zh/services/ai-implementation -, ID: row361-3
+						147 cell row361-3-header
+							148 link Description: 企业 AI 实施服务：从试点到生产 - ZenAI, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%20AI%20%E5%AE%9E%E6%96%BD%E6%9C%8D%E5%8A%A1%EF%BC%9A%E4%BB%8E%E8%AF%95%E7%82%B9%E5%88%B0%E7%94%9F%E4%BA%A7%20-%20ZenAI
+							149 link Description: https://zenaicorp.com/zh/services/ai-implementation, Value: zenaicorp.com/zh/services/ai-implementation
+						150 cell row361-3-header
+							151 text -
+					152 row 如何制定成功的 AI 业务战略 | IBM https://www.ibm.com/cn-zh/think/insights/artificial-intelligence-strategy -, ID: row361-4
+						153 cell row361-4-header
+							154 link Description: 如何制定成功的 AI 业务战略 | IBM, Value: bing.com/search?q=%E5%A6%82%E4%BD%95%E5%88%B6%E5%AE%9A%E6%88%90%E5%8A%9F%E7%9A%84%20AI%20%E4%B8%9A%E5%8A%A1%E6%88%98%E7%95%A5%20%7C%20IBM
+							155 link Description: https://www.ibm.com/cn-zh/think/insights/artificial-intelligence-strategy, Value: ibm.com/cn-zh/think/insights/artificial-intelligence-strategy
+						156 cell row361-4-header
+							157 text -
+					158 row How to Implement AI in Your Business | AWS https://aws.amazon.com/cn/ai/implementation/ -, ID: row361-5
+						159 cell row361-5-header
+							160 link Description: How to Implement AI in Your Business | AWS, Value: bing.com/search?q=How%20to%20Implement%20AI%20in%20Your%20Business%20%7C%20AWS
+							161 link Description: https://aws.amazon.com/cn/ai/implementation/, Value: aws.amazon.com/cn/ai/implementation/
+						162 cell row361-5-header
+							163 text -
+					164 row ID: row361-6, 企业 AI 实施手册：斯坦福实证报告与一线落地经验 — 邵炎炎 https://daofaziran163.github.io/personal-blog/posts/enterprise-ai-implementation-playbook.html -
+						165 cell row361-6-header
+							166 link Description: 企业 AI 实施手册：斯坦福实证报告与一线落地经验 — 邵炎炎, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%20AI%20%E5%AE%9E%E6%96%BD%E6%89%8B%E5%86%8C%EF%BC%9A%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%AE%9E%E8%AF%81%E6%8A%A5%E5%91%8A%E4%B8%8E%E4%B8%80%E7%BA%BF%E8%90%BD%E5%9C%B0%E7%BB%8F%E9%AA%8C%20%E2%80%94%20%E9%82%B5%E7%82%8E%E7%82%8E
+							167 link Description: https://daofaziran163.github.io/personal-blog/posts/enterprise-ai-implementation-playbook.html, Value: daofaziran163.github.io/personal-blog/posts/enterprise-ai-implementation-playbook.html
+						168 cell row361-6-header
+							169 text -
+					170 row 300+成功案例总结：从0到1实现AI落地的全流程实操手册 https://zhuanlan.zhihu.com/p/1906458398649718474 -, ID: row361-7
+						171 cell row361-7-header
+							172 link Description: 300+成功案例总结：从0到1实现AI落地的全流程实操手册, Value: bing.com/search?q=300%2B%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%E6%80%BB%E7%BB%93%EF%BC%9A%E4%BB%8E0%E5%88%B01%E5%AE%9E%E7%8E%B0AI%E8%90%BD%E5%9C%B0%E7%9A%84%E5%85%A8%E6%B5%81%E7%A8%8B%E5%AE%9E%E6%93%8D%E6%89%8B%E5%86%8C
+							173 link Description: https://zhuanlan.zhihu.com/p/1906458398649718474, Value: zhuanlan.zhihu.com/p/1906458398649718474
+						174 cell row361-7-header
+							175 text -
+					176 row 传统企业如何成功实施第一个AI项目？从需求到落地，一文讲清-36氪 https://www.36kr.com/p/3216616902003841 -, ID: row361-8
+						177 cell row361-8-header
+							178 link Description: 传统企业如何成功实施第一个AI项目？从需求到落地，一文讲清-36氪, Value: bing.com/search?q=%E4%BC%A0%E7%BB%9F%E4%BC%81%E4%B8%9A%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E5%AE%9E%E6%96%BD%E7%AC%AC%E4%B8%80%E4%B8%AAAI%E9%A1%B9%E7%9B%AE%EF%BC%9F%E4%BB%8E%E9%9C%80%E6%B1%82%E5%88%B0%E8%90%BD%E5%9C%B0%EF%BC%8C%E4%B8%80%E6%96%87%E8%AE%B2%E6%B8%85-36%E6%B0%AA
+							179 link Description: https://www.36kr.com/p/3216616902003841, Value: 36kr.com/p/3216616902003841
+						180 cell row361-8-header
+							181 text -
+					182 row AI实战应用案例（2026年各行各业如何用AI？） - 知乎 https://zhuanlan.zhihu.com/p/2011488312657993868 -, ID: row361-9
+						183 cell row361-9-header
+							184 link Description: AI实战应用案例（2026年各行各业如何用AI？） - 知乎, Value: bing.com/search?q=AI%E5%AE%9E%E6%88%98%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B%EF%BC%882026%E5%B9%B4%E5%90%84%E8%A1%8C%E5%90%84%E4%B8%9A%E5%A6%82%E4%BD%95%E7%94%A8AI%EF%BC%9F%EF%BC%89%20-%20%E7%9F%A5%E4%B9%8E
+							185 link Description: https://zhuanlan.zhihu.com/p/2011488312657993868, Value: zhuanlan.zhihu.com/p/2011488312657993868
+						186 cell row361-9-header
+							187 text -
+
+The focused UI element is 58 button Get details

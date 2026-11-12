@@ -1,0 +1,15 @@
+{
+  "scripts/articles.py": "3e5610ccc0c1119771b7040192f5223679ab01d01d9fce7bc069c0472dc7dd68",
+  "scripts/seo.py": "b694cd243289ec227470f91640c3497261bcc17ec728f56180304ece47e1b799",
+  "templates/article.html": "39cffe2edbb246cb62bb9dcb8dc2077ffe7df5473e0bb7b65bb3480292dfde01",
+  "assets/articles.css": "dfdffda199454d4e4d735d012b1df5871085cfd2660edcbe11450734619c2bda",
+  "site.yaml": "5ea4fb4877983b25c7112f1a392d2bf80d3dcd5ef98d5be73dae506ea358607d",
+  "content/articles.json": "3cfbae8231ce9f66ead3dc4508facd8b21e0f6be11b20d9b19a84ffbb27c76b4",
+  "content/articles-en.json": "d9286125ff1d4ca47a34419f5c5c87b8e93036f3d37209b695e81008098ba8de",
+  "styles.css": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+  "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7",
+  "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+  "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+  "assets/page-version.js": "7c785b08aea1581da7fd9ff5b0bf8c7c7eecf0164fc0502fc7cb5f4cb447318d",
+  "assets/stacked-gallery.css": "9c476e02cb4eeda0e4714905324c6b9534e8fd3d92cd86a24d5c7a19e700654a"
+}

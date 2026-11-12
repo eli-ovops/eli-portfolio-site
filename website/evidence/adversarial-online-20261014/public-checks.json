@@ -1,0 +1,68 @@
+{
+  "revision": "147597147401d66f13ca",
+  "checks": [
+    {
+      "path": "index.html",
+      "hash": "MATCH",
+      "noindex": true
+    },
+    {
+      "path": "records.html",
+      "hash": "MATCH",
+      "noindex": true
+    },
+    {
+      "path": "en/records.html",
+      "hash": "MATCH",
+      "noindex": true
+    },
+    {
+      "path": "cases/p10.html",
+      "hash": "MATCH",
+      "noindex": true
+    },
+    {
+      "path": "cases/p09.html",
+      "hash": "MATCH",
+      "noindex": true
+    },
+    {
+      "path": "app.js",
+      "hash": "MATCH",
+      "noindex": false
+    },
+    {
+      "path": "assets/page-version.js",
+      "hash": "MATCH",
+      "noindex": false
+    },
+    {
+      "path": "assets/editorial.js",
+      "hash": "MATCH",
+      "noindex": false
+    },
+    {
+      "path": "assets/screenshot-viewer.js",
+      "hash": "MATCH",
+      "noindex": false
+    },
+    {
+      "path": "styles.css",
+      "hash": "MATCH",
+      "noindex": false
+    },
+    {
+      "path": "assets/editorial.css",
+      "hash": "MATCH",
+      "noindex": false
+    },
+    {
+      "path": "robots.txt",
+      "hash": "MATCH",
+      "noindex": false
+    }
+  ],
+  "sitemap": 404,
+  "indexing": "DISABLED",
+  "scope": "12 current public files matched; not an all-asset/performance audit"
+}

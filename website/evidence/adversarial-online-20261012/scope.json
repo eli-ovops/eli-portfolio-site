@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-12T22:03:23.180017",
+  "release": "20261012-212302-first-pointer",
+  "revision": "374bf42e288f80f56bf7",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "scope": "Read-only online visitor flow: home/gallery, search/filter, details/related-case return, modal, contact,320px and reduced-motion",
+  "source_modifications": false,
+  "server_actions": false,
+  "source_hashes": {
+    "assets/editorial.js": "03242a2986d1b53664caed10fc7a80db24ebdc01487d4ab73d9aaea1e1e06e38",
+    "assets/editorial.css": "49cc918b9a9d03076042efc3ee9dc4d4efe2a5b968348aad0b25b64e1b8e9589",
+    "assets/screenshot-viewer.js": "44db6b3c6f357d267ca7dfedd9aba52977966e6c5dc38614c879872f0fcb6a48",
+    "assets/depth-gallery.js": "1a796d24b2453394489beaa54d4bbd30d5a8d5ff9fb95158e79e69efcfab7c5f",
+    "app.js": "aac18cbdf88b36c7ec025d8b57dbead140358867d518c1028c1d7ace59774cc7",
+    "motion.js": "d328393689d8bbfa5f16ccf62b3ce477c082fc6ed1fad8d4b4950870f35a7cb9",
+    "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+    "styles.css": "85b8ead1c21ee5e62e425653ff44d58f060503c119ea2aaa462e412474f635e8",
+    "scripts/pages.py": "02d2d7e8e03a617a0bfa82ab97d55a5e234e2fd37232dcef796c778caefedacf",
+    "content/projects.json": "f7d830068b012dde700dd6e22447a6d694cfbef29453cbea2f1f62403cc87c61",
+    "site.yaml": "e58f7f27819b0da8f3346beb746ac676e0f94dc8fb0caff89697a2c5245d87ab"
+  }
+}

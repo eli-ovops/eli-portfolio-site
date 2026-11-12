@@ -1,0 +1,1749 @@
+{
+  "layout": [
+    {
+      "current": "洁具行业某大型 B 端厂商库存管理系统",
+      "headline": "业务系统开发AI 工作流",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 305,
+      "tabs": [
+        "洁具库存",
+        "RAG 客服",
+        "扫码库存",
+        "律所 OA",
+        "慈善基金会",
+        "AI 内容工作台",
+        "全域营销"
+      ],
+      "url": "/index.html",
+      "width": 305
+    },
+    {
+      "current": "Sanitaryware manufacturer inventory system",
+      "headline": "Business systemsAI workflows",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 305,
+      "tabs": [
+        "Sanitaryware inventory",
+        "RAG support",
+        "Barcode inventory",
+        "Law firm office",
+        "Charity foundation",
+        "AI content workbench",
+        "Brand marketing"
+      ],
+      "url": "/en/index.html",
+      "width": 305
+    },
+    {
+      "headline": "关于我",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 305,
+      "tabs": [],
+      "url": "/about.html",
+      "width": 305
+    },
+    {
+      "headline": "About me",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 305,
+      "tabs": [],
+      "url": "/en/about.html",
+      "width": 305
+    },
+    {
+      "headline": "洁具行业某大型 B 端厂商库存管理系统",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 305,
+      "tabs": [],
+      "url": "/cases/p10.html",
+      "width": 305
+    },
+    {
+      "headline": "Sanitaryware manufacturer inventory system",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 305,
+      "tabs": [],
+      "url": "/en/cases/p10.html",
+      "width": 305
+    },
+    {
+      "current": "洁具行业某大型 B 端厂商库存管理系统",
+      "headline": "业务系统开发AI 工作流",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 375,
+      "tabs": [
+        "洁具库存",
+        "RAG 客服",
+        "扫码库存",
+        "律所 OA",
+        "慈善基金会",
+        "AI 内容工作台",
+        "全域营销"
+      ],
+      "url": "/index.html",
+      "width": 375
+    },
+    {
+      "current": "Sanitaryware manufacturer inventory system",
+      "headline": "Business systemsAI workflows",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 375,
+      "tabs": [
+        "Sanitaryware inventory",
+        "RAG support",
+        "Barcode inventory",
+        "Law firm office",
+        "Charity foundation",
+        "AI content workbench",
+        "Brand marketing"
+      ],
+      "url": "/en/index.html",
+      "width": 375
+    },
+    {
+      "headline": "关于我",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 375,
+      "tabs": [],
+      "url": "/about.html",
+      "width": 375
+    },
+    {
+      "headline": "About me",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 375,
+      "tabs": [],
+      "url": "/en/about.html",
+      "width": 375
+    },
+    {
+      "headline": "洁具行业某大型 B 端厂商库存管理系统",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 375,
+      "tabs": [],
+      "url": "/cases/p10.html",
+      "width": 375
+    },
+    {
+      "headline": "Sanitaryware manufacturer inventory system",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 375,
+      "tabs": [],
+      "url": "/en/cases/p10.html",
+      "width": 375
+    },
+    {
+      "current": "洁具行业某大型 B 端厂商库存管理系统",
+      "headline": "业务系统开发AI 工作流",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 753,
+      "tabs": [
+        "洁具库存",
+        "RAG 客服",
+        "扫码库存",
+        "律所 OA",
+        "慈善基金会",
+        "AI 内容工作台",
+        "全域营销"
+      ],
+      "url": "/index.html",
+      "width": 753
+    },
+    {
+      "current": "Sanitaryware manufacturer inventory system",
+      "headline": "Business systemsAI workflows",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 753,
+      "tabs": [
+        "Sanitaryware inventory",
+        "RAG support",
+        "Barcode inventory",
+        "Law firm office",
+        "Charity foundation",
+        "AI content workbench",
+        "Brand marketing"
+      ],
+      "url": "/en/index.html",
+      "width": 753
+    },
+    {
+      "headline": "关于我",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 753,
+      "tabs": [],
+      "url": "/about.html",
+      "width": 753
+    },
+    {
+      "headline": "About me",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 753,
+      "tabs": [],
+      "url": "/en/about.html",
+      "width": 753
+    },
+    {
+      "headline": "洁具行业某大型 B 端厂商库存管理系统",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 753,
+      "tabs": [],
+      "url": "/cases/p10.html",
+      "width": 753
+    },
+    {
+      "headline": "Sanitaryware manufacturer inventory system",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 753,
+      "tabs": [],
+      "url": "/en/cases/p10.html",
+      "width": 753
+    },
+    {
+      "current": "洁具行业某大型 B 端厂商库存管理系统",
+      "headline": "业务系统开发AI 工作流",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 1265,
+      "tabs": [
+        "洁具库存",
+        "RAG 客服",
+        "扫码库存",
+        "律所 OA",
+        "慈善基金会",
+        "AI 内容工作台",
+        "全域营销"
+      ],
+      "url": "/index.html",
+      "width": 1265
+    },
+    {
+      "current": "Sanitaryware manufacturer inventory system",
+      "headline": "Business systemsAI workflows",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 1265,
+      "tabs": [
+        "Sanitaryware inventory",
+        "RAG support",
+        "Barcode inventory",
+        "Law firm office",
+        "Charity foundation",
+        "AI content workbench",
+        "Brand marketing"
+      ],
+      "url": "/en/index.html",
+      "width": 1265
+    },
+    {
+      "headline": "关于我",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 1265,
+      "tabs": [],
+      "url": "/about.html",
+      "width": 1265
+    },
+    {
+      "headline": "About me",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 1265,
+      "tabs": [],
+      "url": "/en/about.html",
+      "width": 1265
+    },
+    {
+      "headline": "洁具行业某大型 B 端厂商库存管理系统",
+      "icons": [
+        {
+          "label": "小红书",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "B站",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "抖音",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "微博",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 1265,
+      "tabs": [],
+      "url": "/cases/p10.html",
+      "width": 1265
+    },
+    {
+      "headline": "Sanitaryware manufacturer inventory system",
+      "icons": [
+        {
+          "label": "Xiaohongshu",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Bilibili",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Douyin",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "YouTube",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "LinkedIn",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "X",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Weibo",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "TikTok",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Instagram",
+          "request": false,
+          "size": 22,
+          "svg": true
+        },
+        {
+          "label": "Facebook",
+          "request": false,
+          "size": 22,
+          "svg": true
+        }
+      ],
+      "scrollWidth": 1265,
+      "tabs": [],
+      "url": "/en/cases/p10.html",
+      "width": 1265
+    }
+  ],
+  "reducedMotion": {
+    "cards": 7,
+    "enabled": false,
+    "hidden": 0,
+    "icons": 10,
+    "links": 7
+  },
+  "network": {
+    "socialRequests": [],
+    "failed": [],
+    "truncated": false,
+    "hasMore": false
+  },
+  "interaction": {
+    "nextButton": "P36 RAG aria-pressed true",
+    "projectTab": "P09 selected and cases/p09.html"
+  }
+}

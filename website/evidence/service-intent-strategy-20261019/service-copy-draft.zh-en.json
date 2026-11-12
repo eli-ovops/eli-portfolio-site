@@ -1,0 +1,174 @@
+{
+  "status": "DRAFT_ONLY_NOT_IMPLEMENTED",
+  "source": "content/seo.json",
+  "source_sha256": "6daa1f98cc22b9aebeb956a6b97d4047ab4a6aa5ea356016dbcaa80e6258f4f3",
+  "baseline_revision": "e2be96987b2798068e82",
+  "purpose": "Reviewable bilingual service-intent copy suggestions, not an executable patch or website content source.",
+  "restrictions": [
+    "No website changes, build, deployment or search submission.",
+    "Existing URLs, visuals, motion, cases, delivery scope and fees remain unchanged.",
+    "Consultation text is a suggestion only; existing navigation destinations remain unchanged.",
+    "No new quantified results, guaranteed outcomes, package contents or delivery dates.",
+    "Inventory content remains a focus within the existing workflow page; product-content support and P12 are not silently removed."
+  ],
+  "pages": [
+    {
+      "slug": "fde-consulting",
+      "language": "zh-CN",
+      "current": {
+        "title": "FDE 企业 AI 落地咨询｜从业务问题到小范围实施 - Eli",
+        "description": "面向中小企业的 FDE 提效减负服务：先免费沟通，再选择 AI 工具、改善流程或进行小范围开发。实施服务低至500元起，具体范围与费用在实施前确认。",
+        "heading": "FDE 企业 AI 落地咨询",
+        "intro": "FDE 帮助中小企业提效减负。先免费沟通，拒绝 AI 焦虑；选工具、改流程，需要时再做软件。实施服务低至500元起，具体费用按需求确认。"
+      },
+      "projects": [
+        "P10",
+        "P09",
+        "P36"
+      ],
+      "deliverables": [
+        "业务流程与改造清单",
+        "工具配置或小范围软件",
+        "操作说明与维护范围"
+      ],
+      "proposed": {
+        "title": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli",
+        "description": "面向中小企业和工作室的 AI 实施服务。先梳理重复录入、资料查找等费时工作，再选择现成工具、调整流程或做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。",
+        "heading": "中小企业 AI 落地实施服务",
+        "intro": "每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。",
+        "consultation": "免费聊一件最费时间的工作"
+      }
+    },
+    {
+      "slug": "fde-consulting",
+      "language": "en",
+      "current": {
+        "title": "FDE Consulting for Business AI Adoption | Eli",
+        "description": "FDE support for small and medium-sized businesses. Free initial conversation, tool setup and workflow improvements. Services from CNY 500, with scope and fees agreed before implementation.",
+        "heading": "FDE consulting for business AI",
+        "intro": "FDE support helps small and medium-sized businesses reduce repetitive work. Start with a free initial conversation, then choose tools, improve workflows or scope software changes. Services start at CNY 500; scope and fees are agreed before implementation."
+      },
+      "projects": [
+        "P10",
+        "P09",
+        "P36"
+      ],
+      "deliverables": [
+        "Workflow and change list",
+        "Tool setup or scoped software",
+        "Operating and maintenance guidance"
+      ],
+      "proposed": {
+        "title": "Small Business AI Implementation & Workflow Support | Eli",
+        "description": "AI implementation support for small businesses and studios. Review repetitive tasks, assess existing tools and scope workflow changes or software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.",
+        "heading": "AI implementation for small businesses",
+        "intro": "Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.",
+        "consultation": "Discuss one time-consuming task for free"
+      }
+    },
+    {
+      "slug": "ai-agent",
+      "language": "zh-CN",
+      "current": {
+        "title": "企业 AI Agent 与知识库应用｜资料检索和辅助答疑 - Eli",
+        "description": "企业想做 AI Agent 或知识库助手？从产品资料检索和重复答疑入手，评估文档质量、引用依据、权限、人工复核及接口条件。查看相关 RAG 客服协作案例，免费初次沟通。",
+        "heading": "企业 AI Agent 与知识库应用",
+        "intro": "帮员工查资料、帮客服找答复。先做能查来源的知识库问答；要让 Agent 改订单、写库存，再单独验证接口、权限和人工确认。"
+      },
+      "projects": [
+        "P36"
+      ],
+      "deliverables": [
+        "可维护的知识库",
+        "带来源的问答试用",
+        "问题清单与人工转接规则"
+      ],
+      "proposed": {
+        "title": "企业知识库搭建与客服辅助答疑服务 - Eli",
+        "description": "产品资料分散、员工找资料费时、客服反复回答同样的问题？Eli 提供企业知识库整理、检索配置与问答试用，核对资料来源、版本和权限，保留人工确认。查看相关协作案例，初次沟通免费。",
+        "heading": "企业知识库搭建与客服辅助答疑",
+        "intro": "产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。",
+        "consultation": "免费聊聊资料查找和答疑问题"
+      }
+    },
+    {
+      "slug": "ai-agent",
+      "language": "en",
+      "current": {
+        "title": "Business AI Agents & Knowledge Assistants | Eli",
+        "description": "Assess AI agents and knowledge assistants for product lookup and recurring support questions. Review document quality, citations, access, human checks and integrations. Free initial consultation.",
+        "heading": "AI agents and knowledge support",
+        "intro": "Help staff find information and support teams answer questions with sources. Agents that change orders or stock need separate checks for tools, access and human approval."
+      },
+      "projects": [
+        "P36"
+      ],
+      "deliverables": [
+        "Maintainable knowledge base",
+        "Source-backed answer pilot",
+        "Question set and human handoff rules"
+      ],
+      "proposed": {
+        "title": "Business Knowledge Base Setup & AI-Assisted Support | Eli",
+        "description": "Help staff find product information and support teams answer recurring questions. Assess document preparation, retrieval and source-backed answers with version, access and human-review checks. Related project experience and a free initial consultation.",
+        "heading": "Knowledge base setup and AI-assisted support",
+        "intro": "Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.",
+        "consultation": "Discuss your knowledge and support needs for free"
+      }
+    },
+    {
+      "slug": "workflow-automation",
+      "language": "zh-CN",
+      "current": {
+        "title": "企业提效与流程自动化｜库存核对、录入和内容整理 - Eli",
+        "description": "企业降本增效从哪些工作开始？Eli 帮你评估重复录入、库存核对、产品内容整理，比较现成工具、规则自动化与 AI 辅助，先试一个场景，用处理时间和返工情况判断效果。",
+        "heading": "企业提效，从一项重复工作开始",
+        "intro": "把重复录入、库存核对或产品内容准备，改成更少搬运、更容易核对的流程。先试一项，再看耗时、正确性和返工情况。"
+      },
+      "projects": [
+        "P10",
+        "P09",
+        "P12"
+      ],
+      "deliverables": [
+        "一项流程的改造方案",
+        "可试用的工具或软件",
+        "核对方法与使用说明"
+      ],
+      "proposed": {
+        "title": "库存核对与重复录入自动化｜中小企业流程提效 - Eli",
+        "description": "订单重复录入、入出库记录分散、月底库存难核对？先梳理规则和单据，评估现成工具或小范围库存软件，核对数量、流水和撤销更正。查看真实项目与验证边界，初次沟通免费。",
+        "heading": "库存核对与重复录入自动化",
+        "intro": "同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。",
+        "consultation": "免费聊聊录入和库存核对问题"
+      }
+    },
+    {
+      "slug": "workflow-automation",
+      "language": "en",
+      "current": {
+        "title": "Business Efficiency & Workflow Automation | Eli",
+        "description": "Review repeated entry, inventory checks and product content preparation with Eli. Compare existing tools, rule-based software and AI assistance. Assess a small pilot using task duration and rework.",
+        "heading": "Automate one business task",
+        "intro": "Reduce repeated entry, stock checks or product content handling. Try one workflow, then check time, correctness and rework."
+      },
+      "projects": [
+        "P10",
+        "P09",
+        "P12"
+      ],
+      "deliverables": [
+        "One workflow change plan",
+        "A usable tool or software pilot",
+        "Checking and operating guidance"
+      ],
+      "proposed": {
+        "title": "Inventory Reconciliation & Data Entry Automation | Eli",
+        "description": "Review duplicate entry, scattered stock records and manual reconciliation. Assess existing tools or scoped inventory software, checking quantities, movement records and corrections. Project evidence, clear limits and a free initial consultation.",
+        "heading": "Inventory reconciliation and data entry automation",
+        "intro": "Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.",
+        "consultation": "Discuss your entry and stock-checking needs for free"
+      }
+    }
+  ]
+}

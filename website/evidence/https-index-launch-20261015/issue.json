@@ -1,0 +1,6 @@
+{
+  "status": "CERTIFICATE_ISSUED",
+  "certificate": "/etc/letsencrypt/live/www.eliai.cn/fullchain.pem",
+  "details": "subject=CN = eliai.cn\nissuer=C = US, O = Let's Encrypt, CN = YE2\nnotBefore=Oct 15 09:40:43 2026 GMT\nnotAfter=Jan 13 09:40:42 2027 GMT\nX509v3 Subject Alternative Name: \n    DNS:eliai.cn, DNS:www.eliai.cn",
+  "key_mode": "0o600"
+}

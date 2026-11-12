@@ -1,0 +1,115 @@
+{
+  "time": "2026-10-16T06:45:22.051347+00:00",
+  "status": "DEPLOYED_AWAITING_PROVIDER_COLLECTION",
+  "revision": "178520c8fe26246e904b",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261016-baidu-native-178520c8",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-baidu-analytics-d64db3ae",
+  "pre_analytics_rollback": "/srv/eli-sites/portfolio/domain-releases/20261016-service-proof-5c339ba5",
+  "package_sha256": "c5409297cbe4aad65a9113fdb0332031fd2d454a4f0dbe656a65f5884d8788d6",
+  "files": 155,
+  "site": {
+    "domain": "eliai.cn",
+    "canonical": "https://www.eliai.cn/",
+    "site_id": 23608698,
+    "tier": "free",
+    "industry": "software/commercial software",
+    "signature_source": "Read directly and rechecked from NormalCodeTextarea in the logged-in official account"
+  },
+  "implemented": [
+    "Baidu PV on canonical paths; release/filter/return queries excluded from custom pageview URL",
+    "Native static-ID consultation conversions configured for all site pages",
+    "Custom consultation and channel event queue, with no contact values or search queries in custom payloads",
+    "Consent before third-party load, refusal, withdrawal and cross-tab preference handling",
+    "Localhost/IP/other hosts and missing-canonical404 do not load Baidu collector"
+  ],
+  "native_goals": [
+    {
+      "id": "eli-consult-entry-1",
+      "name": "咨询入口点击 · 主要位置",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-entry-2",
+      "name": "咨询入口点击 · 补充位置",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-email-1",
+      "name": "邮箱入口点击",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-email-2",
+      "name": "页脚邮箱点击",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-phone-1",
+      "name": "电话入口点击",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-phone-2",
+      "name": "页脚电话点击",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-whatsapp-1",
+      "name": "WhatsApp入口点击",
+      "saved": true
+    },
+    {
+      "id": "eli-consult-wechat-1",
+      "name": "微信二维码点击",
+      "saved": true
+    }
+  ],
+  "platform_limits": {
+    "advanced_event_report": "Free account has no permission; no trial or paid upgrade applied",
+    "trackevent_conversion_creation": "Platform says new trackevent goals unsupported since2022-04-12; used supported static element-ID conversions instead",
+    "native_conversion_report": "Accessible; current visits0, conversion counts--, no real collection established"
+  },
+  "verification": {
+    "unit": "check_analytics.cjs PASS",
+    "build": "90 HTML pages/38 records",
+    "localization": "45 bilingual pairs PASS",
+    "seo": "90 titles/descriptions;88 canonical routes PASS",
+    "public_release": "14 selected paths in first release;10 in final release match SHA256",
+    "candidate": "90 HTML/88 sitemap/155 files; links/anchors/asset fingerprints PASS",
+    "native_ids": "8 configured IDs match static HTML; unique within each of90 pages",
+    "return_search": "Service return, source owner and search reset regressions PASS",
+    "browser": "390 Chinese consent/contact flows;320 English privacy dialog280px and no horizontal overflow; refusal and withdrawal load0 SDK scripts; genuine clicks appear in queue",
+    "live_collection": "NOT PASSED: latest hm.js HTTP200 Content-Length0; no collector request observed; same empty response from local fetch, genuine browser and server read-only request"
+  },
+  "provider_blocker": "SDK empty response. Official signature verified. Cause UNKNOWN; cannot label as merely reporting delay. Do not claim actual PV/source/conversion receipt until valid SDK and collector requests/records exist.",
+  "unchanged": [
+    "All original visual/motion assets",
+    "Unpublished local catalogue/About-line changes",
+    "robots and sitemap indexing settings",
+    "5 search verification files",
+    "DNS/SSL/nginx/IP preview/other server projects"
+  ],
+  "privacy_note": "Only consenting visitors counted; clicks are intent, not actual enquiries or sales. No analytics payloads sent from local preview. No paid resources or external messages.",
+  "evidence_roots": [
+    "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-20261016",
+    "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-native-20261016"
+  ],
+  "artifacts": "Both scoped release packages, candidates, recovery references, public hashes, browser/provider receipts and screenshots retained; no user asset or intermediate deletion. Generated evidence17MiB each, local free39GiB.",
+  "model_effort": "UNKNOWN",
+  "final_provider_probe": {
+    "time": "2026-10-16T06:45:34.573143+00:00",
+    "status": 200,
+    "bytes": 0,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "finish_state": "No login/CAPTCHA action pending; provider collection validation remains incomplete. Free conversion report and website retained as deliverables; test-session consent withdrawn.",
+  "next_step": "Recheck same official signature for nonempty SDK, then genuine pageview/native ID requests and free reports. No paid activation, synthetic conversion or support message authorized.",
+  "verification_followup": {
+    "time": "2026-10-16T07:15:52.212719+00:00",
+    "status": "PARTIALLY_VERIFIED_CONVERSION_REPORT_UNRESOLVED",
+    "receipt": "evidence/baidu-analytics-verification-20261016/receipt.json",
+    "backend": "PV3/UV1/direct source PV3 verified; consultation/native WeChat beacons200; conversion summary-- unresolved",
+    "production_code_changed": false
+  }
+}

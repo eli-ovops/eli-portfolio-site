@@ -1,0 +1,16 @@
+{
+  "before": {
+    "iconWidth": "24px",
+    "order": [
+      "project-p10",
+      "project-p09"
+    ]
+  },
+  "after": {
+    "iconWidth": "22px",
+    "order": [
+      "project-p09",
+      "project-p10"
+    ]
+  }
+}

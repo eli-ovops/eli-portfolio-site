@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "4214c0d6f6cd8e3dd8ce",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261016-cookie-labels-4214c0d6",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-sme-price-4faf1760",
+  "public_hashes_checked": 14,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

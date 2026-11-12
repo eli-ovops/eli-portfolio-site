@@ -1,0 +1,95 @@
+Browser tab: 26, Title: "头条搜索站长平台", URL: "https://zhanzhang.toutiao.com/page/inner/link/info".
+1 AXWebArea 头条搜索站长平台, URL: zhanzhang.toutiao.com/page/inner/link/info
+	2 container
+		3 container
+			4 link zhanzhang.toutiao.com/
+			71 link Description: 首页, Value: zhanzhang.toutiao.com/
+			72 link Description: 网站工具, Value: zhanzhang.toutiao.com/page/inner/site/manage
+			73 link Description: 站长学院, Value: zhanzhang.toutiao.com/page/outer/docs
+			74 link Description: 联系我们, Value: zhanzhang.toutiao.com/page/outer/contact
+			9 container
+				10 image avatar
+				11 text 俊俏旭日IS
+			12 container
+				75 link Description: 站点管理, Value: zhanzhang.toutiao.com/page/inner/site/manage
+				76 image
+				77 text 数据提交
+				78 image
+				79 link Description: 链接提交, Value: zhanzhang.toutiao.com/page/inner/link/info
+				80 link Description: 死链提交, Value: zhanzhang.toutiao.com/page/inner/link/deadlink
+				81 link Description: 自动收录, Value: zhanzhang.toutiao.com/page/inner/link/auto_include
+				82 link Description: 时间因子, Value: zhanzhang.toutiao.com/page/inner/link/time_factor
+				83 link Description: 移动适配, Value: zhanzhang.toutiao.com/page/inner/link/mobile_fit
+				84 image
+				85 text 数据监控
+				86 image
+				87 link Description: 流量与展示量, Value: zhanzhang.toutiao.com/page/inner/data/traffic
+				88 link Description: 索引量, Value: zhanzhang.toutiao.com/page/inner/data/index
+				89 link Description: 抓取频次, Value: zhanzhang.toutiao.com/page/inner/data/frequency
+			28 container
+				29 text 选择站点
+				90 container
+					91 text www.eliai.cn
+					92 image
+				30 text 设置为默认站点 链接提交 使用说明 1.链接提交工具是网站主动向头条搜索提供数据的工具，本工具可加快爬虫抓取速度，无法解决网站内容是否收录问题 2.头条搜索站长平台为站长提供链接提交渠道，您可以提交想被头条搜索收录的链接，头条搜索会按照收录标准进行处理，但无法保证一定能够收录您提交的链接 3.本工具可支持小时级、天级更新，可根据网站数据更新情况进行选择
+				31 container
+					32 text SiteMap提交 URL提交
+				33 text 文件更新周期
+				34 stepper (settable, integer) 24
+				35 container
+					36 text 小时
+					37 image
+				38 text 更新一次 数据链接地址
+				39 text entry area (settable)
+				40 text · 一次最多提交50个链接地址 · Sitemap文件支持xml或txt格式，每个地址文件最多包含50,000个网址且需小于10MB
+				41 link Description: Sitemap提交帮助文档, Value: zhanzhang.toutiao.com/page/outer/docs/26886
+				42 text · 只能添加验证通过后站点的网址 · Sitemap索引文件和Sitemap文件支持不超过300条链接的提交
+				43 button 提交
+				44 text Sitemap更新信息
+				93 container
+					94 table
+						95 row
+							96 cell
+								97 text sitemap地址
+							98 cell
+								99 text 状态
+							100 cell
+								101 text 原因
+							102 cell
+								103 text url数量
+							104 cell
+								105 text 提交时间
+							106 cell
+								107 text 最后抓取时间
+							108 cell
+								109 text 操作
+					110 container
+						111 container https://www.eliai.cn/sitemap.xml
+							112 text https://www.eliai.cn/sitemap.xml
+						113 container 等待
+							114 container
+								115 text 等待
+						116 container -
+							117 text -
+						118 container 0
+							119 text 0
+						120 container 2026-10-17 15:00:40
+							121 text 2026-10-17 15:00:40
+						122 container -
+							123 text -
+						124 container 删除
+							125 button 删除
+								126 text 删除
+					127 content list
+						128 text 1
+					129 text 共 1 条
+				64 text 链接提交量
+				65 container
+					66 text 最近有数
+					67 image
+				68 stepper (settable, integer) 7
+				69 text 天
+				70 button 确定
+				130 text 链接提交量会根据sitemap数据量级返回，每个站点返回数据时间不同，请关注。
+
+The focused UI element is 1 AXWebArea 头条搜索站长平台, URL: zhanzhang.toutiao.com/page/inner/link/info

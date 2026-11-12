@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "public_file_hashes_verified": [
+    "index.html",
+    "about.html",
+    "en/index.html",
+    "services/fde-consulting.html",
+    "en/services/fde-consulting.html",
+    "services/ai-agent.html",
+    "services/workflow-automation.html",
+    "records.html",
+    "cases/p10.html",
+    "assets/site-analytics.css",
+    "assets/site-analytics.js",
+    "assets/wechat-qr.png",
+    "llms.txt",
+    "sitemap.xml",
+    "robots.txt",
+    "BingSiteAuth.xml",
+    "baidu_verify_codeva-UabAhVS0s3.html",
+    "google0fc37373bc2d604d.html",
+    "sogousiteverification.txt",
+    "yandex_56b4e9c66008d8fa.html"
+  ],
+  "indexing": "OPEN_UNCHANGED"
+}

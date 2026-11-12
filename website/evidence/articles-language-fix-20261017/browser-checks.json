@@ -1,0 +1,161 @@
+{
+  "switches": [
+    {
+      "lang": "en",
+      "path": "/en/articles.html",
+      "switchTarget": "../articles.html?pv=917ed1b1c19b47b90ec5",
+      "switchText": "中文",
+      "title": "Practical notes"
+    },
+    {
+      "lang": "zh-CN",
+      "path": "/articles.html",
+      "switchTarget": "en/articles.html?pv=917ed1b1c19b47b90ec5",
+      "switchText": "EN",
+      "title": "实践文章"
+    },
+    {
+      "lang": "en",
+      "path": "/en/articles/inventory-reconciliation.html",
+      "switchTarget": "../../articles/inventory-reconciliation.html?pv=917ed1b1c19b47b90ec5",
+      "switchText": "中文",
+      "title": "Manual inventory checks every day: where should you start?"
+    },
+    {
+      "lang": "zh-CN",
+      "path": "/articles/inventory-reconciliation.html",
+      "switchTarget": "../en/articles/inventory-reconciliation.html?pv=917ed1b1c19b47b90ec5",
+      "switchText": "EN",
+      "title": "库存每天靠人工核对，先改哪一步？"
+    },
+    {
+      "lang": "en",
+      "path": "/en/articles/enterprise-knowledge-base.html",
+      "switchTarget": "../../articles/enterprise-knowledge-base.html?pv=917ed1b1c19b47b90ec5",
+      "switchText": "中文",
+      "title": "Company information is scattered: what should you prepare for a knowledge base?"
+    },
+    {
+      "lang": "zh-CN",
+      "path": "/articles/enterprise-knowledge-base.html",
+      "switchTarget": "../en/articles/enterprise-knowledge-base.html?pv=917ed1b1c19b47b90ec5",
+      "switchText": "EN",
+      "title": "企业资料太散，做知识库答疑前要准备什么？"
+    }
+  ],
+  "mobile": [
+    {
+      "documentWidth": 305,
+      "heading": "实践文章",
+      "languageLabel": "EN",
+      "languageRight": 282,
+      "path": "/articles.html",
+      "visible": true,
+      "width": 320
+    },
+    {
+      "documentWidth": 305,
+      "heading": "Practical notes",
+      "languageLabel": "中文",
+      "languageRight": 282,
+      "path": "/en/articles.html",
+      "visible": true,
+      "width": 320
+    },
+    {
+      "documentWidth": 305,
+      "heading": "库存每天靠人工核对，先改哪一步？",
+      "languageLabel": "EN",
+      "languageRight": 282,
+      "path": "/articles/inventory-reconciliation.html",
+      "visible": true,
+      "width": 320
+    },
+    {
+      "documentWidth": 305,
+      "heading": "Manual inventory checks every day: where should you start?",
+      "languageLabel": "中文",
+      "languageRight": 282,
+      "path": "/en/articles/inventory-reconciliation.html",
+      "visible": true,
+      "width": 320
+    },
+    {
+      "documentWidth": 305,
+      "heading": "企业资料太散，做知识库答疑前要准备什么？",
+      "languageLabel": "EN",
+      "languageRight": 282,
+      "path": "/articles/enterprise-knowledge-base.html",
+      "visible": true,
+      "width": 320
+    },
+    {
+      "documentWidth": 305,
+      "heading": "Company information is scattered: what should you prepare for a knowledge base?",
+      "languageLabel": "中文",
+      "languageRight": 282,
+      "path": "/en/articles/enterprise-knowledge-base.html",
+      "visible": true,
+      "width": 320
+    },
+    {
+      "documentWidth": 375,
+      "heading": "实践文章",
+      "languageLabel": "EN",
+      "languageRight": 352,
+      "path": "/articles.html",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "documentWidth": 375,
+      "heading": "Practical notes",
+      "languageLabel": "中文",
+      "languageRight": 352,
+      "path": "/en/articles.html",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "documentWidth": 375,
+      "heading": "库存每天靠人工核对，先改哪一步？",
+      "languageLabel": "EN",
+      "languageRight": 352,
+      "path": "/articles/inventory-reconciliation.html",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "documentWidth": 375,
+      "heading": "Manual inventory checks every day: where should you start?",
+      "languageLabel": "中文",
+      "languageRight": 352,
+      "path": "/en/articles/inventory-reconciliation.html",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "documentWidth": 375,
+      "heading": "企业资料太散，做知识库答疑前要准备什么？",
+      "languageLabel": "EN",
+      "languageRight": 352,
+      "path": "/articles/enterprise-knowledge-base.html",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "documentWidth": 375,
+      "heading": "Company information is scattered: what should you prepare for a knowledge base?",
+      "languageLabel": "中文",
+      "languageRight": 352,
+      "path": "/en/articles/enterprise-knowledge-base.html",
+      "visible": true,
+      "width": 390
+    }
+  ],
+  "englishCaseBack": {
+    "back": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=917ed1b1c19b47b90ec5#case-records",
+    "label": "← Back to article",
+    "path": "/en/cases/p36.html"
+  }
+}

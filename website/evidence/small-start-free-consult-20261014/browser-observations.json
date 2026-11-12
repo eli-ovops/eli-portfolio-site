@@ -1,0 +1,48 @@
+[
+  {
+    "claim": "30+\n跨行业成功案例",
+    "cta": "免费咨询\n↗",
+    "overflow": false,
+    "page": "/index.html",
+    "robots": "noindex,nofollow",
+    "width": 1332
+  },
+  {
+    "contactTop": 623.015625,
+    "hash": "#contact",
+    "overflow": false,
+    "page": "/about.html"
+  },
+  {
+    "openQuestion": [
+      "03\n一定要开发一套系统吗？\n\n用好一个工具，改善一个步骤，也可以开始。\n\n可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。\n\n英国某净水品牌 RAG 智能客服定制\n↗\n某家具品牌扫码库存系统\n↗\n织境 · AI 内容工作台\n↗"
+    ],
+    "page": "/about.html"
+  },
+  {
+    "claim": "30+\n跨行业成功案例",
+    "overflow": false,
+    "page": "/index.html",
+    "width": 320
+  },
+  {
+    "contactTop": 24.0625,
+    "hash": "#contact",
+    "overflow": false,
+    "page": "/about.html",
+    "width": 320
+  },
+  {
+    "invitation": "Free consultation. Start with one task.",
+    "overflow": false,
+    "page": "/en/about.html",
+    "width": 320
+  },
+  {
+    "claim": "30+\nsuccessful cases across industries",
+    "cta": "Free consultation\n↗",
+    "overflow": false,
+    "page": "/en/index.html",
+    "width": 320
+  }
+]

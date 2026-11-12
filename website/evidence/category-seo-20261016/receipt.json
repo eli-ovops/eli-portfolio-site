@@ -1,0 +1,58 @@
+{
+  "time": "2026-10-16T05:18:55.576719+00:00",
+  "status": "LOCAL_VALIDATED_NOT_DEPLOYED",
+  "revision": "3c10621159cf41dc3542",
+  "goal": "Non-brand buyer searches: FDE consulting, business AI Agent, enterprise efficiency/workflow automation",
+  "changed_sources": {
+    "content/seo.json": "150c1a9f8362b478b83516c08b89f6fa92584213f9c6543ee054aee5b753e0e1",
+    "scripts/pages.py": "9ac61a5e940ae253cde3b260116d77210c7274a1d8f8c9e2dcfb675a17e6c947",
+    "scripts/seo.py": "14fafa5f811bd433151affaa110c4bafe4129d0186a14e48c1e74379a5be7934",
+    "scripts/build.py": "35072fe44eff3b2531ec46c59efc54d49518f6bf68a8e517021de3a2a4d1db2d",
+    "scripts/components.py": "f52281e38fce49bcccb3e5f579300da4b59ef68f21716d046aacefab95517e4a",
+    "scripts/check_seo.py": "b68cb4c2b915dee0240c9e918e6de0bc1038da0f675e3f795521321fc4229035",
+    "scripts/check_localization.py": "3e6be86409240fd248bc9d1042ac7302bb19a910f870990dfc313c7e83003b85",
+    "scripts/check_service_seo.py": "7f77f1d4f59ee750b53d1a0e1400c5c39829b7c0a1d2b92ab35516896ae33f7a",
+    "templates/service.html": "5e6fffa9e7743b2d55730b967a731ff5650020746eb1017a215cad2f0aeec358"
+  },
+  "new_service_urls_pending_release_and_submission": [
+    "https://www.eliai.cn/services/fde-consulting.html",
+    "https://www.eliai.cn/services/ai-agent.html",
+    "https://www.eliai.cn/services/workflow-automation.html",
+    "https://www.eliai.cn/en/services/fde-consulting.html",
+    "https://www.eliai.cn/en/services/ai-agent.html",
+    "https://www.eliai.cn/en/services/workflow-automation.html"
+  ],
+  "verification": {
+    "build": "90 HTML pages / 38 unchanged records",
+    "static_http_links_anchors": "90 PASS",
+    "metadata_canonical_hreflang": "90 pages; 88 indexable PASS",
+    "localized_pairs": 45,
+    "schema_content_consistency": "6 new service pages PASS",
+    "presentation_hashes": "11 existing CSS/JS files unchanged",
+    "browsers": "1280 desktop, 390 Chinese service pages, 320 English Agent viewport; navigation/consultation/back checked; final Agent 390 rechecked after nav-label correction"
+  },
+  "Bing": {
+    "existing_submission": "82 accepted per earlier same-day receipt; current native submitted list still contains today 10:17 entries",
+    "new_submissions": 0,
+    "indexing_or_keyword_rankings": "Not established"
+  },
+  "Baidu": {
+    "current_native_review": "提交成功！我们将在2-5个工作日内完成审核，请耐心等待。",
+    "new_submissions": 0,
+    "crawl": "Earlier same-day native diagnostic 424108167 HTTP200, not evidence of indexing"
+  },
+  "scope_boundaries": [
+    "No server or DNS changes",
+    "No new dependency",
+    "No CSS/JS edits",
+    "No made-up ROI or case evidence",
+    "No search ranking guarantee",
+    "No paid promotion or external publishing"
+  ],
+  "evidence_assets": "All files under this directory are retained verification or scoped recovery evidence; no disposable intermediates.",
+  "publication_followup": {
+    "status": "PUBLISHED",
+    "production_revision": "03985a2ddb6824f06f7f",
+    "receipt": "evidence/deploy-category-seo-20261016/receipt.json"
+  }
+}

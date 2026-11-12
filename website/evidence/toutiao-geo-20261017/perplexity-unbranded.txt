@@ -1,0 +1,214 @@
+tab group 回答模式标签页
+					77 tab (selected, settable, boolean) 答案, Value: 1, ID: radix-_r_59_-trigger-default
+					87 tab (selectable, settable, boolean) 链接, Value: 0, ID: radix-_r_59_-trigger-sources
+					88 tab (selectable, settable, boolean) 图片, Value: 0, ID: radix-_r_59_-trigger-images
+				89 container
+					90 pop up button (collapsed) Description: 会话操作, Secondary Actions: Expand
+					91 pop up button (collapsed) 分享, Secondary Actions: Expand
+						92 text 分享
+				93 container
+					94 container
+						95 text 15:03
+						96 button 编辑查询
+						97 button 复制查询
+						98 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+						99 button (collapsed) 已研究 4秒, Secondary Actions: Expand
+							100 text 已研究
+							101 text 4秒
+							102 image
+						103 container
+							104 text 以下为经官网与公开案例核对后，较适合中国中小企业做“小范围试点”的 3 家候选。它们分别覆盖你提出的两类场景： 重复录入/库存核对 与 企业知识库辅助答疑 。公开页面未发现可靠的标准化报价，因此以下仅列公开的咨询与试用方式；具体费用需向厂商询价。
+						105 heading 候选服务商, Value: 2
+							106 text 候选服务商
+						107 container
+							108 table
+								109 row
+									110 cell
+										111 text 服务商
+									112 cell
+										113 text 适合场景
+									114 cell
+										115 text 公开案例依据
+									116 cell
+										117 text 官网 / 案例链接
+									118 cell
+										119 text 公开收费或咨询方式
+								120 row
+									121 cell
+										122 text 实在智能
+									123 cell
+										124 text RPA/Agent 自动化：跨系统数据采集、重复录入、订单与库存同步、盘点补货、发票核对等
+									125 cell
+										126 text 官网案例称某企业通过 RPA 实现线上商城与数千家门店库存数据自动同步；另一案例称数字员工完成 28 个平台、45 个系统的数据获取与核对；零售电商案例提及库存管理、配送流程优化等 
+										127 container
+											128 text ai-indeed +2
+									129 cell
+										130 text 官网：
+										131 container 实在Agent企业级通用智能体平台
+											132 link Description: https://www.ai-indeed.com/, Value: ai-indeed.com/
+										133 text  ；零售案例：
+										134 container 电商Agent解决方案_AI电商自动化运营 - 实在智能
+											135 link Description: https://www.ai-indeed.com/newSolutions/retailers, Value: ai-indeed.com/newSolutions/retailers
+										136 text  ；客户案例：
+										137 container 能源及制造业_客户案例_实在智能科技有限公司
+											138 link Description: https://www.ai-indeed.com/customerCase/5.html, Value: ai-indeed.com/customerCase/5.html
+									139 cell
+										140 text 全国服务热线 
+										141 text 400-139-9089
+										142 text ；商务/产品咨询邮箱 
+										143 text [REDACTED_EMAIL]
+										144 text ；官网提供在线 Demo、免费试用与预约演示入口 
+										145 container
+											146 text ai-indeed +1
+								147 row
+									148 cell
+										149 text 来也科技
+									150 cell
+										151 text RPA、IDP、对话式 AI 组合：跨系统操作、单据/文档处理、流程自动化，并可与知识问答能力结合
+									152 cell
+										153 text 官网案例称某客户每月办理 60 万余笔复杂业务、稽核 30 万余笔工单；大唐财务案例覆盖跨系统操作、系统巡检，分三期上线 48 个流程，预计每年节省超 230 天人力 
+										154 container
+											155 text laiye +1
+									156 cell
+										157 text 官网：
+										158 link Description: https://laiye.com/, Value: laiye.com/
+										159 text  ；成功案例：
+										160 container 智能自动化-全部成功案例｜来也科技
+											161 link Description: https://laiye.com/success-stories, Value: laiye.com/success-stories
+										162 text  ；产品页：
+										163 container 来也科技智能自动化平台-助力政企实现智能时代的人机协同
+											164 link Description: https://laiye.com/product/ai-agent, Value: laiye.com/product/ai-agent
+									165 cell
+										166 text 官网公开咨询热线 
+										167 text 400-001-8136
+										168 text ；合作邮箱 
+										169 text [REDACTED_EMAIL]
+										170 text ；未发现公开标准价格表 
+										171 container
+											172 text laiye +1
+								173 row
+									174 cell
+										175 text 中关村科金 / 得助智能
+									176 cell
+										177 text 企业知识库、智能客服、内部员工与客户问答助手；适合售后、经销商、客服知识答疑场景
+									178 cell
+										179 text 官网案例称诺亚财富采用大模型知识库管理系统，接入企业微信和 iNoah App，服务内部员工与客户，减少文本客服 70% 以上运营工作量；智能客服产品页称可通过知识库等节省 40%–60% 人力 
+										180 container
+											181 text zkj +1
+									182 cell
+										183 text 官网：
+										184 link Description: https://www.zkj.com/, Value: zkj.com/
+										185 text  ；知识问答/企业知识库：
+										186 container 知识问答_企业知识库 - 中关村科金
+											187 link Description: https://www.zkj.com/llm, Value: zkj.com/llm
+										188 text  ；智能客服：
+										189 container AI智能在线客服系统_全媒体智能客服-中关村科金得助智能
+											190 link Description: https://www.zkj.com/ai-cs, Value: zkj.com/ai-cs
+										191 text  ；联系页：
+										192 container 联系我们-中关村科金得助智能
+											193 link Description: https://www.zkj.com/contact, Value: zkj.com/contact
+									194 cell
+										195 text 客服/售前电话 
+										196 text 400-090-9889
+										197 text ；邮箱 
+										198 text [REDACTED_EMAIL]
+										199 text ；官网提供免费试用及微信扫码咨询入口 
+										200 container
+											201 text zkj +2
+							202 container
+								203 button 复制表格
+								204 button 下载 CSV
+								205 button 展开表格
+						206 heading 如何小范围落地, Value: 2
+							207 text 如何小范围落地
+						208 content list
+							209 container
+								210 AXListMarker • 
+								211 text 先做 1 个流程试点
+								212 text ：例如“ERP/电商后台库存表与门店或仓库表自动比对，异常行生成核对清单”，或“将产品手册、售后政策、常见问题导入知识库，先服务客服和销售”。
+							213 container
+								214 AXListMarker • 
+								215 text 优先选可试用产品
+								216 text ：实在智能与中关村科金均公开提供试用或演示入口；来也科技提供电话与邮箱咨询。建议要求供应商用你方真实但脱敏的数据做 2–4 周试点。
+								217 container
+									218 text ai-indeed +2
+							219 container
+								220 AXListMarker • 
+								221 text 验收指标建议
+								222 text ：重复录入减少的人工时长、库存核对准确率、异常处理时效、知识库首答准确率、人工转接率。
+							223 container
+								224 AXListMarker • 
+								225 text 费用说明
+								226 text ：三家的公开页面均未列出面向中小企业的统一套餐价格；这类项目通常按账号/坐席、机器人数量、流程数量、模型用量、私有化部署及实施服务报价，应以正式询价和 POC 报价为准。
+								227 container
+									228 text ai-indeed +2
+						229 heading 未找到或需谨慎的信息, Value: 2
+							230 text 未找到或需谨慎的信息
+						231 content list
+							232 container
+								233 AXListMarker • 
+								234 text 我未找到上述三家
+								235 text 公开、可验证的中小企业固定报价表
+								236 text ，因此不能给出“多少钱一套”的可靠数字。
+							237 container
+								238 AXListMarker • 
+								239 text 搜索结果中出现的部分“2026 服务商排名”文章来自博客、新闻聚合或自媒体，且部分内容疑似营销稿；本回答未将其作为案例或收费依据。
+								240 container
+									241 text e0734 +2
+							242 container
+								243 AXListMarker • 
+								244 text 若你希望优先控制预算，可让实在智能或来也科技先做
+								245 text 单流程 RPA 试点
+								246 text ；若核心痛点是客服、销售或经销商答疑，则中关村科金的知识库/智能客服方向更对口。
+								247 container
+									248 text ai-indeed +2
+						249 button 复制
+						250 pop up button (collapsed) Description: 分享, Secondary Actions: Expand
+						251 button 有帮助
+						252 button 没有帮助
+						253 button 复刻
+						254 button 38 个来源
+							255 image
+							256 image
+							257 text 38 个来源
+						258 pop up button (collapsed) Description: 更多操作, Secondary Actions: Expand
+						259 container
+							260 button 对比实在智能与九颐数科的RAG知识库与RPA部署方案 — 价格、周期、实施门槛及中小企业落地ROI对照表
+							261 image
+							262 text Computer
+						263 container
+							264 button 构建中小企业AI降本选型矩阵 — 中关村科金、文宝石AI与数商云的服务模式、收费标准及实施案例对比
+							265 image
+							266 text Computer
+						267 button 我想了解实在智能的免费试用怎么申请
+						268 button 对比这三家服务商的私有化部署要求
+						269 button 有没有更适合微型企业的轻量级开源知识库方案
+						270 button 收起面板
+				84 button (collapsed) 来源 38, Secondary Actions: Expand
+					85 text 来源
+					271 text 38
+					86 image
+				272 container
+					273 button 滚动到末尾
+					274 text 使用 Computer 寻找更可靠的中小企业 AI 服务商
+					275 text Computer 可以协助查找并整理服务商官网、案例、公开收费信息和咨询方式。
+					276 button 运行任务
+						277 text 运行任务
+					278 button 关闭
+					279 container
+						280 text 您正处于隐身模式。
+						281 button 退出隐身模式
+							282 text 退出无痕模式
+					283 container
+						284 text entry area (settable) ID: ask-input, Value: 
+
+						285 pop up button (collapsed) Description: 添加文件或工具, Secondary Actions: Expand
+						286 checkbox 搜索, Value: 1, ID: radix-_r_6q_
+						287 checkbox Computer, Value: 0
+						288 pop up button (collapsed) Description: 模型, Secondary Actions: Expand
+							289 text 模型
+						290 button 语音输入
+						291 button (disabled) 提交
+		292 list Typeahead menu
+
+The focused UI element is 284 text entry area (settable) ID: ask-input, Value: 

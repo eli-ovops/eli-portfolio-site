@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "fcafe9ca8a0e904465b2",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261020-home-industries-fcafe9ca",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-home-article-rotator-db2a07f4",
+  "public_hashes_checked": 29,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

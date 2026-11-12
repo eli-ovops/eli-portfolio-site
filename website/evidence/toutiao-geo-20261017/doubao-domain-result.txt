@@ -1,0 +1,353 @@
+container doc_editor
+							189 container
+								190 container
+									229 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出 3 至 5 个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+									230 container
+										231 container
+											232 container
+												233 text 已完成思考，参考 75 篇资料
+											234 text 以下筛选了 4 家面向中国中小企业、可提供小范围 AI 落地实施的独立服务商，均有可访问官网与公开案例，覆盖
+											235 text 重复录入 / 数据核对、库存管理、企业知识库答疑
+											236 text 三大核心场景：
+											237 heading 1. 实在智能（浙江实在智能科技有限公司）, Value: 3
+												238 text 1. 实在智能（浙江实在智能科技有限公司）
+											239 text 官网 ：
+											240 link Description: https://www.ai-indeed.com/, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Fwww.ai-indeed.com%2F&scene=im&aid=497858&lang=zh
+											241 text 核心匹配场景 ：
+											242 content list
+												243 container
+													244 AXListMarker • 
+													245 text 重复录入与数据核对：RPA 数字员工自动完成跨系统数据复制粘贴、单据录入、财务对账等人工重复操作
+												246 container
+													247 AXListMarker • 
+													248 text 库存核对：WMS 与 ERP 系统间库存数据自动同步、差异预警、智能补货建议
+												249 container
+													250 AXListMarker • 
+													251 text 企业知识库：基于大模型的业务知识问答、流程指引
+											252 text 公开案例
+											253 text ：
+											254 content list
+												255 container
+													256 AXListMarker • 
+													257 text 三福百货：线上商城与数千家线下门店库存数据自动同步，无需人工值守
+												258 container
+													259 AXListMarker • 
+													260 text 叮咚买菜：前置仓盘点与补货流程自动化，提升库存周转精准度
+												261 container
+													262 AXListMarker • 
+													263 text 某烟草企业：供应链对账从每日 3 小时缩减至 15 分钟
+											264 text 收费与咨询方式
+											265 text ：
+											266 content list
+												267 container
+													268 AXListMarker • 
+													269 text 采用 SaaS 订阅制，单机器人每月仅需数百元，前期投入比传统 RPA 降低 70% 以上
+												270 container
+													271 AXListMarker • 
+													272 text 提供社区版免费试用（注册赠送 5000 资源点）
+												273 container
+													274 AXListMarker • 
+													275 text 全国咨询热线：400-139-9089；商务邮箱：[REDACTED_EMAIL] 实在智能
+											276 heading 2. 青虹数据（青虹 AI）, Value: 3
+												277 text 2. 青虹数据（青虹 AI）
+											278 text 官网 ：
+											279 link Description: https://www.tsinghong.com/, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Fwww.tsinghong.com%2F&scene=im&aid=497858&lang=zh
+											280 text 核心匹配场景 ：
+											281 content list
+												282 container
+													283 AXListMarker • 
+													284 text 重复录入：订单录入、报表汇总、单据识别等文职类重复工作自动化
+												285 container
+													286 AXListMarker • 
+													287 text 库存与仓储：扫码出入库、库存数据自动归集、批次追溯、物料防错
+												288 container
+													289 AXListMarker • 
+													290 text 企业知识库：沉淀工艺经验、SOP 流程、售后话术，支持岗位级智能问答
+											291 text 公开案例
+											292 text ：
+											293 content list
+												294 container
+													295 AXListMarker • 
+													296 text 常州 80 人汽车零部件企业：构建条码全流程追溯链，物料混用率降至 0，库存准确率提升
+												297 container
+													298 AXListMarker • 
+													299 text 苏州 50 人电子装配厂：AI 智能排产 + 车间协同，排产时间从 4 小时缩至 30 分钟
+												300 container
+													301 AXListMarker • 
+													302 text 无锡 40 人五金注塑厂：扫码管理库存，月度成本核算从 7 天缩至 1 天，库存准确率达 98%
+											303 text 收费与咨询方式
+											304 text ：
+											305 content list
+												306 container
+													307 AXListMarker • 
+													308 text 采用低代码轻量化定制模式，按场景按需收费，适配中小企业预算
+												309 container
+													310 AXListMarker • 
+													311 text 官网可提交咨询需求，联系电话：[REDACTED_PHONE]（公开渠道信息）
+											312 heading 3. 武汉数字领航科技有限公司, Value: 3
+												313 text 3. 武汉数字领航科技有限公司
+											314 text 官网 ：
+											315 link Description: http://www.whszlh.com/, Help: autolink, Value: link.wtturl.cn/?target=http%3A%2F%2Fwww.whszlh.com%2F&scene=im&aid=497858&lang=zh
+											316 text 核心匹配场景 ：
+											317 content list
+												318 container
+													319 AXListMarker • 
+													320 text 重复录入与稽核：RPA 数字员工完成数据批量录入、文档自动审阅、合规稽核
+												321 container
+													322 AXListMarker • 
+													323 text 企业知识库：基于 RAG 技术搭建私有化智能问答平台，支持业务咨询、制度查询
+												324 container
+													325 AXListMarker • 
+													326 text 数据核对：跨系统数据一致性校验、自动生成异常报告
+											327 text 公开案例
+											328 text ：
+											329 content list
+												330 container
+													331 AXListMarker • 
+													332 text 省属港口财务司库：搭建智能问答助手，实现资金数据查询、业务问答与合规咨询
+												333 container
+													334 AXListMarker • 
+													335 text 多省市国企：非银企直联自动化解决方案，解放资金岗位人工录入压力
+												336 container
+													337 AXListMarker • 
+													338 text 合同档案全生命周期管控：文档自动分类、归档与检索，替代人工整理
+											339 text 收费与咨询方式
+											340 text ：
+											341 content list
+												342 container
+													343 AXListMarker • 
+													344 text 定制化项目报价，支持按场景轻量化交付
+												345 container
+													346 AXListMarker • 
+													347 text 联系邮箱：[REDACTED_PHONE]@163.com；电话：[REDACTED_PHONE] 企查查
+											348 heading 4. DeepData 深度数据, Value: 3
+												349 text 4. DeepData 深度数据
+											350 text 官网 ：
+											351 link Description: https://szdeepdata.cn/, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Fszdeepdata.cn%2F&scene=im&aid=497858&lang=zh
+											352 text 核心匹配场景 ：
+											353 content list
+												354 container
+													355 AXListMarker • 
+													356 text 企业知识库（知汇达 KnowledgeKeep）：沉淀制度、SOP、案例经验，支持知识检索与智能问答
+												357 container
+													358 AXListMarker • 
+													359 text 重复数据处理（数易通 DataExchange）：异构系统间数据自动接入、清洗与同步
+												360 container
+													361 AXListMarker • 
+													362 text 库存与业务执行（企智通 AIWorker）：打通 ERP/WMS/MES，自动执行库存核对、单据流转等任务
+											363 text 公开案例
+											364 text ：
+											365 content list
+												366 container
+													367 AXListMarker • 
+													368 text 高端制造行业：无缝打通 ERP、MES、WMS 系统，将专家经验固化为 AI 技能池
+												369 container
+													370 AXListMarker • 
+													371 text 智慧物业与资管：对接缴费、工单系统，实现智能报修与工单自动派单
+												372 container
+													373 AXListMarker • 
+													374 text 跨境电商：多语言客服知识库与智能商机跟进
+											375 text 收费与咨询方式
+											376 text ：
+											377 content list
+												378 container
+													379 AXListMarker • 
+													380 text 采用模块化订阅 + 定制实施相结合的模式，可按单场景起步
+												381 container
+													382 AXListMarker • 
+													383 text 官网可提交商务咨询需求
+											384 text 说明：以上服务商均支持小范围单场景落地（如仅先做库存核对或仅搭建知识库），无需全系统一次性投入，适合中小企业按需求逐步推进。部分服务商未在官网公示统一价目表，具体报价需结合场景复杂度与企业沟通确认。
+										385 button
+											386 image
+										387 button 朗读
+											388 image
+										389 button
+											390 image
+										391 button
+											392 image
+										393 button
+											394 image
+										395 button
+											396 image
+										399 pop up button (collapsed) ID: radix-:modern-js-ric:, Secondary Actions: Expand
+											400 button
+												401 image
+									417 container
+										418 text 请联网核查 
+										419 link Description: eliai.cn, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Feliai.cn&scene=im&aid=497858&lang=zh
+										420 text ：它提供什么企业提效服务，有哪些可访问的案例，免费咨询和实施收费如何说明？请给出实际访问到的官网页面及来源引用；若抓取失败或没有来源，明确说明，不要猜测。
+									421 container
+										422 container
+											423 container
+												424 text 已完成思考，参考 12 篇资料
+												549 text 我需要核查 eliai.cn 网站，明确其企业提效服务、案例、免费咨询及收费情况，并给出官网页面和来源引用。计划先调用搜索工具，搜索 “eliai.cn 企业服务 案例 收费”，确认网站主体及官网内容，可能还需抓取官网内容。
+												550 text 我计划调用搜索工具，以 “eliai.cn 官网 企业服务 案例 收费” 为 query，获取相关网页信息，查找官网及服务介绍。
+												551 container
+													552 text 搜索 1 个关键词，参考 6 篇资料
+												553 text 发现之前搜索未出现 eliai.cn 相关内容，考虑是关键词不精准。我计划先直接搜索 “eliai.cn”，确认网站是否存在及内容，再考虑其他搜索方式。
+												554 container
+													555 text 搜索 1 个关键词，参考 6 篇资料
+												556 text 搜索 “eliai.cn” 未出现相关域名网站，我计划直接用工具访问 https://eliai.cn，查看能否打开并获取内容。
+												557 container
+													558 text 已阅读相关资料
+												559 text 成功访问 eliai.cn 官网后，我计划先整理已获取的首页信息，官网标题为 “FDE 企业 AI 落地咨询 | AI Agent 与流程自动化 - Eli”，域名 eliai.cn。服务内容包括录入核对、资料答疑、内容整理，收费说明为初次沟通免费，实施服务低至 500 元起，案例展示了洁具行业某大型 B 端厂商库存管理系统。之后再查看有无其他页面，或调用工具获取相关页面信息。
+												560 text 我在整理 eliai.cn 官网信息时，发现部分服务案例及收费等信息较简略。计划进一步挖掘，查看有无 “合作”“服务范围” 等链接，或调用工具获取相关页面，以获取更详细收费标准、案例详情等信息，满足用户对官网页面及来源引用等需求。
+												561 text 我确认 eliai.cn 官网信息，官网提供 FDE 企业 AI 落地咨询服务，含录入核对等三类，面向中小企业，从小场景切入。初次沟通免费，实施服务 500 元起。有 6 个代表案例，3 个与用户需求相关。还获取邮箱和电话联系方式。考虑官网有无详细服务说明，尝试搜索 “eliai.cn 服务范围” 或访问常见页面，查看有无关于我们、服务、收费页面，经查看，发现标题和内容链接，判断 “免费聊聊” 可能是联系表单，“看实际案例” 链接至首页案例部分。
+												562 text 用户询问官网企业提效服务等情况，我将整理信息。官网可正常访问，主体为 Eli，面向中小企业，从重复工作场景切入。公开服务分三类，包括录入与库存核对、知识库与智能答疑、内容整理辅助服务，均围绕中小企业降本提效小场景落地。来源为官网首页，引用编号 13 。
+												563 text 针对产品文案、配图重复场景，计划用 AI 辅助整理生成基础内容，关键内容人工审核。官网 “代表项目” 公示 6 个案例，我将分析其中匹配核心需求的案例，包括洁具行业库存管理系统、家具品牌扫码库存系统、英国净水品牌 RAG 智能客服定制，介绍其需求、交付内容、周期及说明，其余案例非核心匹配场景。
+											425 heading 一、官网访问核实结果, Value: 3
+												426 text 一、官网访问核实结果
+											427 text 可正常访问目标官网：
+											428 link Description: https://eliai.cn, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Feliai.cn&scene=im&aid=497858&lang=zh
+											429 text ，网站主体为 Eli（FDE 企业 AI 落地咨询），定位是面向中小企业提供轻量化 AI 落地服务，从重复工作场景切入。 信息来源：
+											430 link Description: eliai.cn, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Feliai.cn&scene=im&aid=497858&lang=zh
+											431 text  官网首页
+											432 heading 二、核心企业提效服务, Value: 3
+												433 text 二、核心企业提效服务
+											434 text 官网公开的服务均围绕中小企业小场景降本提效，分为三类：
+											435 content list
+												436 container
+													437 AXListMarker 1. 
+													438 text 录入与库存核对服务 针对人工录入、入库、盘点反复核对的重复性工作，先梳理业务操作流程，再通过软件 / AI 工具替代批量重复处理环节，减少人工核对的工作量。
+												439 container
+													440 AXListMarker 2. 
+													441 text 知识库与智能答疑服务 针对企业资料分散、同类问题反复咨询的痛点，先整理结构化企业知识库，再配置 AI Agent 或智能答疑助手；回答可追溯原始资料依据，重要问题保留人工确认环节。
+												442 container
+													443 AXListMarker 3. 
+													444 text 内容整理辅助服务 针对产品文案、配图反复重做的场景，用 AI 辅助完成基础内容的整理与生成，关键输出内容由人工审核确认。
+											445 heading 三、公开可访问的案例, Value: 3
+												446 text 三、公开可访问的案例
+											447 text 官网 “代表项目” 板块共公示 6 个已交付案例，其中匹配「重复录入 / 库存核对、企业知识库答疑」核心需求的案例如下：
+											448 content list
+												449 container
+													450 AXListMarker 1. 
+													451 text 洁具行业某大型 B 端厂商库存管理系统（库存核对类）
+													452 content list
+														453 container
+															454 AXListMarker ◦ 
+															455 text 需求：采购、退货、盘点全流程依赖人工统一核对
+														456 container
+															457 AXListMarker ◦ 
+															458 text 交付内容：PC 端 + 手机端库存管理系统
+														459 container
+															460 AXListMarker ◦ 
+															461 text 交付周期：约 2 个月
+														462 container
+															463 AXListMarker ◦ 
+															464 text 说明：暂无公开量化的提效数据
+												465 container
+													466 AXListMarker 2. 
+													467 text 某家具品牌扫码库存系统（录入 / 库存核对类）
+													468 content list
+														469 container
+															470 AXListMarker ◦ 
+															471 text 需求：家具按箱出入库、移库需要人工追踪核对
+														472 container
+															473 AXListMarker ◦ 
+															474 text 交付内容：扫码库存系统，覆盖入库、移库、出库全流程闭环
+														475 container
+															476 AXListMarker ◦ 
+															477 text 说明：已正式交付客户，公开数量记录来自历史虚拟库存测试
+												478 container
+													479 AXListMarker 3. 
+													480 text 英国某净水品牌 RAG 智能客服定制（知识库答疑类）
+													481 content list
+														482 container
+															483 AXListMarker ◦ 
+															484 text 需求：产品资料分散，客服重复答疑耗时长
+														485 container
+															486 AXListMarker ◦ 
+															487 text 交付内容：知识库梳理、检索配置、RAG 智能客服
+														488 container
+															489 AXListMarker ◦ 
+															490 text 交付周期：约 2 个月
+														491 container
+															492 AXListMarker ◦ 
+															493 text 说明：暂无公开回答准确率、人效提升比例等量化数据
+											494 text 其余非核心匹配案例还包括：某律师事务所 OA 系统、深圳某慈善基金会官网与 OA、英国某净水品牌全域营销。
+											495 heading 四、免费咨询与实施收费说明, Value: 3
+												496 text 四、免费咨询与实施收费说明
+											497 content list
+												498 container
+													499 AXListMarker 1. 
+													500 text 免费咨询政策 官网明确标注： 初次沟通免费 。企业无需提前准备技术方案，可直接沟通业务痛点。
+												501 container
+													502 AXListMarker 2. 
+													503 text 实施收费规则
+											504 content list
+												505 container
+													506 AXListMarker • 
+													507 text 起步门槛：实施服务 低至 500 元起
+												508 container
+													509 AXListMarker • 
+													510 text 收费逻辑：先确认服务范围和对应费用，双方达成一致后再启动项目，无前置隐形消费。
+											511 content list
+												512 container
+													513 AXListMarker 3. 
+													514 text 公开咨询联系方式
+											515 content list
+												516 container
+													517 AXListMarker • 
+													518 text 邮箱：[REDACTED_EMAIL]
+												519 container
+													520 AXListMarker • 
+													521 text 电话：[REDACTED_PHONE]
+											522 container
+												523 text 注：以上信息均来自 
+												524 link Description: eliai.cn, Help: autolink, Value: link.wtturl.cn/?target=https%3A%2F%2Feliai.cn&scene=im&aid=497858&lang=zh
+												525 text  官网首页公开内容，未查询到单独的服务详情页、价目表页或案例详情子页面；更细分的收费标准、完整案例数据需通过上述联系方式进一步咨询确认。
+										526 button
+											527 image
+										528 button 朗读
+											529 image
+										530 button
+											531 image
+										532 button
+											533 image
+										534 button
+											535 image
+										536 button
+											537 image
+										538 button
+											539 image
+										540 pop up button (collapsed) ID: radix-:modern-js-rmd:, Secondary Actions: Expand
+											541 button
+												542 image
+										543 text 实在智能的联系方式是什么？
+										544 image
+										545 text 实在智能的服务优势有哪些？
+										546 image
+										547 text 实在智能的客户评价怎么样？
+										548 image
+						202 container
+							203 container
+								204 container
+									205 container
+										206 container
+											207 pop up button
+												208 image
+											209 pop up button (expanded) ID: radix-:modern-js-rcn:, Secondary Actions: Collapse
+											210 button 对话
+												211 text 对话
+												212 image
+											213 container
+												214 pop up button 项目
+													215 image
+													216 text 项目
+													217 image
+												218 button PPT 生成
+												219 button 图像生成
+												220 button 更多技能
+													221 image
+													222 text 更多技能
+													223 image
+										224 button 豆包 专家
+											225 text 豆包 专家
+											226 image
+									227 container 
+
+										416 container
+											564 text 发消息或按住空格说话...
+			113 container Notifications alt+T
+
+The focused UI element is 1 AXWebArea 中国中小企业小范围AI落地服务商查找 - 豆包, URL: doubao.com/chat/38447526764295426

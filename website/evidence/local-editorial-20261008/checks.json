@@ -1,0 +1,21 @@
+{
+  "status": "local preview; awaiting user review",
+  "deployment": "NOT PERFORMED",
+  "home_byte_identical": true,
+  "build_pages": 84,
+  "localization": "PASS; 42 pages each; 38 projects",
+  "links_and_privacy": "PASS",
+  "mobile375": [
+    "zh records after overflow fix",
+    "en records after overflow fix",
+    "about",
+    "p10 case",
+    "en p36 case"
+  ],
+  "case_anchor_current": "PASS",
+  "archive_filter": "5 client projects",
+  "limits": [
+    "No physical phone touch verification",
+    "Reduced-motion guard inspected, not toggled in a physical device test"
+  ]
+}

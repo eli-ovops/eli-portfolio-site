@@ -1,0 +1,172 @@
+- link "logo":
+  - /url: /
+  - img "logo"
+- list:
+  - link "搜索学堂":
+    - /url: /college#/type=1&cate=newcontent
+  - link "搜索服务":
+    - /url: /dashboard/index
+  - listitem: 互动交流
+  - link "资源合作":
+    - /url: /cooperateresource/index
+  - link "用户中心":
+    - /url: /site/index
+- link:
+  - /url: /prompt/index
+- link:
+  - /url: https://passport.baidu.com
+- link "子建大魔王":
+  - /url: https://passport.baidu.com
+- text: "|"
+- link "退出":
+  - /url: /auth/logout?u=https%3A%2F%2Fziyuan.baidu.com%2Findexs%2Findex%3Fsite%3Dhttps%3A%2F%2Fwww.eliai.cn%2F
+- list:
+  - link:
+    - /url: [private-link-redacted]
+  - link:
+    - /url: /feedback/index
+  - link:
+    - /url: "#top"
+- generic: 站点
+- textbox "点击选择站点": https://www.eliai.cn
+- generic: 将该网站设置为默认站点
+- term:
+  - link "站点信息":
+    - /url: /dashboard/index?site=https://www.eliai.cn/
+- definition
+- term:
+  - link "资源提交":
+    - /url: "#"
+- definition:
+  - link "快速抓取":
+    - /url: /fastcrawl/index?site=https://www.eliai.cn/
+  - link "普通收录":
+    - /url: /linksubmit/index?site=https://www.eliai.cn/
+  - link "移动适配":
+    - /url: /mobile/index?site=https://www.eliai.cn/
+  - link "死链提交":
+    - /url: /badlink/index?site=https://www.eliai.cn/
+- term:
+  - link "数据统计":
+    - /url: "#"
+- definition:
+  - link "索引量":
+    - /url: /indexs/index?site=https://www.eliai.cn/
+  - link "流量与关键词":
+    - /url: /keywords/index?site=https://www.eliai.cn/
+  - link "抓取频次":
+    - /url: /pressure/index?site=https://www.eliai.cn/
+  - link "抓取诊断":
+    - /url: /crawltools/index?site=https://www.eliai.cn/
+  - link "抓取异常":
+    - /url: /crawl/index?site=https://www.eliai.cn/
+  - link "Robots":
+    - /url: /robots/index?site=https://www.eliai.cn/
+- term:
+  - link "搜索小工具":
+    - /url: "#"
+- definition:
+  - link "小工具提交":
+    - /url: /aitoolset/index?site=https://www.eliai.cn/
+  - link "我的小工具列表":
+    - /url: /aitoolset/list?site=https://www.eliai.cn/
+  - link "数据看板":
+    - /url: /aitoolset/databoard?site=https://www.eliai.cn/
+- term:
+  - link "权威溯源":
+    - /url: "#"
+- definition:
+  - link "权威提交":
+    - /url: /sourcetrace/index?site=https://www.eliai.cn/
+  - link "我的溯源提交":
+    - /url: /sourcetrace/dashboard?site=https://www.eliai.cn/
+- term:
+  - link "AI流量分析":
+    - /url: /aiflow/index?site=https://www.eliai.cn/
+- definition
+- term:
+  - link "搜索展现":
+    - /url: "#"
+- definition:
+  - link "站点属性":
+    - /url: /property/index?site=https://www.eliai.cn/
+  - link "站点子链":
+    - /url: /sitelink/index?site=https://www.eliai.cn/
+  - link "视频极速服务":
+    - /url: /videomonetize/index?site=https://www.eliai.cn/
+- term:
+  - link "优化与维护":
+    - /url: "#"
+- definition:
+  - link "网站改版":
+    - /url: /rewrite/index?site=https://www.eliai.cn/
+- heading "索引量" [level=1]
+- generic: 使用说明
+- list:
+  - listitem: 1. 索引量指可以被搜索用户搜索到的网站数据库，索引量工具同时支持站点自定义想要关注的目录，查看某一目录规则下的索引量；索引量不等于流量，索引量会有定期数据波动，属于正常现象。
+  - listitem: 2. 百度索引数据最快每天更新一次，最迟一周更新一次，不同站点的更新日期可能不同。
+  - listitem: 3. 您可以查询到近一年中每天的索引量数据，一年前的索引量数据为每月索引量数据。
+  - listitem: 4. 如果已有流量数据查询不到，请隔日再查，最长间隔一周可查询到数据。
+- heading "索引情况 最近30天 自定义日期" [level=2]:
+  - text: 索引情况
+  - list:
+    - listitem: 最近30天
+    - generic: 自定义日期
+- generic: 数据计算中，请耐心等待
+- heading "定制规则 全选 新增规则 删除所选" [level=2]:
+  - text: 定制规则
+  - generic: 全选
+  - generic: 新增规则
+  - generic: 删除所选
+- table:
+  - rowgroup:
+    - row "定制的规则 规则命名 操作&状态":
+      - columnheader
+      - columnheader "定制的规则":
+        - strong: 定制的规则
+      - columnheader "规则命名":
+        - strong: 规则命名
+      - columnheader "操作&状态":
+        - strong: 操作&状态
+- table:
+  - rowgroup:
+    - row "www.eliai.cn/ -- 数据计算中，请耐心等待":
+      - cell
+      - cell "www.eliai.cn/"
+      - cell "--":
+        - generic: "--"
+      - cell "数据计算中，请耐心等待"
+- list:
+  - listitem: 常见问题
+  - link "Q：什么是站点索引量？":
+    - /url: /college/courseinfo?id=267&page=6
+  - link "Q：如何使用索引量工具？":
+    - /url: /college/courseinfo?id=267&page=6
+  - link "Q：索引量发生变化如何追查原因？":
+    - /url: /college/articleinfo?id=1171
+- link "智能小程序":
+  - /url: https://smartprogram.baidu.com/developer/index.html
+- link "投诉平台":
+  - /url: //help.baidu.com/newadd?prod_id=1&category=1
+- link "百度统计":
+  - /url: https://tongji.baidu.com/web/welcome/login
+- link "百度智能云":
+  - /url: https://cloud.baidu.com/
+- link "百度云加速":
+  - /url: https://su.baidu.com/
+- link "百度安全":
+  - /url: http://anquan.baidu.com/
+- link "百度大脑":
+  - /url: https://ai.baidu.com/
+- link "百度保障":
+  - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+- link "百度开发者中心":
+  - /url: https://developer.baidu.com/?hmsr=站长平台&hmpl=&hmcu=&hmkw=&hmci
+- link "联系我们":
+  - /url: //ziyuan.baidu.com/college/articleinfo?id=2114
+- link "微信公众号":
+  - /url: //ziyuan.baidu.com/wiki/3148
+- text: ©2026 Baidu
+- link "使用百度前必读":
+  - /url: https://www.baidu.com/duty/
+- text: 京ICP证030173号

@@ -1,0 +1,30 @@
+{
+  "rows": [
+    {
+      "slug": "ai-inventory-exceptions",
+      "en": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources",
+      "zh": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources"
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "en": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+      "zh": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources"
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "en": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+      "zh": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources"
+    },
+    {
+      "slug": "rag-explained",
+      "en": "https://www.eliai.cn/en/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources",
+      "zh": "https://www.eliai.cn/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources"
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "en": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources",
+      "zh": "https://www.eliai.cn/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources"
+    }
+  ],
+  "note": "Initial automated clicks from deep article anchor did not reliably navigate while the header was partially clipped (language anchor y=-13.4px). Scrolling the normal page to expose the full header enabled all actual switches. Same public revision, no website source change."
+}

@@ -1,0 +1,20 @@
+{
+  "registry": "https://reactbits.dev/r/FlexCarousel-JS-CSS.json",
+  "source_retrieval": "official shadcn add and view commands",
+  "dependencies": [
+    "ogl@^1.0.11"
+  ],
+  "source_files": [
+    {
+      "file": "components/react-bits/components/FlexCarousel.css",
+      "sha256": "12ae281e18501340c3c9230491f0990abb899f6841af02db07a6a6495bc27adb",
+      "exact_registry_source": true
+    },
+    {
+      "file": "components/react-bits/components/FlexCarousel.jsx",
+      "sha256": "6ff85b48ebd647190fb5b0b6543d142a28062090ee8990c2a5a1d59178fc6706",
+      "exact_registry_source": true
+    }
+  ],
+  "note": "shadcn add transformed three whitespace strings in JSX; restored exact registry file after saving CLI output. All shaders and component logic retained unchanged."
+}

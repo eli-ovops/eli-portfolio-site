@@ -1,0 +1,403 @@
+[
+  {
+    "slug": "what-is-llm",
+    "title": [
+      "LLM 是什么？和聊天软件是一回事吗？",
+      "What is an LLM, and is it the chat app?"
+    ],
+    "answer": [
+      "LLM 是大语言模型，聊天软件则把模型、界面和文件工具装在一起。换一个软件可能仍在用同类模型；模型能生成文字，不代表软件已经有联网、记忆或操作文件的能力。",
+      "An LLM is a large language model. A chat app combines a model with an interface and optional tools. Text generation alone does not provide browsing, memory or file access; these depend on the application."
+    ],
+    "steps": [
+      [
+        "找一个正在用的聊天工具，查看模型说明。",
+        "Look up the model description in a chat tool you use."
+      ],
+      [
+        "分别记录模型名称和可用工具。",
+        "Record the model name separately from available tools."
+      ],
+      [
+        "尝试一个文字任务，再检查它是否真的调用了工具。",
+        "Try a text task and check whether any tool was actually used."
+      ]
+    ],
+    "exercise": [
+      "说明你当前能做的文字任务和能调用的外部工具。无法确认的能力请标未知，不要推测产品配置。",
+      "Separate your text abilities from external tools available in this session. Mark uncertain capabilities as unknown."
+    ],
+    "problem": [
+      "若它自称能联网却没有来源或工具记录，用官方文档和实际操作核对。",
+      "If it claims browsing without sources or tool records, verify through documentation and an actual task."
+    ],
+    "check": [
+      "你能分清模型能力、产品功能和这次任务已完成的动作。",
+      "You can distinguish model capability, product features and actions completed in this session."
+    ],
+    "source": [
+      "ibm-llm"
+    ]
+  },
+  {
+    "slug": "how-llm-generates",
+    "title": [
+      "大模型怎么一句一句生成回答？",
+      "How does a language model generate an answer?"
+    ],
+    "answer": [
+      "语言模型根据上下文逐步生成后续的文字单位，而不是从一个固定答案库复制整段结论。这能产生灵活表达，也可能把没有证据的内容接得很顺。流畅不等于事实准确。",
+      "A language model generates successive text units conditioned on context rather than copying a complete fixed answer. This allows flexible wording but can also produce unsupported statements that read naturally. Fluency is not verification."
+    ],
+    "steps": [
+      [
+        "写一句未完成的日常句子，自己想三种结尾。",
+        "Write an unfinished everyday sentence and think of three endings."
+      ],
+      [
+        "让模型给出不同结尾，比较含义。",
+        "Ask for alternatives and compare their meanings."
+      ],
+      [
+        "再给限定信息，观察输出如何改变。",
+        "Add a constraint and observe how the outputs change."
+      ]
+    ],
+    "exercise": [
+      "请给“收到客户的补充说明后，我准备”写三个不同结尾，再在“只整理资料，不发送消息”的约束下重写。",
+      "Give three endings for After receiving the additional notes, I will. Then rewrite under the constraint: organize information only, send nothing."
+    ],
+    "problem": [
+      "不要把这个练习当作看到了模型内部概率；它只是帮助理解生成受上下文影响。",
+      "This exercise does not reveal internal probabilities; it illustrates the influence of context."
+    ],
+    "check": [
+      "你能说明为什么相同开头可以有不同合理回答，以及为什么仍需查证。",
+      "You can explain why one opening admits several responses and why facts still need checking."
+    ],
+    "source": [
+      "google-llm"
+    ]
+  },
+  {
+    "slug": "what-is-token",
+    "title": [
+      "Token 是什么？为什么不是一个字一个 Token？",
+      "What is a token, and is it one character?"
+    ],
+    "answer": [
+      "Token 是模型处理文字的单位，可能对应字、词的一部分或其他片段。语言和分词方式不同，数量也不同，不能把中文字符数直接当成 Token 数或费用。",
+      "A token is a unit used to process text: a character, part of a word or another segment. Counts vary by language and tokenizer. Character counts cannot reliably determine token usage or cost."
+    ],
+    "steps": [
+      [
+        "取一段中文和一段含数字、标点的文本。",
+        "Prepare a Chinese passage and a passage with numbers and punctuation."
+      ],
+      [
+        "在所用产品官方计量工具或用量页查看实际值。",
+        "Check actual counts using the product's official counter or usage report."
+      ],
+      [
+        "记录输入、输出和其他计费项目的差别。",
+        "Distinguish input, output and any other billed categories."
+      ]
+    ],
+    "exercise": [
+      "请解释 Token 和字数的区别，不给固定换算比例；如果没有实际计量工具，不要估算我的账单。",
+      "Explain tokens versus character counts without a fixed conversion. Do not estimate my bill without actual usage data."
+    ],
+    "problem": [
+      "网上的“一个字等于几个 Token”只能粗略参考，预算用实际计量和当前价格。",
+      "Treat online conversion rules as rough illustrations; budget from measured usage and current rates."
+    ],
+    "check": [
+      "能判断一段费用计算缺少哪些输入，而不是只乘一个字符数。",
+      "You can identify missing billing inputs rather than multiplying character count by a guessed rate."
+    ],
+    "source": [
+      "google-llm"
+    ]
+  },
+  {
+    "slug": "context-window",
+    "title": [
+      "上下文窗口是什么？为什么聊久了忘事？",
+      "What is a context window, and why does chat lose details?"
+    ],
+    "answer": [
+      "上下文窗口是模型一次处理信息的容量限制。长对话可能被截断或压缩，早先的细节未必继续可用。产品记忆是另一套功能，不等于保留所有历史原文。",
+      "A context window limits information processed in one request. Long chats may be shortened or summarized, so earlier details may be unavailable. Product memory is separate and does not guarantee retention of every original message."
+    ],
+    "steps": [
+      [
+        "把目标、限制和已确认事实写成一页摘要。",
+        "Write a one-page brief with the goal, constraints and confirmed facts."
+      ],
+      [
+        "新开任务时提供摘要和直接需要的资料。",
+        "Start a new task with the brief and relevant materials."
+      ],
+      [
+        "让它复述关键限制，纠正后再继续。",
+        "Have it restate critical constraints and correct them before continuing."
+      ]
+    ],
+    "exercise": [
+      "先列出这次任务的目标、不做范围、输入资料和验收条件。缺失项问我，不从旧聊天猜。",
+      "List the goal, exclusions, inputs and acceptance criteria for this task. Ask about missing essentials rather than guessing from old chats."
+    ],
+    "problem": [
+      "它忘记限制时不要只说“前面说过”，重新提供明确约束和相关片段。",
+      "When a constraint is lost, provide it and the relevant excerpt again rather than saying we already discussed this."
+    ],
+    "check": [
+      "新对话仍能按同一份简报推进，关键条件不依赖“它应该记得”。",
+      "A fresh conversation can proceed from the brief without relying on assumed memory."
+    ],
+    "source": [
+      "google-llm"
+    ]
+  },
+  {
+    "slug": "training-vs-inference",
+    "title": [
+      "训练和推理有什么区别？聊天是在训练它吗？",
+      "Training versus inference: does chatting train the model?"
+    ],
+    "answer": [
+      "训练会调整模型参数，推理是用已有模型处理当前输入。聊天时给例子通常先影响本次上下文，不意味着立刻改了模型参数。服务是否另用数据改进模型，要看具体数据设置与条款。",
+      "Training changes model parameters; inference uses a model on current input. Examples in a chat usually influence that context, not immediate parameter updates. Later use of your data depends on the service's settings and terms."
+    ],
+    "steps": [
+      [
+        "给模型一条临时格式规则。",
+        "Give the model a temporary formatting rule."
+      ],
+      [
+        "在当前对话测试，再在新对话检查规则是否仍在。",
+        "Test it in the same conversation and then in a new one."
+      ],
+      [
+        "把记忆设置与服务数据使用说明分别记录。",
+        "Record memory settings separately from data-use policies."
+      ]
+    ],
+    "exercise": [
+      "本次练习只用“名称：值”输出。解释这条对话规则与重新训练模型的区别。",
+      "For this exercise, answer only as name: value. Explain how this conversational rule differs from retraining."
+    ],
+    "problem": [
+      "新对话仍记得可能来自产品记忆或项目配置，不能由此证明参数被训练。",
+      "Retention in a new chat may come from memory or project settings; it does not prove training occurred."
+    ],
+    "check": [
+      "你能分清当前上下文、持久化记忆和参数训练三个层次。",
+      "You can separate current context, persistent memory and parameter training."
+    ],
+    "source": [
+      "google-tuning"
+    ]
+  },
+  {
+    "slug": "neural-network-basics",
+    "title": [
+      "神经网络是什么？不学公式怎么理解？",
+      "What is a neural network without the equations?"
+    ],
+    "answer": [
+      "神经网络用多层计算把输入变成输出，训练时调整其中的参数。“像大脑”只是粗浅类比，不能据此认为它有人的理解和责任能力。先理解输入、目标与错误怎样对应。",
+      "A neural network maps inputs to outputs through layers of computation with adjustable parameters. Brain analogies are limited and do not imply human understanding or responsibility. Start with inputs, target outputs and observed errors."
+    ],
+    "steps": [
+      [
+        "设想按商品描述判断“文具或餐具”的任务。",
+        "Imagine classifying product descriptions as stationery or tableware."
+      ],
+      [
+        "写出清晰样例和模棱两可的样例。",
+        "Write both clear and ambiguous examples."
+      ],
+      [
+        "检查新样例的错误，讨论数据覆盖而非只加口号。",
+        "Examine errors on new examples and consider coverage gaps."
+      ]
+    ],
+    "exercise": [
+      "把“钢笔、汤勺、笔形餐具”按类别整理，并指出哪个样例需要人工确认。这是教学练习，不声称训练了模型。",
+      "Classify pen, soup spoon and pen-shaped cutlery, identifying ambiguous cases. Treat this as an exercise, not a model training run."
+    ],
+    "problem": [
+      "例子全对不代表会处理没见过的商品，还要专门设计不同类型的新样例。",
+      "Correct answers on your examples do not establish performance on unfamiliar products."
+    ],
+    "check": [
+      "能说清样例覆盖不足为什么会影响结果，而不是说网络越大必然越准。",
+      "You can explain coverage gaps without assuming larger networks are always more accurate."
+    ],
+    "source": [
+      "neural"
+    ]
+  },
+  {
+    "slug": "embeddings-explained",
+    "title": [
+      "Embedding 是什么？资料为什么能按意思查？",
+      "What are embeddings, and how does semantic search work?"
+    ],
+    "answer": [
+      "Embedding 把内容表示成一组数字，用于比较某种相似性。“库存不够”和“缺货怎么办”字不同，但意思有关。相似不是正确，也不保证检索结果适用于你的具体规则。",
+      "An embedding represents content numerically for similarity comparisons. Low stock and what if an item is unavailable differ in wording but are related. Similarity alone does not prove relevance to a specific business rule."
+    ],
+    "steps": [
+      [
+        "写三个意思接近但用词不同的问题。",
+        "Write three paraphrases of one question."
+      ],
+      [
+        "再写一个共享关键词但含义不同的问题。",
+        "Add one question sharing keywords but having a different meaning."
+      ],
+      [
+        "用这些问题检查知识库检索是否混淆。",
+        "Use them to test whether retrieval confuses the meanings."
+      ]
+    ],
+    "exercise": [
+      "为“库存不足能否下单”写三种日常问法，再写一个含“库存”但问题不同的反例。",
+      "Write three everyday versions of Can I order when stock is insufficient, plus a stock-related counterexample with a different intent."
+    ],
+    "problem": [
+      "检索出同词不同义的资料时，补充业务限定并检查原段落，不直接信排名第一。",
+      "When retrieval matches words but misses intent, add constraints and inspect the passage instead of trusting rank one."
+    ],
+    "check": [
+      "你能设计一个相似问题和一个反例，用来检查检索边界。",
+      "You can create a paraphrase and a counterexample to test retrieval boundaries."
+    ],
+    "source": [
+      "embeddings"
+    ]
+  },
+  {
+    "slug": "rag-explained",
+    "title": [
+      "RAG 是什么？为什么企业知识库常用它？",
+      "What is RAG, and why use it for a knowledge base?"
+    ],
+    "answer": [
+      "RAG 是先检索相关资料，再把找到的内容交给模型回答。它不保证找得到、找得准或答得对。对企业最实用的要求是：回答能回到具体资料，资料里没有时不要编。",
+      "RAG retrieves relevant information before generating an answer from it. Retrieval can fail or return the wrong passage. A useful business requirement is a traceable source and a clear response when the information is absent."
+    ],
+    "steps": [
+      [
+        "写一份只有三条规则的虚构退换货说明。",
+        "Write a fictional returns policy with three rules."
+      ],
+      [
+        "问一个能在资料里找到答案的问题。",
+        "Ask one question answered by the policy."
+      ],
+      [
+        "再问一个资料没写的问题，检查是否承认不知道。",
+        "Ask one unsupported question and check that uncertainty is disclosed."
+      ]
+    ],
+    "exercise": [
+      "仅依据这三条练习规则回答，附规则编号；没有写清的情况回答“需要人工确认”，不补充通用经验。",
+      "Answer using only these three practice rules, citing rule numbers. Say human confirmation is needed when the rules are silent."
+    ],
+    "problem": [
+      "有引用却答错时，同时检查检索段落与回答，不能只换更大的模型。",
+      "If an answer is wrong despite a citation, inspect both retrieval and generation rather than only changing models."
+    ],
+    "check": [
+      "已知题能对应规则，未知题能停下来，才算通过这个入门练习。",
+      "Pass when supported questions cite the right rules and unsupported questions stop short of guessing."
+    ],
+    "source": [
+      "rag"
+    ]
+  },
+  {
+    "slug": "fine-tuning-or-rag",
+    "title": [
+      "微调、知识库和提示词，先用哪个？",
+      "Prompting, RAG or fine-tuning: where should you start?"
+    ],
+    "answer": [
+      "先判断缺的是任务说明、最新资料还是稳定的特定行为。提示词适合说清要求，检索适合引入可更新资料，微调涉及训练及评估。别把上传文件等同于微调。",
+      "First identify whether the gap is instructions, current information or a consistent specialized behavior. Prompts clarify tasks, retrieval supplies updatable material, and fine-tuning involves training and evaluation. Uploading a document is not fine-tuning."
+    ],
+    "steps": [
+      [
+        "把当前问题写成一句可测的失败描述。",
+        "Describe one measurable failure."
+      ],
+      [
+        "先用更清楚的指令和正确资料复试。",
+        "Retry with clearer instructions and appropriate information."
+      ],
+      [
+        "仍不满足再讨论训练数据、成本和评测。",
+        "Only then consider training data, cost and evaluation."
+      ]
+    ],
+    "exercise": [
+      "客户手册经常更新，回答要标来源。请比较提示词、RAG、微调各自解决什么，不给未经评测的“最佳方案”。",
+      "Our manual changes often and answers need sources. Compare what prompts, RAG and fine-tuning address without declaring an untested winner."
+    ],
+    "problem": [
+      "如果目的是更新一条政策，先更新可检索资料；不要一上来重训模型。",
+      "If one policy changed, update the retrievable material before considering retraining."
+    ],
+    "check": [
+      "选择能对应具体失败原因，并有同一组问题用于复测（按同样步骤再检查一次）。",
+      "Your choice addresses a specific failure and can be tested again on the same questions using the same steps."
+    ],
+    "source": [
+      "google-tuning",
+      "rag"
+    ]
+  },
+  {
+    "slug": "model-size-and-cost",
+    "title": [
+      "模型越大越好吗？怎么判断够不够用？",
+      "Is a bigger model always better for your task?"
+    ],
+    "answer": [
+      "模型大小不是唯一标准。对你而言，错误率、等待时间、使用费用和可审核性一起决定是否合适。先用固定任务比较，不按一个排行榜替你做业务决定。",
+      "Size is not the only criterion. Errors, latency, cost and reviewability all matter. Compare models on a fixed task rather than treating a leaderboard as a business decision."
+    ],
+    "steps": [
+      [
+        "准备包含正常、缺资料、边界情况的小测试集。",
+        "Prepare a small set of normal, incomplete and edge-case tasks."
+      ],
+      [
+        "保持提示词和输入一致，记录原始回答。",
+        "Keep inputs and prompts fixed and save raw outputs."
+      ],
+      [
+        "核算人工修正后总成本，而不只看单次价格。",
+        "Compare total cost including human correction, not just request price."
+      ]
+    ],
+    "exercise": [
+      "设计一个模型比较表：正确性、遗漏、等待、人工修改时间、费用。未知数据留空，不编评分。",
+      "Design a comparison table for accuracy, omissions, latency, correction time and cost. Leave unknown values blank."
+    ],
+    "problem": [
+      "不同模型使用不同资料或工具时，不能把差异全部归因于模型本身。",
+      "If tools or source materials differ, do not attribute every difference to the model."
+    ],
+    "check": [
+      "能按真实任务选出够用的方案，并明确尚未验证的场景。",
+      "You can choose a sufficient option for tested tasks and name untested scenarios."
+    ],
+    "source": [
+      "ibm-llm"
+    ]
+  }
+]

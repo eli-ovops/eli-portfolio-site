@@ -1,0 +1,8 @@
+{
+  "build": "84 pages PASS",
+  "localization": "42 zh + 42 en PASS",
+  "links": "PASS",
+  "browser": "about 5 practice rows; P09 project link and technical anchor; 4 flow steps; English mobile no horizontal overflow; reduced motion opacity1 transformnone",
+  "deployment": "not performed",
+  "preview": "127.0.0.1:4178; restored original server; session57100"
+}

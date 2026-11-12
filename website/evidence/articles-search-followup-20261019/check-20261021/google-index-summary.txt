@@ -1,0 +1,120 @@
+- banner:
+  - button "主菜单":
+  - link "Google Search Console":
+    - /url: ./search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+  - search:
+    - textbox [disabled]: 检查“https://www.eliai.cn/”中的任何网址
+    - combobox "检查 https://www.eliai.cn/ 中的任何网址"
+    - button "搜索":
+  - button "帮助":
+    - generic: help_outline
+  - tooltip: 帮助
+  - button "用户设置":
+    - generic: manage_accounts
+  - tooltip: 用户设置
+  - button "未读消息：2 条":
+    - generic: notifications
+  - tooltip: 留言
+  - generic: "2"
+  - button "Google 应用":
+  - button "Google 账号： Eli Chao ([REDACTED_EMAIL])":
+- dialog "navigational drawer":
+  - navigation "主要":
+    - button "搜索资源":
+      - img "网站图标"
+      - combobox "https://www.eliai.cn/"
+      - generic: 
+    - link "概述":
+      - /url: ./search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: home
+      - generic: 概述
+    - link "数据洞见":
+      - /url: ./search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: lightbulb_2
+      - generic: 数据洞见
+    - link "效果":
+      - /url: ./search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: trending_up
+      - generic: 效果
+    - button "网址检查":
+      - generic: search
+      - generic: 网址检查
+    - generic: 编制索引
+    - button "“编制索引”报告部分" [expanded]:
+      - generic: keyboard_arrow_up
+    - link "网页" [active]:
+      - /url: ./search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: file_copy
+      - generic: 网页
+    - link "站点地图":
+      - /url: ./search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: account_tree
+      - generic: 站点地图
+    - link "移除":
+      - /url: ./search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: visibility_off
+      - generic: 移除
+    - generic: 体验
+    - button "“体验”报告部分" [expanded]:
+      - generic: keyboard_arrow_up
+    - link "核心网页指标":
+      - /url: ./search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: speed
+      - generic: 核心网页指标
+    - link "HTTPS":
+      - /url: ./search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: lock
+      - generic: HTTPS
+    - generic: 安全问题和人工处置措施
+    - button "“安全问题和人工处置措施”报告部分":
+      - generic: keyboard_arrow_down
+    - link "“链接”报告":
+      - /url: ./search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: link_2
+      - generic: 链接数量
+    - link "成就":
+      - /url: ./search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: trophy
+      - generic: 成就
+    - link "设置":
+      - /url: ./search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+      - generic: settings
+      - generic: 设置
+    - button "提交反馈":
+      - generic: feedback
+      - generic: 提交反馈
+    - button "Search Console 简介":
+      - generic: info
+      - generic: Search Console 简介
+    - link "隐私权":
+      - /url: https://myaccount.google.com/privacypolicy?hl=zh-CN
+    - link "条款":
+      - /url: https://myaccount.google.com/termsofservice?hl=zh-CN
+- navigation "路径":
+  - heading "网页索引编制" [level=1]
+- main:
+  - generic: 
+  - generic: 正在处理数据，请过 1 天左右再来查看
+  - generic: info_filled
+  - generic: 网页未被编入索引的原因
+  - generic: 未编入索引的网页无法显示在 Google 中
+  - button "过滤表格行":
+    - generic: 
+  - table:
+    - rowgroup:
+      - row "原因 来源 null 验证 趋势 网页":
+        - columnheader "原因":
+          - generic: 原因
+        - columnheader "来源 null":
+          - text: 来源
+          - button "null":
+            - generic: 
+        - columnheader "验证":
+          - generic: 验证
+        - columnheader "趋势":
+          - generic: 趋势
+        - columnheader "网页":
+          - generic: 网页
+  - generic: 
+  - generic: 正在处理数据，请过 1 天左右再来查看
+- generic: 网页索引编制

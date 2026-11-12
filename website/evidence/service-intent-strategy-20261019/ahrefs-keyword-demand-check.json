@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-19 06:57:23 UTC",
+  "request": {
+    "country": "cn",
+    "keywords": "企业提效,AI实施,AI落地,中小企业AI实施,库存核对,库存管理系统,库存对账,企业知识库,企业知识库搭建,知识库搭建服务,FDE咨询,流程自动化",
+    "select": "keyword,volume,intents,serp_last_update",
+    "limit": 12,
+    "output": "json"
+  },
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "McpServerError: { \"error\": \"Insufficient plan\" }"
+      }
+    ],
+    "structuredContent": {
+      "error": "McpServerError: { \"error\": \"Insufficient plan\" }",
+      "error_code": "UNAVAILABLE",
+      "error_data": {
+        "type": "json_rpc_error",
+        "code": -32001,
+        "message": "{ \"error\": \"Insufficient plan\" }",
+        "data": {
+          "x-request-id": "35e3baaf46d07989fb04de8a9ee17d61"
+        }
+      }
+    },
+    "isError": true
+  },
+  "conclusion": "Keyword metrics unavailable due to the connected Ahrefs plan. No search-volume or difficulty conclusion. No account upgrade, payment, repeat request, website change or search submission.",
+  "documentation": "Ahrefs keywords-explorer-overview doc read before request."
+}

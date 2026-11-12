@@ -1,0 +1,19 @@
+{
+  "confirmed_at": "2026-10-19T13:00:40.204561+08:00",
+  "about_status": "USER_CONFIRMED_FINALIZED",
+  "revision": "0e8f1d0f8a593578ab3e",
+  "automation_id": "seo",
+  "status": "ACTIVE",
+  "kind": "heartbeat",
+  "daily_local_time": "10:00 Asia/Shanghai",
+  "target_thread_id": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "existing_automation_updated": true,
+  "duplicate_tasks_created": 0,
+  "latest_Windsor_baseline_preserved": true,
+  "notify_only_meaningful_change": true,
+  "separate_perplexity_followup_unchanged": true,
+  "website_changes": 0,
+  "search_submissions": 0,
+  "readback_verified": true,
+  "future_execution_verified": false
+}

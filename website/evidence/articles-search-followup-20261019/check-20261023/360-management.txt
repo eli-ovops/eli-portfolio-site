@@ -1,0 +1,139 @@
+- link:
+  - /url: /
+- list:
+  - link "首页":
+    - /url: /
+  - link "站长工具":
+    - /url: /sitetool/site_manage
+  - link "站长论坛":
+    - /url: https://bbs.360.cn/forum-7584-1.html
+  - link "站长学院":
+    - /url: /college
+- link "360U2983230721":
+  - /url: /user/info
+- link "退出":
+  - /url: javascript:;
+- term: 我的站点
+- definition:
+  - link "站点管理" [active]:
+    - /url: /sitetool/site_manage
+- term: 数据提交
+- definition:
+  - link "Sitemap提交":
+    - /url: /sitetool/sitemap
+- definition:
+  - link "死链提交":
+    - /url: /sitetool/deadlink_submit
+- definition:
+  - link "抓取诊断":
+    - /url: /sitetool/spider_test
+- term: 移动专区
+- definition:
+  - link "移动适配":
+    - /url: /sitetool/urlmap
+- term: 数据分析
+- definition:
+  - link "流量分析":
+    - /url: /sitetool/flow
+- definition:
+  - link "关键词分析":
+    - /url: /sitetool/query_kws
+- definition:
+  - link "索引量查询":
+    - /url: /sitetool/includenum
+- definition:
+  - link "360趋势":
+    - /url: http://index.so.com/?src=zhanzhang
+- definition:
+  - link "蜘蛛压力":
+    - /url: /sitetool/spider_report
+- term: 搜索展现
+- definition:
+  - link "结构化数据":
+    - /url: /sitetool/struct
+- definition:
+  - link "站内搜索":
+    - /url: http://www.so.com/help/help_3_6.html
+- definition:
+  - link "官网认证":
+    - /url: /sitetool/verify
+- definition:
+  - link "客服电话提交":
+    - /url: /sitetool/service_phone
+- definition:
+  - link "备案信息提交":
+    - /url: /sitetool/icp_submit
+- term: 优化与维护
+- definition:
+  - link "闭站保护":
+    - /url: /sitetool/no_sprotection
+- definition:
+  - link "其它工具":
+    - /url: /sitetool/tools
+- heading "站点管理" [level=3]
+- text: 完成网站身份验证后，您可使用站长平台提供的工具管理您的网站。建议您留下
+- link "联系方式":
+  - /url: /user/info
+- text: ，方便我们解答您使用过程中遇到的问题。
+- img "warning"
+- generic: 请各位站长及时完成备案工作。5月20日后，平台将逐步对未备案网站启动清理程序。
+- link "查看公告全文":
+  - /url: javascript:void(0);
+- generic "关闭": ×
+- button "添加网站"
+- table:
+  - rowgroup:
+    - row "网站名称 备案状态 站点权限 添加时间 操作":
+      - columnheader "网站名称":
+        - generic: 网站名称
+      - columnheader "备案状态":
+        - generic: 备案状态
+      - columnheader "站点权限":
+        - generic: 站点权限
+      - columnheader "添加时间":
+        - generic: 添加时间
+      - columnheader "操作":
+        - generic: 操作
+  - rowgroup:
+    - row "www.eliai.cn 未检测到备案 —— 2026-10-16 09:34:32 请验证 删除":
+      - cell "www.eliai.cn":
+        - generic: www.eliai.cn
+      - cell "未检测到备案":
+        - generic: 未检测到备案
+      - cell "——":
+        - generic: ——
+      - cell "2026-10-16 09:34:32":
+        - generic: 2026-10-16 09:34:32
+      - cell "请验证 删除":
+        - button "请验证" [disabled]
+        - button "删除"
+- generic: 共1条记录
+- text: "* "
+- link "反馈":
+  - /url: /exception_report/include
+  - paragraph: 反馈
+- link "帮助":
+  - /url: http://www.so.com/help/help_3_16.html
+  - paragraph: 帮助
+- list:
+  - listitem: 友情链接：
+  - link "360小程序":
+    - /url: https://mp.360.cn/
+  - link "360分析":
+    - /url: https://fenxi.360.cn/
+  - link "360趋势":
+    - /url: https://trends.so.com/
+  - link "360导航联盟":
+    - /url: http://lianmeng.360.cn/
+  - link "360搜索联盟":
+    - /url: http://ssp.360.cn/
+  - link "联系我们（请登录后查看）":
+    - /url: http://zhanzhang.so.com/exception_report/contact
+- generic: ©2026 so.com
+- link "津公网安备12011602001439号":
+  - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011602001439
+- link "津ICP备20006251号-4":
+  - /url: https://beian.miit.gov.cn
+- link "工商营业执照":
+  - /url: https://www.so.com/help/gongshangyingyezhizhao.html
+- generic: 360会员客服：400-0032-360

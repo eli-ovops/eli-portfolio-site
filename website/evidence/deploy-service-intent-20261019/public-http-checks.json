@@ -1,0 +1,102 @@
+{
+  "checked_utc": "2026-10-19T07:19:03.605068Z",
+  "checks": [
+    {
+      "path": "services/fde-consulting.html",
+      "status": 200,
+      "sha256": "a8577c8a661d164dbc5e34bd8700e87f04aaf7ca1ec1fb7eb4c38c3ea1997fa9",
+      "matches_package": true
+    },
+    {
+      "path": "services/ai-agent.html",
+      "status": 200,
+      "sha256": "04bf48191a1a09fcb963702226e1fbdf1625dceda8dd4cc868fd2e06d960ad31",
+      "matches_package": true
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "status": 200,
+      "sha256": "e83b8dac328bca7499fcd651a8263b9cd9165f196699b865c5afb9cc48b89aa9",
+      "matches_package": true
+    },
+    {
+      "path": "en/services/fde-consulting.html",
+      "status": 200,
+      "sha256": "c079d788f2d172686bf7264549c47b93ec4d5d69a77f4cfc7a99a463d614b626",
+      "matches_package": true
+    },
+    {
+      "path": "en/services/ai-agent.html",
+      "status": 200,
+      "sha256": "61a12ff468c3a123b7e8c306cb1f0609b512d23c2438e0668340c7e0ebc0a5ab",
+      "matches_package": true
+    },
+    {
+      "path": "en/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "ea94a6eeb4cb49db68f471f117d66c4854633dd1c70ea88be817b37f5809c9e2",
+      "matches_package": true
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "ee9492c87c523ab694328e5f963da527c12fb4ce22b86488ef07442dde870b41",
+      "matches_package": true
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256": "55fda036f4885d5e664eb48dd603fbc889ded1992298ca2c262c68d1fc34dd04",
+      "matches_package": true
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256": "dec8425eb41e12d36e4c1a109a819fbebdf55e6dae35f2a991e071edf2e2bc70",
+      "matches_package": true
+    },
+    {
+      "path": "cases/p09.html",
+      "status": 200,
+      "sha256": "d715a4c028be79d49054a405be5c0183cc059792a0f7dd1c6b345a492f7e3752",
+      "matches_package": true
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "sha256": "5c117d532b443d614d69df89604f80bc3e7c979386c5613808d0d90577425714",
+      "matches_package": true
+    },
+    {
+      "path": "cases/p36.html",
+      "status": 200,
+      "sha256": "d8079fd5356460ef66224a3971c4add4133696e6788aef5c7cfc81222c43ede5",
+      "matches_package": true
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "sha256": "dd9d434ed15465995df00d0671dd10a8bdafd9f35fe981bbcb0db46287d2a6bf",
+      "matches_package": true
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "sha256": "53fc9343b45ade736d07b8db168b470bc44ce0128de3c23c4eb8b4bb2bfea7fa",
+      "matches_package": true
+    },
+    {
+      "path": "motion.js",
+      "status": 200,
+      "sha256": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+      "matches_package": true
+    },
+    {
+      "path": "assets/depth-gallery.js",
+      "status": 200,
+      "sha256": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609",
+      "matches_package": true
+    }
+  ],
+  "search_submissions": 0
+}

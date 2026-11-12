@@ -1,0 +1,124 @@
+- banner:
+  - link:
+    - /url: "#content"
+    - text: Skip to main content
+  - button:
+    - generic: 
+  - button:
+  - button:
+    - generic: 
+  - button:
+    - generic: 
+  - button:
+    - generic: 
+  - button:
+    - generic: 
+  - button:
+- button:
+  - generic: 
+  - generic: www.eliai.cn/
+  - generic: 
+- navigation:
+  - tree:
+    - treeitem:
+      - generic: 
+      - text: Home
+    - treeitem:
+      - generic: 
+      - text: Search Performance
+    - treeitem:
+      - generic: 
+      - text: AI Performance
+      - generic: BETA
+    - treeitem:
+      - generic: 
+      - text: URL Inspection
+    - treeitem:
+      - generic: 
+      - text: Site Explorer
+    - treeitem:
+      - generic: 
+      - text: Sitemaps
+    - treeitem:
+      - text: IndexNow
+    - treeitem:
+      - generic: 
+      - text: URL Submission
+    - treeitem:
+      - generic: 
+      - text: Backlinks
+    - treeitem:
+      - generic: 
+      - text: Keyword Research
+    - treeitem:
+      - generic: 
+      - text: Recommendations
+    - treeitem:
+      - generic: 
+      - text: Site Scan
+    - treeitem:
+      - text: Configuration
+      - generic: 
+    - treeitem:
+      - text: Tools & Enhancements
+      - generic: 
+    - treeitem:
+      - text: Security & Privacy
+      - generic: 
+    - treeitem:
+      - generic: 
+      - text: User management
+    - treeitem:
+      - generic: 
+      - text: Microsoft Clarity
+- main:
+  - heading [level=2]: URL Inspection
+  - search:
+    - searchbox: https://www.eliai.cn/en/articles/enterprise-knowledge-base.html
+    - button:
+      - generic: 
+  - button:
+    - generic: Inspect
+  - tablist:
+    - tab [selected]:
+      - generic: Bing Index
+    - tab:
+      - generic: Live URL
+  - generic: Page updated?
+  - button:
+    - generic: Request indexing
+  - heading [level=3]:
+    - button [expanded]:
+      - generic: 
+      - generic: Not discovered
+      - generic: URL cannot appear on Bing
+      - generic: 
+  - generic: 
+  - generic: Discover
+  - generic: The inspected URL is not known to Bing.
+  - generic: Get this URL indexed by clicking on Request indexing button.
+  - button:
+    - generic: Request indexing
+  - list:
+    - generic: "IMPORTANT TIP :"
+    - text: To ensure discovery of URLs, please use following tools
+    - generic: 
+    - text: "Sitemaps :"
+    - text: Regularly update your sitemap and submit it to Bing.
+    - generic: 
+    - text: "Submit URLs :"
+    - text: Inform Bing about newly added, updated and deleted URLs.
+  - generic: 
+  - generic: Crawl
+  - generic: 
+  - generic: Index
+  - generic: 
+  - generic: SEO/GEO processing can be done only on indexed URLs.
+  - generic: 
+  - generic: Markup Processing can be done only on Indexed URLs
+- alertdialog "Getting status from Bing Index":
+  - document:
+    - heading "Getting status from Bing Index" [level=1]
+    - progressbar
+    - button "Cancel" [active]:
+      - generic: Cancel

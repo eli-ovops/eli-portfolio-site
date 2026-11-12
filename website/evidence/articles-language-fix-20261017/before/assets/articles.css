@@ -1,0 +1,54 @@
+/* Reading pages reuse the site's typography, opaque surfaces and motion. */
+.practice-articles { padding-block:48px 32px; border-top:1px solid var(--line); }
+.article-list { display:grid; }
+.article-row { display:grid; grid-template-columns:148px minmax(0,1fr) auto; gap:32px; align-items:start; padding-block:30px; border-top:1px solid var(--line); }
+.article-row-meta { display:flex; flex-direction:column; gap:10px; color:var(--muted); font-size:12px; }
+.article-row-meta>span:first-child { color:var(--accent); }
+.article-row-copy :is(h2,h3) { margin:0 0 10px; font-size:clamp(19px,2vw,26px); line-height:1.45; letter-spacing:-.025em; }
+.article-row-copy :is(h2,h3) a { text-decoration:none; }
+.article-row-copy :is(h2,h3) a:hover { color:var(--accent); }
+.article-row-copy p { margin:0; color:var(--muted); font-size:14px; line-height:1.85; max-width:60ch; }
+.article-row-link { white-space:nowrap; min-height:44px; display:inline-flex; align-items:center; }
+.articles-main { min-height:65vh; padding-top:64px; }
+.articles-main .detail-header { max-width:850px; margin-bottom:48px; }
+.article-main { padding-top:32px; }
+.article-main .article-header { max-width:960px; margin-block:36px 48px; }
+.article-header h1 { max-width:20em; font-size:clamp(30px,3.7vw,54px); line-height:1.3; }
+.article-byline { color:var(--muted); font-size:12px; line-height:1.8; margin:0 0 18px; }
+.article-header .detail-intro { font-size:clamp(16px,1.5vw,19px); line-height:1.9; }
+.article-takeaway { font-size:15px; line-height:1.9; padding-left:20px; border-left:2px solid var(--accent); margin-top:28px; }
+.article-main .detail-grid { grid-template-columns:minmax(180px,230px) minmax(0,760px); justify-content:space-between; gap:clamp(28px,5vw,80px); }
+.article-content { min-width:0; }
+.article-content.article-content p,.article-points { font-size:16px; line-height:2; }
+.article-content.article-content h2 { font-size:clamp(22px,2.1vw,28px); line-height:1.5; }
+.article-content .article-section { padding-block:0 36px; margin-bottom:28px; scroll-margin-top:32px; }
+.article-points { padding-left:1.4em; margin-block:20px; }
+.article-points li { padding-left:5px; margin-block:12px; }
+.article-case-links { display:grid; gap:8px; margin-top:24px; }
+.article-case-links a { min-height:44px; display:flex; align-items:center; }
+.article-content .calculation { padding:24px; background:#1c1d23; border-left:2px solid var(--accent); }
+.article-content .calculation-label { color:var(--accent); font-size:13px; font-weight:600; }
+.article-calculation { margin-block:24px; }
+.article-calculation>div { display:grid; grid-template-columns:1fr 1.15fr; gap:24px; padding-block:16px; border-block-start:1px solid var(--line); }
+.article-calculation dt { color:var(--muted); font-size:14px; line-height:1.8; }
+.article-calculation dd { margin:0; font-size:16px; line-height:1.8; font-variant-numeric:tabular-nums; }
+.article-service { margin-top:20px; }
+.article-next { padding-top:48px; margin-top:48px; border-top:1px solid var(--line); }
+.article-next>h2 { margin:0 0 24px; font-size:22px; }
+.article-row a:focus-visible { outline:2px solid var(--accent); outline-offset:5px; }
+@media(max-width:850px) { .article-main .detail-grid { grid-template-columns:1fr; } .article-main .detail-grid aside { position:static; } .article-main .case-index { display:flex; flex-wrap:wrap; gap:8px 18px; } .article-main .case-index a { max-width:100%; white-space:normal; } }
+@media(max-width:650px) {
+ .site-header:has([data-nav="articles"]) nav a { min-width:40px; padding-inline:8px; }
+ .article-row { grid-template-columns:minmax(0,1fr) auto; gap:14px; padding-block:24px; }
+ .article-row-meta { grid-column:1/-1; flex-direction:row; justify-content:space-between; }
+ .article-row-copy :is(h2,h3) { font-size:20px; }
+ .article-row-copy p { font-size:13px; }
+ .article-row-link { font-size:13px; }
+ .practice-articles { padding-top:36px; }
+ .articles-main { padding-top:32px; }
+ .article-main .article-header { margin-block:26px 34px; }
+ .article-content.article-content p,.article-points { font-size:15px; line-height:1.95; }
+ .article-content .calculation { padding:20px 16px; }
+ .article-calculation>div { grid-template-columns:1fr; gap:5px; }
+ .article-main .case-contact { gap:20px; flex-wrap:wrap; }
+}

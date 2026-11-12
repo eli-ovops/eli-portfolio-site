@@ -1,0 +1,7 @@
+{
+  "url": "https://zhanzhang.sogou.com/index.php/site/index",
+  "login_dialog_visible": true,
+  "requires_user": "Complete existing account login and CAPTCHA in retained tab",
+  "credentials_or_captcha_values_read_saved": false,
+  "report_metrics": "UNKNOWN - login required"
+}

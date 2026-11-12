@@ -1,0 +1,20 @@
+{
+  "content/seo.json": "b5da3ffb5813c85dac422939593e27f97cde06863470278c5d1466c6f85823be",
+  "scripts/build.py": "0bbea936b95ded43473bbac5e04bd3cf91dfa5bbcba8f139a41350f3e7903ecd",
+  "scripts/pages.py": "fdd1dd9a8b5e7c50c85723fd3a65bc6a2d77ba55c3e81b8779279dae0a5e37f4",
+  "scripts/seo.py": "a82cabde9174cd685c04b1c410e139f1251527bba1fccd1f316e4646c9dd2543",
+  "scripts/check_seo.py": "267501d223a647b490472ca290e64d573f79e546fb5d45f0101ec4771656bdc6",
+  "scripts/check_localization.py": "922eab725b03746aeab2f720f6cfad6342bbe1ea21139bce309fb79e6455cfcf",
+  "styles.css": "0ea25f1104c04967e32d282ad807eed9ef395c018d1009db2ab1d527caffe1a9",
+  "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7",
+  "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+  "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+  "assets/editorial.css": "f12fe1b9fe31931878e6b03eeeef762518880cfbcd13030a44d9b74129f61efd",
+  "assets/editorial.js": "e78c26d12a9f0063f96062644863806648726595b38a6df251d199f663be30bc",
+  "assets/bits-ui.css": "e75c2644ce741e39b4e6214c7eebe5a208bdbbf73c883ff713fb17a4c55f4068",
+  "assets/bits-ui.js": "a4f94707670abf0e5d0f085dec4ee895d99e5f2f7ed1905957185e81d250ba5c",
+  "assets/home-ambient.css": "3087e27bb0b8ef5652bc44737516d7c38aea64cafc72f5dae84baef2c60f5247",
+  "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+  "assets/content-layout.css": "2c047e50bcd4478f84119c6d426e0e8234df5902af95e679e01ee3902936e8d5",
+  "scripts/components.py": "0857275d508fbc7763ab1a687eb03010ca170280098d255ca19deaef4e948f4a"
+}

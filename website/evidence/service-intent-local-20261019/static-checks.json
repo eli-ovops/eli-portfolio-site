@@ -1,0 +1,16 @@
+{
+  "changed_html": [
+    "en/services/ai-agent.html",
+    "en/services/fde-consulting.html",
+    "en/services/workflow-automation.html",
+    "services/ai-agent.html",
+    "services/fde-consulting.html",
+    "services/workflow-automation.html"
+  ],
+  "unchanged_other_html": 290,
+  "presentation_files_unchanged": 28,
+  "source_matches_approved_draft": true,
+  "schema_matches_visible_copy": true,
+  "deployment": "NOT DEPLOYED",
+  "search_submissions": 0
+}

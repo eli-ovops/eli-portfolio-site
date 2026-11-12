@@ -1,0 +1,77 @@
+{
+  "marker_events": [
+    {
+      "at": "17/Oct/2026:15:12:18 +0800",
+      "url": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:12:20 +0800",
+      "url": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:12:21 +0800",
+      "url": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+    },
+    {
+      "at": "17/Oct/2026:15:12:21 +0800",
+      "url": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    }
+  ],
+  "recognized_perplexity_ua_events": [
+    {
+      "at": "17/Oct/2026:15:02:37 +0800",
+      "path": "/robots.txt",
+      "status": 200,
+      "official_perplexity_ip": true,
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:02:40 +0800",
+      "path": "/",
+      "status": 200,
+      "official_perplexity_ip": true,
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:02:41 +0800",
+      "path": "/records.html",
+      "status": 200,
+      "official_perplexity_ip": true,
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:02:43 +0800",
+      "path": "/cases/p13.html",
+      "status": 200,
+      "official_perplexity_ip": true,
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:02:52 +0800",
+      "path": "/assets/img13.png",
+      "status": 200,
+      "official_perplexity_ip": true,
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "official_perplexity_ip": false,
+      "ua": "PerplexityBot"
+    }
+  ],
+  "visitor_ips_excluded": true
+}

@@ -1,0 +1,14 @@
+{
+  "status": "FOCUSED_PUBLIC_ACCEPTANCE_PASS",
+  "release": "20261012-194514-return-zoom",
+  "content_revision": "c2eb30e0505c4396515b",
+  "files_verified": 144,
+  "public_text_hashes": 102,
+  "html_noindex": 84,
+  "previous_files_preserved": 143,
+  "browser_checks": 11,
+  "required_search_filter_back_and_zoom": "PASS after loaded/settled state",
+  "indexing": "DISABLED",
+  "visual_motion_sources": "UNCHANGED protected file hashes",
+  "first_entry_boundary": "Existing legacy document needs initial refresh/current-version entry; no browser cache clearing"
+}

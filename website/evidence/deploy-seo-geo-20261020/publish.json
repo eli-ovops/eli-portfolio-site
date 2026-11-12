@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "87919417171750dd1242",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261020-seo-geo-87919417",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261020-home-industries-fcafe9ca",
+  "public_hashes_checked": 40,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

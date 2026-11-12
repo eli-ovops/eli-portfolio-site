@@ -1,0 +1,84 @@
+Browser tab: 29, Title: "eliai.cn", URL: "https://quark.sm.cn/s?q=eliai.cn&safe=1&by=submit&snum=0".
+1 AXWebArea eliai.cn, URL: quark.sm.cn/s?q=eliai.cn&safe=1&by=submit&snum=0
+	2 container
+		3 container content
+			4 container
+				5 text entry area (settable) eliai.cn
+				6 text 搜索
+			7 content list
+				8 container
+					9 text 全部
+					10 image
+				11 text 图片
+				12 text 经验
+				13 text 资讯
+				14 text 文档
+			15 container main
+				16 container page-time-fliter
+					17 text 发布时间：
+					18 content list
+						19 button 不限时间
+							20 text 不限时间
+						21 button 一天内
+							22 text 一天内
+						23 button 一周内
+							24 text 一周内
+						25 button 一月内
+							26 text 一月内
+						27 button 一年内
+							28 text 一年内
+				29 container results
+					32 container
+						33 link Description: 艾莱依时尚股份有限公司官网, Value: eral-fashion.com/news.php?245
+						34 link Description: 艾莱依公司诞生于1997年12月，是一家聚焦于风尚潮流产业的公司，旗下拥有的品牌为消费者们提供更时尚、更舒适、更有品质的生活。目前呈现以艾莱依服装、NICKIE童装、艾莱依家纺、电子商务等多元..., Value: eral-fashion.com/news.php?245
+						35 link eral-fashion.com/news.php?245
+						36 link eral-fashion.com/news.php?245
+						37 link eral-fashion.com/news.php?245
+						38 link Description: 艾莱依时尚股份有限公司 · 2025-06-05, Value: eral-fashion.com/news.php?245
+					39 container
+						40 link Value: ielts.neea.edu.cn/contactUs, Description: 英国文化教育协会雅思考试-中国教育考试网 联系方式 电话：010-82345671 (工作日：8:30-12:00，13:00-16:30...考生可登录 https://ielts.neea.cn 查询《雅思考点入校/入场要求》，如有疑问，可致电考点咨询。Email： [REDACTED_EMAIL]
+						41 link Description: 中国教育考试网, Value: ielts.neea.edu.cn/contactUs
+					42 container
+						43 link Description: 伊利-伊利官网, Value: yili.com/news/719.html
+						44 link Description: 新闻中心 企业动态 2026-08-01 2026年世界奶业大会盛大开幕，伊利以“价值共生、和合与共”擘画全球奶业新局 8月1日，为期两天的2026年世界奶业大会在呼和浩特开幕..., Value: yili.com/news/719.html
+						45 link yili.com/news/719.html
+						46 link yili.com/news/719.html
+						47 link yili.com/news/719.html
+						48 link Description: 伊利官网, Value: yili.com/news/719.html
+					49 container
+						50 link Description: 雅思报名官网网址是什么-百度知道, Value: zhidao.baidu.com/question/1315524169833482459.html
+						51 link Value: zhidao.baidu.com/question/1315524169833482459.html, Description: cn/。授权机构 ：该官网是中国教育部考试中心所授权的雅思报名网站。服务内容 ：为考生提供全面的雅思考试信息和报名服务，包括考试的具体日期、地点、费用、报名流程以及考试须知等信息。 在线操作 ：考生可以在这个官网上进行在...
+						52 link Description: 百度知道 · 2025-03-30, Value: zhidao.baidu.com/question/1315524169833482459.html
+					54 container
+						55 link Description: 怎么登录雅思官网报名-百度知道, Value: zhidao.baidu.com/question/381979849612683284.html
+						56 link Value: zhidao.baidu.com/question/381979849612683284.html, Description: cn/ 进行注册及报名。准备个人信息 ：在注册前，准备好有效身份证件和联系方式。注册时需准确填写个人信息与所需考试信息，确保所有信息与身份证件一致，以防考试无效。选择考试日期与地点 ：根据个人需求与时间...
+						57 link Description: 百度知道 · 2025-05-10, Value: zhidao.baidu.com/question/381979849612683284.html
+					58 container
+						59 link Description: 中国雅思成绩网 中国雅思考试成绩网入口-php中文网, Value: m.php.cn/faq/1709640.html
+						60 link Value: m.php.cn/faq/1709640.html, Description: 中国雅思成绩查询入口为https://ielts.neea.cn/，考生登录后进入用户中心，通过“我的状态”或“考试记录”查看对应考试的成绩详情，可获取听力、阅读、写作、口语分数及总分并下载PDF成绩单。
+						61 link m.php.cn/faq/1709640.html
+						62 link Description: php中文网 · 2025-11-10, Value: m.php.cn/faq/1709640.html
+					63 container
+						64 link Description: 雅思考试网官网入口 雅思考试官方报名入口-编程之家, Value: jb51.cc/faq/4828952.html
+						65 link Value: jb51.cc/faq/4828952.html, Description: 雅思考试官方报名入口是https://ielts.neea.cn，考生需注册获取NEEA用户ID，登录后可查询考位、在线缴费、管理个人信息、打印准考证及查询成绩，网站还提供备考资讯与UKVI考试报名服务。雅思考试网官网入口在哪里？这是不少网...
+						66 link Description: 编程之家 · 2025-11-23, Value: jb51.cc/faq/4828952.html
+					67 container
+						68 link Description: 2025雅思考试官网全攻略：报名、查分与备考资源一文通-高顿教育, Value: gaodun.com/ielts/1622474.html
+						69 link Description: cn | 全球： ielts.org ）是​​唯一权威信息渠道​​，提供：✅​​考试报名​​（A类/G类/UKVI）..., Value: gaodun.com/ielts/1622474.html
+						70 link gaodun.com/ielts/1622474.html
+						71 link Description: 高顿教育 · 2025-08-19, Value: gaodun.com/ielts/1622474.html
+					72 container
+						73 link Value: wh.xhd.cn/info/cjzx/1047397.html, Description: 雅思报名官网入口-新航道武汉学校 cn/（用于英国签证及移民）中文官方信息站：https://www.chinaielts.org/（考试介绍、政策、常见问题）全球官网：https://www.ielts.neea.cn/ （通用学术 / 培训类）UKV...
+						74 link Description: 新航道武汉学校 2026-02-09, Value: wh.xhd.cn/info/cjzx/1047397.html
+					75 container
+						76 link Description: 中国雅思考试网官网 中国雅思报名系统入口-php中文网, Value: …
+						77 link Description: 中国雅思考试官网入口是https://ielts.neea.cn，考生可在此注册账号、查询考位、报名缴费及打印准考证。该网站由教育部考试中心主办，覆盖全国40多个城市考点，提供纸笔和机考两种模式，, Value: …
+						78 link …
+						79 link Description: php中文网 · 2025-12-06, Value: …
+				80 link Description: 滑动加载更多 icon/通用/箭头类/弱箭头/f-angle-down@1x, Value: …, ID: pager
+		81 image
+		82 image
+		83 image
+		84 image
+
+The focused UI element is 1 AXWebArea eliai.cn, URL: quark.sm.cn/s?q=eliai.cn&safe=1&by=submit&snum=0

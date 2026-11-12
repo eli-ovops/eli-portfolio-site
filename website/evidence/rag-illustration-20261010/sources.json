@@ -1,0 +1,36 @@
+{
+  "basis": "Historical material inspected; no original Q&A found in searched scope. User confirms no original records. Two illustrations authored now, not customer evidence.",
+  "sources": [
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/项目资料/P36_英国 OtherWater 独立站 RAG 智能客服.md",
+      "sha256": "58678417da1715449ee84cad7faa75f2c017a7251ebe1b5408e99b8158ed2ca5"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/docs/asset-register.json",
+      "sha256": "ae49f274da7a1d81d5c67aa228782b6042bf6676692c7b12f5a53c0e961f21fa"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/rag-refresh/notes.md",
+      "sha256": "5a45d19f8a27cffcc5f6093286cc4cea09ae360e29a8c62361ecb45d6c9244ed"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/rag-clean-edge/notes.md",
+      "sha256": "db10160c4047f920f1c25b15d391afc1182b9f3a3632af857caf934eb0c43398"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/全局网页相关项目扫描报告.md",
+      "sha256": "213d77de9ceba9c74742e730f722a99dc4c87336fae73f6b682eb75c2c95de3a"
+    }
+  ],
+  "search_scope": [
+    "website materials and evidence",
+    "20261005 portfolio and website material packages",
+    "FDE project/experience indexes",
+    "archive manifest and read-only matching text"
+  ],
+  "not_accessed": [
+    "live customer chatbot",
+    "customer engineering/backend/knowledge platform"
+  ],
+  "role_basis": "Oct6 current user confirmation supersedes Oct5 missing-role draft; no added delivery proof"
+}

@@ -1,0 +1,110 @@
+{
+  "scope": "Current access.log only;2026-10-17;shared log host attribution unknown;UA claims only, not verified bot identity",
+  "lines_scanned": 11440,
+  "today_parsed": 11408,
+  "generated_at": "2026-10-17T17:39:34.860805+08:00",
+  "bots": {
+    "Googlebot": {
+      "total": 34,
+      "articles": 0,
+      "sitemap": 1,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "bingbot": {
+      "total": 27,
+      "articles": 0,
+      "sitemap": 0,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "Baiduspider": {
+      "total": 0,
+      "articles": 0,
+      "sitemap": 0,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "OAI-SearchBot": {
+      "total": 4,
+      "articles": 0,
+      "sitemap": 0,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "ChatGPT-User": {
+      "total": 14,
+      "articles": 3,
+      "sitemap": 0,
+      "article_paths": {
+        "/articles/enterprise-knowledge-base.html": 1,
+        "/articles/what-is-agent.html": 1,
+        "/articles/inventory-reconciliation.html": 1
+      },
+      "article_statuses": {
+        "200": 3
+      },
+      "first_article": "17/Oct/2026:17:38:12 +0800",
+      "last_article": "17/Oct/2026:17:38:14 +0800"
+    },
+    "PerplexityBot": {
+      "total": 6,
+      "articles": 0,
+      "sitemap": 0,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "Perplexity-User": {
+      "total": 0,
+      "articles": 0,
+      "sitemap": 0,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "Bytespider": {
+      "total": 5,
+      "articles": 0,
+      "sitemap": 1,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "YisouSpider": {
+      "total": 0,
+      "articles": 0,
+      "sitemap": 0,
+      "article_paths": {},
+      "article_statuses": {},
+      "first_article": null,
+      "last_article": null
+    },
+    "Sogou": {
+      "total": 43,
+      "articles": 3,
+      "sitemap": 0,
+      "article_paths": {
+        "/articles/enterprise-knowledge-base.html": 1,
+        "/articles/inventory-reconciliation.html": 1,
+        "/articles/what-is-agent.html": 1
+      },
+      "article_statuses": {
+        "200": 3
+      },
+      "first_article": "17/Oct/2026:17:38:58 +0800",
+      "last_article": "17/Oct/2026:17:38:59 +0800"
+    }
+  }
+}

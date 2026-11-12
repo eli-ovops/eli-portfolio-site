@@ -1,0 +1,141 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: /en/
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en/
+    - link "Projects":
+      - /url: records.html
+    - link "Articles":
+      - /url: articles.html
+    - link "About":
+      - /url: about.html
+    - link "Switch to Chinese":
+      - /url: ../about.html
+      - text: 中文
+- main:
+  - paragraph: FDE · Forward deployed engineer
+  - heading "About me" [level=1]:
+    - generic: About me
+  - paragraph: Help businesses put AI to work day to day.
+  - link "Let’s talk":
+    - /url: "#contact"
+    - text: Let’s talk
+    - generic: ↗
+  - paragraph: Hi, I'm Eli, an independent developer from China.
+  - paragraph: I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.
+  - paragraph: You don't need to understand AI or have a complete plan. We can start with one task that takes up too much of your time. The initial consultation is free; if you decide to move forward with implementation, we'll agree on the scope and fees before work begins.
+  - figure "Build software when needed. Reveal the image":
+    - img "Robot visual illustration"
+    - generic: Start with one small change
+    - generic: Build software when needed.
+    - button "Reveal the image": Reveal the image ↗
+  - paragraph: Not sure where to start? Let’s talk.
+  - paragraph: WeChat, phone or email all work. Just describe the situation in your own words.
+  - paragraph: A way to start
+  - paragraph: Hi, I work in ___. The task taking the most time is ___. Could we look at a simple way to improve it?
+  - figure "On your phone, press and hold to recognize the code, or open and save the image, then select it from your album in WeChat Scan.":
+    - heading "WeChat" [level=3]
+    - link "Enlarge WeChat QR code":
+      - /url: ../assets/wechat-qr.png
+      - img "Eli’s WeChat QR code"
+    - generic: On your phone, press and hold to recognize the code, or open and save the image, then select it from your album in WeChat Scan.
+  - paragraph: Email
+  - link "[REDACTED_EMAIL] ↗":
+    - /url: mailto:[REDACTED_EMAIL]
+  - paragraph: Phone
+  - link "[REDACTED_PHONE] ↗":
+    - /url: tel:[REDACTED_PHONE]
+  - paragraph: WhatsApp
+  - link "[REDACTED_PHONE] ↗":
+    - /url: https://wa.me/[REDACTED_PHONE]
+  - region "How we work together":
+    - heading "How we work together" [level=2]
+    - list:
+      - generic: "01"
+      - heading "Find the problem" [level=4]
+      - paragraph: Find the task that takes the most time.
+      - generic "See the approach":
+        - text: See the approach
+        - generic: +
+      - generic: "02"
+      - heading "Try a small change" [level=4]
+      - paragraph: Try one tool or one workflow.
+      - generic "See the approach":
+        - text: See the approach
+        - generic: +
+      - generic: "03"
+      - heading "Put it into practice" [level=4]
+      - paragraph: Follow usage feedback after handover.
+      - generic "See the approach":
+        - text: See the approach
+        - generic: +
+  - region "Working together":
+    - heading "Working together" [level=2]
+    - generic "Want AI, but unsure where to start?":
+      - generic: "01"
+      - generic: Want AI, but unsure where to start?
+      - generic: +
+    - generic "How do we proceed and estimate cost?":
+      - generic: "02"
+      - generic: How do we proceed and estimate cost?
+      - generic: +
+    - generic "Do we need to build a whole system?":
+      - generic: "03"
+      - generic: Do we need to build a whole system?
+      - generic: +
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: /en/
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/

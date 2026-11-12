@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "routes": [
+    "services/fde-consulting.html",
+    "services/ai-agent.html",
+    "services/workflow-automation.html",
+    "en/services/fde-consulting.html",
+    "en/services/ai-agent.html",
+    "en/services/workflow-automation.html"
+  ],
+  "checks": "Service/FAQ schema matches visible copy, case and consultation links, all three bilingual service routes",
+  "legacy_full_script": "Not applicable as full batch gate: old category-seo snapshots predate accepted V1 editorial styles; scoped semantic section passes, historical visual checks not rerun as current baseline."
+}

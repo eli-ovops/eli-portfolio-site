@@ -1,0 +1,40 @@
+{
+  "prompt_omits_brand_and_domain": true,
+  "queries_per_platform": 1,
+  "intents_per_query": 3,
+  "ChatGPT": {
+    "url": "https://chatgpt.com/c/6ad56df5-4aa4-83ec-86af-ded96b271d38?temporary-chat=true",
+    "complete": true,
+    "links": [
+      {
+        "href": "https://www.510097.cn/knowledge/shenme-shi-kucun-pandian/index.html?utm_source=chatgpt.com",
+        "text": "点击阅读原文"
+      },
+      {
+        "href": "https://www.53ai.com/news/zhishiguanli/2026061107481.html?utm_source=chatgpt.com",
+        "text": "点击阅读原文"
+      },
+      {
+        "href": "https://www.shchengxuyuan.com/zh/blog/what-is-ai-agent?utm_source=chatgpt.com",
+        "text": "点击阅读原文"
+      }
+    ]
+  },
+  "Doubao": {
+    "url": "https://www.doubao.com/chat/38447785735315714",
+    "links": [
+      {
+        "href": "https://link.wtturl.cn/?target=https%3A%2F%2Fwww.zdsztech.com%2Fblog%2Fsmall-business-barcode-management-solutions%2F&scene=im&aid=497858&lang=zh",
+        "text": "https://www.zdsztech.com/blog/small-business-barcode-management-solutions/"
+      },
+      {
+        "href": "https://link.wtturl.cn/?target=https%3A%2F%2Fwww.udesk.cn%2Fucm%2Ffaq%2F67573%2F&scene=im&aid=497858&lang=zh",
+        "text": "https://www.udesk.cn/ucm/faq/67573/"
+      },
+      {
+        "href": "https://link.wtturl.cn/?target=https%3A%2F%2Fcloud.tencent.com.cn%2Fdeveloper%2Farticle%2F2752412&scene=im&aid=497858&lang=zh",
+        "text": "https://cloud.tencent.com.cn/developer/article/2752412"
+      }
+    ]
+  }
+}

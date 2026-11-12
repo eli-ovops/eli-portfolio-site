@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-10-22T10:37:01.737602+00:00",
+  "returncode": 0,
+  "stdout": "{\n  \"scope\": \"Last at most 1 MiB of Nginx error.log, filtered to portfolio /cases/ directory-index errors; no visitor IPs or full log lines returned\",\n  \"matching_errors\": [\n    {\n      \"timestamp\": \"2026/10/22 11:08:52\",\n      \"reason\": \"directory index is forbidden\",\n      \"public_path\": \"/cases/\"\n    },\n    {\n      \"timestamp\": \"2026/10/22 18:25:21\",\n      \"reason\": \"directory index is forbidden\",\n      \"public_path\": \"/cases/\"\n    }\n  ]\n}\n",
+  "stderr": "TCP transport: physical interface en1\n",
+  "server_changes": 0
+}

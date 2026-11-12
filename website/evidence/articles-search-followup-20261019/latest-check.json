@@ -1,0 +1,114 @@
+{
+  "checked_date": "2026-10-25",
+  "checked_at": "2026-10-25T02:02:40.813124+00:00",
+  "receipt": "check-20261025/receipt.json",
+  "report": "check-20261025/report.md",
+  "decision": "DONT_NOTIFY_NO_NEW_CONFIRMED_TARGET_SERVICE_OR_INDEX_PROGRESS",
+  "natural_attribution": "UNKNOWN",
+  "website_revision_baseline": "ee333e5fb82b7096a06c",
+  "website_revision_live_rechecked": false,
+  "website_changes": 0,
+  "search_submissions": 0,
+  "platform_index_recheck_reference": "check-20261025/receipt.json",
+  "platform_index_recheck_checked_at": "2026-10-25T02:02:40.813124+00:00",
+  "bing_url_checks_today": 1,
+  "bing_last_sample": "/services/fde-consulting.html",
+  "bing_knowledge_failure_historical_reference": "../platform-recheck-20261021/receipt.json",
+  "previous_check_reference": "check-20261024/receipt.json",
+  "active_model_queries_today": 0,
+  "last_unbranded_model_test": "2026-10-19",
+  "native_google_index_alert_reference": "../google-index-alert-20261022/receipt.json",
+  "native_google_index_alert_checked_at": "2026-10-22T10:34:36.308864+00:00",
+  "google_url_checks_today": 0,
+  "google_three_chinese_services_current": "historical2026-10-22 indexed; no URL reinspectionOct25",
+  "cases_redirect_deploy_reference": "../deploy-cases-redirect-20261022/receipt.json",
+  "cases_directory_public_status": "HTTP301 to /records.html verified 2026-10-22; Google old403 report removal not yet confirmed",
+  "remaining_bare_directory_403": [],
+  "directory_redirects_deploy_reference": "../deploy-directory-redirects-20261022/receipt.json",
+  "directory_redirects_public_status": "Five additional exact directory routes verified301 to corresponding bilingual columns; prior cases route verified unchanged",
+  "directory_protection_note": "assets/ remains403 by design; autoindex off unchanged",
+  "canonical_home_link_deploy_reference": "../deploy-canonical-home-links-20261022/receipt.json",
+  "current_production_revision": "ee333e5fb82b7096a06c",
+  "deployment_qa_attribution": "2026-10-22 canonical home link deployment and browser checks are own QA; not organic search/clicks/enquiries",
+  "onboarding_gap_reference": "../search-onboarding-gap-check-20261022/receipt.json",
+  "onboarding_gap_scope": "Native ownership/property/sitemap/support-route review, not another performance or full index run",
+  "official_support_followup_reference": "../search-onboarding-gap-check-20261022/support-followup-receipt.json",
+  "sogou_login_handoff": {
+    "resolved": true,
+    "tab_id": "26",
+    "status": "RECOVERED_VERIFIED: current native site root verified, senior administrator; index report no data, UNKNOWN",
+    "reference": "../search-onboarding-gap-check-20261022/sogou-goal-status-20261023.json"
+  },
+  "baidu_targeted_followup_reference": "../search-onboarding-gap-check-20261022/baidu-targeted-next-step-20261023.json",
+  "baidu_support_draft_status": "ACCEPTED_NATIVE_SUCCESS; submit once; native processing estimate1-3days; no repeat",
+  "platform_targeted_goal_reference": "../search-onboarding-gap-check-20261022/platform-resolution-goal-20261023.json",
+  "platform_targeted_goal_checked_at": "2026-10-23T06:18:30.687Z",
+  "baidu_support_receipt": "../search-onboarding-gap-check-20261022/baidu-support-submission.json",
+  "so360_support_receipt": "../search-onboarding-gap-check-20261022/360-independent-support-submission.json",
+  "bing_targeted_followup_reference": "../search-onboarding-gap-check-20261022/bing-goal-status-20261023.json",
+  "requires_user_action": false,
+  "followup_source_note": "Oct25 concentrated native andWindsor check supersedes Oct24 performance snapshot; homepage index andofficial reply remain previously notified history",
+  "confirmed_indexed_platforms": [
+    "Google",
+    "Bing"
+  ],
+  "bing_first_confirmed_homepage_index": {
+    "checked_at": "2026-10-24T02:16:05.821910+00:00",
+    "urls": [
+      "https://eliai.cn",
+      "https://www.eliai.cn/"
+    ],
+    "evidence": "check-20261024/bing-www-root-index.txt",
+    "limitation": "homepage only, not articles/services total"
+  },
+  "bing_support_reply_reference": "../search-onboarding-gap-check-20261022/bing-support-reply-20261024.json",
+  "bing_support_ticket_id": "REQ00369079",
+  "notified_fingerprints": [
+    "bing-home-index-confirmed-20261024",
+    "bing-support-REQ00369079-reply-1a163c9d4f169874"
+  ],
+  "current_service_page_provisional_impressions": {
+    "dates": [
+      "2026-10-22",
+      "2026-10-23"
+    ],
+    "page_impressions": 10,
+    "clicks": 0,
+    "query": "UNKNOWN",
+    "natural_attribution": "UNKNOWN",
+    "not_service_acquisition_progress": true
+  },
+  "unattributed_article_click": {
+    "observed_on": "2026-10-25",
+    "date": "2026-10-24",
+    "page": "/en/articles/github-public-private.html",
+    "clicks": 1,
+    "impressions": 2,
+    "position": 9,
+    "state": "provisional",
+    "query": "UNDISCLOSED",
+    "natural_attribution": "UNKNOWN",
+    "is_target_service_progress": false,
+    "notification": "suppressed-not confirmed target natural demand"
+  },
+  "current_native_service_performance": {
+    "selected": "7days",
+    "actual_window": [
+      "2026-10-16",
+      "2026-10-22"
+    ],
+    "updated_label": "3.5小时前",
+    "impressions": 1,
+    "clicks": 0,
+    "average_position": 36,
+    "landing_page": "https://www.eliai.cn/services/workflow-automation.html",
+    "query": "UNDISCLOSED; table no data, not0",
+    "interpretation": "same22Oct workflow impression previously seen provisional, now native finalized; not a new confirmed natural service query"
+  },
+  "latest_partial_performance_check": {
+    "checked_date": "2026-11-11",
+    "receipt": "check-20261111/receipt.json",
+    "scope": "Windsor Search Console only; native platform checks not completed",
+    "concentrated_check_reference": "check-20261025/receipt.json"
+  }
+}

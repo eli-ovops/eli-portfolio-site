@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T05:51:55.834Z",
+  "scope": "Read-only Nami reader diagnosis; no repeat service-page prompt; one new external static-page control",
+  "root_cause": "UNKNOWN",
+  "supported_inference": "Current session webpage-reading failure affects both eliai.cn service page and example.com; site-specific blocking is not established.",
+  "official_support": {
+    "url": "https://www.n.cn/agreements/privacy",
+    "section": "一、（一）6. 解决您反馈的问题",
+    "supported_channel": "Product user feedback; signed-in User Center",
+    "documented_site_specific_technical_remedy_found": false,
+    "feedback_sent": false
+  },
+  "origin": {
+    "target": "https://www.eliai.cn/services/fde-consulting.html",
+    "http_status": 200,
+    "static_body": true,
+    "robots": "User-agent: *; Allow: /",
+    "tls_certificate_verified": true,
+    "public_dns_a": "[REDACTED_HOST]",
+    "public_dns_aaaa": [],
+    "target_4xx_5xx_in_test_window": 0,
+    "confirmed_nami_requests": "UNKNOWN",
+    "limitations": [
+      "Access logs omit hostname and Range headers",
+      "No authoritative Nami reader IP/UA specification found",
+      "One global TLS handshake error is unattributed; cannot rule out every network path failure",
+      "Local resolver fake-IP output is not public DNS"
+    ]
+  },
+  "control": {
+    "url": "https://example.com/",
+    "new_prompt_count": 1,
+    "native_answer": "读取失败，工具返回内容显示Download Failed",
+    "underlying_http_status": "UNKNOWN",
+    "scope": "One existing Nami session; not a global outage claim"
+  },
+  "website_changes": 0,
+  "configuration_changes": 0,
+  "deployments": 0,
+  "search_submissions": 0,
+  "emails_sent": 0,
+  "logs_or_visitor_data_sent_to_platform": 0
+}

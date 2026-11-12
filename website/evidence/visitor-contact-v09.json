@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-06",
+  "version": "0.9.0",
+  "scope": "local Eli portfolio and exact contact QR crop",
+  "identity": "Eli",
+  "helloFont": {
+    "desktopBefore": 32,
+    "desktopAfter": 96,
+    "mobileBefore": 28,
+    "mobileAfter": 84,
+    "scale": 3
+  },
+  "personality": "INFJ，不善言辞，用事实和实力说话。",
+  "removed": [
+    "photo captions",
+    "group descriptions and numbering",
+    "homepage team block",
+    "visitor-facing internal workflow notes"
+  ],
+  "qr": {
+    "file": "/Users/USER/Documents/原点向量/个人网站/website/assets/wechat-qr.png",
+    "pixels": [
+      728,
+      728
+    ],
+    "sourceRectangle": {
+      "x": 80,
+      "y": 248,
+      "width": 728,
+      "height": 728
+    },
+    "extraInterfaceContent": false,
+    "removedMetadataTypes": [
+      "eXIf"
+    ],
+    "pixelDataHash": "75c6a426b06726a255fcbe1dda9aaf46b4ab2f61d8ff0de5a4cb87f9eecbcc8b",
+    "outputSha256": "aed67be16ba122a893fe93eba335683b597541da64cc546aba6e6493f2953aeb",
+    "generated": false,
+    "resampled": false,
+    "visualInspection": "complete QR with quiet border, no avatar/location/text",
+    "realPhoneScan": "not_verified"
+  },
+  "contact": {
+    "emailLink": "rendered from user input",
+    "phoneLink": "rendered from user input",
+    "wechatQr": "rendered from user input",
+    "realEmailOrPhoneActions": "not_performed"
+  },
+  "publicStory": "curated from known project content; source roles/status/evidence retained",
+  "localBrowserVisualReview": "not_verified; prior URL safety denial respected",
+  "remoteDeployment": "not_performed"
+}

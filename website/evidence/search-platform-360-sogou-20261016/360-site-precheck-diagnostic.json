@@ -1,0 +1,29 @@
+{
+  "status": "BLOCKED_BY_360_SITE_PRECHECK",
+  "site_value": "www.eliai.cn",
+  "observed_error": "未检测到该站点",
+  "submit_button_disabled": false,
+  "all_required_text_fields_nonempty": true,
+  "proof_preview_present": true,
+  "actual_check_response": "UNKNOWN; do not infer missing site vs request failure",
+  "public_source": {
+    "url": "https://zhanzhang.so.com/static/js/search-display.bundle.js",
+    "sha256": "f976617e11de05b8dcf1dbdc3b4ec00c304def2a6583093b7f3e8ecfe1092bb0",
+    "finding": "Form requires site-check success status0 and boolean data true; any other result OR request error maps to identical site-not-detected field error. Main ICP request only runs after form validation resolves."
+  },
+  "add_site_source": {
+    "url": "https://zhanzhang.so.com/static/js/my-site.bundle.js",
+    "finding": "Add website trims input and strips http(s)/trailing slashes. www.eliai.cn follows actual add format; no basis to keep trying URL variants."
+  },
+  "correction_to_previous_claim": "Field error disappeared on blur after editing, but user resubmission still failed; not a confirmed fix",
+  "actions_not_taken": [
+    "No further submit click",
+    "No reading/changing captcha",
+    "No private API/cookie/token access",
+    "No validation bypass",
+    "No new root-domain site created",
+    "No public support post sent"
+  ],
+  "official_contact": "https://zhanzhang.so.com/exception_report/contact -> https://bbs.360.cn/forum-7584-1.html",
+  "proof": "360-site-precheck-rejected.jpg"
+}

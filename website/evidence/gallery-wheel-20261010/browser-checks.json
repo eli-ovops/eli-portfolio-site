@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-10",
+  "batch": "gallery-wheel-20261010",
+  "observations": [
+    {
+      "test": "expanded-image-forward-at-bottom",
+      "before": {
+        "captionScroll": 0,
+        "index": "01 / 07",
+        "mode": "pointer-region",
+        "open": true,
+        "overflow": false,
+        "project": "洁具行业某大型 B 端厂商库存管理系统",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 523
+      },
+      "after": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "pointer-region",
+        "open": false,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 523
+      }
+    },
+    {
+      "test": "caption-reverse",
+      "state": {
+        "captionScroll": 0,
+        "index": "01 / 07",
+        "mode": "pointer-region",
+        "open": true,
+        "overflow": false,
+        "project": "洁具行业某大型 B 端厂商库存管理系统",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 523
+      }
+    },
+    {
+      "test": "partial-scene-forward",
+      "before": {
+        "height": 720,
+        "stageBottom": 934.921875,
+        "stageTop": 414.921875,
+        "wheelY": 573.5624237060547,
+        "x": 354.3984069824219,
+        "y": 343
+      },
+      "after": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "pointer-region",
+        "open": false,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 343
+      }
+    },
+    {
+      "test": "next-next-prev",
+      "state": {
+        "captionScroll": 0,
+        "index": "03 / 07",
+        "mode": "pointer-region",
+        "open": false,
+        "overflow": false,
+        "project": "某家具品牌扫码库存系统",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 370
+      }
+    },
+    {
+      "test": "back-third",
+      "caseUrl": "http://127.0.0.1:4178/cases/p09.html",
+      "state": {
+        "captionScroll": 0,
+        "index": "03 / 07",
+        "mode": "pointer-region",
+        "open": true,
+        "overflow": false,
+        "project": "某家具品牌扫码库存系统",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 738
+      }
+    },
+    {
+      "test": "english-hint",
+      "state": {
+        "hint": "Scroll here to switch · scroll outside to read the page",
+        "overflow": false
+      }
+    },
+    {
+      "test": "mobile-expanded-page-mode",
+      "state": {
+        "captionScroll": 0,
+        "index": "01 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "洁具行业某大型 B 端厂商库存管理系统",
+        "url": "http://127.0.0.1:4178/index.html",
+        "y": 960
+      }
+    }
+  ],
+  "limits": [
+    "手机为模拟视口",
+    "未测FPS或实体触屏"
+  ],
+  "rule": "桌面展示区内滚轮切换，不受展开状态或整区是否入屏限制；区域外与手机滚动页面"
+}

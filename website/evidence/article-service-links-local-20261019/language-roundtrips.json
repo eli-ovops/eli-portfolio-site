@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "ai-inventory-exceptions",
+    "en": "http://127.0.0.1:4178/en/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources",
+    "zh": "http://127.0.0.1:4178/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources"
+  },
+  {
+    "slug": "ai-spreadsheet-cleaning",
+    "en": "http://127.0.0.1:4178/en/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+    "zh": "http://127.0.0.1:4178/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources"
+  },
+  {
+    "slug": "ai-knowledge-base-start",
+    "en": "http://127.0.0.1:4178/en/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "zh": "http://127.0.0.1:4178/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources"
+  },
+  {
+    "slug": "rag-explained",
+    "en": "http://127.0.0.1:4178/en/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources",
+    "zh": "http://127.0.0.1:4178/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources"
+  },
+  {
+    "slug": "fine-tuning-or-rag",
+    "en": "http://127.0.0.1:4178/en/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources",
+    "zh": "http://127.0.0.1:4178/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources"
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "slug": "what-is-github",
+    "title": [
+      "GitHub 是什么？外行可以用来干什么？",
+      "What is GitHub useful for if you do not code?"
+    ],
+    "answer": [
+      "GitHub 是围绕代码和项目协作的平台，也能阅读文档、报告问题和查看版本。它不是“看到什么软件都放心下载”的商店。先学读项目说明，比一上来运行命令更合适。",
+      "GitHub hosts code and project collaboration, including documentation, issues and versions. It is not a store where every download is trustworthy. Start by reading a project's explanation before running commands."
+    ],
+    "steps": [
+      [
+        "打开一个来源明确的项目主页。",
+        "Open an identifiable project's page."
+      ],
+      [
+        "找到用途、许可证和维护状态。",
+        "Find its purpose, license and maintenance signals."
+      ],
+      [
+        "用一句话说清它是否解决你的问题。",
+        "Explain in one sentence whether it addresses your task."
+      ]
+    ],
+    "exercise": [
+      "只读这个项目的说明，解释用途、目标用户、运行门槛和未知项，不下载、不执行。",
+      "Read this project's documentation and explain its purpose, audience, requirements and unknowns without downloading or running it."
+    ],
+    "problem": [
+      "星标多不等于适合或安全，仍要看维护、权限和真实需求。",
+      "Stars do not establish fit or safety; check maintenance, permissions and your requirements."
+    ],
+    "check": [
+      "你能判断项目是应用、源码还是资料集合，而不是见链接就安装。",
+      "You can distinguish an application, source code and a documentation collection."
+    ],
+    "source": [
+      "github"
+    ]
+  },
+  {
+    "slug": "repository-basics",
+    "title": [
+      "Repository 仓库是什么？不是网盘吗？",
+      "What is a repository, and is it a cloud drive?"
+    ],
+    "answer": [
+      "仓库保存项目文件及版本历史，便于查看谁在什么时候改了什么。它与普通网盘用途有重叠，但还包括分支、提交和协作流程。公开仓库中的内容可能被复制，别把私人材料放进去试。",
+      "A repository holds project files and revision history. It overlaps with file storage but adds commits, branches and collaboration. Public content can be copied, so keep private material out of practice repositories."
+    ],
+    "steps": [
+      [
+        "从仓库根目录查看文件结构。",
+        "Inspect a repository's root structure."
+      ],
+      [
+        "找到提交历史，查看一次具体变更。",
+        "Find the history and inspect a change."
+      ],
+      [
+        "区分源码文件、生成产物和说明文档。",
+        "Separate source files, generated outputs and documentation."
+      ]
+    ],
+    "exercise": [
+      "解释这个仓库目录里哪些是源码、文档、测试和构建（把源码转换为可运行或可发布的文件）产物；不确定的目录标未知，不建议删除。",
+      "Identify source, documentation, tests and build outputs: files produced by turning source into runnable or publishable forms. Mark unclear folders unknown and do not suggest deletion."
+    ],
+    "problem": [
+      "看到文件多不要删“不认识的”，先查引用与用途。",
+      "Do not delete unfamiliar files because there are many of them; investigate their purpose."
+    ],
+    "check": [
+      "你知道仓库不仅保存最新文件，还能追踪修改。",
+      "You understand that a repository tracks changes as well as current files."
+    ],
+    "source": [
+      "github-repos"
+    ]
+  },
+  {
+    "slug": "readme-basics",
+    "title": [
+      "README 怎么看？先找这五类信息",
+      "How do you read a README?"
+    ],
+    "answer": [
+      "README 常是项目入口，先找用途、前提、启动方式、限制和许可证。步骤缺失或多年没更新时，不要用猜测补命令。把你不确定的地方变成可回答的问题。",
+      "A README is often the entry point. Look for purpose, prerequisites, startup instructions, limits and license. Do not invent missing commands when instructions are incomplete or stale."
+    ],
+    "steps": [
+      [
+        "先看项目支持什么系统。",
+        "Check supported operating systems first."
+      ],
+      [
+        "把启动前提与运行步骤分开记。",
+        "Separate prerequisites from execution steps."
+      ],
+      [
+        "检查文档是否对应当前版本。",
+        "Confirm documentation matches the version."
+      ]
+    ],
+    "exercise": [
+      "把 README 整理成“用途、前提、步骤、限制、待确认”，只引用原文，不猜安装命令。",
+      "Summarize the README as purpose, prerequisites, steps, limits and questions using the original text only."
+    ],
+    "problem": [
+      "文档写支持旧版本时，查当前版本说明或提问，不直接假设仍兼容。",
+      "For outdated support claims, check current notes or ask the maintainer."
+    ],
+    "check": [
+      "你能列出启动前尚缺什么，而不是盲目按第一个命令。",
+      "You can identify missing prerequisites before running the first command."
+    ],
+    "source": [
+      "github-readme"
+    ]
+  },
+  {
+    "slug": "download-release-or-source",
+    "title": [
+      "下载源码 ZIP 和 Release，有什么区别？",
+      "Source ZIP or release: what should you download?"
+    ],
+    "answer": [
+      "源码 ZIP 通常是项目文件快照，不一定能双击运行。Release 可能附带作者发布的安装包，也可能只有源码。先核对系统、芯片、版本和发布者，不按文件名猜用途。",
+      "A source ZIP is usually a snapshot, not a ready-to-run app. A release may include installable assets or source only. Check operating system, architecture, version and publisher before selecting a file."
+    ],
+    "steps": [
+      [
+        "在项目说明中找官方发布入口。",
+        "Find the official release entry in the documentation."
+      ],
+      [
+        "查看附件说明和适配平台。",
+        "Read asset descriptions and supported platforms."
+      ],
+      [
+        "有校验值时按官方方法核对。",
+        "Verify checksums when the publisher provides them."
+      ]
+    ],
+    "exercise": [
+      "解释这些发布附件分别是什么系统用的，哪些是源码。依据附件说明，不明确就不选。",
+      "Explain which release assets target which systems and which contain source. Use descriptions and leave unclear choices unresolved."
+    ],
+    "problem": [
+      "下载后只有代码不是软件坏了，可能拿到了需要自行构建（把源码转换为可运行或可发布的文件）的源码。",
+      "A folder of code may be source requiring a build (turning source into runnable or publishable files), not a broken installer."
+    ],
+    "check": [
+      "你能说明选择的文件是什么，以及它是否真的能直接运行。",
+      "You can state what the file contains and whether it is intended to run directly."
+    ],
+    "source": [
+      "github-releases"
+    ]
+  },
+  {
+    "slug": "commit-basics",
+    "title": [
+      "Commit 提交是什么？和保存文件一样吗？",
+      "What is a commit compared with saving a file?"
+    ],
+    "answer": [
+      "保存改变当前文件，Commit 则把一组变更记入版本历史并附说明。提交不等于推送到远端，也不等于发布上线。先把这几个动作分清，就不容易误认为“保存了就是全网更新”。",
+      "Saving changes a file; a commit records a set of changes in history with a message. Committing is separate from pushing and publishing. Distinguishing them prevents accidental assumptions about what is public."
+    ],
+    "steps": [
+      [
+        "在练习仓库改一段说明。",
+        "Edit a short description in a practice repository."
+      ],
+      [
+        "查看差异再提交，写具体原因。",
+        "Review the diff and commit with a specific explanation."
+      ],
+      [
+        "检查远端和部署状态，分别记录。",
+        "Check remote and deployment state separately."
+      ]
+    ],
+    "exercise": [
+      "解释这次修改的保存、提交、推送、发布状态，未知就写未知，不执行任何远端操作。",
+      "Report save, commit, push and publication states separately. Mark unknowns and perform no remote actions."
+    ],
+    "problem": [
+      "提交说明“update”太模糊时，改成问题和行为，例如“补充离线运行步骤”。",
+      "Replace vague messages with purpose, such as document offline startup steps."
+    ],
+    "check": [
+      "你能从历史中读懂一次变更目的，且没有混淆发布状态。",
+      "You can understand the change's purpose without confusing its publication status."
+    ],
+    "source": [
+      "github-commit"
+    ]
+  },
+  {
+    "slug": "branch-basics",
+    "title": [
+      "Branch 分支是什么？新手为什么要用？",
+      "What is a branch, and why use one?"
+    ],
+    "answer": [
+      "分支让一组修改在独立的版本线上进行，便于比较和合并。但分支不是完整备份，也不能自动保护未保存文件。先在练习仓库理解切换和差异，再碰正式项目。",
+      "A branch lets work proceed on a separate line of development for comparison and merging. It is not a complete backup and does not protect unsaved files. Practice switching and comparing before touching production."
+    ],
+    "steps": [
+      [
+        "确认工作区是否有未提交修改。",
+        "Check for uncommitted changes."
+      ],
+      [
+        "在练习分支改一段文档。",
+        "Change documentation on a practice branch."
+      ],
+      [
+        "比较差异，不急着合并。",
+        "Compare differences before merging."
+      ]
+    ],
+    "exercise": [
+      "解释当前分支、基准分支和未提交修改的关系，只读查看，不切换或重置。",
+      "Explain the current branch, base branch and uncommitted changes read-only. Do not switch or reset."
+    ],
+    "problem": [
+      "切换前被提示有本地修改时，不用强制命令覆盖，先保护现有工作。",
+      "When local changes block switching, preserve them rather than forcing an overwrite."
+    ],
+    "check": [
+      "能说清修改属于哪条分支，哪些尚未进入历史。",
+      "You can identify the branch and changes not yet recorded in history."
+    ],
+    "source": [
+      "github-hello"
+    ]
+  },
+  {
+    "slug": "pull-request-basics",
+    "title": [
+      "Pull Request 是什么？不是点了就上线吧？",
+      "What is a pull request, and does it publish changes?"
+    ],
+    "answer": [
+      "Pull Request 是提议合并一组修改并供人讨论审查的入口。创建、通过检查、合并、部署是不同阶段。项目如何上线取决于自己的流程，不是所有合并都会自动发布。",
+      "A pull request proposes changes for review and merging. Creation, checks, merging and deployment are distinct stages. Publication depends on the project's own workflow."
+    ],
+    "steps": [
+      [
+        "阅读一次 PR 的描述和文件差异。",
+        "Read a pull request's description and diff."
+      ],
+      [
+        "查看检查结果与讨论。",
+        "Inspect checks and discussion."
+      ],
+      [
+        "确认合并和部署各自的规则。",
+        "Check merge and deployment rules separately."
+      ]
+    ],
+    "exercise": [
+      "给这份练习变更写 PR 草稿：问题、改后行为、验证、已知限制。只写草稿，不创建、不合并。",
+      "Draft a PR description with problem, behavior, validation and limits without creating or merging it."
+    ],
+    "problem": [
+      "看到绿色检查不要默认业务验收通过，还要看检查实际覆盖哪些需求。",
+      "Green checks do not automatically prove business acceptance; inspect their scope."
+    ],
+    "check": [
+      "能解释这个 PR 在等待审查、合并还是部署。",
+      "You can explain whether it awaits review, merge or deployment."
+    ],
+    "source": [
+      "github-pr"
+    ]
+  },
+  {
+    "slug": "issue-basics",
+    "title": [
+      "怎么在 GitHub 提问，别人更容易帮你？",
+      "How do you write a useful GitHub issue?"
+    ],
+    "answer": [
+      "好的 Issue 说明环境、复现步骤、预期、实际和相关错误。先搜索已有问题，避免重复。截图和日志要去掉凭证、私人路径与客户资料，发布前检查一次。",
+      "A useful issue includes environment, reproduction, expected and actual behavior, and errors. Search existing issues first. Remove credentials, private paths and customer details before posting logs or screenshots."
+    ],
+    "steps": [
+      [
+        "按最短步骤复现一次。",
+        "Reproduce the problem with minimal steps."
+      ],
+      [
+        "写清版本及是否稳定出现。",
+        "Record version and frequency."
+      ],
+      [
+        "搜索相同错误，保存草稿再审查。",
+        "Search the error and review a draft before posting."
+      ]
+    ],
+    "exercise": [
+      "起草问题报告，包含复现和环境占位符。保留原错误但隐藏秘密；先不发布。",
+      "Draft an issue with reproduction steps and environment placeholders. Preserve the error but redact secrets. Do not post yet."
+    ],
+    "problem": [
+      "只有“不能用”时，补哪一步、什么提示，不用情绪性长段落替代。",
+      "Replace does not work with the failed action and exact message."
+    ],
+    "check": [
+      "维护者可以按报告复现，不必先追问大量基本信息。",
+      "A maintainer could reproduce it without first asking for basic details."
+    ],
+    "source": [
+      "github-issues"
+    ]
+  },
+  {
+    "slug": "open-source-license",
+    "title": [
+      "开源就是免费随便商用吗？",
+      "Does open source mean unrestricted commercial use?"
+    ],
+    "answer": [
+      "开源项目仍受许可证约束。能看到代码不代表没有使用条件，商业使用、分发和修改的要求可能不同。先识别许可证及第三方组件，再决定怎么使用；不确定的重要用途请咨询专业人士。",
+      "Visible source does not mean unrestricted use. Licenses can impose conditions on modification and distribution. Identify the license and third-party components before use, and obtain qualified advice for material uncertainty."
+    ],
+    "steps": [
+      [
+        "查看仓库 LICENSE 与依赖说明。",
+        "Find LICENSE and dependency notices."
+      ],
+      [
+        "核对你的用途是内部使用还是分发。",
+        "Distinguish internal use from distribution."
+      ],
+      [
+        "从原许可证查义务，不只看模型总结。",
+        "Read obligations in the original license rather than relying solely on a summary."
+      ]
+    ],
+    "exercise": [
+      "只定位这个项目许可证及需要继续核对的条款，不给商用合法性的保证，也不把无许可证当随意使用。",
+      "Locate the license and clauses requiring review without guaranteeing legality or treating no license as unrestricted use."
+    ],
+    "problem": [
+      "没有 LICENSE 时先问权利人，不自行推定获得授权。",
+      "If no license is present, ask the rights holder rather than assuming permission."
+    ],
+    "check": [
+      "你有原许可证和用途记录，知道哪些义务尚未确认。",
+      "You retain the original license and intended use, with unresolved obligations identified."
+    ],
+    "source": [
+      "github-license"
+    ]
+  },
+  {
+    "slug": "github-public-private",
+    "title": [
+      "GitHub 公开与私有仓库，怎么避免泄露？",
+      "How do public and private repositories affect privacy?"
+    ],
+    "answer": [
+      "公开仓库内容可被他人读取和复制；私有仓库限制访问，但也不适合把秘密凭证直接当普通文件存。分享前同时看文件、提交历史和协作者权限，不能只检查当前首页。",
+      "Public repositories can be read and copied; private ones restrict access but are not a reason to store secrets as ordinary files. Review files, history and collaborator access before sharing."
+    ],
+    "steps": [
+      [
+        "用无敏感内容的练习仓库学习设置。",
+        "Learn settings with a non-sensitive practice repository."
+      ],
+      [
+        "列出共享对象和所需权限。",
+        "List collaborators and necessary permissions."
+      ],
+      [
+        "检查历史、附件和自动化输出是否含秘密。",
+        "Inspect history, attachments and automation outputs for secrets."
+      ]
+    ],
+    "exercise": [
+      "只审查虚构仓库的可见范围、协作者和分享路径，解释“发链接”与“授予访问”的区别，不修改可见性。",
+      "Review the fictional repository visibility, collaborators and sharing path. Explain sharing a link versus granting access without changing visibility."
+    ],
+    "problem": [
+      "凭证进过历史，即使新提交删掉也应按泄露处理，不能只看最新文件。",
+      "A credential committed historically requires exposure handling even if removed in a later commit."
+    ],
+    "check": [
+      "分享范围清楚，私密材料与代码分享流程分离。",
+      "Sharing scope is clear and private material is kept out of the code-sharing process."
+    ],
+    "source": [
+      "github-visibility",
+      "github-secrets"
+    ]
+  }
+]

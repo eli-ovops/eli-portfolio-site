@@ -1,0 +1,137 @@
+{
+  "canonical": "https://www.eliai.cn/services/ai-agent.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "企业知识库搭建与客服辅助答疑"
+    },
+    {
+      "tag": "H2",
+      "text": "内容导航"
+    },
+    {
+      "tag": "H2",
+      "text": "问答助手和 AI Agent 有什么区别？"
+    },
+    {
+      "tag": "H2",
+      "text": "先从资料检索和重复答疑开始"
+    },
+    {
+      "tag": "H2",
+      "text": "小范围试用需要准备什么？"
+    },
+    {
+      "tag": "H2",
+      "text": "看哪些结果，而不只看回答好不好听？"
+    },
+    {
+      "tag": "H2",
+      "text": "知识库与客服协作案例"
+    },
+    {
+      "tag": "H3",
+      "text": "英国某净水品牌 RAG 智能客服定制 ↗"
+    },
+    {
+      "tag": "H2",
+      "text": "开始前常见问题"
+    },
+    {
+      "tag": "H3",
+      "text": "一定要训练自己的模型吗？"
+    },
+    {
+      "tag": "H3",
+      "text": "可以直接让 Agent 全自动处理客户业务吗？"
+    },
+    {
+      "tag": "H2",
+      "text": "先聊一项具体工作"
+    },
+    {
+      "tag": "H2",
+      "text": "统计与隐私"
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/services/ai-agent.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/services/ai-agent.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/services/ai-agent.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../index.html#needs",
+      "text": "← 返回业务场景"
+    },
+    {
+      "href": "../cases/p36.html",
+      "text": "看知识库答疑案例 ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "免费聊聊资料查找和答疑问题 ↗"
+    },
+    {
+      "href": "#cases",
+      "text": "更多相关案例 ↓"
+    },
+    {
+      "href": "#difference",
+      "text": "问答助手和 AI Agent 有什么区别？"
+    },
+    {
+      "href": "#knowledge",
+      "text": "先从资料检索和重复答疑开始"
+    },
+    {
+      "href": "#pilot",
+      "text": "小范围试用需要准备什么？"
+    },
+    {
+      "href": "#acceptance",
+      "text": "看哪些结果，而不只看回答好不好听？"
+    },
+    {
+      "href": "#cases",
+      "text": "知识库与客服协作案例"
+    },
+    {
+      "href": "#questions",
+      "text": "开始前常见问题"
+    },
+    {
+      "href": "../cases/p36.html",
+      "text": "英国某净水品牌 RAG 智能客服定制 ↗"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "免费聊聊资料查找和答疑问题 ↗"
+    },
+    {
+      "href": "fde-consulting.html",
+      "text": "中小企业 AI 落地实施服务 ↗"
+    },
+    {
+      "href": "workflow-automation.html",
+      "text": "库存核对与重复录入自动化 ↗"
+    }
+  ],
+  "mainText": "← 返回业务场景\n企业 AI 服务\n企业知识库搭建与客服辅助答疑\n\n产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。\n\n可约定的交付\n\n可维护的知识库\n带来源的问答试用\n问题清单与人工转接规则\n\n相关经验：参与 RAG 客服，负责知识库整理、检索配置与测试。\n\n看知识库答疑案例 ↗\n免费聊聊资料查找和答疑问题 ↗\n更多相关案例 ↓\n内容导航\n问答助手和 AI Agent 有什么区别？\n先从资料检索和重复答疑开始\n小范围试用需要准备什么？\n看哪些结果，而不只看回答好不好听？\n知识库与客服协作案例\n开始前常见问题\n问答助手和 AI Agent 有什么区别？\n\n知识库问答助手侧重“找到资料并回答”；AI Agent 通常还会调用工具、串联步骤或执行动作。能回答问题，不等于已经能可靠地改订单、更新库存或代替员工处理业务。\n\n企业知识问答常用 RAG，也就是先检索相关资料，再据此生成回答。是否需要更复杂的 Agent，要看任务是否有明确步骤、可用接口和可控的执行权限。\n\n先从资料检索和重复答疑开始\n\n可以先讨论产品手册、服务规则、内部操作说明等场景：资料由谁维护、哪个版本有效、哪些员工能看、回答应该引用哪一段。\n\n如果资料冲突、内容过期或找不到依据，助手应说明无法确认，并转给负责的人。重要承诺和对外答复保留人工确认，不靠听起来流畅的回答判断正确。\n\n小范围试用需要准备什么？\n\n选一组有权使用、已脱敏且版本明确的文档，再整理员工或客户常问的问题。区分能直接回答、需要补问和必须转人工的问题。\n\n先试检索、引用和回答；需要执行动作时，再评估接口、读写权限、确认步骤、操作记录与失败处理。涉及现有系统的修改，单独明确范围和负责人。\n\n看哪些结果，而不只看回答好不好听？\n\n用业务人员确认过的问题核对：是否找到正确资料，引用是否支持答案，过期内容能否排除，无依据的问题是否正确停止。记录错误类型，再决定是否扩大试用。\n\n如果加入执行动作，还要核对操作对象、重复执行、失败恢复和人工接管。模型、数据量、接口与维护都会影响费用，实施前单独确认。\n\n知识库与客服协作案例\n\n相关 RAG 客服项目中，我负责知识库整理、检索配置与测试。案例中的问答示意与实际项目记录有明确区分；涉及执行工具的 Agent 需另行评估。\n\n英国某净水品牌 RAG 智能客服定制 ↗\n\n参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。\n\n开始前常见问题\n一定要训练自己的模型吗？\n\n不一定。先评估现有模型、资料检索和工具配置能否满足任务，避免在问题尚未明确时投入模型训练。\n\n可以直接让 Agent 全自动处理客户业务吗？\n\n先验证具体任务。涉及订单、付款、对外承诺或数据修改时，需要明确权限、确认和异常处理，再决定自动化程度。\n\n先聊一项具体工作\n\n说说现在怎么做、哪一步最费时间、希望变成什么样。\n\n免费聊聊资料查找和答疑问题 ↗\n\n相关服务\n\n中小企业 AI 落地实施服务 ↗ · 库存核对与重复录入自动化 ↗",
+  "metaDescription": "产品资料分散、员工找资料费时、客服反复回答同样的问题？Eli 提供企业知识库整理、检索配置与问答试用，核对资料来源、版本和权限，保留人工确认。查看相关协作案例，初次沟通免费。",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/about.html\", \"description\": \"你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。\", \"jobTitle\": \"FDE · 贴近业务，选工具、改流程\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Service\", \"@id\": \"https://www.eliai.cn/services/ai-agent.html#service\", \"name\": \"企业知识库搭建与客服辅助答疑\", \"description\": \"产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。\", \"url\": \"https://www.eliai.cn/services/ai-agent.html\", \"provider\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"FAQPage\", \"@id\": \"https://www.eliai.cn/services/ai-agent.html#questions\", \"url\": \"https://www.eliai.cn/services/ai-agent.html#questions\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/services/ai-agent.html#page\"}, \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"一定要训练自己的模型吗？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"不一定。先评估现有模型、资料检索和工具配置能否满足任务，避免在问题尚未明确时投入模型训练。\"}}, {\"@type\": \"Question\", \"name\": \"可以直接让 Agent 全自动处理客户业务吗？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"先验证具体任务。涉及订单、付款、对外承诺或数据修改时，需要明确权限、确认和异常处理，再决定自动化程度。\"}}]}, {\"@type\": \"WebPage\", \"@id\": \"https://www.eliai.cn/services/ai-agent.html#page\", \"url\": \"https://www.eliai.cn/services/ai-agent.html\", \"name\": \"企业知识库搭建与客服辅助答疑服务 - Eli\", \"description\": \"产品资料分散、员工找资料费时、客服反复回答同样的问题？Eli 提供企业知识库整理、检索配置与问答试用，核对资料来源、版本和权限，保留人工确认。查看相关协作案例，初次沟通免费。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"mainEntity\": {\"@id\": \"https://www.eliai.cn/services/ai-agent.html#service\"}, \"hasPart\": {\"@id\": \"https://www.eliai.cn/services/ai-agent.html#questions\"}}]}"
+  ],
+  "title": "企业知识库搭建与客服辅助答疑服务 - Eli",
+  "url": "https://www.eliai.cn/services/ai-agent.html"
+}

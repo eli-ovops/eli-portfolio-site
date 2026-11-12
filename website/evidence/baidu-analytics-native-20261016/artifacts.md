@@ -1,0 +1,1 @@
+Retained task evidence: public candidate and release archive, plan/preflight/validation/publication receipts, analytics source notes, SDK fetch and browser screenshots/network summaries. Prior release retained remotely and hash-verified prior public snapshot remains in deploy-service-proof-20261016/public. No cleanup or media changes.

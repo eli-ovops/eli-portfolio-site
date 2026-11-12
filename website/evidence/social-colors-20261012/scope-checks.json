@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-12",
+  "html_pages": 84,
+  "inlined_icons": 840,
+  "scope": "All HTML identical outside social SVG and footer CSS revision",
+  "unique_gradient_ids": "PASS",
+  "links_labels": "UNCHANGED",
+  "motion_case_seo_sources": "UNCHANGED",
+  "protected_sources": [
+    "styles.css",
+    "motion.css",
+    "motion.js",
+    "app.js",
+    "assets/depth-gallery.js",
+    "assets/screenshot-viewer.js",
+    "assets/editorial.js",
+    "assets/editorial.css",
+    "scripts/pages.py",
+    "scripts/seo.py",
+    "content/case-examples.json",
+    "content/social-links.json",
+    "site.yaml"
+  ],
+  "indexing": "DISABLED",
+  "deployment": "NOT_PERFORMED"
+}

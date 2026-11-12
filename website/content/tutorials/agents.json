@@ -1,0 +1,403 @@
+[
+  {
+    "slug": "what-is-agent",
+    "title": [
+      "Agent 是什么？跟普通 AI 聊天差在哪？",
+      "What is an AI agent compared with chat?"
+    ],
+    "answer": [
+      "Agent 通常指能结合工具、反馈和多步行动推进目标的系统。普通聊天给你一份整理建议，Agent 可能还会读取文件、生成结果并检查。能行动不等于可以不经你同意处理所有业务。",
+      "An agent combines a model with tools, feedback and multiple actions toward a goal. Chat may suggest a filing plan; an agent may read files, generate outputs and check them. Ability to act is not unlimited business authorization."
+    ],
+    "steps": [
+      [
+        "挑一个只读任务，例如统计练习文件夹里的文件类型。",
+        "Choose a read-only task, such as listing file types in a practice folder."
+      ],
+      [
+        "先确认它可用的工具和访问范围。",
+        "Confirm available tools and access boundaries."
+      ],
+      [
+        "核对实际结果，而不是只看计划。",
+        "Check the resulting inventory rather than the plan alone."
+      ]
+    ],
+    "exercise": [
+      "只读这个练习目录，列文件名和类型，不移动、不删除。不能访问就说明原因，不模拟结果。",
+      "Read this practice folder and list names and types without moving or deleting anything. State access failures instead of simulating results."
+    ],
+    "problem": [
+      "它只说“已安排”却没有产物时，要求实际列表或明确未完成状态。",
+      "If it says arranged without an output, request the inventory or an explicit incomplete status."
+    ],
+    "check": [
+      "你能分清提出建议、调用工具和任务完成三件事。",
+      "You can separate advice, tool execution and completed work."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "agent-first-task",
+    "title": [
+      "新手第一次用 Agent，该选什么任务？",
+      "A safe first task for an agent"
+    ],
+    "answer": [
+      "从能回退的小任务开始，比如在练习目录生成一份文件清单。任务应有明确输出文件和检查方式。不要把“替我处理办公事务”当作第一条指令，它没有范围和停止条件。",
+      "Start with a reversible task such as creating an inventory in a practice directory. Define an output file and how to check it. Handle my office work is too broad and lacks a stopping point."
+    ],
+    "steps": [
+      [
+        "新建只放练习资料的目录。",
+        "Create a directory containing only practice material."
+      ],
+      [
+        "要求输出清单到另一个指定文件。",
+        "Specify a separate output file for the inventory."
+      ],
+      [
+        "对照文件数量和随机几项内容。",
+        "Compare counts and inspect a few entries."
+      ]
+    ],
+    "exercise": [
+      "整理练习目录的文件清单，输出名称、类型、相对位置。只新建清单，不改原文件；完成后报告跳过项。",
+      "Inventory the practice folder with names, types and relative paths. Create only the inventory, leave originals unchanged and report skipped items."
+    ],
+    "problem": [
+      "目录太大时缩到几个文件，不先扩大系统访问权限。",
+      "If the folder is too large, reduce the sample before granting broader access."
+    ],
+    "check": [
+      "能打开产物，核对内容，并确认原文件未变。",
+      "You can open and verify the output and confirm originals stayed unchanged."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "agent-tools-permissions",
+    "title": [
+      "Agent 要读文件、联网、发消息，都该允许吗？",
+      "Which permissions should you give an agent?"
+    ],
+    "answer": [
+      "权限要对应当前任务。只整理文档通常不需要邮件发送和系统管理权限。把读取、写入、对外发送分开授权，可以让它做有用的事，又避免一次放开所有能力。",
+      "Permissions should match the task. Document organization usually does not require email sending or system administration. Separate reading, writing and external actions rather than granting everything at once."
+    ],
+    "steps": [
+      [
+        "列出任务必需的文件与服务。",
+        "List the necessary files and services."
+      ],
+      [
+        "先提供只读或单目录范围。",
+        "Start with read-only or single-folder access."
+      ],
+      [
+        "新增权限前问它具体缺哪一步。",
+        "Before expansion, ask which exact step needs it."
+      ]
+    ],
+    "exercise": [
+      "先列完成这项任务必需的权限及用途。只读资料、保存草稿、对外发送分开，不要求与任务无关的访问。",
+      "List the permissions required and their purposes. Separate reading, saving drafts and sending; exclude unrelated access."
+    ],
+    "problem": [
+      "遇拒绝不要直接关安全设置，先看路径、账号和工具是否选对。",
+      "On denial, check path, account and tool choice before changing security settings."
+    ],
+    "check": [
+      "每项权限都能解释用途，取消不必要权限后任务仍可进行。",
+      "Every permission has a purpose and unnecessary access can be removed."
+    ],
+    "source": [
+      "mcp-security"
+    ]
+  },
+  {
+    "slug": "agent-plan-and-act",
+    "title": [
+      "Agent 写了计划，为什么不算完成？",
+      "Why is an agent's plan not proof of completion?"
+    ],
+    "answer": [
+      "计划说明准备做什么，回执说明实际发生了什么。文件存在、命令通过、页面可访问分别证明不同层次。让 Agent 报告产物、检查结果和未完成项，别把“已经处理”当证据。",
+      "A plan states intended actions; a receipt records what happened. A file, a passing command and a reachable page prove different things. Request outputs, checks and incomplete items rather than accepting done as evidence."
+    ],
+    "steps": [
+      [
+        "给任务写一条可观察的完成标准。",
+        "Write an observable completion criterion."
+      ],
+      [
+        "要求提交产物位置及检查记录。",
+        "Request the artifact location and check record."
+      ],
+      [
+        "自己打开关键结果验证。",
+        "Open the critical result yourself."
+      ]
+    ],
+    "exercise": [
+      "完成后分别报告：实际修改、输出位置、检查结果、尚未做到。没有执行的步骤不要写成完成。",
+      "Report actual changes, output locations, checks and incomplete work separately. Do not mark unexecuted steps complete."
+    ],
+    "problem": [
+      "它给了模拟截图时，要求真实产物；工具不可用就保留未验证状态。",
+      "If a screenshot is simulated, request the real artifact or preserve an unverified status."
+    ],
+    "check": [
+      "其他人能凭产物和记录复查，不需要相信一句自述。",
+      "Another person can inspect the result using artifacts and records rather than trusting a statement."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "agent-workflow-difference",
+    "title": [
+      "工作流和 Agent，企业先用哪种？",
+      "Workflow or agent: which should a business try first?"
+    ],
+    "answer": [
+      "固定工作流按预定步骤走，Agent 可以根据反馈选择下一步。规则清楚、例外少的任务往往先做固定流程更容易检查。开放式任务才需要评估自主决策是否值得增加成本。",
+      "A workflow follows predefined steps; an agent can choose steps based on feedback. Clear rules with few exceptions often suit a fixed workflow first. Open-ended tasks need a reason to justify autonomous decisions and extra cost."
+    ],
+    "steps": [
+      [
+        "把任务画成输入、步骤、输出。",
+        "Map the task as input, steps and output."
+      ],
+      [
+        "圈出需要临时判断的分支。",
+        "Mark branches that need judgment."
+      ],
+      [
+        "先固定能固定的部分，例外交给人。",
+        "Fix the predictable parts and route exceptions to a person."
+      ]
+    ],
+    "exercise": [
+      "把“收到表格后检查必填、找重复、输出异常”拆成固定流程，指出哪里需要人工判断，不默认多 Agent。",
+      "Map required-field checking, duplicate detection and exception reporting as a workflow. Identify judgment points without assuming multiple agents."
+    ],
+    "problem": [
+      "若每次都让模型临时决定计算规则，先把业务规则写清再自动化。",
+      "If the model invents calculation rules each run, document the rules before automation."
+    ],
+    "check": [
+      "选型能解释为什么需要或不需要自主判断。",
+      "Your choice explains whether autonomous judgment is necessary."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "agent-feedback-loop",
+    "title": [
+      "Agent 为什么要边做边检查？",
+      "Why should an agent check between actions?"
+    ],
+    "answer": [
+      "前一步错了，后面跑得再快也只是扩大错误。读取、操作、观察、判断构成一个反馈循环。检查应来自实际环境，比如输出文件是否能打开，而不是再问它“你确定吗”。",
+      "A fast sequence can amplify an early mistake. A feedback loop acts, observes and adjusts. Checks should come from the environment, such as opening the output, rather than asking the model whether it is sure."
+    ],
+    "steps": [
+      [
+        "选择一个生成练习表格的任务。",
+        "Choose a task that creates a practice table."
+      ],
+      [
+        "要求生成后检查表头、行数和关键值。",
+        "Check headings, row count and key values after creation."
+      ],
+      [
+        "发现问题先修复再继续下一阶段。",
+        "Correct failures before moving to the next stage."
+      ]
+    ],
+    "exercise": [
+      "生成清单后重新读取产物，对照原输入检查行数和字段，再报告通过与失败项。",
+      "After creating the inventory, read it back and compare counts and fields with the input. Report passing and failing checks."
+    ],
+    "problem": [
+      "“写文件成功”只说明写入动作完成，不证明表里内容对。",
+      "A successful write confirms the write operation, not the table's correctness."
+    ],
+    "check": [
+      "能发现故意漏掉的一行，并在后续操作前停下修正。",
+      "A deliberately omitted row is detected and corrected before downstream actions."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "agent-memory",
+    "title": [
+      "Agent 的记忆靠谱吗？重要规则放哪里？",
+      "Can you rely on agent memory?"
+    ],
+    "answer": [
+      "记忆功能可能保存偏好或摘要，但不能替代任务记录。关键业务规则、版本和当前状态应放在可查看的文件中。过期记忆要能被更正，不能让旧价格覆盖新报价。",
+      "Memory may retain preferences or summaries, but it is not a task ledger. Store critical rules, versions and current status in inspectable files. Outdated memory must not override an approved current price."
+    ],
+    "steps": [
+      [
+        "写一份当前规则，注明生效日期。",
+        "Write current rules with an effective date."
+      ],
+      [
+        "让 Agent 回答前读取指定文件。",
+        "Have the agent read the designated file before answering."
+      ],
+      [
+        "用一条旧规则测试冲突处理。",
+        "Test how it handles a conflicting old rule."
+      ]
+    ],
+    "exercise": [
+      "以这份当前规则为准，遇到旧记录冲突时列出差异并停止引用旧值，不自行合并。",
+      "Use these current rules. Identify conflicts with older records and stop using outdated values rather than silently merging them."
+    ],
+    "problem": [
+      "它只凭“我记得”回答时，要求回到文件中的具体条款。",
+      "If it answers from assumed memory, request the exact rule in the file."
+    ],
+    "check": [
+      "新会话也能根据文件复现规则，并识别过期信息。",
+      "A fresh session reproduces the rules from files and identifies outdated information."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "agent-stop-rules",
+    "title": [
+      "怎么防止 Agent 一直重试、一直花钱？",
+      "How do you stop endless agent retries?"
+    ],
+    "answer": [
+      "先约定范围、重试次数、预算和必须交还人的情况。遇到验证码、权限不足或结果不明，反复点击可能制造重复提交。停止规则是任务设计的一部分，不是失败后才补。",
+      "Set scope, retries, budget and handoff conditions before execution. Repeated clicks after a challenge or uncertain response can create duplicate submissions. Stopping rules belong in the task design."
+    ],
+    "steps": [
+      [
+        "明确最多检查几份文件、几次重试。",
+        "Specify file limits and retry limits."
+      ],
+      [
+        "设置遇到收费、提交不明或权限变化就暂停。",
+        "Stop for charges, uncertain submissions or changed permissions."
+      ],
+      [
+        "要求保留进度和最小下一步。",
+        "Preserve progress and the smallest next action."
+      ]
+    ],
+    "exercise": [
+      "最多检查五个练习文件，每个失败只重试一次。遇到要登录、付款或发送内容先停，报告已完成部分。",
+      "Check at most five practice files with one retry per failure. Stop for login, payment or sending, and report progress."
+    ],
+    "problem": [
+      "任务卡住先检查状态，不用新建重复任务来赌一次成功。",
+      "Inspect the state of a stuck task instead of starting duplicates."
+    ],
+    "check": [
+      "失败时有清楚的进度、原因和接续入口，不会无限循环。",
+      "Failures leave clear progress, reasons and a resumption point without loops."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "multi-agent-basics",
+    "title": [
+      "多 Agent 是什么？一个人用 AI 需要吗？",
+      "What are multiple agents, and do you need them?"
+    ],
+    "answer": [
+      "多 Agent 是把任务分给多个执行或审查角色。能并行不等于更可靠，角色间也可能重复做事、互相传错信息。先用单个流程跑通，再判断任务是否真的可以独立拆分。",
+      "Multiple agents divide work among execution or review roles. Parallel work can duplicate effort or propagate errors. Make one workflow work first, then decide whether tasks are genuinely independent."
+    ],
+    "steps": [
+      [
+        "把任务分成资料检查和文字编辑两部分。",
+        "Separate source checking from wording edits."
+      ],
+      [
+        "给每个角色独立输入和明确产物。",
+        "Give each role distinct inputs and outputs."
+      ],
+      [
+        "由一个人合并，不让多人同改同一文件。",
+        "Assign one merger and avoid simultaneous edits to the same file."
+      ]
+    ],
+    "exercise": [
+      "为这项任务判断哪些工作可独立进行，哪些有先后依赖。先画分工，不实际启动其他执行者。",
+      "Identify independent work and dependencies. Propose responsibilities without starting additional workers."
+    ],
+    "problem": [
+      "如果两个角色只是重复互相赞同，没有独立证据，就不能算额外验证。",
+      "Two roles agreeing without independent evidence do not provide extra verification."
+    ],
+    "check": [
+      "分工减少等待而没有新增冲突，否则保留单执行者更简单。",
+      "The split reduces waiting without introducing conflicts; otherwise keep one executor."
+    ],
+    "source": [
+      "agents"
+    ]
+  },
+  {
+    "slug": "agent-risk-checklist",
+    "title": [
+      "Agent 上岗前，老板应该检查哪几件事？",
+      "What should an owner check before using an agent?"
+    ],
+    "answer": [
+      "先看它能访问什么、会改什么、谁确认结果、出错怎么恢复。尤其把发消息、付款、删数据和对外承诺单列出来。试点不需要一次接入所有业务系统。",
+      "Check what it can access and change, who reviews outputs and how mistakes are reversed. Separate sending, payments, deletion and external commitments. A pilot does not need access to every business system."
+    ],
+    "steps": [
+      [
+        "选一个脱敏（去掉或替换能识别个人、客户的信息）、只读的练习流程。",
+        "Choose a sanitized (with identifying personal or client details removed), read-only practice workflow."
+      ],
+      [
+        "检查正常、缺资料和失败三种情况。",
+        "Test normal, incomplete and failed cases."
+      ],
+      [
+        "明确负责人和人工接管入口。",
+        "Assign an owner and a human takeover path."
+      ]
+    ],
+    "exercise": [
+      "给这个资料整理流程做上线前检查表：访问范围、写入动作、复核人、失败回退。不要声称检查已经通过。",
+      "Create a pre-use checklist for this filing workflow: access, writes, reviewer and recovery. Do not claim checks have passed."
+    ],
+    "problem": [
+      "若没人负责复核，就先别把结果自动送入业务系统。",
+      "If no reviewer owns the output, keep it out of automatic business writes."
+    ],
+    "check": [
+      "试点责任和退出办法明确，再讨论扩大范围。",
+      "Pilot ownership and an exit path are clear before expansion."
+    ],
+    "source": [
+      "nist",
+      "mcp-security"
+    ]
+  }
+]

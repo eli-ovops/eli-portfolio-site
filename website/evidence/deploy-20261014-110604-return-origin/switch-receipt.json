@@ -1,0 +1,12 @@
+{
+  "status": "SWITCHED",
+  "release": "20261014-110604-return-origin",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-103100-navigation-reset",
+  "target": "/srv/eli-sites/portfolio/releases/20261014-110604-return-origin",
+  "switched_at": "2026-10-14T03:08:26.507345+00:00",
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "nginx_config": "UNCHANGED",
+  "services": "UNCHANGED_ACTIVE",
+  "files_verified": 144,
+  "indexing": "DISABLED"
+}

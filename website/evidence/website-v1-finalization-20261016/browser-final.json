@@ -1,0 +1,127 @@
+{
+  "time": "2026-10-16T07:32:50.100Z",
+  "revision": "f8690e826c7334c83a71",
+  "checks": [
+    {
+      "label": "Fixed homepage and related return",
+      "before": {
+        "href": "http://127.0.0.1:4178/index.html?pv=f8690e826c7334c83a71#work",
+        "position": "02 / 07"
+      },
+      "back": "http://127.0.0.1:4178/index.html?project=p36&pv=f8690e826c7334c83a71#work",
+      "after": {
+        "hash": "#work",
+        "path": "/index.html",
+        "position": "02 / 07",
+        "project": "p36"
+      },
+      "pass": true
+    },
+    {
+      "label": "Mobile new selection replaces old home project",
+      "documentWidth": 390,
+      "path": "/index.html",
+      "position": "03 / 07",
+      "project": "p09",
+      "width": 390,
+      "pass": true
+    },
+    {
+      "label": "Final service related return",
+      "hash": "#service-proof",
+      "path": "/services/ai-agent.html",
+      "pass": true
+    },
+    {
+      "label": "Final consultation route",
+      "documentWidth": 390,
+      "hash": "#contact",
+      "path": "/about.html",
+      "qr": "http://127.0.0.1:4178/assets/wechat-qr.png",
+      "sdk": 0,
+      "width": 390
+    },
+    {
+      "label": "English homepage return",
+      "backLabel": "← Back to homepage projects",
+      "hash": "#work",
+      "path": "/en/index.html",
+      "position": "02 / 07",
+      "project": "p36",
+      "pass": true
+    }
+  ],
+  "catalogueFinalChecks": [
+    {
+      "label": "Final revision mobile catalogue related return",
+      "active": "客户项目",
+      "count": "2 项记录",
+      "documentWidth": 390,
+      "query": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=f8690e826c7334c83a71&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98",
+      "visible": [
+        "project-p10",
+        "project-p09"
+      ],
+      "width": 390
+    },
+    {
+      "label": "Final revision quick reset",
+      "active": "全部",
+      "count": "38 项记录",
+      "documentWidth": 390,
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html?pv=f8690e826c7334c83a71",
+      "visible": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "width": 390
+    }
+  ],
+  "consoleErrors": [
+    {
+      "level": "error",
+      "message": "AbortError: Transition was skipped. skipTransition() called",
+      "timestamp": "2026-10-16T07:28:38.477Z",
+      "url": "http://127.0.0.1:4178/records.html?pv=7a22fe8d4bbc27b7e98f"
+    }
+  ],
+  "limits": "Mobile simulated320/390; no real phone or measured motion performance; prior layout coverage shares unchanged CSS/markup."
+}

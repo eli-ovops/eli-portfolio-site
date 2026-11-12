@@ -1,0 +1,23 @@
+{
+  "logs": [
+    "evidence/first-contact-local-20261016/check.log",
+    "evidence/first-contact-local-20261016/check_analytics.log",
+    "evidence/first-contact-local-20261016/check_first_pointer.log",
+    "evidence/first-contact-local-20261016/check_home_case_return.log",
+    "evidence/first-contact-local-20261016/check_home_entry.log",
+    "evidence/first-contact-local-20261016/check_localization.log",
+    "evidence/first-contact-local-20261016/check_navigation_version.log",
+    "evidence/first-contact-local-20261016/check_related_return.log",
+    "evidence/first-contact-local-20261016/check_return_owner.log",
+    "evidence/first-contact-local-20261016/check_search_reset.log",
+    "evidence/first-contact-local-20261016/check_seo.log",
+    "evidence/first-contact-local-20261016/check_service_return.log"
+  ],
+  "content": "6 featured, P12 retained, 38 catalogue rows in both languages",
+  "protected_unchanged": [
+    "assets/site-analytics.js",
+    "assets/site-analytics.css",
+    "assets/page-version.js",
+    "motion.css"
+  ]
+}

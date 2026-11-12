@@ -1,0 +1,27 @@
+{
+  "started_at": "2026-10-22T10:41:51.733982+00:00",
+  "backup": "/srv/eli-sites/portfolio/backups/20261022-cases-redirect/portfolio-domain-pending.before.conf",
+  "old_sha256": "5570323d452fc558369ebe860076dea84ad4490bce7e7ed3dfcdad6b78e0f759",
+  "new_sha256": "5eb89e90bbe3def108a216fcb86f3ce778ed9f9667b53a033975aa3cb6a91352",
+  "public_files_count": 369,
+  "nginx_reload_count": 1,
+  "rollback": false,
+  "nginx_test": {
+    "returncode": 0,
+    "stderr": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful\n"
+  },
+  "reload": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "services": {
+    "nginx": "MainPID=8083\nActiveState=active",
+    "erp-trial": "MainPID=1643872\nActiveState=active",
+    "mysql": "MainPID=4510\nActiveState=active",
+    "redis-server": "MainPID=4645\nActiveState=active"
+  },
+  "other_configs_unchanged": true,
+  "public_files_unchanged": true,
+  "status": "APPLIED_AND_NGINX_RELOADED",
+  "finished_at": "2026-10-22T10:41:51.893752+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "revision": "cc132dc0e7da5cecf41d",
+  "html_pages": 296,
+  "internal_anchor_occurrences_checked": 7288,
+  "only_visible_content_changes": [
+    "cases/p09.html",
+    "cases/p10.html",
+    "cases/p36.html",
+    "en/cases/p09.html",
+    "en/cases/p10.html",
+    "en/cases/p36.html"
+  ],
+  "lastmod_changes": {
+    "cases/p09.html": [
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "cases/p10.html": [
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "cases/p36.html": [
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "en/cases/p09.html": [
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "en/cases/p10.html": [
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "en/cases/p36.html": [
+      "2026-10-20",
+      "2026-10-21"
+    ]
+  },
+  "visual_motion_files_byte_unchanged": [
+    "styles.css",
+    "motion.js",
+    "motion.css",
+    "app.js",
+    "assets/article-rotator.js",
+    "assets/stacked-gallery.css",
+    "assets/content-layout.css",
+    "assets/site-analytics.js",
+    "assets/dither-veil.js",
+    "assets/site-analytics.css",
+    "assets/industry-scenarios.css",
+    "assets/industry-scenarios.js",
+    "assets/social-footer.css",
+    "assets/depth-gallery.js",
+    "assets/article-rotator.css",
+    "assets/bits-ui.css",
+    "assets/screenshot-viewer.js",
+    "assets/flex-carousel.css",
+    "assets/bits-ui.js",
+    "assets/editorial.css",
+    "assets/dither-veil.css",
+    "assets/flex-carousel-official.css",
+    "assets/article-library.js",
+    "assets/flex-carousel-official.js",
+    "assets/home-ambient.js",
+    "assets/home-ambient.css",
+    "assets/editorial.js",
+    "assets/articles.css",
+    "assets/vendor/gsap-3.15.0/gsap.min.js",
+    "assets/vendor/gsap-3.15.0/Flip.min.js",
+    "assets/vendor/gsap-3.15.0/ScrollTrigger.min.js"
+  ],
+  "asset_caching": "content hash ?v retained; only navigation controller hash changed",
+  "navigation": "no pv in internal static anchors; from/project/q/category/return retained"
+}

@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-22T10:53:57.002Z",
+  "observations": [
+    {
+      "input": "/articles/",
+      "url": "https://www.eliai.cn/articles.html",
+      "h1": "AI 入门教程与实践文章"
+    },
+    {
+      "input": "/en/articles/",
+      "url": "https://www.eliai.cn/en/articles.html",
+      "h1": "AI tutorials and practical notes"
+    },
+    {
+      "input": "/en/cases/",
+      "url": "https://www.eliai.cn/en/records.html",
+      "h1": "Project library"
+    },
+    {
+      "input": "/services/",
+      "url": "https://www.eliai.cn/index.html#needs",
+      "h1": "帮中小企业用好 AI\n从重复工作开始"
+    },
+    {
+      "input": "/en/services/",
+      "url": "https://www.eliai.cn/en/index.html#needs",
+      "h1": "Put AI to work\nin small businesses"
+    },
+    {
+      "test": "English service link from directory landing",
+      "url": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "h1": "AI implementation for small businesses"
+    },
+    {
+      "test": "FDE language switch",
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "h1": "中小企业 AI 落地实施服务"
+    },
+    {
+      "test": "service detail",
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "h1": "企业知识库搭建与客服辅助答疑"
+    },
+    {
+      "test": "service detail",
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "h1": "库存核对与重复录入自动化"
+    },
+    {
+      "test": "article from redirected column",
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "h1": "库存每天靠人工核对，先改哪一步？"
+    },
+    {
+      "test": "article to case detail",
+      "url": "https://www.eliai.cn/cases/p10.html?from=%2Farticles%2Finventory-reconciliation.html%23case-records",
+      "h1": "洁具行业某大型 B 端厂商库存管理系统"
+    },
+    {
+      "test": "case returns to original article",
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html#case-records"
+    },
+    {
+      "test": "article language switch",
+      "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html#case-records",
+      "h1": "Manual inventory checks every day: where should you start?"
+    }
+  ],
+  "traffic": "OWN_QA_NOT_NATURAL_SEARCH"
+}

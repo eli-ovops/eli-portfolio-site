@@ -1,0 +1,533 @@
+{
+  "checkedAt": "2026-10-21T00:58:23.302Z",
+  "environment": "local preview only; browser viewport simulation, not physical devices",
+  "steps": [
+    {
+      "label": "zh-p10-legacy-url",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+      "width": 1335
+    },
+    {
+      "label": "zh-p10-service-click",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "width": 1335
+    },
+    {
+      "label": "zh-service-to-p09",
+      "back": "http://127.0.0.1:4178/services/workflow-automation.html#service-proof",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p09.html?from=%2Fservices%2Fworkflow-automation.html%23service-proof",
+      "width": 1335
+    },
+    {
+      "label": "zh-p09-return-service",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html#service-proof",
+      "width": 1335
+    },
+    {
+      "label": "zh-service-to-p10",
+      "back": "http://127.0.0.1:4178/services/workflow-automation.html#cases",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html?from=%2Fservices%2Fworkflow-automation.html%23cases",
+      "width": 1335
+    },
+    {
+      "label": "zh-service-related",
+      "back": "http://127.0.0.1:4178/services/workflow-automation.html#cases",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p09.html?from=%2Fservices%2Fworkflow-automation.html%23cases",
+      "width": 1335
+    },
+    {
+      "label": "zh-related-return-service",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html#cases",
+      "width": 1335
+    },
+    {
+      "label": "en-service-language-switch",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact",
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/en/services/workflow-automation.html#cases",
+      "width": 1335
+    },
+    {
+      "label": "mobile-en-p36",
+      "back": "http://127.0.0.1:4178/en/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 375,
+      "service": "http://127.0.0.1:4178/en/services/ai-agent.html",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "mobile-en-p36-contact-visible",
+      "back": "http://127.0.0.1:4178/en/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 375,
+      "service": "http://127.0.0.1:4178/en/services/ai-agent.html",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "mobile-en-knowledge-service-click",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact",
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 375,
+      "url": "http://127.0.0.1:4178/en/services/ai-agent.html",
+      "width": 390
+    },
+    {
+      "label": "mobile-en-consultation",
+      "consult": [],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 375,
+      "url": "http://127.0.0.1:4178/en/about.html#contact",
+      "width": 390
+    },
+    {
+      "label": "mobile-zh-p10",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 345,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "mobile-zh-p10-contact-visible",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 345,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "mobile-p10-language-en",
+      "back": "http://127.0.0.1:4178/en/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 345,
+      "service": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/en/cases/p10.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "mobile-en-inventory-service-click",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact",
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 345,
+      "url": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+      "width": 360
+    },
+    {
+      "label": "mobile-inventory-language-zh",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 345,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "width": 360
+    },
+    {
+      "label": "mobile-zh-consultation",
+      "consult": [],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 345,
+      "url": "http://127.0.0.1:4178/about.html#contact",
+      "width": 360
+    },
+    {
+      "label": "home-legacy-project",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/index.html?project=p10#work",
+      "width": 1335
+    },
+    {
+      "label": "home-to-case",
+      "back": "http://127.0.0.1:4178/index.html?project=p10#work",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html?from=%2Findex.html%3Fproject%3Dp10%23work",
+      "width": 1335
+    },
+    {
+      "label": "home-related-case",
+      "back": "http://127.0.0.1:4178/index.html?project=p10#work",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p09.html?from=%2Findex.html%3Fproject%3Dp10%23work",
+      "width": 1335
+    },
+    {
+      "label": "home-return-project",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact",
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/index.html?project=p10#work",
+      "width": 1335
+    },
+    {
+      "label": "article-origin",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html#case-records",
+      "width": 1335
+    },
+    {
+      "label": "article-to-case",
+      "back": "http://127.0.0.1:4178/articles/inventory-reconciliation.html#case-records",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html?from=%2Farticles%2Finventory-reconciliation.html%23case-records",
+      "width": 1335
+    },
+    {
+      "label": "article-related-case",
+      "back": "http://127.0.0.1:4178/articles/inventory-reconciliation.html#case-records",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p09.html?from=%2Farticles%2Finventory-reconciliation.html%23case-records",
+      "width": 1335
+    },
+    {
+      "label": "article-return",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html#case-records",
+      "width": 1335
+    },
+    {
+      "label": "en-library-start",
+      "consult": [],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "url": "http://127.0.0.1:4178/en/records.html",
+      "width": 1335
+    },
+    {
+      "label": "en-library-filter",
+      "consult": [],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1335,
+      "url": "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory",
+      "width": 1335
+    },
+    {
+      "label": "en-library-to-case",
+      "back": "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory&return=p10",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10",
+      "width": 1335
+    },
+    {
+      "label": "en-library-related",
+      "back": "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory&return=p10",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/en/cases/p09.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10",
+      "width": 1335
+    },
+    {
+      "label": "en-library-return",
+      "consult": [],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "00e9f2e7b896fa57dea3",
+      "scrollWidth": 1335,
+      "url": "http://127.0.0.1:4178/en/records.html?category=Client+work&q=inventory",
+      "width": 1335
+    },
+    {
+      "label": "final-mobile-cases-p09.html",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 345,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p09.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "final-mobile-cases-p10.html",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 345,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "final-mobile-cases-p36.html",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 345,
+      "service": "http://127.0.0.1:4178/services/ai-agent.html",
+      "url": "http://127.0.0.1:4178/cases/p36.html#case-contact-title",
+      "width": 360
+    },
+    {
+      "label": "final-mobile-en-cases-p09.html",
+      "back": "http://127.0.0.1:4178/en/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 375,
+      "service": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/en/cases/p09.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "final-mobile-en-cases-p10.html",
+      "back": "http://127.0.0.1:4178/en/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 375,
+      "service": "http://127.0.0.1:4178/en/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/en/cases/p10.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "final-mobile-en-cases-p36.html",
+      "back": "http://127.0.0.1:4178/en/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/en/about.html#contact"
+      ],
+      "lang": "en",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 375,
+      "service": "http://127.0.0.1:4178/en/services/ai-agent.html",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html#case-contact-title",
+      "width": 390
+    },
+    {
+      "label": "final-desktop-preview",
+      "back": "http://127.0.0.1:4178/records.html",
+      "consult": [
+        "http://127.0.0.1:4178/about.html#contact"
+      ],
+      "lang": "zh-CN",
+      "pvLinks": 0,
+      "revision": "cc132dc0e7da5cecf41d",
+      "scrollWidth": 1320,
+      "service": "http://127.0.0.1:4178/services/workflow-automation.html",
+      "url": "http://127.0.0.1:4178/cases/p10.html#case-contact-title",
+      "width": 1335
+    }
+  ]
+}

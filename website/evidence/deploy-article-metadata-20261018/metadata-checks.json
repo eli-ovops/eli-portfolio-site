@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "article_descriptions_checked": 204,
+  "unchanged_visible_bodies": 296,
+  "sitemap_urls_with_verified_dates": 294,
+  "lastmod_distribution": {
+    "2026-10-17": 180,
+    "2026-10-18": 114
+  },
+  "protected_css_js_sources": 28,
+  "behavior_checks": "PASS: rebuild stability, explicit review, one-page updates, invalid/backdated dates, 404 exclusion and preserved navigation state"
+}

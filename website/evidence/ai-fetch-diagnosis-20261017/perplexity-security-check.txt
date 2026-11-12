@@ -1,0 +1,18 @@
+Browser tab: 25, Title: "请稍候…", URL: "https://www.perplexity.ai/".
+1 AXWebArea 请稍候…, URL: perplexity.ai/
+	2 container
+		3 image www.perplexity.ai 图标
+		4 heading www.perplexity.ai, Value: 1
+			5 text www.perplexity.ai
+		6 heading 正在进行安全验证, Value: 2, ID: znon2
+			16 text 正在进行安全验证
+		8 text 本网站使用安全服务防护恶意自动程序。在验证您不是自动程序期间，将显示此页面。
+	9 container
+		10 text Ray ID: 
+		11 text a4bd8632ddf72638
+		12 text 由 
+		13 link Description: Cloudflare，在新标签页中打开, Value: cloudflare.com/?utm_source=challenge&utm_campaign=m
+		14 text  提供的性能和安全服务
+		15 link Description: 隐私，在新标签页中打开, Value: cloudflare.com/zh-cn/privacypolicy/
+
+The focused UI element is 1 AXWebArea 请稍候…, URL: perplexity.ai/

@@ -1,0 +1,21 @@
+{
+  "templates/home.html": "db15828956bf2b4ef8d5446c548bc415bb85ba073fd87fdeb531fc4b0ce93cb1",
+  "scripts/components.py": "b9d72ba1f68fb3edd47def32558c62feb0e3ac3e6b293ac165dae782cdcc6919",
+  "scripts/localization.py": "f6f94ada5be7d13aebffa9611b59c715ab253a0f53d466aed857a5d8c9753886",
+  "site.yaml": "818ed599476f1e1dc252f4e00a28d3bbd044ff1d2f33698b35304f689b2ac19b",
+  "styles.css": "f27a6c647c3e3498fa5c09841005a33e01f152d76c172c0117054afcfc25be42",
+  "motion.css": "e8179dfd879ebecf4f775354bf4a79c4bcb72d24484ad72bb5ef9521f2d7feb7",
+  "motion.js": "8337a94d322f649474407b85fc73a2613e91ad67aa289038acc18bb709e834a5",
+  "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+  "assets/depth-gallery.js": "1a796d24b2453394489beaa54d4bbd30d5a8d5ff9fb95158e79e69efcfab7c5f",
+  "assets/page-version.js": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49",
+  "assets/screenshot-viewer.js": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1",
+  "assets/editorial.js": "074a4aa17553d80977b0597910872b214e69dcb1b5ad6d233ddbc4d81806dd90",
+  "assets/editorial.css": "17d07df17b5c27d5a8052b13bffbb711902415166fc7799e33666202ba031657",
+  "templates/about.html": "492f47c11999931c3e7b37fe6f1376496433cd1525f10760ff0613fd041ca6d5",
+  "content/seo.json": "dec264d79bde16dfd01771810c8fe810051452c37b9c8c33e82e028a6aa4a6d7",
+  "content/projects.json": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+  "content/profile.json": "215c13cbab5df417db2e371c9023793ab43ba9868e5940242eb187371ef424d1",
+  "content/en.json": "fa9676d5bbf9a31cb412b717c28187b189c15b0c10c4d59ca5fe35818146d406",
+  "content/case-examples.json": "55a7a7167ec0f32d65d73b442419cc42c6dc344ebdbbefe26bfb32562c1cbb2f"
+}

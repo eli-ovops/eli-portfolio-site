@@ -1,0 +1,160 @@
+{
+  "status": "REVIEWABLE_PROPOSAL_NOT_IMPLEMENTED",
+  "source_audit": "article-service-link-audit.json",
+  "changed_topic_count": 5,
+  "potential_changed_html_count": 10,
+  "changes": [
+    {
+      "slug": "ai-inventory-exceptions",
+      "language": "zh-CN",
+      "title": "用 AI 核对库存，第一步为什么只列异常？",
+      "current": {
+        "path": "/services/fde-consulting.html",
+        "label": "需要帮助？了解小范围实施服务 ↗"
+      },
+      "proposed": {
+        "path": "/services/workflow-automation.html",
+        "label": "了解库存与流程提效服务 ↗"
+      },
+      "reason": "正文是按商品、规格、单位和时间列库存异常，与库存核对服务直接对应。"
+    },
+    {
+      "slug": "ai-inventory-exceptions",
+      "language": "en",
+      "title": "Why start AI inventory checking with an exception list?",
+      "current": {
+        "path": "/en/services/fde-consulting.html",
+        "label": "Need help? See small-scale implementation services ↗"
+      },
+      "proposed": {
+        "path": "/en/services/workflow-automation.html",
+        "label": "See inventory and workflow services ↗"
+      },
+      "reason": "正文是按商品、规格、单位和时间列库存异常，与库存核对服务直接对应。"
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "language": "zh-CN",
+      "title": "表格太乱，AI 清洗前先定什么规则？",
+      "current": {
+        "path": "/services/fde-consulting.html",
+        "label": "需要帮助？了解小范围实施服务 ↗"
+      },
+      "proposed": {
+        "path": "/services/workflow-automation.html",
+        "label": "了解库存与流程提效服务 ↗"
+      },
+      "reason": "正文是字段、单位、缺失值及变更规则，与流程核对和重复录入服务对应。"
+    },
+    {
+      "slug": "ai-spreadsheet-cleaning",
+      "language": "en",
+      "title": "What rules come before AI spreadsheet cleaning?",
+      "current": {
+        "path": "/en/services/fde-consulting.html",
+        "label": "Need help? See small-scale implementation services ↗"
+      },
+      "proposed": {
+        "path": "/en/services/workflow-automation.html",
+        "label": "See inventory and workflow services ↗"
+      },
+      "reason": "正文是字段、单位、缺失值及变更规则，与流程核对和重复录入服务对应。"
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "language": "zh-CN",
+      "title": "企业知识库从哪里开始，不是把文件全上传？",
+      "current": {
+        "path": "/services/fde-consulting.html",
+        "label": "需要帮助？了解小范围实施服务 ↗"
+      },
+      "proposed": {
+        "path": "/services/ai-agent.html",
+        "label": "了解知识库与答疑服务 ↗"
+      },
+      "reason": "正文是资料版本、负责人、范围及无依据转人工，与知识库服务直接对应。"
+    },
+    {
+      "slug": "ai-knowledge-base-start",
+      "language": "en",
+      "title": "How do you start a business knowledge base?",
+      "current": {
+        "path": "/en/services/fde-consulting.html",
+        "label": "Need help? See small-scale implementation services ↗"
+      },
+      "proposed": {
+        "path": "/en/services/ai-agent.html",
+        "label": "See knowledge-base and support services ↗"
+      },
+      "reason": "正文是资料版本、负责人、范围及无依据转人工，与知识库服务直接对应。"
+    },
+    {
+      "slug": "rag-explained",
+      "language": "zh-CN",
+      "title": "RAG 是什么？为什么企业知识库常用它？",
+      "current": {
+        "path": "/services/fde-consulting.html",
+        "label": "需要帮助？了解小范围实施服务 ↗"
+      },
+      "proposed": {
+        "path": "/services/ai-agent.html",
+        "label": "了解知识库与答疑服务 ↗"
+      },
+      "reason": "正文是检索、来源和无依据时停止，与知识库问答试用直接对应。"
+    },
+    {
+      "slug": "rag-explained",
+      "language": "en",
+      "title": "What is RAG, and why use it for a knowledge base?",
+      "current": {
+        "path": "/en/services/fde-consulting.html",
+        "label": "Need help? See small-scale implementation services ↗"
+      },
+      "proposed": {
+        "path": "/en/services/ai-agent.html",
+        "label": "See knowledge-base and support services ↗"
+      },
+      "reason": "正文是检索、来源和无依据时停止，与知识库问答试用直接对应。"
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "language": "zh-CN",
+      "title": "微调、知识库和提示词，先用哪个？",
+      "current": {
+        "path": "/services/fde-consulting.html",
+        "label": "需要帮助？了解小范围实施服务 ↗"
+      },
+      "proposed": {
+        "path": "/services/ai-agent.html",
+        "label": "了解知识库与答疑服务 ↗"
+      },
+      "reason": "正文比较提示词、知识检索和微调，知识库服务也先判断检索是否足够，而非承诺训练模型。"
+    },
+    {
+      "slug": "fine-tuning-or-rag",
+      "language": "en",
+      "title": "Prompting, RAG or fine-tuning: where should you start?",
+      "current": {
+        "path": "/en/services/fde-consulting.html",
+        "label": "Need help? See small-scale implementation services ↗"
+      },
+      "proposed": {
+        "path": "/en/services/ai-agent.html",
+        "label": "See knowledge-base and support services ↗"
+      },
+      "reason": "正文比较提示词、知识检索和微调，知识库服务也先判断检索是否足够，而非承诺训练模型。"
+    }
+  ],
+  "implementation_scope": "Only per-lesson service destination/label overrides and validation for these five topics. Keep the other 95 tutorial topics on FDE and preserve two existing case articles. No CSS/JS/template layout, article body, cases, price promises or URL changes.",
+  "validation_if_authorized": [
+    "5 topics and both languages resolve to intended service",
+    "Other 97 topics retain service destinations and labels",
+    "Language switches retain topic and anchors",
+    "Mobile link wraps without overflow or consultation obstruction",
+    "Service-to-case return and consultation paths remain valid",
+    "Changed dates recorded only for actual changed pages",
+    "No search platform submissions"
+  ],
+  "authority": "User previously required website unchanged. No code/content/build/deploy change performed in this audit. Ask before implementing this concrete proposal.",
+  "traffic_effect": "UNKNOWN. More relevant routing is a usability hypothesis, not evidence of higher rank, click-through or conversion."
+}

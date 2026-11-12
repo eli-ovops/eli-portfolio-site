@@ -1,0 +1,1 @@
+Task-created retained evidence: before-public(.tar.gz) previous release/recovery; public/ scoped candidate; release.tar.gz verified deployment package; plan/preflight/publish/validate receipts; browser/public checks and screenshots. No disposable files deleted. No private source, secrets or evidence included in published153-file archive.

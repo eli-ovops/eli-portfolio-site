@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-15",
+  "status": "LOCAL_IMPLEMENTED_VALIDATED_WITH_OPEN_NAVIGATION_OBSERVATION",
+  "revision": "e2f873ead9c54daf4412",
+  "preview": "http://127.0.0.1:4178/about.html?pv=e2f873ead9c54daf4412",
+  "publication_authorized_this_task": false,
+  "deployed": false,
+  "indexing_enabled": false,
+  "model": "UNKNOWN",
+  "reasoning_effort": "UNKNOWN",
+  "rules_version": "ROUTING-2026-10-13-v4",
+  "source_root": "/Users/USER/Documents/原点向量/个人网站/website",
+  "changed_sources": [
+    "assets/bits-ui.css",
+    "assets/bits-ui.js",
+    "assets/editorial.js",
+    "assets/vendor/react-bits-components/NOTICE.md",
+    "docs/asset-register.json",
+    "scripts/components.py",
+    "scripts/localization.py",
+    "site.yaml",
+    "templates/about.html",
+    "templates/archive-row.html"
+  ],
+  "new_sources": [
+    "assets/dither-veil.js",
+    "assets/dither-veil.css",
+    "assets/react-bits-dither-robot.jpg"
+  ],
+  "checks": "check-runs.json",
+  "browser": "browser-checks.json",
+  "upstream": "upstream-manifest.json",
+  "report": "report.md",
+  "open_observation": "Occasional first header navigation after rapid browser Back needs focused follow-up",
+  "user_visual_acceptance": "PENDING"
+}

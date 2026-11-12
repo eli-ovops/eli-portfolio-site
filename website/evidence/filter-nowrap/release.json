@@ -1,0 +1,11 @@
+{
+  "release": "20261007-183736-filters",
+  "previous": "/srv/eli-sites/portfolio/releases/20261007-144516",
+  "target": "/srv/eli-sites/portfolio/releases/20261007-183736-filters",
+  "css_sha256": "6dd02ef8851028b95c74ffb603146fa15ceb31d4ace5a3f01473058997d63974",
+  "changed": [
+    "styles.css",
+    "health.json"
+  ],
+  "rollback": "atomic public symlink to previous"
+}

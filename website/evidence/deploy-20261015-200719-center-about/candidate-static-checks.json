@@ -1,0 +1,6 @@
+{
+  "html_pages": 84,
+  "links_anchors_h1": "PASS",
+  "archive": "Regular USTAR files only; no PAX/xattr/hidden/symlink assets; extracted content hashes matched",
+  "catalogue": "Existing production catalogue preserved except shared layout/asset hashes/version links"
+}

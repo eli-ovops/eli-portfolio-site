@@ -1,0 +1,99 @@
+{
+  "status": "PASS",
+  "revision": "0f0e9828ed3aa45c3a19",
+  "checks": [
+    {
+      "check": "mobile390 initial banner",
+      "result": {
+        "bar": {
+          "bottom": 844.1793823242188,
+          "height": 99.4375,
+          "left": 0,
+          "right": 375,
+          "top": 744.7418823242188,
+          "width": 375,
+          "x": 0,
+          "y": 744.7418823242188
+        },
+        "cta": {
+          "bottom": 686.140625,
+          "height": 60,
+          "left": 20,
+          "right": 172.390625,
+          "top": 626.140625,
+          "width": 152.390625,
+          "x": 20,
+          "y": 626.140625
+        },
+        "glass": "none",
+        "h": 844,
+        "overflow": false,
+        "sdk": false,
+        "w": 390,
+        "y": 0
+      }
+    },
+    {
+      "check": "mobile320 banner and consultation clearance",
+      "result": {
+        "barTop": 619.125,
+        "buttons": [
+          {
+            "height": 44,
+            "text": "允许统计"
+          },
+          {
+            "height": 44,
+            "text": "暂不"
+          }
+        ],
+        "ctaBottom": 602.53125,
+        "overflow": false,
+        "scrollLocked": false,
+        "w": 320
+      }
+    },
+    {
+      "check": "deny after animation",
+      "result": {
+        "hidden": true,
+        "padding": "0px",
+        "sdk": false
+      }
+    },
+    {
+      "check": "deny persists after reload",
+      "result": {
+        "hidden": true,
+        "sdk": false
+      }
+    },
+    {
+      "check": "allow from privacy panel",
+      "result": {
+        "dialogOpen": false,
+        "noticeHidden": true,
+        "sdk": true
+      }
+    },
+    {
+      "check": "allow persists after reload",
+      "result": {
+        "hidden": true,
+        "sdk": true
+      }
+    },
+    {
+      "check": "direct banner allow",
+      "result": {
+        "sdk": true
+      }
+    }
+  ],
+  "originalConsent": "deny",
+  "restoredTo": "deny",
+  "limits": [
+    "Simulated mobile viewport only",
+    "Front-end consent and loading verified; Baidu conversion dashboard remains independent"
+  ]
+}

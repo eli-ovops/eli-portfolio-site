@@ -1,0 +1,40 @@
+<main id="main" class="home-main">
+  <section class="portfolio-intro" aria-label="个人介绍">
+    <div class="intro-copy">
+      <p class="intro-identity"><span class="hello-mark" aria-hidden="true">HELLO.</span><span class="intro-name">${public_name}</span><span class="intro-position">网站 · 工具 · 应用</span></p>
+      <h1 data-motion-title>${headline}</h1>
+      <p class="intro-description">${intro}</p>
+      <div class="intro-actions"><a class="primary" data-magnetic href="#work">看看作品 <span aria-hidden="true">↓</span></a><a class="text-link" data-magnetic href="about.html#contact">联系我 <span aria-hidden="true">↗</span></a></div>
+    </div>
+  </section>
+  <section class="selected-work" id="work" aria-labelledby="work-title">
+    <div class="work-heading"><h2 id="work-title">做过这些。<span>SELECTED WORK</span></h2><a class="text-link" href="records.html">项目库 <span aria-hidden="true">↗</span></a></div>
+    <section class="work-group" id="websites" aria-labelledby="websites-title">
+      <div class="work-group-heading"><h3 id="websites-title">前台展示网站</h3></div>
+      <div class="selected-grid client-projects">${display_projects}</div>
+    </section>
+    <section class="work-group work-group--system" id="systems" aria-labelledby="systems-title">
+      <div class="work-group-heading"><h3 id="systems-title">业务系统与流程</h3></div>
+      <div class="system-feature client-projects">${system_project}</div>
+      <div class="client-stories">${system_stories}</div>
+    </section>
+    <section class="work-group work-group--brand" id="brand-ai" aria-labelledby="brand-ai-title">
+      <div class="work-group-heading"><h3 id="brand-ai-title">品牌营销与 AI 客服</h3></div>
+      <div class="selected-grid client-projects">${brand_projects}</div>
+    </section>
+  </section>
+  <section class="capabilities" aria-labelledby="capabilities-title">
+    <div class="section-intro"><h2 id="capabilities-title">把问题拆小，<br>把东西做出来。</h2></div>
+    <div class="capability-list">
+      <article><h3>网站与品牌展示</h3><p>把产品、服务与内容放进清晰的网站，让访客容易找到重点。</p><a class="text-link" href="cases/p03.html">律所官网 <span aria-hidden="true">↗</span></a></article>
+      <article><h3>业务系统与流程</h3><p>从出入库到办公协作，把操作步骤组织成清楚的界面。</p><div class="capability-links"><a class="text-link" href="cases/p10.html">库存管理系统 <span aria-hidden="true">↗</span></a><a class="text-link" href="cases/p04.html">律所 OA <span aria-hidden="true">↗</span></a></div></article>
+      <article><h3>AI 辅助工具</h3><p>围绕内容制作和产品问答，尝试让 AI 融入具体的工作。</p><div class="capability-links"><a class="text-link" href="cases/p12.html">织境 <span aria-hidden="true">↗</span></a><a class="text-link" href="cases/p36.html">RAG 客服 <span aria-hidden="true">↗</span></a></div></article>
+      <article><h3>持续迭代</h3><p>在个人项目里处理使用细节、修正问题，把体验一步步打磨好。</p><a class="text-link" href="cases/p13.html">Pocket Rove <span aria-hidden="true">↗</span></a></article>
+    </div>
+  </section>
+  <section class="personal-work" aria-labelledby="personal-work-title">
+    <div class="section-intro"><h2 id="personal-work-title">自己动手做的。</h2><p>一些由我主导的网站、工具和小应用。</p></div>
+    <div class="personal-project-list">${personal_projects}<a class="text-link" href="cases/p06.html">AI 录单交互原型 <span aria-hidden="true">↗</span></a></div>
+  </section>
+  <section class="home-about"><div><h2>关于 Eli。</h2></div><div><p class="home-personality">${personality}</p><div class="about-links"><a class="text-link" href="about.html">认识 Eli <span aria-hidden="true">↗</span></a><a class="text-link" href="about.html#contact">联系我 <span aria-hidden="true">↗</span></a></div></div></section>
+</main>

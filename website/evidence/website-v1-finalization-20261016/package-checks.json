@@ -1,0 +1,11 @@
+{
+  "files": 155,
+  "html_pages": 90,
+  "sitemap_urls": 88,
+  "verification_files": 5,
+  "archive": "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/website-v1-finalization-20261016/website-v1-7a22fe8d4bbc27b7e98f.tar.gz",
+  "archive_sha256": "337ed208dd204854066dc5800cac977ff1949a40ed99ffaa30659709cf22a0bc",
+  "archive_bytes": 7303741,
+  "all_archive_member_hashes_match": true,
+  "normalization_receipt": "candidate-normalization.json"
+}

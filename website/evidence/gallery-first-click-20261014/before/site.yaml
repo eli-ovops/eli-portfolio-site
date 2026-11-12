@@ -1,0 +1,137 @@
+# Global canonical blank template. Copy to a project as site.yaml.
+# Never put secret values, credentials, business data, or real private keys here.
+schema_version: "1.0"
+status: "public-static-release"
+site_id: "personal-practice-portfolio"
+project: "personal-website"
+confirmed_by: "user: publish current portfolio on shared server"
+confirmed_at: "2026-10-07"
+no_secret_values: true
+
+server:
+  reference: "/Users/USER/.codex/servers/jdcloud-[REDACTED_HOST]/AGENTS.md"
+  owner: "user"
+
+environments:
+  # `enabled` only declares whether this target is configured for use.
+  # It never grants deploy authorization; authorization is recorded under `deployment`.
+  preview:
+    enabled: true
+    public_url: "http://127.0.0.1:4178"
+    admin_path: null
+  production:
+    enabled: true
+    public_url: "http://[REDACTED_HOST]/sites/portfolio/"
+    admin_path: null
+
+repository:
+  repo_url: "UNKNOWN"
+  approved_branch: "UNKNOWN"
+  production_branch: "main"
+  commit_sha_required: false # existing non-Git source; release file hashes and archive SHA-256 recorded
+
+architecture: "static"
+
+toolchain:
+  node: ">=20.9.0"
+  pnpm_major: null
+  package_manager: null
+  lockfile: null
+  payload_version: null
+
+runtime:
+  app_port_reference: null
+  health_port_reference: null
+
+deployment:
+  # Select exactly one mechanism that is confirmed by the project guide/site contract.
+  # Supported mechanisms: local, ssh-forced-command, ssh-shell, container, ci, console.
+  # Do not infer a forced command, publisher, wrapper, validate step, or lock from this template.
+  mechanism: "ssh-shell"
+  call_carrier: "strict SSH/SCP according to server guide"
+  forced_command_reference: null
+  allowed_modes:
+    - "static"
+  guide_reference: "/Users/USER/.codex/servers/jdcloud-[REDACTED_HOST]/AGENTS.md"
+  production_approval_required: true
+  authorization_reference: "2026-10-14 user explicitly publishes boss-facing copy, user-provided 30+ cases, free consultation and small-tool explanation; 20261014-133040-boss-consult; evidence/deploy-20261014-133040-boss-consult/receipt.json"
+  deploy_owner: "current website execution chat"
+  validate_required: "not-applicable"
+  status_required: true
+
+  # Eli preview exception: use `ssh-shell`, set `validate_required: not-applicable`,
+  # and reference `eli-roxychao-deployment` plus its live guide. Eli has ordinary
+  # SSH/PTY and no forced command, publisher, wrapper, validate chain, or deploy lock.
+  eli_preview_exception: false
+
+storage:
+  code_reference: "UNKNOWN"
+  releases_reference: "UNKNOWN"
+  database_reference: "UNKNOWN"
+  media_reference: "UNKNOWN"
+
+database:
+  type: "UNKNOWN"
+  credential_secret_ref: "UNKNOWN"
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "UNKNOWN"
+  developer: "UNKNOWN"
+  server_owner: "UNKNOWN"
+
+migration:
+  required: false
+  required_for_localization: true
+  procedure_reference: "UNKNOWN"
+  production_approval_required: true
+
+backup:
+  procedure_reference: "UNKNOWN"
+  database_and_media_separate: true
+  restore_rehearsal_required: true
+
+release_retention:
+  policy_reference: "UNKNOWN"
+  previous_accepted_release_required: true
+
+health_checks:
+  public_page: "UNKNOWN"
+  application: "UNKNOWN"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "UNKNOWN"
+  explicit_authorization_required: true
+
+local_scope:
+  level: "internal preview"
+  current_task_authorization: "2026-10-14 local homepage component/layout and scoped motion refinement; no publication/indexing"
+  current_task_publication_authorized: false
+  current_task_receipt: "evidence/home-component-layout-20261014/receipt.json"
+  python: "3.9.6"
+  project_dependencies: ["GSAP 3.15.0 core, locally vendored"]
+  database: null
+  publication_authorized: true
+  source_asset_rights: "UNKNOWN"
+  actual_model: "UNKNOWN"
+  actual_effort: "UNKNOWN"
+  routing_version: "ROUTING-2026-10-13-v4"
+
+localization:
+  default_language: "zh-CN"
+  languages: ["zh-CN", "en"]
+  english_path: "en/"
+  authorization_reference: "2026-10-07 user requests full English version with language switching"
+
+seo:
+  configuration_reference: "content/seo.json"
+  indexing_enabled: false
+  status: "Boss-facing copy and free consultation published and accepted: 20261014-133040-boss-consult / afc3f340d7a7bf1053c5; indexing disabled; domain/filing remain separate gates"
+  local_optimization_reference: "docs/SEO与GEO服务定位-20261014.md"
+  experiment_reference: "docs/SEO准备与自然流量实验.md"

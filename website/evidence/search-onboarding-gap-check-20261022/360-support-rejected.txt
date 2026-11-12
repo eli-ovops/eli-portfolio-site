@@ -1,0 +1,51 @@
+- paragraph:
+  - link "360官网":
+    - /url: //www.360.com/
+  - text: "|"
+  - link "360商城":
+    - /url: //mall.360.cn/?utm_source=SQDH007
+- link:
+  - /url: //bbs.360.cn/
+- textbox: 帖子
+- button "Submit"
+- link:
+  - /url: https://bbs.360.cn/space-uid-60933149.html
+- link "快捷导航":
+  - /url: javascript:;
+- link "推荐":
+  - /url: https://bbs.360.cn/newindex.php
+- link "论坛":
+  - /url: https://bbs.360.cn/forumall.html
+- link "版块":
+  - /url: https://bbs.360.cn/forum.php
+- link "360粉丝商城":
+  - /url: https://fuli.360.cn/netjf/index.html?from=shequ
+- link "360用户活动":
+  - /url: https://bbs.360.cn/forum-7667-1.html
+- link "常见问题":
+  - /url: https://faq.bbs.360.cn/#/product?channelid=27
+- paragraph: 抱歉，您没有权限发表 URL 链接
+- paragraph:
+  - link "[ 点击这里返回上一页 ]":
+    - /url: javascript:history.back()
+- link "社区合作":
+  - /url: https://bbs.360.cn/thread-14623327-1-1.html
+- text: "|"
+- link "积分商城":
+  - /url: "http://jifen.360.cn/?src=bbs   "
+- text: "|"
+- link "举报":
+  - /url: javascript:;
+- text: "|"
+- link "小黑屋":
+  - /url: https://bbs.360.cn/forum.php?mod=misc&action=showdarkroom
+- text: "|"
+- link "Archiver":
+  - /url: https://bbs.360.cn/archiver/
+- text: "| 备案证号："
+- link "京公网安备11010502062738号":
+  - /url: https://beian.mps.gov.cn/#/query/webSearch?code=11010502062738
+  - text: 京公网安备11010502062738号
+- link "京ICP备08010314号-6":
+  - /url: http://beian.miit.gov.cn/
+- text: Copyright©2005-2026 360.com 版权所有 360互联网安全中心

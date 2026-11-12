@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-17T10:56:33.195Z",
+  "incoming": [
+    {
+      "date": "Sat, 17 Oct 2026 07:32:54 +0000",
+      "text": "Thank you for reaching out to Perplexity's Support. Here's what you can expect from us: \n \n We have written this automated response as a confirmation that your message has been delivered to us. We will be taking a look at the earliest possible time. \n \n In the meantime, you may be able to find immediate answers to address your questions or concerns on our Help Center. \n \n You can also ask our community questions on our Discord. \n \n If you are reaching out as part of organization using Enterprise Pro, streamlined support for Enterprise users is available by signing into your account and sending us a message. \n \n We appreciate your patience. Our team is focused on delivering a quick solution for you. Thanks in advance for your patience. \n \n The Perplexity Support Team"
+    },
+    {
+      "date": "Sat, 17 Oct 2026 07:33:12 +0000",
+      "text": "I can help capture this for investigation. Current Perplexity status is operational, so this does not appear to match an active platform-wide incident.\n\nPlease send two details so we can validate the report fully:\n\n1. The Perplexity thread URL where the failed fetch occurred, if available.\n2. The exact wording of the error/answer text shown by Perplexity, copied word for word.\n\nOptional but helpful:\n- A screenshot of the failed answer.\n- The browser you used for the test, such as Chrome, Safari, Firefox, or Edge.\n\nYou’ve already provided the affected URL, diagnostic URL, reproduction steps, timing, and origin-side checks, so no need to repeat those."
+    }
+  ]
+}

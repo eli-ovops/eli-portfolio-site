@@ -1,0 +1,103 @@
+- banner:
+  - link:
+    - /url: "javascript: void(0);"
+  - list:
+    - link "搜索服务":
+      - /url: "javascript: void(0);"
+    - link "搜索学院":
+      - /url: "javascript: void(0);"
+    - link "用户中心":
+      - /url: "javascript: void(0);"
+    - link "互动交流":
+      - /url: "javascript: void(0);"
+  - link "[phone-redacted]":
+    - /url: "javascript: void(0);"
+  - link "退出":
+    - /url: "javascript: void(0);"
+  - generic: 消息
+- heading "用户中心" [level=3]
+- list:
+  - generic: 账户信息
+  - generic: 网站管理
+  - generic: 网站成员
+  - generic: 公告中心
+- heading "网站管理" [level=4]
+- paragraph:
+  - text: 为证明您是该网站的拥有者，使用平台功能前您需完成网站验证，并提交相关资质。审核通过后，方可管理网站数据。
+  - link "点此了解更多":
+    - /url: /index.php/help/siteVerify
+- generic: 注意“资质提交”进行对应资质填写并经过搜索后台审核通过，均完成后可成为网站拥有者。
+- link "添加网站":
+  - /url: /index.php/dashboard/websiteAdd
+  - text: 添加网站
+- generic: 网站地址
+- generic: 状态
+- generic: 提交时间
+- generic: 权限
+- generic: 操作
+- link "www.eliai.cn":
+  - /url: https://www.eliai.cn
+- generic: 已验证根目录
+- generic: 2026-10-16
+- generic: 高级管理员
+- link "资质提交":
+  - /url: javascript:void(0);
+- link "删除":
+  - /url: "javascript: void(0);"
+- contentinfo:
+  - list:
+    - heading "搜索服务" [level=3]
+    - list:
+      - link "资源提交":
+        - /url: "javascript: void(0);"
+      - link "搜索展现":
+        - /url: "javascript: void(0);"
+      - link "网站支持":
+        - /url: "javascript: void(0);"
+      - link "数据统计":
+        - /url: "javascript: void(0);"
+    - heading "搜索学院" [level=3]
+    - list:
+      - link "工具说明":
+        - /url: "javascript: void(0);"
+      - link "搜索规范":
+        - /url: "javascript: void(0);"
+      - link "建站优化":
+        - /url: "javascript: void(0);"
+      - link "资源合作":
+        - /url: "javascript: void(0);"
+    - heading "用户中心" [level=3]
+    - list:
+      - link "账户信息":
+        - /url: "javascript: void(0);"
+      - link "网站管理":
+        - /url: "javascript: void(0);"
+      - link "网站成员":
+        - /url: "javascript: void(0);"
+      - link "消息中心":
+        - /url: "javascript: void(0);"
+      - link "公告中心":
+        - /url: "javascript: void(0);"
+    - heading "互动交流" [level=3]
+    - list:
+      - link "问题反馈":
+        - /url: "javascript: void(0);"
+      - link "联系我们":
+        - /url: "javascript: void(0);"
+    - heading "联系方式" [level=3]
+    - list:
+      - 'link "QQ群1: 327024323"':
+        - /url: "javascript: void(0);"
+      - 'link "QQ群2: 418650081"':
+        - /url: "javascript: void(0);"
+      - link "邮箱：[account-email-redacted]":
+        - /url: "javascript: void(0);"
+      - link "工作日9:00-18:00":
+        - /url: "javascript: void(0);"
+  - paragraph:
+    - text: 友情链接
+    - link "企鹅号":
+      - /url: https://om.qq.com/userAuth/index
+    - link "微信小程序":
+      - /url: https://mp.weixin.qq.com/cgi-bin/wx
+  - paragraph: Copyright © sogou.com.All Rights Reserved

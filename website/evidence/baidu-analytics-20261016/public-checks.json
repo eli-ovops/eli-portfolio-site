@@ -1,0 +1,72 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "about.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "records.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "cases/p10.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "en/index.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "en/about.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "en/cases/p36.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "services/fde-consulting.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "services/ai-agent.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "services/workflow-automation.html",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/site-analytics.js",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "assets/site-analytics.css",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "robots.txt",
+    "status": 200,
+    "sha256_match": true
+  },
+  {
+    "path": "sitemap.xml",
+    "status": 200,
+    "sha256_match": true
+  }
+]

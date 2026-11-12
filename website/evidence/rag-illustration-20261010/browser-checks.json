@@ -1,0 +1,187 @@
+{
+  "layout": [
+    {
+      "disclosure": "以下问题、答复及资料摘录均由 AI 拟写，仅用于说明知识问答、引用和信息不足时的处理方式。不是客户产品说明、真实客服记录或系统测试结果。",
+      "evidence": "已有证据与缺口已有材料包括本人对知识库、检索与测试职责的说明，以及 2026 年 10 月 6 日截取的客服初始窗口。该次截图没有发送问题，只能说明界面与入口。真实问答、知识库来源原文、检索命中记录及失败修正前后对照尚未取得。上述示意不能替代这些证据，也不用于推算准确率、客户采用或业务收益。",
+      "examples": [
+        {
+          "cite": "示意资料 A（AI 拟写）",
+          "label": "AI 拟写示意 · 非真实客服记录",
+          "sourceHref": "#rag-demo-source-a",
+          "sourceId": "rag-demo-source-a",
+          "title": "申请售后需要提供哪些信息？"
+        },
+        {
+          "cite": "示意资料 B（AI 拟写）",
+          "label": "AI 拟写示意 · 非真实客服记录",
+          "sourceHref": "#rag-demo-source-b",
+          "sourceId": "rag-demo-source-b",
+          "title": "这个型号的滤芯能去除铅吗？"
+        }
+      ],
+      "images": [
+        {
+          "loaded": true
+        }
+      ],
+      "qaHeading": "问答与引用示意",
+      "scrollWidth": 305,
+      "url": "/cases/p36.html",
+      "width": 305
+    },
+    {
+      "disclosure": "The questions, answers and source excerpts below were written by AI to illustrate knowledge-based answers, citations and handling missing information. They are not client product documentation, real support conversations or system test results.",
+      "evidence": "Available evidence and gapsAvailable materials include my account of knowledge-base, retrieval and testing responsibilities, plus the initial support window captured on October 6, 2026. No question was sent during that capture; it documents the interface and entry point only.Real answers, original knowledge sources, retrieval-hit records and before/after corrections have not been obtained. The illustrative examples do not replace that evidence or establish accuracy, client adoption or business outcomes.",
+      "examples": [
+        {
+          "cite": "Illustrative source A (AI-written)",
+          "label": "AI-written illustration · not a real support record",
+          "sourceHref": "#rag-demo-source-a",
+          "sourceId": "rag-demo-source-a",
+          "title": "What information should I provide for after-sales support?"
+        },
+        {
+          "cite": "Illustrative source B (AI-written)",
+          "label": "AI-written illustration · not a real support record",
+          "sourceHref": "#rag-demo-source-b",
+          "sourceId": "rag-demo-source-b",
+          "title": "Does this cartridge model remove lead?"
+        }
+      ],
+      "images": [
+        {
+          "loaded": true
+        }
+      ],
+      "qaHeading": "Illustrative answers and citations",
+      "scrollWidth": 305,
+      "url": "/en/cases/p36.html",
+      "width": 305
+    },
+    {
+      "disclosure": "以下问题、答复及资料摘录均由 AI 拟写，仅用于说明知识问答、引用和信息不足时的处理方式。不是客户产品说明、真实客服记录或系统测试结果。",
+      "evidence": "已有证据与缺口已有材料包括本人对知识库、检索与测试职责的说明，以及 2026 年 10 月 6 日截取的客服初始窗口。该次截图没有发送问题，只能说明界面与入口。真实问答、知识库来源原文、检索命中记录及失败修正前后对照尚未取得。上述示意不能替代这些证据，也不用于推算准确率、客户采用或业务收益。",
+      "examples": [
+        {
+          "cite": "示意资料 A（AI 拟写）",
+          "label": "AI 拟写示意 · 非真实客服记录",
+          "sourceHref": "#rag-demo-source-a",
+          "sourceId": "rag-demo-source-a",
+          "title": "申请售后需要提供哪些信息？"
+        },
+        {
+          "cite": "示意资料 B（AI 拟写）",
+          "label": "AI 拟写示意 · 非真实客服记录",
+          "sourceHref": "#rag-demo-source-b",
+          "sourceId": "rag-demo-source-b",
+          "title": "这个型号的滤芯能去除铅吗？"
+        }
+      ],
+      "images": [
+        {
+          "loaded": true
+        }
+      ],
+      "qaHeading": "问答与引用示意",
+      "scrollWidth": 375,
+      "url": "/cases/p36.html",
+      "width": 375
+    },
+    {
+      "disclosure": "The questions, answers and source excerpts below were written by AI to illustrate knowledge-based answers, citations and handling missing information. They are not client product documentation, real support conversations or system test results.",
+      "evidence": "Available evidence and gapsAvailable materials include my account of knowledge-base, retrieval and testing responsibilities, plus the initial support window captured on October 6, 2026. No question was sent during that capture; it documents the interface and entry point only.Real answers, original knowledge sources, retrieval-hit records and before/after corrections have not been obtained. The illustrative examples do not replace that evidence or establish accuracy, client adoption or business outcomes.",
+      "examples": [
+        {
+          "cite": "Illustrative source A (AI-written)",
+          "label": "AI-written illustration · not a real support record",
+          "sourceHref": "#rag-demo-source-a",
+          "sourceId": "rag-demo-source-a",
+          "title": "What information should I provide for after-sales support?"
+        },
+        {
+          "cite": "Illustrative source B (AI-written)",
+          "label": "AI-written illustration · not a real support record",
+          "sourceHref": "#rag-demo-source-b",
+          "sourceId": "rag-demo-source-b",
+          "title": "Does this cartridge model remove lead?"
+        }
+      ],
+      "images": [
+        {
+          "loaded": true
+        }
+      ],
+      "qaHeading": "Illustrative answers and citations",
+      "scrollWidth": 375,
+      "url": "/en/cases/p36.html",
+      "width": 375
+    },
+    {
+      "disclosure": "以下问题、答复及资料摘录均由 AI 拟写，仅用于说明知识问答、引用和信息不足时的处理方式。不是客户产品说明、真实客服记录或系统测试结果。",
+      "evidence": "已有证据与缺口已有材料包括本人对知识库、检索与测试职责的说明，以及 2026 年 10 月 6 日截取的客服初始窗口。该次截图没有发送问题，只能说明界面与入口。真实问答、知识库来源原文、检索命中记录及失败修正前后对照尚未取得。上述示意不能替代这些证据，也不用于推算准确率、客户采用或业务收益。",
+      "examples": [
+        {
+          "cite": "示意资料 A（AI 拟写）",
+          "label": "AI 拟写示意 · 非真实客服记录",
+          "sourceHref": "#rag-demo-source-a",
+          "sourceId": "rag-demo-source-a",
+          "title": "申请售后需要提供哪些信息？"
+        },
+        {
+          "cite": "示意资料 B（AI 拟写）",
+          "label": "AI 拟写示意 · 非真实客服记录",
+          "sourceHref": "#rag-demo-source-b",
+          "sourceId": "rag-demo-source-b",
+          "title": "这个型号的滤芯能去除铅吗？"
+        }
+      ],
+      "images": [
+        {
+          "loaded": true
+        }
+      ],
+      "qaHeading": "问答与引用示意",
+      "scrollWidth": 1265,
+      "url": "/cases/p36.html",
+      "width": 1265
+    },
+    {
+      "disclosure": "The questions, answers and source excerpts below were written by AI to illustrate knowledge-based answers, citations and handling missing information. They are not client product documentation, real support conversations or system test results.",
+      "evidence": "Available evidence and gapsAvailable materials include my account of knowledge-base, retrieval and testing responsibilities, plus the initial support window captured on October 6, 2026. No question was sent during that capture; it documents the interface and entry point only.Real answers, original knowledge sources, retrieval-hit records and before/after corrections have not been obtained. The illustrative examples do not replace that evidence or establish accuracy, client adoption or business outcomes.",
+      "examples": [
+        {
+          "cite": "Illustrative source A (AI-written)",
+          "label": "AI-written illustration · not a real support record",
+          "sourceHref": "#rag-demo-source-a",
+          "sourceId": "rag-demo-source-a",
+          "title": "What information should I provide for after-sales support?"
+        },
+        {
+          "cite": "Illustrative source B (AI-written)",
+          "label": "AI-written illustration · not a real support record",
+          "sourceHref": "#rag-demo-source-b",
+          "sourceId": "rag-demo-source-b",
+          "title": "Does this cartridge model remove lead?"
+        }
+      ],
+      "images": [
+        {
+          "loaded": true
+        }
+      ],
+      "qaHeading": "Illustrative answers and citations",
+      "scrollWidth": 1265,
+      "url": "/en/cases/p36.html",
+      "width": 1265
+    }
+  ],
+  "citationClick": {
+    "hash": "#rag-demo-source-a",
+    "matchedExcerpt": true
+  },
+  "screenshots": [
+    "rag-qa-desktop.jpg",
+    "rag-qa-mobile.jpg"
+  ],
+  "illustrationsAreEvidence": false
+}

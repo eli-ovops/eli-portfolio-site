@@ -1,0 +1,1028 @@
+{
+  "checked_at": "2026-10-20T02:00:39.529Z",
+  "connectors": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"id\":\"searchconsole\",\"accounts\":[{\"id\":\"https://www.eliai.cn/\"}],\"options\":[\"include_fresh_data\"]}]"
+      }
+    ],
+    "structuredContent": {
+      "result": [
+        {
+          "id": "searchconsole",
+          "accounts": [
+            {
+              "id": "https://www.eliai.cn/"
+            }
+          ],
+          "options": [
+            "include_fresh_data"
+          ]
+        }
+      ]
+    },
+    "isError": false
+  },
+  "metadata": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "[{\"id\":\"account_id\",\"name\":\"Account ID\",\"description\":\"The Site\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"account_name\",\"name\":\"Account Name\",\"description\":\"The Site\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"anchor\",\"name\":\"Anchor\",\"description\":\"Anchor of the Page, e.g. if site is https://abc.foo.bar/a.html#anchor1 then this is 'anchor1'\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"branded_vs_nonbranded\",\"name\":\"Branded vs Non-Branded\",\"description\":\"The value is \\\"branded\\\" if the domain name is included in the search query, otherwise it's \\\"nonbranded\\\"\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"clicks\",\"name\":\"Clicks\",\"description\":\"The Number of Clicks\",\"type\":\"NUMERIC\",\"table\":\"Search Analytics\"},{\"id\":\"country\",\"name\":\"Country Name\",\"description\":\"Country Name\",\"type\":\"COUNTRY\",\"table\":\"Search Analytics\"},{\"id\":\"countryname\",\"name\":\"Country Name\",\"description\":\"The Country Name\",\"type\":\"COUNTRY\",\"table\":\"Search Analytics\"},{\"id\":\"ctr\",\"name\":\"CTR\",\"description\":\"The Click Through Rate\",\"type\":\"PERCENT\",\"table\":\"Search Analytics\"},{\"id\":\"data_fetched_at\",\"name\":\"Data fetched at\",\"description\":\"UTC timestamp (second precision) of when the connector request that pulled the row started. Freshly pulled rows show this request's start time; cache hits keep the start time of the request that filled the cache. Selecting this field disables aggregation, so rows are returned individually (each keeping its own fetch time) instead of being summed.\",\"type\":\"TIMESTAMP\"},{\"id\":\"datasource\",\"name\":\"Data Source\",\"description\":\"The name of the Windsor connector returning the row\",\"type\":\"TEXT\"},{\"id\":\"date\",\"name\":\"Date\",\"description\":\"The date (for Sitemaps this is the date of the last submission)\",\"type\":\"DATE\",\"table\":\"Search Analytics\"},{\"id\":\"day_of_month\",\"name\":\"Day of month\",\"description\":\"Day of the month\",\"type\":\"TEXT\"},{\"id\":\"device\",\"name\":\"Device\",\"description\":\"The Device Used for the Search\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"errors\",\"name\":\"Errors\",\"description\":\"Number of errors in the sitemap\",\"type\":\"NUMERIC\",\"table\":\"Sitemaps\"},{\"id\":\"hostname\",\"name\":\"Hostname\",\"description\":\"The domain name of the Page\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"impressions\",\"name\":\"Impressions\",\"description\":\"The Number of Impressions\",\"type\":\"NUMERIC\",\"table\":\"Search Analytics\"},{\"id\":\"indexed\",\"name\":\"Indexed (deprecated)\",\"description\":\"The number of indexed URLs from the sitemap (deprecated)\",\"type\":\"NUMERIC\",\"table\":\"Sitemaps\"},{\"id\":\"is_sitemaps_index\",\"name\":\"Is sitemaps index\",\"description\":\"If true, the sitemap is a collection of sitemaps\",\"type\":\"BOOLEAN\",\"table\":\"Sitemaps\"},{\"id\":\"last_downloaded\",\"name\":\"Last downloaded\",\"description\":\"Date and time in which this sitemap was last downloaded\",\"type\":\"DATE\",\"table\":\"Sitemaps\"},{\"id\":\"last_submitted\",\"name\":\"Last submitted\",\"description\":\"Date and time in which this sitemap was submitted\",\"type\":\"DATE\",\"table\":\"Sitemaps\"},{\"id\":\"month\",\"name\":\"Month\",\"description\":\"Number of the month\",\"type\":\"TEXT\"},{\"id\":\"now\",\"name\":\"Now\",\"description\":\"Current timestamp\",\"type\":\"TIMESTAMP\"},{\"id\":\"page\",\"name\":\"Page\",\"description\":\"The Page\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"pagepath\",\"name\":\"Page Path\",\"description\":\"Full path of the Page, excluding the Protocol and Hostname\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"path\",\"name\":\"Path\",\"description\":\"The url of the sitemap\",\"type\":\"TEXT\",\"table\":\"Sitemaps\"},{\"id\":\"pathlevel1\",\"name\":\"pagePathlevel1\",\"description\":\"Top-level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel1 is 'a'\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"pathlevel2\",\"name\":\"pagePathlevel2\",\"description\":\"2nd level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel2 is 'a/b'\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"pathlevel3\",\"name\":\"pagePathlevel3\",\"description\":\"3rd level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel3 is 'a/b/c'\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"pathlevel4\",\"name\":\"pagePathlevel4\",\"description\":\"4th level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel4 is 'a/b/c'\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"position\",\"name\":\"Position\",\"description\":\"The Average Position\",\"type\":\"NUMERIC\",\"table\":\"Search Analytics\"},{\"id\":\"position_page\",\"name\":\"Average SERP position\",\"description\":\"The average page number in the Google search results\",\"type\":\"NUMERIC\",\"table\":\"Search Analytics\"},{\"id\":\"protocol\",\"name\":\"Protocol\",\"description\":\"\\\"http\\\" or \\\"https\\\"\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"query\",\"name\":\"Search Query\",\"description\":\"The Search Query\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"queryparams\",\"name\":\"Query params\",\"description\":\"Query parameters of the Page, e.g. if site is https://abc.foo.bar/a.html?a=b then this is 'a=b'\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"search_appearance\",\"name\":\"Search Appearance\",\"description\":\"How the site appears in the search results\",\"type\":\"TEXT\",\"table\":\"Search Appearance\"},{\"id\":\"search_type\",\"name\":\"Search type\",\"description\":\"news, image, video or web, fetching this field could impact the time needed to get response\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"site\",\"name\":\"Site\",\"description\":\"The Site\",\"type\":\"TEXT\",\"table\":\"Search Analytics\"},{\"id\":\"source\",\"name\":\"Source\",\"description\":\"The name of the Windsor connector returning the row\",\"type\":\"TEXT\"},{\"id\":\"submitted\",\"name\":\"Submitted\",\"description\":\"The number of submitted URLs in the sitemap\",\"type\":\"NUMERIC\",\"table\":\"Sitemaps\"},{\"id\":\"today\",\"name\":\"Today\",\"description\":\"Today's date\",\"type\":\"DATE\"},{\"id\":\"warnings\",\"name\":\"Warnings\",\"description\":\"Number of warnings for the sitemap\",\"type\":\"NUMERIC\",\"table\":\"Sitemaps\"},{\"id\":\"week\",\"name\":\"Week\",\"description\":\"Week (Sun-Sat).\",\"type\":\"TEXT\"},{\"id\":\"week_day\",\"name\":\"Day of week and day number\",\"description\":\"Weekday number and name combined (Sun-Sat).Numbered from 0 Sunday to 6 Saturday.\",\"type\":\"TEXT\"},{\"id\":\"week_day_iso\",\"name\":\"Day of week and day number, ISO\",\"description\":\"Weekday number and name combined, ISO format (Mon-Sun).Numbered from 1 Monday to 7\",\"type\":\"TEXT\"},{\"id\":\"week_iso\",\"name\":\"Week ISO\",\"description\":\"Week, ISO format (Mon-Sun).\",\"type\":\"TEXT\"},{\"id\":\"words_in_query\",\"name\":\"Words in Query\",\"description\":\"The number of words in the query\",\"type\":\"NUMERIC\",\"table\":\"Search Analytics\"},{\"id\":\"year\",\"name\":\"Year\",\"description\":\"Year\",\"type\":\"TEXT\"},{\"id\":\"year_month\",\"name\":\"Yearmonth\",\"description\":\"Year and month, e.g. 2024|3\",\"type\":\"TEXT\"},{\"id\":\"year_month_name\",\"name\":\"Year month name\",\"description\":\"Year and month with the month name written out, e.g. \\\"Jan 2025\\\".\",\"type\":\"TEXT\"},{\"id\":\"year_of_week\",\"name\":\"Year of week\",\"description\":\"The year that contains first day of the week (Sun-Sat).\",\"type\":\"TEXT\"},{\"id\":\"year_of_week_iso\",\"name\":\"Year of week, ISO\",\"description\":\"The year that contains first day of the ISO week (Mon-Sun).\",\"type\":\"TEXT\"},{\"id\":\"year_week\",\"name\":\"Year week\",\"description\":\"Year and week for US weeks (Sun-Sat), e.g. 2024|15\",\"type\":\"TEXT\"},{\"id\":\"year_week_iso\",\"name\":\"Year week ISO\",\"description\":\"Year and week for ISO weeks (Mon-Sun), e.g. 2024|20\",\"type\":\"TEXT\"}]"
+          }
+        ],
+        "structuredContent": {
+          "result": [
+            {
+              "id": "account_id",
+              "name": "Account ID",
+              "description": "The Site",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "account_name",
+              "name": "Account Name",
+              "description": "The Site",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "anchor",
+              "name": "Anchor",
+              "description": "Anchor of the Page, e.g. if site is https://abc.foo.bar/a.html#anchor1 then this is 'anchor1'",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "branded_vs_nonbranded",
+              "name": "Branded vs Non-Branded",
+              "description": "The value is \"branded\" if the domain name is included in the search query, otherwise it's \"nonbranded\"",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "clicks",
+              "name": "Clicks",
+              "description": "The Number of Clicks",
+              "type": "NUMERIC",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "country",
+              "name": "Country Name",
+              "description": "Country Name",
+              "type": "COUNTRY",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "countryname",
+              "name": "Country Name",
+              "description": "The Country Name",
+              "type": "COUNTRY",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "ctr",
+              "name": "CTR",
+              "description": "The Click Through Rate",
+              "type": "PERCENT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "data_fetched_at",
+              "name": "Data fetched at",
+              "description": "UTC timestamp (second precision) of when the connector request that pulled the row started. Freshly pulled rows show this request's start time; cache hits keep the start time of the request that filled the cache. Selecting this field disables aggregation, so rows are returned individually (each keeping its own fetch time) instead of being summed.",
+              "type": "TIMESTAMP"
+            },
+            {
+              "id": "datasource",
+              "name": "Data Source",
+              "description": "The name of the Windsor connector returning the row",
+              "type": "TEXT"
+            },
+            {
+              "id": "date",
+              "name": "Date",
+              "description": "The date (for Sitemaps this is the date of the last submission)",
+              "type": "DATE",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "day_of_month",
+              "name": "Day of month",
+              "description": "Day of the month",
+              "type": "TEXT"
+            },
+            {
+              "id": "device",
+              "name": "Device",
+              "description": "The Device Used for the Search",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "errors",
+              "name": "Errors",
+              "description": "Number of errors in the sitemap",
+              "type": "NUMERIC",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "hostname",
+              "name": "Hostname",
+              "description": "The domain name of the Page",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "impressions",
+              "name": "Impressions",
+              "description": "The Number of Impressions",
+              "type": "NUMERIC",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "indexed",
+              "name": "Indexed (deprecated)",
+              "description": "The number of indexed URLs from the sitemap (deprecated)",
+              "type": "NUMERIC",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "is_sitemaps_index",
+              "name": "Is sitemaps index",
+              "description": "If true, the sitemap is a collection of sitemaps",
+              "type": "BOOLEAN",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "last_downloaded",
+              "name": "Last downloaded",
+              "description": "Date and time in which this sitemap was last downloaded",
+              "type": "DATE",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "last_submitted",
+              "name": "Last submitted",
+              "description": "Date and time in which this sitemap was submitted",
+              "type": "DATE",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "month",
+              "name": "Month",
+              "description": "Number of the month",
+              "type": "TEXT"
+            },
+            {
+              "id": "now",
+              "name": "Now",
+              "description": "Current timestamp",
+              "type": "TIMESTAMP"
+            },
+            {
+              "id": "page",
+              "name": "Page",
+              "description": "The Page",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "pagepath",
+              "name": "Page Path",
+              "description": "Full path of the Page, excluding the Protocol and Hostname",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "path",
+              "name": "Path",
+              "description": "The url of the sitemap",
+              "type": "TEXT",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "pathlevel1",
+              "name": "pagePathlevel1",
+              "description": "Top-level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel1 is 'a'",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "pathlevel2",
+              "name": "pagePathlevel2",
+              "description": "2nd level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel2 is 'a/b'",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "pathlevel3",
+              "name": "pagePathlevel3",
+              "description": "3rd level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel3 is 'a/b/c'",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "pathlevel4",
+              "name": "pagePathlevel4",
+              "description": "4th level Directory Path of the Page, e.g. if site is https://abc.foo.bar/a/b/c/dd.html?a=b then pathlevel4 is 'a/b/c'",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "position",
+              "name": "Position",
+              "description": "The Average Position",
+              "type": "NUMERIC",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "position_page",
+              "name": "Average SERP position",
+              "description": "The average page number in the Google search results",
+              "type": "NUMERIC",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "protocol",
+              "name": "Protocol",
+              "description": "\"http\" or \"https\"",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "query",
+              "name": "Search Query",
+              "description": "The Search Query",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "queryparams",
+              "name": "Query params",
+              "description": "Query parameters of the Page, e.g. if site is https://abc.foo.bar/a.html?a=b then this is 'a=b'",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "search_appearance",
+              "name": "Search Appearance",
+              "description": "How the site appears in the search results",
+              "type": "TEXT",
+              "table": "Search Appearance"
+            },
+            {
+              "id": "search_type",
+              "name": "Search type",
+              "description": "news, image, video or web, fetching this field could impact the time needed to get response",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "site",
+              "name": "Site",
+              "description": "The Site",
+              "type": "TEXT",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "source",
+              "name": "Source",
+              "description": "The name of the Windsor connector returning the row",
+              "type": "TEXT"
+            },
+            {
+              "id": "submitted",
+              "name": "Submitted",
+              "description": "The number of submitted URLs in the sitemap",
+              "type": "NUMERIC",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "today",
+              "name": "Today",
+              "description": "Today's date",
+              "type": "DATE"
+            },
+            {
+              "id": "warnings",
+              "name": "Warnings",
+              "description": "Number of warnings for the sitemap",
+              "type": "NUMERIC",
+              "table": "Sitemaps"
+            },
+            {
+              "id": "week",
+              "name": "Week",
+              "description": "Week (Sun-Sat).",
+              "type": "TEXT"
+            },
+            {
+              "id": "week_day",
+              "name": "Day of week and day number",
+              "description": "Weekday number and name combined (Sun-Sat).Numbered from 0 Sunday to 6 Saturday.",
+              "type": "TEXT"
+            },
+            {
+              "id": "week_day_iso",
+              "name": "Day of week and day number, ISO",
+              "description": "Weekday number and name combined, ISO format (Mon-Sun).Numbered from 1 Monday to 7",
+              "type": "TEXT"
+            },
+            {
+              "id": "week_iso",
+              "name": "Week ISO",
+              "description": "Week, ISO format (Mon-Sun).",
+              "type": "TEXT"
+            },
+            {
+              "id": "words_in_query",
+              "name": "Words in Query",
+              "description": "The number of words in the query",
+              "type": "NUMERIC",
+              "table": "Search Analytics"
+            },
+            {
+              "id": "year",
+              "name": "Year",
+              "description": "Year",
+              "type": "TEXT"
+            },
+            {
+              "id": "year_month",
+              "name": "Yearmonth",
+              "description": "Year and month, e.g. 2024|3",
+              "type": "TEXT"
+            },
+            {
+              "id": "year_month_name",
+              "name": "Year month name",
+              "description": "Year and month with the month name written out, e.g. \"Jan 2025\".",
+              "type": "TEXT"
+            },
+            {
+              "id": "year_of_week",
+              "name": "Year of week",
+              "description": "The year that contains first day of the week (Sun-Sat).",
+              "type": "TEXT"
+            },
+            {
+              "id": "year_of_week_iso",
+              "name": "Year of week, ISO",
+              "description": "The year that contains first day of the ISO week (Mon-Sun).",
+              "type": "TEXT"
+            },
+            {
+              "id": "year_week",
+              "name": "Year week",
+              "description": "Year and week for US weeks (Sun-Sat), e.g. 2024|15",
+              "type": "TEXT"
+            },
+            {
+              "id": "year_week_iso",
+              "name": "Year week ISO",
+              "description": "Year and week for ISO weeks (Mon-Sun), e.g. 2024|20",
+              "type": "TEXT"
+            }
+          ]
+        },
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"fields\":[\"account_id\",\"account_name\",\"anchor\",\"branded_vs_nonbranded\",\"clicks\",\"country\",\"countryname\",\"ctr\",\"data_fetched_at\",\"datasource\",\"date\",\"day_of_month\",\"device\",\"errors\",\"hostname\",\"impressions\",\"indexed\",\"is_sitemaps_index\",\"last_downloaded\",\"last_submitted\",\"month\",\"now\",\"page\",\"pagepath\",\"path\",\"pathlevel1\",\"pathlevel2\",\"pathlevel3\",\"pathlevel4\",\"position\",\"position_page\",\"protocol\",\"query\",\"queryparams\",\"search_appearance\",\"search_type\",\"site\",\"source\",\"submitted\",\"today\",\"warnings\",\"week\",\"week_day\",\"week_day_iso\",\"week_iso\",\"words_in_query\",\"year\",\"year_month\",\"year_month_name\",\"year_of_week\",\"year_of_week_iso\",\"year_week\",\"year_week_iso\"],\"date_filters\":{},\"options\":[{\"id\":\"include_fresh_data\",\"name\":\"Include Fresh Data\",\"description\":\"If this option is set, fresh data, not finalized would be included into the results. More information about fresh data is available at: https://developers.google.com/search/blog/2019/09/search-performance-fresh-data\",\"type\":\"CHECKBOX\",\"default\":\"false\",\"options\":null}]}"
+          }
+        ],
+        "structuredContent": {
+          "fields": [
+            "account_id",
+            "account_name",
+            "anchor",
+            "branded_vs_nonbranded",
+            "clicks",
+            "country",
+            "countryname",
+            "ctr",
+            "data_fetched_at",
+            "datasource",
+            "date",
+            "day_of_month",
+            "device",
+            "errors",
+            "hostname",
+            "impressions",
+            "indexed",
+            "is_sitemaps_index",
+            "last_downloaded",
+            "last_submitted",
+            "month",
+            "now",
+            "page",
+            "pagepath",
+            "path",
+            "pathlevel1",
+            "pathlevel2",
+            "pathlevel3",
+            "pathlevel4",
+            "position",
+            "position_page",
+            "protocol",
+            "query",
+            "queryparams",
+            "search_appearance",
+            "search_type",
+            "site",
+            "source",
+            "submitted",
+            "today",
+            "warnings",
+            "week",
+            "week_day",
+            "week_day_iso",
+            "week_iso",
+            "words_in_query",
+            "year",
+            "year_month",
+            "year_month_name",
+            "year_of_week",
+            "year_of_week_iso",
+            "year_week",
+            "year_week_iso"
+          ],
+          "date_filters": {},
+          "options": [
+            {
+              "id": "include_fresh_data",
+              "name": "Include Fresh Data",
+              "description": "If this option is set, fresh data, not finalized would be included into the results. More information about fresh data is available at: https://developers.google.com/search/blog/2019/09/search-performance-fresh-data",
+              "type": "CHECKBOX",
+              "default": "false",
+              "options": null
+            }
+          ]
+        },
+        "isError": false
+      }
+    }
+  ],
+  "requests": [
+    [
+      "final_daily",
+      {
+        "connector": "searchconsole",
+        "accounts": [
+          "https://www.eliai.cn/"
+        ],
+        "date_from": "2026-10-13",
+        "date_to": "2026-10-20",
+        "options": {
+          "include_fresh_data": false
+        },
+        "fields": [
+          "date",
+          "clicks",
+          "impressions",
+          "position",
+          "data_fetched_at"
+        ]
+      }
+    ],
+    [
+      "final_queries",
+      {
+        "connector": "searchconsole",
+        "accounts": [
+          "https://www.eliai.cn/"
+        ],
+        "date_from": "2026-10-13",
+        "date_to": "2026-10-20",
+        "options": {
+          "include_fresh_data": false
+        },
+        "fields": [
+          "date",
+          "page",
+          "query",
+          "clicks",
+          "impressions",
+          "position",
+          "data_fetched_at"
+        ]
+      }
+    ],
+    [
+      "fresh_pages",
+      {
+        "connector": "searchconsole",
+        "accounts": [
+          "https://www.eliai.cn/"
+        ],
+        "date_from": "2026-10-17",
+        "date_to": "2026-10-20",
+        "options": {
+          "include_fresh_data": true
+        },
+        "fields": [
+          "date",
+          "page",
+          "clicks",
+          "impressions",
+          "position",
+          "data_fetched_at"
+        ]
+      }
+    ],
+    [
+      "fresh_queries",
+      {
+        "connector": "searchconsole",
+        "accounts": [
+          "https://www.eliai.cn/"
+        ],
+        "date_from": "2026-10-13",
+        "date_to": "2026-10-20",
+        "options": {
+          "include_fresh_data": true
+        },
+        "fields": [
+          "date",
+          "page",
+          "query",
+          "clicks",
+          "impressions",
+          "position",
+          "data_fetched_at"
+        ]
+      }
+    ]
+  ],
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "final_daily",
+        "args": {
+          "connector": "searchconsole",
+          "accounts": [
+            "https://www.eliai.cn/"
+          ],
+          "date_from": "2026-10-13",
+          "date_to": "2026-10-20",
+          "options": {
+            "include_fresh_data": false
+          },
+          "fields": [
+            "date",
+            "clicks",
+            "impressions",
+            "position",
+            "data_fetched_at"
+          ]
+        },
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"status\":\"done\",\"data\":[{\"date\":\"2026-10-14\",\"clicks\":0.0,\"impressions\":0.0,\"position\":0.0,\"data_fetched_at\":\"2026-10-19T03:04:00\"},{\"date\":\"2026-10-15\",\"clicks\":0.0,\"impressions\":2.0,\"position\":1.5,\"data_fetched_at\":\"2026-10-19T01:46:42\"},{\"date\":\"2026-10-16\",\"clicks\":0.0,\"impressions\":4.0,\"position\":11.5,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"clicks\":0.0,\"impressions\":6.0,\"position\":4.8333,\"data_fetched_at\":\"2026-10-20T01:56:19\"}],\"total_rows\":4}"
+            }
+          ],
+          "structuredContent": {
+            "status": "done",
+            "data": [
+              {
+                "date": "2026-10-14",
+                "clicks": 0,
+                "impressions": 0,
+                "position": 0,
+                "data_fetched_at": "2026-10-19T03:04:00"
+              },
+              {
+                "date": "2026-10-15",
+                "clicks": 0,
+                "impressions": 2,
+                "position": 1.5,
+                "data_fetched_at": "2026-10-19T01:46:42"
+              },
+              {
+                "date": "2026-10-16",
+                "clicks": 0,
+                "impressions": 4,
+                "position": 11.5,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "clicks": 0,
+                "impressions": 6,
+                "position": 4.8333,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              }
+            ],
+            "total_rows": 4
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "final_queries",
+        "args": {
+          "connector": "searchconsole",
+          "accounts": [
+            "https://www.eliai.cn/"
+          ],
+          "date_from": "2026-10-13",
+          "date_to": "2026-10-20",
+          "options": {
+            "include_fresh_data": false
+          },
+          "fields": [
+            "date",
+            "page",
+            "query",
+            "clicks",
+            "impressions",
+            "position",
+            "data_fetched_at"
+          ]
+        },
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"status\":\"done\",\"data\":[{\"date\":\"2026-10-16\",\"page\":\"https://www.eliai.cn/en/cases/p20.html\",\"query\":\"claimflow.co\",\"clicks\":0.0,\"impressions\":1.0,\"position\":43.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/en/articles/what-is-workbuddy.html\",\"query\":\"workbuddy.ai\",\"clicks\":0.0,\"impressions\":1.0,\"position\":10.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"}],\"total_rows\":2}"
+            }
+          ],
+          "structuredContent": {
+            "status": "done",
+            "data": [
+              {
+                "date": "2026-10-16",
+                "page": "https://www.eliai.cn/en/cases/p20.html",
+                "query": "claimflow.co",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 43,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+                "query": "workbuddy.ai",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 10,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              }
+            ],
+            "total_rows": 2
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "fresh_pages",
+        "args": {
+          "connector": "searchconsole",
+          "accounts": [
+            "https://www.eliai.cn/"
+          ],
+          "date_from": "2026-10-17",
+          "date_to": "2026-10-20",
+          "options": {
+            "include_fresh_data": true
+          },
+          "fields": [
+            "date",
+            "page",
+            "clicks",
+            "impressions",
+            "position",
+            "data_fetched_at"
+          ]
+        },
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"status\":\"done\",\"data\":[{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/articles/workbuddy-task-failed.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":7.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/cases/p13.html\",\"clicks\":0.0,\"impressions\":3.0,\"position\":2.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/en/articles/github-public-private.html?pv=e3304385905f8d1cdd01\",\"clicks\":0.0,\"impressions\":1.0,\"position\":9.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/en/articles/what-is-workbuddy.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":10.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/records.html\",\"clicks\":0.0,\"impressions\":3.0,\"position\":1.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01\",\"clicks\":0.0,\"impressions\":1.0,\"position\":60.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/articles/workbuddy-task-failed.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":7.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/ai-cost-breakdown.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":91.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/issue-basics.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":34.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/measure-ai-benefit.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":9.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/readme-basics.html?pv=e3304385905f8d1cdd01\",\"clicks\":0.0,\"impressions\":1.0,\"position\":1.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-ai.html\",\"clicks\":0.0,\"impressions\":3.0,\"position\":1.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01\",\"clicks\":0.0,\"impressions\":1.0,\"position\":9.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-skill.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":45.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-token.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":70.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-workbuddy.html\",\"clicks\":0.0,\"impressions\":2.0,\"position\":40.5,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/articles/what-is-token.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":74.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01\",\"clicks\":0.0,\"impressions\":1.0,\"position\":95.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/en/articles/github-public-private.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":54.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/en/articles/repository-basics.html\",\"clicks\":0.0,\"impressions\":1.0,\"position\":87.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"}],\"total_rows\":20}"
+            }
+          ],
+          "structuredContent": {
+            "status": "done",
+            "data": [
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 7,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/cases/p13.html",
+                "clicks": 0,
+                "impressions": 3,
+                "position": 2,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/en/articles/github-public-private.html?pv=e3304385905f8d1cdd01",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 9,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 10,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/records.html",
+                "clicks": 0,
+                "impressions": 3,
+                "position": 1,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 60,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 7,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 91,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/issue-basics.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 34,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 9,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/readme-basics.html?pv=e3304385905f8d1cdd01",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 1,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-ai.html",
+                "clicks": 0,
+                "impressions": 3,
+                "position": 1,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 9,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-skill.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 45,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-token.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 70,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+                "clicks": 0,
+                "impressions": 2,
+                "position": 40.5,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/articles/what-is-token.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 74,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 95,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/en/articles/github-public-private.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 54,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/en/articles/repository-basics.html",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 87,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              }
+            ],
+            "total_rows": 20
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "name": "fresh_queries",
+        "args": {
+          "connector": "searchconsole",
+          "accounts": [
+            "https://www.eliai.cn/"
+          ],
+          "date_from": "2026-10-13",
+          "date_to": "2026-10-20",
+          "options": {
+            "include_fresh_data": true
+          },
+          "fields": [
+            "date",
+            "page",
+            "query",
+            "clicks",
+            "impressions",
+            "position",
+            "data_fetched_at"
+          ]
+        },
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"status\":\"done\",\"data\":[{\"date\":\"2026-10-16\",\"page\":\"https://www.eliai.cn/en/cases/p20.html\",\"query\":\"claimflow.co\",\"clicks\":0.0,\"impressions\":1.0,\"position\":43.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-17\",\"page\":\"https://www.eliai.cn/en/articles/what-is-workbuddy.html\",\"query\":\"workbuddy.ai\",\"clicks\":0.0,\"impressions\":1.0,\"position\":10.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01\",\"query\":\"token是什么意思\",\"clicks\":0.0,\"impressions\":1.0,\"position\":60.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/ai-cost-breakdown.html\",\"query\":\"ai implementation cost\",\"clicks\":0.0,\"impressions\":1.0,\"position\":91.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01\",\"query\":\"local preview\",\"clicks\":0.0,\"impressions\":1.0,\"position\":9.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-workbuddy.html\",\"query\":\"work buddy ne demek\",\"clicks\":0.0,\"impressions\":1.0,\"position\":72.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-18\",\"page\":\"https://www.eliai.cn/en/articles/what-is-workbuddy.html\",\"query\":\"workbuddy ai\",\"clicks\":0.0,\"impressions\":1.0,\"position\":9.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/articles/what-is-token.html\",\"query\":\"token 是 什么\",\"clicks\":0.0,\"impressions\":1.0,\"position\":74.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01\",\"query\":\"ai receipt ocr\",\"clicks\":0.0,\"impressions\":1.0,\"position\":95.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"},{\"date\":\"2026-10-19\",\"page\":\"https://www.eliai.cn/en/articles/repository-basics.html\",\"query\":\"repository file meaning\",\"clicks\":0.0,\"impressions\":1.0,\"position\":87.0,\"data_fetched_at\":\"2026-10-20T01:56:19\"}],\"total_rows\":10}"
+            }
+          ],
+          "structuredContent": {
+            "status": "done",
+            "data": [
+              {
+                "date": "2026-10-16",
+                "page": "https://www.eliai.cn/en/cases/p20.html",
+                "query": "claimflow.co",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 43,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-17",
+                "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+                "query": "workbuddy.ai",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 10,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+                "query": "token是什么意思",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 60,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+                "query": "ai implementation cost",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 91,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+                "query": "local preview",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 9,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+                "query": "work buddy ne demek",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 72,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-18",
+                "page": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+                "query": "workbuddy ai",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 9,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/articles/what-is-token.html",
+                "query": "token 是 什么",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 74,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+                "query": "ai receipt ocr",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 95,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              },
+              {
+                "date": "2026-10-19",
+                "page": "https://www.eliai.cn/en/articles/repository-basics.html",
+                "query": "repository file meaning",
+                "clicks": 0,
+                "impressions": 1,
+                "position": 87,
+                "data_fetched_at": "2026-10-20T01:56:19"
+              }
+            ],
+            "total_rows": 10
+          },
+          "isError": false
+        }
+      }
+    }
+  ]
+}

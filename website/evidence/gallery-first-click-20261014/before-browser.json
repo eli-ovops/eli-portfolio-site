@@ -1,0 +1,34 @@
+[
+  {
+    "case": "ZH→EN immediate next",
+    "before": {
+      "button": {
+        "height": 44,
+        "width": 44,
+        "x": 1157,
+        "y": 1322.296875
+      },
+      "depth": "0.000",
+      "hitIsNext": false,
+      "position": "01 / 07",
+      "rootName": "root",
+      "transition": true,
+      "url": "http://127.0.0.1:4178/en/index.html?pv=e4802249855020eac6d9#work"
+    },
+    "after": {
+      "button": {
+        "height": 44,
+        "width": 44,
+        "x": 1157,
+        "y": 378.296875
+      },
+      "depth": "0.000",
+      "hitIsNext": false,
+      "hitTag": "HTML",
+      "position": "01 / 07",
+      "rootName": "root",
+      "transition": true,
+      "url": "http://127.0.0.1:4178/en/index.html?pv=e4802249855020eac6d9#work"
+    }
+  }
+]

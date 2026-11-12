@@ -1,0 +1,186 @@
+{
+  "P09": {
+    "stage": {
+      "zh-CN": "虚拟库存试点 · 本地与云端有验收记录",
+      "en": "Virtual inventory pilot · local and cloud acceptance records"
+    },
+    "heading": {
+      "zh-CN": "一次库存闭环",
+      "en": "One inventory sequence"
+    },
+    "intro": {
+      "zh-CN": "按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。",
+      "en": "Quantities below follow the acceptance sequence dated September 8, 2026. The recorded final result is 3 cartons in A, 4 in B and 7 in total."
+    },
+    "headers": {
+      "zh-CN": [
+        "操作",
+        "A 库位",
+        "B 库位",
+        "总库存"
+      ],
+      "en": [
+        "Operation",
+        "Location A",
+        "Location B",
+        "Total"
+      ]
+    },
+    "rows": {
+      "zh-CN": [
+        [
+          "入库 10 箱",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "移库 4 箱",
+          "6",
+          "4",
+          "10"
+        ],
+        [
+          "出库 3 箱",
+          "3",
+          "4",
+          "7"
+        ]
+      ],
+      "en": [
+        [
+          "Receive 10 cartons",
+          "10",
+          "0",
+          "10"
+        ],
+        [
+          "Transfer 4 cartons",
+          "6",
+          "4",
+          "10"
+        ],
+        [
+          "Dispatch 3 cartons",
+          "3",
+          "4",
+          "7"
+        ]
+      ]
+    },
+    "note": {
+      "zh-CN": "云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。",
+      "en": "The cloud record also confirms that four concurrent identical requests do not double-count, insufficient stock is rejected and a cancelled request cannot commit. This is historical virtual-test evidence, not a new system test."
+    }
+  },
+  "P10": {
+    "stage": {
+      "zh-CN": "成熟底座业务适配 · 已交付，尚未全面使用",
+      "en": "Adapted existing foundation · delivered, not yet in full use"
+    },
+    "heading": {
+      "zh-CN": "一次盘点复查",
+      "en": "One stocktake review"
+    },
+    "intro": {
+      "zh-CN": "2026 年 9 月 23 日的测试记录：测试仓内某规格账面 1 件，实盘 0 件。提交后交叉核对三个结果。",
+      "en": "In a test record dated September 23, 2026, a product variant had 1 unit on the books and 0 counted. Three results were cross-checked after submission."
+    },
+    "headers": {
+      "zh-CN": [
+        "核对对象",
+        "记录结果"
+      ],
+      "en": [
+        "Check",
+        "Recorded result"
+      ]
+    },
+    "rows": {
+      "zh-CN": [
+        [
+          "盘点单据",
+          "原数量 1，实盘 0，状态已盘"
+        ],
+        [
+          "测试仓库存",
+          "从 1 件扣减为 0 件"
+        ],
+        [
+          "出入库流水",
+          "对应规格记 −1 件"
+        ]
+      ],
+      "en": [
+        [
+          "Stocktake document",
+          "Original 1, counted 0, stocktake completed"
+        ],
+        [
+          "Test-location inventory",
+          "Reduced from 1 unit to 0"
+        ],
+        [
+          "Inventory transaction",
+          "The matching variant records −1 unit"
+        ]
+      ]
+    },
+    "note": {
+      "zh-CN": "这是历史盘亏样例，不代表所有业务组合均通过。同期九项复查为八项具体样例通过、一项发现问题；此处不据旧记录判断系统当前状态。",
+      "en": "This historical shortage example does not establish acceptance of every workflow. The same review recorded eight passing examples and one issue across nine checks; it does not determine the current system state."
+    }
+  },
+  "P36": {
+    "stage": {
+      "zh-CN": "团队定制与交付 · 本人负责知识库、检索和测试",
+      "en": "Team customization and delivery · knowledge base, retrieval and testing"
+    },
+    "illustrations": {
+      "zh-CN": [
+        {
+          "source_id": "rag-demo-source-a",
+          "question": "申请售后需要提供哪些信息？",
+          "answer": "按示意资料，需要提供产品型号、问题描述和购买凭证，便于客服核对问题。资料没有给出处理时限，因此不能承诺具体解决时间。",
+          "source_label": "示意资料 A（AI 拟写）",
+          "excerpt": "“售后咨询需提供产品型号、问题描述及购买凭证。客服核对信息后跟进。本条资料未规定处理时限。”"
+        },
+        {
+          "source_id": "rag-demo-source-b",
+          "question": "这个型号的滤芯能去除铅吗？",
+          "answer": "现有示意资料只说明安装与配件，没有该型号的相关测试结果，因此不能确认。需要核对该型号检测报告或转交人工客服，不能由其他型号或品牌介绍推断。",
+          "source_label": "示意资料 B（AI 拟写）",
+          "excerpt": "“本条资料介绍安装方式与配件清单，不包含污染物去除测试结果。”"
+        }
+      ],
+      "en": [
+        {
+          "source_id": "rag-demo-source-a",
+          "question": "What information should I provide for after-sales support?",
+          "answer": "The illustrative source asks for the product model, a description of the problem and proof of purchase so support can check the enquiry. It gives no response or resolution deadline, so a specific timeline cannot be promised.",
+          "source_label": "Illustrative source A (AI-written)",
+          "excerpt": "“For after-sales enquiries, provide the product model, a description of the problem and proof of purchase. Support follows up after checking the information. This material sets no handling deadline.”"
+        },
+        {
+          "source_id": "rag-demo-source-b",
+          "question": "Does this cartridge model remove lead?",
+          "answer": "The illustrative source covers installation and accessories, with no test result for this model. It cannot confirm the claim. Check the model’s test report or refer the enquiry to human support; do not infer it from another model or general brand information.",
+          "source_label": "Illustrative source B (AI-written)",
+          "excerpt": "“This material describes installation and the accessory list. It contains no contaminant-removal test results.”"
+        }
+      ]
+    }
+  },
+  "P12": {
+    "stage": {
+      "zh-CN": "本地工作台 · 图文与发布全链路待核",
+      "en": "Local workbench · complete generation and publishing still to verify"
+    }
+  },
+  "P15": {
+    "stage": {
+      "zh-CN": "个人开发 · 原生 iOS 迭代，配图为独立 Demo",
+      "en": "Developed by me · native iOS iteration, separate demo image"
+    }
+  }
+}

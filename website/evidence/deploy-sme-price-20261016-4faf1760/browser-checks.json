@@ -1,0 +1,113 @@
+{
+  "status": "PASS",
+  "revision": "4faf1760fff6adb09dbf",
+  "checks": [
+    {
+      "check": "final homepage with cookie 320",
+      "result": {
+        "barTop": 619.125,
+        "ctaBottom": 602.53125,
+        "glass": "none",
+        "intro": "面向中小企业，免费诊断。服务 ¥500 起。",
+        "overflow": false,
+        "w": 320
+      }
+    },
+    {
+      "check": "final homepage with cookie 390",
+      "result": {
+        "barTop": 619.125,
+        "ctaBottom": 602.53125,
+        "glass": "none",
+        "intro": "面向中小企业，免费诊断。服务 ¥500 起。",
+        "overflow": false,
+        "w": 320
+      },
+      "measurementNote": "Viewport request did not resize this tab; actual width320 recorded. Separate per-tab CDP390 measurement below is authoritative."
+    },
+    {
+      "check": "consultation reached with banner undecided",
+      "result": {
+        "barTop": 619.125,
+        "contactTop": 135.421875,
+        "dialogOpen": false,
+        "overflow": false,
+        "qrLoaded": true,
+        "url": "https://www.eliai.cn/about.html?pv=4faf1760fff6adb09dbf#contact"
+      }
+    },
+    {
+      "check": "final contact actual390",
+      "result": {
+        "barTop": 744.5625,
+        "h": 844,
+        "links": [
+          {
+            "bottom": 834.125,
+            "label": "[REDACTED_EMAIL] ↗",
+            "top": 782.125
+          },
+          {
+            "bottom": 945.21875,
+            "label": "[REDACTED_PHONE] ↗",
+            "top": 893.21875
+          },
+          {
+            "bottom": 1056.3125,
+            "label": "[REDACTED_PHONE] ↗",
+            "top": 1004.3125
+          },
+          {
+            "bottom": 1350.109375,
+            "label": "放大微信二维码",
+            "top": 1152.109375
+          }
+        ],
+        "overflow": false,
+        "w": 390
+      }
+    },
+    {
+      "check": "final allow closes and activates collector",
+      "result": {
+        "hidden": true,
+        "padding": "0px",
+        "sdk": true
+      }
+    },
+    {
+      "check": "final home actual390",
+      "result": {
+        "barTop": 745.4329223632812,
+        "ctaBottom": 686.140625,
+        "h": 844,
+        "overflow": false,
+        "w": 390,
+        "y": 0
+      }
+    },
+    {
+      "check": "final consultation usable after deny",
+      "result": {
+        "noticeHidden": true,
+        "qrLoaded": true,
+        "sdk": false,
+        "url": "https://www.eliai.cn/about.html?pv=4faf1760fff6adb09dbf#contact"
+      }
+    },
+    {
+      "check": "final FDE price copy mobile",
+      "result": {
+        "intro": "FDE 帮助中小企业提效减负。先免费诊断，拒绝 AI 焦虑；选工具、改流程，需要时再做软件。服务 ¥500 起，具体费用按需求确认。",
+        "overflow": false,
+        "w": 390
+      }
+    }
+  ],
+  "pricingCopy": "FDE helps SMEs reduce work. Free initial diagnosis; services from CNY500, fees agreed by scope. No daily/on-site rate implied.",
+  "limits": [
+    "Browser simulated viewport, no physical phone",
+    "No email/phone/WhatsApp messages sent",
+    "Baidu conversion dashboard not retested"
+  ]
+}

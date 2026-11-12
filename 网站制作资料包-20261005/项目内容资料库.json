@@ -1,0 +1,2059 @@
+{
+  "date": "2026-10-05",
+  "profile": {
+    "period": "2026年5～8月",
+    "duties": "技术支持，网站前端后端、运营维护测试",
+    "background": "非程序员出身，AI agent辅助积累知识；熟练用AI为本人自述",
+    "weakest_paid_case": "RAG",
+    "current_team": "目前仅本人，未来形式未定"
+  },
+  "records": [
+    {
+      "id": "P01",
+      "name": "原点向量：创业型FDE与企业AI解决方案实践",
+      "group": "企业客户",
+      "status": "既有实践资料／参与细节待补",
+      "problem": "企业需求难以直接转化为可验收软件。",
+      "work": "业务理解、需求拆分、网站/系统交付方法、开源二次开发与模块复用规划。",
+      "proof": "已有FDE作品集、会议角色线索和项目索引。",
+      "skills": "需求访谈、PRD、客户沟通、交付治理、AI辅助实施",
+      "boundary": "不能据会议职责期待声称所有列举模块都已完成；任职时间、岗位、客户付费未知。",
+      "sids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S51"
+      ],
+      "priority": "经历主线",
+      "role": "技术支持；每项具体操作、团队分工及交付结果待补",
+      "aliases": "",
+      "baseline_id": "P01",
+      "evidence_date": "2026-05～08（用户确认）",
+      "current_entry": "/Users/USER/Documents/原点向量",
+      "ownership": "团队参与经历：本人确认原点向量客户项目；个人负责模块和代码权属UNKNOWN。",
+      "personal_tasks_known": "总体承担技术支持、网站开发前端/后端、运营维护和测试，为本人2026-10-05自述；不能平均分配到每个案例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "真实需求到任务拆解与协作；服务边界、客户反馈和维护安排。",
+      "critical_gaps": "年份已更正为2026；任职/合作形式、逐项目贡献、合同主体与收款归属仍UNKNOWN。",
+      "evidence_sources": [
+        {
+          "id": "S01",
+          "title": "原点向量资料入口",
+          "path": "/Users/USER/Documents/原点向量/README.md",
+          "coverage": "正文已读，历史定位；非交付凭证"
+        },
+        {
+          "id": "S02",
+          "title": "原点向量历史资料索引",
+          "path": "/Users/USER/Documents/原点向量/01_历史资料索引.md",
+          "coverage": "正文已读；旧工程恢复未知"
+        },
+        {
+          "id": "S03",
+          "title": "创业型FDE考量",
+          "path": "/Users/USER/Documents/原点向量/02_创业型FDE考量.md",
+          "coverage": "正文已读；客户参与和商业成果需补"
+        },
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        },
+        {
+          "id": "S05",
+          "title": "原点向量会议角色线索",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/02_会议后个人注意与学习清单_20260702.md",
+          "coverage": "正文已读；职责期待不等于完成"
+        },
+        {
+          "id": "S51",
+          "title": "本人本轮补充",
+          "path": "本会话 2026-10-05 用户回复",
+          "coverage": "确认技术支持职责、5月～8月（年份待确认）、偏内向慢热、五项付费客户项目；商业情况为本人确认，未核合同/收款凭证"
+        },
+        {
+          "id": "E01",
+          "title": "FDE会话转来的本人最新确认",
+          "path": "本会话2026-10-05授权派单文本",
+          "coverage": "确认2026年5～8月、网站前后端/运营维护测试、非程序员背景、熟练使用AI、RAG最弱、目前一人；不是逐项目贡献证明"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "原点向量：创业型FDE与企业AI解决方案实践。围绕企业需求难以直接转化为可验收软件。，参与/探索业务理解、需求拆分、网站/系统交付方法、开源二次开发与模块复用规划。 当前资料状态：既有实践资料／参与细节待补。",
+      "public_ready": false
+    },
+    {
+      "id": "P02",
+      "name": "深圳市予善佑公益基金会官网",
+      "group": "企业客户",
+      "status": "本人确认参与的付费客户项目；具体交付待补",
+      "problem": "机构介绍、公益项目与信息公开入口分散。",
+      "work": "官网内容与导航调整、品牌信息呈现、地图方案、HTML源码交接线索。",
+      "proof": "9页作品集有参与官网开发表述；2026-07-07会议有本人具体任务。 本轮本人确认属于付费客户项目，未核合同或收款。",
+      "skills": "响应式网站、内容组织、客户反馈迭代",
+      "boundary": "会议文件主要是待执行任务；不能声称独立全站开发、已生产交付或SEO收益。",
+      "sids": [
+        "S04",
+        "S06",
+        "S07",
+        "S51"
+      ],
+      "priority": "核心候选",
+      "role": "技术支持；每项具体操作、团队分工及交付结果待补",
+      "aliases": "善佑／于善佑／慈善网站demo；正式名以用户核实为准；用户称“予善友”，正式名称需确认",
+      "baseline_id": "P02",
+      "evidence_date": "2026-07-07会议／2026-10-05本人确认",
+      "current_entry": "UNKNOWN（仅历史归档可定位）",
+      "ownership": "团队参与经历：本人确认原点向量客户项目；个人负责模块和代码权属UNKNOWN。",
+      "personal_tasks_known": "总体承担技术支持、网站开发前端/后端、运营维护和测试，为本人2026-10-05自述；不能平均分配到每个案例。 2026-07-07会议将头部/导航删减、源码打包、地图评估列给子健；记录为任务分配而非完成证明。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "机构网站信息结构、导航精简、客户反馈到修改清单。",
+      "critical_gaps": "会议文件主要是待执行任务；不能声称独立全站开发、已生产交付或SEO收益。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        },
+        {
+          "id": "S06",
+          "title": "基金会/律所会议记录",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/05_网站修改对焦会接收记录_20260707.md",
+          "coverage": "正文已读；Demo评审与任务拆解"
+        },
+        {
+          "id": "S07",
+          "title": "历史网页项目扫描",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/全局网页相关项目扫描报告.md",
+          "coverage": "相关段落已读；历史路径不能当当前路径"
+        },
+        {
+          "id": "S51",
+          "title": "本人本轮补充",
+          "path": "本会话 2026-10-05 用户回复",
+          "coverage": "确认技术支持职责、5月～8月（年份待确认）、偏内向慢热、五项付费客户项目；商业情况为本人确认，未核合同/收款凭证"
+        },
+        {
+          "id": "E01",
+          "title": "FDE会话转来的本人最新确认",
+          "path": "本会话2026-10-05授权派单文本",
+          "coverage": "确认2026年5～8月、网站前后端/运营维护测试、非程序员背景、熟练使用AI、RAG最弱、目前一人；不是逐项目贡献证明"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG01"
+      ],
+      "website_summary_draft": "深圳市予善佑公益基金会官网。围绕机构介绍、公益项目与信息公开入口分散。，参与/探索官网内容与导航调整、品牌信息呈现、地图方案、HTML源码交接线索。 当前资料状态：本人确认参与的付费客户项目；具体交付待补。",
+      "public_ready": false
+    },
+    {
+      "id": "P03",
+      "name": "广东卓建（光明）律师事务所官网",
+      "group": "企业客户",
+      "status": "本人确认参与的付费客户项目；具体交付待补",
+      "problem": "律所专业展示、服务、团队、资讯与咨询入口需要一致。",
+      "work": "前后台测试、Payload内容字段映射、内容回收、双语入口与交付SOP。",
+      "proof": "既有作品集载有参与；历史扫描明确审计/回归目录。 本轮本人确认属于付费客户项目，未核合同或收款。",
+      "skills": "网站QA、CMS、内容治理、专业服务需求",
+      "boundary": "不能把网站整体成果都归本人；正式源码、公开授权、本人模块待补。",
+      "sids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S51"
+      ],
+      "priority": "核心候选",
+      "role": "技术支持；每项具体操作、团队分工及交付结果待补",
+      "aliases": "",
+      "baseline_id": "P03",
+      "evidence_date": "2026-07-07会议／2026-10-05本人确认",
+      "current_entry": "UNKNOWN（仅历史归档可定位）",
+      "ownership": "团队参与经历：本人确认原点向量客户项目；个人负责模块和代码权属UNKNOWN。",
+      "personal_tasks_known": "总体承担技术支持、网站开发前端/后端、运营维护和测试，为本人2026-10-05自述；不能平均分配到每个案例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "CMS字段映射、静态/动态内容分批、前后台检查。",
+      "critical_gaps": "不能把网站整体成果都归本人；正式源码、公开授权、本人模块待补。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        },
+        {
+          "id": "S05",
+          "title": "原点向量会议角色线索",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/02_会议后个人注意与学习清单_20260702.md",
+          "coverage": "正文已读；职责期待不等于完成"
+        },
+        {
+          "id": "S06",
+          "title": "基金会/律所会议记录",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/05_网站修改对焦会接收记录_20260707.md",
+          "coverage": "正文已读；Demo评审与任务拆解"
+        },
+        {
+          "id": "S07",
+          "title": "历史网页项目扫描",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/全局网页相关项目扫描报告.md",
+          "coverage": "相关段落已读；历史路径不能当当前路径"
+        },
+        {
+          "id": "S51",
+          "title": "本人本轮补充",
+          "path": "本会话 2026-10-05 用户回复",
+          "coverage": "确认技术支持职责、5月～8月（年份待确认）、偏内向慢热、五项付费客户项目；商业情况为本人确认，未核合同/收款凭证"
+        },
+        {
+          "id": "E01",
+          "title": "FDE会话转来的本人最新确认",
+          "path": "本会话2026-10-05授权派单文本",
+          "coverage": "确认2026年5～8月、网站前后端/运营维护测试、非程序员背景、熟练使用AI、RAG最弱、目前一人；不是逐项目贡献证明"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG02"
+      ],
+      "website_summary_draft": "广东卓建（光明）律师事务所官网。围绕律所专业展示、服务、团队、资讯与咨询入口需要一致。，参与/探索前后台测试、Payload内容字段映射、内容回收、双语入口与交付SOP。 当前资料状态：本人确认参与的付费客户项目；具体交付待补。",
+      "public_ready": false
+    },
+    {
+      "id": "P04",
+      "name": "律师事务所OA系统",
+      "group": "企业客户",
+      "status": "本人确认参与的付费客户项目；具体交付待补",
+      "problem": "法律服务机构的内部协同与办公。",
+      "work": "既有资料称参与OA搭建；具体模块未核。",
+      "proof": "PDF第5页；会议为OA学习与机会线索。 本轮本人确认属于付费客户项目，未核合同或收款。",
+      "skills": "内部协同、业务分析（使用程度待确认）",
+      "boundary": "无已核OA工程/验收凭证，不写已交付完整OA或自动化收益。",
+      "sids": [
+        "S04",
+        "S05",
+        "S51"
+      ],
+      "priority": "待补证",
+      "role": "技术支持；每项具体操作、团队分工及交付结果待补",
+      "aliases": "用户称“卓见律所大型OA”，与卓建是否同一主体待确认",
+      "baseline_id": "P04",
+      "evidence_date": "2026-05～08本人经历／交付日期UNKNOWN",
+      "current_entry": "UNKNOWN",
+      "ownership": "团队参与经历：本人确认原点向量客户项目；个人负责模块和代码权属UNKNOWN。",
+      "personal_tasks_known": "总体承担技术支持、网站开发前端/后端、运营维护和测试，为本人2026-10-05自述；不能平均分配到每个案例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "组织内部工作流与多模块交付；只能作为参与经历，不能承诺掌握大型OA。",
+      "critical_gaps": "无已核OA工程/验收凭证，不写已交付完整OA或自动化收益。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        },
+        {
+          "id": "S05",
+          "title": "原点向量会议角色线索",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/02_会议后个人注意与学习清单_20260702.md",
+          "coverage": "正文已读；职责期待不等于完成"
+        },
+        {
+          "id": "S51",
+          "title": "本人本轮补充",
+          "path": "本会话 2026-10-05 用户回复",
+          "coverage": "确认技术支持职责、5月～8月（年份待确认）、偏内向慢热、五项付费客户项目；商业情况为本人确认，未核合同/收款凭证"
+        },
+        {
+          "id": "E01",
+          "title": "FDE会话转来的本人最新确认",
+          "path": "本会话2026-10-05授权派单文本",
+          "coverage": "确认2026年5～8月、网站前后端/运营维护测试、非程序员背景、熟练使用AI、RAG最弱、目前一人；不是逐项目贡献证明"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG03"
+      ],
+      "website_summary_draft": "律师事务所OA系统。围绕法律服务机构的内部协同与办公。，参与/探索既有资料称参与OA搭建；具体模块未核。 当前资料状态：本人确认参与的付费客户项目；具体交付待补。",
+      "public_ready": false
+    },
+    {
+      "id": "P05",
+      "name": "英国 OtherWater 品牌水质过滤器全域营销",
+      "group": "企业客户",
+      "status": "本人确认参与的付费客户项目；具体交付待补",
+      "problem": "净水产品的海外市场展示与营销协同。",
+      "work": "项目参与线索，可能涉及KOC与内容/外联支持，后者需本人核实。",
+      "proof": "PDF第6页；历史网页扫描有OtherWater UK KOC线索。 本轮本人确认属于付费客户项目，未核合同或收款。",
+      "skills": "海外营销、英文素材、协作流程",
+      "boundary": "品牌与付费客户性质由本人确认；具体渠道、独立负责部分、营销效果及公开权限待补。",
+      "sids": [
+        "S04",
+        "S07",
+        "S51"
+      ],
+      "priority": "待补证",
+      "role": "技术支持；每项具体操作、团队分工及交付结果待补",
+      "aliases": "",
+      "baseline_id": "P05",
+      "evidence_date": "2026-07历史线索／2026-10-05本人确认",
+      "current_entry": "UNKNOWN（历史T1-UK KOC路径需另核）",
+      "ownership": "团队参与经历：本人确认原点向量客户项目；个人负责模块和代码权属UNKNOWN。",
+      "personal_tasks_known": "总体承担技术支持、网站开发前端/后端、运营维护和测试，为本人2026-10-05自述；不能平均分配到每个案例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "海外内容/营销协作、KOC素材与品牌信息一致性；效果未核。",
+      "critical_gaps": "品牌与付费客户性质由本人确认；具体渠道、独立负责部分、营销效果及公开权限待补。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        },
+        {
+          "id": "S07",
+          "title": "历史网页项目扫描",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/全局网页相关项目扫描报告.md",
+          "coverage": "相关段落已读；历史路径不能当当前路径"
+        },
+        {
+          "id": "S51",
+          "title": "本人本轮补充",
+          "path": "本会话 2026-10-05 用户回复",
+          "coverage": "确认技术支持职责、5月～8月（年份待确认）、偏内向慢热、五项付费客户项目；商业情况为本人确认，未核合同/收款凭证"
+        },
+        {
+          "id": "E01",
+          "title": "FDE会话转来的本人最新确认",
+          "path": "本会话2026-10-05授权派单文本",
+          "coverage": "确认2026年5～8月、网站前后端/运营维护测试、非程序员背景、熟练使用AI、RAG最弱、目前一人；不是逐项目贡献证明"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG04"
+      ],
+      "website_summary_draft": "英国 OtherWater 品牌水质过滤器全域营销。围绕净水产品的海外市场展示与营销协同。，参与/探索项目参与线索，可能涉及KOC与内容/外联支持，后者需本人核实。 当前资料状态：本人确认参与的付费客户项目；具体交付待补。",
+      "public_ready": false
+    },
+    {
+      "id": "P06",
+      "name": "Eli AI录单L0交互验证",
+      "group": "AI业务工作流",
+      "status": "可定位的React/TypeScript Mock工程",
+      "problem": "传统单据到结构化字段与人工审核流程需要先说清。",
+      "work": "上传UI、字段/置信度呈现、人工修正、状态筛选、审计日志演示、需求包。",
+      "proof": "README明确完整页面与Mock边界；配套需求/字段映射/客户确认问题。",
+      "skills": "React、TypeScript、Vite、Tailwind、流程原型",
+      "boundary": "不接真实OCR/LLM/后端；导出按钮不生成Excel，不声称识别准确率或效率收益。",
+      "sids": [
+        "S08",
+        "S09",
+        "S04"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "AI录单MVP／案例2；KSR需求线索不可直接等同",
+      "baseline_id": "P06",
+      "evidence_date": "本轮2026-10-05核入口；原型完成日期UNKNOWN",
+      "current_entry": "/Users/USER/Documents/eli/ai-order-entry-mvp",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-14 PMO总控 | eli",
+          "thread_id": "01a0cbf6-283e-73f1-9e91-55fb02e6518c",
+          "cwd": "/Users/USER/Documents/eli",
+          "state": "active",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "先验证字段和人工审核流程，避免在样本未知时承诺OCR效果。",
+      "critical_gaps": "不接真实OCR/LLM/后端；导出按钮不生成Excel，不声称识别准确率或效率收益。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S08",
+          "title": "AI录单工程入口",
+          "path": "/Users/USER/Documents/eli/ai-order-entry-mvp/README.md",
+          "coverage": "全文已读；L0 Mock"
+        },
+        {
+          "id": "S09",
+          "title": "Eli当前资料索引",
+          "path": "/Users/USER/Documents/eli/docs/项目资料索引.md",
+          "coverage": "全文已读"
+        },
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Eli AI录单L0交互验证。围绕传统单据到结构化字段与人工审核流程需要先说清。，参与/探索上传UI、字段/置信度呈现、人工修正、状态筛选、审计日志演示、需求包。 当前资料状态：可定位的React/TypeScript Mock工程。",
+      "public_ready": false
+    },
+    {
+      "id": "P07",
+      "name": "WilliamRock家具品牌展示网站",
+      "group": "企业客户",
+      "status": "静态前台/本地候选；CMS需求已拆分",
+      "problem": "国际采购商需要清楚了解产品、工厂与询盘路径。",
+      "work": "英文前台、产品/工厂展示、图库、语言切换；CMS内容维护与询盘权限矩阵规划。",
+      "proof": "本地网站目录/交付包存在；P0文档限定后台L1未验。",
+      "skills": "HTML/CSS、响应式、B2B信息架构、CMS权限规划",
+      "boundary": "目标williamrock.com不等于已部署；不写真实询盘处理/CRM/CMS生产可用。",
+      "sids": [
+        "S10",
+        "S11"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P07",
+      "evidence_date": "需求文档日期UNKNOWN／本轮核入口2026-10-05",
+      "current_entry": "/Volumes/EXTERNAL/wl",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | WilliamRock 前台展示页",
+          "thread_id": "01a0cbe7-d49f-7140-803b-3a6e147ad409",
+          "cwd": "/Volumes/EXTERNAL/wl",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "B2B产品展示、询盘闭环与CMS权限范围控制。",
+      "critical_gaps": "目标williamrock.com不等于已部署；不写真实询盘处理/CRM/CMS生产可用。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S10",
+          "title": "WilliamRock官网需求范围",
+          "path": "/Volumes/EXTERNAL/wl/docs/00_PROJECT_INIT.md",
+          "coverage": "全文已读；CMS范围草案"
+        },
+        {
+          "id": "S11",
+          "title": "WilliamRock展示/目录产品定位",
+          "path": "/Volumes/EXTERNAL/wl/PRODUCT.md",
+          "coverage": "全文已读；产物目录存在，未视觉验收"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG05",
+        "IMG06"
+      ],
+      "website_summary_draft": "WilliamRock家具品牌展示网站。围绕国际采购商需要清楚了解产品、工厂与询盘路径。，参与/探索英文前台、产品/工厂展示、图库、语言切换；CMS内容维护与询盘权限矩阵规划。 当前资料状态：静态前台/本地候选；CMS需求已拆分。",
+      "public_ready": false
+    },
+    {
+      "id": "P08",
+      "name": "WilliamRock产品目录与展示素材",
+      "group": "设计与内容",
+      "status": "本地目录/资产与校验脚本存在",
+      "problem": "家具采购需要快速比对外观、型号和尺寸。",
+      "work": "产品目录、场景素材、A4/手机呈现、产品规格与生成场景图区分。",
+      "proof": "PRODUCT定位、静态catalog目录和目录QA脚本存在；本轮未看最终图。",
+      "skills": "产品信息设计、AI辅助视觉、规格核验",
+      "boundary": "生成场景不等于实拍；规格必须来自供应资料；图像权利与本人设计贡献待确认。",
+      "sids": [
+        "S11"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P08",
+      "evidence_date": "产品定位文档日期UNKNOWN／本轮核入口2026-10-05",
+      "current_entry": "/Volumes/EXTERNAL/wl",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | WilliamRock 前台展示页",
+          "thread_id": "01a0cbe7-d49f-7140-803b-3a6e147ad409",
+          "cwd": "/Volumes/EXTERNAL/wl",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "产品规格核对、视觉与真实尺寸分离、目录一致性。",
+      "critical_gaps": "生成场景不等于实拍；规格必须来自供应资料；图像权利与本人设计贡献待确认。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S11",
+          "title": "WilliamRock展示/目录产品定位",
+          "path": "/Volumes/EXTERNAL/wl/PRODUCT.md",
+          "coverage": "全文已读；产物目录存在，未视觉验收"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "WilliamRock产品目录与展示素材。围绕家具采购需要快速比对外观、型号和尺寸。，参与/探索产品目录、场景素材、A4/手机呈现、产品规格与生成场景图区分。 当前资料状态：本地目录/资产与校验脚本存在。",
+      "public_ready": false
+    },
+    {
+      "id": "P09",
+      "name": "WilliamRock扫码库存基础版",
+      "group": "企业客户",
+      "status": "本地核心闭环／云端虚拟试点有验收记录",
+      "problem": "单仓多库位库存容易因重复提交、并发、断网而记错。",
+      "work": "按箱入/移/出库、扫码、身份权限、幂等、原子移库、结果核对、反向纠错、备份恢复。",
+      "proof": "24后端、11浏览器、9云端测试记录；10→移4→出3得到3/4/7；38单/12作废恢复记录。",
+      "skills": "TypeScript、React/Vite、SQLite/D1、Cloudflare Workers、Playwright",
+      "boundary": "虚拟库存试点，真实手机扫码与工厂网络待验；不能写工厂已正式使用。",
+      "sids": [
+        "S12",
+        "S13"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P09",
+      "evidence_date": "2026-09-08",
+      "current_entry": "/Volumes/EXTERNAL/wr库存系统",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "出入库幂等、移库事务、撤销审计、备份恢复。",
+      "critical_gaps": "虚拟库存试点，真实手机扫码与工厂网络待验；不能写工厂已正式使用。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S12",
+          "title": "库存基础版工程入口",
+          "path": "/Volumes/EXTERNAL/wr库存系统/README.md",
+          "coverage": "全文已读；本地及云端虚拟试点"
+        },
+        {
+          "id": "S13",
+          "title": "库存基础版验收记录",
+          "path": "/Volumes/EXTERNAL/wr库存系统/docs/ACCEPTANCE.md",
+          "coverage": "全文已读；24后端/11浏览器/9云端用例为记录证据，未本轮重跑"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG07",
+        "IMG08"
+      ],
+      "website_summary_draft": "WilliamRock扫码库存基础版。围绕单仓多库位库存容易因重复提交、并发、断网而记错。，参与/探索按箱入/移/出库、扫码、身份权限、幂等、原子移库、结果核对、反向纠错、备份恢复。 当前资料状态：本地核心闭环／云端虚拟试点有验收记录。",
+      "public_ready": false
+    },
+    {
+      "id": "P10",
+      "name": "淼瀚洁具库存系统：业务验收与试部署",
+      "group": "企业客户",
+      "status": "隔离测试数据库172表、后端内部启动、PC公网登录页和独立/mobile/ H5登录页有记录；登录成功、库存增减/盘点和容量验收未通过。",
+      "problem": "库存数量、规格、退货、盘点和采购状态需要与业务一致。",
+      "work": "建立可复现测试单据、PC/H5交叉核库存、反馈开发；Linux测试环境与隔离构建记录。",
+      "proof": "9项复查最终8通过1未通过；未到仓退货仍+1库存；2026-10-05后端/PC构建和服务器环境有记录。",
+      "skills": "业务QA、UAT、缺陷复现、部署前核验",
+      "boundary": "原系统不默认本人独立开发；构建成功不等于ERP部署/运行/生产验收。",
+      "sids": [
+        "S14",
+        "S15",
+        "S04"
+      ],
+      "priority": "核心候选",
+      "role": "可写业务验收参与；原系统开发归属及本人范围需确认",
+      "aliases": "",
+      "baseline_id": "P10",
+      "evidence_date": "2026-10-05",
+      "current_entry": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统；隔离试跑材料 /Volumes/EXTERNAL/ERP试跑-20261005",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | 淼瀚洁具库存系统",
+          "thread_id": "01a07437-1907-77b1-8afb-4d15b09c95bb",
+          "cwd": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        },
+        {
+          "title": "淼瀚 服务器",
+          "thread_id": "01a0f68a-4397-7053-9825-12e93ad75923",
+          "cwd": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统",
+          "state": "idle",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "部署分层、保留原业务数据、最小初始化、桌面与移动端入口、鉴权与资源观察。",
+      "critical_gaps": "原系统不默认本人独立开发；构建成功不等于ERP部署/运行/生产验收。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S14",
+          "title": "淼瀚9项业务复查",
+          "path": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统/docs/9项问题复查-20260922.md",
+          "coverage": "各阶段与最终状态已读；8样例通过1未通过"
+        },
+        {
+          "id": "S15",
+          "title": "淼瀚云服务器试跑",
+          "path": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统/docs/2026-10-05-京东云试跑检查.md",
+          "coverage": "全文已读；构建和环境记录不等于业务启动"
+        },
+        {
+          "id": "S04",
+          "title": "已有9页FDE作品集",
+          "path": "/Users/USER/Documents/Eli-FDE_AI业务提效案例.pdf",
+          "coverage": "9页文字完整提取；未复核视觉；其中个人参与为既有资料表述"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG09"
+      ],
+      "website_summary_draft": "淼瀚洁具库存系统：业务验收与试部署。围绕库存数量、规格、退货、盘点和采购状态需要与业务一致。，参与/探索建立可复现测试单据、PC/H5交叉核库存、反馈开发；Linux测试环境与隔离构建记录。 当前资料状态：隔离测试数据库172表、后端内部启动、PC公网登录页和独立/mobile/ H5登录页有记录；登录成功、库存增减/盘点和容量验收未通过。。",
+      "public_ready": false
+    },
+    {
+      "id": "P11",
+      "name": "英国／澳大利亚小商户网站改版与获客实验",
+      "group": "企业客户",
+      "status": "多商户概念Demo与筛选/外联材料",
+      "problem": "小商户网站内容、手机体验和询盘路径需要完整承接。",
+      "work": "公开资料筛选、完整功能对照、网页Demo、移动端QA、报价/转让边界和外联模板。",
+      "proof": "client_*目录、预览包与截图存在；Full Replacement要求明确。",
+      "skills": "网站设计、公开竞品分析、英文获客、资产交付",
+      "boundary": "目录数量不是付费客户数；不能称客户授权、成交或全面上线，素材权利待确认。",
+      "sids": [
+        "S16"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "海外落地页；多个商户Demo作为同一项目群",
+      "baseline_id": "P11",
+      "evidence_date": "历史实验／本轮基线2026-10-05",
+      "current_entry": "/Volumes/EXTERNAL/海外落地页",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "商户痛点到网站Demo与报价实验；不能拿Demo目录证明成交。",
+      "critical_gaps": "目录数量不是付费客户数；不能称客户授权、成交或全面上线，素材权利待确认。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S16",
+          "title": "海外网站项目范围",
+          "path": "/Volumes/EXTERNAL/海外落地页/PROJECT_CORE.md",
+          "coverage": "当前范围与前段已读；未读全量候选或邮件正文"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG21"
+      ],
+      "website_summary_draft": "英国／澳大利亚小商户网站改版与获客实验。围绕小商户网站内容、手机体验和询盘路径需要完整承接。，参与/探索公开资料筛选、完整功能对照、网页Demo、移动端QA、报价/转让边界和外联模板。 当前资料状态：多商户概念Demo与筛选/外联材料。",
+      "public_ready": false
+    },
+    {
+      "id": "P12",
+      "name": "织境：小红书本地AI内容工作台",
+      "group": "AI业务工作流",
+      "status": "0.1.9 Windows候选包待真机复验；真实内容E2E于2026-08-16首张图片交付失败。另有2026-08-18 Electron P8真实扫码登录→摘要确认→重启→断开删除→重新登录PASS，59/59桌面测试为历史记录。账号连接通过不等于账号风格模型学习、图文生成或平台发布通过。",
+      "problem": "家居面料商家需按账号风格把产品图转成可审核图文。",
+      "work": "首次设置、风格确认、产品事实、生成/编辑/确认、BYOK、导出、Publisher人工fallback、Windows启动包。",
+      "proof": "87本地测试记录及页面QA；真实文字probe成功；真实图像交付停止；0.1.5Windows候选待真机。",
+      "skills": "TypeScript、Node、Provider抽象、schema、图像处理、打包诊断",
+      "boundary": "不能写稳定自动生成/自动发布；Publisher foundation不是小红书平台发布。",
+      "sids": [
+        "S17",
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P12",
+      "evidence_date": "2026-08-18／本轮2026-10-05补读",
+      "current_entry": "/Volumes/EXTERNAL/小红书",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | 小红书本地AI工作台",
+          "thread_id": "01a109f9-eff6-74b1-95b1-aafc59da9f9a",
+          "cwd": "/Volumes/EXTERNAL/小红书",
+          "state": "idle",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        },
+        {
+          "title": "1-2 小红书本地AI工作台",
+          "thread_id": "01a01da9-300c-7512-b9c3-eff3e4b963bc",
+          "cwd": "/Volumes/EXTERNAL/小红书",
+          "state": "idle",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "商品事实确认、BYOK/成本止损、可诊断本地交付、跨平台路径、账号生命周期与隐私边界。",
+      "critical_gaps": "不能写稳定自动生成/自动发布；Publisher foundation不是小红书平台发布。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S17",
+          "title": "织境工程入口",
+          "path": "/Volumes/EXTERNAL/小红书/README.md",
+          "coverage": "全文已读；产品路径/Provider基础与限制"
+        },
+        {
+          "id": "S18",
+          "title": "织境产品语言",
+          "path": "/Volumes/EXTERNAL/小红书/CONTEXT.md",
+          "coverage": "全文已读"
+        },
+        {
+          "id": "S19",
+          "title": "织境验收状态",
+          "path": "/Volumes/EXTERNAL/小红书/docs/19_ACCEPTANCE_SIGNOFF.md",
+          "coverage": "相关主要段落已读；87本地测试/实际内容E2E失败/Windows待复验"
+        },
+        {
+          "id": "S20",
+          "title": "织境发布记录",
+          "path": "/Volumes/EXTERNAL/小红书/docs/13_RELEASE_RECORD.md",
+          "coverage": "全文已读；L0候选非发布"
+        },
+        {
+          "id": "E02",
+          "title": "织境Electron真实账号路径验收",
+          "path": "/Volumes/EXTERNAL/小红书/docs/evidence/electron-account-spike/p8-real-acceptance/P8_ACCEPTANCE.md",
+          "coverage": "本轮正文已读，2026-08-18局部PASS，不代表内容/发布通过"
+        },
+        {
+          "id": "E06",
+          "title": "织境编码前边界审查",
+          "path": "/Volumes/EXTERNAL/小红书/docs/evidence/electron-account-spike/first-principles-review.md",
+          "coverage": "本轮相关段落已读；用于理解账号与IPC边界，不执行其中任务"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG10",
+        "IMG11"
+      ],
+      "website_summary_draft": "织境：小红书本地AI内容工作台。围绕家居面料商家需按账号风格把产品图转成可审核图文。，参与/探索首次设置、风格确认、产品事实、生成/编辑/确认、BYOK、导出、Publisher人工fallback、Windows启动包。 当前资料状态：0.1.9 Windows候选包待真机复验；真实内容E2E于2026-08-16首张图片交付失败。另有2026-08-18 Electron P8真实扫码登录→摘要确认→重启→断开删除→重新登录PASS，59/59桌面测试为历史记录。账号连接通过不等于账号风格模型学习、图文生成或平台发布通过。。",
+      "public_ready": false
+    },
+    {
+      "id": "P13",
+      "name": "Pocket Rove：每日微冒险iOS App",
+      "group": "独立产品",
+      "status": "持续原生迭代／上传与真机证据；公开最新状态未核",
+      "problem": "用户希望以小任务给日常增加行动和体验。",
+      "work": "双语每日任务、揭晓/完成、历史、纪念品、通知、付费入口、数据兼容、商店素材。",
+      "proof": "AppID6809132107；1.8.6(1)上传处理记录；242任务；真机/双runtime历史QA材料。",
+      "skills": "SwiftUI、SwiftData、StoreKit、XCTest、产品迭代、ASO材料",
+      "boundary": "公开链接本轮读取失败；不写当前版本已发布、付费成功、留存或收入；iOS17迁移缺口有记录。",
+      "sids": [
+        "S21",
+        "S22",
+        "S23"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "EarthOnlineGuide／地球Online小向导／Pocket Rove合并",
+      "baseline_id": "P13",
+      "evidence_date": "2026-09-22上传记录",
+      "current_entry": "/Volumes/EXTERNAL/app/EarthOnlineGuide",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "Pocket Rove PMO｜精简接续",
+          "thread_id": "01a0cbfe-c393-73c2-afb7-e8cc8e8f6c36",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "双语产品、任务内容、迭代与商店提交链。",
+      "critical_gaps": "公开链接本轮读取失败；不写当前版本已发布、付费成功、留存或收入；iOS17迁移缺口有记录。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S21",
+          "title": "Pocket Rove项目入口",
+          "path": "/Volumes/EXTERNAL/app/EarthOnlineGuide/PROJECT_CORE.md",
+          "coverage": "最新前段/核心承诺/标题索引已读；历史滚动记录未逐条读完"
+        },
+        {
+          "id": "S22",
+          "title": "Pocket Rove1.8.6上传回执",
+          "path": "/Volumes/EXTERNAL/app/EarthOnlineGuide/Planning/Release-1.8.6/distribution-20260922/STATUS.md",
+          "coverage": "全文已读；上传处理完成，最终Save/Review记录不完整"
+        },
+        {
+          "id": "S23",
+          "title": "Pocket Rove商店名称",
+          "path": "/Volumes/EXTERNAL/app/EarthOnlineGuide/Planning/Release-1.6.9/STORE-NAME-20260911.md",
+          "coverage": "全文已读；AppID和品牌对应，当前商店未独立确认"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG12",
+        "IMG13"
+      ],
+      "website_summary_draft": "Pocket Rove：每日微冒险iOS App。围绕用户希望以小任务给日常增加行动和体验。，参与/探索双语每日任务、揭晓/完成、历史、纪念品、通知、付费入口、数据兼容、商店素材。 当前资料状态：持续原生迭代／上传与真机证据；公开最新状态未核。",
+      "public_ready": false
+    },
+    {
+      "id": "P14",
+      "name": "Focumi：宠物陪伴专注App",
+      "group": "独立产品",
+      "status": "原生工程／历史真机与审核提交证据",
+      "problem": "专注流程需平衡干扰App限制、必要使用和返回。",
+      "work": "宠物认领、目标/时长、专注状态机、Shield/必要使用/返回、Live Activity、通知与公开支持页。",
+      "proof": "工程/领域文档；2026-08-25 0.6.0(12)Waiting for Review记录；P0-A真机记录入口。",
+      "skills": "SwiftUI、FamilyControls、ManagedSettings、DeviceActivity、App Group",
+      "boundary": "系统行为必须真机验；不能写当前已上架/疗效/留存；旧PROJECT状态不能覆盖后续版本。",
+      "sids": [
+        "S24",
+        "S25",
+        "S26"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "DisciplinedPet／自律宠物-iOS／Focumi同一产品",
+      "baseline_id": "P14",
+      "evidence_date": "2026-08-14产品文档／2026-08-25提交记录",
+      "current_entry": "/Volumes/EXTERNAL/app/自律宠物-iOS（/Volumes/EXTERNAL/app/focumi为配套站点）",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | App",
+          "thread_id": "01a0cbe9-86ee-7db3-b16b-85dbdbb58d08",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "系统权限/扩展、真机验证、审核反馈与产品体验。",
+      "critical_gaps": "系统行为必须真机验；不能写当前已上架/疗效/留存；旧PROJECT状态不能覆盖后续版本。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S24",
+          "title": "Focumi产品范围",
+          "path": "/Volumes/EXTERNAL/app/自律宠物-iOS/Docs/PROJECT.md",
+          "coverage": "全文已读；2026-08-14状态，不当最新发布版本"
+        },
+        {
+          "id": "S25",
+          "title": "Focumi公开页",
+          "path": "/Volumes/EXTERNAL/app/focumi/README.md",
+          "coverage": "全文已读；隐私/支持站与App合并统计"
+        },
+        {
+          "id": "S26",
+          "title": "Focumi审核提交回执",
+          "path": "/Volumes/EXTERNAL/app/自律宠物-iOS/Evidence/Focumi-AppStore-Submission-2026-08-25/FINAL_SUBMISSION_READBACK_2026-08-25.md",
+          "coverage": "全文已读；0.6.0(12)等待审核的历史事实"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG14",
+        "IMG15"
+      ],
+      "website_summary_draft": "Focumi：宠物陪伴专注App。围绕专注流程需平衡干扰App限制、必要使用和返回。，参与/探索宠物认领、目标/时长、专注状态机、Shield/必要使用/返回、Live Activity、通知与公开支持页。 当前资料状态：原生工程／历史真机与审核提交证据。",
+      "public_ready": false
+    },
+    {
+      "id": "P15",
+      "name": "PetSocial：宠物社交封闭Beta",
+      "group": "独立产品",
+      "status": "本人iPhone核心回归1项0失败；最新记录已取得sandbox推送注册/token存在；实际通知收取和点击未验，worker关闭；SMTP、完整账号删除与跨设备闭环有缺口，未TestFlight。",
+      "problem": "养宠用户通过宠物资料建立主人连接与文字交流。",
+      "work": "宠物资料/照片、发现/邀请、主人对唯一连接、聊天/outbox、权限与推送基础设施；独立VisualDemo。",
+      "proof": "2026-10-05真机XCTest1项0失败46.448秒；历史消息/发送/重启恢复；推送后检与worker部署记录。",
+      "skills": "SwiftUI、Supabase、PostgreSQL RLS、Storage、Realtime、幂等消息",
+      "boundary": "APNs真实投递、SMTP/外部注册、第三身份与完整删除仍待验；没有TestFlight闭环或真实增长。",
+      "sids": [
+        "S27",
+        "S28",
+        "S29"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "VisualDemo是本项目演示层，不另算一个完整产品",
+      "baseline_id": "P15",
+      "evidence_date": "2026-10-05",
+      "current_entry": "/Volumes/EXTERNAL/app/PetSocial",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "宠物社交｜评分与产品讨论",
+          "thread_id": "01a0cbfa-1f82-7c03-af6f-0150442b6542",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "active",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "社交链路分层验证、会话恢复、通知注册与实际送达分离、云端授权与设备验收。",
+      "critical_gaps": "APNs真实投递、SMTP/外部注册、第三身份与完整删除仍待验；没有TestFlight闭环或真实增长。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S27",
+          "title": "PetSocial当前入口",
+          "path": "/Volumes/EXTERNAL/app/PetSocial/PROJECT_CORE.md",
+          "coverage": "最新2026-10-05/10-04关键段落已读，未全文历史"
+        },
+        {
+          "id": "S28",
+          "title": "PetSocial真机回归",
+          "path": "/Volumes/EXTERNAL/app/PetSocial/Evidence/2026-10-05-device-core.md",
+          "coverage": "全文已读；1项XCTest0失败，非全部功能验收"
+        },
+        {
+          "id": "S29",
+          "title": "PetSocial内测边界",
+          "path": "/Volumes/EXTERNAL/app/PetSocial/TESTFLIGHT_SCOPE.md",
+          "coverage": "主要范围与门槛已读；未上传TestFlight"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG16",
+        "IMG17"
+      ],
+      "website_summary_draft": "PetSocial：宠物社交封闭Beta。围绕养宠用户通过宠物资料建立主人连接与文字交流。，参与/探索宠物资料/照片、发现/邀请、主人对唯一连接、聊天/outbox、权限与推送基础设施；独立VisualDemo。 当前资料状态：本人iPhone核心回归1项0失败；最新记录已取得sandbox推送注册/token存在；实际通知收取和点击未验，worker关闭；SMTP、完整账号删除与跨设备闭环有缺口，未TestFlight。。",
+      "public_ready": false
+    },
+    {
+      "id": "P16",
+      "name": "LocalStamp：旅行地点水印相机",
+      "group": "独立产品",
+      "status": "原生MVP／模拟器流程验证",
+      "problem": "拍照后快速得到地点时间水印并保存在系统相册。",
+      "work": "AVFoundation拍摄、CoreLocation、三种水印、端侧JPEG、Photos addOnly保存、Share Sheet、权限失败反馈。",
+      "proof": "README含模拟器闭环/无签名设备build及截图；真机签名历史受阻。",
+      "skills": "SwiftUI、AVFoundation、CoreLocation、Photos、端侧处理",
+      "boundary": "模拟器京都夹具非真实相机；没有收费/发布；不能宣传法定可信时间/GPS。",
+      "sids": [
+        "S30"
+      ],
+      "priority": "核心候选",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "水印相机海外本土化",
+      "baseline_id": "P16",
+      "evidence_date": "2026-08-06",
+      "current_entry": "/Volumes/EXTERNAL/app/LocalStampMVP",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | App",
+          "thread_id": "01a0cbe9-86ee-7db3-b16b-85dbdbb58d08",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "设备端媒体合成、相册权限和无网络核心路径。",
+      "critical_gaps": "模拟器京都夹具非真实相机；没有收费/发布；不能宣传法定可信时间/GPS。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S30",
+          "title": "LocalStamp工程入口",
+          "path": "/Volumes/EXTERNAL/app/LocalStampMVP/README.md",
+          "coverage": "全文已读；原生相机/模拟器验证，真机历史阻断"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG18"
+      ],
+      "website_summary_draft": "LocalStamp：旅行地点水印相机。围绕拍照后快速得到地点时间水印并保存在系统相册。，参与/探索AVFoundation拍摄、CoreLocation、三种水印、端侧JPEG、Photos addOnly保存、Share Sheet、权限失败反馈。 当前资料状态：原生MVP／模拟器流程验证。",
+      "public_ready": false
+    },
+    {
+      "id": "P17",
+      "name": "周易留白：私密反思阅读原型",
+      "group": "独立产品",
+      "status": "本地Web/iOS原型；典籍来源与发布待核",
+      "problem": "把三钱六爻过程做成克制、可追溯的阅读仪式。",
+      "work": "六轮起卦、64卦原文、本/之卦、开放式问题、版本化本地历史、导入导出、iOS Web包装。",
+      "proof": "README/PRODUCT和源码目录存在；完整典籍库20部材料有记录。",
+      "skills": "JavaScript、状态机、数据校验、本地存储、文化产品UX",
+      "boundary": "不做预测/准确率/重大决策建议；版权汇编来源待核；无账号云/真实付款。",
+      "sids": [
+        "S31",
+        "S32"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "IChingReflectionMVP／周易留白阅读原型",
+      "baseline_id": "P17",
+      "evidence_date": "基线2026-10-05；具体验收日期UNKNOWN",
+      "current_entry": "/Users/USER/Documents/app/周易留白阅读原型（副本定位，活跃根UNKNOWN）",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "周易项目pmo｜精简接续",
+          "thread_id": "01a0cc06-9584-7743-935c-390c2c234056",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "私密记录、导入验证、状态恢复与原文阅读。",
+      "critical_gaps": "不做预测/准确率/重大决策建议；版权汇编来源待核；无账号云/真实付款。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S31",
+          "title": "周易阅读原型",
+          "path": "/Users/USER/Documents/app/周易留白阅读原型/README.md",
+          "coverage": "主要现状与边界已读；内盘副本，当前活跃Owner路径待核"
+        },
+        {
+          "id": "S32",
+          "title": "周易产品原则",
+          "path": "/Users/USER/Documents/app/周易留白阅读原型/PRODUCT.md",
+          "coverage": "全文已读"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG19"
+      ],
+      "website_summary_draft": "周易留白：私密反思阅读原型。围绕把三钱六爻过程做成克制、可追溯的阅读仪式。，参与/探索六轮起卦、64卦原文、本/之卦、开放式问题、版本化本地历史、导入导出、iOS Web包装。 当前资料状态：本地Web/iOS原型；典籍来源与发布待核。",
+      "public_ready": false
+    },
+    {
+      "id": "P18",
+      "name": "学习App达标提醒",
+      "group": "独立产品",
+      "status": "能力实验+原生视觉与真机接线；可靠性未通过",
+      "problem": "学习用时不足时提醒，达标后不打扰。",
+      "work": "独立App目标/提醒时间、DeviceActivity回调、日期与代际隔离、真实App选择、圆环预览。",
+      "proof": "17/19项逻辑记录；2026-09-18真机接线安装记录；跨日/实际用量/提醒未通过。",
+      "skills": "SwiftUI、FamilyControls、DeviceActivity、UserNotifications",
+      "boundary": "不能承诺准确计时、可靠准点或长期后台；用时不是学习成果。",
+      "sids": [
+        "S33",
+        "S34"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P18",
+      "evidence_date": "2026-09-18",
+      "current_entry": "/Volumes/EXTERNAL/app/学习App达标提醒",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | App",
+          "thread_id": "01a0cbe9-86ee-7db3-b16b-85dbdbb58d08",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "先做平台能力实验；安装成功与可靠后台行为分层。",
+      "critical_gaps": "不能承诺准确计时、可靠准点或长期后台；用时不是学习成果。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S33",
+          "title": "学习达标提醒工程",
+          "path": "/Volumes/EXTERNAL/app/学习App达标提醒/README.md",
+          "coverage": "全文已读，已被最新入口部分更新"
+        },
+        {
+          "id": "S34",
+          "title": "学习达标提醒当前状态",
+          "path": "/Volumes/EXTERNAL/app/学习App达标提醒/PROJECT_CORE.md",
+          "coverage": "主要当前段落已读；安装与核心能力分开"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG23"
+      ],
+      "website_summary_draft": "学习App达标提醒。围绕学习用时不足时提醒，达标后不打扰。，参与/探索独立App目标/提醒时间、DeviceActivity回调、日期与代际隔离、真实App选择、圆环预览。 当前资料状态：能力实验+原生视觉与真机接线；可靠性未通过。",
+      "public_ready": false
+    },
+    {
+      "id": "P19",
+      "name": "真实发型试戴与发型师参考卡",
+      "group": "独立产品",
+      "status": "本地交互/MediaPipe能力原型",
+      "problem": "用户需表达发质和候选剪裁，并与发型师沟通。",
+      "work": "三视图输入、现实发质约束、候选比对/PDF参考卡、真实关键点校准、2D/2.5D跟随、100款目录线索。",
+      "proof": "README/源码/测试入口/截图及haircut-catalog存在。",
+      "skills": "Web、MediaPipe/WASM、状态机、响应式、隐私边界",
+      "boundary": "非真实换发AI，±40°不是360°；用户摄像头效果与剪后效果未保证；目录不是额外产品。",
+      "sids": [
+        "S35"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P19",
+      "evidence_date": "2026-08历史试验／本轮基线2026-10-05",
+      "current_entry": "/Volumes/EXTERNAL/app/真实发型试戴MVP（haircut-catalog为辅助资产）",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | App",
+          "thread_id": "01a0cbe9-86ee-7db3-b16b-85dbdbb58d08",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "摄像头交互、姿态约束、参考材料与真实效果区分。",
+      "critical_gaps": "非真实换发AI，±40°不是360°；用户摄像头效果与剪后效果未保证；目录不是额外产品。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S35",
+          "title": "发型试戴工程",
+          "path": "/Volumes/EXTERNAL/app/真实发型试戴MVP/README.md",
+          "coverage": "主要流程/MediaPipe/隐私段落已读"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG20"
+      ],
+      "website_summary_draft": "真实发型试戴与发型师参考卡。围绕用户需表达发质和候选剪裁，并与发型师沟通。，参与/探索三视图输入、现实发质约束、候选比对/PDF参考卡、真实关键点校准、2D/2.5D跟随、100款目录线索。 当前资料状态：本地交互/MediaPipe能力原型。",
+      "public_ready": false
+    },
+    {
+      "id": "P20",
+      "name": "ClaimFlow保险理赔SaaS概念页",
+      "group": "独立产品",
+      "status": "L0静态概念／产品能力未实现",
+      "problem": "表达理赔工作流的产品定位与购买情境。",
+      "work": "本地HTML/CSS/JS落地页、FAQ与产品mock展示。",
+      "proof": "saas/README明确边界，文件存在。",
+      "skills": "SaaS定位、落地页、HTML/CSS",
+      "boundary": "仅概念静态页；没有AI/文件上传/后台/付款/理赔提交；页面指标是示意。",
+      "sids": [
+        "S36"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P20",
+      "evidence_date": "基线2026-10-05；验收日期UNKNOWN",
+      "current_entry": "/Volumes/EXTERNAL/saas",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "产品定位与概念验证，不把页面当完整SaaS。",
+      "critical_gaps": "仅概念静态页；没有AI/文件上传/后台/付款/理赔提交；页面指标是示意。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S36",
+          "title": "ClaimFlow本地页面",
+          "path": "/Volumes/EXTERNAL/saas/README.md",
+          "coverage": "全文主要内容已读；纯静态L0"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "ClaimFlow保险理赔SaaS概念页。围绕表达理赔工作流的产品定位与购买情境。，参与/探索本地HTML/CSS/JS落地页、FAQ与产品mock展示。 当前资料状态：L0静态概念／产品能力未实现。",
+      "public_ready": false
+    },
+    {
+      "id": "P21",
+      "name": "Hermes／乔帮主自动挂单可靠性修复",
+      "group": "自动化与研究",
+      "status": "历史修复部署与只读后检；新策略实盘闭环缺口",
+      "problem": "查询故障、重连与写结果不确定导致策略执行中断。",
+      "work": "状态续办、只读重连、订单ID对账、保护单核验、持久审计、通知共享退避、一次部署防重复。",
+      "proof": "255离线测试、4部署测试；5模拟委托；9模块部署后匹配的历史记录。",
+      "skills": "Python、状态机、故障恢复、幂等/对账、审计",
+      "boundary": "模拟订单非实盘；未验新策略实际委托/止盈止损；没有盈利证明；不暴露账号/策略私有数据。",
+      "sids": [
+        "S37"
+      ],
+      "priority": "技术附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P21",
+      "evidence_date": "2026-09-11",
+      "current_entry": "/Users/USER/Documents/Hermes",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "写结果不确定时对账而非盲重试、持久状态和故障恢复。",
+      "critical_gaps": "模拟订单非实盘；未验新策略实际委托/止盈止损；没有盈利证明；不暴露账号/策略私有数据。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S37",
+          "title": "Hermes可靠性修复",
+          "path": "/Users/USER/Documents/Hermes/reliability-20260911/REPAIR-NOTES.md",
+          "coverage": "全文已读；255离线测试、4部署测试记录；生产后新委托未验"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Hermes／乔帮主自动挂单可靠性修复。围绕查询故障、重连与写结果不确定导致策略执行中断。，参与/探索状态续办、只读重连、订单ID对账、保护单核验、持久审计、通知共享退避、一次部署防重复。 当前资料状态：历史修复部署与只读后检；新策略实盘闭环缺口。",
+      "public_ready": false
+    },
+    {
+      "id": "P22",
+      "name": "跨交易所盘口价差取证系统",
+      "group": "自动化与研究",
+      "status": "公开行情观察与独立回放研究",
+      "problem": "不同交易所价差易由报价时差、深度和规则造成假机会。",
+      "work": "序号校验、报价年龄、多档盘口、数量步长、费率情景、事件去重、原始journal/hash与独立Decimal回放。",
+      "proof": "代码和README存在；audit_v2固定LSK/G；路线BLOCKED_UNKNOWN。",
+      "skills": "Python、WebSocket、Decimal、数据质量、回放",
+      "boundary": "没有真实账户/下单/模拟成交；不得把价差累加成利润或声称策略赚钱。",
+      "sids": [
+        "S38"
+      ],
+      "priority": "技术附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P22",
+      "evidence_date": "基线2026-10-05；具体行情采集日期需查原记录",
+      "current_entry": "/Volumes/EXTERNAL/量化",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "我在你这里安装了“已安装到截图中的 “量化jev” 项目：TypeSafe 官方 Skill。项目对应目录是 /Vol…",
+          "thread_id": "01a0cc25-3368-7e10-a7ba-13be36cbbd53",
+          "cwd": "/Volumes/EXTERNAL/量化",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "数据质量、报价时间与独立回放，区分观察和成交。",
+      "critical_gaps": "没有真实账户/下单/模拟成交；不得把价差累加成利润或声称策略赚钱。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S38",
+          "title": "公开盘口价差取证",
+          "path": "/Volumes/EXTERNAL/量化/README.md",
+          "coverage": "全文已读；仅公开行情，非收益/成交验证"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "跨交易所盘口价差取证系统。围绕不同交易所价差易由报价时差、深度和规则造成假机会。，参与/探索序号校验、报价年龄、多档盘口、数量步长、费率情景、事件去重、原始journal/hash与独立Decimal回放。 当前资料状态：公开行情观察与独立回放研究。",
+      "public_ready": false
+    },
+    {
+      "id": "P23",
+      "name": "策略研究系统v0.1",
+      "group": "自动化与研究",
+      "status": "离线现货研究基线；合约通道未完成",
+      "problem": "策略、资金、费用与结论混杂会产生不可复核收益。",
+      "work": "小时突破/退出、资金共享、成本/延迟情景、冻结规则和数据hash、第二实现逐笔对照、失败回执。",
+      "proof": "strategy_system README与system/test源码、retest目录存在。",
+      "skills": "Python、研究实验设计、账本、独立实现、偏差控制",
+      "boundary": "全部历史已探索，非样本外；合约BLOCKED；不乘杠杆或宣称盈利。",
+      "sids": [
+        "S39"
+      ],
+      "priority": "技术附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P23",
+      "evidence_date": "基线2026-10-05；最近独立回放日期UNKNOWN",
+      "current_entry": "/Volumes/EXTERNAL/量化/strategy_system",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "我在你这里安装了“已安装到截图中的 “量化jev” 项目：TypeSafe 官方 Skill。项目对应目录是 /Vol…",
+          "thread_id": "01a0cc25-3368-7e10-a7ba-13be36cbbd53",
+          "cwd": "/Volumes/EXTERNAL/量化",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "冻结规则、成本情景、独立账本，保留失败结果。",
+      "critical_gaps": "全部历史已探索，非样本外；合约BLOCKED；不乘杠杆或宣称盈利。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S39",
+          "title": "策略研究系统",
+          "path": "/Volumes/EXTERNAL/量化/strategy_system/README.md",
+          "coverage": "全文已读；资金账本/成本情景/独立回放"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "策略研究系统v0.1。围绕策略、资金、费用与结论混杂会产生不可复核收益。，参与/探索小时突破/退出、资金共享、成本/延迟情景、冻结规则和数据hash、第二实现逐笔对照、失败回执。 当前资料状态：离线现货研究基线；合约通道未完成。",
+      "public_ready": false
+    },
+    {
+      "id": "P24",
+      "name": "Serenity产业与公司研究工作流",
+      "group": "自动化与研究",
+      "status": "持续研究/证据覆盖体系",
+      "problem": "AI基础设施与供应链线索需要一手材料和反证。",
+      "work": "候选矩阵、SEC/IR来源、催化剂/估值、覆盖状态、失效条件、研究队列。",
+      "proof": "状态文档载74家正式池及阶段覆盖，报告和模型目录存在。",
+      "skills": "一手研究、信息结构化、证据治理",
+      "boundary": "74家是候选池非74家研究完成；不披露个人持仓/账户；本轮不提供投资建议。",
+      "sids": [
+        "S40"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P24",
+      "evidence_date": "基线2026-10-05；研究按逐份报告日期",
+      "current_entry": "/Users/USER/Documents/serenity",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-7 PMO总控 | Serenity国内版",
+          "thread_id": "01a0cbef-039b-7dd1-a4f6-9678c4877768",
+          "cwd": "/Users/USER/Documents/serenity",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "来源可信度、反证和研究覆盖；不延伸投资收益承诺。",
+      "critical_gaps": "74家是候选池非74家研究完成；不披露个人持仓/账户；本轮不提供投资建议。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S40",
+          "title": "Serenity研究状态",
+          "path": "/Users/USER/Documents/serenity/docs/当前状态与开放循环.md",
+          "coverage": "主要阶段段落已读；74候选研究池，不是74已完成"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Serenity产业与公司研究工作流。围绕AI基础设施与供应链线索需要一手材料和反证。，参与/探索候选矩阵、SEC/IR来源、催化剂/估值、覆盖状态、失效条件、研究队列。 当前资料状态：持续研究/证据覆盖体系。",
+      "public_ready": false
+    },
+    {
+      "id": "P25",
+      "name": "个性化AI新闻简报",
+      "group": "AI业务工作流",
+      "status": "已定位AIUpdatesTrial原生App：OpenAI、Hugging Face、GitHub Changelog与DeepMind四源试读，画像导入、预览、确认、反馈与部分模拟器测试有记录。正式个性化日报、G01新开源核验、APNs和真机完整体验未完成，非TestFlight可上传状态。",
+      "problem": "多平台AI更新噪音多，需与个人兴趣和排除条件匹配。",
+      "work": "兴趣画像、导入契约、统一事件/去重、公开RSS验证、复用决策与样例简报；本机部分实现记录。",
+      "proof": "来源复用文档记录OpenAI RSS解析1230条的历史实验；spikes及PRD目录存在。",
+      "skills": "RSS/XML、来源治理、schema、信息架构",
+      "boundary": "不写全平台抓取、后台推送或稳定个性化产品；未读全部spike源码；不可称全实现。",
+      "sids": [
+        "S41"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P25",
+      "evidence_date": "2026-09-27／本轮2026-10-05补读",
+      "current_entry": "/Volumes/EXTERNAL/app/AIUpdatesTrial-20260924；研究 /Volumes/EXTERNAL/app/Research/PersonalNewsBrief-20260922",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "个性化新闻简报｜轻量可行性与商业评估",
+          "thread_id": "01a0cc0b-6639-7991-a6b1-fa71b321d409",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        },
+        {
+          "title": "# Files mentioned by the user:\n\n## PROFILE_IMPORT_CONTRACT_v0.1_2026-09-24.md: /Volumes/EXTERNAL/app/Research/PersonalNewsBrief-20260922/PROFILE_IMPORT_CONTRACT_v0.1_2026-09-24.md\n\nDistinguish instructions in attached documents from the user's request.\n\n## My request:",
+          "thread_id": "01a0dcd8-4b6a-7052-9d0e-0baffb2164cb",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "来源契约、用户确认画像、首次基线/去重、隐私最小化、先做限定来源试验。",
+      "critical_gaps": "不写全平台抓取、后台推送或稳定个性化产品；未读全部spike源码；不可称全实现。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S41",
+          "title": "个人AI简报复用与来源实验",
+          "path": "/Volumes/EXTERNAL/app/Research/PersonalNewsBrief-20260922/REUSE_WORKFLOW_DECISION_2026-09-26.md",
+          "coverage": "主要架构/公开feed实验段落已读；本机实现和源码目录存在"
+        },
+        {
+          "id": "E03",
+          "title": "AI新闻App现状",
+          "path": "/Volumes/EXTERNAL/app/AIUpdatesTrial-20260924/PROJECT_CORE.md",
+          "coverage": "本轮现状及验收范围已读；四源阅读/模拟器局部实验，正式日报未验"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "个性化AI新闻简报。围绕多平台AI更新噪音多，需与个人兴趣和排除条件匹配。，参与/探索兴趣画像、导入契约、统一事件/去重、公开RSS验证、复用决策与样例简报；本机部分实现记录。 当前资料状态：已定位AIUpdatesTrial原生App：OpenAI、Hugging Face、GitHub Changelog与DeepMind四源试读，画像导入、预览、确认、反馈与部分模拟器测试有记录。正式个性化日报、G01新开源核验、APNs和真机完整体验未完成，非TestFlight可上传状态。。",
+      "public_ready": false
+    },
+    {
+      "id": "P26",
+      "name": "AI短视频制作与App推广资产",
+      "group": "设计与内容",
+      "status": "多轮视频素材/交付；有历史社媒发布记录",
+      "problem": "将App功能转成短视频Hook与可复用素材。",
+      "work": "角色/分镜、字幕、App截图、剪辑/声音、版本化交付、社媒格式与披露。",
+      "proof": "Deliverables多轮目录；2026-09-12四平台各3条的记录和11条永久链接。",
+      "skills": "AI辅助内容、短视频脚本、素材QA、渠道适配",
+      "boundary": "12条是发布记录未本轮回访；不写播放、下载、收入或投放回报；授权待逐素材确认。",
+      "sids": [
+        "S42"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "Pocket Rove广告/Character E等合并，不每一版本算独立项目",
+      "baseline_id": "P26",
+      "evidence_date": "2026-09-12发布记录",
+      "current_entry": "/Volumes/EXTERNAL/ai视频/Deliverables",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。 基线明确包含AI辅助角色/分镜与内容素材。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "脚本/素材版本管理、渠道适配与AI披露。",
+      "critical_gaps": "12条是发布记录未本轮回访；不写播放、下载、收入或投放回报；授权待逐素材确认。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S42",
+          "title": "社媒视频发布记录",
+          "path": "/Volumes/EXTERNAL/ai视频/Deliverables/Social-Publishing-20260912/发布记录.md",
+          "coverage": "全文已读；12/12发布的既有记录，本轮未回访公开帖子"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [
+        "IMG22"
+      ],
+      "website_summary_draft": "AI短视频制作与App推广资产。围绕将App功能转成短视频Hook与可复用素材。，参与/探索角色/分镜、字幕、App截图、剪辑/声音、版本化交付、社媒格式与披露。 当前资料状态：多轮视频素材/交付；有历史社媒发布记录。",
+      "public_ready": false
+    },
+    {
+      "id": "P27",
+      "name": "无脸播客／真实历史奇事频道研究",
+      "group": "设计与内容",
+      "status": "方向筛选/50期候选题库；内容产出状态未验",
+      "problem": "可持续选题需真实来源和长线制作成本约束。",
+      "work": "赛道评估、频道/视频样本、50期候选、首期制作与制作规范目录。",
+      "proof": "播客目录及研究文件存在；本轮仅目录核验。",
+      "skills": "内容研究、栏目规划、证据筛选",
+      "boundary": "不写50期已制作或账号已运营盈利；未完整读选题/成片。",
+      "sids": [],
+      "priority": "研究附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P27",
+      "evidence_date": "基线2026-10-05；仅目录",
+      "current_entry": "播客资料目录，具体活跃工程UNKNOWN",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "选题来源与持续制作成本；题库数量不当发布数量。",
+      "critical_gaps": "不写50期已制作或账号已运营盈利；未完整读选题/成片。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "无脸播客／真实历史奇事频道研究。围绕可持续选题需真实来源和长线制作成本约束。，参与/探索赛道评估、频道/视频样本、50期候选、首期制作与制作规范目录。 当前资料状态：方向筛选/50期候选题库；内容产出状态未验。",
+      "public_ready": false
+    },
+    {
+      "id": "P28",
+      "name": "独立App机会与海外本土化研究",
+      "group": "设计与内容",
+      "status": "大量研究资产；不等于独立产品开发",
+      "problem": "从真实触发与替代方案判断小产品是否值得做。",
+      "work": "针织WIP、婚纱照、纹身底稿、做菜、同机位复拍、哼唱动画、聚会/旅行、运动成果等研究。",
+      "proof": "app/Research和根目录报告/评分规则存在。",
+      "skills": "市场研究、竞品反证、产品范围、商业验证设计",
+      "boundary": "只做研究的方向不写为已开发产品；竞品收入自述不成为本人收入。",
+      "sids": [],
+      "priority": "研究附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P28",
+      "evidence_date": "多份2026-08～09研究；仅元数据部分覆盖",
+      "current_entry": "/Volumes/EXTERNAL/app/Research；/Volumes/EXTERNAL/app/国内增长App海外本土化研究",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。 基线包含agent研究与评分材料，不证明每个方向均实现。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | App",
+          "thread_id": "01a0cbe9-86ee-7db3-b16b-85dbdbb58d08",
+          "cwd": "/Volumes/EXTERNAL/app",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "需求与替代方案验证、受限范围和海外本土化。",
+      "critical_gaps": "只做研究的方向不写为已开发产品；竞品收入自述不成为本人收入。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "独立App机会与海外本土化研究。围绕从真实触发与替代方案判断小产品是否值得做。，参与/探索针织WIP、婚纱照、纹身底稿、做菜、同机位复拍、哼唱动画、聚会/旅行、运动成果等研究。 当前资料状态：大量研究资产；不等于独立产品开发。",
+      "public_ready": false
+    },
+    {
+      "id": "P29",
+      "name": "AI Project Radar项目情报任务包",
+      "group": "自动化与研究",
+      "status": "任务模板/评分与报告资产",
+      "problem": "把AI生态信息转成可核实的交付工具线索。",
+      "work": "公开来源、评分规则、日报模板、Top3与失败范围报告。",
+      "proof": "README明确只有任务说明/模板/报告，09:00人工触发。",
+      "skills": "信息筛选、技术调研、许可风险、复用评估",
+      "boundary": "不是已部署的自动采集服务/定时器。",
+      "sids": [
+        "S43"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P29",
+      "evidence_date": "基线2026-10-05；人工任务包",
+      "current_entry": "/Volumes/EXTERNAL/app/ai-project-radar；相关组件雷达 /Users/USER/Documents/Codex/2026-09-23/reusable-component-radar-2026-09-23",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "创建每日主线项目情报任务",
+          "thread_id": "01a0cbee-f814-7b70-b692-6267496fe865",
+          "cwd": "/Users/USER/Documents/Codex/2026-09-23/reusable-component-radar-2026-09-23",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "有限来源、评分与复用机会，不强行开发自动服务。",
+      "critical_gaps": "不是已部署的自动采集服务/定时器。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S43",
+          "title": "项目雷达任务包",
+          "path": "/Volumes/EXTERNAL/app/ai-project-radar/README.md",
+          "coverage": "全文主要段落已读；人工触发，不是自动服务"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "AI Project Radar项目情报任务包。围绕把AI生态信息转成可核实的交付工具线索。，参与/探索公开来源、评分规则、日报模板、Top3与失败范围报告。 当前资料状态：任务模板/评分与报告资产。",
+      "public_ready": false
+    },
+    {
+      "id": "P30",
+      "name": "AI协作与交付治理体系",
+      "group": "方法与支持",
+      "status": "跨项目规则/SOP/验收记录",
+      "problem": "AI会话易越界、误称完成、重复消耗与遗漏验证。",
+      "work": "唯一Owner、模型路由、证据验收、阻断台账、任务续接、有限阻碍审查、产物保护。",
+      "proof": "当前AGENTS/LOCAL_BLOCKERS及已有治理/交接文档可定位。",
+      "skills": "任务分解、验收、协作、风险边界、流程治理",
+      "boundary": "AI辅助机制不是本人手写所有代码；不写通用系统已产品化或节省固定比例。",
+      "sids": [
+        "S47",
+        "S48"
+      ],
+      "priority": "补充",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P30",
+      "evidence_date": "全局规则2026-09-30／本轮2026-10-05",
+      "current_entry": "/Users/USER/.codex/AGENTS.details.md；/Users/USER/.codex/LOCAL_BLOCKERS.md",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。 本会话可确认本人要求有限对抗审查、阻断查询和按证据验收；具体规则由AI辅助整理。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-5 PMO总控 | 全局线程治理",
+          "thread_id": "01a0cc11-4309-7383-adc2-833355539061",
+          "cwd": "/Users/USER/Documents/Codex/2026-09-23/global-pmo-20260923",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "单一Owner、授权边界、阻断复用与分层验收。",
+      "critical_gaps": "AI辅助机制不是本人手写所有代码；不写通用系统已产品化或节省固定比例。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S47",
+          "title": "磁盘清理总报告",
+          "path": "/Users/USER/Documents/磁盘清理审计/审计报告.md",
+          "coverage": "此前同会话已验收；累计df净增含后台影响"
+        },
+        {
+          "id": "S48",
+          "title": "Focumi复盘材料",
+          "path": "/Volumes/EXTERNAL/app/Focumi开发完整复盘_问题根因与改进SOP_2026-08-14.md",
+          "coverage": "文件存在，仅定位；正文未完整审阅"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "AI协作与交付治理体系。围绕AI会话易越界、误称完成、重复消耗与遗漏验证。，参与/探索唯一Owner、模型路由、证据验收、阻断台账、任务续接、有限阻碍审查、产物保护。 当前资料状态：跨项目规则/SOP/验收记录。",
+      "public_ready": false
+    },
+    {
+      "id": "P31",
+      "name": "Mac磁盘审计与安全清理",
+      "group": "方法与支持",
+      "status": "本会话已执行/验收",
+      "problem": "内盘不足需区分可清缓存、独有数据和运行依赖。",
+      "work": "逐项目保留取舍、精确白名单、模拟器/会话清理、外盘备份、Git与工具保护、df验收。",
+      "proof": "各轮回执累计净可用变化28.87GiB；App副本hash与嵌套仓库保留记录。",
+      "skills": "风险分类、文件证据、授权边界、恢复验证",
+      "boundary": "28.87GiB含各轮后台变化，不称纯删除精准量；不公开历史标题/客户数据；不是主要客户业务作品。",
+      "sids": [
+        "S47"
+      ],
+      "priority": "方法附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P31",
+      "evidence_date": "截至2026-10-05既有验收",
+      "current_entry": "/Users/USER/Documents/磁盘清理审计",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。 本会话可确认本人决定保留/删除范围并逐轮批准清理，技术执行由AI工具协助。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "Mac 磁盘审计｜只读扫描与清理候选",
+          "thread_id": "01a0f6ac-e3bd-7502-acb4-9bc7633c1a75",
+          "cwd": "/Users/USER/Documents/eli",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "风险分类、精确清理边界与实际空间测量。",
+      "critical_gaps": "28.87GiB含各轮后台变化，不称纯删除精准量；不公开历史标题/客户数据；不是主要客户业务作品。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S47",
+          "title": "磁盘清理总报告",
+          "path": "/Users/USER/Documents/磁盘清理审计/审计报告.md",
+          "coverage": "此前同会话已验收；累计df净增含后台影响"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Mac磁盘审计与安全清理。围绕内盘不足需区分可清缓存、独有数据和运行依赖。，参与/探索逐项目保留取舍、精确白名单、模拟器/会话清理、外盘备份、Git与工具保护、df验收。 当前资料状态：本会话已执行/验收。",
+      "public_ready": false
+    },
+    {
+      "id": "P32",
+      "name": "Skills／知识库与复用组件治理",
+      "group": "方法与支持",
+      "status": "工具/知识资料；非独立客户产品",
+      "problem": "工具来源、适用范围和复用依赖需要可追溯。",
+      "work": "技能来源核验、知识索引、学习SOP、项目组件情报；具体实现待模块化核对。",
+      "proof": "Documents/skills、obsidian辅助记忆库、SOP及历史扫描存在。",
+      "skills": "工具调研、许可核验、知识管理",
+      "boundary": "安装技能/收藏仓库不能代表精通或本人开发其功能。",
+      "sids": [
+        "S07"
+      ],
+      "priority": "方法附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P32",
+      "evidence_date": "基线2026-10-05；具体工具使用日期UNKNOWN",
+      "current_entry": "/Users/USER/Documents/skills；知识库各活跃根UNKNOWN",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "0-1 PMO总控 | Skills下载治理",
+          "thread_id": "01a0cbf2-19e8-7701-96bd-45a68b7bdbe3",
+          "cwd": "/Users/USER/Documents/skills",
+          "state": "active",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "技能来源、适用范围、许可与知识索引。",
+      "critical_gaps": "安装技能/收藏仓库不能代表精通或本人开发其功能。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S07",
+          "title": "历史网页项目扫描",
+          "path": "/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/全局网页相关项目扫描报告.md",
+          "coverage": "相关段落已读；历史路径不能当当前路径"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Skills／知识库与复用组件治理。围绕工具来源、适用范围和复用依赖需要可追溯。，参与/探索技能来源核验、知识索引、学习SOP、项目组件情报；具体实现待模块化核对。 当前资料状态：工具/知识资料；非独立客户产品。",
+      "public_ready": false
+    },
+    {
+      "id": "P33",
+      "name": "Ox Alpha隔离远程模型客户端",
+      "group": "方法与支持",
+      "status": "隔离本地调用入口",
+      "problem": "试用模型时避免混淆远程推理和本地部署。",
+      "work": "价格/模型可用性检查、隐藏密钥输入、隔离CODEX_HOME与API入口。",
+      "proof": "README和脚本目录存在。",
+      "skills": "Python/CLI、隔离配置、安全输入",
+      "boundary": "远程服务客户端，不是本地模型/训练；当前模型可用性/免费价格未实时验证。",
+      "sids": [
+        "S46"
+      ],
+      "priority": "方法附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P33",
+      "evidence_date": "基线2026-10-05；当前服务可用性UNKNOWN",
+      "current_entry": "/Users/USER/Documents/ox-alpha-local",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "隔离试用模型、凭证保护与服务成本核实。",
+      "critical_gaps": "远程服务客户端，不是本地模型/训练；当前模型可用性/免费价格未实时验证。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S46",
+          "title": "隔离模型调用客户端",
+          "path": "/Users/USER/Documents/ox-alpha-local/README.md",
+          "coverage": "全文已读；远程模型客户端，不是本地模型"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Ox Alpha隔离远程模型客户端。围绕试用模型时避免混淆远程推理和本地部署。，参与/探索价格/模型可用性检查、隐藏密钥输入、隔离CODEX_HOME与API入口。 当前资料状态：隔离本地调用入口。",
+      "public_ready": false
+    },
+    {
+      "id": "P34",
+      "name": "Upwork／UUMIT接活与能力资料准备",
+      "group": "方法与支持",
+      "status": "接活准备；成交与投递结果本轮未验",
+      "problem": "把项目经验转为可匹配的客户合作范围。",
+      "work": "能力提取表、机会评分/提案目录；已有Upwork工作区。",
+      "proof": "UUMIT状态明确准备期、空作品目录；当前需用本报告补能力库。",
+      "skills": "需求匹配、客户沟通、提案准备",
+      "boundary": "不写已成交数量、收入或空目录已有作品；本轮不投递/发消息。",
+      "sids": [
+        "S44",
+        "S45"
+      ],
+      "priority": "方法附录",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P34",
+      "evidence_date": "基线2026-10-05；成交UNKNOWN",
+      "current_entry": "/Volumes/EXTERNAL/uumit；Upwork具体活跃根UNKNOWN",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [],
+      "transferable_experience": "能力和证据匹配客户需求；准备资料不等于成交。",
+      "critical_gaps": "不写已成交数量、收入或空目录已有作品；本轮不投递/发消息。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S44",
+          "title": "UUMIT准备阶段",
+          "path": "/Volumes/EXTERNAL/uumit/00-control/PROJECT_STATUS.md",
+          "coverage": "全文已读；空作品目录不可当成交"
+        },
+        {
+          "id": "S45",
+          "title": "UUMIT能力提取要求",
+          "path": "/Volumes/EXTERNAL/uumit/01-profile/CAPABILITY_EXTRACTION_BACKLOG.md",
+          "coverage": "全文已读；仅模板"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "Upwork／UUMIT接活与能力资料准备。围绕把项目经验转为可匹配的客户合作范围。，参与/探索能力提取表、机会评分/提案目录；已有Upwork工作区。 当前资料状态：接活准备；成交与投递结果本轮未验。",
+      "public_ready": false
+    },
+    {
+      "id": "P35",
+      "name": "化工毕业论文与资料整理",
+      "group": "学习与研究",
+      "status": "毕业论文准备／非完成研究成果",
+      "problem": "选题、学校模板、真实数据与时间计划需要组织。",
+      "work": "论文交接包、学校材料、研究工作目录。",
+      "proof": "本机论文目录/交接包存在；本轮未读论文正文。",
+      "skills": "研究规划、资料组织（学术能力待核）",
+      "boundary": "不把准备写成已发表论文/已毕业；姓名、学校、专业、时间、工作履历需用户确认。",
+      "sids": [
+        "S50"
+      ],
+      "priority": "不列主要作品",
+      "role": "本人职责、主导程度与协作分工待确认",
+      "aliases": "",
+      "baseline_id": "P35",
+      "evidence_date": "2026-09-27交接包；论文成果UNKNOWN",
+      "current_entry": "/Volumes/EXTERNAL/论文",
+      "ownership": "有本人项目工作区或实践资料；是否个人独立、团队协作、客户委托及权属UNKNOWN，不能仅由目录推断。",
+      "personal_tasks_known": "当前资料可确认作品/任务内容，尚不足以逐项确认本人编写、配置、测试或决策比例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。",
+      "owner_entry": [
+        {
+          "title": "论文 PMO｜曹子建·宁工程2027届",
+          "thread_id": "01a0e326-73d3-7522-bf43-4af0129bc75a",
+          "cwd": "/Volumes/EXTERNAL/论文",
+          "state": "notLoaded",
+          "authority": "可见联系入口；本轮未核唯一执行Owner任命"
+        }
+      ],
+      "transferable_experience": "资料、格式与任务组织；不能代表已毕业或学术成果。",
+      "critical_gaps": "不把准备写成已发表论文/已毕业；姓名、学校、专业、时间、工作履历需用户确认。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S50",
+          "title": "现有论文交接包目录",
+          "path": "/Volumes/EXTERNAL/论文/论文项目交接包-2026-09-27",
+          "coverage": "目录存在，仅定位；教育/就业信息未确认"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "化工毕业论文与资料整理。围绕选题、学校模板、真实数据与时间计划需要组织。，参与/探索论文交接包、学校材料、研究工作目录。 当前资料状态：毕业论文准备／非完成研究成果。",
+      "public_ready": false
+    },
+    {
+      "id": "P36",
+      "name": "英国 OtherWater 独立站 RAG 智能客服",
+      "group": "企业客户",
+      "status": "本人确认参与的付费客户项目；工程待定位",
+      "problem": "独立站访客需要查询滤水产品与品牌知识。",
+      "work": "参与品牌独立站 RAG 智能客服技术支持；知识库、模型、接入及测试职责待补。",
+      "proof": "本轮本人补充确认；已有本地材料尚未定位到该客服工程。",
+      "skills": "RAG、知识库、网站客服（实际使用程度待补）",
+      "boundary": "不写独立研发、生产上线、回答准确率、客服成本下降或具体技术栈。",
+      "sids": [
+        "S51"
+      ],
+      "priority": "核心候选",
+      "role": "技术支持；具体负责环节待补",
+      "aliases": "OtherWater RAG／官网智能客服",
+      "baseline_id": "P36",
+      "evidence_date": "2026-10-05本人确认；交付日期UNKNOWN",
+      "current_entry": "UNKNOWN",
+      "ownership": "团队参与经历：本人确认原点向量客户项目；个人负责模块和代码权属UNKNOWN。",
+      "personal_tasks_known": "总体承担技术支持、网站开发前端/后端、运营维护和测试，为本人2026-10-05自述；不能平均分配到每个案例。",
+      "personal_tasks_unknown": "各模块本人具体操作、独立/AI辅助完成比例、其他协作者职责、日期、客户验收和可公开权限。",
+      "ai_assistance_known": "本人确认熟练使用AI，并随AI agent发展积累知识；此为总体自述。项目材料中存在AI协作/执行线索，未逐项核指令、代码及审查过程。",
+      "ai_assistance_unknown": "实际模型/工具、提示词或检索来源、本人如何检查输出、人工修改及失败处理。 本人自述五项中RAG最弱；不能从项目题目外推RAG架构熟练度。",
+      "owner_entry": [],
+      "transferable_experience": "客服资料结构、知识问答与范围控制；本人自述RAG最弱，需要有支持的验证。",
+      "critical_gaps": "不写独立研发、生产上线、回答准确率、客服成本下降或具体技术栈。 本轮未核个人具体贡献、商业合同及公开授权。",
+      "evidence_sources": [
+        {
+          "id": "S51",
+          "title": "本人本轮补充",
+          "path": "本会话 2026-10-05 用户回复",
+          "coverage": "确认技术支持职责、5月～8月（年份待确认）、偏内向慢热、五项付费客户项目；商业情况为本人确认，未核合同/收款凭证"
+        },
+        {
+          "id": "E01",
+          "title": "FDE会话转来的本人最新确认",
+          "path": "本会话2026-10-05授权派单文本",
+          "coverage": "确认2026年5～8月、网站前后端/运营维护测试、非程序员背景、熟练使用AI、RAG最弱、目前一人；不是逐项目贡献证明"
+        }
+      ],
+      "date_note": "证据日期是文档/本人确认日期，不等于个人开始/完成日期；标为基线者本轮未重新运行验收。",
+      "images": [],
+      "website_summary_draft": "英国 OtherWater 独立站 RAG 智能客服。围绕独立站访客需要查询滤水产品与品牌知识。，参与/探索参与品牌独立站 RAG 智能客服技术支持；知识库、模型、接入及测试职责待补。 当前资料状态：本人确认参与的付费客户项目；工程待定位。",
+      "public_ready": false
+    },
+    {
+      "id": "N01",
+      "name": "PushDeliverySpike：APNs真机送达能力实验",
+      "group": "辅助工具与能力实验",
+      "status": "2026-09-24模拟器与无签名设备Debug构建/安装启动有记录；真机注册、APNs响应、设备显示和原文打开未验。",
+      "problem": "为个性化日报验证远程通知最关键的技术前提。",
+      "work": "最小通知授权/注册UI、证据链、单次实验计划；不包含采集、商业化或正式产品UI。",
+      "proof": "E04本轮全文已读。",
+      "skills": "iOS通知能力、签名、APNs、设备验收",
+      "boundary": "辅助实验，不是独立商业App；不把模拟器启动当实际送达。",
+      "role": "个人/AI具体分工UNKNOWN",
+      "aliases": "PushDeliverySpike-20260924",
+      "sids": [],
+      "priority": "方法附录",
+      "baseline_id": null,
+      "evidence_date": "2026-09-24",
+      "current_entry": "/Volumes/EXTERNAL/app/PushDeliverySpike-20260924",
+      "ownership": "本人项目工作区的辅助实验；代码个人/AI分工UNKNOWN。",
+      "personal_tasks_known": "有用户授权限定本地实验的文档记录。",
+      "personal_tasks_unknown": "本人是否配置、操作设备、审查代码及实验结果。",
+      "ai_assistance_known": "总体AI使用自述；具体实验agent贡献需核。",
+      "ai_assistance_unknown": "逐项模型/指令及人工复核。",
+      "owner_entry": [
+        {
+          "title": "个性化新闻简报｜轻量可行性与商业评估",
+          "thread_id": "01a0cc0b-6639-7991-a6b1-fa71b321d409",
+          "authority": "产品线入口；实验当前唯一Owner UNKNOWN"
+        }
+      ],
+      "transferable_experience": "将最大技术未知收敛为一台设备一次送达实验，分开请求接受与设备显示。",
+      "critical_gaps": "真机签名/APNs链、本人贡献与实验Owner未核。",
+      "evidence_sources": [
+        {
+          "id": "E04",
+          "title": "APNs独立能力实验",
+          "path": "/Volumes/EXTERNAL/app/PushDeliverySpike-20260924/PROJECT_CORE.md",
+          "coverage": "本轮全文已读；模拟器和无签名设备构建记录；真机/APNs未验"
+        }
+      ],
+      "date_note": "辅助于P25，计为新增资料项，不增加独立成品数量。",
+      "images": [],
+      "website_summary_draft": "PushDeliverySpike：APNs真机送达能力实验。围绕为个性化日报验证远程通知最关键的技术前提。，参与/探索最小通知授权/注册UI、证据链、单次实验计划；不包含采集、商业化或正式产品UI。 当前资料状态：2026-09-24模拟器与无签名设备Debug构建/安装启动有记录；真机注册、APNs响应、设备显示和原文打开未验。。",
+      "public_ready": false
+    },
+    {
+      "id": "N02",
+      "name": "OpenAI DevDay官方内容与创业应用研究",
+      "group": "进行中的学习研究",
+      "status": "2026-10-05已创建独立研究会话；本轮未读取研究产出，不声称研究完成。",
+      "problem": "了解官方能力、开放状态及创业应用边界。",
+      "work": "已有专门研究任务入口，具体产出UNKNOWN。",
+      "proof": "现有会话列表与本会话此前派发事实。",
+      "skills": "官方来源核验、技术路线调研（产出未验）",
+      "boundary": "进行中的研究方向，不是客户案例、已实现API集成或量化策略。",
+      "role": "用户提出研究目标；实现与结论未核",
+      "aliases": "DevDay／Decisions API兴趣",
+      "sids": [],
+      "priority": "研究附录",
+      "baseline_id": null,
+      "evidence_date": "2026-10-05",
+      "current_entry": "/Users/USER/Documents/eli（会话cwd；具体成果文件UNKNOWN）",
+      "ownership": "本人发起研究，无客户付费或交付证据。",
+      "personal_tasks_known": "本会话本人要求创建专门研究会话。",
+      "personal_tasks_unknown": "是否阅读、验证或使用研究结论。",
+      "ai_assistance_known": "独立AI研究会话已创建。",
+      "ai_assistance_unknown": "本轮未读正文，不推断结论和执行程度。",
+      "owner_entry": [
+        {
+          "title": "OpenAI DevDay｜官方内容与创业应用研究",
+          "thread_id": "01a109b6-b33c-7230-97dc-dc5534b25b4f",
+          "authority": "已有研究任务入口，未唤醒"
+        }
+      ],
+      "transferable_experience": "作为后续方案的技术调研入口；在读到官方证据和实验结果前不宣传掌握能力。",
+      "critical_gaps": "研究成果、API实际开放及使用验证UNKNOWN。",
+      "evidence_sources": [
+        {
+          "id": "E05",
+          "title": "当前会话列表",
+          "path": "list_threads(limit=50) 2026-10-05回执",
+          "coverage": "仅可见会话入口与状态，不唤醒、不发消息、不替代唯一Owner台账"
+        }
+      ],
+      "date_note": "新增研究线索，不与P01 FDE经历混为一项客户交付。",
+      "images": [],
+      "website_summary_draft": "OpenAI DevDay官方内容与创业应用研究。围绕了解官方能力、开放状态及创业应用边界。，参与/探索已有专门研究任务入口，具体产出UNKNOWN。 当前资料状态：2026-10-05已创建独立研究会话；本轮未读取研究产出，不声称研究完成。。",
+      "public_ready": false
+    }
+  ],
+  "source_base": "/Users/USER/Documents/原点向量/个人作品集与简历整理-20261005/项目资料库.json"
+}

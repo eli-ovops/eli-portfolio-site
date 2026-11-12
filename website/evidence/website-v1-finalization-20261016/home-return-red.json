@@ -1,0 +1,6 @@
+{
+  "test": "node scripts/check_home_case_return.cjs",
+  "result": "FAIL before fix",
+  "assertion": "home case links must carry their source",
+  "browser_observed": "Home gallery case explicit return landed on records.html"
+}

@@ -1,0 +1,152 @@
+{
+  "checked_at": "2026-10-21T10:26:09.685472+08:00",
+  "status": "SIX_PLATFORM_READ_ONLY_RECHECK_COMPLETE",
+  "fresh_platforms": 5,
+  "same_day_native_reused_platforms": 1,
+  "same_day_reused_reason": "Baidu native index already read 2026-10-21 10:06 UTC+8; no repeated reload necessary",
+  "platforms": [
+    {
+      "platform": "Bing",
+      "native_check": "fresh",
+      "index_confirmed": false,
+      "scope": "Site Explorer aggregate, home URL inspection; knowledge page inspection failed",
+      "site_explorer": "Indexed URLs / No data available",
+      "home": {
+        "url": "https://www.eliai.cn/",
+        "result": "URL cannot appear on Bing",
+        "discovered": "15 Oct 2026",
+        "last_crawl": "15 Oct 2026 at 21:03; UI timezone UNKNOWN",
+        "crawl_allowed": "Yes",
+        "fetch": "Successful",
+        "indexing_allowed": "No",
+        "canonical": "--"
+      },
+      "knowledge": {
+        "url": "https://www.eliai.cn/services/ai-agent.html",
+        "result": "NATIVE_ERROR_NO_RESULT",
+        "message": "Error encountered while inspecting URL",
+        "retry_clicked": false
+      },
+      "inspection_count": 2,
+      "completed_inspection_count": 1,
+      "live_url_test": 0,
+      "request_indexing": 0,
+      "whole_site_index_total": "UNKNOWN",
+      "change": "No newly confirmed indexing; no stale homepage result attributed to knowledge URL",
+      "evidence": [
+        "bing-site-explorer.txt",
+        "bing-home-index.txt",
+        "bing-home-index.png",
+        "bing-knowledge-inspection-error.txt",
+        "bing-knowledge-inspection-error.png"
+      ]
+    },
+    {
+      "platform": "Baidu",
+      "native_check": "reused same-day actual check to avoid repetition",
+      "checked_at": "2026-10-21T10:06:17.927340+08:00",
+      "index_confirmed": false,
+      "result": "Data still calculating",
+      "whole_site_index_total": "UNKNOWN",
+      "subject_and_quota": "Not rechecked; no old state presented as new",
+      "evidence": [
+        "baidu-index-reused-1006.txt",
+        "../articles-search-followup-20261019/check-20261021/receipt.json"
+      ]
+    },
+    {
+      "platform": "Sogou",
+      "native_check": "fresh",
+      "ownership": "Root verified / senior administrator reconfirmed",
+      "index_confirmed": false,
+      "result": "No collection or index data for this site",
+      "whole_site_index_total": "UNKNOWN, not inferred as zero",
+      "ui_recovery": "Initial route showed no verified site while loading. One ordinary management reload revealed existing verified site; index report then loaded www.eliai.cn. No re-add or verification performed.",
+      "evidence": [
+        "sogou-site-management.txt",
+        "sogou-index.txt",
+        "sogou-index.png"
+      ]
+    },
+    {
+      "platform": "Toutiao",
+      "native_check": "fresh",
+      "index_confirmed": false,
+      "result": "Website temporarily not indexed",
+      "site": "www.eliai.cn",
+      "change": "Unchanged",
+      "evidence": [
+        "toutiao-index.txt",
+        "toutiao-index.png"
+      ]
+    },
+    {
+      "platform": "Yandex",
+      "native_check": "fresh",
+      "index_confirmed": false,
+      "result": "Pages in Search report temporarily unavailable; data may be stale/delayed",
+      "controls": "All pages / Excluded pages disabled",
+      "whole_site_index_total": "UNKNOWN; no page-index-change entries is not zero total indexed",
+      "change": "Unchanged platform reporting limitation",
+      "evidence": [
+        "yandex-index.txt",
+        "yandex-index.png"
+      ]
+    },
+    {
+      "platform": "360",
+      "native_check": "fresh",
+      "site_entry": "www.eliai.cn still present",
+      "ownership": "Verification blocked; please verify disabled",
+      "result": "ICP not detected",
+      "index_confirmed": false,
+      "whole_site_index_total": "UNKNOWN; no verified-site index data shown",
+      "change": "Unchanged",
+      "evidence": [
+        "360-site-management.txt",
+        "360-site-management.png",
+        "360-index.txt",
+        "360-index.png"
+      ]
+    }
+  ],
+  "newly_confirmed_indexing_platforms": 0,
+  "confirmed_search_engine_indexing_count_including_prior_google": 1,
+  "total_webmaster_platforms_previously_added": 7,
+  "historically_verified_and_no_revocation_evidence": 6,
+  "google": "Not re-inspected in this six-platform task; existing native indexing and search-impression receipts retained",
+  "whole_site_unknown_not_zero": true,
+  "public_current_home": {
+    "checked_at": "2026-10-21T10:23:41.881520+08:00",
+    "url": "https://www.eliai.cn/",
+    "http_status": 200,
+    "sha256": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+    "meta_robots": [
+      "index,follow"
+    ],
+    "canonical": [
+      "https://www.eliai.cn/"
+    ],
+    "x_robots_tag": null,
+    "boundaries": "Current public source only; does not replace dated Bing Index record or prove indexing."
+  },
+  "bing_root_cause": "UNKNOWN: dated Bing Index snapshot disallows indexing, while current public HTML is index,follow with no X-Robots-Tag. No causal claim or website change.",
+  "actions": {
+    "new_accounts": 0,
+    "new_sites": 0,
+    "verification_actions": 0,
+    "search_submissions": 0,
+    "index_requests": 0,
+    "live_url_tests": 0,
+    "emails": 0,
+    "website_changes": 0,
+    "server_changes": 0,
+    "paid_resources": 0
+  },
+  "requires_user_action": false,
+  "logins": "Existing sessions usable; no password, CAPTCHA, identity or API token read or saved",
+  "ignored_intermediate_evidence": [
+    "bing-knowledge-index.png was captured while inspection pending; not a completed index result"
+  ],
+  "next": "Continue existing low-frequency monitoring, no repeated submissions or immediate retry of failed inspection."
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-05",
+  "desktop": {
+    "viewport": [
+      1280,
+      720
+    ],
+    "home": "PASS",
+    "caseNavigation": "PASS",
+    "brokenImages": []
+  },
+  "mobile390": {
+    "viewport": [
+      390,
+      844
+    ],
+    "documentScrollWidth": 375,
+    "overflow": false,
+    "customerFilterCount": 5,
+    "otherWaterSearchCount": 2,
+    "emptySearchCount": 0,
+    "emptyFeedback": "PASS"
+  },
+  "mobile375": {
+    "viewport": [
+      375,
+      812
+    ],
+    "documentScrollWidth": 360,
+    "overflow": false,
+    "textOverflow": [],
+    "petSocialCase": "PASS",
+    "custom404": "PASS"
+  },
+  "consoleWarningsAndErrors": [],
+  "realPhoneTested": false
+}

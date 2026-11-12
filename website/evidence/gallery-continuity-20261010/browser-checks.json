@@ -1,0 +1,575 @@
+{
+  "date": "2026-10-10",
+  "batch": "gallery-continuity-20261010",
+  "initialReproduction": {
+    "selectedBefore": "03 / 07",
+    "returned": "01 / 07"
+  },
+  "observations": [
+    {
+      "test": "expanded-wheel-image",
+      "before": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "down": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "up": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 573
+      }
+    },
+    {
+      "test": "expanded-wheel-caption",
+      "before": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 573
+      },
+      "down": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "up": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 573
+      }
+    },
+    {
+      "test": "expanded-wheel-outside",
+      "before": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 573
+      },
+      "down": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "up": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 573
+      }
+    },
+    {
+      "test": "back-英国某净水品牌 RAG 智能客服定制",
+      "before": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 233
+      },
+      "caseUrl": "http://127.0.0.1:4178/cases/p36.html",
+      "after": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      }
+    },
+    {
+      "test": "back-third-final",
+      "state": {
+        "captionScroll": 0,
+        "index": "03 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "某家具品牌扫码库存系统",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "saved": "{\"selected\":\"process-p09\",\"expanded\":[\"process-p36\",\"process-p09\"],\"scrollY\":753}"
+    },
+    {
+      "test": "back-seventh-final",
+      "state": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "saved": "{\"selected\":\"process-p05\",\"expanded\":[\"process-p36\",\"process-p09\",\"process-p05\"],\"scrollY\":753}"
+    },
+    {
+      "test": "collapsed-wheel-wrap",
+      "state": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 684
+      }
+    },
+    {
+      "test": "refresh-default",
+      "state": {
+        "captionScroll": 0,
+        "index": "01 / 07",
+        "mode": "pointer-region",
+        "open": false,
+        "overflow": false,
+        "project": "洁具行业某大型 B 端厂商库存管理系统",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 684
+      }
+    },
+    {
+      "test": "next-next-prev",
+      "state": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "pointer-region",
+        "open": false,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 295
+      }
+    },
+    {
+      "test": "english-mobile-back",
+      "mobileBefore": {
+        "captionScroll": 0,
+        "index": "01 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "Sanitaryware manufacturer inventory system",
+        "url": "http://127.0.0.1:4178/en/index.html",
+        "y": 1315
+      },
+      "mobileCase": "http://127.0.0.1:4178/en/cases/p10.html",
+      "mobileAfter": {
+        "captionScroll": 0,
+        "index": "01 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "Sanitaryware manufacturer inventory system",
+        "url": "http://127.0.0.1:4178/en/index.html",
+        "y": 1525
+      }
+    }
+  ],
+  "backChecks": [
+    {
+      "test": "back-英国某净水品牌 RAG 智能客服定制",
+      "before": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 233
+      },
+      "caseUrl": "http://127.0.0.1:4178/cases/p36.html",
+      "after": {
+        "captionScroll": 0,
+        "index": "02 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌 RAG 智能客服定制",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      }
+    }
+  ],
+  "expandedWheel": [
+    {
+      "selector": ".depth-current .project-image",
+      "before": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "up": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 552
+      },
+      "down": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      }
+    },
+    {
+      "selector": ".depth-current .selected-caption",
+      "before": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "up": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 552
+      },
+      "down": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      }
+    },
+    {
+      "selector": "outside",
+      "before": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      },
+      "up": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 552
+      },
+      "down": {
+        "captionScroll": 0,
+        "index": "07 / 07",
+        "mode": "page",
+        "open": true,
+        "overflow": false,
+        "project": "英国某净水品牌全域营销",
+        "url": "http://127.0.0.1:4178/index.html#work",
+        "y": 753
+      }
+    }
+  ],
+  "layouts": [
+    {
+      "lang": "zh",
+      "width": 1440,
+      "height": 900,
+      "phase": "closed",
+      "captionContent": 357,
+      "captionHeight": 357,
+      "captionOverflow": "auto",
+      "fullCaseHitHeight": 44,
+      "mode": "pointer-region",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "height": 900,
+      "phase": "expanded",
+      "captionContent": 446,
+      "captionHeight": 446,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 900,
+      "height": 600,
+      "phase": "closed",
+      "captionContent": 305,
+      "captionHeight": 305,
+      "captionOverflow": "auto",
+      "fullCaseHitHeight": 44,
+      "mode": "pointer-region",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 900,
+      "height": 600,
+      "phase": "expanded",
+      "captionContent": 405,
+      "captionHeight": 405,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "height": 844,
+      "phase": "closed",
+      "captionContent": 309,
+      "captionHeight": 309,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "height": 844,
+      "phase": "expanded",
+      "captionContent": 427,
+      "captionHeight": 427,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 320,
+      "height": 740,
+      "phase": "closed",
+      "captionContent": 336,
+      "captionHeight": 336,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "zh",
+      "width": 320,
+      "height": 740,
+      "phase": "expanded",
+      "captionContent": 437,
+      "captionHeight": 437,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "phase": "closed",
+      "captionContent": 382,
+      "captionHeight": 382,
+      "captionOverflow": "auto",
+      "fullCaseHitHeight": 44,
+      "mode": "pointer-region",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "phase": "expanded",
+      "captionContent": 501,
+      "captionHeight": 501,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 900,
+      "height": 600,
+      "phase": "closed",
+      "captionContent": 359,
+      "captionHeight": 359,
+      "captionOverflow": "auto",
+      "fullCaseHitHeight": 44,
+      "mode": "pointer-region",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 900,
+      "height": 600,
+      "phase": "expanded",
+      "captionContent": 537,
+      "captionHeight": 537,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "height": 844,
+      "phase": "closed",
+      "captionContent": 333,
+      "captionHeight": 333,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "height": 844,
+      "phase": "expanded",
+      "captionContent": 493,
+      "captionHeight": 493,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "height": 740,
+      "phase": "closed",
+      "captionContent": 394,
+      "captionHeight": 394,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "height": 740,
+      "phase": "expanded",
+      "captionContent": 583,
+      "captionHeight": 583,
+      "captionOverflow": "visible",
+      "fullCaseHitHeight": 44,
+      "mode": "page",
+      "overflow": false,
+      "zoomLabels": 6
+    }
+  ],
+  "reducedMotion": {
+    "visibleCases": 7,
+    "overflow": false
+  },
+  "modal": {
+    "escapeClosed": true,
+    "focusReturnedTo": "英国某净水品牌 RAG 智能客服定制"
+  },
+  "limitations": [
+    "模拟手机",
+    "未测FPS",
+    "超快脚本滚动过程中点击未命中不计通过",
+    "部分跨页视图过渡日志skipTransition"
+  ]
+}

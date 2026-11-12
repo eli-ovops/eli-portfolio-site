@@ -1,0 +1,18 @@
+{
+  "llms": {
+    "url": "https://www.eliai.cn/llms.txt",
+    "chinese": true,
+    "english": true,
+    "chineseTextReadable": true
+  },
+  "chineseEntry": {
+    "url": "https://www.eliai.cn/articles.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 入门教程与实践文章",
+    "count": "102 篇文章 · 第 1 / 9 页"
+  },
+  "englishEntry": {
+    "url": "https://www.eliai.cn/en/articles.html?pv=e3304385905f8d1cdd01",
+    "title": "AI tutorials and practical notes",
+    "count": "102 articles · page 1 of 9"
+  }
+}

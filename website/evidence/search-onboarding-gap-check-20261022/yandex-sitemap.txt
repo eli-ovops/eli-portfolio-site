@@ -1,0 +1,58 @@
+- link "Logo":
+  - /url: /sites/
+- list:
+  - combobox "https://www.eliai.cn"
+  - link:
+    - /url: /sites/add/
+  - textbox "Search"
+- list:
+  - link "Summary":
+    - /url: /site/https:www.eliai.cn:443/dashboard/?_from=menu
+    - generic: Summary
+  - button "Website optimization":
+    - generic: Website optimization
+  - button "Efficiency":
+    - generic: Efficiency
+  - button "Indexing":
+    - generic: Indexing
+  - button "Tools":
+    - generic: Tools
+  - button "Your website in Yandex search":
+    - generic: Your website in Yandex search
+  - button "Links":
+    - generic: Links
+  - link "Tutorials":
+    - /url: /site/https:www.eliai.cn:443/education/?_from=menu
+    - generic: Tutorials
+- button
+- button "Ваш профиль":
+- button
+- link:
+  - /url: /notifications/
+- button:
+- button:
+- heading "Add Sitemap file" [level=2]:
+  - text: Add Sitemap file
+- generic: Working to get everything working again ❤️
+- generic: The Sitemap files tool is in read-only mode. You can’t add a file or submit it for recrawling right now. Our engineers are working to restore the service as soon as possible.
+- link "More about the situation":
+  - /url: https://yandex.ru/company/news/09-10-2026-01
+- link "More about the situation":
+  - /url: https://yandex.ru/company/news/09-10-2026-01
+- textbox
+- button "Add" [disabled]:
+  - generic: Add
+- link "User Agreement":
+  - /url: https://yandex.com/legal/webmaster_termsofuse/?utm_source=webmaster&utm_medium=interface&utm_campaign=footer&utm_content=site_indexing_sitemap
+- link "Privacy Policy":
+  - /url: https://yandex.com/legal/confidential/?utm_source=webmaster&utm_medium=interface&utm_campaign=footer&utm_content=site_indexing_sitemap
+- link "en":
+    - /url: [private-support-link-redacted]
+  - generic: en
+- link "ru":
+    - /url: [private-support-link-redacted]
+  - generic: ru
+- generic: © 2004–2026
+- link "Yandex LLC":
+  - /url: https://yandex.com
+- iframe:

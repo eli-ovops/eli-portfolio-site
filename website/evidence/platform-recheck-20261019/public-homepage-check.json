@@ -1,0 +1,12 @@
+{
+  "url": "https://www.eliai.cn/",
+  "status": 200,
+  "robots_meta": [
+    "<meta name=\"robots\" content=\"index,follow\">"
+  ],
+  "canonical": [
+    "<link rel=\"canonical\" href=\"https://www.eliai.cn/\">"
+  ],
+  "x_robots_tag": null,
+  "note": "Ordinary HTTP fetch only; not Bing live crawler proof."
+}

@@ -1,0 +1,127 @@
+{
+  "checked_at": "2026-10-22T10:42:27.342625+00:00",
+  "redirect": {
+    "status": 301,
+    "location": "https://www.eliai.cn/records.html"
+  },
+  "follow": {
+    "final_url": "https://www.eliai.cn/records.html",
+    "status": 200
+  },
+  "unchanged_public_html_checks": [
+    {
+      "url": "https://www.eliai.cn/index.html",
+      "status": 200,
+      "sha256": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+      "same_as_predeploy_file": true,
+      "title": "中小企业 AI 实施与流程提效服务 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/index.html",
+      "status": 200,
+      "sha256": "7a251d797aaaede3d0e496d178b96338987a501ca245786620a9b06b99bb18bf",
+      "same_as_predeploy_file": true,
+      "title": "AI Implementation &amp; Workflow Improvement for Small Businesses | Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/records.html",
+      "status": 200,
+      "sha256": "e9103ff010da3443c11eed6579b75f114c61f472a83618a8b178e96d8b2f02cf",
+      "same_as_predeploy_file": true,
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/records.html",
+      "status": 200,
+      "sha256": "12c4e2d1056d5dc0cc2f0441748ad69934c8258bfba792969e804206103b339b",
+      "same_as_predeploy_file": true,
+      "title": "Eli Projects | Business Systems, AI &amp; Product Work"
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p09.html",
+      "status": 200,
+      "sha256": "ccca18074056b4517de08306b44b42f4a21ede03a8ca5b8269f7eb931cb7faba",
+      "same_as_predeploy_file": true,
+      "title": "扫码库存系统：入库、移库与出库案例 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p10.html",
+      "status": 200,
+      "sha256": "2cceabf5f4ef63733b220fd6dbe30486ba7d14083fa8d854c4e632af5cb4ac11",
+      "same_as_predeploy_file": true,
+      "title": "洁具库存管理系统开发案例 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p36.html",
+      "status": 200,
+      "sha256": "243d95478104b6f8a1f56bee10cd0287620f08d1f700c769a058e815cf59e7ff",
+      "same_as_predeploy_file": true,
+      "title": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p09.html",
+      "status": 200,
+      "sha256": "54532a77d060a0e8250752d5f437b4b91cf8cdd25d334b367cab340b2a971fb9",
+      "same_as_predeploy_file": true,
+      "title": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p10.html",
+      "status": 200,
+      "sha256": "2425641d387b277ad844473465bc4ce28dfc86ec2ab9b65c8e2cd1af31ff65e4",
+      "same_as_predeploy_file": true,
+      "title": "Inventory System Development | Eli Case Study"
+    },
+    {
+      "url": "https://www.eliai.cn/en/cases/p36.html",
+      "status": 200,
+      "sha256": "9f653ee102072417786118af53d449984bd2ac575ffe9e62e50916b8b5d9dbca",
+      "same_as_predeploy_file": true,
+      "title": "AI Customer Support &amp; Knowledge Retrieval | Eli Case Study"
+    },
+    {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "status": 200,
+      "sha256": "18fc6006e85bffe3260585337af857e5ea973ca06a677c43a60d808858501848",
+      "same_as_predeploy_file": true,
+      "title": "企业知识库搭建与客服辅助答疑服务 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "26c1121ce09fc93ace6ee37312314adfd37ada8e0e39fbcc2d54dc2e77e80960",
+      "same_as_predeploy_file": true,
+      "title": "库存核对与重复录入自动化｜中小企业流程提效 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": 200,
+      "sha256": "ef6a02b5b4bac98f41492dade0d066942a586e61d6d8dd8bd3d8b235b6c12b65",
+      "same_as_predeploy_file": true,
+      "title": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/ai-agent.html",
+      "status": 200,
+      "sha256": "cfb21611adcf9c6a9abc1db994c85c0601190ebb9c1dca09715efe07ee4c8297",
+      "same_as_predeploy_file": true,
+      "title": "Business Knowledge Base Setup &amp; AI-Assisted Support | Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "a0c4a7ecd5d9c462af2390253544207740859dd49ebf799b035bde9a04bf7328",
+      "same_as_predeploy_file": true,
+      "title": "Inventory Reconciliation &amp; Data Entry Automation | Eli"
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "status": 200,
+      "sha256": "b912c18dc4cd5b87e2b50e4f8eb16d0e12d7c37dfe56db9987ec7e466179850e",
+      "same_as_predeploy_file": true,
+      "title": "Small Business AI Implementation &amp; Workflow Support | Eli"
+    }
+  ],
+  "count": 16,
+  "pass": true
+}

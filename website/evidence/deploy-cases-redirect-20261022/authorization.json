@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-22",
+  "user_authorized": "Make /cases/ permanently redirect to /records.html and publish; preserve directory protection, visuals, motion; verify redirect, cases and three services; no search submissions. Also inspect similar problems.",
+  "scope": "One exact location in existing www.eliai.cn HTTPS server; no other directory fixes authorized in this change",
+  "candidate_sha256": "5eb89e90bbe3def108a216fcb86f3ce778ed9f9667b53a033975aa3cb6a91352"
+}

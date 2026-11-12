@@ -1,0 +1,27 @@
+[
+  {
+    "check": "check_navigation_version.cjs",
+    "exit": 0,
+    "result": "PASS: clean/legacy URLs, nested return, replace-only history, filters/hash, bilingual/subpath scope, external/media cache parameters"
+  },
+  {
+    "check": "check_home_case_return.cjs",
+    "exit": 0,
+    "result": "PASS: homepage/root entry, related origin, project selection, no stale filters, bilingual/subpath boundaries"
+  },
+  {
+    "check": "check_service_return.cjs",
+    "exit": 0,
+    "result": "PASS: service entry, related chain, BFCache/history/referrer, bilingual/subpath origins, catalogue isolation and invalid sources"
+  },
+  {
+    "check": "check_related_return.cjs",
+    "exit": 0,
+    "result": "PASS: related cases preserve list query/category/origin without GSAP; external/foreign-language/invalid origins ignored"
+  },
+  {
+    "check": "check_return_owner.cjs",
+    "exit": 0,
+    "result": "PASS: homepage/cleared origin stays clean; real explicit/history/legacy list origins retained in both controllers"
+  }
+]

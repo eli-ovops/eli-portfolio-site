@@ -1,0 +1,206 @@
+{
+  "checked_at": "2026-10-22T10:52:55.733389+00:00",
+  "redirects": [
+    {
+      "source": "https://www.eliai.cn/articles/",
+      "status": 301,
+      "location": "https://www.eliai.cn/articles.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/articles.html"
+    },
+    {
+      "source": "https://www.eliai.cn/en/articles/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/articles.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/en/articles.html"
+    },
+    {
+      "source": "https://www.eliai.cn/en/cases/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/records.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/en/records.html"
+    },
+    {
+      "source": "https://www.eliai.cn/services/",
+      "status": 301,
+      "location": "https://www.eliai.cn/index.html#needs",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/index.html#needs"
+    },
+    {
+      "source": "https://www.eliai.cn/en/services/",
+      "status": 301,
+      "location": "https://www.eliai.cn/en/index.html#needs",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/en/index.html#needs"
+    },
+    {
+      "source": "https://www.eliai.cn/cases/",
+      "status": 301,
+      "location": "https://www.eliai.cn/records.html",
+      "follow_status": 200,
+      "final_url": "https://www.eliai.cn/records.html"
+    }
+  ],
+  "unchanged_pages": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+      "unchanged": true,
+      "title": "中小企业 AI 实施与流程提效服务 - Eli"
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "sha256": "7a251d797aaaede3d0e496d178b96338987a501ca245786620a9b06b99bb18bf",
+      "unchanged": true,
+      "title": "AI Implementation &amp; Workflow Improvement for Small Businesses | Eli"
+    },
+    {
+      "path": "records.html",
+      "status": 200,
+      "sha256": "e9103ff010da3443c11eed6579b75f114c61f472a83618a8b178e96d8b2f02cf",
+      "unchanged": true,
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    {
+      "path": "en/records.html",
+      "status": 200,
+      "sha256": "12c4e2d1056d5dc0cc2f0441748ad69934c8258bfba792969e804206103b339b",
+      "unchanged": true,
+      "title": "Eli Projects | Business Systems, AI &amp; Product Work"
+    },
+    {
+      "path": "articles.html",
+      "status": 200,
+      "sha256": "5b9e455c82ba53855cf22d278519c1f5f68315798444ef8b14c63310816280e9",
+      "unchanged": true,
+      "title": "AI 入门教程｜Agent、办公实操与老板用 AI - Eli"
+    },
+    {
+      "path": "en/articles.html",
+      "status": 200,
+      "sha256": "d2fae2690fc575b5a469ab0701864e4a39e46eba4c193f2ff05f750c6dd154c7",
+      "unchanged": true,
+      "title": "AI beginner tutorials, agents and office tasks | Eli"
+    },
+    {
+      "path": "cases/p09.html",
+      "status": 200,
+      "sha256": "ccca18074056b4517de08306b44b42f4a21ede03a8ca5b8269f7eb931cb7faba",
+      "unchanged": true,
+      "title": "扫码库存系统：入库、移库与出库案例 - Eli"
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "sha256": "2cceabf5f4ef63733b220fd6dbe30486ba7d14083fa8d854c4e632af5cb4ac11",
+      "unchanged": true,
+      "title": "洁具库存管理系统开发案例 - Eli"
+    },
+    {
+      "path": "cases/p36.html",
+      "status": 200,
+      "sha256": "243d95478104b6f8a1f56bee10cd0287620f08d1f700c769a058e815cf59e7ff",
+      "unchanged": true,
+      "title": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli"
+    },
+    {
+      "path": "services/ai-agent.html",
+      "status": 200,
+      "sha256": "18fc6006e85bffe3260585337af857e5ea973ca06a677c43a60d808858501848",
+      "unchanged": true,
+      "title": "企业知识库搭建与客服辅助答疑服务 - Eli"
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "status": 200,
+      "sha256": "26c1121ce09fc93ace6ee37312314adfd37ada8e0e39fbcc2d54dc2e77e80960",
+      "unchanged": true,
+      "title": "库存核对与重复录入自动化｜中小企业流程提效 - Eli"
+    },
+    {
+      "path": "services/fde-consulting.html",
+      "status": 200,
+      "sha256": "ef6a02b5b4bac98f41492dade0d066942a586e61d6d8dd8bd3d8b235b6c12b65",
+      "unchanged": true,
+      "title": "中小企业 AI 落地实施服务｜流程梳理与小范围开发 - Eli"
+    },
+    {
+      "path": "articles/inventory-reconciliation.html",
+      "status": 200,
+      "sha256": "0b4bc7e9560e950acdb9ebc45b1103293c0d86152258436bbf2834acd808a623",
+      "unchanged": true,
+      "title": "库存每天靠人工核对，先改哪一步？ - Eli"
+    },
+    {
+      "path": "articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "sha256": "8fe0df0040e80ee3de36d4e62a071d8f6f83000c8f2a8cb90537b5e119424737",
+      "unchanged": true,
+      "title": "企业资料太散，做知识库答疑前要准备什么？ - Eli"
+    },
+    {
+      "path": "en/cases/p09.html",
+      "status": 200,
+      "sha256": "54532a77d060a0e8250752d5f437b4b91cf8cdd25d334b367cab340b2a971fb9",
+      "unchanged": true,
+      "title": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    {
+      "path": "en/cases/p10.html",
+      "status": 200,
+      "sha256": "2425641d387b277ad844473465bc4ce28dfc86ec2ab9b65c8e2cd1af31ff65e4",
+      "unchanged": true,
+      "title": "Inventory System Development | Eli Case Study"
+    },
+    {
+      "path": "en/cases/p36.html",
+      "status": 200,
+      "sha256": "9f653ee102072417786118af53d449984bd2ac575ffe9e62e50916b8b5d9dbca",
+      "unchanged": true,
+      "title": "AI Customer Support &amp; Knowledge Retrieval | Eli Case Study"
+    },
+    {
+      "path": "en/services/ai-agent.html",
+      "status": 200,
+      "sha256": "cfb21611adcf9c6a9abc1db994c85c0601190ebb9c1dca09715efe07ee4c8297",
+      "unchanged": true,
+      "title": "Business Knowledge Base Setup &amp; AI-Assisted Support | Eli"
+    },
+    {
+      "path": "en/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "a0c4a7ecd5d9c462af2390253544207740859dd49ebf799b035bde9a04bf7328",
+      "unchanged": true,
+      "title": "Inventory Reconciliation &amp; Data Entry Automation | Eli"
+    },
+    {
+      "path": "en/services/fde-consulting.html",
+      "status": 200,
+      "sha256": "b912c18dc4cd5b87e2b50e4f8eb16d0e12d7c37dfe56db9987ec7e466179850e",
+      "unchanged": true,
+      "title": "Small Business AI Implementation &amp; Workflow Support | Eli"
+    },
+    {
+      "path": "en/articles/inventory-reconciliation.html",
+      "status": 200,
+      "sha256": "098fb2e18595fdd23439f82b0b5d90994e1b90e4b07d00cad1a4986746a75f9c",
+      "unchanged": true,
+      "title": "Manual inventory checks every day: where should you start? - Eli"
+    },
+    {
+      "path": "en/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "sha256": "6cf7ce090c4a9a5a708144262c2a421febefa8f1cc008844de31c6a865f0b376",
+      "unchanged": true,
+      "title": "Company information is scattered: what should you prepare for a knowledge base? - Eli"
+    }
+  ],
+  "page_count": 22,
+  "all_passed": true,
+  "traffic_classification": "OWN_QA_NOT_NATURAL_SEARCH"
+}

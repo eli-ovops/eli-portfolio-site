@@ -1,0 +1,92 @@
+Browser tab: 32, Title: "URL Inspection - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/urlinspection?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&urlToInspect=https%253A%252F%252Fwww.eliai.cn%252Fservices%252Ffde-consulting.html".
+0 AXWebArea URL Inspection - Bing Webmaster Tools, URL: bing.com/webmasters/urlinspection?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&urlToInspect=https%253A%252F%252Fwww.eliai.cn%252Fservices%252Ffde-consulting.html
+	1 container
+		2 container root
+			3 container
+				4 link Description: Skip to main content, Value: bing.com/webmasters/urlinspection?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&urlToInspect=https%253A%252F%252Fwww.eliai.cn%252Fservices%252Ffde-consulting.html#content
+				5 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				6 image white bwt logo microsoft bing webmaster
+				7 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				8 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					13 image
+			14 container
+				15 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					16 text www.eliai.cn/
+				17 container Main menu
+					18 outline
+						19 row (selectable) Home
+							20 text Home
+						21 row (selectable) Search Performance
+							22 text Search Performance
+						23 row (selectable) AI Performance BETA
+							24 text AI Performance
+							25 text BETA
+						26 row (selectable) URL Inspection
+							27 text URL Inspection
+						28 row (selectable) Site Explorer
+							29 text Site Explorer
+						30 row (selectable) Sitemaps
+							31 text Sitemaps
+						32 row (selectable) IndexNow
+							33 text IndexNow
+						34 row (selectable) URL Submission
+							35 text URL Submission
+						36 row (selectable) Backlinks
+							37 text Backlinks
+						38 row (selectable) Keyword Research
+							39 text Keyword Research
+						40 row (selectable) Recommendations
+							41 text Recommendations
+						42 row (selectable) Site Scan
+							43 text Site Scan
+						44 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							45 text CONFIGURATION
+						46 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							47 text TOOLS & ENHANCEMENTS
+						48 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							49 text SECURITY & PRIVACY
+						50 row (selectable) User management
+							51 text User management
+						52 row (selectable) Microsoft Clarity
+							53 text Microsoft Clarity
+			54 container content
+				55 heading URL Inspection, Value: 2
+					56 text URL Inspection
+				57 container
+					58 search text field (settable) Description: Enter URL to inspect in "https://www.eliai.cn/", Value: https://www.eliai.cn/services/fde-consulting.html, ID: TextField95
+					59 button Clear
+				60 button Inspect
+					61 text Inspect
+				62 tab group
+					63 tab (selected, settable, boolean) Bing Index, ID: Pivot359-Tab0, Value: 1
+Bing Index
+					64 tab (selectable, settable, boolean) Live URL, ID: Pivot359-Tab1, Value: 0
+Live URL
+				65 text Page updated?
+				66 button Request indexing
+					67 text Request indexing
+				68 heading Discovered but not crawled URL cannot appear on Bing, Value: 3
+					69 button (expanded) Discovered but not crawled URL cannot appear on Bing, ID: accordionItem370, Secondary Actions: Collapse
+						70 container accordionHeader372
+							71 text Discovered but not crawled
+							72 text URL cannot appear on Bing
+				73 container accordionItemContent371
+					74 text Discover
+					75 text Discovered on 16 Oct 2026
+					76 text Crawl
+					77 container
+						78 text The inspected URL is known to Bing but has some issues which are preventing indexation. We recommend you to follow 
+						79 link Description: Bing Webmaster Guidelines, Value: bing.com/webmaster/help/webmaster-guidelines-30fba23a
+						80 text  to increase your chances of indexation.
+					81 text If you think this URL should be indexed, click on Request indexing button. We will index it if we can fetch it and it adheres to Bing Webmaster guidelines
+					82 button Request indexing
+						83 text Request indexing
+					84 text Index
+				85 text SEO/GEO processing can be done only on indexed URLs.
+				86 text Markup Processing can be done only on Indexed URLs
+
+The focused UI element is 60 button Inspect

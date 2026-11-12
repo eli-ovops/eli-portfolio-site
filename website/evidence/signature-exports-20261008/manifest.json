@@ -1,0 +1,27 @@
+{
+  "method": "Browser canvas rendering with original Anton font; not AI image generation",
+  "files": [
+    {
+      "name": "signature-16-9.png",
+      "bytes": 496620,
+      "sha256": "7d0a37c849847f04d4fbd54baf99b26a92888e37901f4e925176d7af302c4e6a"
+    },
+    {
+      "name": "signature-3-1.png",
+      "bytes": 185147,
+      "sha256": "44577ca28a04639e3f6217b765074de0ca45df870e297968692133f265203c39"
+    },
+    {
+      "name": "signature-4-1.png",
+      "bytes": 187984,
+      "sha256": "b4bf8145f165ee2c27a4f392950da1ab7391dc52ef7bb8e3a8c0cae9f72b3a48"
+    },
+    {
+      "name": "signature-5-4.png",
+      "bytes": 382907,
+      "sha256": "61c3c209607cd15aeba3e670a89ce41abec2085d3557fa355a117412ce679529"
+    }
+  ],
+  "source": "preview.html",
+  "temporary_preview_server": "127.0.0.1:4183; stopped after export"
+}

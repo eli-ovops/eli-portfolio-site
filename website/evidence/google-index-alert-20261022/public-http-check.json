@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-10-22T10:25:22.506509+00:00",
+  "method": "One ordinary anonymous HTTPS GET per exact URL, default TLS; no impersonation, credential or bypass",
+  "results": [
+    {
+      "url": "https://www.eliai.cn/cases/",
+      "status": 403,
+      "further_retry": false
+    },
+    {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/services/ai-agent.html",
+      "bytes": 37845,
+      "sha256": "18fc6006e85bffe3260585337af857e5ea973ca06a677c43a60d808858501848"
+    },
+    {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/services/workflow-automation.html",
+      "bytes": 38274,
+      "sha256": "26c1121ce09fc93ace6ee37312314adfd37ada8e0e39fbcc2d54dc2e77e80960"
+    },
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/services/fde-consulting.html",
+      "bytes": 38197,
+      "sha256": "ef6a02b5b4bac98f41492dade0d066942a586e61d6d8dd8bd3d8b235b6c12b65"
+    },
+    {
+      "url": "https://www.eliai.cn/cases/p10.html",
+      "status": 200,
+      "final_url": "https://www.eliai.cn/cases/p10.html",
+      "bytes": 36721,
+      "sha256": "2cceabf5f4ef63733b220fd6dbe30486ba7d14083fa8d854c4e632af5cb4ac11"
+    }
+  ]
+}

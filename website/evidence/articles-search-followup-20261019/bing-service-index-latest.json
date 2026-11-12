@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-10-19T15:47:29.154657+08:00",
+  "source": "Bing Webmaster Tools, URL Inspection, Bing Index",
+  "scope": "Three Chinese service URLs, one inspection per URL; no Live URL tests",
+  "rows": [
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": "DISCOVERED_NOT_CRAWLED",
+      "can_appear_on_bing": false,
+      "discovered_date_display": "16 Oct 2026",
+      "root_cause": "UNKNOWN: native UI gives only generic indexing guidance",
+      "native_text": "bing-service-fde-consulting-latest.txt",
+      "screenshot": "bing-service-fde-consulting-latest.png",
+      "sha256": "43ae4705fe08bd88b23c89defaf066457b8870316a04047b0dd6268c0851c4af"
+    },
+    {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "status": "DISCOVERED_NOT_CRAWLED",
+      "can_appear_on_bing": false,
+      "discovered_date_display": "16 Oct 2026",
+      "root_cause": "UNKNOWN: native UI gives only generic indexing guidance",
+      "native_text": "bing-service-ai-agent-latest.txt",
+      "screenshot": "bing-service-ai-agent-latest.png",
+      "sha256": "7e104853d01ba360b7aeebd357ac9e2f279a1a6e01f54f4d8bb6695f5d1ccb92"
+    },
+    {
+      "url": "https://www.eliai.cn/services/workflow-automation.html",
+      "status": "DISCOVERED_NOT_CRAWLED",
+      "can_appear_on_bing": false,
+      "discovered_date_display": "16 Oct 2026",
+      "root_cause": "UNKNOWN: native UI gives only generic indexing guidance",
+      "native_text": "bing-service-workflow-automation-latest.txt",
+      "screenshot": "bing-service-workflow-automation-latest.png",
+      "sha256": "51125b8e8488e070f6b6d85663910878b4da4888bd902d6a1432a910c4985ec5"
+    }
+  ],
+  "indexed_in_this_scope": 0,
+  "performance_observation": {
+    "source": "Home chart, observed this round",
+    "scope": "ALL_SITE, not service or article-specific",
+    "window_display": "19 Jul 2026–18 Oct 2026",
+    "clicks": 0,
+    "impressions": 0
+  },
+  "search_submissions": 0,
+  "indexing_requests": 0,
+  "active_model_queries": 0,
+  "website_changes": 0,
+  "no_inference": "Generic known-but-not-indexed message does not establish a robots, server or quality cause. Index status does not prove ranking, natural traffic or inquiry."
+}

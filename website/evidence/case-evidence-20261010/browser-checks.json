@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-10",
+  "viewports": "Simulated sizes; no physical touchscreen",
+  "results": [
+    {
+      "path": "cases/p09.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "scrollWidth": 305,
+        "stage": "虚拟库存试点 · 本地与云端有验收记录",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "cases/p10.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "scrollWidth": 305,
+        "stage": "成熟底座业务适配 · 已交付，尚未全面使用",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "cases/p36.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "scrollWidth": 305,
+        "stage": "团队定制与交付 · 本人负责知识库、检索和测试",
+        "tableRows": 0
+      }
+    },
+    {
+      "path": "en/cases/p09.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "scrollWidth": 305,
+        "stage": "Virtual inventory pilot · local and cloud acceptance records",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "en/cases/p10.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "scrollWidth": 305,
+        "stage": "Adapted existing foundation · delivered, not yet in full use",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "en/cases/p36.html",
+      "width": 320,
+      "metrics": {
+        "clientWidth": 305,
+        "scrollWidth": 305,
+        "stage": "Team customization and delivery · knowledge base, retrieval and testing",
+        "tableRows": 0
+      }
+    },
+    {
+      "path": "cases/p09.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "stage": "虚拟库存试点 · 本地与云端有验收记录",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "cases/p10.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "stage": "成熟底座业务适配 · 已交付，尚未全面使用",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "cases/p36.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "stage": "团队定制与交付 · 本人负责知识库、检索和测试",
+        "tableRows": 0
+      }
+    },
+    {
+      "path": "en/cases/p09.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "stage": "Virtual inventory pilot · local and cloud acceptance records",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "en/cases/p10.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "stage": "Adapted existing foundation · delivered, not yet in full use",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "en/cases/p36.html",
+      "width": 390,
+      "metrics": {
+        "clientWidth": 375,
+        "scrollWidth": 375,
+        "stage": "Team customization and delivery · knowledge base, retrieval and testing",
+        "tableRows": 0
+      }
+    },
+    {
+      "path": "cases/p09.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "scrollWidth": 1265,
+        "stage": "虚拟库存试点 · 本地与云端有验收记录",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "cases/p10.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "scrollWidth": 1265,
+        "stage": "成熟底座业务适配 · 已交付，尚未全面使用",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "cases/p36.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "scrollWidth": 1265,
+        "stage": "团队定制与交付 · 本人负责知识库、检索和测试",
+        "tableRows": 0
+      }
+    },
+    {
+      "path": "en/cases/p09.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "scrollWidth": 1265,
+        "stage": "Virtual inventory pilot · local and cloud acceptance records",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "en/cases/p10.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "scrollWidth": 1265,
+        "stage": "Adapted existing foundation · delivered, not yet in full use",
+        "tableRows": 3
+      }
+    },
+    {
+      "path": "en/cases/p36.html",
+      "width": 1280,
+      "metrics": {
+        "clientWidth": 1265,
+        "scrollWidth": 1265,
+        "stage": "Team customization and delivery · knowledge base, retrieval and testing",
+        "tableRows": 0
+      }
+    }
+  ]
+}

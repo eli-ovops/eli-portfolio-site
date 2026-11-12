@@ -1,0 +1,184 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#content"
+  - button "Show Bing tools":
+    - generic: 
+  - img "white bwt logo microsoft bing webmaster"
+  - button "Copilot":
+  - button "Notifications":
+    - generic: 
+  - button "Help":
+    - generic: 
+  - button "Feedback":
+    - generic: 
+  - button "Settings":
+    - generic: 
+  - button "Profile":
+- button "Select website":
+  - generic: 
+  - generic: www.eliai.cn/
+  - generic: 
+- navigation "Main menu":
+  - tree:
+    - treeitem "Home":
+      - generic: 
+      - text: Home
+    - treeitem "Search Performance":
+      - generic: 
+      - text: Search Performance
+    - treeitem "AI Performance BETA":
+      - generic: 
+      - text: AI Performance
+      - generic: BETA
+    - treeitem "URL Inspection":
+      - generic: 
+      - text: URL Inspection
+    - treeitem "Site Explorer":
+      - generic: 
+      - text: Site Explorer
+    - treeitem "Sitemaps":
+      - generic: 
+      - text: Sitemaps
+    - treeitem "IndexNow":
+      - text: IndexNow
+    - treeitem "URL Submission":
+      - generic: 
+      - text: URL Submission
+    - treeitem "Backlinks":
+      - generic: 
+      - text: Backlinks
+    - treeitem "Keyword Research":
+      - generic: 
+      - text: Keyword Research
+    - treeitem "Recommendations":
+      - generic: 
+      - text: Recommendations
+    - treeitem "Site Scan":
+      - generic: 
+      - text: Site Scan
+    - treeitem "Configuration":
+      - text: Configuration
+      - generic: 
+    - treeitem "Tools & Enhancements":
+      - text: Tools & Enhancements
+      - generic: 
+    - treeitem "Security & Privacy":
+      - text: Security & Privacy
+      - generic: 
+    - treeitem "User management":
+      - generic: 
+      - text: User management
+    - treeitem "Microsoft Clarity":
+      - generic: 
+      - text: Microsoft Clarity
+- main:
+  - heading "Search Performance" [level=2]
+  - tablist:
+    - tab "7 D" [active] [selected]:
+      - generic: 7 D
+    - tab "30 D":
+      - generic: 30 D
+    - tab "3 M":
+      - generic: 3 M
+    - tab "6 M":
+      - generic: 6 M
+    - tab "12 M":
+      - generic: 12 M
+    - tab "18 M":
+      - generic: 18 M
+    - tab "24 M":
+      - generic: 24 M
+    - tab "Custom":
+      - generic: Custom
+    - tab "Compare":
+      - generic: Compare
+  - tabpanel "7 D"
+  - combobox "Filter by":
+    - generic: All
+    - generic: 
+  - button "Download":
+    - generic: Download
+    - generic: 
+  - checkbox "Total Clicks" [checked]:
+    - generic: Total Clicks
+    - button "Total Clicks info": 
+    - generic: "0"
+  - checkbox "Total Impressions" [checked]:
+    - generic: Total Impressions
+    - button "Total Impressions info": 
+    - generic: "0"
+  - checkbox "Avg. CTR":
+    - generic: Avg. CTR
+    - button "Avg. CTR info": 
+    - generic: 0%
+  - generic: Clicks
+  - generic: Impressions
+  - group "Line chart showing Clicks,Impressions from October 18, 2026 to October 24, 2026. Clicks:0,Impressions:0. Toggle checkboxes to show the selected options in chart":
+    - img "Line chart showing Clicks,Impressions from October 18, 2026 to October 24, 2026. Clicks:0,Impressions:0. Toggle checkboxes to show the selected options in chart":
+      - img "Line chart showing Clicks,Impressions from October 18, 2026 to October 24, 2026. Clicks:0,Impressions:0. Toggle checkboxes to show the selected options in chart"
+    - table:
+      - rowgroup:
+        - row "Date October 18, 2026 October 19, 2026 October 20, 2026 October 21, 2026 October 22, 2026":
+          - columnheader "Date"
+          - columnheader "October 18, 2026"
+          - columnheader "October 19, 2026"
+          - columnheader "October 20, 2026"
+          - columnheader "October 21, 2026"
+          - columnheader "October 22, 2026"
+      - rowgroup:
+        - row "Total Clicks 0 0 0 0 0":
+          - cell "Total Clicks"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+        - row "Total Impressions 0 0 0 0 0":
+          - cell "Total Impressions"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+          - cell "0"
+  - generic: Clicks
+  - generic: Impressions
+  - generic: 
+  - paragraph: Keywords, Pages, Device and Country data is only available for Web traffic and not applicable to Chat and other verticals.
+  - link "learnmore":
+    - /url: /webmasters/help/c680da36
+    - generic: Learn more
+  - heading "List By" [level=3]
+  - tablist "List By":
+    - tab "Keywords" [selected]:
+      - generic: Keywords
+    - tab "Pages":
+      - generic: Pages
+    - tab "Device":
+      - generic: Device
+    - tab "Country":
+      - generic: Country
+  - tabpanel "Keywords"
+  - button "Download all" [disabled]:
+    - generic: Download all
+    - generic: 
+  - grid "Search Keyword Report":
+    - row "Keyword, sortable Impressions, sortable, sorted descending order Clicks, sortable CTR, sortable Avg. Position, sortable":
+      - columnheader "Keyword, sortable":
+        - button "Keyword, sortable":
+          - generic: Keyword
+      - columnheader "Impressions, sortable, sorted descending order":
+        - button "Impressions, sortable, sorted descending order":
+          - generic: Impressions
+          - generic: 
+      - columnheader "Clicks, sortable":
+        - button "Clicks, sortable":
+          - generic: Clicks
+      - columnheader "CTR, sortable":
+        - button "CTR, sortable":
+          - generic: CTR
+      - columnheader "Avg. Position, sortable":
+        - button "Avg. Position, sortable":
+          - generic: Avg. Position
+    - paragraph: No data available
+  - navigation:
+    - generic: 0 rows

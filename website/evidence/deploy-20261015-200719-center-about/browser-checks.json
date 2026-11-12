@@ -1,0 +1,75 @@
+{
+  "about390": {
+    "cases": 0,
+    "contactTop": 104.390625,
+    "hash": "#contact",
+    "links": [
+      {
+        "href": "mailto:[REDACTED_EMAIL]",
+        "label": "[REDACTED_EMAIL] ↗"
+      },
+      {
+        "href": "tel:[REDACTED_PHONE]",
+        "label": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "https://wa.me/[REDACTED_PHONE]",
+        "label": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "assets/wechat-qr.png",
+        "label": ""
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  "home390": {
+    "active": "true",
+    "center": "rgb(17, 18, 20)",
+    "edge": "-12px",
+    "hero": "rgba(0, 0, 0, 0)",
+    "overflow": false,
+    "renderer": "webgl2",
+    "width": 390
+  },
+  "home1920": {
+    "ambient": {
+      "active": "true",
+      "homeAmbient": "",
+      "renderer": "webgl2"
+    },
+    "center": "rgb(17, 18, 20)",
+    "edge": "-32px",
+    "hero": "rgba(0, 0, 0, 0)",
+    "overflow": false,
+    "width": 1920
+  },
+  "home320English": {
+    "overflow": false,
+    "revision": "ddeecaea4720bde0a52a",
+    "width": 320
+  },
+  "about320English": {
+    "cases": 0,
+    "contactTop": 104.421875,
+    "hash": "#contact",
+    "links": [
+      "mailto:[REDACTED_EMAIL]",
+      "tel:[REDACTED_PHONE]",
+      "https://wa.me/[REDACTED_PHONE]",
+      "../assets/wechat-qr.png"
+    ],
+    "overflow": false,
+    "url": "https://www.eliai.cn/en/about.html?pv=ddeecaea4720bde0a52a#contact",
+    "width": 320
+  },
+  "modal": {
+    "image": "办公流程示意图",
+    "locked": "motion-enhanced bits-ui bits-page-visible screenshot-open ",
+    "open": true,
+    "title": "办公流程示意图"
+  },
+  "logs": [],
+  "limits": "Browser viewport simulation; no physical phone, performance or contact delivery claim. During an immediate click while carousel was still moving, the active intermediate image opened; after settled selection the OA image title and SVG were correct."
+}

@@ -1,0 +1,295 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: /en/
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en/
+    - link "Projects":
+      - /url: records.html
+    - link "Articles":
+      - /url: articles.html
+    - link "About":
+      - /url: about.html
+    - link "Switch to Chinese":
+      - /url: /?project=p36&return=p10#work
+      - text: 中文
+- main:
+  - region "Introduction":
+    - button "Background motion" [pressed]:
+      - generic: Background motion
+    - generic: HELLO,
+    - paragraph:
+      - generic: I’M
+      - generic: E
+      - generic: L
+      - generic: I
+    - paragraph: FDE · Practical tools and workflows
+    - heading "Put AI to work in small businesses" [level=1]:
+      - text: Put AI to work
+      - text: in small businesses
+    - paragraph: Initial conversation is free. Implementation from CNY 500, with scope and fees agreed first.
+    - list "Ways I can help":
+      - listitem: Data entry
+      - listitem: Knowledge lookup
+      - listitem: Content preparation
+    - paragraph: Share one time-consuming task. No technical knowledge or plan needed.
+    - link "Let’s talk":
+      - /url: about.html#contact
+      - text: Let’s talk
+      - generic: ↗
+    - link "See project work":
+      - /url: "#work"
+      - text: See project work
+      - generic: ↓
+  - region "Where could we start?":
+    - heading "Where could we start?" [level=2]
+    - paragraph:
+      - text: Start with an existing AI assistant, or improve one repetitive step. A large system is not required.
+      - link "How FDE consulting works ↗":
+        - /url: services/fde-consulting.html
+    - article:
+      - heading "Repeated entry and stock checks" [level=3]
+      - paragraph: Reduce repeated entry and manual checks.
+      - 'generic "How I can help: Repeated entry and stock checks"':
+        - text: How I can help
+        - generic: +
+      - link "Inventory case":
+        - /url: cases/p10.html
+        - text: Inventory case
+        - generic: ↗
+      - link "Barcode case":
+        - /url: cases/p09.html
+        - text: Barcode case
+        - generic: ↗
+    - article:
+      - heading "Information lookup and repeated questions" [level=3]
+      - paragraph: Make information easier to find and use.
+      - 'generic "How I can help: Information lookup and repeated questions"':
+        - text: How I can help
+        - generic: +
+      - link "Support case":
+        - /url: cases/p36.html
+        - text: Support case
+        - generic: ↗
+    - article:
+      - heading "Product content takes time" [level=3]
+      - paragraph: Stop starting copy and images from scratch.
+      - 'generic "How I can help: Product content takes time"':
+        - text: How I can help
+        - generic: +
+      - link "Content case":
+        - /url: cases/p12.html
+        - text: Content case
+        - generic: ↗
+  - region "Where could we start in your industry?":
+    - heading "Where could we start in your industry?" [level=2]
+    - paragraph: Choose the industry closest to your business and start with one time-consuming task. These are scenarios we can discuss; linked cases state the work actually done.
+    - generic "Manufacturing Repeated stock checks and hard-to-find product instructions":
+      - generic: Manufacturing
+      - generic: Repeated stock checks and hard-to-find product instructions
+      - generic: +
+    - generic "Wholesale and retail Repeated stock entries and records that do not match":
+      - generic: Wholesale and retail
+      - generic: Repeated stock entries and records that do not match
+      - generic: +
+    - generic "Furniture, home and building products Hard-to-find specifications and product records to maintain":
+      - generic: Furniture, home and building products
+      - generic: Hard-to-find specifications and product records to maintain
+      - generic: +
+    - generic "E-commerce Reworking product information and answering the same questions":
+      - generic: E-commerce
+      - generic: Reworking product information and answering the same questions
+      - generic: +
+    - generic "Cross-border e-commerce Keeping bilingual product information current and repeating replies":
+      - generic: Cross-border e-commerce
+      - generic: Keeping bilingual product information current and repeating replies
+      - generic: +
+    - generic "Law firms and professional services Clients struggle to find service details; staff spend time finding files":
+      - generic: Law firms and professional services
+      - generic: Clients struggle to find service details; staff spend time finding files
+      - generic: +
+    - generic "Brands and content studios Searching for assets and starting copy and images from scratch":
+      - generic: Brands and content studios
+      - generic: Searching for assets and starting copy and images from scratch
+      - generic: +
+    - generic "Nonprofit organizations Scattered project records and time-consuming website updates":
+      - generic: Nonprofit organizations
+      - generic: Scattered project records and time-consuming website updates
+      - generic: +
+    - generic "More industries Seven more scenarios, including logistics, education and restaurants":
+      - generic: More industries
+      - generic: Seven more scenarios, including logistics, education and restaurants
+      - generic: +
+  - region "Selected projects":
+    - paragraph: Client work and product development
+    - heading "Selected projects" [level=2]
+    - link "Projects":
+      - /url: records.html
+      - text: Projects
+      - generic: ↗
+    - navigation "Choose a project":
+      - button "View Sanitaryware manufacturer inventory system": Inventory
+      - button "View UK water purification brand · RAG support" [pressed]: Customer support
+      - button "View Furniture barcode inventory system": Barcode inventory
+      - button "View Law firm office system": Office workflows
+      - button "View Shenzhen charity foundation": Charity website
+      - button "View UK water purification brand marketing": Brand marketing
+    - 'generic "Selected project: UK water purification brand · RAG support. Scroll on the image to switch · scroll text to read."':
+      - paragraph: 02 / 06
+      - button "Previous project": ←
+      - button "Next project": →
+      - article:
+        - link:
+          - /url: ../assets/public-cases/p10.png
+          - generic: View image ↗
+        - paragraph: Inventory management
+        - heading [level=3]: Sanitaryware manufacturer inventory system
+        - paragraph: Delivered
+        - paragraph: Purchasing, returns and stock checks needed one workflow → delivered a PC and mobile inventory system → handed over; no quantified usage results.
+        - generic: Project process ＋
+        - link:
+          - /url: cases/p10.html
+          - text: View case ↗
+      - article:
+        - link "View UK water purification brand · RAG support screenshot":
+          - /url: ../assets/public-cases/p36.png
+          - img "UK water purification brand · RAG support — anonymized interface"
+          - generic: View image ↗
+        - paragraph: AI support
+        - heading "UK water purification brand · RAG support" [level=3]
+        - paragraph: Product information needed to support repeated questions → contributed knowledge organization, retrieval configuration and testing → team delivery; no measured accuracy or efficiency results.
+        - generic "Project process ＋"
+        - 'link "Full case study: UK water purification brand · RAG support"':
+          - /url: cases/p36.html
+          - text: View case ↗
+      - article:
+        - link:
+          - /url: ../assets/public-cases/p09.png
+          - generic: View image ↗
+        - paragraph: Barcode inventory
+        - heading [level=3]: Furniture barcode inventory system
+        - paragraph: Delivered
+        - paragraph: Carton movements needed tracking → delivered a barcode inventory system → handed over; published quantity records come from historical virtual-stock tests.
+        - generic: Project process ＋
+        - link:
+          - /url: cases/p09.html
+          - text: View case ↗
+      - article:
+        - link:
+          - /url: ../assets/office-workflow.svg
+        - paragraph: Office workflows
+        - heading [level=3]: Law firm office system
+        - paragraph: Developed an office system from the team’s onsite discovery, adapting workflows and scattered records to staff needs and contributing to training and handover.
+        - generic: Project process ＋
+        - link:
+          - /url: cases/p04.html
+          - text: View case ↗
+      - article:
+        - link:
+          - /url: ../assets/public-cases/p02.png
+          - generic: View image ↗
+        - paragraph: Nonprofit website
+        - heading [level=3]: Shenzhen charity foundation
+        - paragraph: Contributed to a nonprofit website, organizing the foundation profile, charitable programs, news and public disclosures into a clear navigation structure.
+        - generic: Project process ＋
+        - link:
+          - /url: cases/p02.html
+          - text: View case ↗
+      - article:
+        - link:
+          - /url: ../assets/public-cases/p05.png
+          - generic: View image ↗
+        - paragraph: Brand marketing
+        - heading [level=3]: UK water purification brand marketing
+        - paragraph: Contributed to international brand marketing through campaigns, content and AI video production, creator partnerships and social promotion around the client’s own website.
+        - generic: Project process ＋
+        - link:
+          - /url: cases/p05.html
+          - text: View case ↗
+  - region "Practical notes":
+    - paragraph: From real project work
+    - heading "Practical notes" [level=2]
+    - button "Pause rotation":
+      - generic: Ⅱ
+    - button "Next article":
+      - generic: ↑
+    - link "All articles ↗":
+      - /url: articles.html
+    - article:
+      - generic: Inventory workflows
+      - generic: 6 min read
+      - 'heading "Manual inventory checks every day: where should you start?" [level=3]':
+        - 'link "Manual inventory checks every day: where should you start?"':
+          - /url: articles/inventory-reconciliation.html
+      - paragraph: Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.
+      - 'link "Read: Manual inventory checks every day: where should you start?"':
+        - /url: articles/inventory-reconciliation.html
+        - text: Read
+        - generic: ↗
+    - article:
+      - generic: Knowledge and support
+      - generic: 6 min read
+      - 'heading "Company information is scattered: what should you prepare for a knowledge base?" [level=3]':
+        - 'link "Company information is scattered: what should you prepare for a knowledge base?"':
+          - /url: articles/enterprise-knowledge-base.html
+      - paragraph: Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.
+      - 'link "Read: Company information is scattered: what should you prepare for a knowledge base?"':
+        - /url: articles/enterprise-knowledge-base.html
+        - text: Read
+        - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: /en/
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

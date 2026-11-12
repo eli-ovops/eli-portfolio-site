@@ -1,0 +1,20 @@
+[
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T02:34:05.660Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p09.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T02:34:15.881Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p04.html?pv=147597147401d66f13ca&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D147597147401d66f13ca%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T02:34:27.909Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+  }
+]

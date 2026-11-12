@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-10-17T18:59:18.503848+08:00",
+  "status": "UNRESOLVED",
+  "root_cause": "UNKNOWN",
+  "official_support_reply": "received; requests thread URL and verbatim failure answer; no root cause or fix confirmed",
+  "native_retest": {
+    "url": "https://www.perplexity.ai/search/1ecece57-5ea6-4a23-a7de-c75804b32e71",
+    "article_body_reads": 0,
+    "article_count": 3,
+    "homepage_control": "failed",
+    "diagnostic_parameter": "perplexity-article-20261017-1820",
+    "model_reported_error": "Failed to fetch content",
+    "actual_http_error": "UNKNOWN; native answer exposed no code"
+  },
+  "origin": {
+    "marker_hits": 0,
+    "verified_article_requests": {
+      "PerplexityBot": 0,
+      "Perplexity-User": 0
+    },
+    "new_verified_requests": {
+      "PerplexityBot": 0,
+      "Perplexity-User": 0
+    },
+    "limitations": [
+      "current daily access log only",
+      "hostname absent",
+      "server clock about two minutes behind client",
+      "upstream failure, normalization or cached failure remain possible"
+    ]
+  },
+  "production_release_unchanged": "/srv/eli-sites/portfolio/domain-releases/20261017-llms-utf8-e253f5b6",
+  "website_changes": [],
+  "search_submissions": 0,
+  "new_support_messages_sent": 1,
+  "next_action": "Await official support response; website fetch issue remains unresolved",
+  "quote_checks": "both excerpts exactly match saved native evidence",
+  "artifacts": {
+    "native-retest.png": "3d8134fb443bc81f92cdcf4d4a26dc3349465541083d285c2f50650185cfc572",
+    "check.py": "26c03e8baa50ddd998a3bb94b130384cbd6b19e6d1f60f60b6665293abe84bd8",
+    "report.md": "59321d5b6e791b307fb00444f393cb2d2e22e422deb0e39e53427579346a41b0",
+    "native-retest.txt": "fd4c1f94363feda29470fdcf37239301b9606b7c6211dfd930175e041280347a",
+    "native-retest-meta.json": "aeeaf1c033d04ad267c789fcc5ff320e01f4145f04bc1a57246a3653ab228243",
+    "dns-public.json": "32e1ee23cc9538746ba78f2748339cfbb449c2aa9eec983c13ded0f4015df37a",
+    "perplexitybot.json": "c3ee649e3d29e293fc017080dd5c3740c5f64aa8d9f658fc512d05fd8d209918",
+    "origin-after.json": "e29d0025af2d00379eae2c97d1017d7bbb16ae46ce9ab7f81faa3152acb7ff99",
+    "perplexity-user.json": "387835e5ae1fc69ed0f69fb1853f32560bbd225dd6d0e1e4a5573eb2963d25b0",
+    "support-reply-draft.txt": "6a971e48d8af6294eddd61f398ce235fad25c7b0dbc723fc9fdd6945dae92f47",
+    "native-retest-main.txt": "642264e5f779f917f8d328742e7946b629697ab41d7a406796f7e1b0844b4a70",
+    "support-reply.json": "fa5901f4a90d01ab51ebf67f40433ba904fec5a917a9df783b3a6e9f60ba1818",
+    "origin-check.remote.py": "9bb99adad55e39f73922ad58ed11700e3cf981b8873ad81a4075b498794f41cb",
+    "origin-before.json": "d2cff6471646b70ae717ef347dc53fcd6e38cba761b1bb4963d2857f47d4a017",
+    "public-pages.json": "cd56132c570125b033d37db1da74a9b4261f6e24ed1cbb5c1c2378c9b3550c9e"
+  },
+  "support_followup_updated_at": "2026-10-17T19:10:34.887868+08:00",
+  "support_send_receipt": "support-reply-send-receipt.json"
+}

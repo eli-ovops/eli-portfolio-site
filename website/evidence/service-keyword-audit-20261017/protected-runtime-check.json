@@ -1,0 +1,22 @@
+{
+  "assets/depth-gallery.js": {
+    "source_sha256": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609",
+    "matches_deployed": true
+  },
+  "assets/stacked-gallery.css": {
+    "source_sha256": "9c476e02cb4eeda0e4714905324c6b9534e8fd3d92cd86a24d5c7a19e700654a",
+    "matches_deployed": true
+  },
+  "assets/home-ambient.js": {
+    "source_sha256": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+    "matches_deployed": true
+  },
+  "assets/home-ambient.css": {
+    "source_sha256": "3087e27bb0b8ef5652bc44737516d7c38aea64cafc72f5dae84baef2c60f5247",
+    "matches_deployed": true
+  },
+  "styles.css": {
+    "source_sha256": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+    "matches_deployed": true
+  }
+}

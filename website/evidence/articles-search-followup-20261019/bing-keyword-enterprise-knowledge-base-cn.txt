@@ -1,0 +1,245 @@
+Browser tab: 33, Title: "Keyword Research - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93".
+0 AXWebArea Keyword Research - Bing Webmaster Tools, URL: bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93
+	1 container
+		2 container root
+			3 container
+				4 link Description: Skip to main content, Value: bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93#content
+				5 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				6 image white bwt logo microsoft bing webmaster
+				7 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				8 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					13 image
+			14 container
+				15 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					16 text www.eliai.cn/
+				17 container Main menu
+					18 outline
+						19 row (selectable) Home
+							20 text Home
+						21 row (selectable) Search Performance
+							22 text Search Performance
+						23 row (selectable) AI Performance BETA
+							24 text AI Performance
+							25 text BETA
+						26 row (selectable) URL Inspection
+							27 text URL Inspection
+						28 row (selectable) Site Explorer
+							29 text Site Explorer
+						30 row (selectable) Sitemaps
+							31 text Sitemaps
+						32 row (selectable) IndexNow
+							33 text IndexNow
+						34 row (selectable) URL Submission
+							35 text URL Submission
+						36 row (selectable) Backlinks
+							37 text Backlinks
+						38 row (selectable) Keyword Research
+							39 text Keyword Research
+						40 row (selectable) Recommendations
+							41 text Recommendations
+						42 row (selectable) Site Scan
+							43 text Site Scan
+						44 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							45 text CONFIGURATION
+						46 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							47 text TOOLS & ENHANCEMENTS
+						48 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							49 text SECURITY & PRIVACY
+						50 row (selectable) User management
+							51 text User management
+						52 row (selectable) Microsoft Clarity
+							53 text Microsoft Clarity
+			54 container content
+				55 heading Keyword Research, Value: 2
+					56 text Keyword Research
+				57 text field (settable) Description: Enter keyword phrases, Value: 企业知识库, ID: TextField95
+				58 button Get details
+					59 text Get details
+				60 combo box (collapsed) Description: dropdown filter, Value: People's Republic of China, ID: Dropdown104, Secondary Actions: Expand
+					61 text People's Republic of China
+				62 combo box (collapsed) Description: dropdown filter, Value: All, ID: Dropdown106, Secondary Actions: Expand
+					63 text All
+				64 combo box (collapsed) Description: Select Device, Value: All, ID: Dropdown107, Secondary Actions: Expand
+					65 text All
+				77 combo box (collapsed) Description: Duration, Value: 3 M, ID: Dropdown114, Secondary Actions: Expand
+					78 text 3 M
+				79 container
+					80 heading Keyword, Value: 4
+						81 text Keyword
+					82 heading 企业知识库, Value: 1
+						83 text 企业知识库
+				124 heading Impressions, Value: 4
+					125 text Impressions
+				126 heading 535, Value: 1
+					127 text 535
+				128 container
+					129 text 19 Jul 2026  - to -  16 Oct 2026
+				130 container
+					131 container Line graph showing keyword impressions from 19 Jul 2026 to 16 Oct 2026. Impressions: 535
+						132 container Line graph showing keyword impressions from 19 Jul 2026 to 16 Oct 2026. Impressions: 535
+						133 text Line graph showing keyword impressions from 19 Jul 2026 to 16 Oct 2026. Impressions: 535
+				134 heading Global breakdown, Value: 2
+					135 text Global breakdown
+				136 table Global breakdown
+					137 row Country Impressions
+						138 cell Country
+							139 text Country
+						140 cell Impressions
+							141 text Impressions
+					142 row United States 29, ID: row250-0
+						143 container
+							144 cell row250-0-header
+								145 container
+									146 text United States
+							147 cell row250-0-header
+								148 text 29
+					149 row United Kingdom 2, ID: row250-1
+						150 container
+							151 cell row250-1-header
+								152 container
+									153 text United Kingdom
+							154 cell row250-1-header
+								155 text 2
+					156 row Canada 1, ID: row250-2
+						157 container
+							158 cell row250-2-header
+								159 container
+									160 text Canada
+							161 cell row250-2-header
+								162 text 1
+					163 row Australia 2, ID: row250-3
+						164 container
+							165 cell row250-3-header
+								166 container
+									167 text Australia
+							168 cell row250-3-header
+								169 text 2
+				170 button Load more
+					171 text Load more
+				94 heading List By, Value: 3, ID: keywordIdeasList
+					95 text List By
+				96 container
+					97 tab group
+						98 tab (selected, settable, boolean) Related keywords, ID: Pivot123-Tab0, Value: 1
+Related keywords
+						99 tab (selectable, settable, boolean) Question keywords, ID: Pivot123-Tab1, Value: 0
+Question keywords
+						100 tab (selectable, settable, boolean) Newly discovered, ID: Pivot123-Tab2, Value: 0
+Newly discovered
+					101 container Related keywords
+				102 button Download all
+					103 text Download all
+				104 table keyword ideas details
+					105 row select all items Keywords, sortable Trends Impressions, sortable
+						106 cell select all items
+							107 checkbox Description: select all items, Value: 0, ID: header138-check
+						108 cell
+							109 button Description: Keywords, sortable, ID: header138-Query
+								110 text Keywords
+						111 cell Trends
+							112 text Trends
+						113 cell
+							114 button Description: Impressions, sortable, ID: header138-ImpressionCount
+								115 text Impressions
+					172 row (selectable) select item 企业知识库搭建 Line graph showing impressions trend 56, ID: row234-0
+						173 cell
+							174 checkbox select item 企业知识库搭建, Value: 0, ID: row234-0-checkbox
+						175 container
+							176 cell row234-0-header
+								177 text 企业知识库搭建
+							178 cell row234-0-header
+								179 container
+									180 container Line graph showing impressions trend
+										181 container Line graph showing impressions trend
+										182 text Line graph showing impressions trend
+							183 cell row234-0-header
+								184 text 56
+					185 row (selectable) select item rag知识库搭建 Line graph showing impressions trend 404, ID: row234-1
+						186 cell
+							187 checkbox select item rag知识库搭建, Value: 0, ID: row234-1-checkbox
+						188 container
+							189 cell row234-1-header
+								190 text rag知识库搭建
+							191 cell row234-1-header
+								192 container
+									193 container Line graph showing impressions trend
+										194 container Line graph showing impressions trend
+										195 text Line graph showing impressions trend
+							196 cell row234-1-header
+								197 text 404
+				198 container
+					199 text 2 rows
+				116 heading Top 10 url ranking on this keyword, Value: 3
+					117 text Top 10 url ranking on this keyword
+				118 table Top 10 url ranking on this keyword
+					119 row Title & URL Topics
+						120 cell Title & URL
+							121 text Title & URL
+						122 cell Topics
+							123 text Topics
+					200 row 2026 年企业知识库搭建指南：10 款软件对比与选型建议 - 知乎 https://zhuanlan.zhihu.com/p/2021930427787519595 -, ID: row269-0
+						201 cell row269-0-header
+							202 link Description: 2026 年企业知识库搭建指南：10 款软件对比与选型建议 - 知乎, Value: bing.com/search?q=2026%20%E5%B9%B4%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97%EF%BC%9A10%20%E6%AC%BE%E8%BD%AF%E4%BB%B6%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B%E5%BB%BA%E8%AE%AE%20-%20%E7%9F%A5%E4%B9%8E
+							203 link Description: https://zhuanlan.zhihu.com/p/2021930427787519595, Value: zhuanlan.zhihu.com/p/2021930427787519595
+						204 cell row269-0-header
+							205 text -
+					206 row 企业知识库搭建：14款开源与免费系统选择 - CSDN博客 https://blog.csdn.net/weixin_44280696/article/details/145884584 -, ID: row269-1
+						207 cell row269-1-header
+							208 link Description: 企业知识库搭建：14款开源与免费系统选择 - CSDN博客, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E6%90%AD%E5%BB%BA%EF%BC%9A14%E6%AC%BE%E5%BC%80%E6%BA%90%E4%B8%8E%E5%85%8D%E8%B4%B9%E7%B3%BB%E7%BB%9F%E9%80%89%E6%8B%A9%20-%20CSDN%E5%8D%9A%E5%AE%A2
+							209 link Description: https://blog.csdn.net/weixin_44280696/article/details/145884584, Value: blog.csdn.net/weixin_44280696/article/details/145884584
+						210 cell row269-1-header
+							211 text -
+					212 row 企业知识库搭建：14款开源与免费系统选择 - 大发明家2 - 企业博客 https://www.cnblogs.com/worktile/articles/18739216 -, ID: row269-2
+						213 cell row269-2-header
+							214 link Description: 企业知识库搭建：14款开源与免费系统选择 - 大发明家2 - 企业博客, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E6%90%AD%E5%BB%BA%EF%BC%9A14%E6%AC%BE%E5%BC%80%E6%BA%90%E4%B8%8E%E5%85%8D%E8%B4%B9%E7%B3%BB%E7%BB%9F%E9%80%89%E6%8B%A9%20-%20%E5%A4%A7%E5%8F%91%E6%98%8E%E5%AE%B62%20-%20%E4%BC%81%E4%B8%9A%E5%8D%9A%E5%AE%A2
+							215 link Description: https://www.cnblogs.com/worktile/articles/18739216, Value: cnblogs.com/worktile/articles/18739216
+						216 cell row269-2-header
+							217 text -
+					218 row 最佳AI知识库工具（2026）：智能文档、RAG、企业知识管理 https://alignify.co/zh/tools/knowledge-base -, ID: row269-3
+						219 cell row269-3-header
+							220 link Description: 最佳AI知识库工具（2026）：智能文档、RAG、企业知识管理, Value: bing.com/search?q=%E6%9C%80%E4%BD%B3AI%E7%9F%A5%E8%AF%86%E5%BA%93%E5%B7%A5%E5%85%B7%EF%BC%882026%EF%BC%89%EF%BC%9A%E6%99%BA%E8%83%BD%E6%96%87%E6%A1%A3%E3%80%81RAG%E3%80%81%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86
+							221 link Description: https://alignify.co/zh/tools/knowledge-base, Value: alignify.co/zh/tools/knowledge-base
+						222 cell row269-3-header
+							223 text -
+					224 row 企业知识库构建工具有哪些？近些年主流十大方案整理（2025） https://zhuanlan.zhihu.com/p/1918662216305082834 -, ID: row269-4
+						225 cell row269-4-header
+							226 link Description: 企业知识库构建工具有哪些？近些年主流十大方案整理（2025）, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E8%BF%91%E4%BA%9B%E5%B9%B4%E4%B8%BB%E6%B5%81%E5%8D%81%E5%A4%A7%E6%96%B9%E6%A1%88%E6%95%B4%E7%90%86%EF%BC%882025%EF%BC%89
+							227 link Description: https://zhuanlan.zhihu.com/p/1918662216305082834, Value: zhuanlan.zhihu.com/p/1918662216305082834
+						228 cell row269-4-header
+							229 text -
+					230 row 9大企业知识库工具（含免费开源）对比，挑选最佳搭建方案 https://www.cnblogs.com/worktile/articles/18819296 -, ID: row269-5
+						231 cell row269-5-header
+							232 link Description: 9大企业知识库工具（含免费开源）对比，挑选最佳搭建方案, Value: bing.com/search?q=9%E5%A4%A7%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E5%B7%A5%E5%85%B7%EF%BC%88%E5%90%AB%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%EF%BC%89%E5%AF%B9%E6%AF%94%EF%BC%8C%E6%8C%91%E9%80%89%E6%9C%80%E4%BD%B3%E6%90%AD%E5%BB%BA%E6%96%B9%E6%A1%88
+							233 link Description: https://www.cnblogs.com/worktile/articles/18819296, Value: cnblogs.com/worktile/articles/18819296
+						234 cell row269-5-header
+							235 text -
+					236 row 企业知识库搭建实战：从RAG到Agentic的全流程指南 https://juejin.cn/post/7675538244907155465 -, ID: row269-6
+						237 cell row269-6-header
+							238 link Description: 企业知识库搭建实战：从RAG到Agentic的全流程指南, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E6%90%AD%E5%BB%BA%E5%AE%9E%E6%88%98%EF%BC%9A%E4%BB%8ERAG%E5%88%B0Agentic%E7%9A%84%E5%85%A8%E6%B5%81%E7%A8%8B%E6%8C%87%E5%8D%97
+							239 link Description: https://juejin.cn/post/7675538244907155465, Value: juejin.cn/post/7675538244907155465
+						240 cell row269-6-header
+							241 text -
+					242 row ID: row269-7, 企业知识库长什么样？7个真实案例揭秘现代知识管理系统 https://www.betteryeah.com/blog/enterprise-knowledge-base-real-cases-modern-management-systems -
+						243 cell row269-7-header
+							244 link Description: 企业知识库长什么样？7个真实案例揭秘现代知识管理系统, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F7%E4%B8%AA%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B%E6%8F%AD%E7%A7%98%E7%8E%B0%E4%BB%A3%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F
+							245 link Description: https://www.betteryeah.com/blog/enterprise-knowledge-base-real-cases-modern-management-systems, Value: betteryeah.com/blog/enterprise-knowledge-base-real-cases-modern-management-systems
+						246 cell row269-7-header
+							247 text -
+					248 row 知识库软件哪家好？25款主流产品测评（含免费、付费、开源） - 少数派 https://sspai.com/post/98249 -, ID: row269-8
+						249 cell row269-8-header
+							250 link Description: 知识库软件哪家好？25款主流产品测评（含免费、付费、开源） - 少数派, Value: bing.com/search?q=%E7%9F%A5%E8%AF%86%E5%BA%93%E8%BD%AF%E4%BB%B6%E5%93%AA%E5%AE%B6%E5%A5%BD%EF%BC%9F25%E6%AC%BE%E4%B8%BB%E6%B5%81%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%84%EF%BC%88%E5%90%AB%E5%85%8D%E8%B4%B9%E3%80%81%E4%BB%98%E8%B4%B9%E3%80%81%E5%BC%80%E6%BA%90%EF%BC%89%20-%20%E5%B0%91%E6%95%B0%E6%B4%BE
+							251 link Description: https://sspai.com/post/98249, Value: sspai.com/post/98249
+						252 cell row269-8-header
+							253 text -
+					254 row ID: row269-9, 企业知识库从 0 到 1 搭建：智能体选型及落地避坑指南（附案例解析）-CSDN博客 https://blog.csdn.net/weixin_59191169/article/details/149399181 -
+						255 cell row269-9-header
+							256 link Description: 企业知识库从 0 到 1 搭建：智能体选型及落地避坑指南（附案例解析）-CSDN博客, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%BA%93%E4%BB%8E%200%20%E5%88%B0%201%20%E6%90%AD%E5%BB%BA%EF%BC%9A%E6%99%BA%E8%83%BD%E4%BD%93%E9%80%89%E5%9E%8B%E5%8F%8A%E8%90%BD%E5%9C%B0%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%EF%BC%88%E9%99%84%E6%A1%88%E4%BE%8B%E8%A7%A3%E6%9E%90%EF%BC%89-CSDN%E5%8D%9A%E5%AE%A2
+							257 link Description: https://blog.csdn.net/weixin_59191169/article/details/149399181, Value: blog.csdn.net/weixin_59191169/article/details/149399181
+						258 cell row269-9-header
+							259 text -
+
+The focused UI element is 60 combo box (collapsed) Description: dropdown filter, Value: People's Republic of China, ID: Dropdown104, Secondary Actions: Expand

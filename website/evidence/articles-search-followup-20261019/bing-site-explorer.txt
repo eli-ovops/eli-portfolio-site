@@ -1,0 +1,83 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#content"
+  - button "Show Bing tools":
+    - generic: 
+  - img "white bwt logo microsoft bing webmaster"
+  - button "Copilot":
+  - button "Notifications":
+    - generic: 
+  - button "Help":
+    - generic: 
+  - button "Feedback":
+    - generic: 
+  - button "Settings":
+    - generic: 
+  - button "Profile":
+- button "Select website":
+  - generic: 
+  - generic: www.eliai.cn/
+  - generic: 
+- navigation "Main menu":
+  - tree:
+    - treeitem "Home":
+      - generic: 
+      - text: Home
+    - treeitem "Search Performance":
+      - generic: 
+      - text: Search Performance
+    - treeitem "AI Performance BETA":
+      - generic: 
+      - text: AI Performance
+      - generic: BETA
+    - treeitem "URL Inspection":
+      - generic: 
+      - text: URL Inspection
+    - treeitem "Site Explorer" [active]:
+      - generic: 
+      - text: Site Explorer
+    - treeitem "Sitemaps":
+      - generic: 
+      - text: Sitemaps
+    - treeitem "IndexNow":
+      - text: IndexNow
+    - treeitem "URL Submission":
+      - generic: 
+      - text: URL Submission
+    - treeitem "Backlinks":
+      - generic: 
+      - text: Backlinks
+    - treeitem "Keyword Research":
+      - generic: 
+      - text: Keyword Research
+    - treeitem "Recommendations":
+      - generic: 
+      - text: Recommendations
+    - treeitem "Site Scan":
+      - generic: 
+      - text: Site Scan
+    - treeitem "Configuration":
+      - text: Configuration
+      - generic: 
+    - treeitem "Tools & Enhancements":
+      - text: Tools & Enhancements
+      - generic: 
+    - treeitem "Security & Privacy":
+      - text: Security & Privacy
+      - generic: 
+    - treeitem "User management":
+      - generic: 
+      - text: User management
+    - treeitem "Microsoft Clarity":
+      - generic: 
+      - text: Microsoft Clarity
+- main:
+  - heading "Site Explorer" [level=2]
+  - combobox:
+    - generic: Indexed URLs
+    - generic: 
+  - button "Download" [disabled]:
+    - generic: Download
+    - generic: 
+  - alert:
+    - generic: No data available

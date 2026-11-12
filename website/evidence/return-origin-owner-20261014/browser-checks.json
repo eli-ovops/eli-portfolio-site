@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-14",
+  "revision": "05f7213ef85c4cd8a350",
+  "checks": [
+    {
+      "test": "ordinary-return",
+      "count": "2 项记录",
+      "focus": "project-p10",
+      "q": "库存",
+      "y": 211
+    },
+    {
+      "test": "cleared-before-home",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "test": "home-case-no-stale-source",
+      "back": "../records.html?pv=05f7213ef85c4cd8a350",
+      "url": "http://127.0.0.1:4178/cases/p10.html?pv=05f7213ef85c4cd8a350"
+    },
+    {
+      "test": "home-case-after-clear-return",
+      "category": "全部",
+      "count": "38 项记录",
+      "q": ""
+    },
+    {
+      "test": "related-outside-results-refresh-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "focus": "project-p10",
+      "q": "库存",
+      "y": 211
+    },
+    {
+      "test": "older-case-refreshed-with-newer-session",
+      "back": "/records.html?pv=05f7213ef85c4cd8a350&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98&return=p10",
+      "case": "P10",
+      "url": "http://127.0.0.1:4178/cases/p10.html?pv=05f7213ef85c4cd8a350&from=%2Frecords.html%3Fpv%3D05f7213ef85c4cd8a350%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26q%3D%25E5%25BA%2593%25E5%25AD%2598%26return%3Dp10"
+    },
+    {
+      "test": "older-case-real-origin-retained",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "test": "rapid-reset-remains-working",
+      "trials": [
+        {
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        }
+      ]
+    },
+    {
+      "test": "English-320-related-return",
+      "category": "Client work",
+      "count": "2 projects",
+      "q": "inventory"
+    },
+    {
+      "test": "English-320-keyboard-clear",
+      "count": "38 projects",
+      "q": ""
+    },
+    {
+      "test": "English-320-home-after-clear-return",
+      "category": "All",
+      "count": "38 projects",
+      "q": "",
+      "viewport": 320,
+      "width": 320
+    }
+  ],
+  "viewport_restored": true,
+  "media_restored": true,
+  "limits": [
+    "IAB desktop and simulated English320; no real touch/iOS/all-browser verification",
+    "Local only; server was not accessed"
+  ]
+}

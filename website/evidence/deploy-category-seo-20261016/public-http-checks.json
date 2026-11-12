@@ -1,0 +1,57 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "en/index.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "services/fde-consulting.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "services/ai-agent.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "services/workflow-automation.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "en/services/fde-consulting.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "en/services/ai-agent.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "en/services/workflow-automation.html",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "sitemap.xml",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "robots.txt",
+    "status": 200,
+    "exact_release_hash": true
+  },
+  {
+    "path": "llms.txt",
+    "status": 200,
+    "exact_release_hash": true
+  }
+]

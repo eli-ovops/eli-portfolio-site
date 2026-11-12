@@ -1,0 +1,174 @@
+[
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-manufacturing",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 0,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-ecommerce",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 2,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-cross-border",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-wholesale-retail",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 2,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-home-building",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 2,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-professional-services",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-brands-studios",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-nonprofits",
+    "lang": "zh-CN",
+    "open": true,
+    "overflow": false,
+    "width": 360
+  },
+  {
+    "check": "zh_to_en_language_switch",
+    "url": "http://127.0.0.1:4178/en/index.html?pv=a1e65a01ed33addd2b34#industries",
+    "width": 390
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-manufacturing",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 0,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-ecommerce",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 2,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-cross-border",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-wholesale-retail",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 2,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-home-building",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 2,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-professional-services",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-brands-studios",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "caseLinks": 1,
+    "contact": "about.html?pv=a1e65a01ed33addd2b34#contact",
+    "id": "industry-nonprofits",
+    "lang": "en",
+    "open": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "check": "en_industry_to_contact",
+    "url": "http://127.0.0.1:4178/en/about.html?pv=a1e65a01ed33addd2b34#contact",
+    "lang": "en",
+    "width": 390,
+    "contactExists": true
+  },
+  {
+    "check": "contact_language_roundtrip",
+    "url": "http://127.0.0.1:4178/about.html?pv=a1e65a01ed33addd2b34#contact",
+    "lang": "zh-CN"
+  },
+  {
+    "check": "zh_industry_to_contact",
+    "url": "http://127.0.0.1:4178/about.html?pv=a1e65a01ed33addd2b34#contact",
+    "lang": "zh-CN",
+    "width": 390
+  },
+  {
+    "check": "case_return_homepage",
+    "url": "http://127.0.0.1:4178/index.html?project=p10&pv=a1e65a01ed33addd2b34#work",
+    "result": "Returned to existing homepage project section (#work), preserving project=p10"
+  }
+]

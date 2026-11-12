@@ -1,0 +1,121 @@
+{
+  "goal_created": true,
+  "updated_at": "2026-10-23T06:15:47.367Z",
+  "order": [
+    "百度",
+    "360",
+    "Bing",
+    "搜狗",
+    "头条",
+    "Yandex"
+  ],
+  "scope": "Complete controllable platform access and nonduplicate official resolution, no website change",
+  "baidu": {
+    "stage": "Official consultation accepted once; native1-3days processing notice",
+    "receipt": "baidu-support-submission.json",
+    "subject_approval": "UNKNOWN",
+    "index_total": "UNKNOWN",
+    "next": "Read existing feedback response and original certification outcome; no duplicate"
+  },
+  "other_platforms": "Not yet actioned in this goal run; reuse existing records",
+  "no_new_monitor": true,
+  "so360": {
+    "stage": "Independent official form accepted once",
+    "receipt": "360-independent-support-submission.json",
+    "verification": "Pending official handling; no new proof requested",
+    "index_total": "UNKNOWN",
+    "next": "Wait for response to accepted feedback; no duplicate forum/form/email"
+  },
+  "current_platform": "All six checked in requested order; external processing remains",
+  "stage": "CONTROLLABLE_SCOPE_COMPLETED_EXTERNAL_RESULTS_MONITORED",
+  "bing": {
+    "checked_at": "2026-10-23T06:08:18.769Z",
+    "site": "https://www.eliai.cn/",
+    "ownership": "Existing site selected; no re-registration",
+    "sitemap": {
+      "known": 1,
+      "status": "Success",
+      "urls_discovered": 294,
+      "last_crawl": "10/20/2026",
+      "errors": 0,
+      "warnings": 0
+    },
+    "sample": {
+      "url": "https://www.eliai.cn/services/ai-agent.html",
+      "status": "Discovered but not crawled; URL cannot appear on Bing",
+      "discovered": "16 Oct2026",
+      "specific_cause": "UNKNOWN"
+    },
+    "support": "Existing Oct22 accepted ticket; no new feedback or email",
+    "url_checks_this_goal": 1,
+    "index_requests": 0,
+    "search_submissions": 0,
+    "next_step": "Wait for existing official response or changed native crawl/index evidence; do not resubmit"
+  },
+  "sogou": {
+    "checked_at": "2026-10-23T06:13:27.246Z",
+    "login": "RECOVERED_VERIFIED",
+    "site": "www.eliai.cn",
+    "ownership": "已验证根目录",
+    "role": "高级管理员",
+    "verification_date_display": "2026-10-16",
+    "native_index_notice": "查询站点暂时没有收录和索引数据",
+    "index_total": "UNKNOWN",
+    "new_registration": 0,
+    "new_verification": 0,
+    "submission_count": 0,
+    "historical_submission": "60 accepted URLs; historical batch4 outcomeUNKNOWN, do not resend",
+    "qualification_upgrade": "Not performed; optional flow not needed to restore existing admin report",
+    "next": "Observe native index report; no duplicate account/site/URL submissions"
+  },
+  "toutiao": {
+    "checked_at": "2026-10-23T06:13:48.492Z",
+    "login": "Existing authenticated account",
+    "site": "www.eliai.cn",
+    "sitemap": {
+      "url": "https://www.eliai.cn/sitemap.xml",
+      "state": "正常",
+      "urls": 294,
+      "submitted_display": "2026-10-17 15:00:40",
+      "last_crawl_display": "2026-10-22 05:39:34",
+      "timezone": "UNKNOWN"
+    },
+    "index": "Today native index report explicitly not indexed; reused same-day evidence",
+    "official_note": "Submission tool accelerates crawl but cannot determine or guarantee indexing",
+    "support_contact": "Official contact page gives webmaster feedback email; no new email sent or feedback created because no new concrete submission failure",
+    "new_registration": 0,
+    "search_submissions": 0,
+    "next": "Wait for index/crawl evidence; contact official support if a concrete processing/crawl failure appears"
+  },
+  "yandex": {
+    "checked_at": "2026-10-23T06:15:47.365Z",
+    "site": "https://www.eliai.cn",
+    "login": "Existing session",
+    "ownership": "Existing verified owner per original receipt; no new verification or registration",
+    "current_notice": "Sitemap files tool is in read-only mode; cannot add or submit for recrawling; engineers restoring service",
+    "add_disabled": true,
+    "index_total": "UNKNOWN; current report data delayed/unavailable",
+    "new_registration": 0,
+    "submissions": 0,
+    "website_changes": 0,
+    "next": "Only platform restoration enables any further action; do not bypass disabled Add or create duplicate property"
+  },
+  "actions": {
+    "new_accounts": 0,
+    "new_site_registrations": 0,
+    "website_changes": 0,
+    "sitemap_or_url_submissions": 0,
+    "index_requests": 0,
+    "feedback_submissions_accepted_this_run": 2,
+    "emails_sent": 0,
+    "forum_posts": 0,
+    "identity_materials_uploaded": 0,
+    "new_legal_terms_accepted": 0,
+    "paid_resources": 0
+  },
+  "remaining_user_actions": [],
+  "completion_boundary": "Do not call all platforms indexed or all onboarding resolved; Baidu/360 original issues await official handling, Bing awaits existing support/crawl, Sogou/Toutiao await index data, Yandex platform restore required",
+  "remaining_authorized_controllable_actions": [],
+  "external_followup_owner": "Existing seo daily automation, unchanged schedule; no duplicate monitor",
+  "completed_at": "2026-10-23T06:19:18.200Z"
+}

@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-10-22T10:44:43.189642+00:00",
+  "status": "PUBLISHED_AND_VERIFIED",
+  "change": "Exact /cases/ HTTP301 to /records.html only",
+  "config_sha256": "5eb89e90bbe3def108a216fcb86f3ce778ed9f9667b53a033975aa3cb6a91352",
+  "backup": "/srv/eli-sites/portfolio/backups/20261022-cases-redirect/portfolio-domain-pending.before.conf",
+  "redirect": {
+    "status": 301,
+    "location": "https://www.eliai.cn/records.html"
+  },
+  "follow": {
+    "final_url": "https://www.eliai.cn/records.html",
+    "status": 200
+  },
+  "website_content_revision": "cc132dc0e7da5cecf41d",
+  "website_content_files_changed": 0,
+  "server_public_files_verified": 369,
+  "independent_unchanged_public_page_checks": 22,
+  "browser_observations": 6,
+  "directory_protection": "autoindex off unchanged",
+  "other_config_hashes_unchanged": true,
+  "service_pids_unchanged": true,
+  "nginx_reload_count": 1,
+  "search_submissions": 0,
+  "request_indexing": 0,
+  "validate_fix": 0,
+  "emails": 0,
+  "own_qa": true,
+  "remaining_bare_directory_403": [
+    "/articles/",
+    "/en/articles/",
+    "/en/cases/",
+    "/services/",
+    "/en/services/"
+  ],
+  "remaining_directories_changed": false,
+  "google_report_cleared": "NOT_YET_CONFIRMED; no platform submission or validation requested",
+  "report": "report.md"
+}

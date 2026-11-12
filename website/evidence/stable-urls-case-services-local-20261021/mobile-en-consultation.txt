@@ -1,0 +1,94 @@
+Browser tab: 9, Title: "About Eli | FDE Approach & Free AI Consultation", URL: "http://127.0.0.1:4178/en/about.html#contact".
+1 AXWebArea About Eli | FDE Approach & Free AI Consultation, URL: 127.0.0.1:4178/en/about.html#contact
+	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/about.html#main
+	3 container
+		4 link Description: Eli home, Value: 127.0.0.1:4178/en/index.html
+		5 container Main navigation
+			6 link Description: Home, Value: 127.0.0.1:4178/en/index.html
+			7 link Description: Projects, Value: 127.0.0.1:4178/en/records.html
+			8 link Description: Articles, Value: 127.0.0.1:4178/en/articles.html
+			9 link Description: About, Value: 127.0.0.1:4178/en/about.html
+			10 link Description: Switch to Chinese, Value: 127.0.0.1:4178/about.html
+	11 container main
+		12 container
+			13 text FDE · Forward deployed engineer
+			14 heading About me, Value: 1
+				15 text About me
+			16 text Help businesses put AI to work day to day.
+			17 link Description: Let’s talk, Value: 127.0.0.1:4178/en/about.html#contact, ID: eli-consult-entry-1
+			18 text Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed. You don't need to understand AI or have a complete plan. We can start with one task that takes up too much of your time. The initial consultation is free; if you decide to move forward with implementation, we'll agree on the scope and fees before work begins.
+			19 image Robot visual illustration
+			20 container
+				21 text Build software when needed.
+				22 button Reveal the image , Help: Reveal the image, then watch the dither return
+		23 container contact
+			24 text Not sure where to start? Let’s talk.
+			25 text WeChat, phone or email all work. Just describe the situation in your own words.
+			26 text A way to start
+			27 text Hi, I work in ___. The task taking the most time is ___. Could we look at a simple way to improve it?
+			28 container wechat
+				29 heading WeChat, Value: 3
+					30 text WeChat
+				31 link Description: Enlarge WeChat QR code, Value: 127.0.0.1:4178/assets/wechat-qr.png, ID: eli-consult-wechat-1
+				32 text On your phone, press and hold to recognize the code, or open and save the image, then select it from your album in WeChat Scan.
+			33 text Email
+			34 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			35 text Phone
+			36 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+			37 text WhatsApp
+			38 link Description: [REDACTED_PHONE] ↗, Value: wa.me/[REDACTED_PHONE], ID: eli-consult-whatsapp-1
+		39 container How we work together, ID: fde
+			40 heading How we work together, Value: 2, ID: fde-title
+				41 text How we work together
+			42 content list
+				43 container
+					44 heading Find the problem, Value: 4
+						45 text Find the problem
+					46 text Find the task that takes the most time.
+					47 button (collapsed) See the approach, Secondary Actions: Expand
+						48 text See the approach
+				49 container
+					50 heading Try a small change, Value: 4
+						51 text Try a small change
+					52 text Try one tool or one workflow.
+					53 button (collapsed) See the approach, Secondary Actions: Expand
+						54 text See the approach
+				55 container
+					56 heading Put it into practice, Value: 4
+						57 text Put it into practice
+					58 text Follow usage feedback after handover.
+					59 button (collapsed) See the approach, Secondary Actions: Expand
+						60 text See the approach
+		61 container Working together, ID: questions
+			62 heading Working together, Value: 2, ID: questions-title
+				63 text Working together
+			64 button (collapsed) Want AI, but unsure where to start?, Secondary Actions: Expand
+				65 text Want AI, but unsure where to start?
+			66 button (collapsed) How do we proceed and estimate cost?, Secondary Actions: Expand
+				67 text How do we proceed and estimate cost?
+			68 button (collapsed) Do we need to build a whole system?, Secondary Actions: Expand
+				69 text Do we need to build a whole system?
+	70 container
+		71 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/en/index.html
+		72 container Contact details
+			73 text Email
+			74 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-2
+			75 text Phone
+			76 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-2
+		77 container Page navigation
+			78 link Description: Projects ↗, Value: 127.0.0.1:4178/en/records.html
+			79 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/about.html#main
+		80 container Social profiles
+			81 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			82 link Description: Bilibili, Value: space.bilibili.com/432834855
+			83 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			84 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			85 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			86 link Description: X, Value: x.com/cczij1112
+			87 link Description: Weibo, Value: weibo.com/u/7720929036
+			88 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			89 link Description: Instagram, Value: instagram.com/eliaifde/
+			90 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		91 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea About Eli | FDE Approach & Free AI Consultation, URL: 127.0.0.1:4178/en/about.html#contact

@@ -1,0 +1,111 @@
+{
+  "time": "2026-10-16T07:15:52.212719+00:00",
+  "scope": "Baidu analytics continuation verification; all evidence retained, no production-code mutation",
+  "files": [
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/collection-network.json",
+      "bytes": 3441,
+      "sha256": "677bf32bd4872ace83a1a43af751164de875e0f9ee54653b2e93370fb5a25d2c"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/contact-mobile.png",
+      "bytes": 30227,
+      "sha256": "5216f146c43440d10f80f70cac1710c32fa53693f49312e0cbc821d476dfff74"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/conversions-final.json",
+      "bytes": 668,
+      "sha256": "1be34aefb5ccb53289ad69045cc1d380daa22ac0ddf50d1082953b899630721c"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/conversions-final.png",
+      "bytes": 102943,
+      "sha256": "0d7c78130133349e922e2e19e38d4d95d820f4c1b7f7d7c7b0669ce831ad038f"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/conversions-initial.png",
+      "bytes": 103057,
+      "sha256": "c24a543ac7a79736f406928cd0184a17137645d885ee5cd0094adf45321167c9"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/fresh-sdk-response.json",
+      "bytes": 206,
+      "sha256": "891c7483c6269eac284f166b66663a2ed3ed4031844ff27dbdc20d671665cf5e"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/fresh-sdk.js",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/goal-rule-check.json",
+      "bytes": 223,
+      "sha256": "f76826379163dfa6583d870d27e57d1f8e37e855a70d75dcf42c3ac0fdba2ec2"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/official-sdk-comparison.json",
+      "bytes": 197,
+      "sha256": "def015e10d8845707bac3d874c006517e56448afadda962a6fdf4f42bd4f8682"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/overview-final.json",
+      "bytes": 1886,
+      "sha256": "9fbd3c909e432b99177307d2d6f0a63558139f0b64d5a985f9eb684631479155"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/overview-final.png",
+      "bytes": 89465,
+      "sha256": "7a854c243c9dfdb44bc2789254dda6280e9538ae64f0f7ee546702cc817952fe"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/overview-populated.json",
+      "bytes": 1866,
+      "sha256": "a0f5d9d0e56ae4ef5ee3602db0510353ebdb0e1eb867273d07057bc2d7f95a6c"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/overview-populated.png",
+      "bytes": 89307,
+      "sha256": "cb62f16db059d928f74f35a5cffa3911de3471f4401a54759814ab0bfb58a470"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/realtime-source.json",
+      "bytes": 258,
+      "sha256": "70fba6b3363b8c5819747ba0cde40ee87f92d983155f2479f4e5b53cecde7bdb"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/realtime-source.png",
+      "bytes": 91161,
+      "sha256": "8ae1f4d978f253ffe7abba23d2368834c85bc752d7dd0d9690ac1d47142c2b2c"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/receipt.json",
+      "bytes": 2498,
+      "sha256": "6adc212186f9f729817583045defbcd9cc2d84b72af134f7290f3c596c08b6ff"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/request-context-comparison.json",
+      "bytes": 552,
+      "sha256": "8eff72688c7af906b08bd35f1421ee5b554972aa675e8036deb67e013da389b6"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/sdk-config-followup.json",
+      "bytes": 406,
+      "sha256": "7fcb16bf2eb95776d236b1e6112a0619407d1fc5dc7a345779b9bbcf3523e531"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/valid-public-sdk-all-goals.js",
+      "bytes": 30167,
+      "sha256": "8e779181957cd8e06a19e74d401336f1012bc5ced522bf06832e649955398a2f"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/valid-public-sdk.js",
+      "bytes": 30135,
+      "sha256": "98e4c8c7f5ee253ad81a73864008c978e99c05b33d4ca3fc263a0c9c47f1fe13"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016/wechat-native-network.json",
+      "bytes": 633,
+      "sha256": "a10b42d0ceac4b8d88cca25d3cbafa0be4a16eedc57aa4164f8bf0b56df103cf"
+    }
+  ]
+}

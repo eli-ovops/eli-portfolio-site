@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-22T02:09:14.754Z",
+  "native_urls": {
+    "google": "https://search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F",
+    "bing": "https://www.bing.com/webmasters/urlinspection?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&urlToInspect=https%253A%252F%252Fwww.eliai.cn%252Fservices%252Fworkflow-automation.html",
+    "baidu": "https://ziyuan.baidu.com/keywords/mobile?site=https%3A%2F%2Fwww.eliai.cn%2F",
+    "sogou": "https://zhanzhang.sogou.com/index.php/analysis/index",
+    "toutiao": "https://zhanzhang.toutiao.com/page/inner/data/index",
+    "yandex": "https://webmaster.yandex.com/site/https:www.eliai.cn:443/indexing/searchable/?nodeId=47&samplesType=event",
+    "so360": "https://zhanzhang.so.com/sitetool/includenum"
+  },
+  "sessions": "Existing logins usable; no challenge or terms accepted",
+  "url_inspections": {
+    "bing": 1,
+    "google": 0,
+    "baidu": 0
+  },
+  "own_tests": {
+    "new_active_model_queries": 0,
+    "new_keyword_searches": 0,
+    "new_public_site_qa": 0
+  },
+  "scope": "Only native webmaster reports and Windsor read calls"
+}

@@ -1,0 +1,80 @@
+{
+  "checked_at": "2026-10-18T14:03:29.949917+08:00",
+  "status": "LOCAL_READY_FOR_USER_REVIEW_NOT_PUBLISHED",
+  "local_revision": "066456f5df9368a90560",
+  "article_topics_reviewed": 102,
+  "language_variants_reviewed": 204,
+  "topics_changed": 57,
+  "descriptions_changed": 114,
+  "topics_retained": 45,
+  "sitemap_urls": 294,
+  "lastmod_distribution": {
+    "2026-10-17": 180,
+    "2026-10-18": 114
+  },
+  "unchanged_visible_page_bodies": 296,
+  "protected_css_js": 28,
+  "normal_rebuild_stability": {
+    "status": "PASS",
+    "files_identical": 379,
+    "date_ledger_identical": true,
+    "explicit_update_flag_used": false
+  },
+  "browser": {
+    "desktop_and_phone_width": true,
+    "phone_configured_width": 400,
+    "phone_document_width": 385,
+    "no_horizontal_overflow": true,
+    "bilingual_roundtrip": true,
+    "articles_in_listing": 102,
+    "limits": "Browser viewport emulation; no physical phone test; motion source and page body equality checked, not a new animation redesign"
+  },
+  "local_http_checks": [
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "x_robots_tag": "noindex, nofollow"
+    },
+    {
+      "path": "articles/agent-tools-permissions.html",
+      "status": 200,
+      "x_robots_tag": "noindex, nofollow"
+    },
+    {
+      "path": "en/articles/agent-tools-permissions.html",
+      "status": 200,
+      "x_robots_tag": "noindex, nofollow"
+    }
+  ],
+  "preview_server": {
+    "session_id": 13237,
+    "url": "http://127.0.0.1:4178",
+    "command": "python3 scripts/serve.py --port 4178",
+    "note": "Local loopback preview only; noindex response header retained"
+  },
+  "production_deployments": 0,
+  "search_submissions": 0,
+  "new_dependencies": 0,
+  "source_changes": [
+    "scripts/seo.py",
+    "scripts/build.py",
+    "scripts/page_updates.py",
+    "scripts/check_article_metadata.py",
+    "content/article-search-descriptions.json",
+    "content/page-updates.json",
+    "site.yaml",
+    "docs/文章摘要与更新日期本地预览-20261018.md"
+  ],
+  "artifacts": {
+    "browser-checks.json": "e3114c7d4e733e93910da8456249a4be3479a94528c67b4f7d9f2c045f14a110",
+    "english-mobile.png": "e7008354e1e690ff104667bc4d13b01f5bf6fdb4961de960e426aa9a365926c8",
+    "metadata-checks.json": "48146dede575f2be2ceffda99de7e3895f8e214bf637d49a7b6b90cd0a10a486",
+    "tutorial-regression.json": "c4e4d24fb65b39f099c4f7f5ed02af56bd2949e802e32747a15a87e234abed0c",
+    "rebuild-stability.json": "61fcd68b392211a5c68164a1b8aeda1320287fa2c2bd130991f3714acdd9c111",
+    "chinese-mobile.png": "4a1d36828f655d9eaec90ce03a1783649c0bb740aa5fe92ec863d29beb90bf4b",
+    "edited-descriptions.json": "b428b5c002a25004bc3cd8eeb7c18ed8e99eb2cd54be06a65de9060ed6ba1d9a",
+    "bilingual-description-review.json": "e56f3a8549b007e2a4392ffdf88495e477eb15e3d0ac6d0cc942f67f4b936cc9",
+    "baseline.json": "4ebe550072164175032cc59833d09b05cbd0ccaa7722821918965411d591823b",
+    "initial-date-evidence.json": "0aa86a70d6aa99ce6cd3706e8c87d1f151a57549e6bcb97f00756c43caa3eb5e"
+  }
+}

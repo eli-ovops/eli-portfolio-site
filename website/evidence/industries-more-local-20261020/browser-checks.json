@@ -1,0 +1,162 @@
+{
+  "revision": "268e5436590ad1bbc363",
+  "checkedAt": "2026-10-20T11:42:12.469Z",
+  "observations": [
+    {
+      "check": "Final English390 more open",
+      "children": [
+        {
+          "id": "industry-education-training",
+          "open": false,
+          "toggle": "none"
+        },
+        {
+          "id": "industry-food-multi-location",
+          "open": false,
+          "toggle": "none"
+        },
+        {
+          "id": "industry-tourism-hospitality",
+          "open": false,
+          "toggle": "none"
+        },
+        {
+          "id": "industry-events-exhibitions",
+          "open": false,
+          "toggle": "none"
+        },
+        {
+          "id": "industry-software-technology",
+          "open": false,
+          "toggle": "none"
+        },
+        {
+          "id": "industry-agri-food",
+          "open": false,
+          "toggle": "none"
+        }
+      ],
+      "mainCount": 9,
+      "moreOpen": true,
+      "newCaseLinks": 0,
+      "scrollWidth": 375,
+      "url": "http://127.0.0.1:4178/en/index.html?pv=268e5436590ad1bbc363#industry-more",
+      "width": 390
+    },
+    {
+      "check": "Final English additional industry consultation",
+      "contact": true,
+      "lang": "en",
+      "scrollWidth": 375,
+      "url": "http://127.0.0.1:4178/en/about.html?pv=268e5436590ad1bbc363#contact",
+      "width": 390
+    },
+    {
+      "check": "Final home EN to ZH",
+      "lang": "zh-CN",
+      "mainCount": 9,
+      "moreCount": 6,
+      "url": "http://127.0.0.1:4178/index.html?pv=268e5436590ad1bbc363#industry-more"
+    },
+    {
+      "check": "Final logistics to inventory service",
+      "lang": "zh-CN",
+      "scrollWidth": 345,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=268e5436590ad1bbc363",
+      "width": 360
+    },
+    {
+      "check": "Final Chinese consultation reached",
+      "contact": true,
+      "lang": "zh-CN",
+      "scrollWidth": 345,
+      "url": "http://127.0.0.1:4178/about.html?pv=268e5436590ad1bbc363#contact",
+      "width": 360
+    },
+    {
+      "name": "Final Chinese360 all six expanded",
+      "result": {
+        "children": [
+          {
+            "contentInside": true,
+            "id": "industry-education-training",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-food-multi-location",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-tourism-hospitality",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-events-exhibitions",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-software-technology",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-agri-food",
+            "insideParent": true,
+            "open": true
+          }
+        ],
+        "height": "",
+        "open": true,
+        "overflow": "visible",
+        "scrollWidth": 345,
+        "width": 360
+      }
+    },
+    {
+      "name": "Final outer collapse settled",
+      "result": {
+        "focus": true,
+        "height": "",
+        "open": false
+      }
+    },
+    {
+      "name": "Final home ZH to EN",
+      "result": {
+        "language": "en",
+        "main": 9,
+        "more": 6,
+        "scrollWidth": 345,
+        "url": "http://127.0.0.1:4178/en/index.html?pv=268e5436590ad1bbc363#industry-more",
+        "width": 360,
+        "mainCountNote": "Initial observer selector expected an extra container; corrected to details outside #industry-more. Both generated language pages verified nine in scope checks."
+      }
+    },
+    {
+      "name": "Final desktop1440 nested expansion",
+      "result": {
+        "closedToggleStyles": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "educationOpen": true,
+        "parentOpen": true,
+        "scrollWidth": 1425,
+        "url": "http://127.0.0.1:4178/index.html?pv=268e5436590ad1bbc363#industry-more",
+        "width": 1440
+      }
+    }
+  ]
+}

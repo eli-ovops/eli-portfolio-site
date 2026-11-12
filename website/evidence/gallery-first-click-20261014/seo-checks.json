@@ -1,0 +1,20 @@
+{
+  "html_pages": 84,
+  "unique_titles": 84,
+  "unique_descriptions": 84,
+  "paired_hreflang": "PASS",
+  "self_canonical": "PASS",
+  "structured_data": "82 valid JSON graphs",
+  "same_as_existing_profiles": "PASS",
+  "project_lists": "2 x 38",
+  "case_breadcrumbs": 76,
+  "visible_bilingual_questions": "PASS",
+  "visible_service_consistency": "2 x 4 Service nodes PASS",
+  "faq_consistency": "2 x 3 answers PASS",
+  "ai_context": "PRIVATE candidate only; same-source; future-domain dry run PASS",
+  "share_images": "Existing visitor images only",
+  "candidate_sitemap_urls": 82,
+  "indexing": "DISABLED",
+  "body_scope": "Not compared; no batch baseline supplied",
+  "future_domain_dry_run": "PASS"
+}

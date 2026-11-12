@@ -1,0 +1,89 @@
+{
+  "logs": [
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerdown\",\"target\":\"BUTTON\",\"cls\":\"\",\"action\":\"prev\",\"x\":1125,\"y\":410,\"prevY\":387.578125,\"nextY\":387.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:00:10.047Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerup\",\"target\":\"BUTTON\",\"cls\":\"\",\"action\":\"prev\",\"x\":1125,\"y\":410,\"prevY\":387.578125,\"nextY\":387.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:00:10.051Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"click\",\"target\":\"BUTTON\",\"cls\":\"\",\"action\":\"prev\",\"x\":1125,\"y\":410,\"prevY\":387.578125,\"nextY\":387.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:00:10.051Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"go\",\"value\":-1,\"ready\":true,\"count\":7,\"position\":0}",
+      "timestamp": "2026-10-14T12:00:10.051Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerdown\",\"target\":\"A\",\"cls\":\"\",\"action\":\"other\",\"x\":1088,\"y\":40,\"prevY\":1275.578125,\"nextY\":1275.578125,\"position\":\"6.000\"}",
+      "timestamp": "2026-10-14T12:00:42.234Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerup\",\"target\":\"A\",\"cls\":\"\",\"action\":\"other\",\"x\":1088,\"y\":40,\"prevY\":1275.578125,\"nextY\":1275.578125,\"position\":\"6.000\"}",
+      "timestamp": "2026-10-14T12:00:42.237Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"click\",\"target\":\"A\",\"cls\":\"\",\"action\":\"other\",\"x\":1088,\"y\":40,\"prevY\":1275.578125,\"nextY\":1275.578125,\"position\":\"6.000\"}",
+      "timestamp": "2026-10-14T12:00:42.237Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerdown\",\"target\":\"A\",\"cls\":\"\",\"action\":\"other\",\"x\":1088,\"y\":40,\"prevY\":1275.578125,\"nextY\":1275.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:02:15.817Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerup\",\"target\":\"A\",\"cls\":\"\",\"action\":\"other\",\"x\":1088,\"y\":40,\"prevY\":1275.578125,\"nextY\":1275.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:02:15.819Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"click\",\"target\":\"A\",\"cls\":\"\",\"action\":\"other\",\"x\":1088,\"y\":40,\"prevY\":1275.578125,\"nextY\":1275.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:02:15.819Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerdown\",\"target\":\"BUTTON\",\"cls\":\"\",\"action\":\"prev\",\"x\":1125,\"y\":410,\"prevY\":387.578125,\"nextY\":387.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:02:34.002Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"pointerup\",\"target\":\"BUTTON\",\"cls\":\"\",\"action\":\"prev\",\"x\":1125,\"y\":410,\"prevY\":387.578125,\"nextY\":387.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:02:34.007Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"click\",\"target\":\"BUTTON\",\"cls\":\"\",\"action\":\"prev\",\"x\":1125,\"y\":410,\"prevY\":387.578125,\"nextY\":387.578125,\"position\":\"0.000\"}",
+      "timestamp": "2026-10-14T12:02:34.007Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    },
+    {
+      "level": "debug",
+      "message": "GALLERY_QA {\"kind\":\"go\",\"value\":-1,\"ready\":true,\"count\":7,\"position\":0}",
+      "timestamp": "2026-10-14T12:02:34.007Z",
+      "url": "http://127.0.0.1:4178/assets/depth-gallery.js?v=7db528108c2f"
+    }
+  ],
+  "clarification": "Navigation arrival is checked at DOMContentLoaded; no wait for transition completion before first button click."
+}

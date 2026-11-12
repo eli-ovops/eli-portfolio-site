@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "production_baseline": "fcafe9ca8a0e904465b2",
+  "combined_local_revision": "87919417171750dd1242",
+  "changed_visible_html_vs_production": [
+    "articles/ai-ocr-check.html",
+    "articles/workbuddy-spreadsheet.html",
+    "cases/p02.html",
+    "cases/p05.html",
+    "en/articles/ai-consultation-prepare.html",
+    "en/articles/ai-ocr-check.html",
+    "en/articles/what-is-fde-business.html",
+    "en/articles/workbuddy-spreadsheet.html",
+    "en/cases/p02.html",
+    "en/cases/p05.html"
+  ],
+  "other_bodies_unchanged": 286,
+  "parent_scope_preserved": true,
+  "sampled_image_frame_dimensions_unchanged": true,
+  "browser_observations": 10
+}

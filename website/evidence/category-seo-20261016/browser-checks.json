@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-16T05:16:05.965Z",
+  "mobile": [
+    {
+      "heading": "企业 AI Agent 与知识库应用",
+      "motion": "ready",
+      "scrollWidth": 375,
+      "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=1a6a0df784bed430f94a",
+      "width": 390
+    },
+    {
+      "heading": "企业提效，从一项重复工作开始",
+      "motion": "ready",
+      "scrollWidth": 375,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=1a6a0df784bed430f94a",
+      "width": 390
+    },
+    {
+      "heading": "Business AI agents and knowledge assistants",
+      "motion": "ready",
+      "scrollWidth": 305,
+      "url": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=1a6a0df784bed430f94a",
+      "width": 320
+    }
+  ],
+  "desktopFde": {
+    "width": 1280,
+    "height": 720,
+    "overflow": false,
+    "consultation": "about.html#contact visible at top 180",
+    "back": "FDE service restored"
+  },
+  "englishMobileConsultation": {
+    "width": 320,
+    "contactTop": 302
+  },
+  "limitations": "Browser viewport simulation; no physical device test. No rankings claimed. No deployment.",
+  "final_revision": "3c10621159cf41dc3542",
+  "final_agent_mobile": {
+    "width": 390,
+    "scrollWidth": 375,
+    "motion": "ready",
+    "errors_or_warnings": []
+  },
+  "final_service_navigation": {
+    "active_top_nav": [],
+    "desktop_width": 1280,
+    "overflow": false
+  },
+  "service_case_return": {
+    "case": "cases/p10.html",
+    "case_title_confirmed": true,
+    "browser_back": "services/fde-consulting.html",
+    "success": true
+  },
+  "viewport_override": "CLEARED"
+}

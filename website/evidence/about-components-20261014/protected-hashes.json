@@ -1,0 +1,15 @@
+{
+  "motion.css": true,
+  "motion.js": true,
+  "app.js": true,
+  "assets/depth-gallery.js": true,
+  "assets/page-version.js": true,
+  "assets/screenshot-viewer.js": true,
+  "content/seo.json": true,
+  "content/projects.json": true,
+  "content/profile.json": true,
+  "content/en.json": true,
+  "content/case-examples.json": true,
+  "templates/home.html": true,
+  "styles.css": true
+}

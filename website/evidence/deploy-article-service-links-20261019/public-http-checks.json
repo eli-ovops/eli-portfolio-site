@@ -1,0 +1,86 @@
+[
+  {
+    "path": "articles/ai-inventory-exceptions.html",
+    "status": 200,
+    "sha256": "fcabe4d8569dacde83e91be68410452ec6119a2c1df28564a1ef617e9583b98d",
+    "matches_package": true
+  },
+  {
+    "path": "articles/ai-spreadsheet-cleaning.html",
+    "status": 200,
+    "sha256": "831bcbaaa750f2c2a272ac70ca201b4d06a2556f2cfbc9a32f9d431e52f912da",
+    "matches_package": true
+  },
+  {
+    "path": "articles/ai-knowledge-base-start.html",
+    "status": 200,
+    "sha256": "bd162da98f2cbb7ceaa38b2be52b9d5307845166196f0f27209f04a838445de9",
+    "matches_package": true
+  },
+  {
+    "path": "articles/rag-explained.html",
+    "status": 200,
+    "sha256": "a44d87f8d898f4351d3f05c635ae39fde272d9db870f2b6dbdb01990162d1780",
+    "matches_package": true
+  },
+  {
+    "path": "articles/fine-tuning-or-rag.html",
+    "status": 200,
+    "sha256": "85b95f0200d89e614c9132b1c2b80a1135f1909952bbead5919c827dbeaedb20",
+    "matches_package": true
+  },
+  {
+    "path": "en/articles/ai-inventory-exceptions.html",
+    "status": 200,
+    "sha256": "d374617357e7ce485fe0539d6e6e270ba875351bee56e8276e5bda22b60d9151",
+    "matches_package": true
+  },
+  {
+    "path": "en/articles/ai-spreadsheet-cleaning.html",
+    "status": 200,
+    "sha256": "e7c0fa4ff7399509204c10e35db9c0fde4f155582b29fce098f5dd0282d99bf1",
+    "matches_package": true
+  },
+  {
+    "path": "en/articles/ai-knowledge-base-start.html",
+    "status": 200,
+    "sha256": "877c60d18f8c839e80e9f574fb33977af495b9454b93222fac94544d0dfc3cd1",
+    "matches_package": true
+  },
+  {
+    "path": "en/articles/rag-explained.html",
+    "status": 200,
+    "sha256": "0848f8e5852161386ebc923b5f16746feae8e2012b85cf843f9b4f357f37e024",
+    "matches_package": true
+  },
+  {
+    "path": "en/articles/fine-tuning-or-rag.html",
+    "status": 200,
+    "sha256": "c12e31d4ff215908e8dde92ddc8be322bdfdf196342dc41787f90c0cd92f3a3d",
+    "matches_package": true
+  },
+  {
+    "path": "styles.css",
+    "status": 200,
+    "sha256": "ff8dec1f16a392b51ad667c0e4b5cebd9f16fdfb7097ae74e1cbd69eb86cbf40",
+    "matches_package": true
+  },
+  {
+    "path": "motion.js",
+    "status": 200,
+    "sha256": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+    "matches_package": true
+  },
+  {
+    "path": "sitemap.xml",
+    "status": 200,
+    "sha256": "c0239893d8a0576dfa493c2f3b028effe631cff59aa3f3c291ff31628bfe1e06",
+    "matches_package": true
+  },
+  {
+    "path": "llms.txt",
+    "status": 200,
+    "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+    "matches_package": true
+  }
+]

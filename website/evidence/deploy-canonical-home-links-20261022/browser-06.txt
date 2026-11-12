@@ -1,0 +1,138 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: /
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: /
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: ../en/cases/p36.html
+      - text: EN
+- main:
+  - link "← 返回首页案例":
+    - /url: https://www.eliai.cn/?project=p36#work
+  - generic: 客户项目
+  - heading "英国某净水品牌 RAG 智能客服定制" [level=1]:
+    - generic: 英国某净水品牌 RAG 智能客服定制
+  - paragraph: 团队定制与交付
+  - paragraph: 面向独立站的产品与品牌知识查询，提供问答输入、快捷支持和联系入口。
+  - figure "查看图片 ↗":
+    - link "放大截图：英国某净水品牌 RAG 智能客服定制":
+      - /url: ../assets/public-cases/p36.png
+      - img "英国某净水品牌 RAG 智能客服定制脱敏界面展示"
+    - link "查看图片 ↗":
+      - /url: ../assets/public-cases/p36.png
+  - term: 我的工作
+  - definition: 知识库整理、检索配置与测试
+  - term: 页面记录
+  - definition: 客服初始界面与入口
+  - complementary:
+    - heading "内容概览" [level=2]
+    - navigation "案例内容":
+      - link "项目背景":
+        - /url: "#why"
+      - link "承担职责":
+        - /url: "#role"
+      - link "工作内容":
+        - /url: "#outputs"
+      - link "实施方法":
+        - /url: "#process"
+      - link "交付与反馈":
+        - /url: "#result"
+      - link "职责与页面记录":
+        - /url: "#evidence"
+  - heading "项目背景" [level=2]
+  - paragraph: 独立站访客需要查询净水产品与品牌知识。
+  - heading "承担职责" [level=2]
+  - paragraph: 我负责知识库整理、检索配置与测试。版本备份、上线及升级回滚准备由团队负责。
+  - heading "工作内容" [level=2]
+  - paragraph: 客服界面提供欢迎信息、快捷支持、问答输入和联系入口。
+  - heading "实施方法" [level=2]
+  - paragraph: 团队基于成熟底座定制，项目由咨询范围梳理、知识库与检索配置，推进至演示、客户确认和上线实测。
+  - heading "交付与反馈" [level=2]
+  - paragraph: 据本人项目说明，约两个月完成交付；回答准确率和客服效率没有量化数据。
+  - heading "职责与页面记录" [level=2]
+  - paragraph: 已有本人项目说明及客服初始界面记录，可查看欢迎信息、快捷支持、问答输入和联系入口。回答质量与检索效果需要对应问答和检索记录支持。
+  - paragraph:
+    - link "企业客户项目合作 ↗":
+      - /url: /cases/p01.html?from=%2F%3Fproject%3Dp36%23work
+  - paragraph:
+    - link "英国某净水品牌全域营销 ↗":
+      - /url: /cases/p05.html?from=%2F%3Fproject%3Dp36%23work
+  - region "聊聊你的业务":
+    - heading "聊聊你的业务" [level=2]
+    - paragraph: 不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。
+    - paragraph:
+      - link "查看企业知识库搭建服务":
+        - /url: ../services/ai-agent.html
+        - text: 查看企业知识库搭建服务
+        - generic: ↗
+    - link "免费聊聊":
+      - /url: ../about.html#contact
+      - text: 免费聊聊
+      - generic: ↗
+  - link "更多项目":
+    - /url: ../records.html
+    - text: 更多项目
+    - generic: ↗
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: /
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

@@ -1,0 +1,12 @@
+{
+  "revision": "fcafe9ca8a0e904465b2",
+  "presentation_hashes_unchanged": 32,
+  "content_changed_only": [
+    "en/index.html",
+    "index.html"
+  ],
+  "bilingual_mapping": "unchanged; 8 industries, 7 related-work groups, 10 case links each",
+  "new_outcome_claims": false,
+  "deployment": false,
+  "search_submissions": 0
+}

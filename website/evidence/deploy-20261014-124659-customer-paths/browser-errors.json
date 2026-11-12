@@ -1,0 +1,50 @@
+[
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T04:49:31.078Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/cases/p04.html?pv=54cb0f82f519d608da59&from=%2Fsites%2Fportfolio%2Frecords.html%3Fpv%3D54cb0f82f519d608da59%26q%3D%25E8%25BF%259B%25E9%2594%2580%25E5%25AD%2598%26category%3D%25E5%25AE%25A2%25E6%2588%25B7%25E5%258F%2582%25E4%25B8%258E%26return%3Dp10"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T04:49:46.531Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=54cb0f82f519d608da59&q=%E8%BF%9B%E9%94%80%E5%AD%98&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E"
+  },
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "timestamp": "2026-10-14T04:50:15.732Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/index.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T04:50:24.581Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T04:51:21.486Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/about.html?pv=54cb0f82f519d608da59#contact"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T04:52:07.503Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "AbortError: Transition was skipped. skipTransition() called",
+    "timestamp": "2026-10-14T04:52:50.201Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=54cb0f82f519d608da59"
+  },
+  {
+    "level": "error",
+    "message": "InvalidStateError: Transition was aborted because of invalid state. ViewTransition opt-in disabled",
+    "timestamp": "2026-10-14T04:53:05.148Z",
+    "url": "http://[REDACTED_HOST]/sites/portfolio/index.html?pv=54cb0f82f519d608da59"
+  }
+]

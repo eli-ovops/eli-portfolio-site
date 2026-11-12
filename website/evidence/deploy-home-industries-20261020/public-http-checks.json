@@ -1,0 +1,144 @@
+{
+  "checked_at": "2026-10-20T15:38:00.151870+08:00",
+  "checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "45d4cf5d1fd9375aa2a421af655b2166975c8fadc9ed68b89f693acb5a4066f3",
+      "bytes": 138563,
+      "url": "https://www.eliai.cn/index.html"
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "sha256": "5b96ae5b0928dd9a9917a1ac01f2047ba12c19f50cff060addb1f1338635b166",
+      "bytes": 140297,
+      "url": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "path": "assets/industry-scenarios.css",
+      "status": 200,
+      "sha256": "ed777372969b8eecab2ff3af5455bd2295574013ee63a87ffdcef6e5eedd933b",
+      "bytes": 2548,
+      "url": "https://www.eliai.cn/assets/industry-scenarios.css"
+    },
+    {
+      "path": "assets/industry-scenarios.js",
+      "status": 200,
+      "sha256": "698c845d4f5e727ea3d74427a81f2c86d4d5610729f96770ca2472241e0a8579",
+      "bytes": 450,
+      "url": "https://www.eliai.cn/assets/industry-scenarios.js"
+    },
+    {
+      "path": "assets/depth-gallery.js",
+      "status": 200,
+      "sha256": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609",
+      "bytes": 15572,
+      "url": "https://www.eliai.cn/assets/depth-gallery.js"
+    },
+    {
+      "path": "assets/article-rotator.js",
+      "status": 200,
+      "sha256": "a94944f39968e00088ae2ae864747bc6ca9874ca513f3de11b21b284aabc1ed7",
+      "bytes": 5383,
+      "url": "https://www.eliai.cn/assets/article-rotator.js"
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256": "697bde1d1dbdf8891297ae490ef62d92569e24be2ff86d73ea78b989a4243db7",
+      "bytes": 39476,
+      "url": "https://www.eliai.cn/about.html"
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256": "eb9692d6a62828085073c6f49064e04c1e0794ac60427ea574495eb92e5ccc42",
+      "bytes": 39565,
+      "url": "https://www.eliai.cn/en/about.html"
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "sha256": "be59dc1888acfc893d44a7f35051436ee0ccbfe8ee023e3c88565a96592e2055",
+      "bytes": 36655,
+      "url": "https://www.eliai.cn/cases/p10.html"
+    },
+    {
+      "path": "en/cases/p36.html",
+      "status": 200,
+      "sha256": "4e4859dcceb002e58017d208cb335e8f6f5a81529aca0bc5bb9f98ea7bdee20d",
+      "bytes": 35732,
+      "url": "https://www.eliai.cn/en/cases/p36.html"
+    },
+    {
+      "path": "services/fde-consulting.html",
+      "status": 200,
+      "sha256": "6936557cace1da1e02c3600eab40b37015d9f9d43302fc68bfb78cdab45b9b75",
+      "bytes": 38399,
+      "url": "https://www.eliai.cn/services/fde-consulting.html"
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "status": 200,
+      "sha256": "7262bb78ea0f0c482cb12b7c087550352532a0b528c897dd99e67b2ddf9abd40",
+      "bytes": 38476,
+      "url": "https://www.eliai.cn/services/workflow-automation.html"
+    },
+    {
+      "path": "en/services/ai-agent.html",
+      "status": 200,
+      "sha256": "4df76d97e761f2c1e2da4ca07f6496c7771c7a802e008e3154c2b96e1c6f5d6d",
+      "bytes": 38142,
+      "url": "https://www.eliai.cn/en/services/ai-agent.html"
+    },
+    {
+      "path": "articles/inventory-reconciliation.html",
+      "status": 200,
+      "sha256": "0bdf66dffbfab052f4bd82454b513c0359ffb3e8dd97ca2d01dd789ff9a975ea",
+      "bytes": 59261,
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html"
+    },
+    {
+      "path": "en/articles/enterprise-knowledge-base.html",
+      "status": 200,
+      "sha256": "107221cbe624848bd4867f1b83031302b748404b6398adefbd0a7600ee3dfb82",
+      "bytes": 61678,
+      "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "sha256": "884d9678f1ea017fd23333a27ff01375ccb5a83b7b4b8335b67ecae9ec074e3b",
+      "bytes": 29449,
+      "url": "https://www.eliai.cn/sitemap.xml"
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "bytes": 65,
+      "url": "https://www.eliai.cn/robots.txt"
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+      "bytes": 6680,
+      "url": "https://www.eliai.cn/llms.txt"
+    },
+    {
+      "path": "content/industry-scenarios.json",
+      "status": 404
+    },
+    {
+      "path": "scripts/industries.py",
+      "status": 404
+    },
+    {
+      "path": "not-a-real-industry-page.html",
+      "status": 404
+    }
+  ],
+  "search_submissions": 0
+}

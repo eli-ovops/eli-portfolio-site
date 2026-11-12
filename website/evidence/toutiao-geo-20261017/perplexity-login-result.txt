@@ -1,0 +1,97 @@
+Browser tab: 25, Title: "请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来...", URL: "https://www.perplexity.ai/search/0578bcce-8fa7-4fbd-998d-58fd572a1077".
+0 AXWebArea 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来..., URL: perplexity.ai/search/0578bcce-8fa7-4fbd-998d-58fd572a1077
+	1 container
+		2 container root
+			3 container 主导航
+				4 container
+					5 container
+						6 link Description: Perplexity, Value: perplexity.ai/
+						7 button 搜索会话
+						8 button 收起侧边栏
+					9 container
+						10 link Description: 新建, Value: perplexity.ai/
+						46 text 新建
+					12 container
+						13 container
+							14 link Description: Computer, Value: perplexity.ai/computer/tasks
+							47 text Computer
+						16 container
+							17 link Description: 自动化, Value: perplexity.ai/computer/automations
+							48 text 自动化
+						19 container
+							20 link Description: 工件, Value: perplexity.ai/computer/artifacts
+							49 text 工件
+						22 container
+							23 link Description: 自定义, Value: perplexity.ai/computer/connectors
+							50 text 自定义
+						25 container
+							26 link Description: 项目, Value: perplexity.ai/projects
+							27 container
+								28 text 项目
+								29 button 创建项目
+								30 pop up button (collapsed) Description: 筛选项目, Secondary Actions: Expand
+								31 button (expanded) Description: 收起项目, Secondary Actions: Collapse
+							32 text 暂无项目
+							33 link Description: 最近, Value: perplexity.ai/library
+							34 container
+								35 text 最近
+								36 button (expanded) Description: 折叠最近记录, Secondary Actions: Collapse
+							51 container
+								52 link Value: perplexity.ai/search/0578bcce-8fa7-4fbd-998d-58fd572a1077, Description: 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+								53 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+								54 container
+									55 pop up button (collapsed) Description: 会话操作, Secondary Actions: Expand
+							56 container
+								57 link Description: 查看全部, Value: perplexity.ai/library
+								58 text 查看全部
+					38 button 查看套餐
+						39 text 查看套餐
+					40 container
+						41 button 登录
+							42 container
+								43 image
+								44 text 登录
+				45 splitter Description: 调整侧边栏宽度, Value: 240
+			59 container
+				60 tab group 回答模式标签页
+					61 tab (selected, settable, boolean) 答案, Value: 1, ID: radix-_r_4t_-trigger-default
+					62 tab (selectable, settable, boolean) 链接, Value: 0, ID: radix-_r_4t_-trigger-sources
+					63 tab (selectable, settable, boolean) 图片, Value: 0, ID: radix-_r_4t_-trigger-images
+				64 container
+					65 pop up button (collapsed) Description: 会话操作, Secondary Actions: Expand
+					66 button (disabled) 分享
+						67 text 分享
+				68 container
+					69 text 14:54
+					70 button 编辑查询
+					71 button 复制查询
+					72 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+					73 container
+						74 text 已研究 3秒
+					75 text 注册并重复您的请求。
+					76 button 复制
+					77 button 有帮助
+					78 button 没有帮助
+					79 button 复刻
+					80 pop up button (collapsed) Description: 更多操作, Secondary Actions: Expand
+					81 button 收起面板
+				82 button (collapsed) 来源, Secondary Actions: Expand
+					83 text 来源
+					84 image
+				85 container
+					86 text 登录以保存您的历史记录并访问更多功能
+					87 button 登录
+						88 text 登录
+					89 button 关闭
+				90 container
+					91 text entry area (settable) ID: ask-input, Value: 
+
+					92 pop up button (collapsed) Description: 添加文件或工具, Secondary Actions: Expand
+					93 checkbox 搜索, Value: 1, ID: radix-_r_5u_
+					94 checkbox Computer, Value: 0
+					95 pop up button (collapsed) Description: 模型, Secondary Actions: Expand
+						96 text 模型
+					97 button 语音输入
+					98 button (disabled) 提交
+
+The focused UI element is 0 AXWebArea 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来..., URL: perplexity.ai/search/0578bcce-8fa7-4fbd-998d-58fd572a1077

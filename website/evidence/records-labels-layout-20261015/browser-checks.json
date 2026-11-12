@@ -1,0 +1,372 @@
+[
+  {
+    "test": "filter 客户项目",
+    "expected": 9,
+    "count": "9 项记录",
+    "sort": "精选优先",
+    "visible": [
+      "project-p10",
+      "project-p36",
+      "project-p09",
+      "project-p04",
+      "project-p02",
+      "project-p05",
+      "project-p03",
+      "project-p07",
+      "project-p08"
+    ]
+  },
+  {
+    "test": "filter 网站与工具",
+    "expected": 8,
+    "count": "8 项记录",
+    "sort": "精选优先",
+    "visible": [
+      "project-p10",
+      "project-p09",
+      "project-p12",
+      "project-p06",
+      "project-p07",
+      "project-p08",
+      "project-p11",
+      "project-p20"
+    ]
+  },
+  {
+    "test": "filter 移动应用",
+    "expected": 9,
+    "count": "9 项记录",
+    "sort": "精选优先",
+    "visible": [
+      "project-p13",
+      "project-p14",
+      "project-p15",
+      "project-p16",
+      "project-p17",
+      "project-p18",
+      "project-p19",
+      "project-p25",
+      "project-n01"
+    ]
+  },
+  {
+    "test": "filter 内容与研究",
+    "expected": 10,
+    "count": "10 项记录",
+    "sort": "精选优先",
+    "visible": [
+      "project-p21",
+      "project-p22",
+      "project-p23",
+      "project-p24",
+      "project-p26",
+      "project-p27",
+      "project-p28",
+      "project-p29",
+      "project-p35",
+      "project-n02"
+    ]
+  },
+  {
+    "test": "filter 方法与工具",
+    "expected": 6,
+    "count": "6 项记录",
+    "sort": "精选优先",
+    "visible": [
+      "project-p01",
+      "project-p30",
+      "project-p31",
+      "project-p32",
+      "project-p33",
+      "project-p34"
+    ]
+  },
+  {
+    "test": "filter 全部",
+    "expected": 38,
+    "count": "38 项记录",
+    "sort": "精选优先",
+    "visible": [
+      "project-p10",
+      "project-p36",
+      "project-p09",
+      "project-p04",
+      "project-p02",
+      "project-p12",
+      "project-p05",
+      "project-p01",
+      "project-p03",
+      "project-p06",
+      "project-p07",
+      "project-p08",
+      "project-p11",
+      "project-p13",
+      "project-p14",
+      "project-p15",
+      "project-p16",
+      "project-p17",
+      "project-p18",
+      "project-p19",
+      "project-p20",
+      "project-p21",
+      "project-p22",
+      "project-p23",
+      "project-p24",
+      "project-p25",
+      "project-p26",
+      "project-p27",
+      "project-p28",
+      "project-p29",
+      "project-p30",
+      "project-p31",
+      "project-p32",
+      "project-p33",
+      "project-p34",
+      "project-p35",
+      "project-n01",
+      "project-n02"
+    ]
+  },
+  {
+    "test": "search + client facet related return",
+    "category": "客户项目",
+    "count": "2 项记录",
+    "focus": "project-p10",
+    "q": "库存",
+    "sort": "精选优先"
+  },
+  {
+    "test": "single clear after related return",
+    "count": "38 项记录",
+    "q": "",
+    "sort": "精选优先"
+  },
+  {
+    "test": "final Chinese390 categories and text sizing",
+    "filters": [
+      {
+        "height": 44,
+        "label": "全部",
+        "width": 103.65625,
+        "x": 20,
+        "y": 268.359375
+      },
+      {
+        "height": 44,
+        "label": "客户项目",
+        "width": 103.671875,
+        "x": 135.65625,
+        "y": 268.359375
+      },
+      {
+        "height": 44,
+        "label": "网站与工具",
+        "width": 103.65625,
+        "x": 251.328125,
+        "y": 268.359375
+      },
+      {
+        "height": 44,
+        "label": "移动应用",
+        "width": 103.65625,
+        "x": 20,
+        "y": 312.359375
+      },
+      {
+        "height": 44,
+        "label": "内容与研究",
+        "width": 103.671875,
+        "x": 135.65625,
+        "y": 312.359375
+      },
+      {
+        "height": 44,
+        "label": "方法与工具",
+        "width": 103.65625,
+        "x": 251.328125,
+        "y": 312.359375
+      }
+    ],
+    "label": "13px",
+    "meta": "12px",
+    "overflow": false,
+    "revision": "8ae519c95c72344f8db7",
+    "sort": "精选优先"
+  },
+  {
+    "test": "second-row category keyboard and click",
+    "category": "方法与工具",
+    "count": "6 项记录"
+  },
+  {
+    "test": "final Chinese320 rapid Back first clear",
+    "count": "38 项记录",
+    "overflow": false,
+    "q": "",
+    "sort": "精选优先"
+  },
+  {
+    "test": "final English320 category labels fit",
+    "filters": [
+      {
+        "clientWidth": 80,
+        "label": "All",
+        "rect": {
+          "bottom": 331.15625,
+          "height": 44,
+          "left": 20,
+          "right": 100.328125,
+          "top": 287.15625,
+          "width": 80.328125,
+          "x": 20,
+          "y": 287.15625
+        },
+        "scrollWidth": 80,
+        "whiteSpace": "normal"
+      },
+      {
+        "clientWidth": 80,
+        "label": "Client work",
+        "rect": {
+          "bottom": 331.15625,
+          "height": 44,
+          "left": 112.328125,
+          "right": 192.65625,
+          "top": 287.15625,
+          "width": 80.328125,
+          "x": 112.328125,
+          "y": 287.15625
+        },
+        "scrollWidth": 80,
+        "whiteSpace": "normal"
+      },
+      {
+        "clientWidth": 80,
+        "label": "Websites & tools",
+        "rect": {
+          "bottom": 331.15625,
+          "height": 44,
+          "left": 204.65625,
+          "right": 285,
+          "top": 287.15625,
+          "width": 80.34375,
+          "x": 204.65625,
+          "y": 287.15625
+        },
+        "scrollWidth": 80,
+        "whiteSpace": "normal"
+      },
+      {
+        "clientWidth": 80,
+        "label": "Mobile apps",
+        "rect": {
+          "bottom": 375.15625,
+          "height": 44,
+          "left": 20,
+          "right": 100.328125,
+          "top": 331.15625,
+          "width": 80.328125,
+          "x": 20,
+          "y": 331.15625
+        },
+        "scrollWidth": 80,
+        "whiteSpace": "normal"
+      },
+      {
+        "clientWidth": 80,
+        "label": "Content & research",
+        "rect": {
+          "bottom": 375.15625,
+          "height": 44,
+          "left": 112.328125,
+          "right": 192.65625,
+          "top": 331.15625,
+          "width": 80.328125,
+          "x": 112.328125,
+          "y": 331.15625
+        },
+        "scrollWidth": 80,
+        "whiteSpace": "normal"
+      },
+      {
+        "clientWidth": 80,
+        "label": "Methods & tools",
+        "rect": {
+          "bottom": 375.15625,
+          "height": 44,
+          "left": 204.65625,
+          "right": 285,
+          "top": 331.15625,
+          "width": 80.34375,
+          "x": 204.65625,
+          "y": 331.15625
+        },
+        "scrollWidth": 80,
+        "whiteSpace": "normal"
+      }
+    ],
+    "overflow": false,
+    "revision": "c0038c82900507e8955e",
+    "width": 320
+  },
+  {
+    "test": "English second-row filter",
+    "count": "6 projects",
+    "selected": "Methods & tools"
+  },
+  {
+    "test": "final English320 rapid Back and first clear",
+    "count": "38 projects",
+    "q": "",
+    "revision": "c0038c82900507e8955e",
+    "sort": "Featured first"
+  },
+  {
+    "test": "website shortcut retains four concrete website cases",
+    "count": "4 项记录",
+    "q": "网站",
+    "sort": "精选优先",
+    "visible": [
+      "project-p02",
+      "project-p03",
+      "project-p07",
+      "project-p11"
+    ]
+  },
+  {
+    "test": "final desktop related return",
+    "category": "客户项目",
+    "count": "2 项记录",
+    "focus": "project-p10",
+    "q": "库存",
+    "revision": "c0038c82900507e8955e"
+  },
+  {
+    "test": "final keyboard clear then related return has no stale conditions",
+    "category": "全部",
+    "count": "38 项记录",
+    "q": "",
+    "sort": "精选优先"
+  },
+  {
+    "test": "independent final motion settled",
+    "revision": "c0038c82900507e8955e",
+    "scroll": 2200,
+    "visible": 10,
+    "anchorsStationary": true,
+    "titlesSettled": true
+  },
+  {
+    "test": "reduced motion search and plan A",
+    "count": "2 项记录",
+    "q": "库存",
+    "sort": "精选优先"
+  },
+  {
+    "test": "final desktop rapid Back first clear",
+    "count": "38 项记录",
+    "q": "",
+    "revision": "c0038c82900507e8955e",
+    "sort": "精选优先"
+  }
+]

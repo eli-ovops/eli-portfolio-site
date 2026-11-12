@@ -1,0 +1,11 @@
+{
+  "name": "personal-practice-portfolio",
+  "version": "0.10.1",
+  "private": true,
+  "description": "Local static portfolio preview with no npm dependencies",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "dev": "python3 scripts/serve.py",
+    "preview": "python3 scripts/serve.py"
+  }
+}

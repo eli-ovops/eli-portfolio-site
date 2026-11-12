@@ -1,0 +1,157 @@
+Browser tab: 37, Title: "扫码库存系统：入库、移库与出库案例 - Eli", URL: "https://www.eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof".
+1 AXWebArea 扫码库存系统：入库、移库与出库案例 - Eli, URL: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof
+	2 link Description: 跳到正文, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#main
+	3 container
+		4 link Description: Eli首页, Value: eliai.cn/index.html?pv=5c2760c23a73225e2ff6
+		5 container 主导航
+			6 link Description: 首页, Value: eliai.cn/index.html?pv=5c2760c23a73225e2ff6
+			7 link Description: 项目库, Value: eliai.cn/records.html?pv=5c2760c23a73225e2ff6
+			8 link Description: 文章, Value: eliai.cn/articles.html?pv=5c2760c23a73225e2ff6
+			9 link Description: 关于, Value: eliai.cn/about.html?pv=5c2760c23a73225e2ff6
+			10 link Description: 切换到英文版, Value: eliai.cn/en/cases/p09.html?pv=5c2760c23a73225e2ff6
+	11 container main
+		12 link Description: ← 返回服务介绍, Value: eliai.cn/services/workflow-automation.html?pv=5c2760c23a73225e2ff6#service-proof
+		13 text 网站与工具
+		14 heading 某家具品牌扫码库存系统, Value: 1
+			15 text 某家具品牌扫码库存系统
+		16 text 已交付
+		17 text 按箱扫码连接收货、移库与出库，处理重复提交、库存不足和撤销纠错。
+		18 container
+			19 link Description: 放大截图：某家具品牌扫码库存系统, Value: eliai.cn/assets/public-cases/p09.png
+			20 link Description: 查看图片 ↗, Value: eliai.cn/assets/public-cases/p09.png
+		21 definition list
+			22 container
+				23 container 我的工作
+					24 text 我的工作
+				25 text 主导需求与开发，负责测试维护 01
+			26 container
+				27 container 交付状态
+					28 text 交付状态
+				29 text 已交付 02
+		30 container
+			31 heading 内容概览, Value: 2
+				32 text 内容概览
+			33 container 案例内容
+				34 link Description: 项目背景, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#why
+				35 link Description: 承担职责, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#role
+				36 link Description: 工作内容, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#outputs
+				37 link Description: 实施方法, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#process
+				38 link Description: 交付与验证, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#result
+				39 link Description: 技术与实现, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#technical
+		40 container why
+			41 heading 项目背景, Value: 2
+				42 text 项目背景
+			43 text 单仓多库位的按箱库存，需要连接收货、移库、出库和纠错；重试不能重复记账。
+		44 container role
+			45 heading 承担职责, Value: 2
+				46 text 承担职责
+			47 text 我主导需求分析与操作流程，以 AI 辅助开发，并负责测试与维护。
+		48 container outputs
+			49 heading 工作内容, Value: 2
+				50 text 工作内容
+			51 text 实现按箱扫码、入库、移库、出库与撤销纠错，并处理身份权限、重复提交和库存不足。
+		52 container process
+			53 heading 实施方法, Value: 2
+				54 text 实施方法
+			55 text 先核对完整库存路径，再检查重复请求、库存不足和作废重试。移库核对来源、目标和总量，纠错关联原单。
+			56 heading 一次库存闭环, Value: 3
+				57 text 一次库存闭环
+			58 text 按 2026 年 9 月 8 日的验收序列整理数量变化。最终 A／B 库位为 3／4 箱，总库存 7 箱，由记录确认。
+			59 table 一次库存闭环
+				60 row
+					61 cell
+						62 text 操作
+					63 cell
+						64 text A 库位
+					65 cell
+						66 text B 库位
+					67 cell
+						68 text 总库存
+				69 row
+					70 cell
+						71 text 入库 10 箱
+					72 cell
+						73 text 10
+					74 cell
+						75 text 0
+					76 cell
+						77 text 10
+				78 row
+					79 cell
+						80 text 移库 4 箱
+					81 cell
+						82 text 6
+					83 cell
+						84 text 4
+					85 cell
+						86 text 10
+				87 row
+					88 cell
+						89 text 出库 3 箱
+					90 cell
+						91 text 3
+					92 cell
+						93 text 4
+					94 cell
+						95 text 7
+			96 text 云端记录另确认：四次并发提交相同请求不重复记账，库存不足被拒绝，作废请求不能再次提交。这里展示历史虚拟测试，未重新运行原系统。
+		97 container result
+			98 heading 交付与验证, Value: 2
+				99 text 交付与验证
+			100 text 已交付客户，范围包括扫码入库、移库、出库与撤销纠错。下方技术说明对应现有实现。
+		101 container technical
+			102 heading 技术与实现, Value: 2
+				103 text 技术与实现
+			104 content list
+				105 text TypeScript
+				106 text React
+				107 text Vite
+				108 text Cloudflare Workers
+				109 text D1 / SQLite
+				110 text Playwright
+			111 text 按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。
+			112 heading 实现流程, Value: 3
+				113 text 实现流程
+			114 content list 实现流程
+				115 container
+					116 text 01 扫码与操作 React 录入与确认
+				117 container
+					118 text 02 业务校验 Workers 处理重复提交
+				119 container
+					120 text 03 库存变更 D1 / SQLite 核对数量
+				121 container
+					122 text 04 纠错与回放 撤销操作与测试核对
+			123 heading 验证范围, Value: 3
+				124 text 验证范围
+			125 text 本地与云端记录核对了库存闭环、重复提交和库存不足等情况。具体数量变化与测试来源见上方表格。
+		126 container 聊聊你的业务
+			127 heading 聊聊你的业务, Value: 2, ID: case-contact-title
+				128 text 聊聊你的业务
+			129 text 不必先想清方案。说说公司最费时间的一项工作，一起看看哪些地方适合用 AI 或软件改善。
+			130 link Description: 免费聊聊, Value: eliai.cn/about.html?pv=5c2760c23a73225e2ff6#contact, ID: eli-consult-entry-1
+		131 link Description: 更多项目, Value: eliai.cn/records.html?pv=5c2760c23a73225e2ff6
+	132 container
+		133 link Description: Eli FDE / SELECTED WORK, Value: eliai.cn/index.html?pv=5c2760c23a73225e2ff6
+		134 container 联系方式
+			135 text 邮箱
+			136 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			137 text 电话
+			138 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		139 container 页面导航
+			140 link Description: 项目库 ↗, Value: eliai.cn/records.html?pv=5c2760c23a73225e2ff6
+			141 link Description: 回到顶部 ↑, Value: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof#main
+		142 container 社交主页
+			143 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			144 link Description: B站, Value: space.bilibili.com/432834855
+			145 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			146 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			147 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			148 link Description: X, Value: x.com/cczij1112
+			149 link Description: 微博, Value: weibo.com/u/7720929036
+			150 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			151 link Description: Instagram, Value: instagram.com/eliaifde/
+			152 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		153 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+		154 button 统计与隐私
+
+The focused UI element is 1 AXWebArea 扫码库存系统：入库、移库与出库案例 - Eli, URL: eliai.cn/cases/p09.html?pv=5c2760c23a73225e2ff6&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D5c2760c23a73225e2ff6%23service-proof

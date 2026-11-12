@@ -1,0 +1,1775 @@
+{
+  "published_receipt": "evidence/deploy-articles-20261017/receipt.json",
+  "compared_archives": [
+    "evidence/deploy-stacked-gallery-20261017-ef627aa3/website-20261017-stacked-gallery-ef627aa3.tar.gz",
+    "evidence/deploy-articles-20261017/20261017-articles-e3304385.tar.gz"
+  ],
+  "new_article_routes": 206,
+  "existing_routes_with_new_article_navigation": 88,
+  "pages": [
+    {
+      "path": "about.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "881bad880bcbb16b38c72d5b643c29a88ce21434d00cbdf397830b6326c22d96"
+    },
+    {
+      "path": "articles.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9c30e6114a970280ea41595fd3c73a8c6f5dc6b8309f69c7dc2936b6804f2471"
+    },
+    {
+      "path": "articles/acceptance-tests.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "96e41f50efefbfcd22e187f4fbe1024c84730f3ec55e5888b451017f61b0f2f6"
+    },
+    {
+      "path": "articles/agent-feedback-loop.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "618e0a2c91b5c2cd4ec8c177038c510d02d1646af0cc1e6d063077314304c4f9"
+    },
+    {
+      "path": "articles/agent-first-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "60db968eb27bca4776aeb0120eeb44674dedaf638cd7010134a331b62e4ca9dc"
+    },
+    {
+      "path": "articles/agent-memory.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7d08cd5ae5f1ffabc1cac684661d49efdeee0ef084deebef85294aa821b0d5b7"
+    },
+    {
+      "path": "articles/agent-plan-and-act.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "dceddc56ab0d7917c6bd0b37be94a17292f84a023571d63bbe27e9edffe5d50c"
+    },
+    {
+      "path": "articles/agent-risk-checklist.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7c389bd136ce5e187bba64e2d3c1a1d547b6ce2bae4784a17f91e08b96a11ebe"
+    },
+    {
+      "path": "articles/agent-stop-rules.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b178e2b8fa84f3bbd574a2a277a92dfb04d651e18f48ee077dceabe9949ed5df"
+    },
+    {
+      "path": "articles/agent-tools-permissions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "68a347f2cd6c307a05029c4a90e358dfaf2fcd6db82759cd2ccf78409db5fe2f"
+    },
+    {
+      "path": "articles/agent-workflow-difference.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "0363724ac40d9367f368903b34f317ea5bfacc02c149772352d3773ed78e94c5"
+    },
+    {
+      "path": "articles/ai-chat-vs-search.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7f9e0a9ad0c5702f9e1157d7effb2193176967176c75aff9b23bd3bae4395ccb"
+    },
+    {
+      "path": "articles/ai-checkpoints.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "65cd17fad57c76d0830e69795d4ccc9ef71b4606904e8346ecf663881d3c521c"
+    },
+    {
+      "path": "articles/ai-coding-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ee18b4fed5f08439aa0c1007197e6620c982290c7f78bab00bfcea67e3b59053"
+    },
+    {
+      "path": "articles/ai-compare-options.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7cb5552c1223ca6efb4cf4e1a5362f0f3211755d3dd761324840b7ca0e09dfba"
+    },
+    {
+      "path": "articles/ai-consultation-prepare.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "881cba69977a938e33882de09e31599f7fa5e5ac5c2bfed8889bdba0f112b712"
+    },
+    {
+      "path": "articles/ai-cost-breakdown.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4d3573c00544db9399d163d79345199000defc69899697b24667e954da1e8d21"
+    },
+    {
+      "path": "articles/ai-debugging.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d05ae6f0e1187c31600f2369428aa68dbc4d7ad676a857fb2a6252aecc2fc98d"
+    },
+    {
+      "path": "articles/ai-email-draft.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d35593e6ed319b7e1f19ef4615a110ed3e7ba2637f5000f5ceaca4eee8902d9b"
+    },
+    {
+      "path": "articles/ai-employee-training.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "25f264498f2be5ec4391ccea1b9ca3300d316a6e5d198a74c9c25104b02f943e"
+    },
+    {
+      "path": "articles/ai-file-reading.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4a0eeed52ccc3fb6be3b723df772ad2d1ce66b0316944d9e3f4a1119a2a9b03d"
+    },
+    {
+      "path": "articles/ai-generated-images.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "40cc49d2f2fe6e8676905b0d3034d849c72bc42f95db12c65351014ae5517fb7"
+    },
+    {
+      "path": "articles/ai-hallucination.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "256f82d23173ba3384a05fad6f160f50d55a25522a1c1a9ee1b1cd1d38bf0ec6"
+    },
+    {
+      "path": "articles/ai-inventory-exceptions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "15d8f36f884a81e1353e94930c8fa564dbdec5abbf5df8c01dc2bff117dab846"
+    },
+    {
+      "path": "articles/ai-jargon-map.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c24f82bf16003941bb84cfbbb7c653aad9baa8ab56aeeb82acd6fd770bb15b91"
+    },
+    {
+      "path": "articles/ai-knowledge-base-start.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3751fd27ec4b20935fdc80f54a35167559eb3d7a5549679baddbe82935534cc8"
+    },
+    {
+      "path": "articles/ai-learning-plan.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "54f68d991046ecdd6552f22ddc7e22b364d11e198a6a2db7ad99e52f6d04a392"
+    },
+    {
+      "path": "articles/ai-maintenance-owner.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "70932b4882ef6db2e918e856586238447e8244837118d532af6f3f5e0256f3f6"
+    },
+    {
+      "path": "articles/ai-meeting-actions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "0a1c6a094122eb62e6f5c9dc8f697cc103141829ccd8055aa3e1bf9f1f35fa5e"
+    },
+    {
+      "path": "articles/ai-ocr-check.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4cb78125a78370633539295bc9fdb87e7d7bc9f733114f9b8e1e3943be2cbc26"
+    },
+    {
+      "path": "articles/ai-pilot-design.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c06814893b4856ac959163a261d4ffc13d82b700a5bd2572bea51baf488f9ac4"
+    },
+    {
+      "path": "articles/ai-privacy-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3649f770ab50c10f42a7b8064495149dd576fb942de0245037089d53e6f4ce1d"
+    },
+    {
+      "path": "articles/ai-product-copy.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "54504b7ff23f0f6a9ead13811d1d0f6d65cfdb5155f3a834079484d548842195"
+    },
+    {
+      "path": "articles/ai-sop-writing.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "04de61882ad4413e6e58c2d10790b716793209accd1f001ec15128f31191d7f3"
+    },
+    {
+      "path": "articles/ai-spreadsheet-cleaning.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "689277d2241e5c4398af39b6200f5b6286fe9bb299f7ae601bad4de61107814f"
+    },
+    {
+      "path": "articles/ai-task-selection.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "2e58a7f536b9b70c7cb00d4840a7b485549c899e617c486cd10f47de4afd8acf"
+    },
+    {
+      "path": "articles/ai-translation-review.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d98222fc8fc1017b5396e1179ea59fd0766676472c822a4daf06064c795b2449"
+    },
+    {
+      "path": "articles/ai-weekly-report.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e14a60edfa4e17692caa84fccdc9d8a854b53fba088bdd4391d2e3fc99c245d0"
+    },
+    {
+      "path": "articles/ask-clarifying-questions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "cf3da56c0031f0acf7775d6c2289e5b1da59693cac80aff8aaf544b7367bb242"
+    },
+    {
+      "path": "articles/branch-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a78d386bc28e2e64945509acfe28e55a86d7d962abea068988d3641f352720df"
+    },
+    {
+      "path": "articles/break-down-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "263d84c15ee51e85163972c6a6f47e7093e71b209cb4041f30c3c0e0f6fd8a00"
+    },
+    {
+      "path": "articles/choose-ai-provider.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9a4558ef40f34acb62559d592f6d4fa78570048a69411de6c9143acda6f51b47"
+    },
+    {
+      "path": "articles/choose-ai-tool.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "6cb04368e52292dad872ff68b68fe42ea031bb09cda9857d4b87a97eab3ce95e"
+    },
+    {
+      "path": "articles/coding-without-secrets.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a88ba052d9f25bd206ace010c0fc44220794fa797e43755b275d61a8c0d82cdc"
+    },
+    {
+      "path": "articles/commit-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "173554596ad28a338d43a9977c55c49ba24c7b88590915ca47f708a5e85935f5"
+    },
+    {
+      "path": "articles/context-window.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a2ca139b29753c5fe8782c272f6c4c2fe574fe0ce61321ee92263b897120bb27"
+    },
+    {
+      "path": "articles/create-first-skill.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d05fb2c96c563fa62c0839b979b685485f6405d9ff263e366dc5ea411efa2e9f"
+    },
+    {
+      "path": "articles/dependency-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "2096972209e0a39533f104aa306daf837652fd40341b16c1e9616eb04bd6e81f"
+    },
+    {
+      "path": "articles/download-release-or-source.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "8b99dfd5ae96979418162ad59aa60929f02d038c751e1704e5717c8ecfb81886"
+    },
+    {
+      "path": "articles/embeddings-explained.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "82b13494333ff9b3eaab5d536d3aebbf7b2996bcbed57f03f39bffa8d855773e"
+    },
+    {
+      "path": "articles/enterprise-knowledge-base.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b45729f2b5d2b645c7ff38642e128f3ce7c322fc7847f50454bf4717b64db7b2"
+    },
+    {
+      "path": "articles/fine-tuning-or-rag.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "0c8a83d7bba0268b0f07c4f82028321fe2a950a9f53e82c65fa53ba5b571924a"
+    },
+    {
+      "path": "articles/first-ai-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9e692c203cbec5d3fbb03c16067c47cc470190c419c2c26cfb5633d592eefe1f"
+    },
+    {
+      "path": "articles/fix-bad-ai-answer.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7fc92b2b6c8b7e8d58ee2d3d9811ecad14eca5fddee452d86978455fa4498c1b"
+    },
+    {
+      "path": "articles/github-public-private.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "6b781b1b1436ef8b0d7e188848810178a2cb647bb8df7b97651129391cb0a225"
+    },
+    {
+      "path": "articles/how-llm-generates.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "94f3dbac565db03c2dccd490e14723000d9742da21974c9343bcc418b8fd6c6e"
+    },
+    {
+      "path": "articles/inventory-reconciliation.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b68b8e922a17f3c7ba5b0a5d633539e676dcd289f6529b33a888a28e8ce23cf9"
+    },
+    {
+      "path": "articles/issue-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "584cb4b714680ad180c10d6931f4217d575480326d6627cf5f17468568dc229e"
+    },
+    {
+      "path": "articles/mcp-read-only.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9be72a18bf72c16fe6f1f47cc6e6539adba25f43eab15e3861a1bc95f681d691"
+    },
+    {
+      "path": "articles/mcp-vs-api.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "709336d11d555b66fe21f5947785a3c76222d911b586e1171eaf303431ebedd8"
+    },
+    {
+      "path": "articles/measure-ai-benefit.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4f4a83a7747b51b74316d99de94d3df21ad25cca3d4402fd0e95e729e75bc563"
+    },
+    {
+      "path": "articles/model-size-and-cost.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f707cf1ccbc0ae47fd3f457b0246ec665838da8eecff27dc75b61753980b8012"
+    },
+    {
+      "path": "articles/multi-agent-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c34d00101d88396c68cea8a57f7451fc74ac0a986f4e684f9f78f0d81b2b99ab"
+    },
+    {
+      "path": "articles/neural-network-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4f85c8fdfda60a0ea0f1da4e379032486d816ab8a8c8a417bd58122ee82dc7ae"
+    },
+    {
+      "path": "articles/open-source-license.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f17ba87d13d9eb9db31dbe82570eb4e974de2f08c8cf2884f801f68841791cf4"
+    },
+    {
+      "path": "articles/owner-ai-first-step.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ee6f04ecefd87ee0cc0e131260ed3596ed0020f0f494710e831c53ed85e33242"
+    },
+    {
+      "path": "articles/prompt-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c338fee63a0dfbdd3f8c094049bffcfefc7c2973d1377ea1cfab34f72edb868b"
+    },
+    {
+      "path": "articles/prompt-injection-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d6d3aa2f2b7ef80eed9192dab2c0d7925c8d17014c9e65f3718d6fc6173669c4"
+    },
+    {
+      "path": "articles/prompt-with-example.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f8443a50089952e4f2cfa8afd99f080dc4607876dce30e7f0c8d9c787e8fba50"
+    },
+    {
+      "path": "articles/provide-context.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "cd60a8cfb48a690c8d5c082866759f8b66137849d9fed328477ee67f6ac3e405"
+    },
+    {
+      "path": "articles/pull-request-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "fc796ee24ee5be2a5baf5ca1ce604027728513c81c8b57a1913a80af3952dc5b"
+    },
+    {
+      "path": "articles/rag-explained.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "cabd7f3651719cce4ba1f05ca9c6094679215f16a9935d9d13207bde05534751"
+    },
+    {
+      "path": "articles/read-ai-code-plan.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "97a69bac167c6a77fe3953de3305abd95c806f8197b2b22c31f8b57a833ff1cb"
+    },
+    {
+      "path": "articles/readme-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "0545070a047571c98eacc070686114a4d2bb1e84ce757640aa77b819dc2b9723"
+    },
+    {
+      "path": "articles/repository-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "34d720ab31d5c1cbef2fab4bcc66dacae9ab403e90365363cb346ca6c8e134a5"
+    },
+    {
+      "path": "articles/rewrite-with-ai.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "aed0547c81348e713c22e699be24b9b90d777bc0f158876bac7b4b82067f9a40"
+    },
+    {
+      "path": "articles/save-prompt-template.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ffa048635eb29fa1e21aaf4ad432ba320f29a4f096574d9ca8372b42b5034968"
+    },
+    {
+      "path": "articles/skill-file-structure.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a624dbed5f267a6b92af8c2357f4798e3aa9cb7975557b6ef33add5b0fde1e0d"
+    },
+    {
+      "path": "articles/skill-install-safely.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b4a7641c55e94e6a4fd4557edc9e8b02fabaf33fef657da48e85dd5b0caf9a18"
+    },
+    {
+      "path": "articles/skill-not-working.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "2e25e120852da2206001015b68c02af4a4ae147e02c6e90cb03da5adfb5d7c4f"
+    },
+    {
+      "path": "articles/skill-vs-prompt.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9ba2243bc7c1795445cd0ad3472fbeea84960cd524c6a0e85063f98beee28192"
+    },
+    {
+      "path": "articles/structured-ai-output.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "757bad20ce416e179ef784ac726439b76495c709e339fbb0abf7b010d369ecbd"
+    },
+    {
+      "path": "articles/terminal-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "44b31d226dfcd9da8090087bfb433bfffc35b75dae124e8ae467e4707f130963"
+    },
+    {
+      "path": "articles/training-vs-inference.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9436f810b7cc4e1bf81d3816595e230cf00b16ad9059d49362368fd0a43ec935"
+    },
+    {
+      "path": "articles/what-is-agent.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3ed216eab7ce4c0b32b96c6a0566978fdecdbc146780e36ed66bc3fe3b6a136f"
+    },
+    {
+      "path": "articles/what-is-ai.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "810bdc92924ec134278199615dc7a73677cdb446326704281a78aa2e31747e1d"
+    },
+    {
+      "path": "articles/what-is-fde-business.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b03166b0301d9c20d6d9825227c5a0ff2fe5e3280375af74ef204dd3225615c6"
+    },
+    {
+      "path": "articles/what-is-github.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a2070a54683dae38c3a28af971ffa3ad7f74c11ebfedb10e7d4f70dafe6e5b59"
+    },
+    {
+      "path": "articles/what-is-harness.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "abfbc2ba2274ca7c5823f9aee996b9fe1fd85fbc21fb96fc359dae43a9bd8a49"
+    },
+    {
+      "path": "articles/what-is-llm.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "6aef83e797cc15aa275d2c4670deca7ae275af0758b0407dfa857ea47c64ebc4"
+    },
+    {
+      "path": "articles/what-is-local-preview.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c68ef05b37bde61470d518b901085348b96e75533aed693cd60157788654705a"
+    },
+    {
+      "path": "articles/what-is-mcp.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ac15f702e0aa9a31cd17a4e811acaf4ee300ac538eeec36fb8bf9d6bd875296a"
+    },
+    {
+      "path": "articles/what-is-skill.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3834c5d232c10355ff362a5b539c909e46de4d8d5e5ce9e7ceff7883758c43c0"
+    },
+    {
+      "path": "articles/what-is-token.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3c3c75b7b1619f9de4d4f81e6007d8ddf13fb82c34e6bf3bc4c217832f383bd0"
+    },
+    {
+      "path": "articles/what-is-workbuddy.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "1914fcfdf2b47b73290d7f69e89ac28923fa0821d67b38155cfd4f1a6846ce8c"
+    },
+    {
+      "path": "articles/workbuddy-connectors.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "67dc1d08133ceb2d7ac21dcf2e8b5a69df409fe1a5d4ec5d1bcf9d5f87584d3b"
+    },
+    {
+      "path": "articles/workbuddy-file-organizing.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "984cfe1409038bcea5e21d08b61f[REDACTED_PHONE]e5fc8c05f1abbe83f0083c1de"
+    },
+    {
+      "path": "articles/workbuddy-first-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "096b4f5770b787d8e68c705e021f0949fe1f356c12854bd503454db793ca4e18"
+    },
+    {
+      "path": "articles/workbuddy-meeting-notes.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "272ce79fd0ba9a0adf446927dcabc63f91a1a159adcd4fd49c37687bd9f79ee4"
+    },
+    {
+      "path": "articles/workbuddy-permissions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "db5c4aa655ae15a9f6465ed13d289f9bacc6524c1012ec200c7d47fa60c80036"
+    },
+    {
+      "path": "articles/workbuddy-skills.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4ef6418710b188a9b36b2860e0f40d74b915451821dad62cfdba8b156c0d72f8"
+    },
+    {
+      "path": "articles/workbuddy-spreadsheet.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c6379c01354e6052f28cabc9ec0375cc6df015e23d62110ce0b6d3477267bb69"
+    },
+    {
+      "path": "articles/workbuddy-task-failed.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "07679e3caa21e0b3f8fae54da49cb09f312c5c8f34249e5784d04e5a9405bdac"
+    },
+    {
+      "path": "articles/workbuddy-write-document.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "be4ed186a8fb159e906acb7101aaf89074783c3897880145e7ed2e0b7c35c2e9"
+    },
+    {
+      "path": "cases/n01.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "b49accb74c050dba1fc35471fdb22dc5f1cd13ba6492c78eea15940cb502b857"
+    },
+    {
+      "path": "cases/n02.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "049eb1ff6084a5bac41de2e3090a5fb769957f96dec662030b0bd1c5a50a54f7"
+    },
+    {
+      "path": "cases/p01.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "b83c5869227f32734bd829b5d2cc2b92854ed5ea993f48c46d3daded5bfa6c81"
+    },
+    {
+      "path": "cases/p02.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2938e2007ac3639652bb49b3bb14ebdc0291daaf5586dbc5a940ae4881b04ca4"
+    },
+    {
+      "path": "cases/p03.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "a01b6542d391df762b08297f621ee601870446012053b011ccd786b55d1bb6c3"
+    },
+    {
+      "path": "cases/p04.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "303e0961da490c627657e796e5af7d7d687c91e9d8d8a09745215e1eef2fd86d"
+    },
+    {
+      "path": "cases/p05.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "900e9f61d3518414f43f5b0e6cf7e931ba198b3bd041b3964491bd0139fe9c59"
+    },
+    {
+      "path": "cases/p06.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "0c7daae6b1b69501b26c3cdfdb4f9d0ef16935b6ab5b0c25b458cb667a421abb"
+    },
+    {
+      "path": "cases/p07.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "042fc85aff6567b0d44da3c9d85cc4d77c0608dc7faf34ce2fba93ea186e20ef"
+    },
+    {
+      "path": "cases/p08.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2508069ffc0e6f06e989949f5ac187d33008a1ca7575ad4f3898b14ce4de3a62"
+    },
+    {
+      "path": "cases/p09.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "92f5d722697968efb6d6b5732445bbd4794d0de7a388fe8de0f55f2c677a5d9e"
+    },
+    {
+      "path": "cases/p10.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "013d4d4d839dd5b2f92ff217c6b3198526faae1188d841591d0f8824fcd69fc1"
+    },
+    {
+      "path": "cases/p11.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "f1792184a0947f972eccc68b966230b6082645b59928fe8e3631c782f4ae9e74"
+    },
+    {
+      "path": "cases/p12.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2ef140531bb184930eaa14bdaa3b7858e1ae358fa1990895bdce8c5907b633cd"
+    },
+    {
+      "path": "cases/p13.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "d7d8d8bd94cad831d80bb530b6be077ac1f2b7b2f0b2ad226f323cb45fcac181"
+    },
+    {
+      "path": "cases/p14.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "cc05dd0b90ee74a7e4bee718cd52e2e38c1cdc1c3a1c5fb64893ea9f38d5d1f9"
+    },
+    {
+      "path": "cases/p15.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "4aa859759ca8bd9a5cce26f94b653553674fc6a2f56408f44da869b312c56b07"
+    },
+    {
+      "path": "cases/p16.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "5936e9dbc88aa45c275975192f748a7fb9333127d027ae013de972b9dbfa5ee8"
+    },
+    {
+      "path": "cases/p17.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "002766aa35f5ecb29821ec60819b03466e92617a7bf640cdfea5d9b198d21665"
+    },
+    {
+      "path": "cases/p18.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "c262a86d3977dcf90b82a2b83094e3f72c2075551aaf7e497d7ec146d38e5ba0"
+    },
+    {
+      "path": "cases/p19.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2e2a18625d17faf0315125cdbd9079bf9ee934c74689d442fb33581c67e68913"
+    },
+    {
+      "path": "cases/p20.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "4b23dd04496cc23aa96375d32d3dbef2775f1c0b22d3812c28cd75c5d1e8b59b"
+    },
+    {
+      "path": "cases/p21.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "b858694fb9b8361b6c2f2d40f0e9fa8d3e17a340d0591e36bee7dfa2c732e570"
+    },
+    {
+      "path": "cases/p22.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "720d99948f49cb6fa3735a6734f1f23a113281139757f4cefd34bdf67ffe385a"
+    },
+    {
+      "path": "cases/p23.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "970aee7894c916871d02e1651db7c3e38b45c0be06d0c7898aafe626d3230ced"
+    },
+    {
+      "path": "cases/p24.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "19eb2a57ae9df10c40af813e3c7c4d78ec31e9f9b49bd243197dfe728ab2d538"
+    },
+    {
+      "path": "cases/p25.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "f59356da23777ffd51720f0d06cc00cba4b4dad7aef78f57bdf0e7d7c0b696a5"
+    },
+    {
+      "path": "cases/p26.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "a4ce0924b8975d0d41c84da2be1e1c8c21b1947f0589cec2925414aec2f1058d"
+    },
+    {
+      "path": "cases/p27.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "59cb1d1f5435067aabb3aabe1d26aa26a995c8d358ea774d7526ce3484137e49"
+    },
+    {
+      "path": "cases/p28.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "6c769228b58b1b781e19d0d4048a357e0407db1561fe9a43cee9f7b57da92b2c"
+    },
+    {
+      "path": "cases/p29.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "06637552dd5a0e0f2946e35a5d55a1ee8375df2bfd8c62597091ed195a3f10ce"
+    },
+    {
+      "path": "cases/p30.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "ebbde0aef62e3a82281a7cea219524933b5f014981216919ddbf236e89b239e3"
+    },
+    {
+      "path": "cases/p31.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "0930559dc303c42d542b9c3ccb00e11deaf6576c35337daeeabd19702826ae14"
+    },
+    {
+      "path": "cases/p32.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "d64c3282da9e1cc26b0d29fd269682d5f651b09a3dc3a77a6b12b055ec062086"
+    },
+    {
+      "path": "cases/p33.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2de314594edcdb95ec8a6496dfb340af8631faaa3e032338cd4ce41b8a1f01f8"
+    },
+    {
+      "path": "cases/p34.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "8e11a78df834dd403bb531599d66d6532bf05a9d028ce89d4f482148b7da9e3b"
+    },
+    {
+      "path": "cases/p35.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "0250d629d72185e650ac4e94c30130314117c5e4ddcaa4d8e5ae8dd26ea5a664"
+    },
+    {
+      "path": "cases/p36.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "6f34b220d70d08d5e4730af2c96e52ec08c8f9ebc6c9972da409be0c63c5aee1"
+    },
+    {
+      "path": "en/about.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "f6712f4b43f5341c956003baeafba433f9fbe192d1c9753abbd9f49460b8830a"
+    },
+    {
+      "path": "en/articles.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "472bf422184d8253c2ef5e01d00c6e219ae0af05bda1136c602f97a04fb2572c"
+    },
+    {
+      "path": "en/articles/acceptance-tests.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7aacfb8366f543c534399a2f9bb3274818a762f2331b8a5c901a82813594ab52"
+    },
+    {
+      "path": "en/articles/agent-feedback-loop.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "73490c5d98a9f7401475891fb71c349b0a97a7740b1d7ef41635d9620ce04179"
+    },
+    {
+      "path": "en/articles/agent-first-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a8afbbb8980fc7b882b34a655a19ba334dce49dc5c5e2d44ec674f00b6410be2"
+    },
+    {
+      "path": "en/articles/agent-memory.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ceb60f89e9c2ca411018b1ee8d6049d5e1a38a3e3f8898b1c54426171ba1dd81"
+    },
+    {
+      "path": "en/articles/agent-plan-and-act.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "45819d85428874fd79f3976fbfc20a8c16eb809ed208f48debb2671ea0222192"
+    },
+    {
+      "path": "en/articles/agent-risk-checklist.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ef21b97d4eb31f068235b893c2a90f4ed3edcb7395329a98af3f9e89da3c3be0"
+    },
+    {
+      "path": "en/articles/agent-stop-rules.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e780e73235241e01afb769b8fdc4aa385fb0a64ad8066353d2b1eee9ec4f3ee8"
+    },
+    {
+      "path": "en/articles/agent-tools-permissions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "06002117deadc29a41de3846b37b4d99b9226723505cbbcafd3c5e9dc201c486"
+    },
+    {
+      "path": "en/articles/agent-workflow-difference.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "1ec33bc5645cf2956afc069c5bfd3c57ea1cc6ce30243c3deda6e6e106259aa9"
+    },
+    {
+      "path": "en/articles/ai-chat-vs-search.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "72fb1f80754f0a8f196b5791f1b414be302a46a734b4439068981f77aaf81a21"
+    },
+    {
+      "path": "en/articles/ai-checkpoints.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e01bdf33040cefce0eb8fc18fd606419620857396afb45732f4374a56a7b6c0d"
+    },
+    {
+      "path": "en/articles/ai-coding-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9c3b369ac59ad3bd7fb2492eec3a987ae9a1a018821a6be48e7e3e547e09b174"
+    },
+    {
+      "path": "en/articles/ai-compare-options.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e586cab8617277b13eba74b5ea423f8fdc95157b110e863eb3ad16e270cddc5f"
+    },
+    {
+      "path": "en/articles/ai-consultation-prepare.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "1815e04fad16e5b1a3405e4b66767964d9026c9eb8349447d95524d68908abff"
+    },
+    {
+      "path": "en/articles/ai-cost-breakdown.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "84521f6073d38f2f037715ad4f76664582297e6e1ac920cc9c0d391b89d73019"
+    },
+    {
+      "path": "en/articles/ai-debugging.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3b9b75c3f82e1e954055da008a0d6d40311a033c2176fe357cac419cfd5889bf"
+    },
+    {
+      "path": "en/articles/ai-email-draft.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d23ccbe8117a4efc7779809d9314df981192715e2bfdcb6aedb5f4405dabf6f4"
+    },
+    {
+      "path": "en/articles/ai-employee-training.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "993d3243b347c6136d4737b6439fced4494f1f290587412de9bd0ee268e57255"
+    },
+    {
+      "path": "en/articles/ai-file-reading.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "95acf060fd932646dfbc9d6d3bd6b4e003b0879e437d1e86cd47e1c6b581626c"
+    },
+    {
+      "path": "en/articles/ai-generated-images.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "bb47547adb1fdcd95aac431919280669a285465e47045284e5fc039e4ef55134"
+    },
+    {
+      "path": "en/articles/ai-hallucination.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4a2cdf1a9decec7abdd5b711d2ac497cdfd2132316758edde6a2647b4652e1e7"
+    },
+    {
+      "path": "en/articles/ai-inventory-exceptions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a6c652c0c0dc3b08ded6c7965c5c54949949d7d22153d6e2dbb85c380dc88e6a"
+    },
+    {
+      "path": "en/articles/ai-jargon-map.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "867e8d3fc3c7cf7dc2732ae310e75d2e974ed988685b8ee3f8f3da241467645f"
+    },
+    {
+      "path": "en/articles/ai-knowledge-base-start.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f7a58c18245d9e2b7fe264f1df7ed01f8f52b093936ee0be259e37308f47cce7"
+    },
+    {
+      "path": "en/articles/ai-learning-plan.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "8e82303d210b508e9ec31325d84d7cf4fa1a6518108b5678bccdabc08062eb6c"
+    },
+    {
+      "path": "en/articles/ai-maintenance-owner.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "17699029e7f1597c1af5bab31a0dce4f9949128d9728d9ce35791595512bc1bc"
+    },
+    {
+      "path": "en/articles/ai-meeting-actions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e3f8eaf7992b993821bbbf2bce574c5618773039b811437387eff428a336414c"
+    },
+    {
+      "path": "en/articles/ai-ocr-check.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "59cb6da1e47ad8b9a9e95442550937cc8d2e4d769d819a31410c8e8d11f4d4d8"
+    },
+    {
+      "path": "en/articles/ai-pilot-design.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "011967bfe0676c2e4742cbb9d6e0eb57fdfe32cf512161ab005b5eb6aafec4b7"
+    },
+    {
+      "path": "en/articles/ai-privacy-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a27269fccd25aa89968e2fb8d17777a3ac98b226156c55fd585fc31e7f09e386"
+    },
+    {
+      "path": "en/articles/ai-product-copy.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e76c30014afe90534b085fe789a341c9575d32296a55c5ef9b3e90f229387891"
+    },
+    {
+      "path": "en/articles/ai-sop-writing.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "6a10568ab68f7b4e3e6784bac6d29ca34f3cf7f782a3d38693732480c5a9baeb"
+    },
+    {
+      "path": "en/articles/ai-spreadsheet-cleaning.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ec1552658cbe451db6ad3a48ff5ed937f08de5eb4cbe68ca1ce11863812cf3ea"
+    },
+    {
+      "path": "en/articles/ai-task-selection.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "32c17cabb42a9698644faa0cd22b79d819c78747d1e017dd9f0ed24e8585b5dd"
+    },
+    {
+      "path": "en/articles/ai-translation-review.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "cbe4ff571b78ed4b293fe1ac348cd89e8613f23d0b3c2b7f0e54aafec1303a7a"
+    },
+    {
+      "path": "en/articles/ai-weekly-report.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "aa66451cc8569340f2b295904da19c88670d52bbd474f5bd36214af13a738c71"
+    },
+    {
+      "path": "en/articles/ask-clarifying-questions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3ad439fdb428cb3a54ed9642b09162a1e1d3151a315276a2275f2320ee176bf2"
+    },
+    {
+      "path": "en/articles/branch-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "8fb4b2396a7f2ec0ad2d9df4295c1ba5d8a370b6d5d138147f6600bd8f55761d"
+    },
+    {
+      "path": "en/articles/break-down-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "1084bc4f6ce91c842ee5b2a50faac37bb8e337a4c3ca19d1e027e0cb574d7878"
+    },
+    {
+      "path": "en/articles/choose-ai-provider.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "aa202d261f18156d86e68f67153c51193f07bec4c0e14a0b4505dcea2b60530c"
+    },
+    {
+      "path": "en/articles/choose-ai-tool.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "024c6224140d7f986635de07fc66cb6589f1cf13026a1d97769da8d2d3e39e44"
+    },
+    {
+      "path": "en/articles/coding-without-secrets.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4f1f8ea13cc02989c2acd165f22c1353255119081527e81849544c42a59bf0de"
+    },
+    {
+      "path": "en/articles/commit-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "839e50600975b71cfad99278af44f74e912b09488ddeed2efb4a7c7bac74f02c"
+    },
+    {
+      "path": "en/articles/context-window.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "fade4d34f7d41c1c427c5c7e26ac25fb73d23fab1649321437860f9cb18cfe42"
+    },
+    {
+      "path": "en/articles/create-first-skill.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f719536cb0d3c264438996ddaa31befa511c40bd759bb938afbdc063d796904b"
+    },
+    {
+      "path": "en/articles/dependency-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "5e614e8468ace0f4136266732f77e8fa8093f5eda6e685b14c79f97eb609c301"
+    },
+    {
+      "path": "en/articles/download-release-or-source.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "56d2ebc2737aec611f7d39f756cbdba41a46ae973d2927815f83f10d71f6ae80"
+    },
+    {
+      "path": "en/articles/embeddings-explained.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "798d0790de194d486eaa52b3b6e51744ea1c23256c861cef58267f79cb8b5e65"
+    },
+    {
+      "path": "en/articles/enterprise-knowledge-base.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d9090c460d6c3e5c8fa4730bc5ea370b43d6ac734fa1678a505f0fd00074cc24"
+    },
+    {
+      "path": "en/articles/fine-tuning-or-rag.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "dff9ebffeb0f3aed965e936e34970919dd13dfe65497e1d2cdb7a846887fec33"
+    },
+    {
+      "path": "en/articles/first-ai-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "5fccd1728a7bf3faa23364b1c68d69e6e1e9dd21324da5b3758aca19cd8e1138"
+    },
+    {
+      "path": "en/articles/fix-bad-ai-answer.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ebe8e18a536ef43d0808969ea401dc6b051ef024a570e7391fe8ccdc66e43460"
+    },
+    {
+      "path": "en/articles/github-public-private.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "732563e18e7e7f3a1bf5a96450faa2e691f51b6df17125d35a44eff5e79ad587"
+    },
+    {
+      "path": "en/articles/how-llm-generates.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "57f7f70507f6f6a0a4dc95b303454c3ee0265f25851a0c4ca57200c4691ac626"
+    },
+    {
+      "path": "en/articles/inventory-reconciliation.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "4a857b15b21e5f976558333fed36db35f4313008ee1052346637802606820b49"
+    },
+    {
+      "path": "en/articles/issue-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b3335e301b4b8148b723746b7e4b98a42a88de3bbf6c7366fbef3c566c915964"
+    },
+    {
+      "path": "en/articles/mcp-read-only.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "8053ce78a7c1ad1c1d9b782cc986f54bf22aa06a9d851df2b9bbd89902c485a3"
+    },
+    {
+      "path": "en/articles/mcp-vs-api.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c8c1bb075ec414dc2a904f4b7b6a2002ab5dd0ed7dad8fb9a50528a37519d8ff"
+    },
+    {
+      "path": "en/articles/measure-ai-benefit.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "a663a52acf5f388db31d60aa8c93131b1d246805a9404526615c5139d1d066b0"
+    },
+    {
+      "path": "en/articles/model-size-and-cost.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9b290aa2879057d8c05a2b0abbd0c5dc2fdda3379e6801b3d1b53504c211143b"
+    },
+    {
+      "path": "en/articles/multi-agent-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "c751f2d28cfd2bb99986c56d6699d68bba53ae6c9591627733fff5838e9bada5"
+    },
+    {
+      "path": "en/articles/neural-network-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "481ee07aeb53d03963f70a89cd8e0f1f701e3ff0637d34234bffab66500e7d02"
+    },
+    {
+      "path": "en/articles/open-source-license.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "d4ac9ecb6f2ce4f07f174e3b3b797eb9004abef5af976be4358a70769e5820da"
+    },
+    {
+      "path": "en/articles/owner-ai-first-step.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "0df1ebd8eee36a90512cf72aa44854edf4939c3b9698b8a426338c68e1744874"
+    },
+    {
+      "path": "en/articles/prompt-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "22571020eb8b318e586a199bc07d9edd5f1ba2d1163b5dd2994d414e96d8a2ca"
+    },
+    {
+      "path": "en/articles/prompt-injection-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "0fca6951d9cba87d387f4ca209270f4b83b5b9c646b57c0799954aa1f19ca0b4"
+    },
+    {
+      "path": "en/articles/prompt-with-example.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "387f9bcf2ea15ac0f3f3ab4b9884349b5f1d556495f10c0d54e2a631b2d110da"
+    },
+    {
+      "path": "en/articles/provide-context.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "826e2f26324f34a01ea03d5969bb852738295d14a3f8b92df27eaa5071327348"
+    },
+    {
+      "path": "en/articles/pull-request-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3c349258ed04de3b67a25682afcce8441fbe586ec7ff440e40c988771c553cd2"
+    },
+    {
+      "path": "en/articles/rag-explained.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "5327283a5bd0392440d14c960739f8cdc8a20da7224107d5260cbf0c24f88dcc"
+    },
+    {
+      "path": "en/articles/read-ai-code-plan.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "dd625076f84002aca2d5098b07b9aebb9cbd439c8bd93a7931cbf918ae469d5c"
+    },
+    {
+      "path": "en/articles/readme-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "e19c5babac2326e7f431ce860e22d08d583c6f87f199b22e07b6d8b91c46e2a5"
+    },
+    {
+      "path": "en/articles/repository-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "5a39a4253707cf86db7a13fb7a1c7e9262e73bdaf72e79454d5a90368de14225"
+    },
+    {
+      "path": "en/articles/rewrite-with-ai.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "138bd0a6a63cb7bbb6cef65a0605b24e8d789cb80be62473502cd149b5775466"
+    },
+    {
+      "path": "en/articles/save-prompt-template.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "134b8afb1dac6efee3eebeea964fc9ebca26eb5c9f20b628ea607ddd2ac19c21"
+    },
+    {
+      "path": "en/articles/skill-file-structure.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3abdc43522e31750fafd2a2400d29f10c1fe90c0dee4ec67c4a1ae43606fe16b"
+    },
+    {
+      "path": "en/articles/skill-install-safely.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f42398085533ef25c4572610af8fcd6e9d0e1085923a44ba79985a35e5fb915a"
+    },
+    {
+      "path": "en/articles/skill-not-working.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "f3b3ed1681c583f4e3888b1c2c8ca0ef2bf905bf534a1e93a16d23026627dcb4"
+    },
+    {
+      "path": "en/articles/skill-vs-prompt.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "6740185d19d5e4aaed14e43b131d6f98b512ec022dbf0074da3ca601f5463844"
+    },
+    {
+      "path": "en/articles/structured-ai-output.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "5add738c477f4428bf3f38f886859c782f42864191eaaa51f75befbd718e2bd4"
+    },
+    {
+      "path": "en/articles/terminal-basics.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "01286bc6a0d942b2000e2df9836a72a65257fd01cfd40e3c88ad0ffeea5f2ab6"
+    },
+    {
+      "path": "en/articles/training-vs-inference.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "66c78284d89a1c8221f191773eccd2315eb13a21b039ef812ab76824bff53788"
+    },
+    {
+      "path": "en/articles/what-is-agent.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "dd4c27411bc0415c245f9ffb9e4ec93fe2368ac2689ee08c562d23b66734ff5c"
+    },
+    {
+      "path": "en/articles/what-is-ai.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "83f81e52007274d38e59aa91d2f867bcecf3758c9b5904e85241e037cf01b427"
+    },
+    {
+      "path": "en/articles/what-is-fde-business.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b3e77586939e9d5acf14715e8185a0486d7eb40890d92eb5235470d1088ff1ce"
+    },
+    {
+      "path": "en/articles/what-is-github.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "76905f82d66f1b1afb6b28711bfb7b5f050a911739ea7debf778c520f9017e47"
+    },
+    {
+      "path": "en/articles/what-is-harness.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "9d31979fda8574cc07694bc72be6ff4da4d333840ce447b790bc2802a112f50e"
+    },
+    {
+      "path": "en/articles/what-is-llm.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "657f2d969b01951dd41dc59308a13ac6fdf27aefd55acab16895ef1fc1e8463b"
+    },
+    {
+      "path": "en/articles/what-is-local-preview.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "62d7e7d289bd5c1344d7275962c3483000ac96628b5afc553007bf994e85069b"
+    },
+    {
+      "path": "en/articles/what-is-mcp.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "6ecf1b0676687240df0d68f5df422103cda1ccb69b7da410e37dd7ce14b3dc42"
+    },
+    {
+      "path": "en/articles/what-is-skill.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "895aa68614f8ab83f3b09e5adb8e3cea5683505b1dd7416d69769bd067301aaf"
+    },
+    {
+      "path": "en/articles/what-is-token.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "8c4dbb905210925adfb83b0c4f480bb577eed629eddfcd2a878f981244e663c5"
+    },
+    {
+      "path": "en/articles/what-is-workbuddy.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "bb99feaea949490a91cbf93855d853d2b1fd8de557db192ce3f2a67367b0f852"
+    },
+    {
+      "path": "en/articles/workbuddy-connectors.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "466fc4095e65a59e8efdd52a7e0d60f7bfcd985a34f47d6978dd7433369cfd89"
+    },
+    {
+      "path": "en/articles/workbuddy-file-organizing.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "3f77327342b9222ed1e00440419c75cc96c1df694a88cd551d9db43013db3de9"
+    },
+    {
+      "path": "en/articles/workbuddy-first-task.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "21b8f700c590fa807b2dd60211978694772aae83cc8dd183a199aaa4d3c306de"
+    },
+    {
+      "path": "en/articles/workbuddy-meeting-notes.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "ee0b8e5e4e2acd142bfdbee84fb8a1a20c95e64bcd02062830427ff0e6e7c214"
+    },
+    {
+      "path": "en/articles/workbuddy-permissions.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "7e18062b3fc88a68b5e00f5894af8d8b50f31c0f84a32e46b0a1ddcdb9a0be33"
+    },
+    {
+      "path": "en/articles/workbuddy-skills.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "19d5bc0ffdaeb7b5fb09de496a2d02e801b7e9efbba8c5f84c7714a64df5ad1a"
+    },
+    {
+      "path": "en/articles/workbuddy-spreadsheet.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "495c409b398c8a3619e471dc81e0a828aa4a34cc8f861b547defb22bb9b18c70"
+    },
+    {
+      "path": "en/articles/workbuddy-task-failed.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "98afd7cb6f1a0ac1cd920b62205ac05a5b2a20643105eb756cf0849ee3f8a38f"
+    },
+    {
+      "path": "en/articles/workbuddy-write-document.html",
+      "date": "2026-10-17",
+      "reason": "First article publication",
+      "new_content_sha256": "b3e1a90dd3bd42a1294832c4406626b1f3ec56d485f66f4c94027ec88a3fc2a0"
+    },
+    {
+      "path": "en/cases/n01.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "92b2e73f4304ed6af3be9d9fabaa34ce6050ac8d51264a35f864913d15c579f9"
+    },
+    {
+      "path": "en/cases/n02.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "ba00ff152a04193957403dedc4f945b61cb905504cdda981ecc7102402cbee2c"
+    },
+    {
+      "path": "en/cases/p01.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "80dad815f780e48a4e4343279f8063ddeaf36dca58df5a93ccc627c86ffba671"
+    },
+    {
+      "path": "en/cases/p02.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2978eb732a9dfa6c11ffa4babbac81fe6c7dee7e1c565c1a879999258e1ae620"
+    },
+    {
+      "path": "en/cases/p03.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "0e52550e6e4574ea58ee328965adfa9f09581415f262776e10b4469e0a80c138"
+    },
+    {
+      "path": "en/cases/p04.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "efc1e4e4052f1fc0d20d673ee75e67d04bb29ef792fd813b0227a554c25ef0e0"
+    },
+    {
+      "path": "en/cases/p05.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "1a8af7b2a61bf0fa27742de651ad54a204af8da489423ce7866ebac9ae7f058e"
+    },
+    {
+      "path": "en/cases/p06.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "75b289401013206ce9d82a440b63156a63e3d50e84dc1af7997cdd5e88cbe677"
+    },
+    {
+      "path": "en/cases/p07.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "375eeda08e50df54bc4a742e72e80a9a95d3b68459478184fc3714b06587c822"
+    },
+    {
+      "path": "en/cases/p08.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "178bef5d503497ec641fdccf10839157f3d9e11891461b0d26fc9b6459cc171b"
+    },
+    {
+      "path": "en/cases/p09.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "cec71f312f9fb44e11c80c6ca58f6ef134e4e00eda417caf99ee05efff7f61d5"
+    },
+    {
+      "path": "en/cases/p10.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2938f12464268293e2471c576a8b90fbd704408d408438f9bf11dea37570cee7"
+    },
+    {
+      "path": "en/cases/p11.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "a8647f3677fb9dd53523dd011b28292be3daf79ce7be2a0da7074e49cf466ac9"
+    },
+    {
+      "path": "en/cases/p12.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "6574ed35033232ed97705875ce01de384309e90b06abace36364ae8e5be090e9"
+    },
+    {
+      "path": "en/cases/p13.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "c13c982adeffa98885c99589a4a6c751175f1bca21a677057e7db5a23cef3791"
+    },
+    {
+      "path": "en/cases/p14.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "336f765d58ab71887370c673f7153887797c04afb1e92e7afeb4d2776d168c38"
+    },
+    {
+      "path": "en/cases/p15.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2749f684f0ca2e485d181c15403b4005a5472a197a3afee5df1f97cb008773ea"
+    },
+    {
+      "path": "en/cases/p16.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2e70dfec85541e94993bc7f20a757e0ef79ba764237566eeffbae33439b446c2"
+    },
+    {
+      "path": "en/cases/p17.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "45a2023292783b66a3a3765ed2ea064376f53cc35eacf5dc24987a1f42b52bd9"
+    },
+    {
+      "path": "en/cases/p18.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "c8b33e48103fff4d6c68c2c34a33fda2091ddf189b8ecd0c026af706657f6f9d"
+    },
+    {
+      "path": "en/cases/p19.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "42aefb6dd6fb4e5680cdcc858efc17786d0ef6f7b2880070e7c8fc4ed766c883"
+    },
+    {
+      "path": "en/cases/p20.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "b2d737a01ebe4e3cb21039c96f553e25726e162dac4743145a04637a4c1f813d"
+    },
+    {
+      "path": "en/cases/p21.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "60c23df7cf8078ebc73b0bf8a48cfb56eb7be5b4c3e5d1cff4632f86c904e431"
+    },
+    {
+      "path": "en/cases/p22.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "6beb6253e047e514e10f3ed0cd0ae81562c30ed63e9bdf99181311ec9cbfb0d9"
+    },
+    {
+      "path": "en/cases/p23.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "fa50bb5c712c46afefee936c6725bf40e7487a72847d16dafb6968b973d854dd"
+    },
+    {
+      "path": "en/cases/p24.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "cae7f4e38ab75bdea6c9914fbae381b2e3238391e2f46092062ca3a320cb35d6"
+    },
+    {
+      "path": "en/cases/p25.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "cda5620c996641f7799b3165987eddbd9f69feb340e0fe441415f48c292fbd02"
+    },
+    {
+      "path": "en/cases/p26.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "1651126dc949925d97b443c186be445f5438597c4c580e6085ac570a079c357f"
+    },
+    {
+      "path": "en/cases/p27.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "b2f3cf7dec491c089e172a408b3b1f6da6c186a353394e4078bd491892015b55"
+    },
+    {
+      "path": "en/cases/p28.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "186d593b3181e76f2a5b9b97ff9acbb77ca24dfeac69d395a2930acd7d1497e2"
+    },
+    {
+      "path": "en/cases/p29.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "0ee4c7def3ebde0d3bfc1b92fbee5a6c7c2ef63b3a951f9a03f8c8910a9aeb44"
+    },
+    {
+      "path": "en/cases/p30.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "31032e0187f8934a8913d09124154443e17fe6ac44b136e03f6bc5625aa85e69"
+    },
+    {
+      "path": "en/cases/p31.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "a28ec6abaa8f6b478c9ee3516556f5fbfcf9b8a1b2d18ad5aef907d4cbe2b06d"
+    },
+    {
+      "path": "en/cases/p32.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "e2115eb92b4118b214304e702af019a9f98aa5dc737a8103d6c068495e674799"
+    },
+    {
+      "path": "en/cases/p33.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "c36dbc0c32a3b584159b1128467f542cebfc57b835494b687bd20ea1dc9c99b5"
+    },
+    {
+      "path": "en/cases/p34.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "778599c9da5a49130af908832777c182c42ac9228039ef6b3582e293a6226b70"
+    },
+    {
+      "path": "en/cases/p35.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "2ec3c377d72c2dc0cb5a6f90f1f03607db2584faa108852ebe518abcd8506609"
+    },
+    {
+      "path": "en/cases/p36.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "abbdb1d96d1d0259fb571fbfcf7163a0c711ae694269a5f5c137d17e8c2a2f41"
+    },
+    {
+      "path": "en/index.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "c4fd1d438d63a0efd7b0a67f0b9f86d608ccb934d834fe49e39766e34478d18e"
+    },
+    {
+      "path": "en/records.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "e408e02798db2f707eefff45a10f378a1ddc82b4cf8b4a0bde630b44da2490c3"
+    },
+    {
+      "path": "en/services/ai-agent.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "1839d961da03b8a61c5f3a13aef5f7331f1105dd019f2b191e3cadea201affc6"
+    },
+    {
+      "path": "en/services/fde-consulting.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "805b10d2286eb5e905d0770c280aaaada4c78b5b3ecd7602876030aeee7e9644"
+    },
+    {
+      "path": "en/services/workflow-automation.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "4f5d418550a6a8866e560222691c9a3dc39b5ee86bda0ba1192d520ccf210456"
+    },
+    {
+      "path": "index.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "55a1f95ed47400f33c78d1dc99af3b51307190da4c47e2832367e9200b75759e"
+    },
+    {
+      "path": "records.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "c63275849a738f350bbc9bd7d81c0f69d392027f6681f9a7f7bed2be096afa53"
+    },
+    {
+      "path": "services/ai-agent.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "4169d31f60a79763bb20610a3de5bd7f5198bca1d3fb36608f19c697b97448d8"
+    },
+    {
+      "path": "services/fde-consulting.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "56aa8bff43353b19fbb51d7242203e51e176da95ae024d5c08c4d02f23460e5f"
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "date": "2026-10-17",
+      "reason": "New article navigation links",
+      "new_content_sha256": "5a659ca10971a79f788faf8a0d68f49d758bda5af6a9abef08746c7b55e6f3d9"
+    }
+  ]
+}

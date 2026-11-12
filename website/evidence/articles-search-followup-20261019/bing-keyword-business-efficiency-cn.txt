@@ -1,0 +1,173 @@
+Browser tab: 33, Title: "Keyword Research - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=%E4%BC%81%E4%B8%9A%E6%8F%90%E6%95%88".
+0 AXWebArea Keyword Research - Bing Webmaster Tools, URL: bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=%E4%BC%81%E4%B8%9A%E6%8F%90%E6%95%88
+	1 container
+		2 container root
+			3 container
+				4 link Description: Skip to main content, Value: bing.com/webmasters/keywordresearch?siteUrl=https%3A%2F%2Fwww.eliai.cn%2F&keyword=%E4%BC%81%E4%B8%9A%E6%8F%90%E6%95%88#content
+				5 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				6 image white bwt logo microsoft bing webmaster
+				7 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				8 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					13 image
+			14 container
+				15 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					16 text www.eliai.cn/
+				17 container Main menu
+					18 outline
+						19 row (selectable) Home
+							20 text Home
+						21 row (selectable) Search Performance
+							22 text Search Performance
+						23 row (selectable) AI Performance BETA
+							24 text AI Performance
+							25 text BETA
+						26 row (selectable) URL Inspection
+							27 text URL Inspection
+						28 row (selectable) Site Explorer
+							29 text Site Explorer
+						30 row (selectable) Sitemaps
+							31 text Sitemaps
+						32 row (selectable) IndexNow
+							33 text IndexNow
+						34 row (selectable) URL Submission
+							35 text URL Submission
+						36 row (selectable) Backlinks
+							37 text Backlinks
+						38 row (selectable) Keyword Research
+							39 text Keyword Research
+						40 row (selectable) Recommendations
+							41 text Recommendations
+						42 row (selectable) Site Scan
+							43 text Site Scan
+						44 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							45 text CONFIGURATION
+						46 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							47 text TOOLS & ENHANCEMENTS
+						48 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							49 text SECURITY & PRIVACY
+						50 row (selectable) User management
+							51 text User management
+						52 row (selectable) Microsoft Clarity
+							53 text Microsoft Clarity
+			54 container content
+				55 heading Keyword Research, Value: 2
+					56 text Keyword Research
+				57 text field (settable) Description: Enter keyword phrases, Value: 企业提效, ID: TextField95
+				58 button Get details
+					59 text Get details
+				60 combo box (collapsed) Description: dropdown filter, Value: People's Republic of China, ID: Dropdown104, Secondary Actions: Expand
+					61 text People's Republic of China
+				62 combo box (collapsed) Description: dropdown filter, Value: All, ID: Dropdown106, Secondary Actions: Expand
+					63 text All
+				64 combo box (collapsed) Description: Select Device, Value: All, ID: Dropdown107, Secondary Actions: Expand
+					65 text All
+				77 combo box (collapsed) Description: Duration, Value: 3 M, ID: Dropdown114, Secondary Actions: Expand
+					78 text 3 M
+				79 container
+					80 heading Keyword, Value: 4
+						81 text Keyword
+					82 heading 企业提效, Value: 1
+						83 text 企业提效
+				124 text Bing doesn’t have enough data to show trend here.
+				94 heading List By, Value: 3, ID: keywordIdeasList
+					95 text List By
+				96 container
+					97 tab group
+						98 tab (selected, settable, boolean) Related keywords, ID: Pivot123-Tab0, Value: 1
+Related keywords
+						99 tab (selectable, settable, boolean) Question keywords, ID: Pivot123-Tab1, Value: 0
+Question keywords
+						100 tab (selectable, settable, boolean) Newly discovered, ID: Pivot123-Tab2, Value: 0
+Newly discovered
+					101 container Related keywords
+				102 button Download all
+					103 text Download all
+				104 table keyword ideas details
+					105 row select all items Keywords, sortable Trends Impressions, sortable
+						106 cell select all items
+							107 checkbox Description: select all items, Value: 0, ID: header138-check
+						108 cell
+							109 button Description: Keywords, sortable, ID: header138-Query
+								110 text Keywords
+						111 cell Trends
+							112 text Trends
+						113 cell
+							114 button Description: Impressions, sortable, ID: header138-ImpressionCount
+								115 text Impressions
+					125 text No data available
+				126 container
+					127 text 0 rows
+				116 heading Top 10 url ranking on this keyword, Value: 3
+					117 text Top 10 url ranking on this keyword
+				118 table Top 10 url ranking on this keyword
+					119 row Title & URL Topics
+						120 cell Title & URL
+							121 text Title & URL
+						122 cell Topics
+							123 text Topics
+					128 row 企业如何利用 AI 提升效率？2026 企业 AI 落地提效方案 - 知乎 https://zhuanlan.zhihu.com/p/2063945735805186125 -, ID: row408-0
+						129 cell row408-0-header
+							130 link Description: 企业如何利用 AI 提升效率？2026 企业 AI 落地提效方案 - 知乎, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20AI%20%E6%8F%90%E5%8D%87%E6%95%88%E7%8E%87%EF%BC%9F2026%20%E4%BC%81%E4%B8%9A%20AI%20%E8%90%BD%E5%9C%B0%E6%8F%90%E6%95%88%E6%96%B9%E6%A1%88%20-%20%E7%9F%A5%E4%B9%8E
+							131 link Description: https://zhuanlan.zhihu.com/p/2063945735805186125, Value: zhuanlan.zhihu.com/p/2063945735805186125
+						132 cell row408-0-header
+							133 text -
+					134 row 2026企业降本增效的6大核心方法及落地措施 - 知乎 https://zhuanlan.zhihu.com/p/1995623874767909393 -, ID: row408-1
+						135 cell row408-1-header
+							136 link Description: 2026企业降本增效的6大核心方法及落地措施 - 知乎, Value: bing.com/search?q=2026%E4%BC%81%E4%B8%9A%E9%99%8D%E6%9C%AC%E5%A2%9E%E6%95%88%E7%9A%846%E5%A4%A7%E6%A0%B8%E5%BF%83%E6%96%B9%E6%B3%95%E5%8F%8A%E8%90%BD%E5%9C%B0%E6%8E%AA%E6%96%BD%20-%20%E7%9F%A5%E4%B9%8E
+							137 link Description: https://zhuanlan.zhihu.com/p/1995623874767909393, Value: zhuanlan.zhihu.com/p/1995623874767909393
+						138 cell row408-1-header
+							139 text -
+					140 row ID: row408-2, 人效提升：为企业高质量发展注入不竭动力 – McKinsey Greater China https://www.mckinsey.com.cn/%e4%ba%ba%e6%95%88%e6%8f%90%e5%8d%87%ef%bc%9a%e4%b8%ba%e4%bc%81%e4%b8%9a%e9%ab%98%e8%b4%a8%e9%87%8f%e5%8f%91%e5%b1%95%e6%b3%a8%e5%85%a5%e4%b8%8d%e7%ab%ad%e5%8a%a8%e5%8a%9b/ -
+						141 cell row408-2-header
+							142 link Description: 人效提升：为企业高质量发展注入不竭动力 – McKinsey Greater China, Value: bing.com/search?q=%E4%BA%BA%E6%95%88%E6%8F%90%E5%8D%87%EF%BC%9A%E4%B8%BA%E4%BC%81%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%B3%A8%E5%85%A5%E4%B8%8D%E7%AB%AD%E5%8A%A8%E5%8A%9B%20%E2%80%93%20McKinsey%20Greater%20China
+							143 link Description: https://www.mckinsey.com.cn/%e4%ba%ba%e6%95%88%e6%8f%90%e5%8d%87%ef%bc%9a%e4%b8%ba%e4%bc%81%e4%b8%9a%e9%ab%98%e8%b4%a8%e9%87%8f%e5%8f%91%e5%b1%95%e6%b3%a8%e5%85%a5%e4%b8%8d%e7%ab%ad%e5%8a%a8%e5%8a%9b/, Value: mckinsey.com.cn/%e4%ba%ba%e6%95%88%e6%8f%90%e5%8d%87%ef%bc%9a%e4%b8%ba%e4%bc%81%e4%b8%9a%e9%ab%98%e8%b4%a8%e9%87%8f%e5%8f%91%e5%b1%95%e6%b3%a8%e5%85%a5%e4%b8%8d%e7%ab%ad%e5%8a%a8%e5%8a%9b/
+						144 cell row408-2-header
+							145 text -
+					146 row 2026办公提效清单：这10个AI场景，每天都在帮你省时间 https://www.toutiao.com/article/7641944616329134626/ -, ID: row408-3
+						147 cell row408-3-header
+							148 link Description: 2026办公提效清单：这10个AI场景，每天都在帮你省时间, Value: bing.com/search?q=2026%E5%8A%9E%E5%85%AC%E6%8F%90%E6%95%88%E6%B8%85%E5%8D%95%EF%BC%9A%E8%BF%9910%E4%B8%AAAI%E5%9C%BA%E6%99%AF%EF%BC%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%B8%AE%E4%BD%A0%E7%9C%81%E6%97%B6%E9%97%B4
+							149 link Description: https://www.toutiao.com/article/7641944616329134626/, Value: toutiao.com/article/7641944616329134626/
+						150 cell row408-3-header
+							151 text -
+					152 row 2026企业运营管理提效，哪家服务商多数字员工协同的AI智能体好用？-CSDN.NET https://www.csdn.net/article/2026-09-16/165616214 -, ID: row408-4
+						153 cell row408-4-header
+							154 link Description: 2026企业运营管理提效，哪家服务商多数字员工协同的AI智能体好用？-CSDN.NET, Value: bing.com/search?q=2026%E4%BC%81%E4%B8%9A%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E6%8F%90%E6%95%88%EF%BC%8C%E5%93%AA%E5%AE%B6%E6%9C%8D%E5%8A%A1%E5%95%86%E5%A4%9A%E6%95%B0%E5%AD%97%E5%91%98%E5%B7%A5%E5%8D%8F%E5%90%8C%E7%9A%84AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%A5%BD%E7%94%A8%EF%BC%9F-CSDN.NET
+							155 link Description: https://www.csdn.net/article/2026-09-16/165616214, Value: csdn.net/article/2026-09-16/165616214
+						156 cell row408-4-header
+							157 text -
+					158 row AI 工具在企业提效上有哪些好的实践？ - 知乎 https://www.zhihu.com/question/2072450688005530581 -, ID: row408-5
+						159 cell row408-5-header
+							160 link Description: AI 工具在企业提效上有哪些好的实践？ - 知乎, Value: bing.com/search?q=AI%20%E5%B7%A5%E5%85%B7%E5%9C%A8%E4%BC%81%E4%B8%9A%E6%8F%90%E6%95%88%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A5%BD%E7%9A%84%E5%AE%9E%E8%B7%B5%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E
+							161 link Description: https://www.zhihu.com/question/2072450688005530581, Value: zhihu.com/question/2072450688005530581
+						162 cell row408-5-header
+							163 text -
+					164 row 企业如何用AI提效？场景化落地案例剖析 - 今日头条 https://www.toutiao.com/article/7574245087677350435/ -, ID: row408-6
+						165 cell row408-6-header
+							166 link Description: 企业如何用AI提效？场景化落地案例剖析 - 今日头条, Value: bing.com/search?q=%E4%BC%81%E4%B8%9A%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%8F%90%E6%95%88%EF%BC%9F%E5%9C%BA%E6%99%AF%E5%8C%96%E8%90%BD%E5%9C%B0%E6%A1%88%E4%BE%8B%E5%89%96%E6%9E%90%20-%20%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1
+							167 link Description: https://www.toutiao.com/article/7574245087677350435/, Value: toutiao.com/article/7574245087677350435/
+						168 cell row408-6-header
+							169 text -
+					170 row ID: row408-7, 激活人效，让企业在寒冬中活下去 – McKinsey Greater China https://www.mckinsey.com.cn/%e6%bf%80%e6%b4%bb%e4%ba%ba%e6%95%88%ef%bc%8c%e8%ae%a9%e4%bc%81%e4%b8%9a%e5%9c%a8%e5%af%92%e5%86%ac%e4%b8%ad%e6%b4%bb%e4%b8%8b%e5%8e%bb/ -
+						171 cell row408-7-header
+							172 link Description: 激活人效，让企业在寒冬中活下去 – McKinsey Greater China, Value: bing.com/search?q=%E6%BF%80%E6%B4%BB%E4%BA%BA%E6%95%88%EF%BC%8C%E8%AE%A9%E4%BC%81%E4%B8%9A%E5%9C%A8%E5%AF%92%E5%86%AC%E4%B8%AD%E6%B4%BB%E4%B8%8B%E5%8E%BB%20%E2%80%93%20McKinsey%20Greater%20China
+							173 link Description: https://www.mckinsey.com.cn/%e6%bf%80%e6%b4%bb%e4%ba%ba%e6%95%88%ef%bc%8c%e8%ae%a9%e4%bc%81%e4%b8%9a%e5%9c%a8%e5%af%92%e5%86%ac%e4%b8%ad%e6%b4%bb%e4%b8%8b%e5%8e%bb/, Value: mckinsey.com.cn/%e6%bf%80%e6%b4%bb%e4%ba%ba%e6%95%88%ef%bc%8c%e8%ae%a9%e4%bc%81%e4%b8%9a%e5%9c%a8%e5%af%92%e5%86%ac%e4%b8%ad%e6%b4%bb%e4%b8%8b%e5%8e%bb/
+						174 cell row408-7-header
+							175 text -
+					176 row ID: row408-8, 全链路实战解析：企业如何用AI Agent提效50%？｜95%的企业将被AI Agent重塑！-CSDN博客 https://blog.csdn.net/m0_59164520/article/details/148618464 -
+						177 cell row408-8-header
+							178 link Description: 全链路实战解析：企业如何用AI Agent提效50%？｜95%的企业将被AI Agent重塑！-CSDN博客, Value: bing.com/search?q=%E5%85%A8%E9%93%BE%E8%B7%AF%E5%AE%9E%E6%88%98%E8%A7%A3%E6%9E%90%EF%BC%9A%E4%BC%81%E4%B8%9A%E5%A6%82%E4%BD%95%E7%94%A8AI%20Agent%E6%8F%90%E6%95%8850%25%EF%BC%9F%EF%BD%9C95%25%E7%9A%84%E4%BC%81%E4%B8%9A%E5%B0%86%E8%A2%ABAI%20Agent%E9%87%8D%E5%A1%91%EF%BC%81-CSDN%E5%8D%9A%E5%AE%A2
+							179 link Description: https://blog.csdn.net/m0_59164520/article/details/148618464, Value: blog.csdn.net/m0_59164520/article/details/148618464
+						180 cell row408-8-header
+							181 text -
+					182 row AI智能体如何落地企业提效？一文拆解从工具选择到ROI核算的实战指南 https://www.ai-indeed.com/encyclopedia/23694.html -, ID: row408-9
+						183 cell row408-9-header
+							184 link Description: AI智能体如何落地企业提效？一文拆解从工具选择到ROI核算的实战指南, Value: bing.com/search?q=AI%E6%99%BA%E8%83%BD%E4%BD%93%E5%A6%82%E4%BD%95%E8%90%BD%E5%9C%B0%E4%BC%81%E4%B8%9A%E6%8F%90%E6%95%88%EF%BC%9F%E4%B8%80%E6%96%87%E6%8B%86%E8%A7%A3%E4%BB%8E%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9%E5%88%B0ROI%E6%A0%B8%E7%AE%97%E7%9A%84%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97
+							185 link Description: https://www.ai-indeed.com/encyclopedia/23694.html, Value: ai-indeed.com/encyclopedia/23694.html
+						186 cell row408-9-header
+							187 text -
+
+The focused UI element is 58 button Get details

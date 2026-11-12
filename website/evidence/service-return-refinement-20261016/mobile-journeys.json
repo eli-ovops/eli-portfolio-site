@@ -1,0 +1,77 @@
+[
+  {
+    "entry": {
+      "caseTitleSize": "17px",
+      "consultTop": 578.25,
+      "proofBottom": 564.25,
+      "scrollWidth": 390,
+      "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=261b385a8fe19e9371d2",
+      "width": 390
+    },
+    "caseState": {
+      "back": "http://127.0.0.1:4178/services/fde-consulting.html?pv=261b385a8fe19e9371d2#service-proof",
+      "h1": "洁具行业某大型 B 端厂商库存管理系统",
+      "label": "← 返回服务介绍",
+      "url": "http://127.0.0.1:4178/cases/p10.html?pv=261b385a8fe19e9371d2&from=%2Fservices%2Ffde-consulting.html%3Fpv%3D261b385a8fe19e9371d2%23service-proof"
+    },
+    "returned": {
+      "proofTop": 108.0625,
+      "url": "http://127.0.0.1:4178/services/fde-consulting.html?pv=261b385a8fe19e9371d2#service-proof"
+    },
+    "consult": {
+      "contactTop": 128.390625,
+      "overflow": false,
+      "url": "http://127.0.0.1:4178/about.html?pv=261b385a8fe19e9371d2#contact"
+    }
+  },
+  {
+    "entry": {
+      "caseTitleSize": "17px",
+      "consultTop": 592.4375,
+      "proofBottom": 578.4375,
+      "scrollWidth": 390,
+      "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=261b385a8fe19e9371d2",
+      "width": 390
+    },
+    "caseState": {
+      "back": "http://127.0.0.1:4178/services/ai-agent.html?pv=261b385a8fe19e9371d2#service-proof",
+      "h1": "英国某净水品牌 RAG 智能客服定制",
+      "label": "← 返回服务介绍",
+      "url": "http://127.0.0.1:4178/cases/p36.html?pv=261b385a8fe19e9371d2&from=%2Fservices%2Fai-agent.html%3Fpv%3D261b385a8fe19e9371d2%23service-proof"
+    },
+    "returned": {
+      "proofTop": 110.25,
+      "url": "http://127.0.0.1:4178/services/ai-agent.html?pv=261b385a8fe19e9371d2#service-proof"
+    },
+    "consult": {
+      "contactTop": 460.390625,
+      "overflow": false,
+      "url": "http://127.0.0.1:4178/about.html?pv=261b385a8fe19e9371d2#contact"
+    }
+  },
+  {
+    "entry": {
+      "caseTitleSize": "17px",
+      "consultTop": 592.4375,
+      "proofBottom": 578.4375,
+      "scrollWidth": 390,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=261b385a8fe19e9371d2",
+      "width": 390
+    },
+    "caseState": {
+      "back": "http://127.0.0.1:4178/services/workflow-automation.html?pv=261b385a8fe19e9371d2#service-proof",
+      "h1": "某家具品牌扫码库存系统",
+      "label": "← 返回服务介绍",
+      "url": "http://127.0.0.1:4178/cases/p09.html?pv=261b385a8fe19e9371d2&from=%2Fservices%2Fworkflow-automation.html%3Fpv%3D261b385a8fe19e9371d2%23service-proof"
+    },
+    "returned": {
+      "proofTop": 210.25,
+      "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=261b385a8fe19e9371d2#service-proof"
+    },
+    "consult": {
+      "contactTop": 505.390625,
+      "overflow": false,
+      "url": "http://127.0.0.1:4178/about.html?pv=261b385a8fe19e9371d2#contact"
+    }
+  }
+]

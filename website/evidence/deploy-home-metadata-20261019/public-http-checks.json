@@ -1,0 +1,104 @@
+{
+  "checked_utc": "2026-10-19T07:38:46.949572Z",
+  "checks": [
+    {
+      "path": "",
+      "package_key": "index.html",
+      "status": 200,
+      "sha256": "e61b02ff2caeb115dc32a287dd1223d7005dc2056f1d60b940ff1e91e69bfddc",
+      "matches_package": true
+    },
+    {
+      "path": "en/",
+      "package_key": "en/index.html",
+      "status": 200,
+      "sha256": "b8a64b66b7328256f93fa602195b239fc7d6192a3f289e48cf431fb89e130f2f",
+      "matches_package": true
+    },
+    {
+      "path": "index.html",
+      "package_key": "index.html",
+      "status": 200,
+      "sha256": "e61b02ff2caeb115dc32a287dd1223d7005dc2056f1d60b940ff1e91e69bfddc",
+      "matches_package": true
+    },
+    {
+      "path": "en/index.html",
+      "package_key": "en/index.html",
+      "status": 200,
+      "sha256": "b8a64b66b7328256f93fa602195b239fc7d6192a3f289e48cf431fb89e130f2f",
+      "matches_package": true
+    },
+    {
+      "path": "llms.txt",
+      "package_key": "llms.txt",
+      "status": 200,
+      "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+      "matches_package": true
+    },
+    {
+      "path": "sitemap.xml",
+      "package_key": "sitemap.xml",
+      "status": 200,
+      "sha256": "e9d5a3ce74fec8fa3c284b4e9fb132991eb9ccfe0a720178bd3bd3c53aa02172",
+      "matches_package": true
+    },
+    {
+      "path": "robots.txt",
+      "package_key": "robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "matches_package": true
+    },
+    {
+      "path": "services/fde-consulting.html",
+      "package_key": "services/fde-consulting.html",
+      "status": 200,
+      "sha256": "16626bd2b2488cddce3a3e12985511831d3d771d051084c297feff35ca938430",
+      "matches_package": true
+    },
+    {
+      "path": "services/ai-agent.html",
+      "package_key": "services/ai-agent.html",
+      "status": 200,
+      "sha256": "cf325498d600fac67dbf6dccd1490c6db0b019910d8048d36dd515063e90c9e6",
+      "matches_package": true
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "package_key": "services/workflow-automation.html",
+      "status": 200,
+      "sha256": "33b7cf8b54997a04747cbfd5aee88a51b03dec36832ae317c9ac0df2daad3b41",
+      "matches_package": true
+    },
+    {
+      "path": "about.html",
+      "package_key": "about.html",
+      "status": 200,
+      "sha256": "a6269266aa8933db72aa55204d1ddfe6db7272a8a4cd6f983ef74e1d695be074",
+      "matches_package": true
+    },
+    {
+      "path": "en/about.html",
+      "package_key": "en/about.html",
+      "status": 200,
+      "sha256": "a38012818fee590130a81b6d5b315d895655dddb3a741b64bdc249b774502781",
+      "matches_package": true
+    },
+    {
+      "path": "motion.js",
+      "package_key": "motion.js",
+      "status": 200,
+      "sha256": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+      "matches_package": true
+    },
+    {
+      "path": "assets/page-version.js",
+      "package_key": "assets/page-version.js",
+      "status": 200,
+      "sha256": "7c785b08aea1581da7fd9ff5b0bf8c7c7eecf0164fc0502fc7cb5f4cb447318d",
+      "matches_package": true
+    }
+  ],
+  "search_submissions": 0
+}

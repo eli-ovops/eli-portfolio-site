@@ -1,0 +1,47 @@
+{
+  "automation_id": "eliai-cn",
+  "triggered_at": "2026-10-13T06:55:39.821Z",
+  "checked_at": "2026-10-13T07:00:14.546Z",
+  "source": "https://record-console.jdcloud.com/audit/179136035309320530",
+  "refresh_confirmed": true,
+  "phase": "GOVERNMENT_REVIEW_IN_PROGRESS",
+  "sms_verification": "COMPLETED",
+  "final_receipt": "NOT_OBTAINED",
+  "deadline_start": "UNKNOWN",
+  "notification": "DONT_NOTIFY",
+  "page_evidence": {
+    "actions": [
+      "浏览备案信息"
+    ],
+    "status_message": "京东云已经将您备案信息提交管局审核，管局审核时间20个工作日内完成，请您耐心等侯。备案订单号：179136035309320530",
+    "status_title": "您的备案信息已提交至管局审核",
+    "steps": [
+      {
+        "title": "提交订单",
+        "title_class": "jc-step__title is-success"
+      },
+      {
+        "title": "京东云初审",
+        "title_class": "jc-step__title is-success"
+      },
+      {
+        "title": "提交管局",
+        "title_class": "jc-step__title is-success"
+      },
+      {
+        "title": "短信核验",
+        "title_class": "jc-step__title is-success"
+      },
+      {
+        "title": "管局审核",
+        "title_class": "jc-step__title is-process"
+      },
+      {
+        "title": "备案完成",
+        "title_class": "jc-step__title is-wait"
+      }
+    ]
+  },
+  "scope": "Read-only workflow status region; no identity records opened or business changes made.",
+  "navigation_note": "Initial navigation timed out; same tab subsequently loaded and ordinary refresh succeeded."
+}

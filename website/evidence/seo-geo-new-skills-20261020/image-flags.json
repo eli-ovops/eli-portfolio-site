@@ -1,0 +1,142 @@
+[
+  {
+    "page": "about.html",
+    "src": "https://www.eliai.cn/assets/react-bits-dither-robot.jpg",
+    "alt": "机器人视觉插画",
+    "width": "1400",
+    "height": "1939",
+    "loading": null,
+    "lazy_method": "none",
+    "bytes": 357359
+  },
+  {
+    "page": "about.html",
+    "src": "https://www.eliai.cn/assets/wechat-qr.png",
+    "alt": "Eli 的微信二维码",
+    "width": "728",
+    "height": "728",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 245546
+  },
+  {
+    "page": "cases/p02.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p02.png",
+    "alt": "深圳某慈善基金会脱敏界面展示",
+    "width": "1213",
+    "height": "744",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 775310
+  },
+  {
+    "page": "cases/p03.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p03.png",
+    "alt": "深圳某律师事务所脱敏界面展示",
+    "width": "1340",
+    "height": "820",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 1130810
+  },
+  {
+    "page": "cases/p05.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p05.png",
+    "alt": "英国某净水品牌全域营销脱敏界面展示",
+    "width": "2549",
+    "height": "1172",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 1193449
+  },
+  {
+    "page": "cases/p07.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p07.png",
+    "alt": "某家具品牌官网脱敏界面展示",
+    "width": "1280",
+    "height": "720",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 638433
+  },
+  {
+    "page": "cases/p13.html",
+    "src": "https://www.eliai.cn/assets/img13.png",
+    "alt": "Pocket Rove界面展示",
+    "width": "736",
+    "height": "1600",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 711604
+  },
+  {
+    "page": "en/about.html",
+    "src": "https://www.eliai.cn/assets/react-bits-dither-robot.jpg",
+    "alt": "Robot visual illustration",
+    "width": "1400",
+    "height": "1939",
+    "loading": null,
+    "lazy_method": "none",
+    "bytes": 357359
+  },
+  {
+    "page": "en/about.html",
+    "src": "https://www.eliai.cn/assets/wechat-qr.png",
+    "alt": "Eli’s WeChat QR code",
+    "width": "728",
+    "height": "728",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 245546
+  },
+  {
+    "page": "en/cases/p02.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p02.png",
+    "alt": "Shenzhen charity foundation — anonymized interface",
+    "width": "1213",
+    "height": "744",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 775310
+  },
+  {
+    "page": "en/cases/p03.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p03.png",
+    "alt": "Shenzhen law firm website — anonymized interface",
+    "width": "1340",
+    "height": "820",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 1130810
+  },
+  {
+    "page": "en/cases/p05.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p05.png",
+    "alt": "UK water purification brand marketing — anonymized interface",
+    "width": "2549",
+    "height": "1172",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 1193449
+  },
+  {
+    "page": "en/cases/p07.html",
+    "src": "https://www.eliai.cn/assets/public-cases/p07.png",
+    "alt": "Furniture brand website — anonymized interface",
+    "width": "1280",
+    "height": "720",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 638433
+  },
+  {
+    "page": "en/cases/p13.html",
+    "src": "https://www.eliai.cn/assets/img13.png",
+    "alt": "Pocket Rove — interface preview",
+    "width": "736",
+    "height": "1600",
+    "loading": "lazy",
+    "lazy_method": "native",
+    "bytes": 711604
+  }
+]

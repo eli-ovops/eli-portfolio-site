@@ -1,0 +1,42 @@
+[
+  {
+    "id": "eli-consult-entry-1",
+    "name": "咨询入口点击 · 主要位置",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-entry-2",
+    "name": "咨询入口点击 · 补充位置",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-email-1",
+    "name": "邮箱入口点击",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-email-2",
+    "name": "页脚邮箱点击",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-phone-1",
+    "name": "电话入口点击",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-phone-2",
+    "name": "页脚电话点击",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-whatsapp-1",
+    "name": "WhatsApp入口点击",
+    "saved": true
+  },
+  {
+    "id": "eli-consult-wechat-1",
+    "name": "微信二维码点击",
+    "saved": true
+  }
+]

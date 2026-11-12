@@ -1,0 +1,2042 @@
+[
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01",
+    "title": "库存每天靠人工核对，先改哪一步？",
+    "url": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01",
+    "title": "企业资料太散，做知识库答疑前要准备什么？",
+    "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-ai.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 是什么？先从一件小事理解",
+    "url": "https://www.eliai.cn/articles/what-is-ai.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 聊天和搜索引擎有什么区别？",
+    "url": "https://www.eliai.cn/articles/ai-chat-vs-search.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/first-ai-task.html?pv=e3304385905f8d1cdd01",
+    "title": "第一次用 AI，应该拿什么任务练手？",
+    "url": "https://www.eliai.cn/articles/first-ai-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/choose-ai-tool.html?pv=e3304385905f8d1cdd01",
+    "title": "新手怎么选 AI 工具，避免买一堆会员？",
+    "url": "https://www.eliai.cn/articles/choose-ai-tool.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-hallucination.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 一本正经胡说，怎么识别？",
+    "url": "https://www.eliai.cn/articles/ai-hallucination.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-privacy-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "哪些资料不该直接发给 AI？",
+    "url": "https://www.eliai.cn/articles/ai-privacy-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-file-reading.html?pv=e3304385905f8d1cdd01",
+    "title": "上传文件后，AI 真的读完了吗？",
+    "url": "https://www.eliai.cn/articles/ai-file-reading.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-generated-images.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 图片能直接当产品实拍图吗？",
+    "url": "https://www.eliai.cn/articles/ai-generated-images.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-jargon-map.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 圈黑话太多？先分清这十个词",
+    "url": "https://www.eliai.cn/articles/ai-jargon-map.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-learning-plan.html?pv=e3304385905f8d1cdd01",
+    "title": "零基础学 AI，第一周怎么安排？",
+    "url": "https://www.eliai.cn/articles/ai-learning-plan.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-llm.html?pv=e3304385905f8d1cdd01",
+    "title": "LLM 是什么？和聊天软件是一回事吗？",
+    "url": "https://www.eliai.cn/articles/what-is-llm.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/how-llm-generates.html?pv=e3304385905f8d1cdd01",
+    "title": "大模型怎么一句一句生成回答？",
+    "url": "https://www.eliai.cn/articles/how-llm-generates.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+    "title": "Token 是什么？为什么不是一个字一个 Token？",
+    "url": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/context-window.html?pv=e3304385905f8d1cdd01",
+    "title": "上下文窗口是什么？为什么聊久了忘事？",
+    "url": "https://www.eliai.cn/articles/context-window.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/training-vs-inference.html?pv=e3304385905f8d1cdd01",
+    "title": "训练和推理有什么区别？聊天是在训练它吗？",
+    "url": "https://www.eliai.cn/articles/training-vs-inference.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/neural-network-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "神经网络是什么？不学公式怎么理解？",
+    "url": "https://www.eliai.cn/articles/neural-network-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/embeddings-explained.html?pv=e3304385905f8d1cdd01",
+    "title": "Embedding 是什么？资料为什么能按意思查？",
+    "url": "https://www.eliai.cn/articles/embeddings-explained.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/rag-explained.html?pv=e3304385905f8d1cdd01",
+    "title": "RAG 是什么？为什么企业知识库常用它？",
+    "url": "https://www.eliai.cn/articles/rag-explained.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html?pv=e3304385905f8d1cdd01",
+    "title": "微调、知识库和提示词，先用哪个？",
+    "url": "https://www.eliai.cn/articles/fine-tuning-or-rag.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/model-size-and-cost.html?pv=e3304385905f8d1cdd01",
+    "title": "模型越大越好吗？怎么判断够不够用？",
+    "url": "https://www.eliai.cn/articles/model-size-and-cost.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/prompt-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "Prompt 是什么？怎么把一句话需求讲清？",
+    "url": "https://www.eliai.cn/articles/prompt-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/provide-context.html?pv=e3304385905f8d1cdd01",
+    "title": "怎么给 AI 背景信息，又不写成一大篇？",
+    "url": "https://www.eliai.cn/articles/provide-context.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/prompt-with-example.html?pv=e3304385905f8d1cdd01",
+    "title": "给 AI 一个例子，为什么比反复解释更好？",
+    "url": "https://www.eliai.cn/articles/prompt-with-example.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/structured-ai-output.html?pv=e3304385905f8d1cdd01",
+    "title": "怎么让 AI 稳定输出表格或固定字段？",
+    "url": "https://www.eliai.cn/articles/structured-ai-output.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/break-down-task.html?pv=e3304385905f8d1cdd01",
+    "title": "任务太大做不好？怎么拆给 AI？",
+    "url": "https://www.eliai.cn/articles/break-down-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html?pv=e3304385905f8d1cdd01",
+    "title": "怎么让 AI 先问关键问题，又不一直问？",
+    "url": "https://www.eliai.cn/articles/ask-clarifying-questions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/rewrite-with-ai.html?pv=e3304385905f8d1cdd01",
+    "title": "让 AI 改文案，怎样不改掉原意？",
+    "url": "https://www.eliai.cn/articles/rewrite-with-ai.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-compare-options.html?pv=e3304385905f8d1cdd01",
+    "title": "让 AI 比方案，怎么避免凭空打分？",
+    "url": "https://www.eliai.cn/articles/ai-compare-options.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 答偏了，怎么反馈才有效？",
+    "url": "https://www.eliai.cn/articles/fix-bad-ai-answer.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/save-prompt-template.html?pv=e3304385905f8d1cdd01",
+    "title": "好用的提示词怎么保存成模板？",
+    "url": "https://www.eliai.cn/articles/save-prompt-template.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-agent.html?pv=e3304385905f8d1cdd01",
+    "title": "Agent 是什么？跟普通 AI 聊天差在哪？",
+    "url": "https://www.eliai.cn/articles/what-is-agent.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-first-task.html?pv=e3304385905f8d1cdd01",
+    "title": "新手第一次用 Agent，该选什么任务？",
+    "url": "https://www.eliai.cn/articles/agent-first-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-tools-permissions.html?pv=e3304385905f8d1cdd01",
+    "title": "Agent 要读文件、联网、发消息，都该允许吗？",
+    "url": "https://www.eliai.cn/articles/agent-tools-permissions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-plan-and-act.html?pv=e3304385905f8d1cdd01",
+    "title": "Agent 写了计划，为什么不算完成？",
+    "url": "https://www.eliai.cn/articles/agent-plan-and-act.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-workflow-difference.html?pv=e3304385905f8d1cdd01",
+    "title": "工作流和 Agent，企业先用哪种？",
+    "url": "https://www.eliai.cn/articles/agent-workflow-difference.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-feedback-loop.html?pv=e3304385905f8d1cdd01",
+    "title": "Agent 为什么要边做边检查？",
+    "url": "https://www.eliai.cn/articles/agent-feedback-loop.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-memory.html?pv=e3304385905f8d1cdd01",
+    "title": "Agent 的记忆靠谱吗？重要规则放哪里？",
+    "url": "https://www.eliai.cn/articles/agent-memory.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-stop-rules.html?pv=e3304385905f8d1cdd01",
+    "title": "怎么防止 Agent 一直重试、一直花钱？",
+    "url": "https://www.eliai.cn/articles/agent-stop-rules.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/multi-agent-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "多 Agent 是什么？一个人用 AI 需要吗？",
+    "url": "https://www.eliai.cn/articles/multi-agent-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/agent-risk-checklist.html?pv=e3304385905f8d1cdd01",
+    "title": "Agent 上岗前，老板应该检查哪几件事？",
+    "url": "https://www.eliai.cn/articles/agent-risk-checklist.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-skill.html?pv=e3304385905f8d1cdd01",
+    "title": "Skill 是什么？是不是另一个 AI？",
+    "url": "https://www.eliai.cn/articles/what-is-skill.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/skill-file-structure.html?pv=e3304385905f8d1cdd01",
+    "title": "SKILL.md 是什么？一个技能包里放什么？",
+    "url": "https://www.eliai.cn/articles/skill-file-structure.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/skill-vs-prompt.html?pv=e3304385905f8d1cdd01",
+    "title": "Skill 和提示词模板，什么时候用哪个？",
+    "url": "https://www.eliai.cn/articles/skill-vs-prompt.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/skill-install-safely.html?pv=e3304385905f8d1cdd01",
+    "title": "网上下载的 Skill，安装前看什么？",
+    "url": "https://www.eliai.cn/articles/skill-install-safely.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/create-first-skill.html?pv=e3304385905f8d1cdd01",
+    "title": "会议纪要 Skill 怎么写成能反复检查的规则？",
+    "url": "https://www.eliai.cn/articles/create-first-skill.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-mcp.html?pv=e3304385905f8d1cdd01",
+    "title": "MCP 是什么？为什么叫连接 AI 的接口？",
+    "url": "https://www.eliai.cn/articles/what-is-mcp.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/mcp-vs-api.html?pv=e3304385905f8d1cdd01",
+    "title": "MCP 连上却查询失败？它和 API 分别负责什么？",
+    "url": "https://www.eliai.cn/articles/mcp-vs-api.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/mcp-read-only.html?pv=e3304385905f8d1cdd01",
+    "title": "第一次接 MCP，为什么先用只读？",
+    "url": "https://www.eliai.cn/articles/mcp-read-only.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/skill-not-working.html?pv=e3304385905f8d1cdd01",
+    "title": "技能装好了却不生效，先查哪里？",
+    "url": "https://www.eliai.cn/articles/skill-not-working.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/prompt-injection-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "提示词注入是什么？网页为什么会指挥 AI？",
+    "url": "https://www.eliai.cn/articles/prompt-injection-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-harness.html?pv=e3304385905f8d1cdd01",
+    "title": "Harness 是什么？为什么光有模型还不够？",
+    "url": "https://www.eliai.cn/articles/what-is-harness.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-coding-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "不会编程，能让 AI 写一个小工具吗？",
+    "url": "https://www.eliai.cn/articles/ai-coding-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/read-ai-code-plan.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 改代码前，外行要看懂什么？",
+    "url": "https://www.eliai.cn/articles/read-ai-code-plan.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/terminal-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "终端是什么？为什么 AI 总让我运行命令？",
+    "url": "https://www.eliai.cn/articles/terminal-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+    "title": "本地预览和正式上线，有什么区别？",
+    "url": "https://www.eliai.cn/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/acceptance-tests.html?pv=e3304385905f8d1cdd01",
+    "title": "验收测试是什么？怎么判断 AI 写完了？",
+    "url": "https://www.eliai.cn/articles/acceptance-tests.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-debugging.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 修 Bug，怎么避免越修越乱？",
+    "url": "https://www.eliai.cn/articles/ai-debugging.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-checkpoints.html?pv=e3304385905f8d1cdd01",
+    "title": "长任务的检查点，应该记哪些信息？",
+    "url": "https://www.eliai.cn/articles/ai-checkpoints.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/dependency-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "依赖是什么？装一个包为什么带来很多文件？",
+    "url": "https://www.eliai.cn/articles/dependency-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/coding-without-secrets.html?pv=e3304385905f8d1cdd01",
+    "title": "让 AI 看代码，API Key 应该怎么处理？",
+    "url": "https://www.eliai.cn/articles/coding-without-secrets.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-github.html?pv=e3304385905f8d1cdd01",
+    "title": "GitHub 是什么？外行可以用来干什么？",
+    "url": "https://www.eliai.cn/articles/what-is-github.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/repository-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "Repository 仓库是什么？不是网盘吗？",
+    "url": "https://www.eliai.cn/articles/repository-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/readme-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "README 怎么看？先找这五类信息",
+    "url": "https://www.eliai.cn/articles/readme-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/download-release-or-source.html?pv=e3304385905f8d1cdd01",
+    "title": "下载源码 ZIP 和 Release，有什么区别？",
+    "url": "https://www.eliai.cn/articles/download-release-or-source.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/commit-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "Commit 提交是什么？和保存文件一样吗？",
+    "url": "https://www.eliai.cn/articles/commit-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/branch-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "Branch 分支是什么？新手为什么要用？",
+    "url": "https://www.eliai.cn/articles/branch-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/pull-request-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "Pull Request 是什么？不是点了就上线吧？",
+    "url": "https://www.eliai.cn/articles/pull-request-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/issue-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "怎么在 GitHub 提问，别人更容易帮你？",
+    "url": "https://www.eliai.cn/articles/issue-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/open-source-license.html?pv=e3304385905f8d1cdd01",
+    "title": "开源就是免费随便商用吗？",
+    "url": "https://www.eliai.cn/articles/open-source-license.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/github-public-private.html?pv=e3304385905f8d1cdd01",
+    "title": "GitHub 公开与私有仓库，怎么避免泄露？",
+    "url": "https://www.eliai.cn/articles/github-public-private.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-workbuddy.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 是什么？能怎么协助办公？",
+    "url": "https://www.eliai.cn/articles/what-is-workbuddy.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-first-task.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 第一个任务怎么建，产物在哪里找？",
+    "url": "https://www.eliai.cn/articles/workbuddy-first-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html?pv=e3304385905f8d1cdd01",
+    "title": "用 WorkBuddy 整理文件，怎么先预览再改名？",
+    "url": "https://www.eliai.cn/articles/workbuddy-file-organizing.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html?pv=e3304385905f8d1cdd01",
+    "title": "用 WorkBuddy 把会议文字存成纪要文件，怎么核对？",
+    "url": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 能帮我看 Excel 吗？先从异常清单开始",
+    "url": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-write-document.html?pv=e3304385905f8d1cdd01",
+    "title": "用 WorkBuddy 写文档，怎么避免生成空话？",
+    "url": "https://www.eliai.cn/articles/workbuddy-write-document.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-skills.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 的技能怎么选，不要一次全装？",
+    "url": "https://www.eliai.cn/articles/workbuddy-skills.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-connectors.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 连接邮箱或文档前，要弄清什么？",
+    "url": "https://www.eliai.cn/articles/workbuddy-connectors.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-permissions.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 权限提示看不懂，怎么决定？",
+    "url": "https://www.eliai.cn/articles/workbuddy-permissions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html?pv=e3304385905f8d1cdd01",
+    "title": "WorkBuddy 卡住或没产物，怎么排查？",
+    "url": "https://www.eliai.cn/articles/workbuddy-task-failed.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-email-draft.html?pv=e3304385905f8d1cdd01",
+    "title": "用 AI 写邮件，怎么做到有用又不乱承诺？",
+    "url": "https://www.eliai.cn/articles/ai-email-draft.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-meeting-actions.html?pv=e3304385905f8d1cdd01",
+    "title": "会议纪要里怎么区分决定和建议？",
+    "url": "https://www.eliai.cn/articles/ai-meeting-actions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html?pv=e3304385905f8d1cdd01",
+    "title": "表格太乱，AI 清洗前先定什么规则？",
+    "url": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html?pv=e3304385905f8d1cdd01",
+    "title": "用 AI 核对库存，第一步为什么只列异常？",
+    "url": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-product-copy.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 写产品文案，哪些信息绝对不能编？",
+    "url": "https://www.eliai.cn/articles/ai-product-copy.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-translation-review.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 翻译能直接发客户吗？怎么检查？",
+    "url": "https://www.eliai.cn/articles/ai-translation-review.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-weekly-report.html?pv=e3304385905f8d1cdd01",
+    "title": "周报怎么用 AI 整理，不把计划写成成果？",
+    "url": "https://www.eliai.cn/articles/ai-weekly-report.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+    "title": "OCR 是什么？识别单据后还要核对什么？",
+    "url": "https://www.eliai.cn/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html?pv=e3304385905f8d1cdd01",
+    "title": "企业知识库从哪里开始，不是把文件全上传？",
+    "url": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-sop-writing.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 怎么把老师傅经验整理成操作步骤？",
+    "url": "https://www.eliai.cn/articles/ai-sop-writing.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/owner-ai-first-step.html?pv=e3304385905f8d1cdd01",
+    "title": "老板想用 AI 提效，第一步不是买系统",
+    "url": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-task-selection.html?pv=e3304385905f8d1cdd01",
+    "title": "哪些工作适合先用 AI，哪些先别碰？",
+    "url": "https://www.eliai.cn/articles/ai-task-selection.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-pilot-design.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 小试点怎么做，避免一上来花大钱？",
+    "url": "https://www.eliai.cn/articles/ai-pilot-design.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 提效要花哪些钱？别只看会员费",
+    "url": "https://www.eliai.cn/articles/ai-cost-breakdown.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/measure-ai-benefit.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 到底有没有提效？老板怎么量？",
+    "url": "https://www.eliai.cn/articles/measure-ai-benefit.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/choose-ai-provider.html?pv=e3304385905f8d1cdd01",
+    "title": "怎么挑企业 AI 提效服务商，不被术语绕晕？",
+    "url": "https://www.eliai.cn/articles/choose-ai-provider.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/what-is-fde-business.html?pv=e3304385905f8d1cdd01",
+    "title": "FDE 是什么？中小企业需要关心这个职位吗？",
+    "url": "https://www.eliai.cn/articles/what-is-fde-business.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-employee-training.html?pv=e3304385905f8d1cdd01",
+    "title": "员工不愿用 AI，怎么安排入门培训？",
+    "url": "https://www.eliai.cn/articles/ai-employee-training.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html?pv=e3304385905f8d1cdd01",
+    "title": "AI 工具交付后，谁负责更新和修问题？",
+    "url": "https://www.eliai.cn/articles/ai-maintenance-owner.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "zh-CN",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html?pv=e3304385905f8d1cdd01",
+    "title": "免费咨询前，老板准备哪三句话就够了？",
+    "url": "https://www.eliai.cn/articles/ai-consultation-prepare.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01",
+    "title": "Manual inventory checks every day: where should you start?",
+    "url": "https://www.eliai.cn/en/articles/inventory-reconciliation.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01",
+    "title": "Company information is scattered: what should you prepare for a knowledge base?",
+    "url": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-ai.html?pv=e3304385905f8d1cdd01",
+    "title": "What is AI? Start with one small task",
+    "url": "https://www.eliai.cn/en/articles/what-is-ai.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-chat-vs-search.html?pv=e3304385905f8d1cdd01",
+    "title": "AI chat or search: which should you use?",
+    "url": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/first-ai-task.html?pv=e3304385905f8d1cdd01",
+    "title": "What should your first AI task be?",
+    "url": "https://www.eliai.cn/en/articles/first-ai-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/choose-ai-tool.html?pv=e3304385905f8d1cdd01",
+    "title": "How do beginners choose an AI tool?",
+    "url": "https://www.eliai.cn/en/articles/choose-ai-tool.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-hallucination.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you spot an AI hallucination?",
+    "url": "https://www.eliai.cn/en/articles/ai-hallucination.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-privacy-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What should you avoid uploading to AI?",
+    "url": "https://www.eliai.cn/en/articles/ai-privacy-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-file-reading.html?pv=e3304385905f8d1cdd01",
+    "title": "Did the AI actually read the whole file?",
+    "url": "https://www.eliai.cn/en/articles/ai-file-reading.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-generated-images.html?pv=e3304385905f8d1cdd01",
+    "title": "Can AI images replace product photos?",
+    "url": "https://www.eliai.cn/en/articles/ai-generated-images.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-jargon-map.html?pv=e3304385905f8d1cdd01",
+    "title": "AI jargon: ten terms worth separating",
+    "url": "https://www.eliai.cn/en/articles/ai-jargon-map.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-learning-plan.html?pv=e3304385905f8d1cdd01",
+    "title": "A first-week AI learning plan",
+    "url": "https://www.eliai.cn/en/articles/ai-learning-plan.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-llm.html?pv=e3304385905f8d1cdd01",
+    "title": "What is an LLM, and is it the chat app?",
+    "url": "https://www.eliai.cn/en/articles/what-is-llm.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/how-llm-generates.html?pv=e3304385905f8d1cdd01",
+    "title": "How does a language model generate an answer?",
+    "url": "https://www.eliai.cn/en/articles/how-llm-generates.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a token, and is it one character?",
+    "url": "https://www.eliai.cn/en/articles/what-is-token.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/context-window.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a context window, and why does chat lose details?",
+    "url": "https://www.eliai.cn/en/articles/context-window.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/training-vs-inference.html?pv=e3304385905f8d1cdd01",
+    "title": "Training versus inference: does chatting train the model?",
+    "url": "https://www.eliai.cn/en/articles/training-vs-inference.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/neural-network-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a neural network without the equations?",
+    "url": "https://www.eliai.cn/en/articles/neural-network-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/embeddings-explained.html?pv=e3304385905f8d1cdd01",
+    "title": "What are embeddings, and how does semantic search work?",
+    "url": "https://www.eliai.cn/en/articles/embeddings-explained.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/rag-explained.html?pv=e3304385905f8d1cdd01",
+    "title": "What is RAG, and why use it for a knowledge base?",
+    "url": "https://www.eliai.cn/en/articles/rag-explained.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/fine-tuning-or-rag.html?pv=e3304385905f8d1cdd01",
+    "title": "Prompting, RAG or fine-tuning: where should you start?",
+    "url": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/model-size-and-cost.html?pv=e3304385905f8d1cdd01",
+    "title": "Is a bigger model always better for your task?",
+    "url": "https://www.eliai.cn/en/articles/model-size-and-cost.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/prompt-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a prompt, and how do you write one?",
+    "url": "https://www.eliai.cn/en/articles/prompt-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/provide-context.html?pv=e3304385905f8d1cdd01",
+    "title": "How much background should you give AI?",
+    "url": "https://www.eliai.cn/en/articles/provide-context.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/prompt-with-example.html?pv=e3304385905f8d1cdd01",
+    "title": "How does an example improve your prompt?",
+    "url": "https://www.eliai.cn/en/articles/prompt-with-example.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/structured-ai-output.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you get a consistent table or field format?",
+    "url": "https://www.eliai.cn/en/articles/structured-ai-output.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/break-down-task.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you split a task AI keeps getting wrong?",
+    "url": "https://www.eliai.cn/en/articles/break-down-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ask-clarifying-questions.html?pv=e3304385905f8d1cdd01",
+    "title": "How can AI ask useful questions without stalling?",
+    "url": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/rewrite-with-ai.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you rewrite text without changing its meaning?",
+    "url": "https://www.eliai.cn/en/articles/rewrite-with-ai.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-compare-options.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you compare options without invented scores?",
+    "url": "https://www.eliai.cn/en/articles/ai-compare-options.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/fix-bad-ai-answer.html?pv=e3304385905f8d1cdd01",
+    "title": "How should you correct an off-target AI answer?",
+    "url": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/save-prompt-template.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you save a useful prompt as a template?",
+    "url": "https://www.eliai.cn/en/articles/save-prompt-template.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-agent.html?pv=e3304385905f8d1cdd01",
+    "title": "What is an AI agent compared with chat?",
+    "url": "https://www.eliai.cn/en/articles/what-is-agent.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-first-task.html?pv=e3304385905f8d1cdd01",
+    "title": "A safe first task for an agent",
+    "url": "https://www.eliai.cn/en/articles/agent-first-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-tools-permissions.html?pv=e3304385905f8d1cdd01",
+    "title": "Which permissions should you give an agent?",
+    "url": "https://www.eliai.cn/en/articles/agent-tools-permissions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-plan-and-act.html?pv=e3304385905f8d1cdd01",
+    "title": "Why is an agent's plan not proof of completion?",
+    "url": "https://www.eliai.cn/en/articles/agent-plan-and-act.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-workflow-difference.html?pv=e3304385905f8d1cdd01",
+    "title": "Workflow or agent: which should a business try first?",
+    "url": "https://www.eliai.cn/en/articles/agent-workflow-difference.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-feedback-loop.html?pv=e3304385905f8d1cdd01",
+    "title": "Why should an agent check between actions?",
+    "url": "https://www.eliai.cn/en/articles/agent-feedback-loop.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-memory.html?pv=e3304385905f8d1cdd01",
+    "title": "Can you rely on agent memory?",
+    "url": "https://www.eliai.cn/en/articles/agent-memory.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-stop-rules.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you stop endless agent retries?",
+    "url": "https://www.eliai.cn/en/articles/agent-stop-rules.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/multi-agent-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What are multiple agents, and do you need them?",
+    "url": "https://www.eliai.cn/en/articles/multi-agent-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/agent-risk-checklist.html?pv=e3304385905f8d1cdd01",
+    "title": "What should an owner check before using an agent?",
+    "url": "https://www.eliai.cn/en/articles/agent-risk-checklist.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-skill.html?pv=e3304385905f8d1cdd01",
+    "title": "What is an agent skill? Is it another AI?",
+    "url": "https://www.eliai.cn/en/articles/what-is-skill.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/skill-file-structure.html?pv=e3304385905f8d1cdd01",
+    "title": "What is SKILL.md, and what belongs in a skill folder?",
+    "url": "https://www.eliai.cn/en/articles/skill-file-structure.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/skill-vs-prompt.html?pv=e3304385905f8d1cdd01",
+    "title": "Skill or prompt template: which do you need?",
+    "url": "https://www.eliai.cn/en/articles/skill-vs-prompt.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/skill-install-safely.html?pv=e3304385905f8d1cdd01",
+    "title": "What should you check before installing a skill?",
+    "url": "https://www.eliai.cn/en/articles/skill-install-safely.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/create-first-skill.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you make a meeting-notes skill repeatable and testable?",
+    "url": "https://www.eliai.cn/en/articles/create-first-skill.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-mcp.html?pv=e3304385905f8d1cdd01",
+    "title": "What is MCP in plain language?",
+    "url": "https://www.eliai.cn/en/articles/what-is-mcp.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/mcp-vs-api.html?pv=e3304385905f8d1cdd01",
+    "title": "MCP connects but a query fails: how is it different from an API?",
+    "url": "https://www.eliai.cn/en/articles/mcp-vs-api.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/mcp-read-only.html?pv=e3304385905f8d1cdd01",
+    "title": "Why start an MCP connection with read-only access?",
+    "url": "https://www.eliai.cn/en/articles/mcp-read-only.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/skill-not-working.html?pv=e3304385905f8d1cdd01",
+    "title": "A skill is installed but not working. What now?",
+    "url": "https://www.eliai.cn/en/articles/skill-not-working.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/prompt-injection-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is prompt injection in a webpage?",
+    "url": "https://www.eliai.cn/en/articles/prompt-injection-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-harness.html?pv=e3304385905f8d1cdd01",
+    "title": "What is an agent harness, and why does it matter?",
+    "url": "https://www.eliai.cn/en/articles/what-is-harness.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-coding-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "Can a non-programmer make a small tool with AI?",
+    "url": "https://www.eliai.cn/en/articles/ai-coding-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/read-ai-code-plan.html?pv=e3304385905f8d1cdd01",
+    "title": "What should you understand before AI edits code?",
+    "url": "https://www.eliai.cn/en/articles/read-ai-code-plan.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/terminal-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a terminal, and why does AI suggest commands?",
+    "url": "https://www.eliai.cn/en/articles/terminal-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+    "title": "Local preview versus publishing: what's the difference?",
+    "url": "https://www.eliai.cn/en/articles/what-is-local-preview.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/acceptance-tests.html?pv=e3304385905f8d1cdd01",
+    "title": "What is an acceptance test for AI-generated software?",
+    "url": "https://www.eliai.cn/en/articles/acceptance-tests.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-debugging.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you stop AI bug fixes from causing more bugs?",
+    "url": "https://www.eliai.cn/en/articles/ai-debugging.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-checkpoints.html?pv=e3304385905f8d1cdd01",
+    "title": "What belongs in a checkpoint for a long AI task?",
+    "url": "https://www.eliai.cn/en/articles/ai-checkpoints.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/dependency-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a dependency, and why does installation add files?",
+    "url": "https://www.eliai.cn/en/articles/dependency-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/coding-without-secrets.html?pv=e3304385905f8d1cdd01",
+    "title": "How should you handle API keys when AI reads code?",
+    "url": "https://www.eliai.cn/en/articles/coding-without-secrets.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-github.html?pv=e3304385905f8d1cdd01",
+    "title": "What is GitHub useful for if you do not code?",
+    "url": "https://www.eliai.cn/en/articles/what-is-github.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/repository-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a repository, and is it a cloud drive?",
+    "url": "https://www.eliai.cn/en/articles/repository-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/readme-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you read a README?",
+    "url": "https://www.eliai.cn/en/articles/readme-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/download-release-or-source.html?pv=e3304385905f8d1cdd01",
+    "title": "Source ZIP or release: what should you download?",
+    "url": "https://www.eliai.cn/en/articles/download-release-or-source.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/commit-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a commit compared with saving a file?",
+    "url": "https://www.eliai.cn/en/articles/commit-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/branch-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a branch, and why use one?",
+    "url": "https://www.eliai.cn/en/articles/branch-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/pull-request-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "What is a pull request, and does it publish changes?",
+    "url": "https://www.eliai.cn/en/articles/pull-request-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/issue-basics.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you write a useful GitHub issue?",
+    "url": "https://www.eliai.cn/en/articles/issue-basics.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/open-source-license.html?pv=e3304385905f8d1cdd01",
+    "title": "Does open source mean unrestricted commercial use?",
+    "url": "https://www.eliai.cn/en/articles/open-source-license.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/github-public-private.html?pv=e3304385905f8d1cdd01",
+    "title": "How do public and private repositories affect privacy?",
+    "url": "https://www.eliai.cn/en/articles/github-public-private.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-workbuddy.html?pv=e3304385905f8d1cdd01",
+    "title": "What is WorkBuddy useful for at work?",
+    "url": "https://www.eliai.cn/en/articles/what-is-workbuddy.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-first-task.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you create a WorkBuddy task and find its output?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-first-task.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-file-organizing.html?pv=e3304385905f8d1cdd01",
+    "title": "How can WorkBuddy preview file organization first?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you create and check a meeting-notes file in WorkBuddy?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html?pv=e3304385905f8d1cdd01",
+    "title": "Using WorkBuddy for spreadsheets: start with exceptions",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-write-document.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you get a useful WorkBuddy document draft?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-write-document.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-skills.html?pv=e3304385905f8d1cdd01",
+    "title": "How should you choose WorkBuddy skills?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-skills.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-connectors.html?pv=e3304385905f8d1cdd01",
+    "title": "What should you check before connecting WorkBuddy accounts?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-connectors.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-permissions.html?pv=e3304385905f8d1cdd01",
+    "title": "How should you respond to WorkBuddy permission prompts?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-permissions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/workbuddy-task-failed.html?pv=e3304385905f8d1cdd01",
+    "title": "What if a WorkBuddy task stalls or produces no file?",
+    "url": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-email-draft.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you draft email without inventing commitments?",
+    "url": "https://www.eliai.cn/en/articles/ai-email-draft.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-meeting-actions.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you separate meeting decisions from suggestions?",
+    "url": "https://www.eliai.cn/en/articles/ai-meeting-actions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html?pv=e3304385905f8d1cdd01",
+    "title": "What rules come before AI spreadsheet cleaning?",
+    "url": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-inventory-exceptions.html?pv=e3304385905f8d1cdd01",
+    "title": "Why start AI inventory checking with an exception list?",
+    "url": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-product-copy.html?pv=e3304385905f8d1cdd01",
+    "title": "What must AI never invent in product copy?",
+    "url": "https://www.eliai.cn/en/articles/ai-product-copy.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-translation-review.html?pv=e3304385905f8d1cdd01",
+    "title": "How should you review an AI translation before sharing?",
+    "url": "https://www.eliai.cn/en/articles/ai-translation-review.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-weekly-report.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you use AI for a weekly report honestly?",
+    "url": "https://www.eliai.cn/en/articles/ai-weekly-report.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+    "title": "What is OCR, and what should you check on a receipt?",
+    "url": "https://www.eliai.cn/en/articles/ai-ocr-check.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-knowledge-base-start.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you start a business knowledge base?",
+    "url": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-sop-writing.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you turn experience into a usable procedure?",
+    "url": "https://www.eliai.cn/en/articles/ai-sop-writing.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/owner-ai-first-step.html?pv=e3304385905f8d1cdd01",
+    "title": "An owner's first AI step is not buying a system",
+    "url": "https://www.eliai.cn/en/articles/owner-ai-first-step.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-task-selection.html?pv=e3304385905f8d1cdd01",
+    "title": "Which business tasks should AI try first?",
+    "url": "https://www.eliai.cn/en/articles/ai-task-selection.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-pilot-design.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you design a small AI pilot?",
+    "url": "https://www.eliai.cn/en/articles/ai-pilot-design.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-cost-breakdown.html?pv=e3304385905f8d1cdd01",
+    "title": "What costs belong in an AI implementation budget?",
+    "url": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/measure-ai-benefit.html?pv=e3304385905f8d1cdd01",
+    "title": "How should an owner measure AI's benefit?",
+    "url": "https://www.eliai.cn/en/articles/measure-ai-benefit.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/choose-ai-provider.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you evaluate an AI implementation provider?",
+    "url": "https://www.eliai.cn/en/articles/choose-ai-provider.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/what-is-fde-business.html?pv=e3304385905f8d1cdd01",
+    "title": "What is FDE, and why might a business owner care?",
+    "url": "https://www.eliai.cn/en/articles/what-is-fde-business.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-employee-training.html?pv=e3304385905f8d1cdd01",
+    "title": "How do you train staff who are reluctant to use AI?",
+    "url": "https://www.eliai.cn/en/articles/ai-employee-training.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-maintenance-owner.html?pv=e3304385905f8d1cdd01",
+    "title": "Who maintains an AI tool after delivery?",
+    "url": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  },
+  {
+    "documentWidth": 305,
+    "lang": "en",
+    "overflow": [],
+    "revision": "e3304385905f8d1cdd01",
+    "switch": "https://www.eliai.cn/articles/ai-consultation-prepare.html?pv=e3304385905f8d1cdd01",
+    "title": "What should an owner prepare for an initial consultation?",
+    "url": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html?pv=e3304385905f8d1cdd01",
+    "width": 320
+  }
+]

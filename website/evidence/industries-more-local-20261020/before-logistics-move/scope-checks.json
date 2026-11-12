@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "changed_visible_html": [
+    "index.html",
+    "en/index.html"
+  ],
+  "all_other_html_unchanged_after_revision_normalization": 294,
+  "scope": "Industry section and its CSS cache hash only",
+  "main_industries_per_language": 9,
+  "more_industries_per_language": 6,
+  "new_case_links": 0,
+  "original_eight_entries_unchanged": true,
+  "all_other_assets_and_js_unchanged": true,
+  "new_frosted_glass": false,
+  "lastmod_ledger_changes": [
+    "index.html",
+    "en/index.html"
+  ],
+  "existing_case_links_per_language": 10,
+  "revision": "268e5436590ad1bbc363",
+  "checked_at": "2026-10-20T19:42:04.356602+08:00"
+}

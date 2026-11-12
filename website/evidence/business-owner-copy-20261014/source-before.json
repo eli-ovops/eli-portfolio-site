@@ -1,0 +1,19 @@
+{
+  "content/profile.json": "b5ff87cc08f848697caca22713e507eed6ab8a3656ba1404abd34b81e8d1fb6e",
+  "content/en.json": "807d8111163f2e0c085e4961ec71241d84b6d9c8ff2b3e3321ba85533c21023b",
+  "content/seo.json": "62f8d27415446540f7d216cac6b6f426b4321a8eae4a7a591297fad7dbdc121f",
+  "templates/home.html": "0919612ff35a8d07efb72ef19b957bc16867bace0aba3d10790a8de68facdff4",
+  "templates/about.html": "1c5a5a0f28fac4a4628fb96e7398c3f0fe3ad056bce242c9c6e6ab53a73a1065",
+  "scripts/pages.py": "8d16e0ad69daa6bc6dd5399339245a001821ddad387a5b9173ce38904efa4818",
+  "scripts/localization.py": "6aad50368884cf89afab1444dfd68f476b7931b4e273f270075f204fabd89718",
+  "styles.css": "15776a1a6ffc4babc1f98034a01b32a29e021108eaa605456f886591943c6ee6",
+  "content/projects.json": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+  "content/case-examples.json": "55a7a7167ec0f32d65d73b442419cc42c6dc344ebdbbefe26bfb32562c1cbb2f",
+  "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+  "motion.js": "d328393689d8bbfa5f16ccf62b3ce477c082fc6ed1fad8d4b4950870f35a7cb9",
+  "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+  "assets/editorial.js": "5b47b64915be08a209fd595d37aa5e28db76f9e3236bd4e1f2f4c1d227b6c5e8",
+  "assets/depth-gallery.js": "1a796d24b2453394489beaa54d4bbd30d5a8d5ff9fb95158e79e69efcfab7c5f",
+  "assets/page-version.js": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49",
+  "assets/screenshot-viewer.js": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1"
+}

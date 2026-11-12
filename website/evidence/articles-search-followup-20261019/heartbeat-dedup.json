@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-19T09:59:35+08:00",
+  "automation_id": "seo",
+  "decision": "DONT_NOTIFY",
+  "reason": "Same-day native Google/Bing/Baidu audit already completed and reported; later Windsor API read confirms the same Google performance window and sitemap count. No duplicate platform reads, URL checks, model tests or submissions performed.",
+  "native_check": "2026-10-19T09:12:44.149737+08:00",
+  "google_api_check": "2026-10-19T01:47:07.230Z",
+  "google_returned_dates": [
+    "2026-10-15",
+    "2026-10-16"
+  ],
+  "google_site_impressions": 6,
+  "google_site_clicks": 0,
+  "article_post_publication_performance": "UNKNOWN; returned Google dates precede article publication",
+  "new_actionable_change": false,
+  "website_changes": 0,
+  "search_submissions": 0,
+  "model_queries": 0,
+  "external_emails": 0
+}

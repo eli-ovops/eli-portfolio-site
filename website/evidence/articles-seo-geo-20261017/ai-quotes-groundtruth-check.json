@@ -1,0 +1,15 @@
+{
+  "inventory-reconciliation": {
+    "先选一种货品、一个库位或一类单据": true,
+    "拿一笔最近处理过的业务": true
+  },
+  "enterprise-knowledge-base": {
+    "先选一个小主题，整理成能检查、能更新的资料集合。": false,
+    "先选一类资料和一组常见问题": true,
+    "先收集员工或客户经常问的问题": true
+  },
+  "what-is-agent": {
+    "核对实际结果，而不是只看计划。": true,
+    "Agent 通常指能结合工具、反馈和多步行动推进目标的系统。": true
+  }
+}

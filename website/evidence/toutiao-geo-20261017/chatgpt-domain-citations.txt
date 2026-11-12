@@ -1,0 +1,695 @@
+container 对话
+						120 container
+							121 heading 你说：, Value: 4
+								122 text 你说：
+							123 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+							124 button 复制消息
+								125 image
+							490 button 编辑消息
+								491 image
+							128 container
+								129 button (collapsed) 思考了 1m 13s, Secondary Actions: Expand
+								130 text 思考了 1m 13s
+							131 heading ChatGPT 说：, Value: 4
+								132 text ChatGPT 说：
+							133 heading 中国中小企业 AI 落地服务商：初步筛选, Value: 1
+								134 text 中国中小企业  AI  落地服务商：初步筛选
+							135 container
+								136 text 检索日期：2026  年  10  月  17  日｜重点场景：重复录入、库存核对、企业知识库问答
+							137 container
+								138 text 先给结论： 这类服务确实有市场，但需要区分“有  AI  产品的公司”和“愿意针对一家中小企业做小范围实施的服务商”。 大型企业案例、平台功能介绍，并不能直接证明服务商适合几千元级别的小项目。
+							139 text 我会重点核查四件事：
+							140 content list
+								141 container
+									142 AXListMarker • 
+									143 text 场景匹配： 是否涉及业务流程自动化、单据录入、库存数据处理或企业知识库。
+								144 container
+									145 AXListMarker • 
+									146 text 案例证据： 官网是否展示具体业务问题、实施方案及结果，而不是只有产品介绍。
+								147 container
+									148 AXListMarker • 
+									149 text 合作门槛： 是否公开收费、提供免费诊断，或有明确的咨询入口。
+								150 container
+									151 AXListMarker • 
+									152 text 服务形态： 是否有可能按单一场景、单个部门或小范围试点交付。
+							153 text 需要说明：官网自述的客户数量、效率提升比例和案例结果，属于服务商公开宣传，不能仅凭官网视为独立验证的事实。
+							154 heading 一、5 个值得进一步联系的候选, Value: 2
+								155 text 一、5  个值得进一步联系的候选
+							156 container
+								157 image 实在智能官网
+								158 button Open 实在智能官网
+								159 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_do_, Secondary Actions: Expand
+							160 container
+								161 text 1. 
+								162 button 宁数智研 NingSure AI
+									163 text 宁数智研 
+									164 text NingSure 
+									165 text AI
+							166 text 优先考察：重复录入与自动化
+							167 container
+								168 text 官网：
+								169 link Description: ningsure.com, Value: ningsure.com/?utm_source=chatgpt.com
+							170 container
+								171 text 官网公开提供钉钉、企业微信、邮件和  Excel  跨系统自动化，明确面向有重复工作流程的传统企业；公开价目显示企业自动化  3,000  元起，Agent  工作流  5,000  元起，且宣称零预付款、交付后付款。官网还提供案例入口，并宣称有  8  个真实项目案例。
+								172 pop up button (collapsed) 九昇智能 +1, Secondary Actions: Expand
+									173 image
+									174 text 九昇智能
+									175 text +1
+							176 content list
+								177 container
+									178 AXListMarker • 
+									179 text 适合询问： Excel  库存表与订单表核对、重复录入、异常数据标记、人工复核工作流。
+								180 container
+									181 AXListMarker • 
+									182 text 公开收费： 工具配置  500  元起；企业自动化  3,000  元起；部署  1  万元起。
+								183 container
+									184 AXListMarker • 
+									185 text 咨询方式： 官网免费咨询、邮箱 
+									186 text [REDACTED_EMAIL]
+									187 text 。
+								188 container
+									189 AXListMarker • 
+									190 text 需要核实： 是否做过库存对账的直接案例，以及“零预付”适用哪些项目条件。
+							191 container
+								192 image 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								193 button Open 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								194 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_ed_, Secondary Actions: Expand
+							195 container
+								196 text 2. 
+								197 button 聂二 · AI 落地内参
+									198 text 聂二 
+									199 text · 
+									200 text AI 
+									201 text 落地内参
+							202 text 优先考察：文档处理与业务数据核对
+							203 container
+								204 text 官网：
+								205 link Description: aildnc.com/services, Value: aildnc.com/services?utm_source=chatgpt.com
+							206 container
+								207 text 这是本次筛选中服务范围描述比较具体的独立服务候选。官网说明合作可以从一批文档、一个流程或一个部门开始，提供  PDF、Word、Excel  解析、字段提取、异常检测、人工复核，以及  RAG  企业知识库和业务系统集成。
+								208 pop up button (collapsed) 聂二 · AI落地内参 +1, Secondary Actions: Expand
+									209 image
+									210 text 聂二 
+									211 text · 
+									212 text AI落地内参
+									213 text +1
+							214 content list
+								215 container
+									216 AXListMarker • 
+									217 text 适合询问： 采购单与入库单核对、表格字段提取、不同文件之间的数据比对、企业内部知识问答。
+								218 container
+									219 AXListMarker • 
+									220 text 公开收费：
+									221 content list
+										222 container
+											223 AXListMarker • 
+											224 text 文档处理  PoC：10,000–20,000  元。
+										225 container
+											226 AXListMarker • 
+											227 text 企业知识库方案评估：3,000  元起。
+										228 container
+											229 AXListMarker • 
+											230 text 企业知识库  MVP：20,000  元起。
+										231 container
+											232 AXListMarker • 
+											233 text AI  场景诊断：999–2,999  元。
+								234 container
+									235 AXListMarker • 
+									236 text 咨询方式：
+									237 text [REDACTED_EMAIL]
+									238 text ，官网也提供微信联系入口。
+								239 container
+									240 AXListMarker • 
+									241 text 需要核实： 官网有脱敏案例入口，但本次检索尚未逐个核验具体案例是否涉及库存；报价也不属于低成本的几百元级服务。
+							242 container
+								243 image 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								244 button Open 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								245 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_f5_, Secondary Actions: Expand
+							246 container
+								247 text 3. 
+								248 button 九昇智能 NineRise Intelligence
+									249 text 九昇智能 
+									250 text NineRise 
+									251 text Intelligence
+							252 container
+								253 text 官网：
+								254 link Description: 9shengai.com, Value: 9shengai.com/index.html?utm_source=chatgpt.com
+								255 text · 
+								256 link Description: 客户案例入口, Value: 9shengai.com/index.html?utm_source=chatgpt.com
+							257 container
+								258 text 官网定位是面向中小企业的  AI  落地服务，提供场景诊断、智能体定制和落地陪跑。公开案例包括标讯信息采集智能体、招聘智能体和标书智能体，并列出处理效率指标。
+								259 pop up button (collapsed) 九昇智能 +1, Secondary Actions: Expand
+									260 image
+									261 text 九昇智能
+									262 text +1
+							263 content list
+								264 container
+									265 AXListMarker • 
+									266 text 适合询问： 订单或业务资料批量采集、文档信息提取、重复性业务流程自动化。
+								267 container
+									268 AXListMarker • 
+									269 text 公开收费： 咨询诊断  3,980  元起；智能体定制  9,800  元起；落地陪跑  6,800  元起。
+								270 container
+									271 AXListMarker • 
+									272 text 咨询方式： 电话或微信 
+									273 text [REDACTED_PHONE]
+									274 text ，官网可预约诊断。
+								275 container
+									276 AXListMarker • 
+									277 text 需要核实： 其案例是否包含中小企业真实业务流程，以及能否把项目缩小到单一部门、单一流程。
+							278 container
+								279 image 一站式Agent智能体教程：新手也能轻松上手的AI开发指南 | BetterYeah AI智能体
+								280 button Open 一站式Agent智能体教程：新手也能轻松上手的AI开发指南 | BetterYeah AI智能体
+								281 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_g2_, Secondary Actions: Expand
+							282 container
+								283 text 4. 
+								284 button 请叫我 HH
+									285 text 请叫我 
+									286 text HH
+							287 container
+								288 text 官网：
+								289 link Description: AI 智能客服落地方案, Value: call-hh.cn/projects/ai-customer-service/?utm_source=chatgpt.com
+							290 container
+								291 text 这是针对小范围知识库实施比较具体的候选。其方案基于腾讯云、阿里云或  Dify  等现成平台，由服务方负责整理问答、清洗文档、设计转人工规则、接入官网或微信，并提供上线调优。
+								292 pop up button (collapsed) 请叫我HH +1, Secondary Actions: Expand
+									293 image
+									294 text 请叫我HH
+									295 text +1
+							296 content list
+								297 container
+									298 AXListMarker • 
+									299 text 适合询问： 产品说明书、售后政策、常见问题整理成内部答疑或客户服务助手。
+								300 container
+									301 AXListMarker • 
+									302 text 公开收费： 一次性  1–5  万元；可选维护  3,000–5,000  元/月。
+								303 container
+									304 AXListMarker • 
+									305 text 交付周期： 官网标示  1–2  周。
+								306 container
+									307 AXListMarker • 
+									308 text 咨询方式：
+									309 text [REDACTED_EMAIL]
+									310 text ，或通过官网联系。
+								311 container
+									312 AXListMarker • 
+									313 text 需要核实： 官网列出的教育、SaaS、连锁门店场景属于典型交付场景，不能直接等同于已验证的客户案例；本次未确认具体客户的独立案例证据。
+							314 container
+								315 image LogiCore
+								316 button Open LogiCore
+								317 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_gi_, Secondary Actions: Expand
+							318 container
+								319 text 5. 
+								320 button 北京东方盈科技
+							321 container
+								322 text 官网：
+								323 link Description: east-profit.com, Value: east-profit.com/?utm_source=chatgpt.com
+								324 text · 
+								325 link Description: AI 知识库与业务助手方案, Value: east-profit.com/?utm_source=chatgpt.com
+							326 container
+								327 text 官网展示了汽车集团  AI  售前客服、国际学校招生咨询等案例，并提供企业知识库、AI  员工与报价客服等实施模块。其中报价客服方案明确提到按型号查询  ERP  库存、减少人工复制和查价。
+								328 pop up button (collapsed) 企业级AI应用落地服务商 +1, Secondary Actions: Expand
+									329 image
+									330 text 企业级AI应用落地服务商
+									331 text +1
+							332 content list
+								333 container
+									334 AXListMarker • 
+									335 text 适合询问： 产品知识库、报价查询、库存信息辅助检索、客服重复答疑。
+								336 container
+									337 AXListMarker • 
+									338 text 公开收费： AI  教练服务  5,000  元/月起，且按年付；其他具体实施模块需进一步询价。
+								339 container
+									340 AXListMarker • 
+									341 text 咨询方式： 电话 
+									342 text [REDACTED_PHONE]
+									343 text 、邮箱 
+									344 text [REDACTED_PHONE]@qq.com
+									345 text ，或官网免费  AI  落地诊断。
+								346 container
+									347 AXListMarker • 
+									348 text 需要核实： 报价客服的库存查询是否有实际部署案例，以及是否接受不购买长期陪跑服务的独立小项目。
+							349 heading 二、按你的两个目标，应该怎么选, Value: 2
+								350 text 二、按你的两个目标，应该怎么选
+							351 table
+								352 row
+									353 cell
+										354 text 你的需求
+									355 cell
+										356 text 优先联系
+									357 cell
+										358 text 原因
+								359 row
+									360 cell
+										361 container
+											362 text 重复录入、Excel  表格核对
+									363 cell
+										364 text 宁数智研、聂二
+									365 cell
+										366 text 前者明确提供跨系统自动化；后者明确提供文档解析、字段提取和异常检测
+								367 row
+									368 cell
+										369 text 企业知识库、内部答疑
+									370 cell
+										371 container
+											372 text 请叫我  HH、聂二
+									373 cell
+										374 container
+											375 text 一个偏小型客服知识库实施，一个偏企业  RAG  与可追溯问答
+								376 row
+									377 cell
+										378 text 库存查询、报价辅助
+									379 cell
+										380 text 东方盈、宁数智研
+									381 cell
+										382 container
+											383 text 前者官网明确提到  ERP  库存查询；后者偏业务流程自动化
+								384 row
+									385 cell
+										386 text 先梳理需求、再确定开发范围
+									387 cell
+										388 text 九昇智能、聂二
+									389 cell
+										390 text 有明确的场景诊断、技术评估或项目拆分服务
+							391 text 以上是根据官网公开服务描述做的匹配，不代表我已独立验证这些服务商的交付能力。
+							392 heading 三、关于收费，需要注意什么, Value: 2
+								393 text 三、关于收费，需要注意什么
+							394 text 目前公开价格呈现出三个层次：
+							395 content list
+								396 container
+									397 AXListMarker • 
+									398 text 几百至数千元： 工具配置、简单自动化、初步诊断。
+								399 container
+									400 AXListMarker • 
+									401 text 1  万至  3  万元： 相对完整的文档处理、知识库或  AI  应用  MVP。
+								402 container
+									403 AXListMarker • 
+									404 text 数万元以上： 正式系统集成、多系统联动、生产级部署及持续维护。
+							405 container
+								406 text 例如，宁数智研公开标示企业自动化  3,000  元起；聂二的企业知识库  MVP  为  20,000  元起；请叫我  HH  的客服实施为  1–5  万元。
+								407 pop up button (collapsed) Industrial AI Partner +2, Secondary Actions: Expand
+									408 image
+									409 text Industrial 
+									410 text AI 
+									411 text Partner
+									412 text +2
+							413 container
+								414 text 这些是官网标价，不是针对你的具体场景取得的正式报价。库存核对也未必需要大模型：如果只是比对两份  Excel、找出数量差异，规则脚本可能比  AI  更便宜、更稳定。应当先看数据格式、业务规则和异常类型，再决定是否需要  AI。
+							415 heading 四、我建议的下一步, Value: 2
+								416 text 四、我建议的下一步
+							417 container
+								418 text 如果你的目的是研究同行、了解市场定价，或者寻找可以合作的交付伙伴，建议先联系  宁数智研、聂二、东方盈 三家，分别询问同一个具体需求。
+							419 text 可以直接发送下面这段话：
+							420 container
+								421 text 写作
+								422 button 复制
+								423 button 打开编辑器
+								424 text entry area (settable) Description: 开始写作, Value: 你好，我正在了解中小企业的小范围 AI 落地实施服务，想咨询两个具体场景：
+
+重复录入与库存核对： 将现有 Excel、订单或出入库数据进行匹配，自动标记数量差异、重复记录和异常数据，由员工复核后确认。
+
+企业知识库辅助答疑： 将产品资料、操作手册、业务规则整理成可查询的知识库，员工提问时能够给出答案和原始资料出处。
+
+目前希望先做一个范围明确、成本可控的小项目，而不是直接建设整套企业系统。
+
+想了解几个问题：
+
+是否有接近上述场景的实际交付案例？
+
+能否只针对一个流程或一个部门做试点？
+
+最小项目的报价、交付周期分别是多少？
+
+是否支持先用脱敏样本验证效果，再决定是否正式实施？
+
+交付后代码、数据、账号及维护权限如何约定？
+
+如果方便，希望先看一个类似案例及大致报价范围。谢谢。
+									425 text 你好，我正在了解中小企业的小范围 AI 落地实施服务，想咨询两个具体场景：
+									426 content list
+										427 container
+											428 AXListMarker 1. 
+											429 text 重复录入与库存核对：
+											430 text  将现有 Excel、订单或出入库数据进行匹配，自动标记数量差异、重复记录和异常数据，由员工复核后确认。
+										431 container
+											432 AXListMarker 2. 
+											433 text 企业知识库辅助答疑：
+											434 text  将产品资料、操作手册、业务规则整理成可查询的知识库，员工提问时能够给出答案和原始资料出处。
+									435 text 目前希望先做一个范围明确、成本可控的小项目，而不是直接建设整套企业系统。
+									436 text 想了解几个问题：
+									437 content list
+										438 container
+											439 AXListMarker • 
+											440 text 是否有接近上述场景的实际交付案例？
+										441 container
+											442 AXListMarker • 
+											443 text 能否只针对一个流程或一个部门做试点？
+										444 container
+											445 AXListMarker • 
+											446 text 最小项目的报价、交付周期分别是多少？
+										447 container
+											448 AXListMarker • 
+											449 text 是否支持先用脱敏样本验证效果，再决定是否正式实施？
+										450 container
+											451 AXListMarker • 
+											452 text 交付后代码、数据、账号及维护权限如何约定？
+									453 text 如果方便，希望先看一个类似案例及大致报价范围。谢谢。
+							454 container
+								455 text 最终判断： 这五家值得进入进一步核实名单，但不能仅凭官网就认定为可靠供应商。尤其是库存核对，下一步最有价值的证据不是更宏大的  AI  案例，而是对方能否拿一份脱敏样本，展示核对结果、异常识别能力、人工复核机制和明确报价。
+							456 button 复制
+								457 image
+							458 button 评价回复
+								459 image
+							460 checkbox Description: 朗读, Value: 0
+							661 pop up button (collapsed) Description: 重新生成回复, ID: radix-_r_np_, Secondary Actions: Expand
+							462 pop up button (collapsed) Description: 更多操作, ID: radix-_r_i1_, Secondary Actions: Expand
+							481 heading 你说：, Value: 4
+								482 text 你说：
+							483 text 请联网核查 eliai.cn：它提供什么企业提效服务，有哪些可访问的案例，免费咨询和实施收费如何说明？请给出实际访问到的官网页面及来源引用；若抓取失败或没有来源，明确说明，不要猜测。
+							484 button 复制消息
+								485 image
+							492 button 编辑消息
+								493 image
+							494 heading ChatGPT 说：, Value: 4
+								495 text ChatGPT 说：
+							496 heading 1. 实际访问结果, Value: 2
+								497 text 1.  实际访问结果
+							498 image
+							499 text 官网可读取
+							500 link Description: https://www.eliai.cn/, Value: eliai.cn/?utm_source=chatgpt.com
+							501 text 实际读取到首页正文、服务介绍、代表项目、联系方式及隐私说明。
+							502 image
+							503 text 服务与收费页面可读取
+							504 link Description: FDE 企业 AI 落地咨询, Value: eliai.cn/services/fde-consulting.html?utm_source=chatgpt.com
+							505 link Description: 企业提效与流程自动化, Value: eliai.cn/services/workflow-automation.html?utm_source=chatgpt.com
+							506 image
+							507 container
+								508 text 不带  www  的域名抓取失败
+							509 link Description: https://eliai.cn/, Value: eliai.cn/?utm_source=chatgpt.com
+							510 container
+								511 text 工具返回  HTTP  500，并提示重定向到  www.eliai.cn 后无法读取；直接访问  www 域名则成功。因此，这不代表网站整体无法访问。
+								512 pop up button (collapsed) Internal Error +1, Secondary Actions: Expand
+									513 text Internal 
+									514 text Error
+									515 text +1
+							516 heading 2. 它具体提供什么企业提效服务？, Value: 2
+								517 text 2.  它具体提供什么企业提效服务？
+							518 container
+								519 text 官网首页将服务概括为三个方向：选工具、改流程、做软件，并明确列出录入核对、资料答疑和内容整理。
+								520 pop up button (expanded) Eli, Secondary Actions: Collapse
+									521 image
+									522 text Eli
+							523 table
+								524 row
+									525 cell
+										526 text 服务方向
+									527 cell
+										528 text 实际提供的工作
+									529 cell
+										530 text 对应业务问题
+								531 row
+									532 cell
+										533 text 重复录入与库存核对
+									534 cell
+										535 text 梳理业务流程、减少重复操作、开发或改造库存工具
+									536 cell
+										537 container
+											538 text Excel  重复填写、入库出库核对、盘点差异
+								539 row
+									540 cell
+										541 container
+											542 text 企业知识库与  AI  答疑
+									543 cell
+										544 container
+											545 text 整理知识资料、配置检索、评估  AI  Agent  或答疑助手
+									546 cell
+										547 text 产品资料分散、员工或客户反复提问
+								548 row
+									549 cell
+										550 text 产品内容整理
+									551 cell
+										552 text 组织产品资料、辅助生成文案和配图、保留人工审核
+									553 cell
+										554 text 产品信息重复整理、营销素材反复制作
+								555 row
+									556 cell
+										557 text 业务软件开发
+									558 cell
+										559 text 按具体流程开发小范围工具或系统
+									560 cell
+										561 text 现成工具无法满足业务规则
+							562 container
+								563 text 以上并非单纯销售  AI  订阅。官网说明，会先比较现成工具、规则自动化和  AI  辅助的适用性；固定规则明确的任务，也可能直接使用普通软件。
+								564 pop up button (collapsed) Eli +1, Secondary Actions: Expand
+									565 image
+									566 text Eli
+									567 text +1
+							568 heading 3. 实际可访问的案例, Value: 2
+								569 text 3.  实际可访问的案例
+							572 container
+								573 text 以下均为官网实际读取到的独立案例页面。需要区分： 页面可访问、案例有具体实施描述，不等于所有效果都已经独立验证。
+							574 container
+								575 image Viindoo Inventory - Giải pháp quản lý Kho & Chuỗi cung ứng
+								576 button Open Viindoo Inventory - Giải pháp quản lý Kho & Chuỗi cung ứng
+								577 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_k6_, Secondary Actions: Expand
+							578 container
+								579 text 案例  A：家具品牌扫码库存系统
+							580 text 官网标记：已交付
+							581 link Description: 打开完整案例, Value: eliai.cn/cases/p09.html?utm_source=chatgpt.com
+							582 content list
+								583 container
+									584 AXListMarker • 
+									585 text 实现按箱扫码、入库、移库、出库和撤销纠错。
+								586 container
+									587 AXListMarker • 
+									588 text 处理重复提交、库存不足和权限问题。
+								589 container
+									590 AXListMarker • 
+									591 text 官网列出库存数量变化的历史测试记录，并明确说明相关记录来自历史虚拟库存测试，并非本次重新运行。
+									592 pop up button (collapsed) Eli, Secondary Actions: Expand
+										593 image
+										594 text Eli
+							595 text 判断：与仓库实际操作和库存核对高度相关。公开材料能说明设计与测试范围，但不能据此证明长期生产环境下的稳定性。
+							596 container
+								597 image 企业如何使用微信工单管理系统？企业级应用流程详解 - 合力亿捷
+								598 button Open 企业如何使用微信工单管理系统？企业级应用流程详解 - 合力亿捷
+								599 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_kq_, Secondary Actions: Expand
+							600 container
+								601 text 案例  B：洁具行业库存管理系统
+							602 text 官网标记：已交付
+							603 link Description: 打开完整案例, Value: eliai.cn/cases/p10.html?utm_source=chatgpt.com
+							604 content list
+								605 container
+									606 AXListMarker • 
+									607 text 独立负责需求沟通、业务流程梳理、系统开发及交付。
+								608 container
+									609 AXListMarker • 
+									610 text 围绕产品规格、采购、退货和盘点组织业务流程。
+								611 container
+									612 AXListMarker • 
+									613 text 页面披露约两个月完成交付，但明确表示暂无量化使用效果数据。
+									614 pop up button (collapsed) Eli, Secondary Actions: Expand
+										615 image
+										616 text Eli
+							617 container
+								618 text 判断：这是库存管理软件的交付案例，不应直接宣传成已经验证的  AI  自动盘点项目。
+							619 container
+								620 image 本地知识库 | 访答
+								621 button Open 本地知识库 | 访答
+								622 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_ll_, Secondary Actions: Expand
+							623 container
+								624 text 案例  C：英国净水品牌  RAG  智能客服
+							625 link Description: 打开完整案例, Value: eliai.cn/cases/p36.html?utm_source=chatgpt.com
+							626 content list
+								627 container
+									628 AXListMarker • 
+									629 text 目标是帮助独立站访客查询净水产品和品牌知识。
+								630 container
+									631 AXListMarker • 
+									632 text 服务方承担知识库整理、检索配置与测试。
+								633 container
+									634 AXListMarker • 
+									635 text 团队基于成熟方案定制，推进至客户确认和上线实测。
+								636 container
+									637 AXListMarker • 
+									638 text 页面说明约两个月完成交付，但没有回答准确率或客服效率的量化数据。
+									639 pop up button (collapsed) Eli, Secondary Actions: Expand
+										640 image
+										641 text Eli
+							642 text 判断：与企业知识库和辅助答疑的需求匹配。公开材料能够说明参与职责和项目流程，但不足以证明回答质量已经达到某个具体标准。
+							643 container
+								644 image AI Complete in Ergonode PIM: Mapping Attributes Based On Descriptions
+								645 button Open AI Complete in Ergonode PIM: Mapping Attributes Based On Descriptions
+								646 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_m5_, Secondary Actions: Expand
+							647 container
+								648 text 案例  D：织境  AI  内容工作台
+							649 link Description: 打开完整案例, Value: eliai.cn/cases/p12.html?utm_source=chatgpt.com
+							650 content list
+								651 container
+									652 AXListMarker • 
+									653 text 整理商品资料、风格设置、内容编辑和人工审核流程。
+								654 container
+									655 AXListMarker • 
+									656 text 页面明确披露：文字探测与账号连接有验证记录，但完整图文生成及平台发布链路尚未通过。
+									657 pop up button (collapsed) Eli, Secondary Actions: Expand
+										658 image
+										659 text Eli
+							660 text 判断：属于内容生产辅助工具的实践，案例本身也公开了尚未通过的环节，不能宣传为完整自动化发布系统。
+							662 heading 4. 免费咨询与实施收费怎么说明？, Value: 2
+								663 text 4.  免费咨询与实施收费怎么说明？
+							664 text 官网有明确的收费说明，不需要根据行业惯例推测。
+							665 text 初次沟通
+							666 heading 免费, Value: 1
+								667 text 免费
+							668 container
+								669 text 先了解企业当前的工作流程、耗时环节、数据条件和期望结果。无需预先购买工具，也无需提交完整业务数据或账号密码。
+								670 pop up button (collapsed) Eli, Secondary Actions: Expand
+									671 image
+									672 text Eli
+							673 text 实施服务公开起价
+							674 heading ¥500 起, Value: 1
+								675 text ¥500  起
+							676 container
+								677 text 官网明确说明，实施服务低至  500  元起，具体范围和费用在开始前确认。 这不是所有项目统一  500  元，也不是整套库存系统或知识库的固定报价。
+								678 pop up button (collapsed) Eli +1, Secondary Actions: Expand
+									679 image
+									680 text Eli
+									681 text +1
+							682 text 需要另行确认的费用
+							683 content list
+								684 container
+									685 AXListMarker • 
+									686 text 工具或模型订阅
+								687 container
+									688 AXListMarker • 
+									689 text 定制开发及系统连接
+								690 container
+									691 AXListMarker • 
+									692 text 员工培训
+								693 container
+									694 AXListMarker • 
+									695 text 后续维护
+							696 container
+								697 text 这些费用均按具体需求另行约定。官网没有提供适用于所有项目的统一价目表。
+								698 pop up button (collapsed) Eli, Secondary Actions: Expand
+									699 image
+									700 text Eli
+							701 heading 如何联系, Value: 3
+								702 text 如何联系
+							703 text 以下联系方式来自实际读取的官网页面：
+							704 content list
+								705 container
+									706 AXListMarker • 
+									707 text 邮箱：
+									708 text [REDACTED_EMAIL]
+								709 container
+									710 AXListMarker • 
+									711 text 电话：
+									712 container
+										713 text +86  [REDACTED_PHONE]
+								714 container
+									715 AXListMarker • 
+									716 text 官网：
+									717 link Description: 关于 Eli / 免费咨询, Value: eliai.cn/about.html?utm_source=chatgpt.com
+								718 container
+									719 AXListMarker • 
+									720 text 服务入口：
+									721 link Description: FDE 企业 AI 落地咨询, Value: eliai.cn/services/fde-consulting.html?utm_source=chatgpt.com
+							722 container
+								723 text 官网说明，合作通常从免费沟通开始，再明确试点范围、功能、人工确认环节、交付材料和验收方式。免费初次沟通不包含持续驻场服务。
+								724 pop up button (collapsed) Eli +1, Secondary Actions: Expand
+									725 image
+									726 text Eli
+									727 text +1
+							728 heading 5. 核查结论, Value: 2
+								729 text 5.  核查结论
+							730 table
+								731 row
+									732 cell
+										733 text 核查项目
+									734 cell
+										735 text 当前判断
+								736 row
+									737 cell
+										738 text 官网及服务页面
+									739 cell
+										740 text 已实际读取
+								741 row
+									742 cell
+										743 text 企业提效服务范围
+									744 cell
+										745 text 有明确说明
+								746 row
+									747 cell
+										748 text 库存相关案例
+									749 cell
+										750 text 有两个具体案例页面
+								751 row
+									752 cell
+										753 text 知识库答疑案例
+									754 cell
+										755 text 有具体案例页面
+								756 row
+									757 cell
+										758 text 免费咨询
+									759 cell
+										760 text 官网明确免费
+								761 row
+									762 cell
+										763 text 实施起价
+									764 cell
+										765 container
+											766 text 官网明确  500  元起
+								767 row
+									768 cell
+										769 text 案例效果是否经过独立验证
+									770 cell
+										771 text 未验证
+								772 row
+									773 cell
+										774 text 是否有统一的完整项目报价表
+									775 cell
+										776 text 未找到
+								777 row
+									778 cell
+										779 text 是否能保证每个项目都实现预期提效
+									780 cell
+										781 text 官网没有作出这种保证
+							782 container
+								783 text 总体判断： eliai.cn  的服务描述、收费原则和案例页面是可以实际访问并核对的。它的定位是从具体业务问题出发，结合现成工具、流程自动化和定制软件做小范围实施。
+							784 container
+								785 text 不过，案例中存在明确的验证边界：库存系统披露了历史测试，RAG  客服没有公开量化准确率，内容工作台的完整发布链路尚未通过。这些限制应该与成功交付记录一起看，不能只摘取有利部分。
+							786 container
+								787 text 如果要进一步判断其是否值得合作，最有效的下一步是要求对方提供一个与你的业务相似的脱敏样本演示，并事先约定验收标准，而不是仅凭“30+  案例”或“500  元起”作决定。
+							788 button 复制
+								789 image
+							790 button 评价回复
+								791 image
+							792 checkbox Description: 朗读, Value: 0
+							793 pop up button (collapsed) Description: 重新生成回复, ID: radix-_r_o2_, Secondary Actions: Expand
+							794 pop up button (collapsed) Description: 更多操作, ID: radix-_r_o6_, Secondary Actions: Expand
+						463 text ChatGPT 可能会出错。请核查重要信息。
+						464 container
+							465 button 滚动到底部
+							466 heading 最新一条回复, Value: 4
+								467 text 最新一条回复
+							468 container
+								469 container
+									470 button (collapsed) Description: 添加文件等内容, Secondary Actions: Expand
+									471 text entry area (settable) Description: 询问 ChatGPT, Value: 
+
+										472 container
+											798 text 询问 ChatGPT
+									474 pop up button (collapsed) Description: 选择 ChatGPT 模型, ID: radix-_r_c1_, Secondary Actions: Expand
+									475 button 听写
+									795 button (disabled) 发送
+										796 image
+		797 text 回答已完成
+		479 button ⋮⋮
+		480 button ⋮⋮
+		799 button Open Eli
+			800 image
+			801 text Eli
+			802 text FDE 企业 AI 落地咨询｜AI Agent 与流程自动化
+			803 text Total lines: 174
+
+The focused UI element is 520 pop up button (expanded) Eli, Secondary Actions: Collapse

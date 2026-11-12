@@ -1,0 +1,662 @@
+[
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 1566.046875,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 1516.25
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解库存与流程提效服务 ↗",
+      "rect": {
+        "bottom": 1659.046875,
+        "height": 44,
+        "right": 188.34375,
+        "width": 168.34375,
+        "x": 20,
+        "y": 1615.046875
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "ai-inventory-exceptions",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 1474.078125,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 1424.28125
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "See inventory and workflow services ↗",
+      "rect": {
+        "bottom": 1567.078125,
+        "height": 44,
+        "right": 269.484375,
+        "width": 249.484375,
+        "x": 20,
+        "y": 1523.078125
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "ai-inventory-exceptions",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 1668.546875,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 1618.75
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解库存与流程提效服务 ↗",
+      "rect": {
+        "bottom": 1761.546875,
+        "height": 44,
+        "right": 188.34375,
+        "width": 168.34375,
+        "x": 20,
+        "y": 1717.546875
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "ai-spreadsheet-cleaning",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 1447.921875,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 1398.125
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 1214,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "See inventory and workflow services ↗",
+      "rect": {
+        "bottom": 1520.921875,
+        "height": 44,
+        "right": 269.484375,
+        "width": 249.484375,
+        "x": 20,
+        "y": 1476.921875
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "ai-spreadsheet-cleaning",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 1669.546875,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 1619.75
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解知识库与答疑服务 ↗",
+      "rect": {
+        "bottom": 1762.546875,
+        "height": 44,
+        "right": 174.34375,
+        "width": 154.34375,
+        "x": 20,
+        "y": 1718.546875
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "ai-knowledge-base-start",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 2156.375,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 2106.578125
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "See knowledge-base and support services ↗",
+      "rect": {
+        "bottom": 2249.375,
+        "height": 44,
+        "right": 309.515625,
+        "width": 289.515625,
+        "x": 20,
+        "y": 2205.375
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "ai-knowledge-base-start",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2922.546875,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2872.75
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解知识库与答疑服务 ↗",
+      "rect": {
+        "bottom": 3015.546875,
+        "height": 44,
+        "right": 174.34375,
+        "width": 154.34375,
+        "x": 20,
+        "y": 2971.546875
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "rag-explained",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 2027.328125,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 1977.53125
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "See knowledge-base and support services ↗",
+      "rect": {
+        "bottom": 2120.328125,
+        "height": 44,
+        "right": 309.515625,
+        "width": 289.515625,
+        "x": 20,
+        "y": 2076.328125
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "rag-explained",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2220.796875,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2171
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解知识库与答疑服务 ↗",
+      "rect": {
+        "bottom": 2313.796875,
+        "height": 44,
+        "right": 174.34375,
+        "width": 154.34375,
+        "x": 20,
+        "y": 2269.796875
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "fine-tuning-or-rag",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 2996.375,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 2946.578125
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 345,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "See knowledge-base and support services ↗",
+      "rect": {
+        "bottom": 3089.375,
+        "height": 44,
+        "right": 309.515625,
+        "width": 289.515625,
+        "x": 20,
+        "y": 3045.375
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 360,
+    "expectedSlug": "fine-tuning-or-rag",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2319.25,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2269.453125
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解库存与流程提效服务 ↗",
+      "rect": {
+        "bottom": 2412.25,
+        "height": 44,
+        "right": 188.34375,
+        "width": 168.34375,
+        "x": 20,
+        "y": 2368.25
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "ai-inventory-exceptions",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 3243.6875,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 3193.890625
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "See inventory and workflow services ↗",
+      "rect": {
+        "bottom": 3336.6875,
+        "height": 44,
+        "right": 269.484375,
+        "width": 249.484375,
+        "x": 20,
+        "y": 3292.6875
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/ai-inventory-exceptions.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "ai-inventory-exceptions",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2357.75,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2307.953125
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解库存与流程提效服务 ↗",
+      "rect": {
+        "bottom": 2450.75,
+        "height": 44,
+        "right": 188.34375,
+        "width": 168.34375,
+        "x": 20,
+        "y": 2406.75
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "ai-spreadsheet-cleaning",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 1813.6875,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 1763.890625
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=5c2760c23a73225e2ff6",
+      "label": "See inventory and workflow services ↗",
+      "rect": {
+        "bottom": 1906.6875,
+        "height": 44,
+        "right": 269.484375,
+        "width": 249.484375,
+        "x": 20,
+        "y": 1862.6875
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/ai-spreadsheet-cleaning.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "ai-spreadsheet-cleaning",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2458.25,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2408.453125
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解知识库与答疑服务 ↗",
+      "rect": {
+        "bottom": 2551.25,
+        "height": 44,
+        "right": 174.34375,
+        "width": 154.34375,
+        "x": 20,
+        "y": 2507.25
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "ai-knowledge-base-start",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 2060.9375,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 2011.140625
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "See knowledge-base and support services ↗",
+      "rect": {
+        "bottom": 2153.9375,
+        "height": 44,
+        "right": 309.515625,
+        "width": 289.515625,
+        "x": 20,
+        "y": 2109.9375
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/ai-knowledge-base-start.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "ai-knowledge-base-start",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2718.25,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2668.453125
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解知识库与答疑服务 ↗",
+      "rect": {
+        "bottom": 2811.25,
+        "height": 44,
+        "right": 174.34375,
+        "width": 154.34375,
+        "x": 20,
+        "y": 2767.25
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "rag-explained",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 3228.6875,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 3178.890625
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "See knowledge-base and support services ↗",
+      "rect": {
+        "bottom": 3321.6875,
+        "height": 44,
+        "right": 309.515625,
+        "width": 289.515625,
+        "x": 20,
+        "y": 3277.6875
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/rag-explained.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "rag-explained",
+    "expectedLanguage": "en"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "免费聊聊 ↗",
+      "rect": {
+        "bottom": 2547,
+        "height": 49.796875,
+        "right": 136.34375,
+        "width": 116.34375,
+        "x": 20,
+        "y": 2497.203125
+      }
+    },
+    "language": "zh-CN",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "了解知识库与答疑服务 ↗",
+      "rect": {
+        "bottom": 2640,
+        "height": 44,
+        "right": 174.34375,
+        "width": 154.34375,
+        "x": 20,
+        "y": 2596
+      }
+    },
+    "url": "http://127.0.0.1:4178/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "fine-tuning-or-rag",
+    "expectedLanguage": "zh-CN"
+  },
+  {
+    "consult": {
+      "href": "http://127.0.0.1:4178/en/about.html?pv=5c2760c23a73225e2ff6#contact",
+      "label": "Let’s talk ↗",
+      "rect": {
+        "bottom": 3219.484375,
+        "height": 49.796875,
+        "right": 138.296875,
+        "width": 118.296875,
+        "x": 20,
+        "y": 3169.6875
+      }
+    },
+    "language": "en",
+    "revision": "5c2760c23a73225e2ff6",
+    "scrollWidth": 375,
+    "service": {
+      "href": "http://127.0.0.1:4178/en/services/ai-agent.html?pv=5c2760c23a73225e2ff6",
+      "label": "See knowledge-base and support services ↗",
+      "rect": {
+        "bottom": 3312.484375,
+        "height": 44,
+        "right": 309.515625,
+        "width": 289.515625,
+        "x": 20,
+        "y": 3268.484375
+      }
+    },
+    "url": "http://127.0.0.1:4178/en/articles/fine-tuning-or-rag.html?pv=5c2760c23a73225e2ff6#sources",
+    "width": 390,
+    "expectedSlug": "fine-tuning-or-rag",
+    "expectedLanguage": "en"
+  }
+]

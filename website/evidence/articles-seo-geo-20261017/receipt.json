@@ -1,0 +1,162 @@
+{
+  "checked_at": "2026-10-17T17:46:24.933375+08:00",
+  "status": "AUDITED_DISCOVERY_NOT_YET_CONFIRMED",
+  "site": "https://www.eliai.cn/",
+  "revision": "e3304385905f8d1cdd01",
+  "website_changes": false,
+  "visual_motion_changes": false,
+  "server_changes": false,
+  "search_submissions": 0,
+  "user_action_required": false,
+  "technical": {
+    "status": "PASS",
+    "pages_checked": 206,
+    "public_sitemap_urls": 294,
+    "article_detail_pages": 204,
+    "crawler_access": {
+      "Googlebot": true,
+      "bingbot": true,
+      "Baiduspider": true,
+      "OAI-SearchBot": true,
+      "ChatGPT-User": true,
+      "PerplexityBot": true,
+      "Perplexity-User": true
+    },
+    "duplicate_titles": [],
+    "duplicate_descriptions": [],
+    "static_list_link_counts": [
+      102,
+      102
+    ],
+    "llms_has_article_entry": false
+  },
+  "native_index_sample": [
+    "articles/inventory-reconciliation.html",
+    "articles/enterprise-knowledge-base.html",
+    "articles/what-is-ai.html"
+  ],
+  "Google": {
+    "sitemap_last_read": "2026-10-17",
+    "sitemap_discovered_total": 88,
+    "inspected": 3,
+    "result": "URL unknown;not indexed;no referring sitemap or crawl timestamp"
+  },
+  "Bing": {
+    "sitemap_last_crawl": "2026-10-15",
+    "sitemap_discovered_total": 82,
+    "inspected": 3,
+    "result": "Not discovered;URL not known to Bing",
+    "ai_report_sources": "Microsoft Copilots and Partners",
+    "ai_report_window": "2026-07-17 through2026-10-16",
+    "ai_citations": 0
+  },
+  "Baidu": {
+    "index": "Data calculating;count UNKNOWN",
+    "sitemap_daily_quota": 0,
+    "sitemap_daily_balance": 0,
+    "sitemap_stock_limit": 1,
+    "sitemap_stock_balance": 1,
+    "sitemap_files": 0,
+    "ai_citations": 0,
+    "ai_impressions": 0,
+    "ai_clicks": 0,
+    "ai_report_limit": "Traditional search scenes;previous-day update;possible delay"
+  },
+  "public_search": {
+    "query": "site:www.eliai.cn/articles/",
+    "engines": [
+      "Google Hong Kong",
+      "Bing China",
+      "Baidu"
+    ],
+    "observed": "All3 current result pages say no matching results",
+    "limit": "One query/current region/session;not a full index inventory"
+  },
+  "ai": {
+    "unbranded": {
+      "sample": "1prompt/platform;3article intents;no seeded domain",
+      "platforms": [
+        "ChatGPT",
+        "Perplexity",
+        "Yuanbao",
+        "Doubao"
+      ],
+      "result": "Each selected other sources;own site absent from selected articles"
+    },
+    "directed": {
+      "sample": "3Chinese pages;inventory/knowledge-base/agent",
+      "ChatGPT": {
+        "body_read": 3,
+        "clickable_own_sources": 3,
+        "official_range_verified_origin_requests": 3,
+        "quote_accuracy": "2/3 selected extracts literal;knowledge-base extract paraphrased"
+      },
+      "Yuanbao": {
+        "body_read": 3,
+        "links": "Website URL text returned;ordinary hrefs not confirmed",
+        "quotes": "Selected extracted strings found in source"
+      },
+      "Doubao": {
+        "grounded_body_summaries": 3,
+        "links": "3destinations through platform redirect hrefs, repeated in prompt and answer",
+        "quote_accuracy": "All3 strings labelled original are paraphrases"
+      },
+      "Perplexity": {
+        "body_read": 0,
+        "verified_origin_article_requests": 0,
+        "result": "All3 failed;echoed user URLs are not grounded citations",
+        "root_cause": "UNKNOWN"
+      }
+    }
+  },
+  "origin": {
+    "timestamp": "2026-10-17T17:40:25.588254+08:00",
+    "scope": "Current access.log;2026-10-17;official-range plus UA verification;no raw IPs retained",
+    "bots": {
+      "ChatGPT-User": {
+        "verified_article_requests": 3,
+        "unverified_article_requests": 0,
+        "paths": {
+          "/articles/enterprise-knowledge-base.html": 1,
+          "/articles/what-is-agent.html": 1,
+          "/articles/inventory-reconciliation.html": 1
+        },
+        "statuses": {
+          "200": 3
+        }
+      },
+      "OAI-SearchBot": {
+        "verified_article_requests": 0,
+        "unverified_article_requests": 0,
+        "paths": {},
+        "statuses": {}
+      },
+      "PerplexityBot": {
+        "verified_article_requests": 0,
+        "unverified_article_requests": 0,
+        "paths": {},
+        "statuses": {}
+      },
+      "Perplexity-User": {
+        "verified_article_requests": 0,
+        "unverified_article_requests": 0,
+        "paths": {},
+        "statuses": {}
+      }
+    }
+  },
+  "recommendations": [
+    "Keep existing sitemap URL;allow natural refetch and compare future reports",
+    "Track inventory and knowledge-base long-tail article queries first",
+    "Optional future bilingual article index entry in llms.txt;not a Google requirement",
+    "Keep Perplexity upstream fetch issue separate;do not weaken security without evidence",
+    "Do not rewrite correct article text to match AI paraphrases"
+  ],
+  "limitations": [
+    "Native index checks sampled3Chinese pages/engine,not all204URLs",
+    "AI reading tested3Chinese pages,not all102topics or English pages",
+    "Single unbranded run/platform is not a citation rate or ranking benchmark",
+    "Source logs limited to current access.log and2026-10-17",
+    "No API credentials or raw visitor IPs retained in evidence"
+  ]
+}

@@ -1,0 +1,50 @@
+text https://www.eliai.cn/services/fde-consulting.html
+				59 container
+					60 container 路径
+						61 heading 网址检查, Value: 1
+							62 text 网址检查
+					63 button 测试实际网址
+						64 text 测试实际网址
+					65 container
+						66 text 网址已收录到 Google
+						67 container
+							68 text 它能显示在 Google 搜索结果中（如果没有受到人工处置措施或移除要求的影响），并能使用所有相关的增强选项。
+							69 link Description: 了解详情, Value: support.google.com/webmasters/answer/9012289#url_on_google
+						70 button 查看被抓取的网页
+							71 text 查看被抓取的网页
+						72 text 更改了网页？
+						73 button 请求编入索引再次提交请求
+							74 text 请求编入索引
+					81 container
+						82 button (expanded) 网页索引编制 网页已编入索引, Secondary Actions: Collapse
+							83 text 网页索引编制
+							84 text 网页已编入索引
+						85 text 发现
+						86 text 站点地图
+						87 text https://www.eliai.cn/sitemap.xml
+						88 text 引荐来源网页
+						89 text https://www.eliai.cn/en/services/fde-consulting.html
+						90 text https://www.eliai.cn/sitemap.xml
+						91 text 抓取
+						92 text 上次抓取时间
+						93 text 2026年10月17日 14:11:23
+						94 text 当时所用的用户代理
+						95 text Googlebot 智能手机版
+						96 text 是否允许抓取？
+						97 text 是
+						98 text 网页抓取
+						99 text 成功
+						100 text 是否允许编入索引？
+						101 text 是
+						102 text 编制索引
+						103 text 用户声明的规范网址
+						104 text https://www.eliai.cn/services/fde-consulting.html
+						105 text Google 选择的规范网址
+						106 button (collapsed) Description: null, Secondary Actions: Expand
+						107 text 所检查的网址
+						108 link Description: 链接至更详尽的文档, Value: support.google.com/webmasters/answer/7440203#submitted_and_indexed
+						109 link Description: 打开报告, Value: search.google.com/search-console/index/drilldown?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&item_key=CAMYASAB
+					78 text 增强功能和体验
+					79 link Description: HTTPS 网页采用 HTTPS 协议, Value: search.google.com/search-console/inspect/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F&id=DM6wsT4P_Liw0rf-xv5SgA
+
+The focused UI element is 82 button (expanded) 网页索引编制 网页已编入索引, Secondary Actions: Collapse

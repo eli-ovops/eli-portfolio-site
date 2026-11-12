@@ -1,0 +1,16 @@
+{
+  "desktop1332": {
+    "home_section": 463,
+    "home_grid": 292,
+    "capability_grid": 662,
+    "method_section": 690,
+    "workflow": 485
+  },
+  "mobile403": {
+    "home_section": 1036,
+    "home_grid": 854,
+    "capability_grid": 1498,
+    "method_section": 597,
+    "workflow": 433
+  }
+}

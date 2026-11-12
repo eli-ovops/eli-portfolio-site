@@ -1,0 +1,124 @@
+[
+  {
+    "test": "search inventory and client filter",
+    "columns": "544.5px 544.5px",
+    "count": "2 项记录",
+    "q": "库存",
+    "revision": "96043d8ab1988d667dfc",
+    "visible": [
+      "project-p10",
+      "project-p09"
+    ]
+  },
+  {
+    "test": "related return preserves filters",
+    "category": "客户项目",
+    "count": "2 项记录",
+    "focus": "project-p10",
+    "q": "库存"
+  },
+  {
+    "test": "single reset clears conditions",
+    "count": "38 项记录",
+    "q": "",
+    "url": "http://127.0.0.1:4178/records.html?pv=96043d8ab1988d667dfc"
+  },
+  {
+    "test": "Chinese 390px rapid Back then single clear",
+    "count": "38 项记录",
+    "overflow": false,
+    "q": ""
+  },
+  {
+    "test": "final English320 rapid Back and single clear",
+    "count": "38 projects",
+    "overflow": false,
+    "q": "",
+    "revision": "8b38e3e30012cfd1e243"
+  },
+  {
+    "test": "English search tips keyboard disclosure",
+    "links": [
+      "Inventory cases ↗",
+      "Website cases ↗"
+    ],
+    "open": true
+  },
+  {
+    "test": "final desktop rapid Back and single clear",
+    "run": 1,
+    "saved": {
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    "category": "全部",
+    "count": "38 项记录",
+    "q": "",
+    "revision": "8b38e3e30012cfd1e243"
+  },
+  {
+    "test": "final desktop rapid Back and single clear",
+    "run": 2,
+    "saved": {
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    "category": "全部",
+    "count": "38 项记录",
+    "q": "",
+    "revision": "8b38e3e30012cfd1e243"
+  },
+  {
+    "test": "final related return",
+    "category": "客户项目",
+    "count": "2 项记录",
+    "focus": "project-p10",
+    "q": "库存"
+  },
+  {
+    "test": "final keyboard clear then related return no stale filters",
+    "category": "全部",
+    "count": "38 项记录",
+    "q": ""
+  },
+  {
+    "test": "two-column hover tracks right column",
+    "indicator": {
+      "bottom": 514.609375,
+      "height": 179,
+      "left": 656.5,
+      "right": 1201.5,
+      "top": 335.609375,
+      "width": 545,
+      "x": 656.5,
+      "y": 335.609375
+    },
+    "selected": "project-p36",
+    "target": {
+      "bottom": 514.609375,
+      "height": 179,
+      "left": 656.5,
+      "right": 1201,
+      "top": 335.609375,
+      "width": 544.5,
+      "x": 656.5,
+      "y": 335.609375
+    }
+  },
+  {
+    "test": "final Chinese390 layout",
+    "columns": "335px",
+    "overflow": false,
+    "revision": "8b38e3e30012cfd1e243",
+    "summaryClamp": ""
+  },
+  {
+    "test": "reduced motion search/filter",
+    "count": "2 项记录",
+    "q": "库存",
+    "visible": [
+      "project-p10",
+      "project-p09"
+    ]
+  }
+]

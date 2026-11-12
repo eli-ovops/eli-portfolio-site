@@ -1,0 +1,53 @@
+{
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "checked_at": "2026-10-19T15:21:54.883626+08:00",
+  "revision": "1884526158ef3680b12f",
+  "release": "/srv/eli-sites/portfolio/domain-releases/20261019-service-intent-18845261",
+  "previous_release_retained": "/srv/eli-sites/portfolio/domain-releases/20261019-workbuddy-e2be9698",
+  "authorized_scope": "User2026-10-19: publish approved bilingual service-intent copy on six service pages; preserve visuals/motion; verify mobile, language switch, case return and consultation; no search submissions",
+  "semantic_html_changes": [
+    "en/services/ai-agent.html",
+    "en/services/fde-consulting.html",
+    "en/services/workflow-automation.html",
+    "services/ai-agent.html",
+    "services/fde-consulting.html",
+    "services/workflow-automation.html"
+  ],
+  "other_page_content_unchanged": 290,
+  "visual_motion_assets_unchanged": true,
+  "verification_files_preserved": 6,
+  "package_sha256": "b6f5cd024156047891348e5c3459896e6689e23a30bffa4ca69ac9239c07ace6",
+  "public_file_hashes_on_server_verified": 365,
+  "independent_public_http_hash_checks": 16,
+  "mobile_widths": [
+    360,
+    390
+  ],
+  "language_switch": "PASS: 3 actual zh-en-zh round trips",
+  "case_return_and_consultation": "PASS: 6 live flows in corresponding language; 3 proof cases; both shared contact pages have confirmed loaded QR images",
+  "qr_observation_note": "On the first two contact observations the image had not loaded yet. Later observations of the identical versioned Chinese and English contact URLs confirm it loaded. Initial observations retained, no website fix or image change.",
+  "physical_phone_test": false,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_ip_preview_previous_release_unchanged": true,
+  "search_submissions": 0,
+  "emails_sent": 0,
+  "external_contact_messages": 0,
+  "traffic_attribution": "All deployment QA pageviews and consultation clicks are owner tests, not customer visits, inquiries or natural search traffic.",
+  "artifact_purpose": "Public package, remote/public verification, rollback receipts and browser screenshots retained for review; no cleanup.",
+  "evidence": {
+    "plan.json": "417cc0fb543010dd7dc4c2a24ebfa26c7fd8341248a0b6e7f69bd289f0f90aaa",
+    "package-checks.json": "7c525bf7f75a3fdf943c2500a49e97744509081811121b486c45ff47226fb19a",
+    "preflight.json": "66488e26cd97eb3106a41da704f5a6e2def7f0a3db554e07742e6f03d93f0217",
+    "validate.json": "3243860bfb9b56c13d3251dce56af8feed1141a99916f6bc63aab43c3ddb40e9",
+    "publish.json": "2881f1cdcf8ce395395eb05356b4c1ed192487d94d2be4254a540102f8f8662c",
+    "postflight.json": "11d88ba5789d48d8ffb2c721e1d64f15493b04c03153b8885981fa6bbbcdeeeb",
+    "public-http-checks.json": "a6a5072abcf608f18c97c18693cb319d248881b349e43790156c8ac007121b34",
+    "browser-checks.json": "880769aa8fa653d88c68d1c83a7ff856241b45757ebb3da3918fd0bb1f04e978",
+    "mobile-390.json": "e9b32d2dc36a7fe7977aaff04839032884d5fa5da1f04b271c2372b25a387759"
+  }
+}

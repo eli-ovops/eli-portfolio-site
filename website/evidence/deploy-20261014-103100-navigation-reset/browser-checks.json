@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-14",
+  "release": "20261014-103100-navigation-reset",
+  "revision": "147597147401d66f13ca",
+  "checks": [
+    {
+      "test": "search-filter",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "projects": [
+        "project-p10",
+        "project-p09"
+      ],
+      "q": "库存",
+      "url": "http://[REDACTED_HOST]/sites/portfolio/records.html?pv=147597147401d66f13ca&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "test": "related-P09-explicit-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存",
+      "version": "147597147401d66f13ca"
+    },
+    {
+      "test": "outside-results-P04-reload-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "test": "native-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "test": "quick-mouse-reset",
+      "trials": [
+        {
+          "empty": "0 项记录",
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "empty": "0 项记录",
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "empty": "0 项记录",
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        },
+        {
+          "empty": "0 项记录",
+          "category": "全部",
+          "count": "38 项记录",
+          "focus": "search",
+          "q": ""
+        }
+      ]
+    },
+    {
+      "test": "modal-background-and-image-scroll",
+      "wheel": {
+        "figureY": 0,
+        "open": true,
+        "y": 0
+      },
+      "pan": {
+        "actual": "true",
+        "figureY": 631,
+        "y": 0
+      },
+      "close": {
+        "focus": "detail-image-trigger",
+        "locked": false,
+        "open": false,
+        "y": 0
+      }
+    },
+    {
+      "test": "text-image-entry-position",
+      "before": 360,
+      "closed": {
+        "focus": "查看大图 ↗",
+        "open": false,
+        "y": 360
+      }
+    },
+    {
+      "test": "English-390-reduce-related-return",
+      "category": "Client work",
+      "count": "2 projects",
+      "q": "inventory",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "test": "English-390-reduce-mouse-reset",
+      "category": "All",
+      "count": "38 projects",
+      "focus": "search",
+      "q": ""
+    },
+    {
+      "test": "English-390-reduce-modal",
+      "locked": {
+        "open": true,
+        "y": 124
+      },
+      "pan": {
+        "figureY": 422,
+        "y": 124
+      },
+      "closed": {
+        "focus": "detail-image-trigger",
+        "lock": false,
+        "open": false,
+        "width": 390,
+        "y": 124
+      }
+    }
+  ],
+  "media_restored": true,
+  "viewport_restored": true,
+  "limits": [
+    "IAB desktop and simulated English 390px; no real touch/iOS/all-browser claim",
+    "Earlier intermittent old-query cause was not fully proved; current focus stability and rapid-reset paths verified online."
+  ]
+}

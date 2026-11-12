@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-12",
+  "browser": "Codex In-app Browser",
+  "before": {
+    "height": 720,
+    "pageHeight": 4986,
+    "paragraphs": 27,
+    "questionRows": 4,
+    "visibleCharacters": 1208,
+    "width": 1280
+  },
+  "after": {
+    "case": "final-default-reading",
+    "openQuestions": 0,
+    "overflow": false,
+    "pageHeight": 3492,
+    "questions": 3,
+    "reduced": false,
+    "visibleCharacters": 595,
+    "width": 1280,
+    "workflowSteps": 6
+  },
+  "checks": [
+    {
+      "case": "about-fresh-title-motion",
+      "distinctTransforms": 59,
+      "samples": 60,
+      "source_stage": "Final About template/CSS/JS build"
+    },
+    {
+      "case": "native-keyboard-accordion",
+      "open": [
+        false,
+        true,
+        false
+      ],
+      "overflow": false
+    },
+    {
+      "case": "question-case-back-restored",
+      "before": {
+        "open": [
+          true,
+          false,
+          false
+        ],
+        "scrollY": 2281
+      },
+      "open": [
+        true,
+        false,
+        false
+      ],
+      "overflow": false,
+      "scrollY": 2420,
+      "url": "http://127.0.0.1:4178/about.html",
+      "titleTransforms": 60
+    },
+    {
+      "case": "six-step-scroll-motion",
+      "first": {
+        "position": "01 / 06",
+        "step": "1"
+      },
+      "last": {
+        "position": "06 / 06",
+        "step": "6",
+        "steps": 6
+      }
+    },
+    {
+      "case": "en-mobile-390",
+      "answer": "Read the approach and validation scope.\n\nInventory cases include operation and validation records. RAG answers are AI illustrations, not real support records.\n\nFurniture barcode inventory system\n↗\nUK water purification brand · RAG support\n↗",
+      "open": [
+        false,
+        true,
+        false
+      ],
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "width": 390
+    },
+    {
+      "case": "zh-mobile-320",
+      "answer": "说清流程、问题和目标。\n\n通过下方邮箱、电话或微信联系，再讨论实施范围。",
+      "open": [
+        false,
+        false,
+        true
+      ],
+      "overflow": false,
+      "questions": 3,
+      "width": 320
+    },
+    {
+      "case": "reduced-motion",
+      "overflow": false,
+      "questions": 3,
+      "reduced": true,
+      "titleTransform": "none",
+      "workflowEnhanced": false
+    },
+    {
+      "case": "final-default-reading",
+      "openQuestions": 0,
+      "overflow": false,
+      "pageHeight": 3492,
+      "questions": 3,
+      "reduced": false,
+      "visibleCharacters": 595,
+      "width": 1280,
+      "workflowSteps": 6
+    },
+    {
+      "case": "records-title-regression",
+      "samples": 60,
+      "distinctTransforms": 60
+    }
+  ],
+  "viewport_reset": true,
+  "media_override_reset": true,
+  "scope": "Desktop1280 and simulated English390/Chinese320; native-browser/device/RTL/200%-zoom not verified"
+}

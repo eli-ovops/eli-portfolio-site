@@ -1,0 +1,20 @@
+{
+  "last_completed_at": "2026-10-19T09:12:44.149737+08:00",
+  "latest_receipt": "../articles-search-followup-20261019/receipt.json",
+  "latest_report": "../articles-search-followup-20261019/report.md",
+  "same_round_complete": true,
+  "indexed_google_confirmed_minimum": 3,
+  "google_index_census": "UNKNOWN",
+  "google_sitemap_discovered": 294,
+  "google_chart_latest_date": "2026-10-16",
+  "bing_priority_samples": "3 discovered2026-10-18, not crawled",
+  "unbranded_ai_last_test": "2026-10-19",
+  "unbranded_ai_platforms": [
+    "ChatGPT",
+    "Doubao"
+  ],
+  "unbranded_ai_result": "No own citations in one answer/platform",
+  "search_submissions": 0,
+  "website_changes": 0,
+  "deduplication": "Do not repeat the same completed19Oct checks without new report date or evidence; low-frequency AI followup can reuse this round."
+}

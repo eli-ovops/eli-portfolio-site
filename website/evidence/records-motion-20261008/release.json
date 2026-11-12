@@ -1,0 +1,1 @@
+{"release": "20261008-090042-records-motion", "previous": "/srv/eli-sites/portfolio/releases/20261008-085549-polish", "package_sha256": "d0e5faefa53a3a3753de6314688a559ca974943c014041a2615723d255bcae40", "target": "/srv/eli-sites/portfolio/releases/20261008-090042-records-motion", "rollback": "restore previous public symlink"}

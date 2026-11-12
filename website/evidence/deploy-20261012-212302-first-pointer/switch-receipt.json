@@ -1,0 +1,12 @@
+{
+  "status": "SWITCHED",
+  "release": "20261012-212302-first-pointer",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-194514-return-zoom",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-212302-first-pointer",
+  "switched_at": "2026-10-12T13:25:17.650442+00:00",
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "nginx_config": "UNCHANGED",
+  "services": "UNCHANGED_ACTIVE",
+  "files_verified": 144,
+  "indexing": "DISABLED"
+}

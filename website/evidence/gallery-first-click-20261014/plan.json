@@ -1,0 +1,7 @@
+{
+  "scope": "Only local homepage capture/hit-testing fix; retain content/components/GSAP/depth state; verify first click, navigation/Back and simulated mobile; no publication/indexing",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "hypothesis": "Native root capture makes homepage real controls non-hit-testable during route transition; observed first click hit HTML while root transition active and gallery stayed01",
+  "root_cause_reference": "https://www.w3.org/TR/css-view-transitions-1/",
+  "runtime_recovery": "Port4178 had no listener. Restarted existing scripts/serve.py with session88606, loopback dist-only, no service/config changes."
+}

@@ -1,0 +1,109 @@
+- heading "反馈中心" [level=1]:
+  - link:
+    - /url: https://www.so.com
+  - generic: 反馈中心
+- link "360U2983230721":
+  - /url: javascript:;
+  - text: 360U2983230721
+- link "360搜索":
+  - /url: https://www.so.com
+- text: "> 意见反馈"
+- link "关于我们":
+  - /url: /about.html
+- link "我要举报":
+  - /url: /web_report.html
+- link "未成年人举报":
+  - /url: /teenager_report.html
+- link "算法推荐举报":
+  - /url: /algorithm_report.html
+- link "历史虚无主义举报":
+  - /url: /history_report.html
+- link "广告举报":
+  - /url: https://e.360.cn/static/zhihui/customerComplaintTrace/?adSource=1
+- link "互联网举报中心":
+  - /url: https://www.12377.cn/
+- link "意见反馈":
+  - /url: /feedback.html
+- link "快照删除":
+  - /url: /cache_remove.html
+- link "图片举报":
+  - /url: /image_report.html
+- link "地图反馈":
+  - /url: /map_suggest.html
+- link "黄页提交":
+  - /url: http://dian.360.cn
+- link "站长平台":
+  - /url: https://zhanzhang.so.com/?m=Site&a=index
+- link "网站收录":
+  - /url: /site_submit.html
+- link "官网认证":
+  - /url: /web_check.html
+- heading "欢迎您的意见及建议" [level=2]
+- paragraph:
+  - text: 感谢您使用360搜索！请告诉我们您对360搜索的意见和建议，我们会参考您的反馈不断优化我们的产品和服务。
+  - text: （如有其他疑问和建议，
+  - link "请联系公司相关业务部门":
+    - /url: https://www.360.cn/about/contactus.html
+  - text: ，或您需要举报违法信息和欺诈信息，请点击左侧"我要举报"。）
+- generic: "*反馈产品："
+- combobox:
+  - option "网页搜索"
+  - option "新闻搜索"
+  - option "图片搜索"
+  - option "图片搜索移动版"
+  - option "良医搜索"
+  - option "视频搜索"
+  - option "音乐搜索"
+  - option "问答搜索"
+  - option "百科搜索"
+  - option "软件搜索"
+  - option "站长平台" [selected]
+  - option "搜索热榜"
+  - option "学术搜索"
+  - option "英文搜索"
+  - option "网页搜索url误报"
+  - option "指数搜索"
+  - option "每日看点"
+  - option "翻译"
+  - option "文库"
+  - option "360精选"
+  - option "好搜学"
+  - option "慧优采"
+  - option "新知"
+  - option "人工翻译"
+  - option "问诊"
+  - option "中间页"
+  - option "天气"
+  - option "星座"
+  - option "问AI"
+  - option "论文查重"
+  - option "360行家-律眸"
+  - option "专属兴趣导航"
+  - option "快问快答"
+  - option "搜索解题"
+  - option "360智图"
+- heading "请详细描述您遇到的问题、您的意见及建议:" [level=4]
+- text: 您还可以输入
+- emphasis: "800"
+- text: 个字
+- textbox
+- button "Choose File"
+- button "Choose File"
+- button "Choose File"
+- button "Choose File"
+- button "Choose File"
+- generic: "*您的邮箱："
+- textbox
+- text: （方便我们及时告知您处理结果）
+- generic: "*验证码："
+- generic: 依次点击
+- button "提交"
+- paragraph:
+  - generic: ©2026 so.com
+  - link "津公网安备12011602001439号":
+    - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011602001439
+  - link "津ICP备20006251号-4":
+    - /url: https://beian.miit.gov.cn
+  - link "工商营业执照":
+    - /url: https://www.so.com/help/gongshangyingyezhizhao.html
+  - generic: 360会员客服：400-0032-360

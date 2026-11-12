@@ -1,0 +1,38 @@
+text 这是一次网页读取诊断。请只读取这个完整网址：
+						376 link Description: https://www.eliai.cn/services/fde-consulting.html?diag=perplexity-20261017-1512, Value: eliai.cn/services/fde-consulting.html?diag=perplexity-20261017-1512
+						377 text  。不要用先前回答或搜索摘要代替正文。成功时给页面标题、收费说明的短原文和来源；失败时只说明工具返回的错误。
+						378 button (collapsed) 已研究 1秒, Secondary Actions: Expand
+							379 text 已研究
+							380 text 1秒
+							381 image
+						382 container
+							383 text 失败。工具返回的错误为： Failed to fetch content for https://www.eliai.cn/services/fde-consulting.html?diag=perplexity-20261017-1512 。
+						384 button 复制
+						385 pop up button (collapsed) Description: 分享, Secondary Actions: Expand
+						386 button 有帮助
+						387 button 没有帮助
+						388 button 复刻
+						389 pop up button (collapsed) Description: 更多操作, Secondary Actions: Expand
+						347 button 收起面板
+				348 button (collapsed) 来源 53, Secondary Actions: Expand
+					349 text 来源
+					350 text 53
+					351 image
+				352 container
+					353 button 滚动到末尾
+					359 container
+						360 text 您正处于隐身模式。
+						361 button 退出隐身模式
+							362 text 退出无痕模式
+					363 container
+						364 text entry area (settable) ask-input
+						365 pop up button (collapsed) Description: 添加文件或工具, Secondary Actions: Expand
+						366 checkbox 搜索, Value: 1, ID: radix-_r_6q_
+						367 checkbox Computer, Value: 0
+						368 pop up button (collapsed) Description: 模型, Secondary Actions: Expand
+							369 text 模型
+						390 button 语音输入
+						391 button (disabled) 提交
+		372 list Typeahead menu
+
+The focused UI element is 364 text entry area (settable) ask-input

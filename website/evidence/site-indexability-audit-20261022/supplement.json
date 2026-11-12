@@ -1,0 +1,32 @@
+{
+  "exact_duplicate_focus_groups": {
+    "title": [],
+    "description": [],
+    "maintext": []
+  },
+  "focus_page_count": 210,
+  "focus_resource_count": 16,
+  "sitemap_lastmod_counts": {
+    "2026-10-20": 288,
+    "2026-10-21": 6
+  },
+  "services_inbound": [
+    {
+      "service": "https://www.eliai.cn/services/ai-agent.html",
+      "inbound_page_count": 9,
+      "article_inbound": 4
+    },
+    {
+      "service": "https://www.eliai.cn/services/fde-consulting.html",
+      "inbound_page_count": 97,
+      "article_inbound": 93
+    },
+    {
+      "service": "https://www.eliai.cn/services/workflow-automation.html",
+      "inbound_page_count": 11,
+      "article_inbound": 5
+    }
+  ],
+  "raw_article_links_zh": 102,
+  "raw_article_links_en": 102
+}

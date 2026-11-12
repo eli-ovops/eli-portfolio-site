@@ -1,0 +1,56 @@
+{
+  "revision": "f44db3901ef223fc8f21",
+  "checks": {
+    "assets/depth-gallery.js": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/projects.json": true,
+    "content/seo.json": true,
+    "assets/page-version.js": true,
+    "assets/site-analytics.js": true,
+    "assets/site-analytics.css": true,
+    "assets/home-ambient.js": true,
+    "motion.js": true,
+    "official_bundle_loaded": true,
+    "production_reference_unchanged": true,
+    "exact_registry_source": true
+  },
+  "regressions": {
+    "home_case_return": {
+      "exit_code": 0,
+      "output": "PASS: homepage/root entry, related origin, project selection, no stale filters, bilingual/subpath boundaries"
+    },
+    "return_owner": {
+      "exit_code": 0,
+      "output": "PASS: homepage/cleared origin stays clean; real explicit/history/legacy list origins retained in both controllers"
+    },
+    "related_return": {
+      "exit_code": 0,
+      "output": "PASS: related cases preserve list query/category/origin without GSAP; external/foreign-language/invalid origins ignored"
+    },
+    "service_return": {
+      "exit_code": 0,
+      "output": "PASS: service entry, related chain, BFCache/history/referrer, bilingual/subpath origins, catalogue isolation and invalid sources"
+    },
+    "navigation_version": {
+      "exit_code": 0,
+      "output": "PASS: replace-only navigation, reading state, filters/hash, bilingual/subpath scope, external/media links and current version"
+    },
+    "first_pointer": {
+      "exit_code": 0,
+      "output": "PASS: history list first-pointer release, shared title on explicit navigation, prefixes and fallback"
+    },
+    "search_reset": {
+      "exit_code": 0,
+      "output": "PASS: mouse focus continuity, cancelled press, keyboard reset, fresh search, bilingual URL/result state"
+    },
+    "home_entry": {
+      "exit_code": 0,
+      "output": "PASS: early home/unrelated-route snapshot cancellation; shared title routes retained; snapshots cannot take input"
+    },
+    "analytics": {
+      "exit_code": 0,
+      "output": "PASS: consent gating, production-only, canonical PV, precise consultation/channel clicks, no query/contact payloads, BFCache, duplicate load, blocked storage and cross-tab withdrawal\nPASS: exit keeps reserved space until finished, duplicate presses ignored, finished animation released, reduced motion closes immediately"
+    }
+  }
+}

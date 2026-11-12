@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-17",
+  "status": "LOCAL_IMPLEMENTED_BROWSER_VERIFIED_USER_FEEL_PENDING",
+  "revision": "04758c73496c8fa58af4",
+  "production_changed": false,
+  "preview": "http://127.0.0.1:4178/index.html?pv=04758c73496c8fa58af4#work",
+  "user_priority": "Faster wheel following, less rebound, both wheel directions must move cards. Preserve caption scrolling, current stacked visuals, no glass, local only.",
+  "changes": [
+    "Continuous critically damped follower on one GSAP ticker; position and velocity persist across repeated inputs, no restarting ease. Frequency32; capped frame delta and no overshoot. Ticker removed when settled, paused for reading and removed on pagehide/teardown.",
+    "Outgoing card fades to zero before parent stacking handoff at half index; reverse handoff also nearly transparent. Resting card geometry, opacity and CSS unchanged.",
+    "Wheel distance normalization changed from max360/height*.65 to max280/height*.38, per-event cap.35->.6; settle wait110->85ms. Existing image-only/expanded-reading gate, net direction and nearest-card settling preserved."
+  ],
+  "protected": {
+    "assets/stacked-gallery.css": true,
+    "scripts/check_gallery_scroll.cjs": true,
+    "scripts/check_gallery_gesture.cjs": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/projects.json": true,
+    "content/seo.json": true,
+    "motion.js": true,
+    "assets/home-ambient.js": true,
+    "styles.css": true,
+    "assets/page-version.js": true,
+    "assets/site-analytics.js": true
+  },
+  "tests": {
+    "handoff": "red before: outgoing image still82percent opaque at phase.49; green after: <=3percent at forward/reverse handoff, static front/back opacity unchanged.",
+    "follower": "PASS continuous retarget, one ticker only, monotonic/no overshoot settling, reverse targets, settled and explicit teardown stop ticker.",
+    "existing": "gallery_scroll, gallery_gesture, home_case_return, service_return, analytics PASS.",
+    "build": "90pages/38records PASS",
+    "static_http_privacy": "PASS",
+    "localization": "45pairs/38translations PASS",
+    "seo": "88sitemap URLs PASS"
+  },
+  "browser": {
+    "bidirectional": "Desktop1335x900 image at(370,350): wheel down05/06->06/06 with position4.981; wheel up06/06->05/06 with position4.015, pageY1202 unchanged. Later selected charity05/06 settled correctly.",
+    "caption": "Expanded charity05/06 remained selected/open while native pageY1141->1006.",
+    "case_return": "Home charity p02 -> case -> back restored project=p02 and selected charity.",
+    "mobile": "390px Chinese card350px;320px English no overflow and OA inline SVG present.",
+    "consultation": "390px homepage CTA reaches about.html#contact, QR natural width728; no message/call/email sent."
+  },
+  "limitations": [
+    "User-perceived feel pending on their own mouse/trackpad. No physical-device FPS or latency benchmark.",
+    "No deployment or production QA."
+  ],
+  "screenshots": [
+    "desktop.png"
+  ]
+}

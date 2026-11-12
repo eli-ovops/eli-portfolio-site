@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "files_verified": 142,
+  "https_paths": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "records.html",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "assets/content-layout.css",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "assets/depth-gallery.js",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "assets/screenshot-viewer.js",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "assets/office-workflow.svg",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "x_robots_tag": null
+    }
+  ],
+  "configs_unchanged": true,
+  "IP_target_unchanged": true,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "ERP_static_login_paths": "200",
+  "no_service_restart": true,
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261015-183949-https-index"
+}

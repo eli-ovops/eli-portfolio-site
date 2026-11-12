@@ -1,0 +1,90 @@
+{
+  "status": "LOCAL_PREVIEW_READY",
+  "revision": "ec095f94c1b430789479",
+  "changed_source_files": [
+    "content/profile.json",
+    "content/en.json",
+    "templates/about.html",
+    "scripts/pages.py",
+    "content/page-updates.json"
+  ],
+  "changed_content_dates": [
+    "about.html",
+    "en/about.html"
+  ],
+  "updated_date": "2026-10-19",
+  "styles_and_motion_hash_checks": {
+    "assets/editorial.css": true,
+    "styles.css": true,
+    "app.js": true,
+    "motion.js": true,
+    "motion.css": true
+  },
+  "build": "PASS296pages",
+  "general_site_check": "PASS296pages/resources/links/anchors/oneH1/privacy",
+  "about_localization": "PASS3paragraphs each, actual language switching both directions",
+  "mobile_widths": [
+    320,
+    390,
+    430
+  ],
+  "mobile_checks": [
+    {
+      "bioParagraphs": 3,
+      "lang": "zh-CN",
+      "overflow": false,
+      "paragraphOverflow": false,
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "bioParagraphs": 3,
+      "lang": "zh-CN",
+      "overflow": false,
+      "paragraphOverflow": false,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "bioParagraphs": 3,
+      "lang": "zh-CN",
+      "overflow": false,
+      "paragraphOverflow": false,
+      "scrollWidth": 415,
+      "width": 430
+    },
+    {
+      "bioParagraphs": 3,
+      "lang": "en",
+      "overflow": false,
+      "paragraphOverflow": false,
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "bioParagraphs": 3,
+      "lang": "en",
+      "overflow": false,
+      "paragraphOverflow": false,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "bioParagraphs": 3,
+      "lang": "en",
+      "overflow": false,
+      "paragraphOverflow": false,
+      "scrollWidth": 415,
+      "width": 430
+    }
+  ],
+  "desktop_width": 1280,
+  "consultation": "Both language CTA clicked; contact section top about104px after scroll settled; no external contact sent",
+  "localization_checker_limit": "Full-site check_localization.py hits pre-existing Chinese teaching terms in English ai-translation-review tutorial; not modified in this task; focused About bilingual checks pass",
+  "source_git": "Existing non-Git static project per site.yaml; exact before copies and hashes preserved",
+  "preview_session": 99225,
+  "publication": false,
+  "website_production_changes": 0,
+  "search_submissions": 0,
+  "artifacts": "Before files, browser QA JSON and mobile/desktop screenshots preserved in this directory"
+}

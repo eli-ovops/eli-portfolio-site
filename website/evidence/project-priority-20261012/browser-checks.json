@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-12",
+  "browser": "Codex In-app Browser",
+  "checks": [
+    {
+      "case": "default-order",
+      "count": 38,
+      "first": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05"
+      ],
+      "schema": [
+        "p10.html",
+        "p36.html",
+        "p09.html",
+        "p04.html",
+        "p02.html",
+        "p12.html",
+        "p05.html"
+      ]
+    },
+    {
+      "case": "filtered-case-back",
+      "clientFilter": "true",
+      "query": "库存",
+      "url": "http://127.0.0.1:4178/records.html?category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98",
+      "visible": [
+        "project-p10",
+        "project-p09"
+      ]
+    },
+    {
+      "case": "mobile-390-en/cases/p36.html",
+      "facts": "My work\nKnowledge base, retrieval configuration and testing\nEvidence\nPersonal account and initial UI; illustrative answers",
+      "firstRows": [],
+      "intro": "Provide question input, quick support and contact entry points for product and brand knowledge on an independent website.",
+      "overflow": false,
+      "stage": "Team customization and delivery",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-cases/p12.html",
+      "facts": "我的工作\n主导工作台开发与验证\n验收边界\n局部验证；图文发布全链路未通过",
+      "firstRows": [],
+      "intro": "串联产品资料、风格设置、内容编辑与人工审核，保留导出路径。",
+      "overflow": false,
+      "stage": "本地工作台",
+      "url": "http://127.0.0.1:4178/cases/p12.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-cases/p15.html",
+      "facts": "我的工作\n全部开发由我完成\n项目进度\n原生候选迭代，发行闭环待核",
+      "firstRows": [],
+      "intro": "以宠物资料连接发现、邀请和聊天，处理消息状态与重启恢复。",
+      "overflow": false,
+      "stage": "原生 iOS · 配图为独立 Demo",
+      "url": "http://127.0.0.1:4178/cases/p15.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-en/records.html",
+      "facts": null,
+      "firstRows": [
+        "project-p10",
+        "project-p36",
+        "project-p09"
+      ],
+      "intro": null,
+      "overflow": false,
+      "stage": null,
+      "url": "http://127.0.0.1:4178/en/records.html",
+      "width": 390
+    },
+    {
+      "case": "english-mobile-filter-search",
+      "overflow": false,
+      "query": "inventory",
+      "visible": [
+        "project-p10",
+        "project-p09"
+      ],
+      "width": 390
+    },
+    {
+      "case": "final-default-library",
+      "allFilter": "true",
+      "query": "",
+      "url": "http://127.0.0.1:4178/records.html",
+      "visible": 38
+    }
+  ],
+  "mobileScope": "Actual390px CSS viewport via supported per-tab CDP; mobile screenshot captured at explicit390x844 clip; no real-device or standalone-browser acceptance",
+  "metrics_reset": true
+}

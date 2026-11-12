@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "066456f5df9368a90560",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261018-article-metadata-066456f5",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261017-llms-utf8-e253f5b6",
+  "public_hashes_checked": 29,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

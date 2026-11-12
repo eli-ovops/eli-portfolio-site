@@ -1,0 +1,187 @@
+- main:
+  - region "对话":
+    - heading "你说：" [level=4]
+    - generic: 请联网为完全不懂技术的中小企业老板找3篇中文入门教程，分别讲：库存每天靠人工核对先改哪一步、企业知识库如何从少量资料开始、Agent是什么以及与聊天机器人的区别。优先浅显、有实际步骤和例子的文章。请给出可点击的真实原文链接，说明每篇适合解决什么问题；找不到就明确说，不要编造网址。
+    - button "复制消息":
+    - button "编辑消息":
+    - heading "ChatGPT 说：" [level=4]
+    - paragraph:
+      - text: 我按你的要求，优先筛选了
+      - generic: 中文、适合零技术基础、有实际步骤或业务例子、能直接打开原文
+      - text: 的教程。建议不要先学技术名词，而是先从自己企业正在发生的问题入手：库存为什么总对不上、员工为什么总找不到资料、AI 到底能不能替人完成工作。
+    - paragraph: 下面按这三个问题，各推荐一篇，并说明读完后能实际做什么。
+    - heading "1. 库存每天靠人工核对：应该先改哪一步？" [level=2]
+    - img "会计仓库盘点方法详解，会计仓库盘点如何高效进行？ • 简道云"
+    - button "Open 会计仓库盘点方法详解，会计仓库盘点如何高效进行？ • 简道云"
+    - button "添加到收藏夹":
+    - generic: 优先推荐
+    - paragraph:
+      - generic: 《什么是库存盘点？目的、流程与常用方法》
+    - paragraph: 来源：思谷特科 · 面向便利店、超市、仓库和个体经营者
+    - paragraph:
+      - text: 这篇从基础概念讲起，介绍库存盘点的标准步骤，尤其强调先冻结或记录出入库，再清点实物、复核差异，最后调整账面，而不是一发现对不上就直接改数字。适合先建立正确的库存管理习惯。
+      - button "思谷特科":
+        - generic: 思谷特科
+    - paragraph:
+      - link "点击阅读原文":
+        - /url: https://www.510097.cn/knowledge/shenme-shi-kucun-pandian/index.html?utm_source=chatgpt.com
+        - generic: 点击阅读原文
+    - paragraph:
+      - generic: 它适合解决什么问题？
+    - list:
+      - paragraph: 每天人工数货，账面数量与仓库实际数量经常不一致。
+      - paragraph: 明明盘点过了，过几天又出现差异。
+      - paragraph: 不清楚应该先查出入库记录，还是直接修改库存数字。
+    - paragraph:
+      - generic: 建议老板读完后，先落实这三件事：
+    - list:
+      - paragraph:
+        - generic: 统一出入库登记。
+        - text: 收货、发货、退货、损耗都要及时留下记录，避免货动了、账没动。
+      - paragraph:
+        - generic: 增加差异原因栏。
+        - text: 在现有 Excel 表里加上“账面数量、实际数量、差异、原因、处理人”，不要只记录最终数字。
+      - paragraph:
+        - generic: 先复核，再改账。
+        - text: 数量不一致时，先检查漏登记、退货未入账、商品放错位置等原因，确认后才调整。
+    - paragraph: 例如，账面显示 50 件，实数只有 47 件，第一步不是把账改成 47，而是查清少掉的 3 件是漏记出库、损坏还是其他原因。
+    - paragraph:
+      - generic: 我的判断：
+      - text: 如果你的企业现在仍然靠员工每天人工核对，优先修正出入库登记和差异追踪，比一开始购买复杂的库存软件更重要。
+    - heading "2. 企业知识库：怎样从少量资料开始？" [level=2]
+    - img "Create User Manuals Online - AI Manual Builder | Docsie"
+    - button "Open Create User Manuals Online - AI Manual Builder | Docsie"
+    - button "添加到收藏夹":
+    - generic: 最适合中小企业
+    - paragraph:
+      - generic: 《拆解｜从0到1搭建企业知识库：一份面向中小企业的实操指南》
+    - paragraph: 来源：53AI · 2026 年 6 月 11 日
+    - paragraph:
+      - text: 文章专门面向预算有限、缺少技术团队的中小企业，解释企业知识库的用途，并按整理资料、选择平台、导入测试、持续更新的顺序讲解落地方法。
+      - button "53AI-AI知识库|企业AI知识库|大模型知识库|前线部署工程师|FDE|AIHub +1":
+        - generic: 53AI-AI知识库|企业AI知识库|大模型知识库|前线部署工程师|FDE|AIHub
+        - generic: "+1"
+    - paragraph:
+      - link "点击阅读原文":
+        - /url: https://www.53ai.com/news/zhishiguanli/2026061107481.html?utm_source=chatgpt.com
+        - generic: 点击阅读原文
+    - paragraph:
+      - generic: 它适合解决什么问题？
+    - list:
+      - paragraph: 产品说明书、报价规则、员工制度散落在电脑和聊天记录里。
+      - paragraph: 新员工反复问相同的问题，老板或老员工不得不重复解释。
+      - paragraph: 想让 AI 根据企业自己的资料回答问题，而不是只给通用答案。
+    - paragraph:
+      - generic: 建议从 5～10 份资料开始试做
+      - text: ，这是便于控制试验范围的建议，不是文章规定的数量。
+    - list:
+      - paragraph:
+        - generic: 先选一个场景。
+        - text: 例如，让销售人员快速查产品规格、报价规则和售后政策。
+      - paragraph:
+        - generic: 挑出少量可靠资料。
+        - text: 先准备最新版产品介绍、常见问题、价格政策、售后流程等，不要一口气导入所有历史文件。
+      - paragraph:
+        - generic: 把资料整理清楚。
+        - text: 删除重复版本，标明生效日期和负责人，确保员工不会查到过期规定。
+      - paragraph:
+        - generic: 选一个免编程的知识库工具。
+        - text: 先确认能否上传现有文档、限制访问权限，以及是否支持按资料回答问题。
+      - paragraph:
+        - generic: 用真实问题测试。
+        - text: 比如“这款产品保修多久？”“客户要求退货应该怎么处理？”检查答案是否符合公司现行规定，最好还能找到原始资料依据。
+    - paragraph: 举个例子：假设客服每天都要问老板“这类产品能不能退货”，你可以先把正式的退换货政策和常见问答整理好，导入知识库，让客服用自然语言查询。发现答错了，就先检查原文是否过期、表述是否含糊、检索是否准确。
+    - paragraph:
+      - generic: 要特别注意：
+      - text: 知识库不是把文件上传后，AI 就必然能答对。文章也强调了资料清洗、测试和持续更新。涉及客户资料、合同和内部价格时，还要先核实工具的数据存储方式与权限设置。
+      - button "53AI-AI知识库|企业AI知识库|大模型知识库|前线部署工程师|FDE|AIHub":
+        - generic: 53AI-AI知识库|企业AI知识库|大模型知识库|前线部署工程师|FDE|AIHub
+    - paragraph: 我的建议是：先让一个部门、一个场景、少量资料跑通，再决定是否扩展到整个企业。
+    - heading "3. Agent 是什么？与普通聊天机器人有什么区别？" [level=2]
+    - img "Kimi Agent 是什么？功能介绍与使用入口 - Kimi 帮助中心"
+    - button "Open Kimi Agent 是什么？功能介绍与使用入口 - Kimi 帮助中心"
+    - button "添加到收藏夹":
+    - generic: 建议先读这篇
+    - paragraph:
+      - generic: 《AI Agent 是什么？它和聊天机器人差在哪》
+    - paragraph: 来源：澄序元 · 企业 AI 落地与工作流实践
+    - paragraph:
+      - text: 这篇用整理客户咨询、编写周报的例子，展示普通聊天机器人和 Agent 完成同一项工作的不同过程，也说明了哪些工作适合交给 Agent，以及权限和人工审核为什么重要。
+      - button "澄序元":
+        - generic: 澄序元
+    - paragraph:
+      - link "点击阅读原文":
+        - /url: https://www.shchengxuyuan.com/zh/blog/what-is-ai-agent?utm_source=chatgpt.com
+        - generic: 点击阅读原文
+    - paragraph:
+      - generic: 它适合解决什么问题？
+    - list:
+      - paragraph: 听过 AI Agent、智能体，却不知道它与平时使用的 AI 聊天工具有什么不同。
+      - paragraph: 不确定企业应该只使用 AI 问答，还是值得进一步做任务自动化。
+      - paragraph: 想知道哪些重复工作可以交给 AI，又该怎样控制风险。
+    - paragraph: 用一个企业老板容易理解的例子来说明：
+    - paragraph:
+      - generic: 普通聊天机器人
+    - paragraph: 你说：“帮我整理本周的客户投诉。”
+    - paragraph: AI 告诉你如何分类、如何汇总。你仍然需要自己导出记录、整理数据、制作报告。
+    - paragraph:
+      - generic: 具备相应工具权限的 Agent
+    - paragraph: 你说：“整理本周客户投诉，按产品分类，与上周比较，生成一份周报草稿。”
+    - paragraph: Agent 可以在获得授权后读取相关记录、分类统计、比较数据、生成报告，并检查结果；遇到数据缺失时向你确认。
+    - paragraph: 这个例子也揭示了核心区别：
+    - list:
+      - paragraph:
+        - generic: 聊天机器人侧重回答问题。
+      - paragraph:
+        - generic: Agent 侧重围绕目标执行多个步骤，并交付结果。
+    - paragraph:
+      - text: 但两者并不是绝对割裂的：有些聊天机器人也能调用工具，而 Agent 也可能需要通过对话确认需求。关键要看它在具体产品中实际具备什么能力，而不是产品是否打着“智能体”的名称。
+      - button "Agent.Space +1":
+        - generic: Agent.Space
+        - generic: "+1"
+    - paragraph:
+      - generic: 读完后，建议老板这样挑选第一个试点：
+    - list:
+      - paragraph: 找一件每周重复发生、步骤相对固定的工作，例如汇总客服咨询、整理销售周报。
+      - paragraph: 明确 AI 能读取哪些资料，以及最终要交付什么。
+      - paragraph: 先让它生成草稿、报表或建议，不要一开始就授权它直接付款、改库存、向客户发送重要信息。
+      - paragraph: 让员工核对结果，记录节省的时间、错误率和返工次数，再决定是否扩大使用范围。
+    - heading "三篇文章，建议按什么顺序读？" [level=2]
+    - paragraph:
+      - generic: 第一步：先改善库存管理
+    - paragraph: 解决每天人工核对、账实不符的问题。
+    - paragraph: 先把出入库登记、盘点差异和复核流程规范好。
+    - paragraph:
+      - generic: 第二步：把企业资料整理成知识库
+    - paragraph: 解决员工反复问、资料难查的问题。
+    - paragraph: 先用少量准确资料，验证 AI 是否能找到正确答案。
+    - paragraph:
+      - generic: 第三步：再判断是否需要 Agent
+    - paragraph: 解决重复操作多、跨多个步骤才能完成工作的任务。
+    - paragraph: 从生成报表、整理信息等低风险工作开始试点。
+    - paragraph:
+      - text: 我的总体建议是：
+      - generic: 先把流程理顺，再把资料整理好，最后才考虑让 AI 执行任务。
+      - text: Agent 无法自动弥补混乱的库存记录，也不能凭空补齐缺失的企业知识。
+    - paragraph: 以上三篇均找到了可打开的原文链接。需要说明的是，第二篇偏向企业知识库的整体落地方法，第三篇偏向概念理解和业务场景，并非所有文章都属于完全不涉及工具操作的纯新手教程。你可以先从第一篇开始，因为它最容易直接转化成当天就能执行的改进动作。
+    - button "复制":
+    - button "评价回复":
+    - button "朗读":
+    - button "重新生成回复":
+    - button "更多操作":
+    - generic: ChatGPT 可能会出错。请核查重要信息。
+    - button "滚动到底部":
+    - heading "最新一条回复" [level=4]
+    - status
+    - button "添加文件等内容":
+    - textbox "询问 ChatGPT" [active]:
+      - paragraph: 询问 ChatGPT
+    - button "选择 ChatGPT 模型":
+      - generic: Pro
+    - button "听写":
+    - button "发送" [disabled]:
+- status
+- status
+- status
+- status
+- status: 回答已完成

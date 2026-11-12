@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-23T06:13:27.246Z",
+  "login": "RECOVERED_VERIFIED",
+  "site": "www.eliai.cn",
+  "ownership": "已验证根目录",
+  "role": "高级管理员",
+  "verification_date_display": "2026-10-16",
+  "native_index_notice": "查询站点暂时没有收录和索引数据",
+  "index_total": "UNKNOWN",
+  "new_registration": 0,
+  "new_verification": 0,
+  "submission_count": 0,
+  "historical_submission": "60 accepted URLs; historical batch4 outcomeUNKNOWN, do not resend",
+  "qualification_upgrade": "Not performed; optional flow not needed to restore existing admin report",
+  "next": "Observe native index report; no duplicate account/site/URL submissions"
+}

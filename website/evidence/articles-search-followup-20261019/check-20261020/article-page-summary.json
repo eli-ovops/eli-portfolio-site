@@ -1,0 +1,11 @@
+{
+  "article_page_impressions": 21,
+  "article_page_clicks": 0,
+  "distinct_article_paths": 14,
+  "daily_article_page_impressions": {
+    "2026-10-17": 3,
+    "2026-10-18": 14,
+    "2026-10-19": 4
+  },
+  "scope": "include_fresh_data=true; nonfinal; NOT all-site impressions; origin UNKNOWN"
+}

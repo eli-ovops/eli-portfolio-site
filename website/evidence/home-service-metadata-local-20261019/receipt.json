@@ -1,0 +1,37 @@
+{
+  "status": "LOCAL_METADATA_AND_BROWSER_VERIFIED_NOT_PUBLISHED",
+  "revision": "fdaded69427dfb1ce994",
+  "changed_html": [
+    "en/index.html",
+    "index.html"
+  ],
+  "visible_bodies_unchanged": 296,
+  "presentation_files_unchanged": 25,
+  "source_change_only_home_metadata": true,
+  "metadata_and_canonical_hreflang": "PASS",
+  "page_date_changes": [
+    "en/index.html",
+    "index.html"
+  ],
+  "build": "PASS:296 pages",
+  "deployed": false,
+  "search_submissions": 0,
+  "validation_note": "Initial validator assumed a space after the robots comma; actual index,follow is valid. Corrected only semantic directive parsing, not site robots.",
+  "source_sha256": {
+    "content/seo.json": "3dba7a50ca559317a7fd922f7efd600ca21c92037c2c7f6fffce1f285c3ce254",
+    "content/page-updates.json": "f0499f8c04e089f0866084f9ab47fe847fa582abbc1d7d26fc2ad61297c878b0"
+  },
+  "browser_language_round_trip": "PASS",
+  "native_index_evidence": "evidence/articles-search-followup-20261019/google-service-index-latest.json",
+  "files_created_purpose": "Snapshots, copy comparison, native receipts and browser evidence retained for review; no cleanup.",
+  "changed_non_html": [
+    "llms.txt",
+    "sitemap.xml"
+  ],
+  "llms_change": "Only the two homepage title/description pairs generated from the same metadata source; all other llms content unchanged.",
+  "package_sha256": "fe7b7a5621eb7e78027987d8fbe152702d9b9fb98b451caf5f349f574a92fd82",
+  "package_path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/home-service-metadata-local-20261019/20261019-home-metadata-fdaded69.tar.gz",
+  "publication_authorized": false,
+  "publication_state": "AWAITING_USER_APPROVAL",
+  "package_validation_note": "Reused service-release validator required adapting canonical homepage mapping to / and /en/; actual sitemap URLs and dates were already correct. Generated llms summary changes were reviewed, not silently omitted."
+}

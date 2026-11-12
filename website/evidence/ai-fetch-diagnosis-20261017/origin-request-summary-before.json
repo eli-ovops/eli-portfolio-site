@@ -1,0 +1,418 @@
+{
+  "server_utc": "2026-10-17T07:11:43.232119+00:00",
+  "log_file_bytes": 876586,
+  "tail_bytes_max": 4000000,
+  "selected_events": 154,
+  "status_by_public_path": [
+    {
+      "path": "/robots.txt",
+      "status": "200",
+      "count": 24
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": "200",
+      "count": 14
+    },
+    {
+      "path": "/services/workflow-automation.html",
+      "status": "200",
+      "count": 15
+    },
+    {
+      "path": "/cases/p36.html",
+      "status": "200",
+      "count": 9
+    },
+    {
+      "path": "/robots.txt",
+      "status": "400",
+      "count": 1
+    },
+    {
+      "path": "/robots.txt",
+      "status": "301",
+      "count": 19
+    },
+    {
+      "path": "/records.html",
+      "status": "200",
+      "count": 9
+    },
+    {
+      "path": "/services/fde-consulting.html",
+      "status": "200",
+      "count": 19
+    },
+    {
+      "path": "/services/ai-agent.html",
+      "status": "200",
+      "count": 14
+    },
+    {
+      "path": "/cases/p10.html",
+      "status": "200",
+      "count": 13
+    },
+    {
+      "path": "/en/services/workflow-automation.html",
+      "status": "200",
+      "count": 6
+    },
+    {
+      "path": "/en/services/fde-consulting.html",
+      "status": "200",
+      "count": 5
+    },
+    {
+      "path": "/en/services/ai-agent.html",
+      "status": "200",
+      "count": 5
+    },
+    {
+      "path": "/services/fde-consulting.html",
+      "status": "304",
+      "count": 1
+    }
+  ],
+  "recognized_bot_events": [
+    {
+      "at": "17/Oct/2026:03:29:36 +0800",
+      "method": "GET",
+      "path": "/robots.txt",
+      "status": 301,
+      "bytes": "178",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot"
+    },
+    {
+      "at": "17/Oct/2026:03:29:38 +0800",
+      "method": "GET",
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": "65",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot"
+    },
+    {
+      "at": "17/Oct/2026:11:45:05 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+    },
+    {
+      "at": "17/Oct/2026:13:02:47 +0800",
+      "method": "GET",
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": "65",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot"
+    },
+    {
+      "at": "17/Oct/2026:14:58:12 +0800",
+      "method": "GET",
+      "path": "/cases/p36.html",
+      "status": 200,
+      "bytes": "13199",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+    },
+    {
+      "at": "17/Oct/2026:14:58:12 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+    },
+    {
+      "at": "17/Oct/2026:14:58:13 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "14458",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+    },
+    {
+      "at": "17/Oct/2026:15:02:37 +0800",
+      "method": "GET",
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": "65",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:02:41 +0800",
+      "method": "GET",
+      "path": "/records.html",
+      "status": 200,
+      "bytes": "19454",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "OAI-SearchBot"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "PerplexityBot"
+    },
+    {
+      "at": "17/Oct/2026:15:05:57 +0800",
+      "method": "GET",
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": "65",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkof"
+    }
+  ],
+  "latest_public_service_events": [
+    {
+      "at": "17/Oct/2026:14:06:55 +0800",
+      "method": "GET",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "14247",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:07:22 +0800",
+      "method": "GET",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "14247",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.g"
+    },
+    {
+      "at": "17/Oct/2026:14:07:32 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "14458",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.g"
+    },
+    {
+      "at": "17/Oct/2026:14:09:16 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:09:30 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.g"
+    },
+    {
+      "at": "17/Oct/2026:14:10:27 +0800",
+      "method": "GET",
+      "path": "/en/services/ai-agent.html",
+      "status": 200,
+      "bytes": "13530",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:10:45 +0800",
+      "method": "GET",
+      "path": "/en/services/ai-agent.html",
+      "status": 200,
+      "bytes": "13530",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.g"
+    },
+    {
+      "at": "17/Oct/2026:14:14:08 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "14458",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:19:54 +0800",
+      "method": "GET",
+      "path": "/en/services/ai-agent.html",
+      "status": 200,
+      "bytes": "13530",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:23:19 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "14458",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:37:04 +0800",
+      "method": "GET",
+      "path": "/en/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "13608",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:37:49 +0800",
+      "method": "GET",
+      "path": "/en/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "13721",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:39:25 +0800",
+      "method": "GET",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "14247",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:39:47 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:50:38 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "14458",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "at": "17/Oct/2026:14:55:51 +0800",
+      "method": "GET",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "14247",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.52 Mobile Safari/537.36 (compatible; GoogleOther)"
+    },
+    {
+      "at": "17/Oct/2026:14:57:52 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "Python-urllib/3.10"
+    },
+    {
+      "at": "17/Oct/2026:14:57:52 +0800",
+      "method": "GET",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "37459",
+      "ua": "Python-urllib/3.10"
+    },
+    {
+      "at": "17/Oct/2026:14:57:52 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "38064",
+      "ua": "Python-urllib/3.10"
+    },
+    {
+      "at": "17/Oct/2026:14:57:52 +0800",
+      "method": "GET",
+      "path": "/en/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37933",
+      "ua": "Python-urllib/3.10"
+    },
+    {
+      "at": "17/Oct/2026:14:57:52 +0800",
+      "method": "GET",
+      "path": "/en/services/ai-agent.html",
+      "status": 200,
+      "bytes": "37327",
+      "ua": "Python-urllib/3.10"
+    },
+    {
+      "at": "17/Oct/2026:14:57:52 +0800",
+      "method": "GET",
+      "path": "/en/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "37863",
+      "ua": "Python-urllib/3.10"
+    },
+    {
+      "at": "17/Oct/2026:14:58:12 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+    },
+    {
+      "at": "17/Oct/2026:14:58:13 +0800",
+      "method": "GET",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "14458",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+    },
+    {
+      "at": "17/Oct/2026:15:02:11 +0800",
+      "method": "GET",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "14247",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "at": "17/Oct/2026:15:02:54 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:02:57 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:02:58 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "OAI-SearchBot"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "method": "GET",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "PerplexityBot"
+    }
+  ]
+}

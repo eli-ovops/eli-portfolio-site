@@ -1,0 +1,58 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "sha256": "38dc890a4e9769c4a9d6a0b0ab28791a41a5e2b41232386aa948a9d44120b783",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "about.html",
+    "status": 200,
+    "sha256": "d7e7c496f39673f3ea2df56d6217ffae3e3474a8e1ac9d002410729870f0c544",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "records.html",
+    "status": 200,
+    "sha256": "277883bc6c510e7e969b361f57d69aee6ca9c85b5913fb3a3189c2e1eba10c01",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "cases/p10.html",
+    "status": 200,
+    "sha256": "42dc1ece3ca8c12b0bef2ce9745fcda0e054338987f043d9df80405ade6c8aa5",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "cases/p09.html",
+    "status": 200,
+    "sha256": "53e1348191437fa9efdeeb037ab1b16c9bafd0f42300a3e3f8c834bb37edd6bd",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "cases/p36.html",
+    "status": 200,
+    "sha256": "22d2563bb14a1a211f0d82e976c2618ae2507bd1722bdbe24cd919e0b42451dd",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "cases/p07.html",
+    "status": 200,
+    "sha256": "b8b8a841e97bd4824540207c5ee7d777bf9861dfee98e24747e29af3bc38a885",
+    "matches_published_manifest": true,
+    "noindex": true
+  },
+  {
+    "path": "robots.txt",
+    "status": 200,
+    "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "matches_published_manifest": true,
+    "noindex": null
+  }
+]

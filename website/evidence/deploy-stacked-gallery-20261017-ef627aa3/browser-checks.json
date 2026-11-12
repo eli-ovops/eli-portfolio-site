@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-10-17T11:25:59.029578+08:00",
+  "environment": "Actual live official website in in-app Chromium; simulated mobile viewport, not a physical phone",
+  "revision": "ef627aa38d38fa4ba886",
+  "desktop": {
+    "viewport": [
+      1335,
+      900
+    ],
+    "component": "original-stacked-gallery",
+    "oa_svg_visible": true,
+    "all_five_screenshot_images_loaded": true,
+    "oa_surface": "opaque rgb(28, 30, 36)",
+    "oa_backdrop_filter": "none",
+    "wheel_down_then_up": "OA 04/06 -> 公益 05/06 -> OA 04/06; page scrollY remained 983",
+    "expanded_caption_scroll": "scrollY1141 ->1231; OA04/06 remains selected"
+  },
+  "mobile_zh": {
+    "viewport": [
+      390,
+      844
+    ],
+    "horizontal_overflow": false,
+    "card_width": 350,
+    "case_action_height": 44,
+    "oa_case_and_return": "p04 -> home selected p04 restored",
+    "consultation": "homepage CTA reaches about#contact",
+    "wechat_qr": "actual target_blank image opened, complete728x728; temporary image tab closed"
+  },
+  "mobile_en": {
+    "viewport": [
+      320,
+      780
+    ],
+    "horizontal_overflow": false,
+    "card_width": 280,
+    "case_action_height": 44,
+    "oa_case_and_return": "p04 -> English homepage selected p04 restored"
+  },
+  "service_case_return": "FDE service ->p10 ->related p09 ->original FDE service#service-proof; no mobile horizontal overflow",
+  "console_observation": "One AbortError: Transition was skipped. skipTransition() called during navigation; case return and consultation path completed. Not claiming zero console errors.",
+  "limitations": [
+    "No physical device or all-browser validation",
+    "No FPS benchmark",
+    "No consultation message, email, phone call or WhatsApp sent",
+    "Analytics conversion report remains a separate unresolved item"
+  ],
+  "screenshots": [
+    "live-desktop-oa.png",
+    "live-mobile-320.png"
+  ],
+  "temporary_viewport_override_cleared": true,
+  "deliverable_tab": "Official Chinese homepage#work"
+}

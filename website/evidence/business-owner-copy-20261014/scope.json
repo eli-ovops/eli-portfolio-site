@@ -1,0 +1,17 @@
+{
+  "revision": "468a4e0e3d6cfbcdd70b",
+  "scope": "Local business-owner positioning, plain-language scenarios and conversation entry; preserve case facts/motion/navigation/indexing",
+  "protected": {
+    "content/projects.json": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+    "content/case-examples.json": "55a7a7167ec0f32d65d73b442419cc42c6dc344ebdbbefe26bfb32562c1cbb2f",
+    "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "motion.js": "d328393689d8bbfa5f16ccf62b3ce477c082fc6ed1fad8d4b4950870f35a7cb9",
+    "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+    "assets/editorial.js": "5b47b64915be08a209fd595d37aa5e28db76f9e3236bd4e1f2f4c1d227b6c5e8",
+    "assets/depth-gallery.js": "1a796d24b2453394489beaa54d4bbd30d5a8d5ff9fb95158e79e69efcfab7c5f",
+    "assets/page-version.js": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49",
+    "assets/screenshot-viewer.js": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1"
+  },
+  "published": false,
+  "indexing": "DISABLED"
+}

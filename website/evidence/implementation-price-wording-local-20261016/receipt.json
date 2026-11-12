@@ -1,0 +1,19 @@
+{
+  "status": "LOCAL_ONLY_NOT_PUBLISHED",
+  "revision": "1571d54069222f876ee9",
+  "previous_local_revision": "237ae15f2d0908416cf7",
+  "production_unchanged": "4214c0d6f6cd8e3dd8ce",
+  "wording": "实施服务低至500元起",
+  "scope": [
+    "content/profile.json",
+    "content/seo.json"
+  ],
+  "checks": [
+    "Build90 pages38records PASS",
+    "45bilingual pairs PASS",
+    "SEO metadata and visible FAQ consistency PASS",
+    "320x740 browser emulation no horizontal overflow; primary CTA bottom597.55, cookie top619.13 after animation"
+  ],
+  "inherited_changes_receipt": "evidence/first-contact-local-20261016/receipt.json",
+  "screenshot": "home-mobile.png"
+}

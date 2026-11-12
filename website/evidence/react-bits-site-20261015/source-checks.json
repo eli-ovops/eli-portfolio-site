@@ -1,0 +1,37 @@
+{
+  "unchanged_sources": {
+    "styles.css": true,
+    "motion.css": true,
+    "app.js": true,
+    "assets/page-version.js": true,
+    "assets/screenshot-viewer.js": true,
+    "assets/editorial.css": true,
+    "templates/about.html": true,
+    "content/seo.json": true,
+    "content/projects.json": true,
+    "content/profile.json": true,
+    "content/en.json": true,
+    "content/case-examples.json": true,
+    "scripts/localization.py": true
+  },
+  "original_pattern_waves_shaders_preserved": {
+    "passVertex": true,
+    "fieldFragment": true,
+    "rippleFragment": true,
+    "markFragment": true
+  },
+  "changed_or_added_source_hashes": {
+    "assets/bits-ui.css": "100da5089951ed22b54b6e6a6d3fd244540cc2dd2664e55c7d99949dbdc043ea",
+    "assets/bits-ui.js": "537b26a47d1adcb59f4593cbde0b2eae871c0e6b1f815d40e65ac587eaf608e6",
+    "assets/depth-gallery.js": "cf017679650fb8af80a475ddd9ce434830cb8cf6b36fbe0c9dc256fc8e34b55f",
+    "assets/editorial.js": "815357fae7af043331c7d24f6209fa0065fbfc0e4c54d353d23df1e3ff3f6ab5",
+    "assets/home-ambient.js": "4962e895ddf3e939f6620e8f12ed82e7ab1142492f6abfe8c7badcf4f513a3ee",
+    "motion.js": "d331f1101b87234db13990ad511095765ca6390080e3f8ebd09ef7a423bf795e",
+    "templates/layout.html": "e231a2fbb716815991b6f33e27c006d2cfec0999cd97dda6d92a34d4b054f9cf",
+    "scripts/components.py": "de3d7f78297ff937e048756399af3e924b5db10fd8669bb7f1f01e7292a57a6f",
+    "scripts/build.py": "0bbea936b95ded43473bbac5e04bd3cf91dfa5bbcba8f139a41350f3e7903ecd",
+    "scripts/check_home_entry.cjs": "c180e17a1fad8c116e516e77ee8a32f36d96bb36aafe35b9aad0c649298874ef",
+    "assets/vendor/react-bits-components/LICENSE.md": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+    "assets/vendor/react-bits-components/NOTICE.md": "6fcfc09065795b5c31d9fc891988e73771931eb3ad8a245fd71a6094518146a8"
+  }
+}

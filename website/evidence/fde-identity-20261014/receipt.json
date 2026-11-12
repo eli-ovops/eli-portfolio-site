@@ -1,0 +1,82 @@
+{
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "revision": "f51b27a8e6320d6682ef",
+  "accepted_at": "2026-10-14T13:49:24.258993+08:00",
+  "scope": "FDE visible identity plus plain-language business role on homepage/About; English, search metadata and Person.jobTitle synchronized",
+  "published": false,
+  "indexing": "DISABLED",
+  "html_pages": 84,
+  "protected": {
+    "content/projects.json": "817e6d1d61103ba41751f5b72dd2a55fc7edf9db1c9fb3fb94f5bc57300e27fe",
+    "content/case-examples.json": "55a7a7167ec0f32d65d73b442419cc42c6dc344ebdbbefe26bfb32562c1cbb2f",
+    "styles.css": "6111754b2a7ca17fc90edeec4d1337795d20eec4ae61ee23ff146cc8ed9bc45c",
+    "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "motion.js": "d328393689d8bbfa5f16ccf62b3ce477c082fc6ed1fad8d4b4950870f35a7cb9",
+    "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+    "assets/editorial.js": "5b47b64915be08a209fd595d37aa5e28db76f9e3236bd4e1f2f4c1d227b6c5e8",
+    "assets/depth-gallery.js": "1a796d24b2453394489beaa54d4bbd30d5a8d5ff9fb95158e79e69efcfab7c5f",
+    "assets/page-version.js": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49",
+    "assets/screenshot-viewer.js": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1"
+  },
+  "browser": {
+    "status": "FOCUSED_BROWSER_PASS",
+    "observations": [
+      {
+        "intro": "想用 AI 降本增效，却不知道从哪开始？作为 FDE，我贴近你的业务，帮你选工具、改流程，需要时开发软件。从一个小场景开始，先试用，再判断效果。",
+        "jobTitle": "FDE · 前沿部署工程师",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "role": "FDE · 前沿部署工程师",
+        "title": "FDE 前沿部署工程师｜企业 AI 应用咨询与自动化 - Eli",
+        "url": "http://127.0.0.1:4178/index.html?pv=f51b27a8e6320d6682ef",
+        "width": 1280
+      },
+      {
+        "intro": "想用 AI 降本增效，却不知道从哪开始？作为 FDE，我贴近你的业务，帮你选工具、改流程，需要时开发软件。从一个小场景开始，先试用，再判断效果。",
+        "jobTitle": "FDE · 前沿部署工程师",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "role": "FDE · 前沿部署工程师",
+        "title": "FDE 前沿部署工程师｜企业 AI 应用咨询与自动化 - Eli",
+        "url": "http://127.0.0.1:4178/index.html?pv=f51b27a8e6320d6682ef",
+        "width": 320
+      },
+      {
+        "definition": "FDE（前沿部署工程师）：贴近业务，选工具、改流程，需要时开发软件。",
+        "jobTitle": "FDE · 前沿部署工程师",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "关于 Eli｜FDE 工作方式、免费 AI 咨询与联系",
+        "url": "http://127.0.0.1:4178/about.html?pv=f51b27a8e6320d6682ef#contact",
+        "width": 320
+      },
+      {
+        "definition": "FDE (Forward Deployed Engineer): work close to the business, choose tools, improve workflows and build software when needed.",
+        "jobTitle": "FDE · Forward Deployed Engineer",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "title": "About Eli | FDE Approach & Free AI Consultation",
+        "url": "http://127.0.0.1:4178/en/about.html?pv=f51b27a8e6320d6682ef#contact",
+        "width": 320
+      },
+      {
+        "intro": "Want to use AI, but unsure where to start? As a forward deployed engineer (FDE), I work close to your business, help choose tools and improve workflows, and build software when needed. Start with one small use case, then assess the results.",
+        "jobTitle": "FDE · Forward Deployed Engineer",
+        "overflow": false,
+        "robots": "noindex,nofollow",
+        "role": "FDE · Forward Deployed Engineer",
+        "title": "FDE & AI Consulting for Business | Eli",
+        "url": "http://127.0.0.1:4178/en/index.html?pv=f51b27a8e6320d6682ef",
+        "width": 320
+      }
+    ],
+    "viewport_restored": true,
+    "limits": [
+      "IAB simulated320; not physical touch devices or all browser engines",
+      "No deployment or indexing change"
+    ]
+  },
+  "visual": "CSS and motion scripts unchanged",
+  "production_unchanged": "20261014-133040-boss-consult / afc3f340d7a7bf1053c5",
+  "artifacts": "/Users/USER/Documents/原点向量/个人网站/website/evidence/fde-identity-20261014"
+}

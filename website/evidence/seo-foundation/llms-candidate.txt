@@ -1,0 +1,91 @@
+# Eli
+
+## 中小企业 AI 实施与流程提效服务 - Eli
+独立开发者 Eli 帮助中小企业和工作室梳理重复录入、库存核对、资料查找和客服答疑。先评估现成工具，必要时再做小范围开发。初次沟通免费，实施服务低至500元起，范围与费用在开始前确认。
+
+[联系与合作](https://www.eliai.cn/about.html#contact)
+
+### 文章与教程
+[AI 入门教程与实践文章（中文）](https://www.eliai.cn/articles.html)
+
+### 录入和库存靠人核对
+录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。
+[看库存案例](https://www.eliai.cn/cases/p10.html)
+[看扫码案例](https://www.eliai.cn/cases/p09.html)
+
+### 资料难找、问题反复问
+产品资料太散、同样的问题反复回答？先整理知识库，再评估 AI Agent 或答疑助手是否适合，回答能查到依据，重要问题由人确认。
+[看答疑案例](https://www.eliai.cn/cases/p36.html)
+
+### 产品内容总要重做
+产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。
+[看内容案例](https://www.eliai.cn/cases/p12.html)
+
+### 想用 AI，但不知道从哪开始？
+可以先免费聊聊公司最费时间的一件事。
+员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。
+
+### 会怎么推进，费用怎么定？
+先梳理流程，再选一个小场景。
+初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。工具订阅、开发、培训与维护的范围和费用另行确认。
+
+### 一定要开发一套系统吗？
+用好一个工具，改善一个步骤，也可以开始。
+可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。
+
+### 中小企业 AI 落地实施服务
+每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。
+[中小企业 AI 落地实施服务](https://www.eliai.cn/services/fde-consulting.html)
+
+### 企业知识库搭建与客服辅助答疑
+产品资料散在文件和聊天记录里，员工找不到，客服总要重复解释？可以先选一组产品资料和常见问题，整理知识库，试做能查来源的答疑助手。资料冲突或没有依据时交给人确认；让 Agent 改订单、写库存，需要另外评估。
+[企业知识库搭建与客服辅助答疑](https://www.eliai.cn/services/ai-agent.html)
+
+### 库存核对与重复录入自动化
+同一份资料要填好几遍，入出库记录分散，盘点后还得人工对账？先挑一项流程，理清单据、数量和操作规则，再评估现成工具或小范围软件。规则能解决的先用规则，需要 AI 时再单独评估。
+[库存核对与重复录入自动化](https://www.eliai.cn/services/workflow-automation.html)
+
+## AI Implementation & Workflow Improvement for Small Businesses | Eli
+Independent developer Eli helps small businesses and studios improve data entry, inventory checks, information lookup and support workflows. Assess existing tools before custom software. Free initial consultation; implementation starts at CNY 500, with scope and fees agreed first.
+
+[Contact and cooperation](https://www.eliai.cn/en/about.html#contact)
+
+### Articles and tutorials
+[AI tutorials and practical notes (English)](https://www.eliai.cn/en/articles.html)
+
+### Repeated entry and stock checks
+Review entry and stock-checking steps to see where software can reduce repeated handling.
+[Inventory case](https://www.eliai.cn/en/cases/p10.html)
+[Barcode case](https://www.eliai.cn/en/cases/p09.html)
+
+### Information lookup and repeated questions
+Organize scattered product knowledge, then assess whether an AI agent or support assistant fits. Keep sources available and important answers subject to human review.
+[Support case](https://www.eliai.cn/en/cases/p36.html)
+
+### Product content takes time
+Review how product information becomes copy and images, with people reviewing the output.
+[Content case](https://www.eliai.cn/en/cases/p12.html)
+
+### Want AI, but unsure where to start?
+Start with a free conversation about one time-consuming task.
+What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan.
+
+### How do we proceed and estimate cost?
+Review the workflow, then choose one small use case.
+The initial conversation is free. Implementation starts at CNY 500, with scope and fees agreed before work begins. We'll agree separately on the scope and fees for tool subscriptions, development, training and maintenance.
+
+### Do we need to build a whole system?
+One useful tool or one better step can be a starting point.
+We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding.
+
+### AI implementation for small businesses
+Repeated spreadsheet entry, stock checks or time spent finding information? Start with a free conversation about one time-consuming task. I will review your current process before assessing existing tools, workflow changes or scoped software. Implementation starts at CNY 500, with scope and fees agreed before work begins.
+[AI implementation for small businesses](https://www.eliai.cn/en/services/fde-consulting.html)
+
+### Knowledge base setup and AI-assisted support
+Product information scattered across files and chat messages? Start with a set of documents and common questions, then organize a knowledge base and test answers with sources. Conflicting or unsupported information needs human review. Agents that change orders or stock require a separate assessment.
+[Knowledge base setup and AI-assisted support](https://www.eliai.cn/en/services/ai-agent.html)
+
+### Inventory reconciliation and data entry automation
+Entering the same information twice, tracking stock in separate files or reconciling counts by hand? Start with one workflow: map the documents, quantities and rules, then assess existing tools or scoped software. Use fixed rules where they fit and assess AI separately when needed.
+[Inventory reconciliation and data entry automation](https://www.eliai.cn/en/services/workflow-automation.html)

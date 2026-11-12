@@ -1,0 +1,138 @@
+[
+  {
+    "check": "P02 desktop after",
+    "frame": {
+      "bottom": 695.60986328125,
+      "height": 460.7969055175781,
+      "left": 742.296875,
+      "right": 1352,
+      "top": 234.81295776367188,
+      "width": 609.703125,
+      "x": 742.296875,
+      "y": 234.81295776367188
+    },
+    "image": [
+      {
+        "alt": "深圳某慈善基金会脱敏界面展示",
+        "complete": true,
+        "naturalWidth": 619,
+        "rect": {
+          "bottom": 695.60986328125,
+          "height": 460.7969055175781,
+          "left": 742.296875,
+          "right": 1352,
+          "top": 234.81295776367188,
+          "width": 609.703125,
+          "x": 742.296875,
+          "y": 234.81295776367188
+        },
+        "sizes": "(max-width: 650px) calc(100vw - 40px), (max-width: 1050px) 90vw, (max-width: 1440px) 43vw, 618px",
+        "src": "http://127.0.0.1:4178/assets/previews/p02-640.jpg",
+        "srcset": "../assets/previews/p02-640.jpg 640w, ../assets/previews/p02-1200.jpg 1200w"
+      }
+    ],
+    "scrollWidth": 1425,
+    "url": "http://127.0.0.1:4178/cases/p02.html?pv=87919417171750dd1242",
+    "width": 1440
+  },
+  {
+    "check": "P02 original viewer",
+    "dialog": true,
+    "naturalWidth": 1213,
+    "src": "http://127.0.0.1:4178/assets/public-cases/p02.png"
+  },
+  {
+    "actual": "true",
+    "check": "P02 actual size"
+  },
+  {
+    "check": "P05 English mobile after",
+    "frame": {
+      "bottom": 691.5198364257812,
+      "height": 240,
+      "left": 21,
+      "right": 354,
+      "top": 451.5198364257813,
+      "width": 333,
+      "x": 21,
+      "y": 451.5198364257813
+    },
+    "image": [
+      {
+        "alt": "UK water purification brand marketing — anonymized interface",
+        "complete": true,
+        "naturalWidth": 350,
+        "rect": {
+          "bottom": 691.5198364257812,
+          "height": 240,
+          "left": 21,
+          "right": 354,
+          "top": 451.5198364257813,
+          "width": 333,
+          "x": 21,
+          "y": 451.5198364257813
+        },
+        "sizes": "(max-width: 650px) calc(100vw - 40px), (max-width: 1050px) 90vw, (max-width: 1440px) 43vw, 618px",
+        "src": "http://127.0.0.1:4178/assets/previews/p05-640.jpg",
+        "srcset": "../../assets/previews/p05-640.jpg 640w, ../../assets/previews/p05-1200.jpg 1200w"
+      }
+    ],
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/cases/p05.html?pv=87919417171750dd1242",
+    "width": 390
+  },
+  {
+    "check": "P05 English original viewer",
+    "dialog": true,
+    "naturalWidth": 2549,
+    "src": "http://127.0.0.1:4178/assets/public-cases/p05.png"
+  },
+  {
+    "check": "P05 language to Chinese",
+    "lang": "zh-CN",
+    "scrollWidth": 375,
+    "src": "http://127.0.0.1:4178/assets/previews/p05-640.jpg",
+    "url": "http://127.0.0.1:4178/cases/p05.html?pv=87919417171750dd1242",
+    "width": 390
+  },
+  {
+    "check": "P02 English mobile",
+    "complete": true,
+    "lang": "en",
+    "scrollWidth": 375,
+    "src": "http://127.0.0.1:4178/assets/previews/p02-640.jpg",
+    "url": "http://127.0.0.1:4178/en/cases/p02.html?pv=87919417171750dd1242",
+    "width": 390
+  },
+  {
+    "back": [
+      {
+        "href": "http://127.0.0.1:4178/records.html?pv=87919417171750dd1242",
+        "text": "← 返回项目库"
+      }
+    ],
+    "check": "P02 Chinese mobile",
+    "consult": [
+      {
+        "href": "http://127.0.0.1:4178/about.html?pv=87919417171750dd1242#contact",
+        "text": "免费聊聊 ↗"
+      }
+    ],
+    "scrollWidth": 345,
+    "src": "http://127.0.0.1:4178/assets/previews/p02-640.jpg",
+    "url": "http://127.0.0.1:4178/cases/p02.html?pv=87919417171750dd1242",
+    "width": 360
+  },
+  {
+    "check": "Case back to records",
+    "lang": "zh-CN",
+    "url": "http://127.0.0.1:4178/records.html?pv=87919417171750dd1242"
+  },
+  {
+    "check": "Case consultation reached",
+    "contact": true,
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/about.html?pv=87919417171750dd1242#contact",
+    "width": 360
+  }
+]

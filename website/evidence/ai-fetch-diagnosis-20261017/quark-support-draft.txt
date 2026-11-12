@@ -1,0 +1,21 @@
+收件人：[REDACTED_EMAIL]
+主题：咨询 eliai.cn 的夸克网页收录渠道及 AI 搜索覆盖关系
+
+您好，我是 https://www.eliai.cn/ 的网站运营者。
+
+2026年10月17日，从夸克官方网址导航 https://123.quark.cn/ 的搜索框进入 www.quark.cn 搜索结果页，查询 eliai.cn，当前首屏未出现本站。另在 quark.sm.cn 查询 site:eliai.cn，页面提示未找到相关结果。这些是有限查询结果，不能证明整个索引中绝无本站。
+
+本站公开服务页为：
+https://www.eliai.cn/services/fde-consulting.html
+https://www.eliai.cn/services/ai-agent.html
+https://www.eliai.cn/services/workflow-automation.html
+站点地图：https://www.eliai.cn/sitemap.xml
+
+想请确认：
+1. 目前夸克网页搜索是否有官方的站点所有权验证、Sitemap 或新站发现提交渠道？如有，请提供官方入口。
+2. 神马站长平台的验证与 Sitemap 提交，是否会用于夸克网页搜索？这与夸克 AI 回答的来源发现有什么关系？我们不希望把两者误当成保证覆盖。
+3. 若页面可以正常公开访问，但域名查询未见本站，站长应使用什么官方渠道排查？
+
+目前仅咨询处理渠道，尚未重复提交本站，也不请求保证收录或排名。希望通过网页完成，不安装客户端或插件。
+
+谢谢。

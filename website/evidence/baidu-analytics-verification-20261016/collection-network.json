@@ -1,0 +1,131 @@
+{
+  "time": "2026-10-16T06:58:29.685Z",
+  "revision": "178520c8fe26246e904b",
+  "sdkCharacters": 30135,
+  "initial": [
+    {
+      "path": "/hm.js",
+      "status": 200,
+      "eventType": null,
+      "payload": null,
+      "canonicalPage": null,
+      "referrerOrigin": null
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "0",
+      "payload": null,
+      "canonicalPage": "https://www.eliai.cn/",
+      "referrerOrigin": "https://www.eliai.cn"
+    }
+  ],
+  "journey": [
+    {
+      "path": "/hm.gif",
+      "status": null,
+      "eventType": "4",
+      "payload": "consultation*entry_click*/|hero",
+      "canonicalPage": "https://www.eliai.cn/",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.gif",
+      "status": null,
+      "eventType": "1",
+      "payload": "{id:#eli-consult-entry-1,eventType:click}",
+      "canonicalPage": "https://www.eliai.cn/",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.js",
+      "status": 304,
+      "eventType": null,
+      "payload": null,
+      "canonicalPage": null,
+      "referrerOrigin": null
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "4",
+      "payload": "consultation*entry_click*/|hero",
+      "canonicalPage": "https://www.eliai.cn/",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "1",
+      "payload": "{id:#eli-consult-entry-1,eventType:click}",
+      "canonicalPage": "https://www.eliai.cn/",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "3",
+      "payload": "44947,44945",
+      "canonicalPage": "https://www.eliai.cn/",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "0",
+      "payload": null,
+      "canonicalPage": "https://www.eliai.cn/about.html",
+      "referrerOrigin": "https://www.eliai.cn"
+    }
+  ],
+  "qr": [
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "4",
+      "payload": "consultation*wechat_qr_click*/about.html|contact_details",
+      "canonicalPage": "https://www.eliai.cn/about.html",
+      "referrerOrigin": "https://www.eliai.cn"
+    }
+  ],
+  "mobileConsult": [
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "4",
+      "payload": "consultation*entry_click*/about.html|about_top",
+      "canonicalPage": "https://www.eliai.cn/about.html",
+      "referrerOrigin": "https://www.eliai.cn"
+    },
+    {
+      "path": "/hm.gif",
+      "status": 200,
+      "eventType": "1",
+      "payload": "{id:#eli-consult-entry-1,eventType:click}",
+      "canonicalPage": "https://www.eliai.cn/about.html",
+      "referrerOrigin": "https://www.eliai.cn"
+    }
+  ],
+  "backendRealtime": {
+    "observed": true,
+    "arrival": "2026/10/16 14:53:54",
+    "source": "直接访问",
+    "entry": "https://www.eliai.cn/",
+    "note": "Genuine QA browsing; not customer acquisition"
+  },
+  "privacyWithdrawal": {
+    "sdkScriptsAfterReload": 0
+  },
+  "unresolved": [
+    "Free native conversion summary counts not yet populated"
+  ],
+  "nativeGoalsAllDelivered": true,
+  "nativeWechatReceipt": "wechat-native-network.json",
+  "backendOverview": {
+    "pv": 2,
+    "uv": 1,
+    "source": "直接访问",
+    "sourcePv": 2,
+    "evidence": "overview-populated.json"
+  }
+}

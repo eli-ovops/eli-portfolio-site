@@ -1,0 +1,20 @@
+{
+  "cause": [
+    "archive-tools hidden in HTML until deferred app.js",
+    "GSAP entrance from opacity0 on archive-tools"
+  ],
+  "fix": [
+    "remove initial hidden attribute",
+    "remove tools entrance tween"
+  ],
+  "browser": {
+    "hidden": false,
+    "opacity": "1",
+    "transform": "none",
+    "immediate_filter_count": 9
+  },
+  "build": 84,
+  "localization": "PASS",
+  "scope": "local only; homepage unchanged",
+  "files": "before backups, fixed.jpg and this receipt retained; no disposable intermediates"
+}

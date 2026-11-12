@@ -1,0 +1,26 @@
+{
+  "inside_wheel": {
+    "before_page": 606,
+    "after_page": 606,
+    "case": "01 -> 02"
+  },
+  "outside_wheel": {
+    "before_page": 606,
+    "after_page": 366,
+    "case": "02 unchanged"
+  },
+  "pin_spacers": 0,
+  "circular_buttons": "07 -> 01 PASS",
+  "mobile_layout": {
+    "client": 360,
+    "scroll": 360
+  },
+  "expanded_reading": {
+    "caption_scroll": 81,
+    "page": 919,
+    "case": "01 unchanged"
+  },
+  "reduced_mode": "ordinary list, inert=0",
+  "touch_simulation": "not verified: IAB does not support Input.dispatchTouchEvent; touch emulation restored",
+  "build_privacy": "PASS"
+}

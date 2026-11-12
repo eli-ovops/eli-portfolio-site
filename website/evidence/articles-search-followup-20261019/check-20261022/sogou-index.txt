@@ -1,0 +1,101 @@
+- banner:
+  - link:
+    - /url: "javascript: void(0);"
+  - list:
+    - link "搜索服务":
+      - /url: "javascript: void(0);"
+    - link "搜索学院":
+      - /url: "javascript: void(0);"
+    - link "用户中心":
+      - /url: "javascript: void(0);"
+    - link "互动交流":
+      - /url: "javascript: void(0);"
+  - link "[account-redacted]":
+    - /url: "javascript: void(0);"
+  - link "退出":
+    - /url: "javascript: void(0);"
+  - generic: 消息
+- heading "资源提交" [level=3]
+- list:
+  - generic: 资源收录
+  - generic: 死链提交
+  - generic: 移动适配
+- heading "网站支持" [level=3]
+- list:
+  - generic: 域名变更
+- heading "数据统计" [level=3]
+- list:
+  - generic: 抓取压力查询
+  - generic: 收录索引查询
+  - generic: 网站流量查询
+  - generic: 网站关键词查询
+- heading "功能说明：" [level=4]
+- paragraph:
+  - text: 使用网站收录索引量查询工具可以查看近30天内的网站收录和索引情况，数据更新时间不定，最快每天更新一次。
+  - text: 更多信息请查看
+  - link "站长工具帮助文档":
+    - /url: /index.php/help/analysis
+  - text: 。
+- generic: 网站：
+- generic: www.eliai.cn
+- list:
+  - listitem: www.eliai.cn
+- paragraph: 查询站点暂时没有收录和索引数据
+- text:  
+- contentinfo:
+  - list:
+    - heading "搜索服务" [level=3]
+    - list:
+      - link "资源提交":
+        - /url: "javascript: void(0);"
+      - link "搜索展现":
+        - /url: "javascript: void(0);"
+      - link "网站支持":
+        - /url: "javascript: void(0);"
+      - link "数据统计":
+        - /url: "javascript: void(0);"
+    - heading "搜索学院" [level=3]
+    - list:
+      - link "工具说明":
+        - /url: "javascript: void(0);"
+      - link "搜索规范":
+        - /url: "javascript: void(0);"
+      - link "建站优化":
+        - /url: "javascript: void(0);"
+      - link "资源合作":
+        - /url: "javascript: void(0);"
+    - heading "用户中心" [level=3]
+    - list:
+      - link "账户信息":
+        - /url: "javascript: void(0);"
+      - link "网站管理":
+        - /url: "javascript: void(0);"
+      - link "网站成员":
+        - /url: "javascript: void(0);"
+      - link "消息中心":
+        - /url: "javascript: void(0);"
+      - link "公告中心":
+        - /url: "javascript: void(0);"
+    - heading "互动交流" [level=3]
+    - list:
+      - link "问题反馈":
+        - /url: "javascript: void(0);"
+      - link "联系我们":
+        - /url: "javascript: void(0);"
+    - heading "联系方式" [level=3]
+    - list:
+      - 'link "QQ群1: 327024323"':
+        - /url: "javascript: void(0);"
+      - 'link "QQ群2: 418650081"':
+        - /url: "javascript: void(0);"
+      - link "邮箱：[REDACTED_EMAIL]":
+        - /url: "javascript: void(0);"
+      - link "工作日9:00-18:00":
+        - /url: "javascript: void(0);"
+  - paragraph:
+    - text: 友情链接
+    - link "企鹅号":
+      - /url: https://om.qq.com/userAuth/index
+    - link "微信小程序":
+      - /url: https://mp.weixin.qq.com/cgi-bin/wx
+  - paragraph: Copyright © sogou.com.All Rights Reserved

@@ -1,0 +1,16 @@
+{
+  "status": "UNRESOLVED_EXTERNAL_SIGNATURE_VALIDATION_ERROR",
+  "reported_trigger": "User clicked personal subject registration Submit",
+  "error": "签名校验失败",
+  "remaining_review_attempts": 5,
+  "field_presence_only": "name,identity number,phone,verification code nonempty; no values collected",
+  "browser_error_warning_logs_count": 0,
+  "official_documentation": "One exact official-domain search found no matching documented cause; Exa backend unconfigured, built-in web search used",
+  "root_cause": "UNKNOWN; no assertion that login/page signature expiry is confirmed",
+  "hypothesis": "Page-scoped validation/session state may be stale; unconfirmed",
+  "safe_preparation": "Kept original filled form intact; opened one new official personal registration page with blank fields; user must refill/verify/accept/submit themselves",
+  "new_form_submission": "NOT_ATTEMPTED",
+  "identity_documents_read_copied_uploaded_by_agent": false,
+  "no_server_or_website_changes": true,
+  "evidence": "fresh-subject-form.jpg"
+}

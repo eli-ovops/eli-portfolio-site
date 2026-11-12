@@ -1,0 +1,39 @@
+{
+  "status": "ICP_APPROVED",
+  "verified_on": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "domain": "eliai.cn",
+  "order_id": "179136035309320530",
+  "website_icp_number": "浙ICP备2026044062号-2",
+  "principal_icp_number": "浙ICP备2026044062号",
+  "console_status": "正常",
+  "evidence": {
+    "approval_email": {
+      "sender": "[REDACTED_EMAIL]",
+      "subject": "京东云备案《通信管理局审核通过》通知",
+      "date": "2026-10-15T16:50:12+08:00",
+      "message_id": "1a13ec13d2d6d97e",
+      "authentication": "SPF/DKIM/DMARC pass in Gmail headers",
+      "body": "Same order explicitly approved by provincial communications administration"
+    },
+    "console": "https://record-console.jdcloud.com/overview",
+    "record_list_status": "管局审核通过"
+  },
+  "automation": {
+    "id": "eliai-cn",
+    "action": "deleted",
+    "result": "confirmed by Codex app"
+  },
+  "boundaries": {
+    "deployment": false,
+    "dns_changes": false,
+    "https_configuration": false,
+    "indexing_enabled": false,
+    "business_resumed": false
+  },
+  "next_steps": [
+    "Verify public domain access and HTTPS",
+    "Show verified website ICP number with official lookup link",
+    "Separately confirm publication and indexing scope"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "revision": "0e8f1d0f8a593578ab3e",
+  "public_files": 365,
+  "html_pages": 296,
+  "semantic_html_changes": [
+    "about.html",
+    "en/about.html"
+  ],
+  "unchanged_html_except_cache_revision": 294,
+  "changed_non_html": [
+    "llms.txt",
+    "sitemap.xml"
+  ],
+  "changed_sitemap_dates": [
+    "https://www.eliai.cn/about.html",
+    "https://www.eliai.cn/en/about.html"
+  ],
+  "sitemap_urls": 294,
+  "verification_files_preserved": 6,
+  "all_visual_motion_assets_unchanged": true,
+  "package_bytes": 10590662,
+  "package_sha256": "a903639794ff83e7a6fb2bcd4e6acbf3f52c66f97305fd3544dd92462543ea90"
+}

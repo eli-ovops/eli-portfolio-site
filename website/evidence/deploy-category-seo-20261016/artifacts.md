@@ -1,0 +1,1 @@
+All files in this directory are task-created retained deployment, recovery or acceptance evidence. before-public is the original public release; public is the scoped candidate. No source/private data or disposable files are in the release. preview.py is the local candidate preview runner. No cleanup authorized for recovery artifacts.

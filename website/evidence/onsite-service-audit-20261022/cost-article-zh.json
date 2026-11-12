@@ -1,0 +1,149 @@
+{
+  "canonical": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "AI 提效要花哪些钱？别只看会员费"
+    },
+    {
+      "tag": "H2",
+      "text": "文章目录"
+    },
+    {
+      "tag": "H2",
+      "text": "先弄明白"
+    },
+    {
+      "tag": "H2",
+      "text": "分三步试一试"
+    },
+    {
+      "tag": "H2",
+      "text": "可以这样问"
+    },
+    {
+      "tag": "H2",
+      "text": "遇到问题怎么办"
+    },
+    {
+      "tag": "H2",
+      "text": "怎么判断学会了"
+    },
+    {
+      "tag": "H2",
+      "text": "参考资料与适用范围"
+    },
+    {
+      "tag": "H2",
+      "text": "先聊一项具体工作"
+    },
+    {
+      "tag": "H2",
+      "text": "继续阅读"
+    },
+    {
+      "tag": "H3",
+      "text": "AI 到底有没有提效？老板怎么量？"
+    },
+    {
+      "tag": "H3",
+      "text": "怎么挑企业 AI 提效服务商，不被术语绕晕？"
+    },
+    {
+      "tag": "H3",
+      "text": "FDE 是什么？中小企业需要关心这个职位吗？"
+    },
+    {
+      "tag": "H2",
+      "text": "统计与隐私"
+    }
+  ],
+  "hreflang": [
+    {
+      "href": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "lang": "zh-CN"
+    },
+    {
+      "href": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "lang": "en"
+    },
+    {
+      "href": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "lang": "x-default"
+    }
+  ],
+  "links": [
+    {
+      "href": "../articles.html",
+      "text": "← 返回文章"
+    },
+    {
+      "href": "#understand",
+      "text": "先弄明白"
+    },
+    {
+      "href": "#try",
+      "text": "分三步试一试"
+    },
+    {
+      "href": "#example",
+      "text": "可以这样问"
+    },
+    {
+      "href": "#troubleshoot",
+      "text": "遇到问题怎么办"
+    },
+    {
+      "href": "#check",
+      "text": "怎么判断学会了"
+    },
+    {
+      "href": "#sources",
+      "text": "参考资料与适用范围"
+    },
+    {
+      "href": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+      "text": "WorkBuddy 官方常见问题"
+    },
+    {
+      "href": "../about.html#contact",
+      "text": "免费聊聊 ↗"
+    },
+    {
+      "href": "../services/fde-consulting.html",
+      "text": "需要帮助？了解小范围实施服务 ↗"
+    },
+    {
+      "href": "../articles/measure-ai-benefit.html",
+      "text": "AI 到底有没有提效？老板怎么量？"
+    },
+    {
+      "href": "../articles/measure-ai-benefit.html",
+      "text": "阅读 ↗"
+    },
+    {
+      "href": "../articles/choose-ai-provider.html",
+      "text": "怎么挑企业 AI 提效服务商，不被术语绕晕？"
+    },
+    {
+      "href": "../articles/choose-ai-provider.html",
+      "text": "阅读 ↗"
+    },
+    {
+      "href": "../articles/what-is-fde-business.html",
+      "text": "FDE 是什么？中小企业需要关心这个职位吗？"
+    },
+    {
+      "href": "../articles/what-is-fde-business.html",
+      "text": "阅读 ↗"
+    }
+  ],
+  "mainText": "← 返回文章\n老板用 AI\n\nEli · 写于 2026-10-17 · 约 1 分钟阅读\n\nAI 提效要花哪些钱？别只看会员费\n\n费用可能包括工具、调用、配置开发、培训、审核和维护。\n\n文章目录\n先弄明白\n分三步试一试\n可以这样问\n遇到问题怎么办\n怎么判断学会了\n参考资料与适用范围\n先弄明白\n\n便宜套餐不代表总成本最低。把一次性与持续费用分开，按实际用量及人工修正时间核算。\n\n分三步试一试\n列当前人工流程耗时，作为基线。\n列全部工具及服务费用，未知留空。\n把复核和维护时间计入试点。\n可以这样问\n\n先准备好\n\n先列费用类别，不编具体报价。\n\n练习材料（虚构示例）\n\n一次性配置费用待报价；工具按月费待核；模型按用量费待核；每周人工复核和维护时间待测。\n\n把提示词里的占位符换成上面的材料；没有占位符时，将材料接到提示词后。阅读时长不含实际练习。\n\n做费用清单模板，区分一次性、按月、按用量和人工时间。不估造单价，不把免费咨询等同于免费实施。\n\n结果怎么核对（供练习对照）\n\n应保留四类未知和各自核实方法，不能把未填写当0元，也不能将所有费用都说成500元包完。\n\n遇到问题怎么办\n\n看到低起价先问范围、工具费和后续支持，不自行理解成全包。\n\n怎么判断学会了\n\n能算全成本并列出尚缺的报价或用量数据。\n\n参考资料与适用范围\n\n以下资料用于核对概念或产品入口，练习步骤由本站整理，不代表官方认证或客户效果。界面和可用功能可能更新，请以当前产品为准。资料核对日期：2026-10-17。\n\nWorkBuddy 官方常见问题\n先聊一项具体工作\n\n说说现在怎么做、哪一步最费时间。初次沟通免费。\n\n免费聊聊 ↗\n需要帮助？了解小范围实施服务 ↗\n继续阅读\n老板用 AI\n约 1 分钟阅读\nAI 到底有没有提效？老板怎么量？\n\n看完成同类任务的总时间、错误、返工和人工复核，不只看模型生成速度。\n\n阅读\n↗\n老板用 AI\n约 1 分钟阅读\n怎么挑企业 AI 提效服务商，不被术语绕晕？\n\n让对方围绕你的一个流程说明输入、交付、边界和验收。\n\n阅读\n↗\n老板用 AI\n约 1 分钟阅读\nFDE 是什么？中小企业需要关心这个职位吗？\n\nFDE 常指 Forward Deployed Engineer，工作方式偏向贴近客户流程，把技术落到实际场景。\n\n阅读\n↗",
+  "metaDescription": "费用可能包括工具、调用、配置开发、培训、审核和维护。",
+  "robots": "index,follow",
+  "schema": [
+    "{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Person\", \"@id\": \"https://www.eliai.cn/#eli\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/about.html\", \"description\": \"你好，我是 Eli，一名来自中国的独立开发者。 我主要帮助中小企业和工作室，减少日常工作中重复、费时的环节，比如录入与库存核对、资料查找、客服答疑和内容整理。先看看现成工具能不能解决，必要时再开发软件。\", \"jobTitle\": \"FDE · 贴近业务，选工具、改流程\", \"sameAs\": [\"https://www.xiaohongshu.com/user/profile/671897ea000000001d033299\", \"https://space.bilibili.com/432834855\", \"https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH\", \"https://www.youtube.com/@EliChao-m9o6r\", \"https://www.linkedin.com/in/eli-chao-548a7a43b/\", \"https://x.com/cczij1112\", \"https://weibo.com/u/7720929036\", \"https://www.tiktok.com/@elimakesapps\", \"https://www.instagram.com/eliaifde/\", \"https://www.facebook.com/profile.php?id=61594512757125\"], \"email\": \"[REDACTED_EMAIL]\"}, {\"@type\": \"WebSite\", \"@id\": \"https://www.eliai.cn/#website\", \"name\": \"Eli\", \"url\": \"https://www.eliai.cn/\", \"inLanguage\": [\"zh-CN\", \"en\"], \"publisher\": {\"@id\": \"https://www.eliai.cn/#eli\"}}, {\"@type\": \"Article\", \"@id\": \"https://www.eliai.cn/articles/ai-cost-breakdown.html#page\", \"url\": \"https://www.eliai.cn/articles/ai-cost-breakdown.html\", \"name\": \"AI 提效要花哪些钱？别只看会员费 - Eli\", \"description\": \"费用可能包括工具、调用、配置开发、培训、审核和维护。\", \"inLanguage\": \"zh-CN\", \"isPartOf\": {\"@id\": \"https://www.eliai.cn/#website\"}, \"author\": {\"@id\": \"https://www.eliai.cn/#eli\"}, \"headline\": \"AI 提效要花哪些钱？别只看会员费\", \"dateCreated\": \"2026-10-17\", \"mainEntityOfPage\": \"https://www.eliai.cn/articles/ai-cost-breakdown.html\", \"datePublished\": \"2026-10-17\"}]}"
+  ],
+  "title": "AI 提效要花哪些钱？别只看会员费 - Eli",
+  "url": "https://www.eliai.cn/articles/ai-cost-breakdown.html"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "ef627aa38d38fa4ba886",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261017-toutiao-verification",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261017-stacked-gallery-ef627aa3",
+  "public_hashes_checked": 19,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

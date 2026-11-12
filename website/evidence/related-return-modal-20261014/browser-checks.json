@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-14",
+  "revision": "70493fc6b47db38a0a92",
+  "checks": [
+    {
+      "name": "P10-P09-explicit-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存",
+      "url": "http://127.0.0.1:4178/records.html?pv=70493fc6b47db38a0a92&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98&return=p10"
+    },
+    {
+      "name": "outside-results-P04-reload-return",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "name": "related-native-back",
+      "category": "客户参与",
+      "count": "2 项记录",
+      "q": "库存"
+    },
+    {
+      "name": "desktop-modal",
+      "locked": {
+        "figureY": 0,
+        "open": true,
+        "y": 0
+      },
+      "internalPan": {
+        "figureY": 631,
+        "y": 0
+      },
+      "closed": {
+        "focus": "detail-image-trigger",
+        "lock": false,
+        "y": 0
+      }
+    },
+    {
+      "name": "text-entry-reading-position",
+      "before": 360,
+      "closed": {
+        "focus": "查看大图 ↗",
+        "lock": false,
+        "y": 360
+      }
+    },
+    {
+      "name": "English-390-reduce-related-return",
+      "category": "Client work",
+      "count": "2 projects",
+      "q": "inventory",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "name": "English-390-reduce-modal",
+      "before": {
+        "y": 124
+      },
+      "wheel": {
+        "open": true,
+        "y": 124
+      },
+      "pan": {
+        "figureY": 422,
+        "y": 124
+      },
+      "closed": {
+        "focus": "detail-image-trigger",
+        "lock": false,
+        "width": 390,
+        "y": 124
+      }
+    }
+  ],
+  "earlier_development": {
+    "first_revision": "ee7f36d52d5a8a58d2ba",
+    "checks": [
+      {
+        "name": "final-P09-explicit-return",
+        "count": "2 项记录",
+        "focus": "project-p10",
+        "q": "库存",
+        "selected": "客户参与",
+        "url": "http://127.0.0.1:4178/records.html?pv=de32d0d7509526f18035&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E&q=%E5%BA%93%E5%AD%98"
+      },
+      {
+        "name": "final-P04-reload-explicit-return",
+        "count": "2 项记录",
+        "q": "库存",
+        "selected": "客户参与"
+      },
+      {
+        "name": "final-related-native-back",
+        "count": "2 项记录",
+        "q": "库存",
+        "selected": "客户参与"
+      },
+      {
+        "name": "final-empty-reset",
+        "empty": {
+          "count": "0 项记录",
+          "empty": true
+        },
+        "reset": {
+          "count": "0 项记录",
+          "focus": "search",
+          "q": "完全无匹配XYZ"
+        }
+      },
+      {
+        "name": "final-keyboard-reset",
+        "count": "38 项记录",
+        "q": "",
+        "selected": "全部",
+        "url": "http://127.0.0.1:4178/records.html?pv=de32d0d7509526f18035"
+      },
+      {
+        "name": "final-desktop-modal",
+        "before": {
+          "open": true,
+          "y": 0
+        },
+        "wheel": {
+          "figureY": 0,
+          "open": true,
+          "y": 0
+        },
+        "pan": {
+          "actual": "true",
+          "figureY": 631,
+          "y": 0
+        },
+        "closed": {
+          "focus": "detail-image-trigger",
+          "locked": false,
+          "open": false,
+          "y": 0
+        }
+      },
+      {
+        "name": "final-text-click-position",
+        "before": 360,
+        "closed": {
+          "focusText": "查看大图 ↗",
+          "locked": false,
+          "y": 360
+        }
+      },
+      {
+        "name": "final-stable-native-pointer-reset",
+        "category": "全部",
+        "count": "0 项记录",
+        "q": "完全无匹配XYZ"
+      },
+      {
+        "name": "final-English-390-reduce-related-reload-return",
+        "category": "Client work",
+        "count": "2 projects",
+        "q": "inventory",
+        "url": "http://127.0.0.1:4178/en/records.html?pv=de32d0d7509526f18035&category=Client+work&q=inventory",
+        "viewport": 390,
+        "width": 390
+      },
+      {
+        "name": "final-narrow-keyboard-modal",
+        "before": {
+          "open": true,
+          "y": 124
+        },
+        "wheel": {
+          "open": true,
+          "y": 124
+        },
+        "pan": {
+          "actual": "true",
+          "figureY": 422,
+          "y": 124
+        },
+        "closed": {
+          "focus": "detail-image-trigger",
+          "lock": false,
+          "width": 390,
+          "y": 124
+        }
+      }
+    ],
+    "second_revision": "de32d0d7509526f18035"
+  },
+  "remaining_sample": "After tool fill, rapid mouse reset intermittently kept the old query; keyboard reset/Escape settled empty query. Cause UNKNOWN, not claimed as passed.",
+  "limitations": [
+    "Real touch and iOS Safari unverified; IAB touch dispatch unsupported and not retried.",
+    "No server changes or all-browser acceptance."
+  ]
+}

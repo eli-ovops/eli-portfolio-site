@@ -1,0 +1,1185 @@
+{
+  "count": 294,
+  "parameter_urls": 0,
+  "lastmod_counts": {
+    "2026-10-20": 294
+  },
+  "entries": [
+    {
+      "loc": "https://www.eliai.cn/about.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/acceptance-tests.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-first-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-memory.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-stop-rules.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-checkpoints.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-coding-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-compare-options.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-debugging.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-email-draft.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-employee-training.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-file-reading.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-generated-images.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-hallucination.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-jargon-map.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-learning-plan.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-ocr-check.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-pilot-design.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-product-copy.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-sop-writing.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-task-selection.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-translation-review.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ai-weekly-report.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/branch-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/break-down-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/choose-ai-provider.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/choose-ai-tool.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/coding-without-secrets.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/commit-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/context-window.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/create-first-skill.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/dependency-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/download-release-or-source.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/embeddings-explained.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/first-ai-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/github-public-private.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/how-llm-generates.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/issue-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/mcp-read-only.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/mcp-vs-api.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/model-size-and-cost.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/multi-agent-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/neural-network-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/open-source-license.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/prompt-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/prompt-with-example.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/provide-context.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/pull-request-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/rag-explained.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/readme-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/repository-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/save-prompt-template.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/skill-file-structure.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/skill-install-safely.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/skill-not-working.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/structured-ai-output.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/terminal-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/training-vs-inference.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-agent.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-ai.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-fde-business.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-github.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-harness.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-llm.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-local-preview.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-mcp.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-skill.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-token.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-skills.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/n01.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/n02.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p01.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p02.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p03.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p04.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p05.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p06.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p07.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p08.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p09.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p10.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p11.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p12.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p13.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p14.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p15.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p16.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p17.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p18.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p19.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p20.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p21.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p22.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p23.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p24.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p25.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p26.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p27.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p28.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p29.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p30.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p31.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p32.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p33.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p34.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p35.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/cases/p36.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/about.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-memory.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-debugging.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/branch-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/break-down-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/commit-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/context-window.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/create-first-skill.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/dependency-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/first-ai-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/github-public-private.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/issue-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/open-source-license.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/prompt-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/provide-context.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/rag-explained.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/readme-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/repository-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/skill-not-working.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/terminal-basics.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-ai.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-github.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-harness.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-llm.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-skill.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-token.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/n01.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/n02.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p01.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p02.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p03.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p04.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p05.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p06.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p07.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p08.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p09.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p10.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p11.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p12.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p13.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p14.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p15.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p16.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p17.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p18.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p19.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p20.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p21.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p22.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p23.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p24.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p25.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p26.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p27.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p28.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p29.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p30.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p31.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p32.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p33.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p34.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p35.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/cases/p36.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/records.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/services/ai-agent.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/records.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/services/ai-agent.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/services/fde-consulting.html",
+      "lastmod": "2026-10-20"
+    },
+    {
+      "loc": "https://www.eliai.cn/services/workflow-automation.html",
+      "lastmod": "2026-10-20"
+    }
+  ]
+}

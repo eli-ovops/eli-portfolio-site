@@ -1,0 +1,1283 @@
+[
+  {
+    "text": "Describe the current process and its slowest step. The initial conversation is free.",
+    "pages": [
+      "en/articles/acceptance-tests.html",
+      "en/articles/agent-feedback-loop.html",
+      "en/articles/agent-first-task.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-plan-and-act.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/agent-tools-permissions.html",
+      "en/articles/agent-workflow-difference.html",
+      "en/articles/ai-chat-vs-search.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-coding-basics.html",
+      "en/articles/ai-compare-options.html",
+      "en/articles/ai-consultation-prepare.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/ai-email-draft.html",
+      "en/articles/ai-employee-training.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/ai-inventory-exceptions.html",
+      "en/articles/ai-jargon-map.html",
+      "en/articles/ai-knowledge-base-start.html",
+      "en/articles/ai-learning-plan.html",
+      "en/articles/ai-maintenance-owner.html",
+      "en/articles/ai-meeting-actions.html",
+      "en/articles/ai-ocr-check.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/ai-privacy-basics.html",
+      "en/articles/ai-product-copy.html",
+      "en/articles/ai-sop-writing.html",
+      "en/articles/ai-spreadsheet-cleaning.html",
+      "en/articles/ai-task-selection.html",
+      "en/articles/ai-translation-review.html",
+      "en/articles/ai-weekly-report.html",
+      "en/articles/ask-clarifying-questions.html",
+      "en/articles/branch-basics.html",
+      "en/articles/break-down-task.html",
+      "en/articles/choose-ai-provider.html",
+      "en/articles/choose-ai-tool.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/commit-basics.html",
+      "en/articles/context-window.html",
+      "en/articles/create-first-skill.html",
+      "en/articles/dependency-basics.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/embeddings-explained.html",
+      "en/articles/enterprise-knowledge-base.html",
+      "en/articles/fine-tuning-or-rag.html",
+      "en/articles/first-ai-task.html",
+      "en/articles/fix-bad-ai-answer.html",
+      "en/articles/github-public-private.html",
+      "en/articles/how-llm-generates.html",
+      "en/articles/inventory-reconciliation.html",
+      "en/articles/issue-basics.html",
+      "en/articles/mcp-read-only.html",
+      "en/articles/mcp-vs-api.html",
+      "en/articles/measure-ai-benefit.html",
+      "en/articles/model-size-and-cost.html",
+      "en/articles/multi-agent-basics.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/open-source-license.html",
+      "en/articles/owner-ai-first-step.html",
+      "en/articles/prompt-basics.html",
+      "en/articles/prompt-injection-basics.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/provide-context.html",
+      "en/articles/pull-request-basics.html",
+      "en/articles/rag-explained.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/readme-basics.html",
+      "en/articles/repository-basics.html",
+      "en/articles/rewrite-with-ai.html",
+      "en/articles/save-prompt-template.html",
+      "en/articles/skill-file-structure.html",
+      "en/articles/skill-install-safely.html",
+      "en/articles/skill-not-working.html",
+      "en/articles/skill-vs-prompt.html",
+      "en/articles/structured-ai-output.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/training-vs-inference.html",
+      "en/articles/what-is-agent.html",
+      "en/articles/what-is-ai.html",
+      "en/articles/what-is-fde-business.html",
+      "en/articles/what-is-github.html",
+      "en/articles/what-is-harness.html",
+      "en/articles/what-is-llm.html",
+      "en/articles/what-is-local-preview.html",
+      "en/articles/what-is-mcp.html",
+      "en/articles/what-is-skill.html",
+      "en/articles/what-is-token.html",
+      "en/articles/what-is-workbuddy.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-file-organizing.html",
+      "en/articles/workbuddy-first-task.html",
+      "en/articles/workbuddy-meeting-notes.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-spreadsheet.html",
+      "en/articles/workbuddy-task-failed.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 102
+  },
+  {
+    "text": "以下资料用于核对概念或产品入口，练习步骤由本站整理，不代表官方认证或客户效果。界面和可用功能可能更新，请以当前产品为准。资料核对日期：2026-10-17。",
+    "pages": [
+      "articles/acceptance-tests.html",
+      "articles/agent-feedback-loop.html",
+      "articles/agent-first-task.html",
+      "articles/agent-memory.html",
+      "articles/agent-plan-and-act.html",
+      "articles/agent-risk-checklist.html",
+      "articles/agent-stop-rules.html",
+      "articles/agent-tools-permissions.html",
+      "articles/agent-workflow-difference.html",
+      "articles/ai-chat-vs-search.html",
+      "articles/ai-checkpoints.html",
+      "articles/ai-coding-basics.html",
+      "articles/ai-compare-options.html",
+      "articles/ai-consultation-prepare.html",
+      "articles/ai-cost-breakdown.html",
+      "articles/ai-debugging.html",
+      "articles/ai-email-draft.html",
+      "articles/ai-employee-training.html",
+      "articles/ai-file-reading.html",
+      "articles/ai-generated-images.html",
+      "articles/ai-hallucination.html",
+      "articles/ai-inventory-exceptions.html",
+      "articles/ai-jargon-map.html",
+      "articles/ai-knowledge-base-start.html",
+      "articles/ai-learning-plan.html",
+      "articles/ai-maintenance-owner.html",
+      "articles/ai-meeting-actions.html",
+      "articles/ai-ocr-check.html",
+      "articles/ai-pilot-design.html",
+      "articles/ai-privacy-basics.html",
+      "articles/ai-product-copy.html",
+      "articles/ai-sop-writing.html",
+      "articles/ai-spreadsheet-cleaning.html",
+      "articles/ai-task-selection.html",
+      "articles/ai-translation-review.html",
+      "articles/ai-weekly-report.html",
+      "articles/ask-clarifying-questions.html",
+      "articles/branch-basics.html",
+      "articles/break-down-task.html",
+      "articles/choose-ai-provider.html",
+      "articles/choose-ai-tool.html",
+      "articles/coding-without-secrets.html",
+      "articles/commit-basics.html",
+      "articles/context-window.html",
+      "articles/create-first-skill.html",
+      "articles/dependency-basics.html",
+      "articles/download-release-or-source.html",
+      "articles/embeddings-explained.html",
+      "articles/fine-tuning-or-rag.html",
+      "articles/first-ai-task.html",
+      "articles/fix-bad-ai-answer.html",
+      "articles/github-public-private.html",
+      "articles/how-llm-generates.html",
+      "articles/issue-basics.html",
+      "articles/mcp-read-only.html",
+      "articles/mcp-vs-api.html",
+      "articles/measure-ai-benefit.html",
+      "articles/model-size-and-cost.html",
+      "articles/multi-agent-basics.html",
+      "articles/neural-network-basics.html",
+      "articles/open-source-license.html",
+      "articles/owner-ai-first-step.html",
+      "articles/prompt-basics.html",
+      "articles/prompt-injection-basics.html",
+      "articles/prompt-with-example.html",
+      "articles/provide-context.html",
+      "articles/pull-request-basics.html",
+      "articles/rag-explained.html",
+      "articles/read-ai-code-plan.html",
+      "articles/readme-basics.html",
+      "articles/repository-basics.html",
+      "articles/rewrite-with-ai.html",
+      "articles/save-prompt-template.html",
+      "articles/skill-file-structure.html",
+      "articles/skill-install-safely.html",
+      "articles/skill-not-working.html",
+      "articles/skill-vs-prompt.html",
+      "articles/structured-ai-output.html",
+      "articles/terminal-basics.html",
+      "articles/training-vs-inference.html",
+      "articles/what-is-agent.html",
+      "articles/what-is-ai.html",
+      "articles/what-is-fde-business.html",
+      "articles/what-is-github.html",
+      "articles/what-is-harness.html",
+      "articles/what-is-llm.html",
+      "articles/what-is-local-preview.html",
+      "articles/what-is-mcp.html",
+      "articles/what-is-skill.html",
+      "articles/what-is-token.html",
+      "articles/what-is-workbuddy.html",
+      "articles/workbuddy-connectors.html",
+      "articles/workbuddy-file-organizing.html",
+      "articles/workbuddy-first-task.html",
+      "articles/workbuddy-meeting-notes.html",
+      "articles/workbuddy-permissions.html",
+      "articles/workbuddy-skills.html",
+      "articles/workbuddy-spreadsheet.html",
+      "articles/workbuddy-task-failed.html",
+      "articles/workbuddy-write-document.html"
+    ],
+    "count": 100
+  },
+  {
+    "text": "Replace placeholders in the prompt with this material, or append the material if there are no placeholders. Reading time excludes doing the exercise.",
+    "pages": [
+      "en/articles/acceptance-tests.html",
+      "en/articles/agent-feedback-loop.html",
+      "en/articles/agent-first-task.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-plan-and-act.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/agent-tools-permissions.html",
+      "en/articles/agent-workflow-difference.html",
+      "en/articles/ai-chat-vs-search.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-coding-basics.html",
+      "en/articles/ai-compare-options.html",
+      "en/articles/ai-consultation-prepare.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/ai-email-draft.html",
+      "en/articles/ai-employee-training.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/ai-inventory-exceptions.html",
+      "en/articles/ai-jargon-map.html",
+      "en/articles/ai-knowledge-base-start.html",
+      "en/articles/ai-learning-plan.html",
+      "en/articles/ai-maintenance-owner.html",
+      "en/articles/ai-meeting-actions.html",
+      "en/articles/ai-ocr-check.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/ai-privacy-basics.html",
+      "en/articles/ai-product-copy.html",
+      "en/articles/ai-sop-writing.html",
+      "en/articles/ai-spreadsheet-cleaning.html",
+      "en/articles/ai-task-selection.html",
+      "en/articles/ai-translation-review.html",
+      "en/articles/ai-weekly-report.html",
+      "en/articles/ask-clarifying-questions.html",
+      "en/articles/branch-basics.html",
+      "en/articles/break-down-task.html",
+      "en/articles/choose-ai-provider.html",
+      "en/articles/choose-ai-tool.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/commit-basics.html",
+      "en/articles/context-window.html",
+      "en/articles/create-first-skill.html",
+      "en/articles/dependency-basics.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/embeddings-explained.html",
+      "en/articles/fine-tuning-or-rag.html",
+      "en/articles/first-ai-task.html",
+      "en/articles/fix-bad-ai-answer.html",
+      "en/articles/github-public-private.html",
+      "en/articles/how-llm-generates.html",
+      "en/articles/issue-basics.html",
+      "en/articles/mcp-read-only.html",
+      "en/articles/mcp-vs-api.html",
+      "en/articles/measure-ai-benefit.html",
+      "en/articles/model-size-and-cost.html",
+      "en/articles/multi-agent-basics.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/open-source-license.html",
+      "en/articles/owner-ai-first-step.html",
+      "en/articles/prompt-basics.html",
+      "en/articles/prompt-injection-basics.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/provide-context.html",
+      "en/articles/pull-request-basics.html",
+      "en/articles/rag-explained.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/readme-basics.html",
+      "en/articles/repository-basics.html",
+      "en/articles/rewrite-with-ai.html",
+      "en/articles/save-prompt-template.html",
+      "en/articles/skill-file-structure.html",
+      "en/articles/skill-install-safely.html",
+      "en/articles/skill-not-working.html",
+      "en/articles/skill-vs-prompt.html",
+      "en/articles/structured-ai-output.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/training-vs-inference.html",
+      "en/articles/what-is-agent.html",
+      "en/articles/what-is-ai.html",
+      "en/articles/what-is-fde-business.html",
+      "en/articles/what-is-github.html",
+      "en/articles/what-is-harness.html",
+      "en/articles/what-is-llm.html",
+      "en/articles/what-is-local-preview.html",
+      "en/articles/what-is-mcp.html",
+      "en/articles/what-is-skill.html",
+      "en/articles/what-is-token.html",
+      "en/articles/what-is-workbuddy.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-file-organizing.html",
+      "en/articles/workbuddy-first-task.html",
+      "en/articles/workbuddy-meeting-notes.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-spreadsheet.html",
+      "en/articles/workbuddy-task-failed.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 100
+  },
+  {
+    "text": "The links below support the concepts or product navigation. The steps and exercises are our teaching suggestions, not official certification or measured customer outcomes. Product interfaces and availability may change. References checked on 2026-10-17.",
+    "pages": [
+      "en/articles/acceptance-tests.html",
+      "en/articles/agent-feedback-loop.html",
+      "en/articles/agent-first-task.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-plan-and-act.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/agent-tools-permissions.html",
+      "en/articles/agent-workflow-difference.html",
+      "en/articles/ai-chat-vs-search.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-coding-basics.html",
+      "en/articles/ai-compare-options.html",
+      "en/articles/ai-consultation-prepare.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/ai-email-draft.html",
+      "en/articles/ai-employee-training.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/ai-inventory-exceptions.html",
+      "en/articles/ai-jargon-map.html",
+      "en/articles/ai-knowledge-base-start.html",
+      "en/articles/ai-learning-plan.html",
+      "en/articles/ai-maintenance-owner.html",
+      "en/articles/ai-meeting-actions.html",
+      "en/articles/ai-ocr-check.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/ai-privacy-basics.html",
+      "en/articles/ai-product-copy.html",
+      "en/articles/ai-sop-writing.html",
+      "en/articles/ai-spreadsheet-cleaning.html",
+      "en/articles/ai-task-selection.html",
+      "en/articles/ai-translation-review.html",
+      "en/articles/ai-weekly-report.html",
+      "en/articles/ask-clarifying-questions.html",
+      "en/articles/branch-basics.html",
+      "en/articles/break-down-task.html",
+      "en/articles/choose-ai-provider.html",
+      "en/articles/choose-ai-tool.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/commit-basics.html",
+      "en/articles/context-window.html",
+      "en/articles/create-first-skill.html",
+      "en/articles/dependency-basics.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/embeddings-explained.html",
+      "en/articles/fine-tuning-or-rag.html",
+      "en/articles/first-ai-task.html",
+      "en/articles/fix-bad-ai-answer.html",
+      "en/articles/github-public-private.html",
+      "en/articles/how-llm-generates.html",
+      "en/articles/issue-basics.html",
+      "en/articles/mcp-read-only.html",
+      "en/articles/mcp-vs-api.html",
+      "en/articles/measure-ai-benefit.html",
+      "en/articles/model-size-and-cost.html",
+      "en/articles/multi-agent-basics.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/open-source-license.html",
+      "en/articles/owner-ai-first-step.html",
+      "en/articles/prompt-basics.html",
+      "en/articles/prompt-injection-basics.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/provide-context.html",
+      "en/articles/pull-request-basics.html",
+      "en/articles/rag-explained.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/readme-basics.html",
+      "en/articles/repository-basics.html",
+      "en/articles/rewrite-with-ai.html",
+      "en/articles/save-prompt-template.html",
+      "en/articles/skill-file-structure.html",
+      "en/articles/skill-install-safely.html",
+      "en/articles/skill-not-working.html",
+      "en/articles/skill-vs-prompt.html",
+      "en/articles/structured-ai-output.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/training-vs-inference.html",
+      "en/articles/what-is-agent.html",
+      "en/articles/what-is-ai.html",
+      "en/articles/what-is-fde-business.html",
+      "en/articles/what-is-github.html",
+      "en/articles/what-is-harness.html",
+      "en/articles/what-is-llm.html",
+      "en/articles/what-is-local-preview.html",
+      "en/articles/what-is-mcp.html",
+      "en/articles/what-is-skill.html",
+      "en/articles/what-is-token.html",
+      "en/articles/what-is-workbuddy.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-file-organizing.html",
+      "en/articles/workbuddy-first-task.html",
+      "en/articles/workbuddy-meeting-notes.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-spreadsheet.html",
+      "en/articles/workbuddy-task-failed.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 100
+  },
+  {
+    "text": "You do not need a complete solution. Share one time-consuming task and we can discuss where AI or software could help.",
+    "pages": [
+      "en/cases/n01.html",
+      "en/cases/n02.html",
+      "en/cases/p01.html",
+      "en/cases/p02.html",
+      "en/cases/p03.html",
+      "en/cases/p04.html",
+      "en/cases/p05.html",
+      "en/cases/p06.html",
+      "en/cases/p07.html",
+      "en/cases/p08.html",
+      "en/cases/p09.html",
+      "en/cases/p10.html",
+      "en/cases/p11.html",
+      "en/cases/p12.html",
+      "en/cases/p13.html",
+      "en/cases/p14.html",
+      "en/cases/p15.html",
+      "en/cases/p16.html",
+      "en/cases/p17.html",
+      "en/cases/p18.html",
+      "en/cases/p19.html",
+      "en/cases/p20.html",
+      "en/cases/p21.html",
+      "en/cases/p22.html",
+      "en/cases/p23.html",
+      "en/cases/p24.html",
+      "en/cases/p25.html",
+      "en/cases/p26.html",
+      "en/cases/p27.html",
+      "en/cases/p28.html",
+      "en/cases/p29.html",
+      "en/cases/p30.html",
+      "en/cases/p31.html",
+      "en/cases/p32.html",
+      "en/cases/p33.html",
+      "en/cases/p34.html",
+      "en/cases/p35.html",
+      "en/cases/p36.html"
+    ],
+    "count": 38
+  },
+  {
+    "text": "FDE 常指 Forward Deployed Engineer，工作方式偏向贴近客户流程，把技术落到实际场景。",
+    "pages": [
+      "articles.html",
+      "articles/ai-consultation-prepare.html",
+      "articles/ai-cost-breakdown.html",
+      "articles/ai-employee-training.html",
+      "articles/ai-maintenance-owner.html",
+      "articles/choose-ai-provider.html",
+      "articles/measure-ai-benefit.html",
+      "articles/what-is-fde-business.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "Reproduce, diagnose, make a minimal change and retest (checking again using the same steps).",
+    "pages": [
+      "en/articles.html",
+      "en/articles/acceptance-tests.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/dependency-basics.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/what-is-local-preview.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "Memory may retain preferences or summaries, but it is not a task ledger.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/agent-feedback-loop.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-plan-and-act.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/agent-workflow-difference.html",
+      "en/articles/multi-agent-basics.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "FDE commonly means Forward Deployed Engineer, a role working close to customer workflows to implement technology.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-consultation-prepare.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-employee-training.html",
+      "en/articles/ai-maintenance-owner.html",
+      "en/articles/choose-ai-provider.html",
+      "en/articles/measure-ai-benefit.html",
+      "en/articles/what-is-fde-business.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "A successful upload does not prove every page was read.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/ai-jargon-map.html",
+      "en/articles/ai-learning-plan.html",
+      "en/articles/ai-privacy-basics.html",
+      "en/articles/choose-ai-tool.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "A pull request proposes changes for review and merging.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/branch-basics.html",
+      "en/articles/commit-basics.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/github-public-private.html",
+      "en/articles/issue-basics.html",
+      "en/articles/open-source-license.html",
+      "en/articles/pull-request-basics.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "An embedding represents content numerically for similarity comparisons.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/context-window.html",
+      "en/articles/embeddings-explained.html",
+      "en/articles/fine-tuning-or-rag.html",
+      "en/articles/model-size-and-cost.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/rag-explained.html",
+      "en/articles/training-vs-inference.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "Choose skills for missing task capabilities rather than installing every popular option.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-meeting-notes.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-spreadsheet.html",
+      "en/articles/workbuddy-task-failed.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 8
+  },
+  {
+    "text": "A checkpoint records the goal, completed and pending work, file locations, constraints and next action.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/acceptance-tests.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/dependency-basics.html",
+      "en/articles/what-is-local-preview.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "Set scope, retries, budget and handoff conditions before execution.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/agent-feedback-loop.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/agent-workflow-difference.html",
+      "en/articles/multi-agent-basics.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "Start with a familiar small task and teach review and escalation.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-consultation-prepare.html",
+      "en/articles/ai-employee-training.html",
+      "en/articles/ai-maintenance-owner.html",
+      "en/articles/choose-ai-provider.html",
+      "en/articles/measure-ai-benefit.html",
+      "en/articles/what-is-fde-business.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "Generated images can help discuss composition and style, but may alter dimensions, ports, text or materials.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/ai-jargon-map.html",
+      "en/articles/ai-learning-plan.html",
+      "en/articles/ai-privacy-basics.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "OCR turns image text into machine-readable text but can misread digits and table structure.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-knowledge-base-start.html",
+      "en/articles/ai-ocr-check.html",
+      "en/articles/ai-product-copy.html",
+      "en/articles/ai-sop-writing.html",
+      "en/articles/ai-translation-review.html",
+      "en/articles/ai-weekly-report.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "A useful issue includes environment, reproduction, expected and actual behavior, and errors.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/branch-basics.html",
+      "en/articles/commit-basics.html",
+      "en/articles/github-public-private.html",
+      "en/articles/issue-basics.html",
+      "en/articles/open-source-license.html",
+      "en/articles/pull-request-basics.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "A read-only pilot tests whether the right information can be found without changing business records.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/create-first-skill.html",
+      "en/articles/mcp-read-only.html",
+      "en/articles/mcp-vs-api.html",
+      "en/articles/prompt-injection-basics.html",
+      "en/articles/skill-not-working.html",
+      "en/articles/what-is-mcp.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "RAG retrieves relevant information before generating an answer from it.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/embeddings-explained.html",
+      "en/articles/fine-tuning-or-rag.html",
+      "en/articles/model-size-and-cost.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/rag-explained.html",
+      "en/articles/training-vs-inference.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "Connectors expose external services within a particular authorization scope.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-spreadsheet.html",
+      "en/articles/workbuddy-task-failed.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 7
+  },
+  {
+    "text": "A dependency is external code your program uses, sometimes with dependencies of its own.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/acceptance-tests.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/dependency-basics.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "Multiple agents divide work among execution or review roles.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/agent-feedback-loop.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/multi-agent-basics.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "Identify the wrong passage, the reason and the correct rule.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-compare-options.html",
+      "en/articles/ask-clarifying-questions.html",
+      "en/articles/fix-bad-ai-answer.html",
+      "en/articles/rewrite-with-ai.html",
+      "en/articles/save-prompt-template.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "Choose one recurring question area and organize current versions, owners and scope.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-knowledge-base-start.html",
+      "en/articles/ai-ocr-check.html",
+      "en/articles/ai-sop-writing.html",
+      "en/articles/ai-translation-review.html",
+      "en/articles/ai-weekly-report.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "First identify whether the gap is instructions, current information or a consistent specialized behavior.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/embeddings-explained.html",
+      "en/articles/fine-tuning-or-rag.html",
+      "en/articles/model-size-and-cost.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/rag-explained.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "Installation, enablement, task selection and successful execution are separate states.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/mcp-read-only.html",
+      "en/articles/mcp-vs-api.html",
+      "en/articles/prompt-injection-basics.html",
+      "en/articles/skill-not-working.html",
+      "en/articles/what-is-mcp.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "Translate a permission prompt into concrete actions: which directory, file, command or external destination.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-task-failed.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 6
+  },
+  {
+    "text": "Acceptance tests check requirements rather than only a successful build (turning source into runnable or publishable files).",
+    "pages": [
+      "en/articles.html",
+      "en/articles/acceptance-tests.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/what-is-local-preview.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A plan states intended actions; a receipt records what happened.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/agent-first-task.html",
+      "en/articles/agent-plan-and-act.html",
+      "en/articles/agent-tools-permissions.html",
+      "en/articles/what-is-agent.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A workflow follows predefined steps; an agent can choose steps based on feedback.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/agent-first-task.html",
+      "en/articles/agent-plan-and-act.html",
+      "en/articles/agent-tools-permissions.html",
+      "en/articles/agent-workflow-difference.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Check what it can access and change, who reviews outputs and how mistakes are reversed.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/agent-memory.html",
+      "en/articles/agent-risk-checklist.html",
+      "en/articles/agent-stop-rules.html",
+      "en/articles/multi-agent-basics.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Search helps you find pages; AI chat helps compose an answer.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-chat-vs-search.html",
+      "en/articles/enterprise-knowledge-base.html",
+      "en/articles/inventory-reconciliation.html",
+      "en/articles/what-is-ai.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "An AI hallucination is plausible content without adequate grounding.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-chat-vs-search.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/choose-ai-tool.html",
+      "en/articles/first-ai-task.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "An API key is a credential, not an ordinary example value.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-checkpoints.html",
+      "en/articles/ai-debugging.html",
+      "en/articles/coding-without-secrets.html",
+      "en/articles/dependency-basics.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A terminal runs text commands for programs and the operating system.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-coding-basics.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/what-is-harness.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A local preview is reachable on your computer or a chosen network.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-coding-basics.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/terminal-basics.html",
+      "en/articles/what-is-local-preview.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Save the task specification rather than one successful answer.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-compare-options.html",
+      "en/articles/fix-bad-ai-answer.html",
+      "en/articles/rewrite-with-ai.html",
+      "en/articles/save-prompt-template.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Describe the business, current process and most troublesome step.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-consultation-prepare.html",
+      "en/articles/ai-employee-training.html",
+      "en/articles/ai-maintenance-owner.html",
+      "en/articles/what-is-fde-business.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Costs can include subscriptions, usage, configuration, development, training, review and maintenance.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/ai-task-selection.html",
+      "en/articles/owner-ai-first-step.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Measure total task time, errors, rework and review, not generation speed alone.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/ai-task-selection.html",
+      "en/articles/measure-ai-benefit.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Ask a provider to explain inputs, deliverables, limits and acceptance for one of your workflows.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-cost-breakdown.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/choose-ai-provider.html",
+      "en/articles/measure-ai-benefit.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Book, physical, in-transit and reserved stock are different measures.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-email-draft.html",
+      "en/articles/ai-inventory-exceptions.html",
+      "en/articles/ai-meeting-actions.html",
+      "en/articles/ai-spreadsheet-cleaning.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Separate models, tools, connections and execution support before reading product claims.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-learning-plan.html",
+      "en/articles/ai-privacy-basics.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Build the habit of completing one task correctly before collecting jargon.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-file-reading.html",
+      "en/articles/ai-generated-images.html",
+      "en/articles/ai-jargon-map.html",
+      "en/articles/ai-learning-plan.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Check whether a service is approved for the data before writing a prompt.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-hallucination.html",
+      "en/articles/ai-privacy-basics.html",
+      "en/articles/choose-ai-tool.html",
+      "en/articles/first-ai-task.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Dimensions, materials, certifications, compatibility and results need evidence.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-inventory-exceptions.html",
+      "en/articles/ai-meeting-actions.html",
+      "en/articles/ai-product-copy.html",
+      "en/articles/ai-spreadsheet-cleaning.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Check numbers, conditions, negation and terminology rather than fluency alone.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-inventory-exceptions.html",
+      "en/articles/ai-product-copy.html",
+      "en/articles/ai-spreadsheet-cleaning.html",
+      "en/articles/ai-translation-review.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Interview the actual operator and document steps, prerequisites, exceptions and completion checks.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-knowledge-base-start.html",
+      "en/articles/ai-ocr-check.html",
+      "en/articles/ai-sop-writing.html",
+      "en/articles/ai-weekly-report.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Ask only about missing details that change scope, cost or correctness.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ask-clarifying-questions.html",
+      "en/articles/break-down-task.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/structured-ai-output.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A branch lets work proceed on a separate line of development for comparison and merging.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/branch-basics.html",
+      "en/articles/commit-basics.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/readme-basics.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Split work into checkable stages: read, identify questions, draft and verify.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/break-down-task.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/provide-context.html",
+      "en/articles/structured-ai-output.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Saving changes a file; a commit records a set of changes in history with a message.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/commit-basics.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/readme-basics.html",
+      "en/articles/repository-basics.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A context window limits information processed in one request.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/context-window.html",
+      "en/articles/how-llm-generates.html",
+      "en/articles/what-is-llm.html",
+      "en/articles/what-is-token.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Training changes model parameters; inference uses a model on current input.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/context-window.html",
+      "en/articles/how-llm-generates.html",
+      "en/articles/training-vs-inference.html",
+      "en/articles/what-is-token.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A neural network maps inputs to outputs through layers of computation with adjustable parameters.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/context-window.html",
+      "en/articles/neural-network-basics.html",
+      "en/articles/training-vs-inference.html",
+      "en/articles/what-is-token.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Write reusable meeting-note rules, then test the same rules on different examples.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/create-first-skill.html",
+      "en/articles/skill-file-structure.html",
+      "en/articles/skill-install-safely.html",
+      "en/articles/skill-vs-prompt.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "MCP is an open protocol for connecting AI applications to external data and tools.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/create-first-skill.html",
+      "en/articles/skill-install-safely.html",
+      "en/articles/skill-vs-prompt.html",
+      "en/articles/what-is-mcp.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "A source ZIP is usually a snapshot, not a ready-to-run app.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/download-release-or-source.html",
+      "en/articles/readme-basics.html",
+      "en/articles/repository-basics.html",
+      "en/articles/what-is-github.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Public repositories can be read and copied; private ones restrict access but are not a reason to store secrets as ordinary files.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/github-public-private.html",
+      "en/articles/issue-basics.html",
+      "en/articles/open-source-license.html",
+      "en/articles/pull-request-basics.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "External pages, files or skills can contain instructions intended to override the task.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/mcp-read-only.html",
+      "en/articles/mcp-vs-api.html",
+      "en/articles/prompt-injection-basics.html",
+      "en/articles/skill-not-working.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Define field names, order, allowed values and missing-data handling.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/prompt-basics.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/provide-context.html",
+      "en/articles/structured-ai-output.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Start with text notes; audio transcription depends on configured capabilities.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/what-is-workbuddy.html",
+      "en/articles/workbuddy-file-organizing.html",
+      "en/articles/workbuddy-first-task.html",
+      "en/articles/workbuddy-meeting-notes.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Distinguish queueing, running, errors and waiting for approval.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/workbuddy-connectors.html",
+      "en/articles/workbuddy-permissions.html",
+      "en/articles/workbuddy-skills.html",
+      "en/articles/workbuddy-task-failed.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Start by checking fields and row counts before detecting exceptions.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/workbuddy-file-organizing.html",
+      "en/articles/workbuddy-first-task.html",
+      "en/articles/workbuddy-meeting-notes.html",
+      "en/articles/workbuddy-spreadsheet.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Provide audience, purpose, known facts and prohibited promises.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/workbuddy-file-organizing.html",
+      "en/articles/workbuddy-meeting-notes.html",
+      "en/articles/workbuddy-spreadsheet.html",
+      "en/articles/workbuddy-write-document.html"
+    ],
+    "count": 5
+  },
+  {
+    "text": "Choose something small, checkable and reversible, such as turning personal notes into tasks.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-chat-vs-search.html",
+      "en/articles/first-ai-task.html",
+      "en/articles/what-is-ai.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "You need not understand every syntax detail, but should know what changes, why, affected behavior and recovery.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-coding-basics.html",
+      "en/articles/read-ai-code-plan.html",
+      "en/articles/what-is-harness.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "Define fields, units and missing values before formatting.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-email-draft.html",
+      "en/articles/ai-meeting-actions.html",
+      "en/articles/ai-spreadsheet-cleaning.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "Test one scenario with a small approved sample set and a defined period.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/ai-pilot-design.html",
+      "en/articles/ai-task-selection.html",
+      "en/articles/owner-ai-first-step.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "AI stands for artificial intelligence and includes recognition, prediction and generation, using approaches such as rules or learning from data.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/enterprise-knowledge-base.html",
+      "en/articles/inventory-reconciliation.html",
+      "en/articles/what-is-ai.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "A token is a unit used to process text: a character, part of a word or another segment.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/how-llm-generates.html",
+      "en/articles/what-is-llm.html",
+      "en/articles/what-is-token.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "Examples turn vague requirements into visible output patterns.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/prompt-basics.html",
+      "en/articles/prompt-with-example.html",
+      "en/articles/provide-context.html"
+    ],
+    "count": 4
+  },
+  {
+    "text": "A prompt template is often enough for an occasional small task.",
+    "pages": [
+      "en/articles.html",
+      "en/articles/skill-file-structure.html",
+      "en/articles/skill-vs-prompt.html",
+      "en/articles/what-is-skill.html"
+    ],
+    "count": 4
+  }
+]

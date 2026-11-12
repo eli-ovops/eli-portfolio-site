@@ -1,0 +1,74 @@
+[
+  {
+    "test": "rapid browser Back + empty search + single mouse reset",
+    "run": 1,
+    "category": "全部",
+    "count": "38 项记录",
+    "diagnostics": false,
+    "q": "",
+    "revision": "90eb1f389143fe026465",
+    "url": "http://127.0.0.1:4178/records.html?reset_trace=1&pv=90eb1f389143fe026465"
+  },
+  {
+    "test": "rapid browser Back + empty search + single mouse reset",
+    "run": 2,
+    "category": "全部",
+    "count": "38 项记录",
+    "diagnostics": false,
+    "q": "",
+    "revision": "90eb1f389143fe026465",
+    "url": "http://127.0.0.1:4178/records.html?reset_trace=1&pv=90eb1f389143fe026465"
+  },
+  {
+    "test": "rapid browser Back + empty search + single mouse reset",
+    "run": 3,
+    "category": "全部",
+    "count": "38 项记录",
+    "diagnostics": false,
+    "q": "",
+    "revision": "90eb1f389143fe026465",
+    "url": "http://127.0.0.1:4178/records.html?reset_trace=1&pv=90eb1f389143fe026465"
+  },
+  {
+    "test": "P10 to related P09 to list",
+    "category": "客户项目",
+    "count": "2 项记录",
+    "focus": "project-p10",
+    "q": "库存"
+  },
+  {
+    "test": "keyboard clear after related return",
+    "category": "全部",
+    "count": "38 项记录",
+    "q": ""
+  },
+  {
+    "test": "cleared list to P10 to related P04 to list has no stale conditions",
+    "category": "全部",
+    "count": "38 项记录",
+    "q": "",
+    "url": "http://127.0.0.1:4178/records.html?reset_trace=1&pv=90eb1f389143fe026465"
+  },
+  {
+    "test": "Chinese 390px rapid Back and first reset",
+    "count": "38 项记录",
+    "overflow": false,
+    "q": "",
+    "width": 390
+  },
+  {
+    "test": "English 320px rapid Back and first reset",
+    "category": "All",
+    "count": "38 projects",
+    "overflow": false,
+    "q": "",
+    "width": 320
+  },
+  {
+    "test": "immediate category animation to reset",
+    "category": "全部",
+    "count": "38 项记录",
+    "q": "",
+    "revision": "90eb1f389143fe026465"
+  }
+]

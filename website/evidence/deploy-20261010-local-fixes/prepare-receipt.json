@@ -1,0 +1,9 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261010-223517-portfolio-local-fixes",
+  "previous": "/srv/eli-sites/portfolio/releases/20261008-200047-technical-content",
+  "target": "/srv/eli-sites/portfolio/releases/20261010-223517-portfolio-local-fixes",
+  "backup": "/srv/eli-sites/portfolio/backups/20261010-223517-portfolio-local-fixes",
+  "package_sha256": "7e129d4d1ba3af4e6e07473c2fe6bcbef31b6138cd791ece75bf52476cfa30ca",
+  "files_verified": 143
+}

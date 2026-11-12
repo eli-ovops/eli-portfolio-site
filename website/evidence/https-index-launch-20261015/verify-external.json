@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.eliai.cn/",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/",
+    "sha256": "645bf620b2e3ad9da8725e8b7e3c24ea86d6abb390bc8c9fb2bdbdea17bb411c",
+    "noindex_header": null,
+    "meta_index": true
+  },
+  {
+    "url": "https://www.eliai.cn/robots.txt",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/robots.txt",
+    "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+    "noindex_header": null,
+    "meta_index": false
+  },
+  {
+    "url": "https://www.eliai.cn/sitemap.xml",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/sitemap.xml",
+    "sha256": "01f8da24d35ae4fd8e2a58a8537e6ae68211e9fcd86cd352782bfbe8a72844b8",
+    "noindex_header": null,
+    "meta_index": false
+  },
+  {
+    "url": "https://www.eliai.cn/en/index.html",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/en/index.html",
+    "sha256": "c8acc2ad5b382827f7ea52f2f6c5550eb4870949c93968feb2d267190e58bd8e",
+    "noindex_header": null,
+    "meta_index": true
+  },
+  {
+    "url": "https://eliai.cn/",
+    "status": 200,
+    "final_url": "https://www.eliai.cn/",
+    "sha256": "645bf620b2e3ad9da8725e8b7e3c24ea86d6abb390bc8c9fb2bdbdea17bb411c",
+    "noindex_header": null,
+    "meta_index": true
+  }
+]

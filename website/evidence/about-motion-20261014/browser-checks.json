@@ -1,0 +1,242 @@
+{
+  "observations": [
+    {
+      "label": "desktop-rest",
+      "cardCount": 3,
+      "contactTop": 1193.3125,
+      "mapStep": "3",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "none",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832",
+      "width": 1280,
+      "workflowStep": "1"
+    },
+    {
+      "label": "desktop-replay-first",
+      "cardCount": 3,
+      "contactTop": 1188.3125,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.999, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832",
+      "width": 1280,
+      "workflowStep": "1"
+    },
+    {
+      "label": "desktop-image-case-back",
+      "cardCount": 3,
+      "contactTop": 885.3125,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.9942, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832",
+      "width": 1280,
+      "workflowStep": "1"
+    },
+    {
+      "label": "zh-390-arrival",
+      "cardCount": 3,
+      "contactTop": 2268.34375,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.9886, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832",
+      "width": 390,
+      "workflowStep": "1"
+    },
+    {
+      "label": "zh-390-keyboard-replay",
+      "cardCount": 3,
+      "contactTop": 2062.34375,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.9757, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832",
+      "width": 390,
+      "workflowStep": "1"
+    },
+    {
+      "label": "zh-390-method",
+      "cardCount": 3,
+      "contactTop": -872.65625,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "none",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832#contact",
+      "width": 390,
+      "workflowStep": "2"
+    },
+    {
+      "label": "en-320-layout",
+      "cardCount": 3,
+      "contactTop": 103.9375,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.9884, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/en/about.html?pv=7ee29a6198c203465832#contact",
+      "width": 320,
+      "workflowStep": "1"
+    },
+    {
+      "label": "en-320-reduced",
+      "cardCount": 3,
+      "contactTop": 2291.9375,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.9833, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/en/about.html?pv=7ee29a6198c203465832",
+      "width": 320,
+      "workflowStep": "1"
+    },
+    {
+      "label": "en-320-reduced-consult",
+      "cardCount": 3,
+      "contactTop": 1456.9375,
+      "mapStep": "0",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": true,
+      "symbolTransforms": [
+        "none",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/en/about.html?pv=7ee29a6198c203465832#contact",
+      "width": 320,
+      "workflowStep": "1"
+    },
+    {
+      "label": "en-390-reduced",
+      "cardCount": 3,
+      "contactTop": 1352.21875,
+      "mapStep": "0",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": true,
+      "symbolTransforms": [
+        "none",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/en/about.html?pv=7ee29a6198c203465832#contact",
+      "width": 390,
+      "workflowStep": "1"
+    },
+    {
+      "label": "zh-320-layout",
+      "cardCount": 3,
+      "contactTop": 104.46875,
+      "mapStep": "1",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "matrix(0.9563, 0, 0, 1, 0, 0)",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832#contact",
+      "width": 320,
+      "workflowStep": "1"
+    },
+    {
+      "label": "zh-320-static-consult",
+      "cardCount": 3,
+      "contactTop": 2099.46875,
+      "mapStep": "0",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": true,
+      "symbolTransforms": [
+        "none",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832#contact",
+      "width": 320,
+      "workflowStep": "1"
+    },
+    {
+      "label": "desktop-final",
+      "cardCount": 3,
+      "contactTop": 1193.3125,
+      "mapStep": "3",
+      "noindex": "noindex,nofollow",
+      "overflow": false,
+      "replayHidden": false,
+      "symbolTransforms": [
+        "none",
+        "none",
+        "none"
+      ],
+      "url": "http://127.0.0.1:4178/about.html?pv=7ee29a6198c203465832",
+      "width": 1280,
+      "workflowStep": "1"
+    }
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "step": "1",
+      "transform": "none"
+    },
+    {
+      "frame": 3,
+      "step": "2",
+      "transform": "matrix(0.9667, 0, 0, 1, 0, 0)"
+    },
+    {
+      "frame": 10,
+      "step": "3",
+      "transform": "none"
+    }
+  ]
+}

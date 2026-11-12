@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-20T11:47:47.739Z",
+  "revision": "fc811f1566b60abf98c2",
+  "zhMobile": {
+    "width": 390,
+    "scrollWidth": 375,
+    "logisticsInMore": true,
+    "moreOpen": true,
+    "logisticsOpen": true
+  },
+  "enMobile": {
+    "language": "en",
+    "links": [
+      {
+        "href": "services/workflow-automation.html?pv=fc811f1566b60abf98c2",
+        "text": "Inventory and workflow services ↗"
+      },
+      {
+        "href": "about.html?pv=fc811f1566b60abf98c2#contact",
+        "text": "Discuss this task for free ↗"
+      }
+    ],
+    "logisticsOpen": true,
+    "more": 7,
+    "primary": 8,
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/index.html?pv=fc811f1566b60abf98c2#industries",
+    "width": 390
+  },
+  "consultation": {
+    "contact": true,
+    "url": "http://127.0.0.1:4178/en/about.html?pv=fc811f1566b60abf98c2#contact"
+  }
+}

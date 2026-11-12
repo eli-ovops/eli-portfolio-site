@@ -1,0 +1,39 @@
+{
+  "reviewed_public_revision": "4214c0d6f6cd8e3dd8ce",
+  "site_modified": false,
+  "attachment_read": "/Users/USER/Downloads/eliai.cn网站体验与咨询转化审查报告.docx",
+  "docx_review_scope": "Text extracted from OOXML, no document layout review or edits",
+  "verified_current_http": [
+    "records.html contains 38 static project li elements without JavaScript execution",
+    "index.html contains links to all three actual service paths",
+    "home/about/records/FDE HTML each contains 10 non-empty social profile hrefs; external destination health not tested",
+    "FDE service raw HTML contains English role expansion and price500"
+  ],
+  "verified_browser": {
+    "client_facet_count": 9,
+    "ids": [
+      "p10",
+      "p36",
+      "p09",
+      "p04",
+      "p02",
+      "p05",
+      "p03",
+      "p07",
+      "p08"
+    ],
+    "count_boundary": "Nine visible project records under current customer facet, not independently verified unique customers or accepted deliveries"
+  },
+  "official_role_sources": [
+    "https://www.palantir.com/careers/students-and-early-talent/",
+    "https://openai.com/careers/forward-deployed-engineer-%28fde%29-seattle-seattle/"
+  ],
+  "existing_mobile_button_evidence": "evidence/deploy-cookie-labels-20261016-4214c0d6/browser-checks.json",
+  "limitations": [
+    "No physical phone testing in this reconciliation",
+    "400px report viewport not reproduced in this pass",
+    "No third-party social pages opened",
+    "No new customer success or conversion measurements",
+    "No messages sent, forms submitted, code changes, build or deployment"
+  ]
+}

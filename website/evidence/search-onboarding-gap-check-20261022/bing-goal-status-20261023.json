@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-23T06:08:18.769Z",
+  "site": "https://www.eliai.cn/",
+  "ownership": "Existing site selected; no re-registration",
+  "sitemap": {
+    "known": 1,
+    "status": "Success",
+    "urls_discovered": 294,
+    "last_crawl": "10/20/2026",
+    "errors": 0,
+    "warnings": 0
+  },
+  "sample": {
+    "url": "https://www.eliai.cn/services/ai-agent.html",
+    "status": "Discovered but not crawled; URL cannot appear on Bing",
+    "discovered": "16 Oct2026",
+    "specific_cause": "UNKNOWN"
+  },
+  "support": "Existing Oct22 accepted ticket; no new feedback or email",
+  "url_checks_this_goal": 1,
+  "index_requests": 0,
+  "search_submissions": 0,
+  "next_step": "Wait for existing official response or changed native crawl/index evidence; do not resubmit"
+}

@@ -1,0 +1,88 @@
+- main:
+  - heading "AI引用概览" [level=2]: AI引用概览
+  - paragraph: AI引用量
+  - paragraph: "0"
+  - paragraph: AI曝光量
+  - paragraph: "0"
+  - paragraph: AI点击量
+  - paragraph: "0"
+  - paragraph: AI点击率
+  - paragraph: 0.00%
+  - heading "AI引用趋势" [level=2]
+  - radiogroup:
+    - generic: 昨天
+    - generic: 最近7天
+    - generic: 最近30天
+    - generic: 自定义日期
+  - menubar:
+    - menuitem "引用量"
+    - menuitem "引用页面量"
+  - generic: 对比前7天
+  - generic: AI引用量
+  - generic: AI曝光量
+  - generic: AI点击量
+  - heading "AI引用热门关键词" [level=2]
+  - textbox "输入关键词"
+  - radiogroup:
+    - radio "热门关键词" [checked]:
+      - generic: 热门关键词
+    - radio "热门页面":
+      - generic: 热门页面
+  - table:
+    - rowgroup:
+      - row "关键词 AI引用量 AI曝光量 AI点击量 AI点击率 操作":
+        - columnheader "关键词":
+          - generic: 关键词
+        - columnheader "AI引用量":
+          - generic: AI引用量
+        - columnheader "AI曝光量":
+          - generic: AI曝光量
+        - columnheader "AI点击量":
+          - generic: AI点击量
+        - columnheader "AI点击率":
+          - generic: AI点击率
+        - columnheader "操作":
+          - generic: 操作
+  - table:
+    - rowgroup
+  - generic: 暂无数据
+  - button "下载表格": 下载表格
+  - button [disabled]
+  - list:
+    - listitem: "1"
+  - button [disabled]
+  - text: 前往
+  - spinbutton: "1"
+  - text: 页
+  - textbox "请选择": 10条/页
+  - generic: 共 0 条
+  - heading "说明" [level=4]
+  - list:
+    - listitem: 当前数据仅覆盖传统搜索场景，每日更新前一日数据。受数据采集、计算等环节影响，数据更新时间可能存在延迟。
+    - listitem: 热门关键词列表、热门页面列表默认按点击量降序排列，最多展示点击量top5万的关键词或页面。
+- link "智能小程序":
+  - /url: https://smartprogram.baidu.com/developer/index.html
+- link "投诉平台":
+  - /url: //help.baidu.com/newadd?prod_id=1&category=1
+- link "百度统计":
+  - /url: https://tongji.baidu.com/web/welcome/login
+- link "百度智能云":
+  - /url: https://cloud.baidu.com/
+- link "百度云加速":
+  - /url: https://su.baidu.com/
+- link "百度安全":
+  - /url: http://anquan.baidu.com/
+- link "百度大脑":
+  - /url: https://ai.baidu.com/
+- link "百度保障":
+  - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+- link "百度开发者中心":
+  - /url: https://developer.baidu.com/?hmsr=站长平台&hmpl=&hmcu=&hmkw=&hmci
+- link "联系我们":
+  - /url: //ziyuan.baidu.com/college/articleinfo?id=2114
+- link "微信公众号":
+  - /url: //ziyuan.baidu.com/wiki/3148
+- text: ©2026 Baidu
+- link "使用百度前必读":
+  - /url: https://www.baidu.com/duty/
+- text: 京ICP证030173号

@@ -1,0 +1,12 @@
+{
+  "name": "personal-practice-portfolio",
+  "version": "0.11.0",
+  "private": true,
+  "description": "Static portfolio with GSAP and an isolated official React Bits FlexCarousel",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "dev": "python3 scripts/serve.py",
+    "preview": "python3 scripts/serve.py",
+    "setup:carousel": "npm ci --prefix components/react-bits --no-audit --no-fund"
+  }
+}

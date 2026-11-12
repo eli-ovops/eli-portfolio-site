@@ -1,0 +1,353 @@
+[
+  {
+    "id": "IMG01",
+    "project": "P02",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/旧作品集/page-3-image-1.jpg",
+    "original_sha256": "2bba40bb514bf4d4657a2a2c937b65efe1071dc38745fe0e7970d189a88358a9",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img01.webp",
+    "dimensions": [
+      1213,
+      1600
+    ],
+    "caution": "历史页面，含人物与文章；机构正式名称与公开权限需确认",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG02",
+    "project": "P03",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/旧作品集/page-4-image-1.jpg",
+    "original_sha256": "069219c4adae1133d0844564a95158732308bbe5be83981520680b5449def48c",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img02.webp",
+    "dimensions": [
+      1340,
+      1600
+    ],
+    "caution": "历史页面与客户标识，不证明目前在线或本人独立制作",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG05",
+    "project": "P07",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P07/IMG05_家具网站桌面预览.png",
+    "original_sha256": "2acb8b447e9e7d9b4927db89fcc0fdc968d42b6e6b900693ca734d1ed3be80d6",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img05.webp",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "caution": "静态预览，产品与室内照片版权待确认",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG07",
+    "project": "P09",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P09/IMG07_库存系统桌面演示.png",
+    "original_sha256": "581bec36759e2f1d5f0477705c2db0ed6ab787a401ec0daad45f25c2330d072b",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img07.webp",
+    "dimensions": [
+      1280,
+      900
+    ],
+    "caution": "虚拟库存与测试编号，不作真实工厂业务成果",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG10",
+    "project": "P12",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P12/IMG10_织境产品资料输入.png",
+    "original_sha256": "d09b0e675c04547d58d4b434302a1216e92320eb69ffd53b42ad4b7bad2d7e87",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img10.webp",
+    "dimensions": [
+      1600,
+      900
+    ],
+    "caution": "本地演示数据及产品素材，非真实发布效果",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG12",
+    "project": "P13",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P13/IMG12_Pocket Rove营销展示.png",
+    "original_sha256": "160c085d6b608a4499ae21df893db43b619ab9ea6e2c31e2d07bea76d92d9146",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img12.webp",
+    "dimensions": [
+      740,
+      1600
+    ],
+    "caution": "历史版本海报与手机样机，不是实时App验收",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG13",
+    "project": "P13",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P13/IMG13_Pocket Rove任务界面.png",
+    "original_sha256": "f45d66f244948a0a3db5052665524683fbf451dad4b6bda48fe6804c822c4c5e",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img13.webp",
+    "dimensions": [
+      736,
+      1600
+    ],
+    "caution": "2026-09-09历史1.6.9测试界面，不代表最新版本",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG14",
+    "project": "P14",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P14/IMG14_Focumi伙伴选择.png",
+    "original_sha256": "73460fdc1710c77d97f04d04cde6ebf4b595052b0162f04c5d448639781cc786",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img14.webp",
+    "dimensions": [
+      736,
+      1600
+    ],
+    "caution": "历史Build12，不能据此声称已上架",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "IMG16",
+    "project": "P15",
+    "source": "/Users/USER/Documents/原点向量/个人网站/网站制作资料包-20261005/图片/P15/IMG16_PetSocial发现页Demo.png",
+    "original_sha256": "7a083db846f04c7ba7f2ae654eaf5ee1b0ce66b5ac7e86ded1162d034483e8ad",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img16.webp",
+    "dimensions": [
+      393,
+      780
+    ],
+    "caution": "历史VisualDemo及Demo照片；非真实社区用户数据",
+    "permission": "UNKNOWN; internal preview only"
+  },
+  {
+    "id": "portrait-editorial-v03.png",
+    "source": "/Users/USER/.codex/generated_images/01a10a9f-1eb9-7b10-b1a5-a0999f243be9/exec-2ff8afcb-2e8d-4f61-b481-85e91876d1d0.png",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/portrait-editorial-v03.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "sha256": "f63bfd5668df50819a8539323ef4c20866d1e8c26ae9bb27585faa30edc9c9e0",
+    "bytes": 2233523,
+    "tool": "image_gen.imagegen",
+    "mode": "generate; transparent_background=false; no input references",
+    "prompt": "Photorealistic natural editorial photograph; anonymous adult from behind at a studio window, plain knitwear, worn wooden desk and notebook, landscape 3:2, person at left third, black and white analogue grain, no identifiable face, text, logos or watermark. Temporary personal photo placeholder, not user identity.",
+    "caution": "Temporary generated imagery, not user identity; replace before personal publication.",
+    "usage": "Portrait: home and about. Atmosphere: retained v0.3 alternate, not on v0.4 home."
+  },
+  {
+    "id": "atmosphere-editorial-v03.png",
+    "source": "/Users/USER/.codex/generated_images/01a10a9f-1eb9-7b10-b1a5-a0999f243be9/exec-d4b3d7b9-f036-4f59-8f0e-1f0b457d3527.png",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/atmosphere-editorial-v03.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "sha256": "a506e0011aead170c7270118cbc3e4d67f1eb36858fd0e229e4df026e9a80e6d",
+    "bytes": 2664043,
+    "tool": "image_gen.imagegen",
+    "mode": "generate; transparent_background=false; no input references",
+    "prompt": "Photorealistic editorial companion image: soft defocused tree branch shadows on textured old concrete, landscape 3:2, dark organic lower/right and light left, restrained analogue grain, no people, text, logos, borders or watermark.",
+    "caution": "Temporary generated imagery, not user identity; replace before personal publication.",
+    "usage": "Portrait: home and about. Atmosphere: retained v0.3 alternate, not on v0.4 home."
+  },
+  {
+    "id": "IMG17",
+    "project": "P05",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/evidence/otherwater-home-20261006.jpg",
+    "source_url": "https://otherwater.co.uk/",
+    "original_sha256": "c5e139e86481a4954b1b7008ff4e2a7cc77a6b5cfddde2e4ae18a6c394faeeb6",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img17.jpg",
+    "dimensions": [
+      2549,
+      1172
+    ],
+    "bytes": 152085,
+    "date": "2026-10-06",
+    "processing": "原始截图直接复制；无重绘、内容删改或重新压缩",
+    "usage": "官网首屏：品牌、产品与展示内容",
+    "permission": "用户2026-10-06明确指定用于作品网站展示；本轮仅本地预览，未发布",
+    "caution": "截图仅作为界面和项目场景证据，不替代本人分工、客户验收或运行效果记录"
+  },
+  {
+    "id": "IMG18",
+    "project": "P36",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/evidence/otherwater-support-20261006.jpg",
+    "source_url": "https://otherwater.co.uk/",
+    "original_sha256": "34b7817e4c3c2fc38bb55687bd7f28353743068c8cabfe50c1515dfc934e37c7",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img18.jpg",
+    "dimensions": [
+      410,
+      640
+    ],
+    "bytes": 28698,
+    "date": "2026-10-06",
+    "processing": "原始截图直接复制；无重绘、内容删改或重新压缩",
+    "usage": "官网实际打开的客服初始窗口；未发送问题",
+    "permission": "用户2026-10-06明确指定用于作品网站展示；本轮仅本地预览，未发布",
+    "caution": "截图仅作为界面和项目场景证据，不替代本人分工、客户验收或运行效果记录"
+  },
+  {
+    "id": "IMG19",
+    "project": "P10",
+    "source": "/private/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-e895cae6-84de-49e4-b391-b2ce68892704.png",
+    "source_url": "本人本会话提供截图",
+    "original_sha256": "e56f44a6cf3644f8504d3c3bfac888cbbeddbd18afe5bfef0ca92b8b733306c9",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/img19.png",
+    "dimensions": [
+      2558,
+      1120
+    ],
+    "bytes": 183596,
+    "date": "2026-10-06",
+    "processing": "原始截图直接复制；无重绘、内容删改或重新压缩",
+    "usage": "库存系统后台首页，原图保留",
+    "permission": "用户2026-10-06明确指定用于作品网站展示；本轮仅本地预览，未发布",
+    "caution": "截图仅作为界面和项目场景证据，不替代本人分工、客户验收或运行效果记录"
+  },
+  {
+    "id": "wechat-qr",
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-d596febc-0ef8-48fb-9b06-64e61acdb821.jpg",
+    "original_sha256": "4944e515a64e8e4f34e85cd7dd05939f1dd378226f3d01948313b3b5e04341c0",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/wechat-qr.png",
+    "sha256": "aed67be16ba122a893fe93eba335683b597541da64cc546aba6e6493f2953aeb",
+    "dimensions": [
+      728,
+      728
+    ],
+    "source_dimensions": [
+      888,
+      1131
+    ],
+    "crop": {
+      "x": 80,
+      "y": 248,
+      "width": 728,
+      "height": 728
+    },
+    "processing": "Exact sips crop; PNG output; original EXIF removed without reading its values; IHDR/IDAT/color chunks unchanged",
+    "permission": "本人明确提供作网站联系方式，并要求仅保留正方形码区",
+    "privacy": "排除头像、昵称、区域与下方文字；原图未复制到assets或dist",
+    "verification": "裁切结果已目视确认完整二维码与白边；未进行真实手机扫码",
+    "bytes": 245546,
+    "metadata_removed": [
+      "eXIf"
+    ],
+    "pixel_data_sha256": "75c6a426b06726a255fcbe1dda9aaf46b4ab2f61d8ff0de5a4cb87f9eecbcc8b"
+  },
+  {
+    "id": "public-p02-v10",
+    "project": "P02",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img01.webp",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p02.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      1213,
+      744
+    ],
+    "sha256": "0ba1bf01b635db210e2710a85f92dd6fcc47e30f9d46c3721b565f6af3eb2f87",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "public-p03-v10",
+    "project": "P03",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img02.webp",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p03.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      1340,
+      820
+    ],
+    "sha256": "25ab15538d8148901fffd58851bcd59e081611b8616338901e96ba99b940077b",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "public-p05-v10",
+    "project": "P05",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img17.jpg",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p05.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      2549,
+      1172
+    ],
+    "sha256": "e91667230d9c257cec58538491e381face667c1a0121c8c7e86c35ce2918de37",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "public-p07-v10",
+    "project": "P07",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img05.webp",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p07.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "3857da7b28b71d2bc14aedcad5b4db10bf0bda3ed2f6ce3469d4a37c8faff5c8",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "public-p09-v10",
+    "project": "P09",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img07.webp",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p09.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      1280,
+      900
+    ],
+    "sha256": "791b837566546fe51886086a458a3f979b43dc0bd99c8c5012439b515ecee76e",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "public-p10-v10",
+    "project": "P10",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img19.png",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p10.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      2558,
+      1120
+    ],
+    "sha256": "e89601b2aef80bb464c47f85cbec1bf8e74d51465a2e59f98799730a7be0b252",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "public-p36-v10",
+    "project": "P36",
+    "source": "/Users/USER/Documents/原点向量/个人网站/website/assets/img18.jpg",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/public-cases/p36.png",
+    "date": "2026-10-06",
+    "processing": "Deterministic local crop / opaque identity redaction / generic labels; flattened PNG with identity metadata removed",
+    "dimensions": [
+      410,
+      640
+    ],
+    "sha256": "35be3b77aa91d058cf4d5edcf6518a2cf56e2444bd4f0f1f90e2f0ada860387e",
+    "permission": "User requested all customer content anonymized; local preview only",
+    "caution": "Edited anonymized interface; original screenshot remains local. Not a new business result or acceptance receipt."
+  },
+  {
+    "id": "REACT_BITS_DITHER_ROBOT",
+    "project": "About decorative hero",
+    "source": "https://images.unsplash.com/photo-1737071371043-761e02b1ef95?q=80&w=1400&auto=format&fit=crop",
+    "original_sha256": "dc8b086833ce520ba55bf4b0014138630c1a20201122012398e15167b21b2e06",
+    "output": "/Users/USER/Documents/原点向量/个人网站/website/assets/react-bits-dither-robot.jpg",
+    "dimensions": [
+      1400,
+      1939
+    ],
+    "permission": "Unsplash standard license reviewed 2026-10-15; https://unsplash.com/license ; local implementation only",
+    "caution": "Official DitherVeil DEFAULT_SRC selected by user. Decorative robot; not a portrait of Eli, a client, or evidence of project delivery. Photographer not independently verified."
+  }
+]

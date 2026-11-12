@@ -1,0 +1,157 @@
+Browser tab: 6, Title: "AI Performance - Bing Webmaster Tools", URL: "https://www.bing.com/webmasters/aiperformance?siteUrl=https://www.eliai.cn/".
+0 AXWebArea AI Performance - Bing Webmaster Tools, URL: bing.com/webmasters/aiperformance?siteUrl=https://www.eliai.cn/
+	1 container
+		2 container root
+			3 container
+				4 link Description: Skip to main content, Value: bing.com/webmasters/aiperformance?siteUrl=https://www.eliai.cn/#content
+				5 pop up button (collapsed) Description: Show Bing tools, Help: Bing Tools, Secondary Actions: Expand
+				6 image white bwt logo microsoft bing webmaster
+				7 pop up button (collapsed) Description: Copilot, Help: Copilot in Bing Webmaster Tools, Secondary Actions: Expand
+				8 pop up button (collapsed) Description: Notifications, Secondary Actions: Expand
+				9 pop up button (collapsed) Description: Help, Secondary Actions: Expand
+				10 pop up button (collapsed) Description: Feedback, Secondary Actions: Expand
+				11 pop up button (collapsed) Description: Settings, Secondary Actions: Expand
+				12 pop up button (collapsed) Description: Profile, ID: targetButton, Secondary Actions: Expand
+					13 image
+			14 container
+				15 pop up button (collapsed) Description: Select website, Secondary Actions: Expand
+					16 text www.eliai.cn/
+				17 container Main menu
+					18 outline
+						19 row (selectable) Home
+							20 text Home
+						21 row (selectable) Search Performance
+							22 text Search Performance
+						23 row (selectable) AI Performance BETA
+							24 text AI Performance
+							25 text BETA
+						26 row (selectable) URL Inspection
+							27 text URL Inspection
+						28 row (selectable) Site Explorer
+							29 text Site Explorer
+						30 row (selectable) Sitemaps
+							31 text Sitemaps
+						32 row (selectable) IndexNow
+							33 text IndexNow
+						34 row (selectable) URL Submission
+							35 text URL Submission
+						36 row (selectable) Backlinks
+							37 text Backlinks
+						38 row (selectable) Keyword Research
+							39 text Keyword Research
+						40 row (selectable) Recommendations
+							41 text Recommendations
+						42 row (selectable) Site Scan
+							43 text Site Scan
+						44 row (selectable, collapsed) Description: Configuration, ID: accordionItem46, Secondary Actions: Expand
+							45 text CONFIGURATION
+						46 row (selectable, collapsed) Description: Tools & Enhancements, ID: accordionItem50, Secondary Actions: Expand
+							47 text TOOLS & ENHANCEMENTS
+						48 row (selectable, collapsed) Description: Security & Privacy, ID: accordionItem54, Secondary Actions: Expand
+							49 text SECURITY & PRIVACY
+						50 row (selectable) User management
+							51 text User management
+						52 row (selectable) Microsoft Clarity
+							53 text Microsoft Clarity
+			54 container content
+				55 heading AI Performance, Value: 2
+					56 text AI Performance
+				57 container
+					58 text Citation sources:  Microsoft Copilots and Partners
+				59 container
+					60 tab group
+						61 tab (selected, settable, boolean) 7 D, Value: 1, ID: Pivot60-Tab0
+							142 text 7 D
+						62 tab (selectable, settable, boolean) 30 D, ID: Pivot60-Tab1, Value: 0
+30 D
+						63 tab (selectable, settable, boolean) 3 M, ID: Pivot60-Tab2, Value: 0
+3 M
+						64 tab (selectable, settable, boolean) 6 M, ID: Pivot60-Tab3, Value: 0
+6 M
+						65 tab (selectable, settable, boolean) Custom, ID: Pivot60-Tab4, Value: 0
+Custom
+						66 tab (selectable, settable, boolean) Compare, ID: Pivot60-Tab5, Value: 0
+Compare
+					143 container 7 D
+				68 button Download
+					69 text Download
+				70 container
+					71 checkbox Description: Total Citations, Value: 1
+						72 image
+						73 text Total Citations
+						74 button Total Citations info
+						161 text 0
+					76 checkbox Description: Avg. Cited Pages, Value: 1
+						77 image
+						78 text Avg. Cited Pages
+						79 button Avg. Cited Pages info
+						162 text 0
+					163 text Citations
+					164 text Cited Pages
+					165 container Line chart showing Citations,Cited Pages from October 13, 2026 to October 19, 2026. Citations:0,Cited Pages:0. Toggle checkboxes to show the selected options in chart
+						166 container Line chart showing Citations,Cited Pages from October 13, 2026 to October 19, 2026. Citations:0,Cited Pages:0. Toggle checkboxes to show the selected options in chart
+						167 table
+							168 row
+								169 cell
+									170 text Date
+								171 cell
+									172 text October 17, 2026
+								173 cell
+									174 text October 18, 2026
+							175 row
+								176 cell
+									177 text Total Citations
+								178 cell
+									179 text 0
+								180 cell
+									181 text 0
+							182 row
+								183 cell
+									184 text Avg. Cited Pages
+								185 cell
+									186 text 0
+								187 cell
+									188 text 0
+					189 text Citations Cited Pages
+				108 heading List By, Value: 3
+					109 text List By
+				110 container
+					111 tab group List By
+						112 tab (selected, settable, boolean) Grounding Queries, ID: Pivot86-Tab0, Value: 1
+Grounding Queries
+						113 tab (selectable, settable, boolean) Pages, ID: Pivot86-Tab1, Value: 0
+Pages
+					114 container Grounding Queries
+				115 button (disabled) Download all
+					116 text Download all
+				117 container
+					118 text field (settable) Search your query, ID: TextField97
+				119 button Search
+					120 text Search
+				190 text No data available
+				144 table AI Search Queries Report
+					145 row Grounding Query, sortable Intent, sortable Topic, sortable Citations, sortable, sorted descending order Citation Share, sortable
+						146 cell
+							147 button Description: Grounding Query, sortable, ID: header133-Query
+								148 text Grounding Query
+						149 cell
+							150 button Description: Intent, sortable, ID: header133-Intent
+								151 text Intent
+						152 cell
+							153 button Description: Topic, sortable, ID: header133-Topic
+								154 text Topic
+						155 cell
+							156 button Description: Citations, sortable, sorted descending order, ID: header133-Citations
+								157 text Citations
+						158 cell
+							159 button Description: Citation Share, sortable, ID: header133-CitationRate
+								160 text Citation Share
+					191 text No data available
+				192 container
+					193 text 0 rows
+				138 text The data shown below represents a sample of overall activity. Results may be refined as additional data is processed
+				139 link Description: learnmore, Value: bing.com/webmasters/help/9f8e7d6c
+				140 text Intent and topic labels are AI generated and can filter potentially unsafe queries.
+				141 link Description: learnmore, Value: bing.com/webmasters/help/9f8e7d6c
+
+The focused UI element is 61 tab (selected, settable, boolean) 7 D, Value: 1, ID: Pivot60-Tab0

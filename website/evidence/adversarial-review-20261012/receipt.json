@@ -1,0 +1,23 @@
+{
+  "status": "REVIEW_COMPLETE_FIXES_PENDING",
+  "verdict": "Block",
+  "findings": {
+    "HIGH": 1,
+    "MEDIUM": 3
+  },
+  "website_sources": "UNCHANGED",
+  "dist_files": "143 UNCHANGED",
+  "server_mutations": "NONE",
+  "indexing": "UNCHANGED_DISABLED",
+  "evidence": [
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/browser-checks.json",
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/cache-http-check.json",
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/fresh-after-reload.jpg",
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/mobile-case-table.jpg",
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/report.md",
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/scope.json",
+    "/Users/USER/Documents/\u539f\u70b9\u5411\u91cf/\u4e2a\u4eba\u7f51\u7ad9/website/evidence/adversarial-review-20261012/stale-after-back.jpg"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

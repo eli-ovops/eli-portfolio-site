@@ -1,0 +1,58 @@
+{
+  "revision_browser_interactions": "e64050e2d308f8cdefb2",
+  "final_revision": "e2f873ead9c54daf4412",
+  "final_browser_smoke": "WebGL2 robot and Enter reveal confirmed; no horizontal overflow at native desktop",
+  "desktop": "1332x1202 native viewport",
+  "simulated_mobile": [
+    "zh About 390x844",
+    "en About 320x740 reduced motion",
+    "en library 320x740"
+  ],
+  "dither": {
+    "renderer": "webgl2",
+    "pattern": "floyd",
+    "brightness": 0.02,
+    "levels": 3,
+    "ink": "#461b8e",
+    "paper": "#bf8e1b",
+    "rim": "#170b0b",
+    "rim_thickness": 0,
+    "pointer_reveal": "Observed chrome original through moving mask; clipped screenshots saved",
+    "recovery": "Observed animating=false after pointer leave",
+    "button_enter": "PASS: frames increased and animating=true",
+    "reduced": "Static dither, reveal control hidden"
+  },
+  "stepper": {
+    "tabs_and_previous": "PASS",
+    "End_key": "Third tab selected and focused",
+    "return": "Second tab retained after About->P10->browser Back",
+    "reduced": "All three original content panels visible"
+  },
+  "library": {
+    "search_inventory_and_websites": "2 records P10/P09",
+    "keyboard_down": "Focus P10 actual anchor",
+    "related_return": "P10->P09->return restored 库存 / 网站与工具 / 2 records",
+    "clear_and_back": "Empty query / 全部 / 38 records after case browser Back"
+  },
+  "viewer": {
+    "native_dialog_open": true,
+    "background_overflow": "html/body hidden",
+    "wheel_attempt": "scrollY remained 0",
+    "Escape": "Closed and subsequent related navigation worked"
+  },
+  "home": {
+    "switch": "RAG label then next selected P09 via aria-pressed",
+    "return": "P09 detail and browser Back retained P09"
+  },
+  "consultation": "#contact, settled contact top179.7 desktop; English mobile103.6",
+  "observations": [
+    "One rapid header About click immediately after browser Back did not navigate on the first attempt; subsequent click worked. Not a reproduced root-cause diagnosis or resolved regression. Keep open for focused navigation review.",
+    "Console had original pre-fix english undefined from bits-ui hash157e4190b743, fixed before browser pass. One AbortError from skipped native title transition remains visible; do not claim zero console errors."
+  ],
+  "limits": [
+    "No real touch device, iOS Safari, all-browser compatibility, FPS or GPU performance benchmark",
+    "WebGL-unavailable and context-loss fallback code present but not forced/accepted",
+    "Full shared-template coverage is build/link validation, not individual visual acceptance of all84 pages",
+    "User design acceptance pending; no deployment/indexing/account/DNS/filing changes"
+  ]
+}

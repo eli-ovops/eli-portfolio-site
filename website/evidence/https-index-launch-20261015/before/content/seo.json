@@ -1,0 +1,206 @@
+{
+  "base_url": "http://[REDACTED_HOST]/sites/portfolio/",
+  "planned_base_url": "https://www.eliai.cn/",
+  "indexing_enabled": false,
+  "note": "Prepare locally while domain identity, HTTPS and ICP filing remain pending. Change base_url only after the domain serves this site; enable indexing only with launch authorization.",
+  "home": {
+    "zh-CN": {
+      "title": "FDE 前沿部署工程师｜企业 AI 应用咨询与自动化 - Eli",
+      "description": "Eli 是 FDE（前沿部署工程师），贴近企业业务，帮助选工具、改流程，需要时开发软件。提供免费初次咨询，可从 WorkBuddy 等现成工具、资料查找、库存核对或内容整理开始，先试一个小场景，再判断效果。"
+    },
+    "en": {
+      "title": "FDE & AI Consulting for Business | Eli",
+      "description": "Work with Eli, a forward deployed engineer (FDE), to choose AI tools, improve workflows or build software. Free initial consultation; start with one use case."
+    }
+  },
+  "about": {
+    "zh-CN": {
+      "title": "关于 Eli｜FDE 工作方式、免费 AI 咨询与联系",
+      "description": "了解 Eli 如何帮助企业用好 AI：先免费讨论一项重复工作，再选择现成工具或小范围定制。初次咨询免费，工具订阅、开发、培训和维护的范围与费用另行确认；可通过邮箱、电话或微信联系。"
+    },
+    "en": {
+      "title": "About Eli | FDE Approach & Free AI Consultation",
+      "description": "Discuss one repetitive business task with Eli in a free initial consultation. Review tools or custom work, agree implementation costs, and get in touch."
+    }
+  },
+  "records": {
+    "zh-CN": {
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。"
+    },
+    "en": {
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project."
+    }
+  },
+  "case_titles": {
+    "P10": {
+      "zh-CN": "洁具库存管理系统开发案例 - Eli",
+      "en": "Inventory System Development | Eli Case Study"
+    },
+    "P09": {
+      "zh-CN": "扫码库存系统：入库、移库与出库案例 - Eli",
+      "en": "Barcode Inventory: Stock Movement | Eli Case Study"
+    },
+    "P36": {
+      "zh-CN": "企业知识库与 AI 客服定制案例：资料检索与答疑 - Eli",
+      "en": "AI Customer Support & Knowledge Retrieval | Eli Case Study"
+    },
+    "P12": {
+      "zh-CN": "产品文案与配图的 AI 内容工作台开发案例 - Eli",
+      "en": "AI Product Copy & Image Workflow | Eli Case Study"
+    },
+    "P15": {
+      "zh-CN": "PetSocial / HelloTail：原生 iOS 开发实践 - Eli",
+      "en": "PetSocial / HelloTail: Native iOS | Eli Case Study"
+    },
+    "P04": {
+      "zh-CN": "律所 OA 办公系统开发案例 - Eli",
+      "en": "Law Firm Office Workflows | Eli Case Study"
+    },
+    "P02": {
+      "zh-CN": "慈善基金会官网开发案例 - Eli",
+      "en": "Nonprofit Website Development | Eli Case Study"
+    },
+    "P05": {
+      "zh-CN": "英国品牌全域营销协作案例 - Eli",
+      "en": "UK Brand Marketing Collaboration | Eli Case Study"
+    },
+    "P07": {
+      "zh-CN": "企业官网开发：家具品牌展示与浏览路径案例 - Eli",
+      "en": "Business Website: Brand & Buyer Paths | Eli Case Study"
+    }
+  },
+  "questions": [
+    {
+      "zh-CN": {
+        "question": "想用 AI，但不知道从哪开始？",
+        "lead": "可以先免费聊聊公司最费时间的一件事。",
+        "answer": "员工每天反复做什么、资料放在哪里、哪里容易出错？不必先懂 AI 工具，也不必准备完整方案。"
+      },
+      "en": {
+        "question": "Want AI, but unsure where to start?",
+        "lead": "Start with a free conversation about one time-consuming task.",
+        "answer": "What do staff repeat every day, where is the information, and where do mistakes occur? You do not need to know AI tools or have a complete plan."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "会怎么推进，费用怎么定？",
+        "lead": "先梳理流程，再选一个小场景。",
+        "answer": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。"
+      },
+      "en": {
+        "question": "How do we proceed and estimate cost?",
+        "lead": "Review the workflow, then choose one small use case.",
+        "answer": "The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance."
+      },
+      "projects": []
+    },
+    {
+      "zh-CN": {
+        "question": "一定要开发一套系统吗？",
+        "lead": "用好一个工具，改善一个步骤，也可以开始。",
+        "answer": "可以先一起看看 WorkBuddy 等现成工具是否适合你的日常工作，梳理用法；需要定制时，再讨论答疑、库存核对或内容整理。先试一个场景，再判断是否值得扩展。"
+      },
+      "en": {
+        "question": "Do we need to build a whole system?",
+        "lead": "One useful tool or one better step can be a starting point.",
+        "answer": "We can review whether existing tools such as WorkBuddy fit your daily work and how to use them. If custom work is needed, discuss support, inventory or content workflows. Try one use case before expanding."
+      },
+      "projects": [
+        "P36",
+        "P09",
+        "P12"
+      ]
+    }
+  ],
+  "consultation": {
+    "zh-CN": {
+      "name": "企业 AI 应用咨询",
+      "description": "初次咨询免费。确定问题和判断效果的标准，再讨论实施。工具订阅、开发、培训与维护的范围和费用另行确认。"
+    },
+    "en": {
+      "name": "Business AI consultation",
+      "description": "The initial consultation is free. Define the problem and how to assess results, then discuss implementation. Agree separately on scope and costs for tool subscriptions, development, training and maintenance."
+    }
+  },
+  "services": [
+    {
+      "id": "inventory",
+      "projects": [
+        "P10",
+        "P09"
+      ],
+      "zh-CN": {
+        "name": "录入和库存靠人核对",
+        "serviceType": "库存与录入流程自动化",
+        "description": "录入、入库和盘点反复核对？先梳理操作，看看哪些步骤能用软件减少重复处理。",
+        "links": [
+          "看库存案例",
+          "看扫码案例"
+        ],
+        "lead": "减少重复录入与人工核对。"
+      },
+      "en": {
+        "name": "Repeated entry and stock checks",
+        "serviceType": "Inventory and data-entry workflow automation",
+        "description": "Review entry and stock-checking steps to see where software can reduce repeated handling.",
+        "links": [
+          "Inventory case",
+          "Barcode case"
+        ],
+        "lead": "Reduce repeated entry and manual checks."
+      }
+    },
+    {
+      "id": "knowledge",
+      "projects": [
+        "P36"
+      ],
+      "zh-CN": {
+        "name": "资料难找、问题反复问",
+        "serviceType": "企业知识库与 AI 辅助答疑",
+        "description": "产品资料太散、员工或客户反复问同样的问题？可以先整理资料，再试用 AI 辅助查找和答疑。",
+        "links": [
+          "看答疑案例"
+        ],
+        "lead": "让资料更好找，答疑有依据。"
+      },
+      "en": {
+        "name": "Information lookup and repeated questions",
+        "serviceType": "Business knowledge retrieval and AI-assisted support",
+        "description": "Review scattered product documents and recurring questions, then try AI-assisted lookup and support.",
+        "links": [
+          "Support case"
+        ],
+        "lead": "Make information easier to find and use."
+      }
+    },
+    {
+      "id": "content",
+      "projects": [
+        "P12"
+      ],
+      "zh-CN": {
+        "name": "产品内容总要重做",
+        "serviceType": "AI 辅助产品内容整理",
+        "description": "产品资料、文案和配图每次从头整理？看看哪些准备工作适合 AI 辅助，关键内容由人确认。",
+        "links": [
+          "看内容案例"
+        ],
+        "lead": "让文案和配图不必每次从头做。"
+      },
+      "en": {
+        "name": "Product content takes time",
+        "serviceType": "AI-assisted product content preparation",
+        "description": "Review how product information becomes copy and images, with people reviewing the output.",
+        "links": [
+          "Content case"
+        ],
+        "lead": "Stop starting copy and images from scratch."
+      }
+    }
+  ]
+}

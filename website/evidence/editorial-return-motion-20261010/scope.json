@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-10",
+  "owner": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "request": "关于我/项目索引动效消失；继续本地修复，保留风格、不发布",
+  "root_cause": "isReturning 首屏跳过及 BFCACHE pageshow 未重播",
+  "source_files": [
+    "assets/editorial.js"
+  ],
+  "evidence_root": "/Users/USER/Documents/原点向量/个人网站/website/evidence/editorial-return-motion-20261010",
+  "purpose": "必要备份、差异、动画采样与回归证据，保留"
+}

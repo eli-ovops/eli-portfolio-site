@@ -1,0 +1,24 @@
+{
+  "eliai.cn": {
+    "status": 0,
+    "answer": [
+      {
+        "name": "eliai.cn.",
+        "type": 1,
+        "TTL": 442,
+        "data": "[REDACTED_HOST]"
+      }
+    ]
+  },
+  "www.eliai.cn": {
+    "status": 0,
+    "answer": [
+      {
+        "name": "www.eliai.cn.",
+        "type": 1,
+        "TTL": 442,
+        "data": "[REDACTED_HOST]"
+      }
+    ]
+  }
+}

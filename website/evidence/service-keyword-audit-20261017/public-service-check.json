@@ -1,0 +1,70 @@
+{
+  "sitemap": {
+    "status": 200,
+    "urls": 88,
+    "services": [
+      "https://www.eliai.cn/en/services/ai-agent.html",
+      "https://www.eliai.cn/en/services/fde-consulting.html",
+      "https://www.eliai.cn/en/services/workflow-automation.html",
+      "https://www.eliai.cn/services/ai-agent.html",
+      "https://www.eliai.cn/services/fde-consulting.html",
+      "https://www.eliai.cn/services/workflow-automation.html"
+    ]
+  },
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "canonical": "https://www.eliai.cn/",
+      "robots": "index,follow",
+      "title": "FDE 企业 AI 落地咨询｜AI Agent 与流程自动化 - Eli",
+      "h1": "帮中小企业用好 AI从重复工作开始",
+      "description": "Eli，FDE 前沿部署工程师，帮助中小企业用 AI 提效减负。从选工具、改流程和小范围软件开发开始，提供免费初次沟通。实施服务低至500元起，具体范围与费用按需求确认。",
+      "service_links": [
+        "services/fde-consulting.html?pv=ef627aa38d38fa4ba886",
+        "services/workflow-automation.html?pv=ef627aa38d38fa4ba886",
+        "services/ai-agent.html?pv=ef627aa38d38fa4ba886"
+      ],
+      "x_robots_tag": null
+    },
+    {
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "canonical": "https://www.eliai.cn/services/fde-consulting.html",
+      "robots": "index,follow",
+      "title": "FDE 企业 AI 落地咨询｜从业务问题到小范围实施 - Eli",
+      "h1": "FDE 企业 AI 落地咨询",
+      "description": "面向中小企业的 FDE 提效减负服务：先免费沟通，再选择 AI 工具、改善流程或进行小范围开发。实施服务低至500元起，具体范围与费用在实施前确认。",
+      "service_links": [
+        "../en/services/fde-consulting.html?pv=ef627aa38d38fa4ba886"
+      ],
+      "x_robots_tag": null
+    },
+    {
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "canonical": "https://www.eliai.cn/services/ai-agent.html",
+      "robots": "index,follow",
+      "title": "企业 AI Agent 与知识库应用｜资料检索和辅助答疑 - Eli",
+      "h1": "企业 AI Agent 与知识库应用",
+      "description": "企业想做 AI Agent 或知识库助手？从产品资料检索和重复答疑入手，评估文档质量、引用依据、权限、人工复核及接口条件。查看相关 RAG 客服协作案例，免费初次沟通。",
+      "service_links": [
+        "../en/services/ai-agent.html?pv=ef627aa38d38fa4ba886"
+      ],
+      "x_robots_tag": null
+    },
+    {
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "canonical": "https://www.eliai.cn/services/workflow-automation.html",
+      "robots": "index,follow",
+      "title": "企业提效与流程自动化｜库存核对、录入和内容整理 - Eli",
+      "h1": "企业提效，从一项重复工作开始",
+      "description": "企业降本增效从哪些工作开始？Eli 帮你评估重复录入、库存核对、产品内容整理，比较现成工具、规则自动化与 AI 辅助，先试一个场景，用处理时间和返工情况判断效果。",
+      "service_links": [
+        "../en/services/workflow-automation.html?pv=ef627aa38d38fa4ba886"
+      ],
+      "x_robots_tag": null
+    }
+  ]
+}

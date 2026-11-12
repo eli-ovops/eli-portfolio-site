@@ -1,0 +1,24 @@
+{
+  "user_request": "Canonical bilingual homepage links, preserve anchors/return parameters; local only, no publication or search submissions",
+  "source_backup": [
+    "scripts/build.py",
+    "scripts/page_versions.py",
+    "assets/page-version.js",
+    "scripts/check.py",
+    "scripts/check_home_case_return.cjs",
+    "scripts/check_navigation_version.cjs",
+    "content/page-updates.json",
+    "site.yaml"
+  ],
+  "static_baseline": "before/dist",
+  "allowed_changes": [
+    "home href paths",
+    "navigation compatibility",
+    "matching validators and approved local content-date ledger"
+  ],
+  "forbidden": [
+    "CSS or motion behavior edits",
+    "publication",
+    "search submissions"
+  ]
+}

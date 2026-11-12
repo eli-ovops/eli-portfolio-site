@@ -1,0 +1,10 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261012-143006-seo-geo",
+  "previous": "/srv/eli-sites/portfolio/releases/20261010-223517-portfolio-local-fixes",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-143006-seo-geo",
+  "backup": "/srv/eli-sites/portfolio/backups/20261012-143006-seo-geo",
+  "files_verified": 143,
+  "package_sha256": "46239f282c235d9bc994d4946af21a9bab0905add9aea7f5853314229eaa094f",
+  "indexing": "DISABLED"
+}

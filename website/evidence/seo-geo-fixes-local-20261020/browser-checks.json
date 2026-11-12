@@ -1,0 +1,104 @@
+[
+  {
+    "check": "English mobile article",
+    "lang": "en",
+    "person": "Hi, I'm Eli, an independent developer from China. I help small and medium-sized businesses and studios reduce repetitive, time-consuming work, such as data entry and inventory checks, finding information, answering customer questions and organizing content. I first look at whether existing tools can help, and develop software when needed.",
+    "scrollWidth": 375,
+    "serviceLinks": [
+      {
+        "href": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=0670cd51cec094148791",
+        "text": "See inventory and workflow services ↗"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/en/articles/workbuddy-spreadsheet.html?pv=0670cd51cec094148791",
+    "width": 390
+  },
+  {
+    "check": "English service after article action",
+    "lang": "en",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=0670cd51cec094148791",
+    "width": 390
+  },
+  {
+    "back": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=0670cd51cec094148791#service-proof",
+    "check": "English case preserves service origin",
+    "url": "http://127.0.0.1:4178/en/cases/p09.html?pv=0670cd51cec094148791&from=%2Fen%2Fservices%2Fworkflow-automation.html%3Fpv%3D0670cd51cec094148791%23service-proof"
+  },
+  {
+    "check": "English case return",
+    "lang": "en",
+    "url": "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=0670cd51cec094148791#service-proof"
+  },
+  {
+    "check": "English consultation reached",
+    "contact": true,
+    "lang": "en",
+    "scrollWidth": 375,
+    "url": "http://127.0.0.1:4178/en/about.html?pv=0670cd51cec094148791#contact",
+    "width": 390
+  },
+  {
+    "check": "English contact to Chinese",
+    "lang": "zh-CN",
+    "url": "http://127.0.0.1:4178/about.html?pv=0670cd51cec094148791#contact"
+  },
+  {
+    "check": "Chinese mobile OCR article",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/articles/ai-ocr-check.html?pv=0670cd51cec094148791",
+    "width": 360
+  },
+  {
+    "check": "Chinese article service action",
+    "lang": "zh-CN",
+    "url": "http://127.0.0.1:4178/services/workflow-automation.html?pv=0670cd51cec094148791"
+  },
+  {
+    "check": "Chinese mobile consultation reached",
+    "contact": true,
+    "lang": "zh-CN",
+    "scrollWidth": 345,
+    "url": "http://127.0.0.1:4178/about.html?pv=0670cd51cec094148791#contact",
+    "width": 360
+  },
+  {
+    "check": "OCR language ZH to EN",
+    "lang": "en",
+    "serviceLinks": [
+      "http://127.0.0.1:4178/en/services/workflow-automation.html?pv=0670cd51cec094148791"
+    ],
+    "url": "http://127.0.0.1:4178/en/articles/ai-ocr-check.html?pv=0670cd51cec094148791"
+  },
+  {
+    "check": "OCR language EN to ZH",
+    "lang": "zh-CN",
+    "url": "http://127.0.0.1:4178/articles/ai-ocr-check.html?pv=0670cd51cec094148791"
+  },
+  {
+    "check": "Fixed English source link",
+    "lang": "en",
+    "scrollWidth": 375,
+    "sourceLinks": [
+      {
+        "href": "https://www.eliai.cn/en/services/fde-consulting.html",
+        "text": "Our service scope and consultation"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/en/articles/ai-consultation-prepare.html?pv=0670cd51cec094148791#sources",
+    "width": 390
+  },
+  {
+    "check": "Fixed English source link",
+    "lang": "en",
+    "scrollWidth": 375,
+    "sourceLinks": [
+      {
+        "href": "https://www.eliai.cn/en/services/fde-consulting.html",
+        "text": "Our service scope and consultation"
+      }
+    ],
+    "url": "http://127.0.0.1:4178/en/articles/what-is-fde-business.html?pv=0670cd51cec094148791#sources",
+    "width": 390
+  }
+]

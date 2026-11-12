@@ -1,0 +1,100 @@
+{
+  "checked_at": "2026-10-19T06:15:55.406476+00:00",
+  "samples": [
+    {
+      "url": "https://www.eliai.cn/",
+      "final_url": "https://www.eliai.cn/",
+      "status": 200,
+      "bytes": 77797,
+      "sha256": "648026731962fe1a7d3c34f87543ce80b0daeb5cd7d99291f02d8aa07f3cc4e6",
+      "matches_local_dist": true,
+      "content_type": "text/html",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/articles.html",
+      "final_url": "https://www.eliai.cn/articles.html",
+      "status": 200,
+      "bytes": 399095,
+      "sha256": "c76c3336d83b91a81a2ceab3f11cf721bad8a7de00432a554f27370f9d1900a4",
+      "matches_local_dist": true,
+      "content_type": "text/html",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-agent.html",
+      "final_url": "https://www.eliai.cn/articles/what-is-agent.html",
+      "status": 200,
+      "bytes": 44460,
+      "sha256": "9d9d4621ccf281f9bd20495022900a8110f522507cb69aa66f079497b4203364",
+      "matches_local_dist": true,
+      "content_type": "text/html",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "final_url": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "status": 200,
+      "bytes": 44530,
+      "sha256": "4f539486beb1de9dfdf4e3520200e3a53545acc11fae85e750e51486a5a4749c",
+      "matches_local_dist": true,
+      "content_type": "text/html",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "final_url": "https://www.eliai.cn/services/fde-consulting.html",
+      "status": 200,
+      "bytes": 37905,
+      "sha256": "133ccde29375f64192044beb94949618fd74b54e847544deb23892882e97af90",
+      "matches_local_dist": true,
+      "content_type": "text/html",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "final_url": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "status": 200,
+      "bytes": 38088,
+      "sha256": "e2a08cf4407b0665cdffdd19085b880e578dfb931b4ccb180760be9a4eeee313",
+      "matches_local_dist": true,
+      "content_type": "text/html",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/robots.txt",
+      "final_url": "https://www.eliai.cn/robots.txt",
+      "status": 200,
+      "bytes": 65,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "matches_local_dist": true,
+      "content_type": "text/plain",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/sitemap.xml",
+      "final_url": "https://www.eliai.cn/sitemap.xml",
+      "status": 200,
+      "bytes": 29449,
+      "sha256": "620f51df209170010b18d1974457880bc2414e0ffd44bfdaeb80c39e6bb7ee5a",
+      "matches_local_dist": true,
+      "content_type": "text/xml",
+      "x_robots_tag": null
+    },
+    {
+      "url": "https://www.eliai.cn/llms.txt",
+      "final_url": "https://www.eliai.cn/llms.txt",
+      "status": 200,
+      "bytes": 5797,
+      "sha256": "2f30cc175ab07f7639a7cf4856c6c1e3e10cde44ce49dc20224dd6163175b67f",
+      "matches_local_dist": true,
+      "content_type": "text/plain",
+      "x_robots_tag": null
+    }
+  ],
+  "dist_file_count": 379,
+  "all_dist_files_unchanged": true,
+  "search_submissions": 0,
+  "deployments": 0,
+  "emails_sent": 0
+}

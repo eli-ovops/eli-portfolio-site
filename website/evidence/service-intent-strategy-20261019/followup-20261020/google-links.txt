@@ -1,0 +1,79 @@
+Browser tab: 1, Title: "链接数量", URL: "https://search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F".
+0 AXWebArea 链接数量, URL: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+	1 container
+		2 container yDmH0d
+			3 container gb
+				4 container
+					5 button (collapsed) Description: 主菜单, Secondary Actions: Expand
+						6 image
+					7 link Description: Google Search Console, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F, ID: sdgBod
+					8 container
+						9 combo box (collapsed, settable) Description: 检查 https://www.eliai.cn/ 中的任何网址, Secondary Actions: Expand
+					10 button 搜索
+						11 image
+					12 button 帮助
+					13 button 用户设置
+					14 container
+						15 button 未读消息：2 条
+						54 text 2
+					17 button (collapsed) Description: Google 应用, Secondary Actions: Expand
+					18 button (collapsed) Description: Google 账号： Eli Chao ([REDACTED_EMAIL]), Secondary Actions: Expand
+			19 container navigational drawer
+				20 container
+					21 container 主要
+						22 pop up button (collapsed) Description: 搜索资源, Secondary Actions: Expand
+							23 image 网站图标
+							24 combo box (collapsed, settable) Description: https://www.eliai.cn/, Secondary Actions: Expand
+						25 container
+							26 link Description: 概述, Value: search.google.com/search-console?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							27 link Description: 数据洞见, Value: search.google.com/search-console/performance/insights?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							28 link Description: 效果, Value: search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							29 button 网址检查
+								30 text 网址检查
+							31 container
+								32 text 编制索引
+								33 button (expanded) Description: “编制索引”报告部分, Secondary Actions: Collapse
+								34 link Description: 网页, Value: search.google.com/search-console/index?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								35 link Description: 站点地图, Value: search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								36 link Description: 移除, Value: search.google.com/search-console/removals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							37 container
+								38 text 体验
+								39 button (expanded) Description: “体验”报告部分, Secondary Actions: Collapse
+								40 link Description: 核心网页指标, Value: search.google.com/search-console/core-web-vitals?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+								41 link Description: HTTPS, Value: search.google.com/search-console/https?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							42 container
+								43 text 安全问题和人工处置措施
+								44 button (collapsed) Description: “安全问题和人工处置措施”报告部分, Secondary Actions: Expand
+							45 link Description: “链接”报告, Value: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							46 link Description: 成就, Value: search.google.com/search-console/achievements?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							47 link Description: 设置, Value: search.google.com/search-console/settings?resource_id=https%3A%2F%2Fwww.eliai.cn%2F
+							48 button 提交反馈
+								49 text 提交反馈
+							50 button Search Console 简介
+								51 text Search Console 简介
+							52 link Description: 隐私权, Value: myaccount.google.com/privacypolicy?hl=zh-CN
+							53 link Description: 条款, Value: myaccount.google.com/termsofservice?hl=zh-CN
+			55 container
+				56 container 路径
+					57 heading 链接数量, Value: 1
+						58 text 链接数量
+				59 pop up button (collapsed) Description: 导出外部链接, Secondary Actions: Expand
+				60 container
+					61 text 外部链接 共 0 个
+					62 button (collapsed) Description: null, Secondary Actions: Expand
+					63 text 最常链接到的网页
+					64 button (collapsed) Description: null, Secondary Actions: Expand
+					65 text 无数据
+					66 text 最常见的引荐网站
+					67 button (collapsed) Description: null, Secondary Actions: Expand
+					68 text 无数据
+					69 text 最常见的引荐文字
+					70 button (collapsed) Description: null, Secondary Actions: Expand
+					71 text 无数据
+					72 text 内部链接 共 0 个
+					73 button (collapsed) Description: null, Secondary Actions: Expand
+					74 text 最常链接到的网页
+					75 button (collapsed) Description: null, Secondary Actions: Expand
+					76 text 无数据
+
+The focused UI element is 45 link Description: “链接”报告, URL: search.google.com/search-console/links?resource_id=https%3A%2F%2Fwww.eliai.cn%2F

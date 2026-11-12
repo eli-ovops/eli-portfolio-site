@@ -1,0 +1,12 @@
+{
+  "id": "seo",
+  "kind": "heartbeat",
+  "name": "服务页收录与服务词表现跟进",
+  "status": "ACTIVE",
+  "rrule": "FREQ=DAILY;BYHOUR=10;BYMINUTE=0;BYSECOND=0",
+  "target_thread_id": "01a123a8-16ae-76f0-85c9-8e017dd95758",
+  "verified_configuration": true,
+  "scope": "Three-service-page indexing and non-brand service-query impressions/clicks; preserve visuals/motion, no repeated submissions; unchanged states stay quiet",
+  "timezone": "Asia/Shanghai",
+  "execution_claim": "Configuration verified; future runs not yet observed"
+}

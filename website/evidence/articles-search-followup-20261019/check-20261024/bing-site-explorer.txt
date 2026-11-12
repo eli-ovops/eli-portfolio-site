@@ -1,0 +1,176 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#content"
+  - button "Show Bing tools":
+    - generic: 
+  - img "white bwt logo microsoft bing webmaster"
+  - button "Copilot":
+  - button "Notifications":
+    - generic: 
+  - button "Help":
+    - generic: 
+  - button "Feedback":
+    - generic: 
+  - button "Settings":
+    - generic: 
+  - button "Profile":
+- button "Select website":
+  - generic: 
+  - generic: www.eliai.cn/
+  - generic: 
+- navigation "Main menu":
+  - tree:
+    - treeitem "Home":
+      - generic: 
+      - text: Home
+    - treeitem "Search Performance":
+      - generic: 
+      - text: Search Performance
+    - treeitem "AI Performance BETA":
+      - generic: 
+      - text: AI Performance
+      - generic: BETA
+    - treeitem "URL Inspection":
+      - generic: 
+      - text: URL Inspection
+    - treeitem "Site Explorer" [active]:
+      - generic: 
+      - text: Site Explorer
+    - treeitem "Sitemaps":
+      - generic: 
+      - text: Sitemaps
+    - treeitem "IndexNow":
+      - text: IndexNow
+    - treeitem "URL Submission":
+      - generic: 
+      - text: URL Submission
+    - treeitem "Backlinks":
+      - generic: 
+      - text: Backlinks
+    - treeitem "Keyword Research":
+      - generic: 
+      - text: Keyword Research
+    - treeitem "Recommendations":
+      - generic: 
+      - text: Recommendations
+    - treeitem "Site Scan":
+      - generic: 
+      - text: Site Scan
+    - treeitem "Configuration":
+      - text: Configuration
+      - generic: 
+    - treeitem "Tools & Enhancements":
+      - text: Tools & Enhancements
+      - generic: 
+    - treeitem "Security & Privacy":
+      - text: Security & Privacy
+      - generic: 
+    - treeitem "User management":
+      - generic: 
+      - text: User management
+    - treeitem "Microsoft Clarity":
+      - generic: 
+      - text: Microsoft Clarity
+- main:
+  - heading "Site Explorer" [level=2]
+  - combobox:
+    - generic: Indexed URLs
+    - generic: 
+  - button "Download":
+    - generic: Download
+    - generic: 
+  - heading "Explorer" [level=3]
+  - generic: Clicks
+  - button "Clicks":
+    - generic: 
+  - tree:
+    - row "eliai.cn" [level=1] [selected]:
+      - gridcell
+      - gridcell "eliai.cn":
+        - generic: 
+        - generic: eliai.cn
+  - button "Hide Explorer":
+    - generic: 
+  - navigation:
+    - list:
+      - heading "eliai.cn" [level=4]
+  - heading "Crawl information" [level=4]
+  - group "Bar chart showing Crawl information. Indexed:1, Error:0, Warning:0, Excluded:0":
+    - img "Bar chart showing Crawl information. Indexed:1, Error:0, Warning:0, Excluded:0":
+      - img "Bar chart showing Crawl information. Indexed:1, Error:0, Warning:0, Excluded:0"
+    - generic: Bar chart showing Crawl information. Indexed:1, Error:0, Warning:0, Excluded:0
+  - heading "Folder information" [level=4]
+  - generic: 
+  - text: Last 6 months
+  - list:
+    - generic: URLs
+    - generic: "1"
+    - generic: Clicks
+    - generic: "-"
+    - generic: Impressions
+    - generic: "-"
+    - generic: Backlinks
+    - generic: "-"
+  - grid "URL list":
+    - row "URL, sortable Clicks, sortable, sorted descending order Impressions, sortable Last crawled HTTP code":
+      - columnheader "URL, sortable":
+        - button "URL, sortable":
+          - generic: URL
+      - columnheader "Clicks, sortable, sorted descending order":
+        - button "Clicks, sortable, sorted descending order":
+          - generic: Clicks
+          - generic: 
+      - columnheader "Impressions, sortable":
+        - button "Impressions, sortable":
+          - generic: Impressions
+      - columnheader "Last crawled":
+        - generic: Last crawled
+      - columnheader "HTTP code":
+        - generic: HTTP code
+    - row "/(root) - - 15 Oct 2026 200" [selected]:
+      - rowheader "/(root)":
+        - generic: 
+        - generic: /(root)
+      - rowheader "-"
+      - rowheader "-"
+      - rowheader "15 Oct 2026"
+      - rowheader "200"
+  - generic: 
+  - heading / [level=4]:
+    - link /:
+      - /url: https://eliai.cn
+  - generic: 
+  - text: Indexed
+  - list:
+    - generic: Impressions
+    - generic: ":"
+    - generic: "-"
+    - generic: Clicks
+    - generic: ":"
+    - generic: "-"
+    - generic: Last crawled
+    - generic: ":"
+    - generic: 15 Oct 2026
+    - generic: Discovered
+    - generic: ":"
+    - generic: 15 Oct 2026
+    - generic: HTTP code
+    - generic: ":"
+    - generic: "200"
+    - generic: Document size
+    - generic: ":"
+    - generic: 47.1KB
+    - generic: Backlinks
+    - generic: ":"
+    - generic: "-"
+    - generic: Is Https
+    - generic: ":"
+    - generic: "true"
+  - button "Inspect URL":
+    - generic: Inspect URL
+  - button "Block URL":
+    - generic: Block URL
+  - button "Request indexing":
+    - generic: Request indexing
+  - button "Test URL in Robots.txt":
+    - generic: Test URL in Robots.txt

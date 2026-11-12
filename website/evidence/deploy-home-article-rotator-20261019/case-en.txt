@@ -1,0 +1,97 @@
+Browser tab: 41, Title: "AI Customer Support & Knowledge Retrieval | Eli Case Study", URL: "https://www.eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records".
+1 AXWebArea AI Customer Support & Knowledge Retrieval | Eli Case Study, URL: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records
+	2 link Description: Skip to content, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#main
+	3 container
+		4 link Description: Eli home, Value: eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c
+		5 container Main navigation
+			6 link Description: Home, Value: eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c
+			7 link Description: Projects, Value: eliai.cn/en/records.html?pv=db2a07f4b91429cb3f5c
+			8 link Description: Articles, Value: eliai.cn/en/articles.html?pv=db2a07f4b91429cb3f5c
+			9 link Description: About, Value: eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c
+			10 link Description: Switch to Chinese, Value: eliai.cn/cases/p36.html?pv=db2a07f4b91429cb3f5c
+	11 container main
+		12 link Description: ← Back to article, Value: eliai.cn/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c#case-records
+		13 text Client work
+		14 heading UK water purification brand · RAG support, Value: 1
+			15 text UK water purification brand · RAG support
+		16 text Team customization and delivery
+		17 text Provide question input, quick support and contact entry points for product and brand knowledge on an independent website.
+		18 container
+			19 link Description: Enlarge screenshot: UK water purification brand · RAG support, Value: eliai.cn/assets/public-cases/p36.png
+			20 link Description: View image ↗, Value: eliai.cn/assets/public-cases/p36.png
+		21 definition list
+			22 container
+				23 container My work
+					24 text My work
+				25 text Knowledge base, retrieval configuration and testing 01
+			26 container
+				27 container Interface record
+					28 text Interface record
+				29 text Initial support interface and entry points 02
+		30 container
+			31 heading Overview, Value: 2
+				32 text Overview
+			33 container Case sections
+				34 link Description: Context, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#why
+				35 link Description: My role, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#role
+				36 link Description: Work delivered, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#outputs
+				37 link Description: Approach, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#process
+				38 link Description: Delivery & feedback, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#result
+				39 link Description: Available evidence and gaps, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#evidence
+		40 container why
+			41 heading Context, Value: 2
+				42 text Context
+			43 text Website visitors needed answers about water filtration products and brand information.
+		44 container role
+			45 heading My role, Value: 2
+				46 text My role
+			47 text I handled knowledge-base organization, retrieval configuration and testing. The team handled version backups, deployment and upgrade rollback preparation.
+		48 container outputs
+			49 heading Work delivered, Value: 2
+				50 text Work delivered
+			51 text The support interface provides a welcome message, quick options, question input and contact routes.
+		52 container process
+			53 heading Approach, Value: 2
+				54 text Approach
+			55 text The team customized an existing foundation, progressing from enquiry scope, knowledge-base organization and retrieval configuration to demos, client confirmation and live testing.
+		56 container result
+			57 heading Delivery & feedback, Value: 2
+				58 text Delivery & feedback
+			59 text According to my project account, delivery took about two months. No answer-accuracy or support-efficiency metrics were provided.
+		60 container evidence
+			61 heading Available evidence and gaps, Value: 2
+				62 text Available evidence and gaps
+			63 text Available material includes the owner’s project account and the initial support interface, showing the welcome message, quick support, question input and contact entry. Answer quality and retrieval performance require corresponding answer and retrieval records.
+		64 link Description: Enterprise client projects ↗, Value: eliai.cn/en/cases/p01.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records
+		65 link Description: UK water purification brand marketing ↗, Value: eliai.cn/en/cases/p05.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records
+		66 container Talk about your business
+			67 heading Talk about your business, Value: 2, ID: case-contact-title
+				68 text Talk about your business
+			69 text You do not need a complete solution. Share one time-consuming task and we can discuss where AI or software could help.
+			70 link Description: Let’s talk, Value: eliai.cn/en/about.html?pv=db2a07f4b91429cb3f5c#contact, ID: eli-consult-entry-1
+		71 link Description: More projects, Value: eliai.cn/en/records.html?pv=db2a07f4b91429cb3f5c
+	72 container
+		73 link Description: Eli FDE / SELECTED WORK, Value: eliai.cn/en/index.html?pv=db2a07f4b91429cb3f5c
+		74 container Contact details
+			75 text Email
+			76 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			77 text Phone
+			78 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		79 container Page navigation
+			80 link Description: Projects ↗, Value: eliai.cn/en/records.html?pv=db2a07f4b91429cb3f5c
+			81 link Description: Back to top ↑, Value: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records#main
+		82 container Social profiles
+			83 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			84 link Description: Bilibili, Value: space.bilibili.com/432834855
+			85 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			86 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			87 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			88 link Description: X, Value: x.com/cczij1112
+			89 link Description: Weibo, Value: weibo.com/u/7720929036
+			90 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			91 link Description: Instagram, Value: instagram.com/eliaifde/
+			92 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		93 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+		94 button Analytics & privacy
+
+The focused UI element is 1 AXWebArea AI Customer Support & Knowledge Retrieval | Eli Case Study, URL: eliai.cn/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records

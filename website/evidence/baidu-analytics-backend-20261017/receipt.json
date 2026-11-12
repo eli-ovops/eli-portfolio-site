@@ -1,0 +1,36 @@
+{
+  "observed_at": "2026-10-17T13:51:08.905211+08:00",
+  "status": "BACKEND_PV_SOURCE_CONSULTATION_WECHAT_VERIFIED",
+  "report_period": "2026-10-11 to2026-10-17",
+  "site": "https://www.eliai.cn/",
+  "website_revision": "ef627aa38d38fa4ba886",
+  "actual_native_backend": {
+    "pv": 12,
+    "uv": 2,
+    "visits": 3,
+    "source": "Direct access12PV/100%; search and social classifications not established",
+    "consultation_primary_clicks": 2,
+    "wechat_qr_clicks": 1,
+    "event_conversion_total": 3
+  },
+  "root_cause_of_previous_blank_report": "UNKNOWN; counts now populated on later read, timing delay plausible but not proven",
+  "action": "Read existing logged-in provider reports and saved actual screenshots; no new synthetic collection",
+  "website_code_changed": false,
+  "website_visual_or_motion_changed": false,
+  "deployed": false,
+  "goals_or_consent_settings_changed": false,
+  "limits": [
+    "Includes own QA visits; not customer enquiry counts",
+    "No proved service-keyword search traffic or AI citation",
+    "Consent-denied visits are not tracked; no change to consent",
+    "Source attribution can be incomplete; native report displays upstream-referrer limitation"
+  ],
+  "evidence": [
+    "overview.txt",
+    "overview.png",
+    "sources.txt",
+    "sources.png",
+    "conversions.txt",
+    "conversions.png"
+  ]
+}

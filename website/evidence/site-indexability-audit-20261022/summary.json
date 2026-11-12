@@ -1,0 +1,3602 @@
+{
+  "checked_at": "2026-10-22T10:59:37.451163+00:00",
+  "count": 294,
+  "articles": 204,
+  "services": 6,
+  "statuses": {
+    "200": 294
+  },
+  "issues": [],
+  "links_not_in_sitemap": [
+    {
+      "from": "https://www.eliai.cn/about.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/about.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/about.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/acceptance-tests.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/acceptance-tests.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/acceptance-tests.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-feedback-loop.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-first-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-first-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-first-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-memory.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-memory.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-memory.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-plan-and-act.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-risk-checklist.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-stop-rules.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-stop-rules.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-stop-rules.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-tools-permissions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/agent-workflow-difference.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-chat-vs-search.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-checkpoints.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-checkpoints.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-checkpoints.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-coding-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-coding-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-coding-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-compare-options.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-compare-options.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-compare-options.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-consultation-prepare.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-cost-breakdown.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-debugging.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-debugging.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-debugging.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-email-draft.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-email-draft.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-email-draft.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-employee-training.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-employee-training.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-employee-training.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-file-reading.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-file-reading.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-file-reading.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-generated-images.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-generated-images.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-generated-images.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-hallucination.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-hallucination.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-hallucination.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-inventory-exceptions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-jargon-map.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-jargon-map.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-jargon-map.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-knowledge-base-start.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-learning-plan.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-learning-plan.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-learning-plan.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-maintenance-owner.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-meeting-actions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-ocr-check.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-ocr-check.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-ocr-check.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-pilot-design.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-pilot-design.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-pilot-design.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-privacy-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-product-copy.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-product-copy.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-product-copy.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-sop-writing.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-sop-writing.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-sop-writing.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-spreadsheet-cleaning.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-task-selection.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-task-selection.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-task-selection.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-translation-review.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-translation-review.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-translation-review.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-weekly-report.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-weekly-report.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ai-weekly-report.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/ask-clarifying-questions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/branch-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/branch-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/branch-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/break-down-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/break-down-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/break-down-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/choose-ai-provider.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/choose-ai-provider.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/choose-ai-provider.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/choose-ai-tool.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/choose-ai-tool.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/choose-ai-tool.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/coding-without-secrets.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/coding-without-secrets.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/coding-without-secrets.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/commit-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/commit-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/commit-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/context-window.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/context-window.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/context-window.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/create-first-skill.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/create-first-skill.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/create-first-skill.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/dependency-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/dependency-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/dependency-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/download-release-or-source.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/download-release-or-source.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/download-release-or-source.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/embeddings-explained.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/embeddings-explained.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/embeddings-explained.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/fine-tuning-or-rag.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/first-ai-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/first-ai-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/first-ai-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/fix-bad-ai-answer.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/github-public-private.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/github-public-private.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/github-public-private.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/how-llm-generates.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/how-llm-generates.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/how-llm-generates.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/issue-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/issue-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/issue-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/mcp-read-only.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/mcp-read-only.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/mcp-read-only.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/mcp-vs-api.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/mcp-vs-api.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/mcp-vs-api.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/measure-ai-benefit.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/model-size-and-cost.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/model-size-and-cost.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/model-size-and-cost.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/multi-agent-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/multi-agent-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/multi-agent-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/neural-network-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/neural-network-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/neural-network-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/open-source-license.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/open-source-license.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/open-source-license.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/owner-ai-first-step.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-injection-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-with-example.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-with-example.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/prompt-with-example.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/provide-context.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/provide-context.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/provide-context.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/pull-request-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/pull-request-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/pull-request-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/rag-explained.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/rag-explained.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/rag-explained.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/read-ai-code-plan.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/readme-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/readme-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/readme-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/repository-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/repository-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/repository-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/rewrite-with-ai.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/save-prompt-template.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/save-prompt-template.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/save-prompt-template.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-file-structure.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-file-structure.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-file-structure.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-install-safely.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-install-safely.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-install-safely.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-not-working.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-not-working.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-not-working.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/skill-vs-prompt.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/structured-ai-output.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/structured-ai-output.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/structured-ai-output.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/terminal-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/terminal-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/terminal-basics.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/training-vs-inference.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/training-vs-inference.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/training-vs-inference.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-agent.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-agent.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-agent.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-ai.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-ai.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-ai.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-fde-business.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-fde-business.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-fde-business.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-github.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-github.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-github.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-harness.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-harness.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-harness.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-llm.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-llm.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-llm.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-local-preview.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-local-preview.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-local-preview.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-mcp.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-mcp.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-mcp.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-skill.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-skill.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-skill.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-token.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-token.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-token.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/what-is-workbuddy.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-connectors.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-file-organizing.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-first-task.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-meeting-notes.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-permissions.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-skills.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-skills.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-skills.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-spreadsheet.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-task-failed.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/articles/workbuddy-write-document.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/n01.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/n01.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/n01.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/n02.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/n02.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/n02.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p01.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p01.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p01.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p02.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p02.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p02.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p03.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p03.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p03.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p04.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p04.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p04.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p05.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p05.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p05.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p06.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p06.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p06.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p07.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p07.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p07.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p08.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p08.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p08.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p09.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p09.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p09.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p10.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p10.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p10.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p11.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p11.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p11.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p12.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p12.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p12.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p13.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p13.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p13.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p14.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p14.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p14.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p15.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p15.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p15.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p16.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p16.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p16.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p17.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p17.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p17.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p18.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p18.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p18.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p19.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p19.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p19.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p20.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p20.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p20.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p21.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p21.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p21.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p22.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p22.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p22.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p23.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p23.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p23.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p24.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p24.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p24.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p25.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p25.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p25.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p26.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p26.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p26.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p27.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p27.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p27.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p28.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p28.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p28.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p29.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p29.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p29.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p30.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p30.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p30.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p31.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p31.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p31.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p32.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p32.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p32.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p33.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p33.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p33.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p34.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p34.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p34.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p35.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p35.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p35.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p36.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p36.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/cases/p36.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/about.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/about.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/about.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/acceptance-tests.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-feedback-loop.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-first-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-memory.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-memory.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-memory.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-plan-and-act.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-risk-checklist.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-stop-rules.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-tools-permissions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/agent-workflow-difference.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-chat-vs-search.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-checkpoints.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-coding-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-compare-options.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-consultation-prepare.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-cost-breakdown.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-debugging.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-debugging.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-debugging.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-email-draft.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-employee-training.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-file-reading.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-generated-images.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-hallucination.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-inventory-exceptions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-jargon-map.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-knowledge-base-start.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-learning-plan.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-maintenance-owner.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-meeting-actions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-ocr-check.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-pilot-design.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-privacy-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-product-copy.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-sop-writing.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-spreadsheet-cleaning.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-task-selection.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-translation-review.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ai-weekly-report.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/ask-clarifying-questions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/branch-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/branch-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/branch-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/break-down-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/break-down-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/break-down-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/choose-ai-provider.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/choose-ai-tool.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/coding-without-secrets.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/commit-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/commit-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/commit-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/context-window.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/context-window.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/context-window.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/create-first-skill.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/create-first-skill.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/create-first-skill.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/dependency-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/dependency-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/dependency-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/download-release-or-source.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/embeddings-explained.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/enterprise-knowledge-base.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/fine-tuning-or-rag.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/first-ai-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/first-ai-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/first-ai-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/fix-bad-ai-answer.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/github-public-private.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/github-public-private.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/github-public-private.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/how-llm-generates.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/inventory-reconciliation.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/issue-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/issue-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/issue-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/mcp-read-only.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/mcp-vs-api.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/measure-ai-benefit.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/model-size-and-cost.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/multi-agent-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/neural-network-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/open-source-license.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/open-source-license.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/open-source-license.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/owner-ai-first-step.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-injection-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/prompt-with-example.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/provide-context.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/provide-context.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/provide-context.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/pull-request-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/rag-explained.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/rag-explained.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/rag-explained.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/read-ai-code-plan.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/readme-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/readme-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/readme-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/repository-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/repository-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/repository-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/rewrite-with-ai.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/save-prompt-template.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-file-structure.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-install-safely.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-not-working.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-not-working.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-not-working.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/skill-vs-prompt.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/structured-ai-output.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/terminal-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/terminal-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/terminal-basics.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/training-vs-inference.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-agent.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-ai.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-ai.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-ai.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-fde-business.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-github.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-github.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-github.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-harness.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-harness.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-harness.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-llm.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-llm.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-llm.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-local-preview.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-mcp.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-skill.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-skill.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-skill.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-token.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-token.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-token.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/what-is-workbuddy.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-connectors.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-file-organizing.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-first-task.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-meeting-notes.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-permissions.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-skills.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-spreadsheet.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-task-failed.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/articles/workbuddy-write-document.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/n01.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/n01.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/n01.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/n02.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/n02.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/n02.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p01.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p01.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p01.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p02.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p02.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p02.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p03.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p03.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p03.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p04.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p04.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p04.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p05.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p05.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p05.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p06.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p06.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p06.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p07.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p07.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p07.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p08.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p08.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p08.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p09.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p09.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p09.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p10.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p10.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p10.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p11.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p11.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p11.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p12.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p12.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p12.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p13.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p13.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p13.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p14.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p14.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p14.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p15.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p15.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p15.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p16.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p16.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p16.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p17.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p17.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p17.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p18.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p18.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p18.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p19.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p19.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p19.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p20.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p20.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p20.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p21.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p21.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p21.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p22.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p22.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p22.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p23.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p23.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p23.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p24.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p24.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p24.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p25.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p25.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p25.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p26.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p26.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p26.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p27.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p27.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p27.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p28.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p28.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p28.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p29.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p29.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p29.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p30.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p30.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p30.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p31.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p31.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p31.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p32.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p32.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p32.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p33.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p33.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p33.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p34.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p34.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p34.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p35.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p35.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p35.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p36.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p36.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/cases/p36.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/records.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/records.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/records.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/ai-agent.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/ai-agent.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/ai-agent.html",
+      "to": "https://www.eliai.cn/en/index.html#needs"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/ai-agent.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/en/index.html#needs"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/en/index.html#needs"
+    },
+    {
+      "from": "https://www.eliai.cn/en/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/",
+      "to": "https://www.eliai.cn/en/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/records.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/records.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/records.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/ai-agent.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/ai-agent.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/ai-agent.html",
+      "to": "https://www.eliai.cn/index.html#needs"
+    },
+    {
+      "from": "https://www.eliai.cn/services/ai-agent.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/index.html#needs"
+    },
+    {
+      "from": "https://www.eliai.cn/services/fde-consulting.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/index.html"
+    },
+    {
+      "from": "https://www.eliai.cn/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/index.html#needs"
+    },
+    {
+      "from": "https://www.eliai.cn/services/workflow-automation.html",
+      "to": "https://www.eliai.cn/index.html"
+    }
+  ],
+  "missing_fragment_targets": [],
+  "parameter_links": [
+    {
+      "from": "https://www.eliai.cn/en/records.html",
+      "to": "https://www.eliai.cn/en/records.html?q=inventory"
+    },
+    {
+      "from": "https://www.eliai.cn/en/records.html",
+      "to": "https://www.eliai.cn/en/records.html?q=website"
+    },
+    {
+      "from": "https://www.eliai.cn/records.html",
+      "to": "https://www.eliai.cn/records.html?q=%E5%BA%93%E5%AD%98"
+    },
+    {
+      "from": "https://www.eliai.cn/records.html",
+      "to": "https://www.eliai.cn/records.html?q=%E7%BD%91%E7%AB%99"
+    }
+  ],
+  "raw_html_unreachable_articles": [],
+  "article_depths": {
+    "2": 102,
+    "1": 8,
+    "3": 94
+  },
+  "zero_inbound_articles": [],
+  "focus_html_sizes": {
+    "min": 37845,
+    "max": 61494
+  }
+}

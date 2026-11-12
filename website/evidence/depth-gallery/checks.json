@@ -1,0 +1,34 @@
+{
+  "variant": "A depth advance",
+  "scope": "4178 representative projects only",
+  "library": "GSAP 3.15.0 ScrollTrigger",
+  "count": 7,
+  "order": [
+    "P05",
+    "P02",
+    "P10",
+    "P36",
+    "P09",
+    "P12",
+    "P04"
+  ],
+  "checks": {
+    "build": "PASS",
+    "privacy": "PASS",
+    "normal_scroll_and_button": "case1 to case2 observed",
+    "keyboard": "ArrowRight case2 observed",
+    "inline_details": "PASS",
+    "filters": "systems3 / websites1 / all7",
+    "one_case": "next disabled",
+    "inactive_caption_opacity": "all 0",
+    "reduced": "pin removed; inert removed; all7 accessible",
+    "mobile": "client360 scroll360, scene778 viewport812",
+    "last_case": "07/07 OA reached by keyboard End",
+    "footer_exit": "footer enters viewport after last case",
+    "plugin_load_failure": "ordinary list with7cases",
+    "JS_runtime_errors": "none uncaught",
+    "colors": "original styles.css prefix unchanged, bg17/18/20"
+  },
+  "production": "not deployed",
+  "backup": "before/"
+}

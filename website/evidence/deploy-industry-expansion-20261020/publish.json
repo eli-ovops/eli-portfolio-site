@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "4bc544a5361e14236d53",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261020-industry-expansion-4bc544a5",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261020-seo-geo-87919417",
+  "public_hashes_checked": 21,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

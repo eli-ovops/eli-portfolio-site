@@ -1,0 +1,275 @@
+{
+  "behavior": "auto",
+  "count": "0 项记录",
+  "q": "zzzz",
+  "trace": [
+    {
+      "at": 79,
+      "count": "2 项记录",
+      "focus": "BODY",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 320,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 79,
+      "count": "2 项记录",
+      "focus": "BODY",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 320,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 85,
+      "count": "2 项记录",
+      "focus": "BODY",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 351,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 85,
+      "count": "2 项记录",
+      "focus": "BODY",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 351,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 109,
+      "cls": "",
+      "count": "2 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 93,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "focusin"
+    },
+    {
+      "at": 110,
+      "cls": "",
+      "count": "2 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 2,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 93,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "focusin"
+    },
+    {
+      "at": 112,
+      "cls": "",
+      "count": "2 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 0,
+        "w": 0,
+        "x": 0,
+        "y": 0
+      },
+      "routeMotion": "local",
+      "scroll": 93,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "input"
+    },
+    {
+      "at": 123,
+      "cls": "",
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 775.859375
+      },
+      "routeMotion": "local",
+      "scroll": 93,
+      "target": "INPUT",
+      "transition": "finished",
+      "type": "input"
+    },
+    {
+      "at": 127,
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 775.859375
+      },
+      "routeMotion": "local",
+      "scroll": 93,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 127,
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 775.859375
+      },
+      "routeMotion": "local",
+      "scroll": 93,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 168,
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 435.859375
+      },
+      "routeMotion": "local",
+      "scroll": 433,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 168,
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 435.859375
+      },
+      "routeMotion": "local",
+      "scroll": 433,
+      "transition": "finished",
+      "type": "scroll"
+    },
+    {
+      "at": 182,
+      "cls": "reset-search text-link",
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "capture",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 435.859375
+      },
+      "routeMotion": "local",
+      "scroll": 433,
+      "target": "BUTTON",
+      "transition": "finished",
+      "type": "pointermove",
+      "x": 99,
+      "y": 458
+    },
+    {
+      "at": 182,
+      "cls": "reset-search text-link",
+      "count": "0 项记录",
+      "focus": "search",
+      "phase": "after",
+      "prevented": false,
+      "queryLength": 4,
+      "reset": {
+        "h": 44,
+        "w": 70.34375,
+        "x": 64,
+        "y": 435.859375
+      },
+      "routeMotion": "local",
+      "scroll": 433,
+      "target": "BUTTON",
+      "transition": "finished",
+      "type": "pointermove",
+      "x": 99,
+      "y": 458
+    }
+  ]
+}

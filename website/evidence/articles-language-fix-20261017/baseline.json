@@ -1,0 +1,15 @@
+{
+  "files": {
+    "scripts/articles.py": "20c9748e221896df114d4f2cfe9ffd9f2e446361fb7619c6eb359606d9723cf3",
+    "scripts/components.py": "008afed2827925cd035ba9b4b2bec062f98237a71a6209f797d4db31e2ee65d3",
+    "scripts/build.py": "2eabb3a4e0c199614442574cedf1951fababc1aba864e64ae3ed54d0a3e2a7a4",
+    "scripts/seo.py": "7cd458772bd3a1f0dd4272e6333cd16bb5c51224c7ea85df5e88e9275f5579ad",
+    "scripts/pages.py": "ef510668232ee8eadccf12d3af522231acafd16157a0a27a4fdf5daee4d3315d",
+    "templates/article.html": "5c80e2e2d4d5a3be2466352247b2dc745d7a1eadc8e1c38c9c37b79c41f75563",
+    "assets/articles.css": "4ab49d1e0f323989fc6ee7231a6e8d3290cb374d794c5adb6ccea9f141d1aa41",
+    "assets/page-version.js": "e3e80c78af181bf1c9eebe5e87b61e77a4304891a964c388d2918ebf674c26a8",
+    "site.yaml": "2f9d053fd1bf4701ecb0729ad2ee56910ea08921728d5f87909e6eb1305f1c24"
+  },
+  "scope": "Restore Chinese/English article-list and detail-page language switching with complete translations; local only",
+  "publication_authorized": false
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "d64db3ae001bb0cf8895",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261016-baidu-analytics-d64db3ae",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-service-proof-5c339ba5",
+  "public_hashes_checked": 14,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "POSTFLIGHT_PASS",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261017-articles-e3304385",
+  "files": 365,
+  "previous_intact": true,
+  "configs_and_ip_preview_unchanged": true,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  }
+}

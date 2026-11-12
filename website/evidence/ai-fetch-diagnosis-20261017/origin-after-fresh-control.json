@@ -1,0 +1,98 @@
+{
+  "checked_utc": "2026-10-17T07:18:24.931902+00:00",
+  "fresh_perplexity_marker_events": [],
+  "latest_service_events": [
+    {
+      "at": "17/Oct/2026:15:02:11 +0800",
+      "path": "/services/ai-agent.html?pv=ef627aa38d38fa4ba886",
+      "status": 200,
+      "bytes": "14247",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "at": "17/Oct/2026:15:02:54 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:02:57 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:02:58 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "OAI-SearchBot"
+    },
+    {
+      "at": "17/Oct/2026:15:03:37 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "PerplexityBot"
+    },
+    {
+      "at": "17/Oct/2026:15:12:18 +0800",
+      "path": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:12:20 +0800",
+      "path": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:12:21 +0800",
+      "path": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+    },
+    {
+      "at": "17/Oct/2026:15:12:21 +0800",
+      "path": "/services/fde-consulting.html?diag=yuanbao-20261017-1512",
+      "status": 200,
+      "bytes": "14399",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED_HOST] Safari/537.36"
+    },
+    {
+      "at": "17/Oct/2026:15:14:47 +0800",
+      "path": "/services/fde-consulting.html",
+      "status": 200,
+      "bytes": "37755",
+      "ua": "Python-urllib/3.9"
+    },
+    {
+      "at": "17/Oct/2026:15:14:47 +0800",
+      "path": "/services/ai-agent.html",
+      "status": 200,
+      "bytes": "37459",
+      "ua": "Python-urllib/3.9"
+    },
+    {
+      "at": "17/Oct/2026:15:14:47 +0800",
+      "path": "/services/workflow-automation.html",
+      "status": 200,
+      "bytes": "38064",
+      "ua": "Python-urllib/3.9"
+    }
+  ],
+  "ips_and_referrers_excluded": true
+}

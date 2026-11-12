@@ -1,0 +1,11 @@
+{
+  "url": "https://qcdn.zhaomi.cn/assistant/assets/index-DWcdSV2y.js",
+  "checked_at": "2026-10-19T06:09:29.208174+00:00",
+  "http_status": 206,
+  "content_range": "bytes 2000000-3500000/8685037",
+  "bytes_read": 1500001,
+  "prefix_sha256": "92fa4dea83cc2e9075d6b928b531999f6d394248d985cfe5f2035a203a1c9ef0",
+  "report_wrapper_found": true,
+  "report_wrapper_excerpt": "report(params$3){return fetch(this.url,{headers:{\"content-type\":`application/x-www-form-urlencoded;charset=UTF-8`},body:import_lib$5.default.stringify(this.getReportParams(params$3)),method:`POST`}).then(res=>res.json())}init(){this.updateBaseParams({channel_id:this.channel_id,source:`web`})}},urm=new URM,urm_default=urm,uploadByApi=(file,source_type,url$1=loader_default.getAISoUri(`/s3/upload`),timeout$2=600*1e3)=>{let params$3=core_default.getForm({up_file:file,source_type:source_type||``});return request_default.post(url$1,params$3,{dataIsForm:!0,timeout:timeout$2}).then(res=>({data:{url:res.data.up_url}}))},upload_api_default=uploadByApi,import_md5$5=__toESM(require_md5(),1);init_defineProperty();var S3Manager=class{constructor(){_defineProperty(this,`data`,{access_key_id:``,secret_access_key:``,expiration:``}),_defineProperty(this,`client`,null)}updateToken(){return Promise.resolve()}getClient(){return this.client}};const s3Manager=new S3Manager,uploadToS3=file=>upload_api_default(file);core_default.IS_ONLINE||(window._S3Manager=s3Manager);var ErrorMask=({imageResult})=>jsxs(`div`,{className:`absolute inset-0 flex flex-col leading-[18px] items-center justify-center overflow-hidden text-12px text-[rgba(255,255,255,0.60)] backdrop-filter backdrop-blur-10px bg-[rgba(0,0,0,.3)]`,children:[jsx(`img`,{className:`w-80px h-80px`,src:`https://p5.ssl.qhimg.com/t110b9a9301f0792b96f4dcd5ab.png`,alt:``}),jsx(`div`,{children:`生成失败`})]}),error_mask_default=ErrorMask,mouseOffset=0,startX=0,ImageCompareStack=({beforeImg,afterImg})=>{let containerRef=(0,import_react.useRef)(null),[width,setWidth]=(0,import_react.useState)(50),onMouseMove=e$2=>{if(e$2.preventDefault(),!containerRef.current)return;let rect$1=containerRef.current.getBoundingClientRect(),newWidth=(e$2.clientX-mouseOffse",
+  "scope": "Public static code only, no interface invocation or credentials used. Not the actual response receipt."
+}

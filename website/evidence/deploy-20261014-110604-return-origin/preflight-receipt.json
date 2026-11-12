@@ -1,0 +1,20 @@
+{
+  "status": "PREFLIGHT_PASS",
+  "hostname": "lavm-zm3gcu3m6m",
+  "previous": "/srv/eli-sites/portfolio/releases/20261014-103100-navigation-reset",
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "services": {
+    "nginx": true,
+    "erp-trial": true,
+    "mysql": true,
+    "redis-server": true
+  },
+  "http": {
+    "/login": 200,
+    "/mobile/": 200,
+    "/sites/portfolio/": 200,
+    "/sites/portfolio/about.html": 200
+  },
+  "free_bytes": [REDACTED_PHONE],
+  "previous_files": 144
+}

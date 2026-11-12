@@ -1,0 +1,144 @@
+Browser tab: 9, Title: "Inventory System Development | Eli Case Study", URL: "http://127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10".
+1 AXWebArea Inventory System Development | Eli Case Study, URL: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10
+	2 link Description: Skip to content, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#main
+	3 container
+		4 link Description: Eli home, Value: 127.0.0.1:4178/en/index.html
+		5 container Main navigation
+			6 link Description: Home, Value: 127.0.0.1:4178/en/index.html
+			7 link Description: Projects, Value: 127.0.0.1:4178/en/records.html
+			8 link Description: Articles, Value: 127.0.0.1:4178/en/articles.html
+			9 link Description: About, Value: 127.0.0.1:4178/en/about.html
+			10 link Description: Switch to Chinese, Value: 127.0.0.1:4178/cases/p10.html
+	11 container main
+		12 link Description: ← Back to projects, Value: 127.0.0.1:4178/en/records.html?category=Client+work&q=inventory&return=p10
+		13 text Websites & tools
+		14 heading Sanitaryware manufacturer inventory system, Value: 1
+			15 text Sanitaryware manufacturer inventory system
+		16 text Delivered
+		17 text Connect product specifications, purchasing, returns and stocktaking through inventory workflows and PC/H5 entry points.
+		18 container
+			19 link Description: Enlarge screenshot: Sanitaryware manufacturer inventory system, Value: 127.0.0.1:4178/assets/public-cases/p10.png
+			20 link Description: View image ↗, Value: 127.0.0.1:4178/assets/public-cases/p10.png
+		21 definition list
+			22 container
+				23 container My work
+					24 text My work
+				25 text Independent requirements, foundation adaptation and delivery 01
+			26 container
+				27 container Delivery
+					28 text Delivery
+				29 text Delivered 02
+		30 container
+			31 heading Overview, Value: 2
+				32 text Overview
+			33 container Case sections
+				34 link Description: Context, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#why
+				35 link Description: My role, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#role
+				36 link Description: Work delivered, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#outputs
+				37 link Description: Approach, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#process
+				38 link Description: Delivery & feedback, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#result
+				39 link Description: Technical approach, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#technical
+		40 container why
+			41 heading Context, Value: 2
+				42 text Context
+			43 text The client needed inventory management connected to product variants, purchasing, returns and stocktakes. Quantities and statuses must agree with the actual business operations.
+		44 container role
+			45 heading My role, Value: 2
+				46 text My role
+			47 text Independently handled requirements, workflow analysis, development on the existing foundation and delivery.
+		48 container outputs
+			49 heading Work delivered, Value: 2
+				50 text Work delivered
+			51 text Adapted an existing foundation for inventory, connecting PC and H5 entry points with reference data, purchasing, stock and business overview pages.
+		52 container process
+			53 heading Approach, Value: 2
+				54 text Approach
+			55 text Defined the scope after a half-day requirements discussion. With limited later client communication, I continued from the initial discovery and industry understanding.
+			56 text Cross-checked documents, stock and transactions rather than relying on a success message. A stocktake example appears below.
+			57 heading One stocktake review, Value: 3
+				58 text One stocktake review
+			59 text In a test record dated September 23, 2026, a product variant had 1 unit on the books and 0 counted. Three results were cross-checked after submission.
+			60 table One stocktake review
+				61 row
+					62 cell
+						63 text Check
+					64 cell
+						65 text Recorded result
+				66 row
+					67 cell
+						68 text Stocktake document
+					69 cell
+						70 text Original 1, counted 0, stocktake completed
+				71 row
+					72 cell
+						73 text Test-location inventory
+					74 cell
+						75 text Reduced from 1 unit to 0
+				76 row
+					77 cell
+						78 text Inventory transaction
+					79 cell
+						80 text The matching variant records −1 unit
+			81 text This historical shortage example does not establish acceptance of every workflow. The same review recorded eight passing examples and one issue across nine checks; it does not determine the current system state.
+		82 container result
+			83 heading Delivery & feedback, Value: 2
+				84 text Delivery & feedback
+			85 text Delivered the system in about two months. Quantified usage outcomes are not available.
+		86 container technical
+			87 heading Technical approach, Value: 2
+				88 text Technical approach
+			89 content list
+				90 text Java
+				91 text Spring Boot
+				92 text Vue
+				93 text MySQL
+				94 text Redis
+				95 text Nginx
+			96 text PC and H5 interfaces connect to a business backend for inventory, purchasing, returns and stocktakes, adapting an existing foundation.
+			97 heading Implementation flow, Value: 3
+				98 text Implementation flow
+			99 content list Implementation flow
+				100 container
+					101 text 01 Business interfaces Vue PC and H5
+				102 container
+					103 text 02 Business services Spring Boot APIs
+				104 container
+					105 text 03 Data storage MySQL and Redis
+				106 container
+					107 text 04 Trial deployment Linux / Nginx environment
+			108 heading Validation scope, Value: 3
+				109 text Validation scope
+			110 text Build, trial deployment and workflow review records exist. The stocktake table above cross-checks documents, stock and transactions.
+		111 link Description: Furniture barcode inventory system ↗, Value: 127.0.0.1:4178/en/cases/p09.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10
+		112 link Description: Law firm office system ↗, Value: 127.0.0.1:4178/en/cases/p04.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10
+		113 container Talk about your business
+			114 heading Talk about your business, Value: 2, ID: case-contact-title
+				115 text Talk about your business
+			116 text You do not need a complete solution. Share one time-consuming task and we can discuss where AI or software could help.
+			117 link Description: View inventory reconciliation and workflow automation services, Value: 127.0.0.1:4178/en/services/workflow-automation.html
+			118 link Description: Let’s talk, Value: 127.0.0.1:4178/en/about.html#contact, ID: eli-consult-entry-1
+		119 link Description: More projects, Value: 127.0.0.1:4178/en/records.html
+	120 container
+		121 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/en/index.html
+		122 container Contact details
+			123 text Email
+			124 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			125 text Phone
+			126 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		127 container Page navigation
+			128 link Description: Projects ↗, Value: 127.0.0.1:4178/en/records.html
+			129 link Description: Back to top ↑, Value: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10#main
+		130 container Social profiles
+			131 link Description: Xiaohongshu, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			132 link Description: Bilibili, Value: space.bilibili.com/432834855
+			133 link Description: Douyin, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			134 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			135 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			136 link Description: X, Value: x.com/cczij1112
+			137 link Description: Weibo, Value: weibo.com/u/7720929036
+			138 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			139 link Description: Instagram, Value: instagram.com/eliaifde/
+			140 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		141 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea Inventory System Development | Eli Case Study, URL: 127.0.0.1:4178/en/cases/p10.html?from=%2Fen%2Frecords.html%3Fcategory%3DClient%2Bwork%26q%3Dinventory%26return%3Dp10

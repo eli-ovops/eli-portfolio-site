@@ -1,0 +1,276 @@
+{
+  "P06": {
+    "stack": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Tailwind CSS"
+    ],
+    "approach": {
+      "zh-CN": "上传单据 → 展示模拟字段 → 人工修正 → 记录与导出。先验证录入流程与审核交互。",
+      "en": "Upload a document → display mock fields → review and correct → record and export. The prototype validates the entry and review flow."
+    },
+    "verification": {
+      "zh-CN": "使用 Mock 数据演示；没有接入真实 OCR、LLM、后端或客户单据。",
+      "en": "Uses mock data. Real OCR, LLMs, backend services and customer documents are outside this prototype."
+    },
+    "flow": {
+      "zh-CN": [
+        {
+          "label": "上传单据",
+          "detail": "选择演示文件"
+        },
+        {
+          "label": "模拟字段",
+          "detail": "展示示例识别结果"
+        },
+        {
+          "label": "人工审核",
+          "detail": "修正字段与状态"
+        },
+        {
+          "label": "记录导出",
+          "detail": "核对记录与审计日志"
+        }
+      ],
+      "en": [
+        {
+          "label": "Upload document",
+          "detail": "Choose a demo file"
+        },
+        {
+          "label": "Mock fields",
+          "detail": "Show sample extraction"
+        },
+        {
+          "label": "Human review",
+          "detail": "Correct fields and status"
+        },
+        {
+          "label": "Record & export",
+          "detail": "Review records and audit logs"
+        }
+      ]
+    }
+  },
+  "P09": {
+    "stack": [
+      "TypeScript",
+      "React",
+      "Vite",
+      "Cloudflare Workers",
+      "D1 / SQLite",
+      "Playwright"
+    ],
+    "approach": {
+      "zh-CN": "按箱扫码，连接入库、移库与出库；处理重复提交、数量核对和撤销纠错。",
+      "en": "Carton scanning connects receiving, transfers and dispatch, with duplicate handling, quantity checks and reversal flows."
+    },
+    "verification": {
+      "zh-CN": "本地与云端记录核对了库存闭环、重复提交和库存不足等情况。具体数量变化与测试来源见上方表格。",
+      "en": "Local and cloud records cover the stock sequence, duplicate requests and insufficient stock. The table above provides quantities and test provenance."
+    },
+    "flow": {
+      "zh-CN": [
+        {
+          "label": "扫码与操作",
+          "detail": "React 录入与确认"
+        },
+        {
+          "label": "业务校验",
+          "detail": "Workers 处理重复提交"
+        },
+        {
+          "label": "库存变更",
+          "detail": "D1 / SQLite 核对数量"
+        },
+        {
+          "label": "纠错与回放",
+          "detail": "撤销操作与测试核对"
+        }
+      ],
+      "en": [
+        {
+          "label": "Scan & act",
+          "detail": "React input and confirmation"
+        },
+        {
+          "label": "Validate operation",
+          "detail": "Workers handle duplicate requests"
+        },
+        {
+          "label": "Update inventory",
+          "detail": "D1 / SQLite quantity checks"
+        },
+        {
+          "label": "Correct & replay",
+          "detail": "Reversals and test verification"
+        }
+      ]
+    }
+  },
+  "P10": {
+    "stack": [
+      "Java",
+      "Spring Boot",
+      "Vue",
+      "MySQL",
+      "Redis",
+      "Nginx"
+    ],
+    "approach": {
+      "zh-CN": "PC 与 H5 入口连接业务后端，围绕库存、采购、退货与盘点组织流程；基于成熟底座进行业务适配。",
+      "en": "PC and H5 interfaces connect to a business backend for inventory, purchasing, returns and stocktakes, adapting an existing foundation."
+    },
+    "verification": {
+      "zh-CN": "已有构建、试部署与业务复查记录；上方盘点表展示单据、库存和流水的交叉核对。",
+      "en": "Build, trial deployment and workflow review records exist. The stocktake table above cross-checks documents, stock and transactions."
+    },
+    "flow": {
+      "zh-CN": [
+        {
+          "label": "业务入口",
+          "detail": "Vue PC 与 H5"
+        },
+        {
+          "label": "业务服务",
+          "detail": "Spring Boot 接口"
+        },
+        {
+          "label": "数据存储",
+          "detail": "MySQL 与 Redis"
+        },
+        {
+          "label": "试部署",
+          "detail": "Linux / Nginx 环境"
+        }
+      ],
+      "en": [
+        {
+          "label": "Business interfaces",
+          "detail": "Vue PC and H5"
+        },
+        {
+          "label": "Business services",
+          "detail": "Spring Boot APIs"
+        },
+        {
+          "label": "Data storage",
+          "detail": "MySQL and Redis"
+        },
+        {
+          "label": "Trial deployment",
+          "detail": "Linux / Nginx environment"
+        }
+      ]
+    }
+  },
+  "P12": {
+    "stack": [
+      "TypeScript",
+      "Node.js",
+      "Provider abstraction",
+      "Schema validation"
+    ],
+    "approach": {
+      "zh-CN": "产品资料与风格输入 → 内容生成与编辑 → 人工确认 → 导出或上传路径。通过 Provider 抽象组织不同能力。",
+      "en": "Product facts and style input → content generation and editing → human approval → export or upload paths. Provider abstractions organize different capabilities."
+    },
+    "verification": {
+      "zh-CN": "已有本地测试与账号连接记录；账号连接通过不等于图文生成、平台发布全流程通过。",
+      "en": "Local test and account connection records exist. Successful connection does not establish an end-to-end generation or publishing result."
+    },
+    "flow": {
+      "zh-CN": [
+        {
+          "label": "产品事实",
+          "detail": "确认资料与风格"
+        },
+        {
+          "label": "能力调用",
+          "detail": "组织生成与编辑能力"
+        },
+        {
+          "label": "人工确认",
+          "detail": "核对内容与产品信息"
+        },
+        {
+          "label": "输出路径",
+          "detail": "导出与上传环节分开核验"
+        }
+      ],
+      "en": [
+        {
+          "label": "Product facts",
+          "detail": "Confirm facts and style"
+        },
+        {
+          "label": "Provider calls",
+          "detail": "Coordinate generation and editing"
+        },
+        {
+          "label": "Human approval",
+          "detail": "Check content against product facts"
+        },
+        {
+          "label": "Output paths",
+          "detail": "Verify export and upload separately"
+        }
+      ]
+    }
+  },
+  "P13": {
+    "stack": [
+      "SwiftUI",
+      "SwiftData",
+      "StoreKit",
+      "XCTest"
+    ],
+    "approach": {
+      "zh-CN": "每日任务 → 完成记录 → 历史与纪念品；原生界面、本地数据与购买入口共同支持持续迭代。",
+      "en": "Daily tasks → completion records → history and souvenirs. Native UI, local data and purchase entry points support ongoing iterations."
+    },
+    "verification": {
+      "zh-CN": "保留版本测试与商店提交记录；本地购买测试与真实商店支付分别核验。",
+      "en": "Version tests and store submission records are retained. Local purchase tests and real store transactions are verified separately."
+    },
+    "flow": {
+      "zh-CN": [
+        {
+          "label": "任务界面",
+          "detail": "SwiftUI 原生交互"
+        },
+        {
+          "label": "本地记录",
+          "detail": "SwiftData 历史与状态"
+        },
+        {
+          "label": "购买入口",
+          "detail": "StoreKit 购买与恢复"
+        },
+        {
+          "label": "版本验证",
+          "detail": "XCTest 与版本测试"
+        }
+      ],
+      "en": [
+        {
+          "label": "Task interface",
+          "detail": "Native SwiftUI interactions"
+        },
+        {
+          "label": "Local records",
+          "detail": "SwiftData history and state"
+        },
+        {
+          "label": "Purchase entry",
+          "detail": "StoreKit purchase and restore"
+        },
+        {
+          "label": "Version checks",
+          "detail": "XCTest and version tests"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "invariants": {
+    "styles.css": true,
+    "motion.css": true,
+    "content/profile.json": true,
+    "content/projects.json": true,
+    "templates/home.html": true,
+    "templates/about.html": true
+  },
+  "runtime": "heading clipping + GSAP opacity/translate observed in browser",
+  "about_project_count": 35,
+  "reduced_pending_hidden": 0,
+  "mobile_width": 360,
+  "mobile_scroll_width": 360,
+  "scope": "motion.js only; no 4190 changes"
+}

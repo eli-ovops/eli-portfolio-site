@@ -1,0 +1,164 @@
+{
+  "status": "FOCUSED_BROWSER_PASS",
+  "observations": [
+    {
+      "claim": "30+\n跨行业成功案例",
+      "contacts": [],
+      "cta": "免费咨询\n↗",
+      "heading": "帮你的公司用好 AI\n从重复工作开始",
+      "height": 720,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 1265,
+      "topics": [
+        "录入和库存靠人核对",
+        "资料难找、问题反复问",
+        "产品内容总要重做"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/?pv=afc3f340d7a7bf1053c5",
+      "width": 1280
+    },
+    {
+      "claim": "30+\n跨行业成功案例",
+      "contacts": [],
+      "cta": "免费咨询\n↗",
+      "heading": "帮你的公司用好 AI\n从重复工作开始",
+      "height": 844,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 390,
+      "topics": [
+        "录入和库存靠人核对",
+        "资料难找、问题反复问",
+        "产品内容总要重做"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/?pv=afc3f340d7a7bf1053c5",
+      "width": 390
+    },
+    {
+      "consult": "免费咨询，先聊一件事。",
+      "contactTop": 23.8125,
+      "contacts": [
+        "mailto:[REDACTED_EMAIL]",
+        "tel:[REDACTED_PHONE]",
+        "https://wa.me/[REDACTED_PHONE]"
+      ],
+      "heading": "关于我",
+      "height": 844,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 390,
+      "topics": [],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/about.html?pv=afc3f340d7a7bf1053c5#contact",
+      "width": 390
+    },
+    {
+      "consult": "免费咨询，先聊一件事。",
+      "contactTop": 942.40625,
+      "contacts": [
+        "mailto:[REDACTED_EMAIL]",
+        "tel:[REDACTED_PHONE]",
+        "https://wa.me/[REDACTED_PHONE]"
+      ],
+      "heading": "关于我",
+      "height": 740,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 320,
+      "topics": [],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/about.html?pv=afc3f340d7a7bf1053c5#contact",
+      "width": 320
+    },
+    {
+      "claim": "30+\n跨行业成功案例",
+      "contacts": [],
+      "cta": "免费咨询\n↗",
+      "heading": "帮你的公司用好 AI\n从重复工作开始",
+      "height": 740,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 320,
+      "topics": [
+        "录入和库存靠人核对",
+        "资料难找、问题反复问",
+        "产品内容总要重做"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/index.html?pv=afc3f340d7a7bf1053c5",
+      "width": 320
+    },
+    {
+      "claim": "30+\nsuccessful cases across industries",
+      "contacts": [],
+      "cta": "Free consultation\n↗",
+      "heading": "Put AI to work\nin your company",
+      "height": 740,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 320,
+      "topics": [
+        "Repeated entry and stock checks",
+        "Information lookup and repeated questions",
+        "Product content takes time"
+      ],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/index.html?pv=afc3f340d7a7bf1053c5",
+      "width": 320
+    },
+    {
+      "consult": "Free consultation. Start with one task.",
+      "contactTop": 23.75,
+      "contacts": [
+        "mailto:[REDACTED_EMAIL]",
+        "tel:[REDACTED_PHONE]",
+        "https://wa.me/[REDACTED_PHONE]"
+      ],
+      "heading": "About me",
+      "height": 740,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 320,
+      "topics": [],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html?pv=afc3f340d7a7bf1053c5#contact",
+      "width": 320
+    },
+    {
+      "contacts": [],
+      "heading": "Sanitaryware manufacturer inventory system",
+      "height": 720,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 1265,
+      "topics": [],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/cases/p10.html?pv=afc3f340d7a7bf1053c5",
+      "width": 1280
+    },
+    {
+      "consult": "Free consultation. Start with one task.",
+      "contactTop": 141.546875,
+      "contacts": [
+        "mailto:[REDACTED_EMAIL]",
+        "tel:[REDACTED_PHONE]",
+        "https://wa.me/[REDACTED_PHONE]"
+      ],
+      "heading": "About me",
+      "height": 720,
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "scrollWidth": 1265,
+      "topics": [],
+      "url": "http://[REDACTED_HOST]/sites/portfolio/en/about.html?pv=afc3f340d7a7bf1053c5#contact",
+      "width": 1280
+    }
+  ],
+  "checks": [
+    "Chinese390 home to free consultation and visible contact links",
+    "Chinese390 small-system question expands with WorkBuddy explanation",
+    "Chinese320 about and home without horizontal overflow",
+    "English320 home to free consultation, contact at 23.75px",
+    "English desktop P10 case free consultation to contact at 141.55px"
+  ],
+  "limits": [
+    "IAB simulated mobile viewports; no physical touch device or iOS Safari",
+    "No actual calling, emailing or WhatsApp delivery",
+    "Existing rapid-first-click issues not covered by content release"
+  ]
+}

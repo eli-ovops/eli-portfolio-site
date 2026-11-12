@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-12",
+  "browser": "Codex In-app Browser",
+  "scope": "Real browser with simulated mobile viewports; other browser applications not tested",
+  "checks": [
+    {
+      "case": "zh-about-desktop",
+      "overflow": false,
+      "questionLinks": [
+        "cases/p10.html",
+        "cases/p15.html",
+        "cases/p09.html",
+        "cases/p36.html"
+      ],
+      "questions": 4,
+      "schemas": [
+        "Person",
+        "WebSite",
+        "AboutPage"
+      ],
+      "width": 1280
+    },
+    {
+      "case": "en-about-mobile",
+      "firstQuestion": "What projects can I discuss with Eli?",
+      "language": "en",
+      "overflow": false,
+      "questions": 4,
+      "width": 390
+    },
+    {
+      "case": "mobile-390-about.html",
+      "h1": "关于我",
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "schemas": [
+        "Person",
+        "WebSite",
+        "AboutPage"
+      ],
+      "title": "关于 Eli - 开发经历、工作方法与联系方式",
+      "url": "http://127.0.0.1:4178/about.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-records.html",
+      "h1": "项目索引",
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "schemas": [
+        "Person",
+        "WebSite",
+        "ItemList",
+        "CollectionPage"
+      ],
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli",
+      "url": "http://127.0.0.1:4178/records.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-cases/p36.html",
+      "h1": "英国某净水品牌 RAG 智能客服定制",
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "schemas": [
+        "Person",
+        "WebSite",
+        "BreadcrumbList",
+        "WebPage"
+      ],
+      "title": "英国某净水品牌 RAG 智能客服定制案例 - Eli",
+      "url": "http://127.0.0.1:4178/cases/p36.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-en/cases/p15.html",
+      "h1": "PetSocial (now HelloTail)",
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "schemas": [
+        "Person",
+        "WebSite",
+        "BreadcrumbList",
+        "WebPage"
+      ],
+      "title": "PetSocial (now HelloTail) | Eli Case Study",
+      "url": "http://127.0.0.1:4178/en/cases/p15.html",
+      "width": 390
+    },
+    {
+      "case": "mobile-390-index.html",
+      "h1": "业务系统开发AI 工作流",
+      "overflow": false,
+      "robots": "noindex,nofollow",
+      "schemas": [
+        "Person",
+        "WebSite",
+        "WebPage"
+      ],
+      "title": "Eli - 业务系统开发与 AI 工作流作品集",
+      "url": "http://127.0.0.1:4178/index.html",
+      "width": 390
+    },
+    {
+      "case": "zh-about-mobile-320",
+      "overflow": false,
+      "questions": 4,
+      "width": 320
+    },
+    {
+      "case": "desktop-expanded-wheel",
+      "firstSummaryOpen": true,
+      "position": "02 / 07",
+      "scrollY": 738
+    },
+    {
+      "case": "desktop-gallery-case-back",
+      "firstSummaryOpen": true,
+      "overflow": false,
+      "position": "02 / 07",
+      "scrollY": 738,
+      "url": "http://127.0.0.1:4178/index.html#work"
+    },
+    {
+      "case": "final-about-rendered",
+      "language": "zh-CN",
+      "overflow": false,
+      "personDescription": "我将业务流程做成可运行的软件：库存管理、扫码出入库、知识检索客服与内容工作台。独立项目负责需求、开发与测试；团队项目按分工参与。",
+      "questions": 4,
+      "robots": "noindex,nofollow",
+      "title": "关于 Eli - 开发经历、工作方法与联系方式",
+      "url": "http://127.0.0.1:4178/about.html",
+      "width": 1280
+    }
+  ],
+  "mobile_question_case_back": {
+    "case": "RAG",
+    "case_title": "RAG 智能客服定制：知识库与检索实践 - Eli",
+    "returned_page": "about.html",
+    "questions": 4,
+    "overflow": false
+  },
+  "console_observation": "Three AbortError: Transition was skipped notices during existing route transitions; navigation completed; animation source hashes unchanged",
+  "viewport_reset": true
+}

@@ -1,0 +1,9 @@
+{
+  "status": "HTTPS_INDEX_LAUNCHED",
+  "release": "20261015-183949-https-index",
+  "revision": "0421d7822f14ab0f1f29",
+  "config_sha": "5570323d452fc558369ebe860076dea84ad4490bce7e7ed3dfcdad6b78e0f759",
+  "previous": "/srv/eli-sites/portfolio/domain-releases/20261015-165606-icp-footer",
+  "target": "/srv/eli-sites/portfolio/domain-releases/20261015-183949-https-index",
+  "nginx_test": "nginx: the configuration file /etc/nginx/nginx.conf syntax is ok\nnginx: configuration file /etc/nginx/nginx.conf test is successful"
+}

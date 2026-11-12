@@ -1,0 +1,27 @@
+[
+  {
+    "category": "客户项目",
+    "count": "9 项记录",
+    "revision": "dcfeadcfc4798b51289f",
+    "test": "fast-first-filter",
+    "url": "http://127.0.0.1:4178/records.html?pv=dcfeadcfc4798b51289f&category=%E5%AE%A2%E6%88%B7%E5%8F%82%E4%B8%8E"
+  },
+  {
+    "category": "客户项目",
+    "count": "2 项记录",
+    "projects": [
+      "project-p10",
+      "project-p09"
+    ],
+    "query": "库存",
+    "test": "search-filter"
+  },
+  {
+    "dialog": false,
+    "imageWidth": 0,
+    "rootTransition": "none",
+    "routeMotion": "native-title",
+    "test": "fast-image-during-title-entry",
+    "titleTransition": "project-title"
+  }
+]

@@ -1,0 +1,230 @@
+{
+  "revision": "4bc544a5361e14236d53",
+  "observations": [
+    {
+      "check": "Public Chinese desktop",
+      "result": {
+        "more": [
+          "物流与仓储",
+          "软件与技术服务",
+          "教育与培训",
+          "农产品与食品经营",
+          "餐饮与连锁门店",
+          "旅游与住宿",
+          "会展与活动"
+        ],
+        "moreOpen": false,
+        "overflow": false,
+        "primary": [
+          "制造业",
+          "批发与零售",
+          "家具、家居与建材",
+          "电子商务",
+          "跨境电商",
+          "律所与专业服务",
+          "品牌与内容工作室",
+          "公益机构"
+        ],
+        "revision": "4bc544a5361e14236d53",
+        "url": "https://www.eliai.cn/index.html?pv=4bc544a5361e14236d53#industries",
+        "width": 1335
+      }
+    },
+    {
+      "check": "Public Chinese360 all seven expanded",
+      "result": {
+        "children": [
+          {
+            "contentInside": true,
+            "id": "industry-logistics-warehousing",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-software-technology",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-education-training",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-agri-food",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-food-multi-location",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "id": "industry-tourism-hospitality",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": false,
+            "id": "industry-events-exhibitions",
+            "insideParent": true,
+            "open": true
+          }
+        ],
+        "parentOpen": true,
+        "scrollWidth": 345,
+        "width": 360
+      },
+      "phase": "Sampled while final child was still opening; superseded by settled-state check; not a clipping failure after animation."
+    },
+    {
+      "check": "Public Chinese outer collapse settled",
+      "result": {
+        "focusOnSummary": true,
+        "height": "",
+        "open": false
+      }
+    },
+    {
+      "check": "Public Chinese industry consultation",
+      "result": {
+        "contact": true,
+        "lang": "zh-CN",
+        "scrollWidth": 345,
+        "url": "https://www.eliai.cn/about.html?pv=4bc544a5361e14236d53#contact",
+        "width": 360
+      }
+    },
+    {
+      "check": "Public ZH to EN language and order",
+      "result": {
+        "lang": "en",
+        "more": [
+          "industry-logistics-warehousing",
+          "industry-software-technology",
+          "industry-education-training",
+          "industry-agri-food",
+          "industry-food-multi-location",
+          "industry-tourism-hospitality",
+          "industry-events-exhibitions"
+        ],
+        "primary": [
+          "industry-manufacturing",
+          "industry-wholesale-retail",
+          "industry-home-building",
+          "industry-ecommerce",
+          "industry-cross-border",
+          "industry-professional-services",
+          "industry-brands-studios",
+          "industry-nonprofits"
+        ],
+        "revision": "4bc544a5361e14236d53",
+        "scrollWidth": 375,
+        "url": "https://www.eliai.cn/en/index.html?pv=4bc544a5361e14236d53#industries",
+        "width": 390
+      }
+    },
+    {
+      "check": "Public English390 inner expansion",
+      "result": {
+        "closedMarkers": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "contentInside": true,
+        "open": true,
+        "parentOpen": true,
+        "scrollWidth": 375,
+        "width": 390
+      }
+    },
+    {
+      "check": "Public English industry consultation",
+      "result": {
+        "contact": true,
+        "lang": "en",
+        "scrollWidth": 375,
+        "url": "https://www.eliai.cn/en/about.html?pv=4bc544a5361e14236d53#contact",
+        "width": 390
+      }
+    },
+    {
+      "check": "Public language return EN to ZH",
+      "result": {
+        "lang": "zh-CN",
+        "url": "https://www.eliai.cn/index.html?pv=4bc544a5361e14236d53#industries"
+      }
+    },
+    {
+      "check": "Public Chinese360 all seven expanded after animation settled",
+      "result": {
+        "children": [
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-logistics-warehousing",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-software-technology",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-education-training",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-agri-food",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-food-multi-location",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-tourism-hospitality",
+            "insideParent": true,
+            "open": true
+          },
+          {
+            "contentInside": true,
+            "height": "",
+            "id": "industry-events-exhibitions",
+            "insideParent": true,
+            "open": true
+          }
+        ],
+        "parentInlineHeight": "",
+        "parentOpen": true,
+        "scrollWidth": 345,
+        "width": 360
+      }
+    }
+  ],
+  "checkedAt": "2026-10-20T11:59:57.039Z"
+}

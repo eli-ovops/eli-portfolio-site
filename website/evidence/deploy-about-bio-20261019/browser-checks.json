@@ -1,0 +1,78 @@
+{
+  "mobile": [
+    {
+      "bioCount": 3,
+      "ctaBottom": 423.359375,
+      "ctaInFirstScreen": true,
+      "ctaTop": 373.5625,
+      "lang": "zh-CN",
+      "overflow": false,
+      "revision": "0e8f1d0f8a593578ab3e",
+      "width": 320
+    },
+    {
+      "bioCount": 3,
+      "ctaBottom": 349.0625,
+      "ctaInFirstScreen": true,
+      "ctaTop": 299.265625,
+      "lang": "zh-CN",
+      "overflow": false,
+      "revision": "0e8f1d0f8a593578ab3e",
+      "width": 390
+    },
+    {
+      "bioCount": 3,
+      "ctaBottom": 349.0625,
+      "ctaInFirstScreen": true,
+      "ctaTop": 299.265625,
+      "lang": "zh-CN",
+      "overflow": false,
+      "revision": "0e8f1d0f8a593578ab3e",
+      "width": 430
+    },
+    {
+      "bioCount": 3,
+      "ctaBottom": 423.359375,
+      "ctaInFirstScreen": true,
+      "ctaTop": 373.5625,
+      "lang": "en",
+      "overflow": false,
+      "revision": "0e8f1d0f8a593578ab3e",
+      "width": 320
+    },
+    {
+      "bioCount": 3,
+      "ctaBottom": 427.15625,
+      "ctaInFirstScreen": true,
+      "ctaTop": 377.359375,
+      "lang": "en",
+      "overflow": false,
+      "revision": "0e8f1d0f8a593578ab3e",
+      "width": 390
+    },
+    {
+      "bioCount": 3,
+      "ctaBottom": 427.15625,
+      "ctaInFirstScreen": true,
+      "ctaTop": 377.359375,
+      "lang": "en",
+      "overflow": false,
+      "revision": "0e8f1d0f8a593578ab3e",
+      "width": 430
+    }
+  ],
+  "zhContact": {
+    "contactTop": 103.734375,
+    "hash": "#contact"
+  },
+  "enContact": {
+    "contactTop": 103.984375,
+    "hash": "#contact"
+  },
+  "languageReturn": {
+    "hash": "#contact",
+    "lang": "zh-CN",
+    "path": "/about.html"
+  },
+  "physicalPhone": false
+}

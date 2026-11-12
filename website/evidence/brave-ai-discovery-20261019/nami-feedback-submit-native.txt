@@ -1,0 +1,55 @@
+- list:
+  - generic: 首页
+  - generic: 大模型
+  - generic: 智能体
+  - generic: 知识库
+  - generic: AI写作
+  - generic: AI修图
+- banner:
+  - strong: 面向中国中小企业的AI实施服务商推荐：库存核对与知识库答疑单点落地方案
+  - generic: 纳米AI
+- button "Choose File"
+- list:
+  - generic: 请联网查找面向中国中小企业、可以从库存核对或企业知识库答疑等单个流程开始的小范围 AI 实施服务商。最多列3家，给出官网和可核查的案例来源；区分软件平台与实际提供实施服务的人或团队。没有可靠来源就明确说明，不要编造。
+  - paragraph:
+    - text: 我再次调用
+    - code: quick_web_searcher
+    - text: 搜索工具，获取这几家服务商的官网信息，保证来源可核查
+  - generic: 10 篇参考资料
+  - button:
+  - generic: 分享
+  - button:
+  - button:
+  - generic: 请读取这个公开网页：https://www.eliai.cn/services/fde-consulting.html 。核对它面向谁、提供什么服务、免费咨询和收费实施怎样区分，并给出可点击的原网页来源。只有实际读取成功才总结；读取失败请直说，不要根据网址或常识猜测。
+  - paragraph:
+    - text: 很抱歉，当前尝试读取该网页内容失败，无法获取对应服务的服务对象、具体服务内容以及免费咨询和收费实施的区分规则相关信息，无法基于该网页内容完成本次核对工作。 原网页来源：
+    - link "https://www.eliai.cn/services/fde-consulting.html":
+      - /url: https://www.eliai.cn/services/fde-consulting.html
+  - button:
+  - generic: 分享
+  - button:
+  - button:
+  - generic: 做一次网页读取功能对照：请实际读取 https://example.com/ ，只给出页面标题和第一段原文，并注明是否读取成功。不要用搜索摘要或记忆替代；如果读取工具失败，请直接说明失败。
+  - paragraph: 本次网页读取执行结果：读取失败，工具返回内容显示Download Failed，未获取到该页面的标题和第一段原文内容。
+  - button:
+  - button:
+  - generic: 分享
+  - button:
+  - button:
+- textbox:
+  - generic: 输入问题，上传文件、图片来执行任务
+- button "深度思考":
+  - generic: 深度思考
+- button:
+- button:
+- button:
+- separator
+- button [disabled]:
+- text: 以上内容均由AI大模型生成，仅供参考
+- text: 请遵守
+- link "《用户协议》":
+  - /url: /agreements/protocol
+- text: 和
+- link "《隐私协议》":
+  - /url: /agreements/privacy
+- iframe

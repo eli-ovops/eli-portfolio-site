@@ -1,0 +1,14 @@
+{
+  "status": "PUBLISHED",
+  "revision": "0f0e9828ed3aa45c3a19",
+  "current": "/srv/eli-sites/portfolio/domain-releases/20261016-cookie-bar-0f0e9828",
+  "previous_retained": "/srv/eli-sites/portfolio/domain-releases/20261016-v1-f8690e82",
+  "public_hashes_checked": 14,
+  "services": {
+    "nginx": "active",
+    "erp-trial": "active",
+    "mysql": "active",
+    "redis-server": "active"
+  },
+  "configs_and_ip_preview": "UNCHANGED"
+}

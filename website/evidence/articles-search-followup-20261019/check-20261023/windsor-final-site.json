@@ -1,0 +1,48 @@
+{
+  "status": "done",
+  "data": [
+    {
+      "date": "2026-10-14",
+      "impressions": 0,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-20T06:31:42"
+    },
+    {
+      "date": "2026-10-15",
+      "impressions": 2,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-20T06:31:42"
+    },
+    {
+      "date": "2026-10-16",
+      "impressions": 4,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-20T06:31:42"
+    },
+    {
+      "date": "2026-10-17",
+      "impressions": 6,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-23T02:03:57"
+    },
+    {
+      "date": "2026-10-18",
+      "impressions": 14,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-23T02:03:57"
+    },
+    {
+      "date": "2026-10-19",
+      "impressions": 20,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-23T02:03:57"
+    },
+    {
+      "date": "2026-10-20",
+      "impressions": 22,
+      "clicks": 0,
+      "data_fetched_at": "2026-10-23T02:03:57"
+    }
+  ],
+  "total_rows": 7
+}

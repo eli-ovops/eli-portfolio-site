@@ -1,0 +1,139 @@
+- navigation "主导航":
+  - link "Perplexity":
+    - /url: /
+    - img "Perplexity"
+  - link "新建":
+    - /url: /
+  - generic: 新建
+  - link "Computer":
+    - /url: /computer/tasks
+  - generic: Computer
+  - link "自动化":
+    - /url: /computer/automations
+  - generic: 自动化
+  - link "工件":
+    - /url: /computer/artifacts
+  - generic: 工件
+  - link "自定义":
+    - /url: /computer/connectors
+  - generic: 自定义
+  - link "项目":
+    - /url: /projects
+  - generic: 项目
+  - link "最近":
+    - /url: /library
+  - generic: 最近
+  - button "升级计划":
+  - button "Eli Chao":
+    - generic: Eli Chao
+  - separator "调整侧边栏宽度"
+- main:
+  - tablist "回答模式标签页":
+    - tab "答案" [selected]:
+      - text: 答案
+    - tab "链接":
+      - text: 链接
+    - tab "图片":
+      - text: 图片
+  - button "会话操作":
+  - button "分享":
+    - generic: 分享
+  - button "下载 Comet":
+    - generic: 下载 Comet
+  - generic: 18:57
+  - button "编辑查询":
+  - button "复制查询":
+  - paragraph:
+    - text: 请使用搜索实时打开下面四个公开URL，前三个是文章，最后一个是首页对照。每页只报告：能否读取正文、真实页面标题、连续不超过20字的一句原文、来源链接；失败就写失败和可见的错误原因，不要从网址或常识猜测，也不要建议改用Computer。这是访问诊断，不是请求重新收录。
+    - link "https://www.eliai.cn/articles/inventory-reconciliation.html?diag=perplexity-article-20261017-1820":
+      - /url: https://www.eliai.cn/articles/inventory-reconciliation.html?diag=perplexity-article-20261017-1820
+    - link "https://www.eliai.cn/articles/enterprise-knowledge-base.html?diag=perplexity-article-20261017-1820":
+      - /url: https://www.eliai.cn/articles/enterprise-knowledge-base.html?diag=perplexity-article-20261017-1820
+    - link "https://www.eliai.cn/articles/what-is-agent.html?diag=perplexity-article-20261017-1820":
+      - /url: https://www.eliai.cn/articles/what-is-agent.html?diag=perplexity-article-20261017-1820
+    - link "https://www.eliai.cn/?diag=perplexity-article-20261017-1820":
+      - /url: https://www.eliai.cn/?diag=perplexity-article-20261017-1820
+  - button "了解更多":
+    - generic: 了解更多
+  - button "已研究 1秒":
+    - generic "已研究"
+    - generic: 1秒
+  - paragraph: 四个 URL 均无法读取正文；抓取器未返回页面标题、正文或更具体的 HTTP 错误，仅报告“Failed to fetch content”。因此无法从实际页面内容中摘录原文。
+  - table:
+    - rowgroup:
+      - row "URL 能否读取正文 真实页面标题 连续不超过20字原文 来源链接 失败/错误原因":
+        - columnheader "URL"
+        - columnheader "能否读取正文"
+        - columnheader "真实页面标题"
+        - columnheader "连续不超过20字原文"
+        - columnheader "来源链接"
+        - columnheader "失败/错误原因"
+    - rowgroup:
+      - row "库存对账文章 失败 未返回 未返回 链接 Failed to fetch content；未提供更具体错误":
+        - cell "库存对账文章"
+        - cell "失败"
+        - cell "未返回"
+        - cell "未返回"
+        - cell "链接":
+          - link "链接":
+            - /url: https://www.eliai.cn/articles/inventory-reconciliation.html?diag=perplexity-article-20261017-1820
+        - cell "Failed to fetch content；未提供更具体错误"
+      - row "企业知识库文章 失败 未返回 未返回 链接 Failed to fetch content；未提供更具体错误":
+        - cell "企业知识库文章"
+        - cell "失败"
+        - cell "未返回"
+        - cell "未返回"
+        - cell "链接":
+          - link "链接":
+            - /url: https://www.eliai.cn/articles/enterprise-knowledge-base.html?diag=perplexity-article-20261017-1820
+        - cell "Failed to fetch content；未提供更具体错误"
+      - row "什么是 Agent 文章 失败 未返回 未返回 链接 Failed to fetch content；未提供更具体错误":
+        - cell "什么是 Agent 文章"
+        - cell "失败"
+        - cell "未返回"
+        - cell "未返回"
+        - cell "链接":
+          - link "链接":
+            - /url: https://www.eliai.cn/articles/what-is-agent.html?diag=perplexity-article-20261017-1820
+        - cell "Failed to fetch content；未提供更具体错误"
+      - row "首页对照 失败 未返回 未返回 链接 Failed to fetch content；未提供更具体错误":
+        - cell "首页对照"
+        - cell "失败"
+        - cell "未返回"
+        - cell "未返回"
+        - cell "链接":
+          - link "链接":
+            - /url: https://www.eliai.cn/?diag=perplexity-article-20261017-1820
+        - cell "Failed to fetch content；未提供更具体错误"
+  - button "复制表格":
+  - button "下载 CSV":
+  - button "展开表格":
+  - paragraph: 诊断结论：三篇文章与首页在本次访问中一致失败，且错误信息未区分 DNS、TLS、HTTP 状态码、反爬拦截或页面渲染问题。
+  - button "复制":
+  - button "分享":
+  - button "有帮助":
+  - button "没有帮助":
+  - button "复刻":
+  - button "更多操作":
+  - button "收起面板":
+  - button "来源":
+    - generic: 来源
+  - button "滚动到末尾":
+    - generic: ⠴
+  - status:
+    - generic: 您正处于隐身模式。
+    - button "退出隐身模式":
+      - generic: 退出无痕模式
+  - textbox [active]:
+    - paragraph
+  - generic: 提出后续问题
+  - button "添加文件或工具":
+  - button "搜索" [pressed]:
+    - text: 搜索
+  - button "Computer":
+    - text: Computer
+  - button "模型":
+    - generic: 模型
+  - button "语音输入":
+  - button "提交" [disabled]:
+- listbox "Typeahead menu"

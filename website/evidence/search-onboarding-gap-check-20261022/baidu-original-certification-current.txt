@@ -1,0 +1,75 @@
+- link "logo":
+  - /url: /
+  - img "logo"
+- list:
+  - link "搜索学堂":
+    - /url: /college#/type=1&cate=newcontent
+  - link "搜索服务":
+    - /url: /dashboard/index
+  - listitem: 互动交流
+  - link "资源合作":
+    - /url: /cooperateresource/index
+  - link "用户中心":
+    - /url: /site/index
+- link:
+  - /url: /prompt/index
+- link:
+  - /url: https://passport.baidu.com
+- link "子建大魔王":
+  - /url: https://passport.baidu.com
+- text: "|"
+- link "退出":
+  - /url: /auth/logout?u=https%3A%2F%2Fziyuan.baidu.com%2Fsite%2Findex
+- list:
+  - link:
+    - /url: [private-support-link-redacted]
+  - link:
+    - /url: /feedback/index
+  - link:
+    - /url: "#top"
+- term:
+  - link "站点管理":
+    - /url: /site/index
+- term:
+  - link "消息提醒":
+    - /url: /prompt/index
+- term:
+  - link "联系方式":
+    - /url: /usercfg/editaccount
+- term:
+  - link "管理员设置":
+    - /url: /user/index
+- term:
+  - link "安全防护":
+    - /url: /wafproduct/index
+- heading "站点关联主体" [level=1]
+- paragraph:
+  - text: 提交成功！我们将在2-5个工作日内完成审核，请耐心等待。
+  - link "返回":
+    - /url: /site/index
+- link "智能小程序":
+  - /url: https://smartprogram.baidu.com/developer/index.html
+- link "投诉平台":
+  - /url: //help.baidu.com/newadd?prod_id=1&category=1
+- link "百度统计":
+  - /url: https://tongji.baidu.com/web/welcome/login
+- link "百度智能云":
+  - /url: https://cloud.baidu.com/
+- link "百度云加速":
+  - /url: https://su.baidu.com/
+- link "百度安全":
+  - /url: http://anquan.baidu.com/
+- link "百度大脑":
+  - /url: https://ai.baidu.com/
+- link "百度保障":
+  - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+- link "百度开发者中心":
+  - /url: https://developer.baidu.com/?hmsr=站长平台&hmpl=&hmcu=&hmkw=&hmci
+- link "联系我们":
+  - /url: //ziyuan.baidu.com/college/articleinfo?id=2114
+- link "微信公众号":
+  - /url: //ziyuan.baidu.com/wiki/3148
+- text: ©2026 Baidu
+- link "使用百度前必读":
+  - /url: https://www.baidu.com/duty/
+- text: 京ICP证030173号

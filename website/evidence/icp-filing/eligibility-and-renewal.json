@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-07",
+  "logged_in": true,
+  "server_match": {
+    "instance": "lavm-zm3gcu3m6m",
+    "public_ip": "[REDACTED_HOST]",
+    "region": "Beijing",
+    "expiry": "2027-10-20 23:59:59"
+  },
+  "filing_authcode_page": {
+    "eligible_resource_found": true,
+    "one_code_created": true,
+    "code_state": "unused; associated with personal website form; value not persisted"
+  },
+  "renewal_quotes": {
+    "3_months": {
+      "payable_cny": 130.68,
+      "expiry": "2027-01-20 23:59:59"
+    },
+    "1_year": {
+      "payable_cny": 58.0,
+      "expiry": "2027-10-20 23:59:59",
+      "coupon_applied": true
+    }
+  },
+  "payment": "success shown in provider cashier; user paid directly",
+  "filing_submission": "not submitted for review; draft host information step",
+  "awaiting": "user directly enters accurate name, identity-document address, contact address, emergency phone and SMS verification in official form",
+  "identity_verification": "completed by user in JD Cloud portal; next step is host information"
+}

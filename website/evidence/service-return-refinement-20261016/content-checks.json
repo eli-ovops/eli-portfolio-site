@@ -1,0 +1,14 @@
+{
+  "service_headers_checked": [
+    "services/fde-consulting.html",
+    "en/services/fde-consulting.html",
+    "services/ai-agent.html",
+    "en/services/ai-agent.html",
+    "services/workflow-automation.html",
+    "en/services/workflow-automation.html"
+  ],
+  "proof_and_deliverables_visible_in_static_html": true,
+  "schema_matches_intro": true,
+  "existing_motion_controllers_and_line_refinement_unchanged": true,
+  "no_new_glass": true
+}

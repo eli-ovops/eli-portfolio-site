@@ -1,0 +1,12 @@
+{
+  "result": "PASS_FOR_CURRENT_AUTHORIZED_STATIC_DEPLOY",
+  "target": "strict pinned host/current portfolio release verified",
+  "risk_controls": [
+    "144 regular static files tied to accepted hashes; new page-version.js explicitly accounted",
+    "No source/config/raw customer assets/secret/media/DB payload",
+    "New isolated path; reject preexisting release; preserve 143-file previous release",
+    "Current symlink and unchanged config hash checked again immediately before prepare/switch",
+    "No Nginx reload, ERP service actions, DNS/HTTPS, indexing or automation operations"
+  ],
+  "acceptance": "Public version/query paths, native and explicit Back, warm-cache symptoms and image modal must be checked after switch"
+}

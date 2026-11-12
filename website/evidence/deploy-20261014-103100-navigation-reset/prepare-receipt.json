@@ -1,0 +1,10 @@
+{
+  "status": "PREPARED_NOT_SWITCHED",
+  "release": "20261014-103100-navigation-reset",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-212302-first-pointer",
+  "target": "/srv/eli-sites/portfolio/releases/20261014-103100-navigation-reset",
+  "backup": "/srv/eli-sites/portfolio/backups/20261014-103100-navigation-reset",
+  "files_verified": 144,
+  "package_sha256": "a7f3709b919a20a123c3d9251f7a73bfd1d75d7735e9c32bde0ab52d08a82f91",
+  "indexing": "DISABLED"
+}

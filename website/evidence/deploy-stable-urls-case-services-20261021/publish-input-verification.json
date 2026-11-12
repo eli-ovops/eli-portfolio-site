@@ -1,0 +1,7 @@
+{
+  "encoding": "alphanumeric Base32; padded compressed stream; standard-library decoder",
+  "source_sha256": "6510f420c5715d39529eb778b0e963f89b02a23800d4c5bf8a42680d47eb745f",
+  "encoded_characters": 18288,
+  "roundtrip": "PASS",
+  "reason": "native terminal punctuation input was unreliable; do not execute altered command text"
+}

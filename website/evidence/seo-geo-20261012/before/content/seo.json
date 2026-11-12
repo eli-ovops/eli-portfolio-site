@@ -1,0 +1,36 @@
+{
+  "base_url": "http://[REDACTED_HOST]/sites/portfolio/",
+  "planned_base_url": "https://www.eliai.cn/",
+  "indexing_enabled": false,
+  "note": "Prepare locally while domain identity, HTTPS and ICP filing remain pending. Change base_url only after the domain serves this site; enable indexing only with launch authorization.",
+  "home": {
+    "zh-CN": {
+      "title": "Eli｜前沿部署工程师 · AI 与业务系统实践",
+      "description": "Eli 的个人作品集：围绕企业需求参与业务系统开发、AI 工作流与项目交付，展示库存管理、社媒内容自动化和团队客户项目中的具体职责。"
+    },
+    "en": {
+      "title": "Eli | Forward Deployed Engineer & AI Projects",
+      "description": "Explore Eli’s work in business systems, AI workflows and delivery, with inventory and social media automation projects and clearly defined roles in client teams."
+    }
+  },
+  "about": {
+    "zh-CN": {
+      "title": "关于 Eli｜项目经历与 FDE 工作方法",
+      "description": "了解 Eli 的项目经历与工作方式：从需求梳理、流程设计到 AI 辅助开发、测试与交付，并查看联系邮箱、电话和微信。"
+    },
+    "en": {
+      "title": "About Eli | Experience & FDE Approach",
+      "description": "Learn about Eli’s project experience and approach to requirements, workflow design, AI-assisted development, testing and delivery. Find contact details."
+    }
+  },
+  "records": {
+    "zh-CN": {
+      "title": "Eli 项目库｜业务系统、AI 工作流与产品实践",
+      "description": "浏览 Eli 的 38 项项目记录，涵盖客户项目、库存与办公系统、AI 内容工作流、移动应用及研究；可按分类或关键词查找案例。"
+    },
+    "en": {
+      "title": "Eli Projects | Business Systems, AI & Product Work",
+      "description": "Browse 38 records covering client work, inventory and office systems, AI content workflows, mobile apps and research. Filter or search for a project."
+    }
+  }
+}

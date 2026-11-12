@@ -1,0 +1,232 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Eli home":
+    - /url: index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: index.html
+    - link "Projects":
+      - /url: records.html
+    - link "Articles":
+      - /url: articles.html
+    - link "About":
+      - /url: about.html
+    - link "Switch to Chinese":
+      - /url: https://www.eliai.cn/articles.html
+      - text: 中文
+- main:
+  - paragraph: Learn one task at a time
+  - heading "AI tutorials and practical notes" [level=1]:
+    - generic: AI tutorials and practical notes
+  - paragraph: 100 short lessons for beginners, from the first question to agents and office tasks. Each includes steps, a practice prompt and troubleshooting. Two project-based articles are also included.
+  - generic "New here? Start with these five lessons"
+  - search:
+    - text: Search articles
+    - searchbox "Search articles"
+    - text: Category
+    - combobox "Category":
+      - option "All" [selected]
+      - option "Case notes"
+      - option "AI basics"
+      - option "How models work"
+      - option "Better prompts"
+      - option "Agent basics"
+      - option "Skills and MCP"
+      - option "Harnesses and AI coding"
+      - option "GitHub basics"
+      - option "WorkBuddy at work"
+      - option "Office tasks"
+      - option "AI for business owners"
+    - button "Clear"
+  - status: 102 articles · page 1 of 9
+  - article:
+    - generic: Inventory workflows
+    - generic: 6 min read
+    - 'heading "Manual inventory checks every day: where should you start?" [level=2]':
+      - 'link "Manual inventory checks every day: where should you start?"':
+        - /url: articles/inventory-reconciliation.html
+    - paragraph: Use inventory and barcode projects to examine records, stock movements and corrections, then choose one step to improve.
+    - 'link "Read: Manual inventory checks every day: where should you start?"':
+      - /url: articles/inventory-reconciliation.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: Knowledge and support
+    - generic: 6 min read
+    - 'heading "Company information is scattered: what should you prepare for a knowledge base?" [level=2]':
+      - 'link "Company information is scattered: what should you prepare for a knowledge base?"':
+        - /url: articles/enterprise-knowledge-base.html
+    - paragraph: Draw on a customer-support project to organize documents, check answer sources and define when a person must take over.
+    - 'link "Read: Company information is scattered: what should you prepare for a knowledge base?"':
+      - /url: articles/enterprise-knowledge-base.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "What is AI? Start with one small task" [level=2]:
+      - link "What is AI? Start with one small task":
+        - /url: articles/what-is-ai.html
+    - paragraph: AI stands for artificial intelligence and includes recognition, prediction and generation, using approaches such as rules or learning from data.
+    - 'link "Read: What is AI? Start with one small task"':
+      - /url: articles/what-is-ai.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - 'heading "AI chat or search: which should you use?" [level=2]':
+      - 'link "AI chat or search: which should you use?"':
+        - /url: articles/ai-chat-vs-search.html
+    - paragraph: Search helps you find pages; AI chat helps compose an answer.
+    - 'link "Read: AI chat or search: which should you use?"':
+      - /url: articles/ai-chat-vs-search.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "What should your first AI task be?" [level=2]:
+      - link "What should your first AI task be?":
+        - /url: articles/first-ai-task.html
+    - paragraph: Choose something small, checkable and reversible, such as turning personal notes into tasks.
+    - 'link "Read: What should your first AI task be?"':
+      - /url: articles/first-ai-task.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "How do beginners choose an AI tool?" [level=2]:
+      - link "How do beginners choose an AI tool?":
+        - /url: articles/choose-ai-tool.html
+    - paragraph: Choose a task before choosing a tool.
+    - 'link "Read: How do beginners choose an AI tool?"':
+      - /url: articles/choose-ai-tool.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "How do you spot an AI hallucination?" [level=2]:
+      - link "How do you spot an AI hallucination?":
+        - /url: articles/ai-hallucination.html
+    - paragraph: An AI hallucination is plausible content without adequate grounding.
+    - 'link "Read: How do you spot an AI hallucination?"':
+      - /url: articles/ai-hallucination.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "What should you avoid uploading to AI?" [level=2]:
+      - link "What should you avoid uploading to AI?":
+        - /url: articles/ai-privacy-basics.html
+    - paragraph: Check whether a service is approved for the data before writing a prompt.
+    - 'link "Read: What should you avoid uploading to AI?"':
+      - /url: articles/ai-privacy-basics.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "Did the AI actually read the whole file?" [level=2]:
+      - link "Did the AI actually read the whole file?":
+        - /url: articles/ai-file-reading.html
+    - paragraph: A successful upload does not prove every page was read.
+    - 'link "Read: Did the AI actually read the whole file?"':
+      - /url: articles/ai-file-reading.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - heading "Can AI images replace product photos?" [level=2]:
+      - link "Can AI images replace product photos?":
+        - /url: articles/ai-generated-images.html
+    - paragraph: Generated images can help discuss composition and style, but may alter dimensions, ports, text or materials.
+    - 'link "Read: Can AI images replace product photos?"':
+      - /url: articles/ai-generated-images.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 1 min read
+    - 'heading "AI jargon: ten terms worth separating" [level=2]':
+      - 'link "AI jargon: ten terms worth separating"':
+        - /url: articles/ai-jargon-map.html
+    - paragraph: Separate models, tools, connections and execution support before reading product claims.
+    - 'link "Read: AI jargon: ten terms worth separating"':
+      - /url: articles/ai-jargon-map.html
+      - text: Read
+      - generic: ↗
+  - article:
+    - generic: AI basics
+    - generic: 2 min read
+    - heading "A first-week AI learning plan" [level=2]:
+      - link "A first-week AI learning plan":
+        - /url: articles/ai-learning-plan.html
+    - paragraph: Build the habit of completing one task correctly before collecting jargon.
+    - 'link "Read: A first-week AI learning plan"':
+      - /url: articles/ai-learning-plan.html
+      - text: Read
+      - generic: ↗
+  - navigation "Article pages":
+    - button "Previous" [disabled]
+    - generic: 1 / 9
+    - button "Next"
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "Contact details":
+    - paragraph: Email
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: Phone
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "Page navigation":
+    - link "Projects ↗":
+      - /url: records.html
+    - link "Back to top ↑":
+      - /url: "#main"
+  - navigation "Social profiles":
+    - link "Xiaohongshu":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: Xiaohongshu
+    - link "Bilibili":
+      - /url: https://space.bilibili.com/432834855
+      - generic: Bilibili
+    - link "Douyin":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: Douyin
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "Weibo":
+      - /url: https://weibo.com/u/7720929036
+      - generic: Weibo
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "Analytics & privacy"

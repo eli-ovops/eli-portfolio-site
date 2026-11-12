@@ -1,0 +1,488 @@
+[
+  {
+    "check": "fresh library case keyboard Enter then browser back",
+    "before": {
+      "css": [
+        "styles.css?v=85b8ead1c21e",
+        "motion.css?v=65988f5c0b75",
+        "assets/social-footer.css?v=593fd5eecbce",
+        "assets/editorial.css?v=b60c66b2a078"
+      ],
+      "iconFill": "#FFFFFF",
+      "iconWidth": "24px",
+      "rows": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "scripts": [
+        "assets/vendor/gsap-3.15.0/gsap.min.js",
+        "app.js?v=aac18cbdf88b",
+        "assets/depth-gallery.js?v=1a796d24b245",
+        "assets/screenshot-viewer.js?v=66dec0a19c8c",
+        "assets/vendor/gsap-3.15.0/Flip.min.js",
+        "assets/editorial.js?v=19deb0e27da0"
+      ],
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    "after": {
+      "css": [
+        "styles.css?v=85b8ead1c21e",
+        "motion.css?v=65988f5c0b75",
+        "assets/social-footer.css?v=593fd5eecbce",
+        "assets/editorial.css?v=b60c66b2a078"
+      ],
+      "iconFill": "#FFFFFF",
+      "iconWidth": "24px",
+      "rows": [
+        "project-p10",
+        "project-p36",
+        "project-p09",
+        "project-p04",
+        "project-p02",
+        "project-p12",
+        "project-p05",
+        "project-p01",
+        "project-p03",
+        "project-p06",
+        "project-p07",
+        "project-p08",
+        "project-p11",
+        "project-p13",
+        "project-p14",
+        "project-p15",
+        "project-p16",
+        "project-p17",
+        "project-p18",
+        "project-p19",
+        "project-p20",
+        "project-p21",
+        "project-p22",
+        "project-p23",
+        "project-p24",
+        "project-p25",
+        "project-p26",
+        "project-p27",
+        "project-p28",
+        "project-p29",
+        "project-p30",
+        "project-p31",
+        "project-p32",
+        "project-p33",
+        "project-p34",
+        "project-p35",
+        "project-n01",
+        "project-n02"
+      ],
+      "scripts": [
+        "assets/vendor/gsap-3.15.0/gsap.min.js",
+        "app.js?v=aac18cbdf88b",
+        "assets/depth-gallery.js?v=1a796d24b245",
+        "assets/screenshot-viewer.js?v=66dec0a19c8c",
+        "assets/vendor/gsap-3.15.0/Flip.min.js",
+        "assets/editorial.js?v=19deb0e27da0"
+      ],
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    }
+  },
+  {
+    "check": "filtered library case/back",
+    "before": {
+      "css": [
+        "styles.css?v=85b8ead1c21e",
+        "motion.css?v=65988f5c0b75",
+        "assets/social-footer.css?v=593fd5eecbce",
+        "assets/editorial.css?v=b60c66b2a078"
+      ],
+      "order": [
+        "project-p10",
+        "project-p09"
+      ],
+      "socialWidth": "24px",
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    },
+    "after": {
+      "css": [
+        "styles.css?v=85b8ead1c21e",
+        "motion.css?v=65988f5c0b75",
+        "assets/social-footer.css?v=cbd07806fc52",
+        "assets/editorial.css?v=58961331a7a1"
+      ],
+      "order": [
+        "project-p09",
+        "project-p10"
+      ],
+      "socialWidth": "22px",
+      "title": "Eli 项目库｜业务系统、AI 工作流与产品实践"
+    }
+  },
+  {
+    "check": "ordinary reload after stale back",
+    "result": {
+      "css": [
+        "styles.css?v=85b8ead1c21e",
+        "motion.css?v=65988f5c0b75",
+        "assets/social-footer.css?v=593fd5eecbce",
+        "assets/editorial.css?v=b60c66b2a078"
+      ],
+      "order": [
+        "project-p10",
+        "project-p09"
+      ],
+      "socialWidth": "24px",
+      "title": "项目案例 - 业务系统、AI 工作流与产品实践 - Eli"
+    }
+  },
+  {
+    "check": "search empty recovery",
+    "count": "0 项记录",
+    "emptyVisible": true,
+    "message": "未找到匹配的项目。\n\n清除筛选 ↗"
+  },
+  {
+    "check": "keyboard clear empty result",
+    "count": "38 项记录",
+    "focused": "search",
+    "inputSize": "16px",
+    "query": ""
+  },
+  {
+    "check": "case typography/rendered solid-color chains",
+    "values": [
+      {
+        "backgrounds": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "P"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "MAIN"
+          },
+          {
+            "background": "rgb(17, 18, 20)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "BODY"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "HTML"
+          }
+        ],
+        "color": "rgb(167, 168, 178)",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "32.3px",
+        "opacity": "1",
+        "selector": ".detail-intro"
+      },
+      {
+        "backgrounds": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DT"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DL"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "MAIN"
+          },
+          {
+            "background": "rgb(17, 18, 20)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "BODY"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "HTML"
+          }
+        ],
+        "color": "rgb(150, 152, 255)",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "opacity": "1",
+        "selector": ".case-facts dt"
+      },
+      {
+        "backgrounds": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DD"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DL"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "MAIN"
+          },
+          {
+            "background": "rgb(17, 18, 20)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "BODY"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "HTML"
+          }
+        ],
+        "color": "rgb(237, 237, 240)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "30.4px",
+        "opacity": "1",
+        "selector": ".case-facts dd"
+      },
+      {
+        "backgrounds": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "P"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "SECTION"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "MAIN"
+          },
+          {
+            "background": "rgb(17, 18, 20)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "BODY"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "HTML"
+          }
+        ],
+        "color": "rgb(167, 168, 178)",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "33.15px",
+        "opacity": "1",
+        "selector": ".detail-content p"
+      },
+      {
+        "backgrounds": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "A"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "NAV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "ASIDE"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "DIV"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "MAIN"
+          },
+          {
+            "background": "rgb(17, 18, 20)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "BODY"
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "opacity": "1",
+            "tag": "HTML"
+          }
+        ],
+        "color": "rgb(237, 237, 240)",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "opacity": "1",
+        "selector": ".case-index a"
+      }
+    ]
+  },
+  {
+    "check": "detail screenshot path",
+    "page": "P10",
+    "imageClickable": false,
+    "largeLinkTarget": "_blank",
+    "result": "new full image tab opened and closed"
+  },
+  {
+    "backgroundInert": false,
+    "check": "home screenshot keyboard modal",
+    "focus": null
+  },
+  {
+    "check": "Escape closes and returns focus",
+    "dialogPresent": false,
+    "focusedName": "查看 洁具行业某大型 B 端厂商库存管理系统 截图",
+    "outline": "rgb(150, 152, 255) solid 3px"
+  },
+  {
+    "bodyFont": "16px",
+    "bodyLineHeight": "31.2px",
+    "check": "English P10 narrow table/readability",
+    "height": 740,
+    "scrollWidth": 305,
+    "table": {
+      "left": 20,
+      "right": 285
+    },
+    "width": 320
+  },
+  {
+    "cases": 7,
+    "check": "reduced-motion narrow homepage",
+    "hero": "业务系统开发\nAI 工作流",
+    "scrollWidth": 305,
+    "width": 320
+  },
+  {
+    "bodyBackground": "rgb(17, 18, 20)",
+    "check": "home to contact",
+    "links": [
+      {
+        "href": "mailto:[REDACTED_EMAIL]",
+        "label": "[REDACTED_EMAIL] ↗"
+      },
+      {
+        "href": "tel:[REDACTED_PHONE]",
+        "label": "[REDACTED_PHONE] ↗"
+      },
+      {
+        "href": "https://wa.me/[REDACTED_PHONE]",
+        "label": "[REDACTED_PHONE] ↗"
+      }
+    ],
+    "questions": 3,
+    "url": "http://[REDACTED_HOST]/sites/portfolio/about.html#contact"
+  }
+]

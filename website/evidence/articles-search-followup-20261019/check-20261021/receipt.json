@@ -1,0 +1,194 @@
+{
+  "checked_at": "2026-10-21T10:06:17.927340+08:00",
+  "status": "READ_ONLY_DAILY_CHECK_COMPLETE",
+  "website_revision_baseline": "cc132dc0e7da5cecf41d",
+  "release_reference": "evidence/deploy-stable-urls-case-services-20261021/receipt.json",
+  "scope": {
+    "public_sitemap_urls": 294,
+    "article_detail_urls": 204,
+    "zh": 102,
+    "en": 102,
+    "directories": [
+      "https://www.eliai.cn/articles.html",
+      "https://www.eliai.cn/en/articles.html"
+    ],
+    "source_case_json": [
+      {
+        "file": "content/articles.json",
+        "article_count": 2
+      },
+      {
+        "file": "content/articles-en.json",
+        "article_count": 2
+      }
+    ],
+    "tutorial_json_files": 11,
+    "public_fetch_status": 200,
+    "source": "Read-only public Sitemap and source inventory; no build or submission",
+    "article_indexed_total": "UNKNOWN",
+    "tutorial_topics": 100,
+    "topics_total": 102,
+    "source_note": "100 bilingual topics in 10 category JSON files; sources.json is a source registry, not an article."
+  },
+  "decision": "NO_NEW_CONFIRMED_NATURAL_PROGRESS",
+  "target_groups": [
+    "Enterprise knowledge base / support answers",
+    "Inventory reconciliation / repeated entry automation",
+    "SME AI implementation"
+  ],
+  "google": {
+    "native_three_chinese_service_pages": {
+      "actual_dates": [
+        "2026-10-14",
+        "2026-10-18"
+      ],
+      "impressions": 0,
+      "clicks": 0,
+      "updated_display": "6.5 hours ago",
+      "zero_position_not_a_rank": true
+    },
+    "native_index_summary": "Processing, check back in about one day; 204 article total UNKNOWN",
+    "windsor_summary": {
+      "requested_window": [
+        "2026-10-14",
+        "2026-10-20"
+      ],
+      "final_data_last_date": "2026-10-18",
+      "final_site_impressions": 26,
+      "final_site_clicks": 0,
+      "final_site_dates": [
+        {
+          "date": "2026-10-14",
+          "clicks": 0,
+          "impressions": 0,
+          "position": 0,
+          "data_fetched_at": "2026-10-19T03:04:00"
+        },
+        {
+          "date": "2026-10-15",
+          "clicks": 0,
+          "impressions": 2,
+          "position": 1.5,
+          "data_fetched_at": "2026-10-19T01:46:42"
+        },
+        {
+          "date": "2026-10-16",
+          "clicks": 0,
+          "impressions": 4,
+          "position": 11.5,
+          "data_fetched_at": "2026-10-20T01:56:19"
+        },
+        {
+          "date": "2026-10-17",
+          "clicks": 0,
+          "impressions": 6,
+          "position": 4.8333,
+          "data_fetched_at": "2026-10-21T01:58:14"
+        },
+        {
+          "date": "2026-10-18",
+          "clicks": 0,
+          "impressions": 14,
+          "position": 29.2857,
+          "data_fetched_at": "2026-10-21T01:58:14"
+        }
+      ],
+      "fresh_last_date": "2026-10-20",
+      "article_distinct_paths": 23,
+      "article_raw_url_count": 26,
+      "article_page_impressions": 45,
+      "article_clicks": 0,
+      "service_page_rows": [],
+      "priority_case_article_rows": [],
+      "disclosed_query_rows": 18,
+      "query_sum_impressions": 19,
+      "natural_service_progress": "NONE_CONFIRMED",
+      "fresh_data_fetched_at": [
+        "2026-10-20T06:31:42",
+        "2026-10-21T01:58:15"
+      ],
+      "own_qa_reference": "evidence/deploy-stable-urls-case-services-20261021/browser-steps.json",
+      "hidden_queries": "UNKNOWN; not zero",
+      "comparison": "Window contains a newly available date; no same-window natural growth claim"
+    },
+    "candidate_cost_query": {
+      "query": "ai implementation cost",
+      "date": "2026-10-18",
+      "page": "/en/articles/ai-cost-breakdown.html",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 91,
+      "new": false,
+      "category": "cost information; procurement and natural attribution not established"
+    },
+    "new_definition_query": {
+      "query": "fde meaning in business",
+      "date": "2026-10-20",
+      "page": "/en/articles/what-is-fde-business.html?pv=e3304385905f8d1cdd01",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "category": "definition information, not procurement",
+      "natural_attribution": "UNKNOWN",
+      "notify_as_service_progress": false
+    },
+    "native_generative_ai_report": "No dedicated available report identified; AI report customizer is not AI citation performance",
+    "force_refresh_calls": 0
+  },
+  "bing": {
+    "search_dates": [
+      "2026-10-14",
+      "2026-10-20"
+    ],
+    "search_scope": "All site",
+    "impressions": 0,
+    "clicks": 0,
+    "ai_dates": [
+      "2026-10-14",
+      "2026-10-20"
+    ],
+    "citations": 0,
+    "average_cited_pages": 0,
+    "query_rows": 0,
+    "ai_scope": "Microsoft Copilots and Partners sampled activity only",
+    "transient_report_issue": "Momentary issue alert; one ordinary reload followed by delayed successful data load. Not a website crawl failure.",
+    "index_summary": "Not re-inspected; historical service state is not relabelled as current."
+  },
+  "baidu": {
+    "pc_recent7d_impressions": 0,
+    "pc_recent7d_clicks": 0,
+    "pc_queries": "No data",
+    "mobile": "UNKNOWN; trend labels only, no verifiable numeric totals",
+    "ai_dates": [
+      "2026-10-14",
+      "2026-10-20"
+    ],
+    "ai_citations": 0,
+    "ai_impressions": 0,
+    "ai_clicks": 0,
+    "ai_query_rows": 0,
+    "ai_scope": "Traditional search scenes only; overview cards and trend zero line visible",
+    "index_summary": "Still calculating; no article total available"
+  },
+  "own_tests": {
+    "new_keyword_searches": 0,
+    "new_active_model_queries": 0,
+    "new_url_inspections": 0,
+    "known_deployment_qa_reference": "evidence/deploy-stable-urls-case-services-20261021/browser-steps.json",
+    "last_unbranded_model_test": "2026-10-19 ChatGPT/Doubao; not repeated",
+    "attribution": "Known QA and directed reads excluded; unresolved attribution UNKNOWN; pv presence alone does not identify visitors"
+  },
+  "actions": {
+    "website_changes": 0,
+    "builds": 0,
+    "deployments": 0,
+    "server_changes": 0,
+    "search_submissions": 0,
+    "index_requests": 0,
+    "emails": 0,
+    "paid_resources": 0,
+    "new_automations": 0
+  },
+  "notification": "DONT_NOTIFY: no confirmed natural service-demand progress or required user action",
+  "next": "Wait for new native data in the existing schedule; no repeated same-day refresh, query, submission or model test."
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "label": "desktop-home",
+    "url": "http://127.0.0.1:4178/index.html?pv=468a4e0e3d6cfbcdd70b",
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 1265,
+    "title": "帮你的公司用好 AI\n从重复工作开始",
+    "width": 1280
+  },
+  {
+    "label": "primary-contact",
+    "url": "http://127.0.0.1:4178/about.html?pv=468a4e0e3d6cfbcdd70b#contact",
+    "contactText": "先聊公司最费时间的一件事。\n\n不用先想清方案。说说你的业务、团队人数和重复工作，一起判断从哪里开始。\n\n邮箱\n\[REDACTED_EMAIL] ↗\n\n电话\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\n微信",
+    "contactTop": 141.375,
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 1265,
+    "title": "关于我",
+    "width": 1280
+  },
+  {
+    "label": "boss-question-open",
+    "url": "http://127.0.0.1:4178/about.html?pv=468a4e0e3d6cfbcdd70b#contact",
+    "contactText": "先聊公司最费时间的一件事。\n\n不用先想清方案。说说你的业务、团队人数和重复工作，一起判断从哪里开始。\n\n邮箱\n\[REDACTED_EMAIL] ↗\n\n电话\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\n微信",
+    "contactTop": 779.359375,
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 1265,
+    "title": "关于我",
+    "width": 1280
+  },
+  {
+    "label": "zh-320-home",
+    "url": "http://127.0.0.1:4178/index.html?pv=468a4e0e3d6cfbcdd70b",
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 320,
+    "title": "帮你的公司用好 AI\n从重复工作开始",
+    "width": 320
+  },
+  {
+    "label": "zh-320-support-case",
+    "url": "http://127.0.0.1:4178/cases/p36.html?pv=468a4e0e3d6cfbcdd70b",
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 320,
+    "title": "英国某净水品牌 RAG 智能客服定制",
+    "width": 320
+  },
+  {
+    "label": "zh-320-case-conversation",
+    "url": "http://127.0.0.1:4178/about.html?pv=468a4e0e3d6cfbcdd70b#contact",
+    "contactText": "先聊公司最费时间的一件事。\n\n不用先想清方案。说说你的业务、团队人数和重复工作，一起判断从哪里开始。\n\n邮箱\n\[REDACTED_EMAIL] ↗\n\n电话\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\n微信",
+    "contactTop": 24.0625,
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 320,
+    "title": "关于我",
+    "width": 320
+  },
+  {
+    "label": "en-320-contact",
+    "url": "http://127.0.0.1:4178/en/about.html?pv=468a4e0e3d6cfbcdd70b#contact",
+    "contactText": "Start with your company’s most time-consuming task.\n\nYou do not need a complete solution. Share your business, team size and repetitive tasks, and we can find a starting point.\n\nEmail\n\[REDACTED_EMAIL] ↗\n\nPhone\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\nWeChat",
+    "contactTop": 23.75,
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 320,
+    "title": "About me",
+    "width": 320
+  },
+  {
+    "label": "early-home-click-stayed-about",
+    "url": "http://127.0.0.1:4178/en/about.html?pv=468a4e0e3d6cfbcdd70b#contact",
+    "contactText": "Start with your company’s most time-consuming task.\n\nYou do not need a complete solution. Share your business, team size and repetitive tasks, and we can find a starting point.\n\nEmail\n\[REDACTED_EMAIL] ↗\n\nPhone\n\n[REDACTED_PHONE] ↗\n\nWhatsApp\n\n[REDACTED_PHONE] ↗\nWeChat",
+    "contactTop": 4107.75,
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 320,
+    "title": "About me",
+    "width": 320
+  },
+  {
+    "label": "en-320-home-confirmed",
+    "url": "http://127.0.0.1:4178/en/index.html?pv=468a4e0e3d6cfbcdd70b",
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 320,
+    "title": "Put AI to work\nin your company",
+    "width": 320
+  },
+  {
+    "label": "final-desktop",
+    "url": "http://127.0.0.1:4178/index.html?pv=468a4e0e3d6cfbcdd70b",
+    "engine": "gsap-3.15.0",
+    "revision": "468a4e0e3d6cfbcdd70b",
+    "scrollWidth": 1280,
+    "title": "帮你的公司用好 AI\n从重复工作开始",
+    "width": 1280
+  }
+]

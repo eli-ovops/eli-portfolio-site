@@ -1,0 +1,144 @@
+{
+  "checked_at": "2026-10-19T09:12:44.149737+08:00",
+  "status": "NATIVE_REPORTS_CHECKED_INDEX_DISCOVERY_PROGRESS",
+  "topics": 102,
+  "article_urls": 204,
+  "native_url_checks_per_engine": 3,
+  "full_204_url_index_census": false,
+  "inspected_articles": [
+    {
+      "url": "https://www.eliai.cn/articles/inventory-reconciliation.html",
+      "title": "库存每天靠人工核对，先改哪一步？",
+      "Google": "INDEXED",
+      "Google_last_crawl": "2026年10月17日 20:10:40",
+      "Bing": "DISCOVERED_NOT_CRAWLED",
+      "Bing_discovered_on": "2026-10-18",
+      "Baidu": "UNKNOWN_NO_URL_LEVEL_REPORT"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/enterprise-knowledge-base.html",
+      "title": "企业资料太散，做知识库答疑前要准备什么？",
+      "Google": "INDEXED",
+      "Google_last_crawl": "2026年10月17日 18:43:42",
+      "Bing": "DISCOVERED_NOT_CRAWLED",
+      "Bing_discovered_on": "2026-10-18",
+      "Baidu": "UNKNOWN_NO_URL_LEVEL_REPORT"
+    },
+    {
+      "url": "https://www.eliai.cn/articles/what-is-agent.html",
+      "title": "Agent 是什么？跟普通 AI 聊天差在哪？",
+      "Google": "INDEXED",
+      "Google_last_crawl": "2026年10月17日 19:39:32",
+      "Bing": "DISCOVERED_NOT_CRAWLED",
+      "Bing_discovered_on": "2026-10-18",
+      "Baidu": "UNKNOWN_NO_URL_LEVEL_REPORT"
+    }
+  ],
+  "Google": {
+    "confirmed_indexed_minimum": 3,
+    "new_since_20261017": [
+      "articles/inventory-reconciliation.html"
+    ],
+    "total_article_indexed": "UNKNOWN; coverage report still processing",
+    "sitemap_last_read": "2026-10-19",
+    "sitemap_discovered": 294,
+    "previous_sitemap_discovered": 88,
+    "performance_filter": "URL contains /articles/; both languages",
+    "selected_range": "3 months",
+    "chart_available_dates": [
+      "2026-10-14",
+      "2026-10-16"
+    ],
+    "report_last_updated": "6 hours ago (native label)",
+    "article_displayed_impressions": 0,
+    "article_displayed_clicks": 0,
+    "post_publication_impressions": "UNKNOWN; report chart ends before article publication2026-10-17",
+    "post_publication_clicks": "UNKNOWN; same date limit",
+    "site_impressions": 6,
+    "site_clicks": 0,
+    "site_metric_limit": "All-site data through10-16; not article traffic or proof of target service-word exposure"
+  },
+  "Bing": {
+    "samples_discovered_not_crawled": 3,
+    "sample_discovery_date": "2026-10-18",
+    "previous_sample_status": "NOT_DISCOVERED2026-10-17",
+    "total_article_indexed": "UNKNOWN",
+    "search_performance": "Preparing data; impressions/clicks UNKNOWN",
+    "site_explorer_indexed_urls": "No data available; not an index count",
+    "sitemap_discovered": 82,
+    "sitemap_last_crawl": "2026-10-15",
+    "ai_report_sources": "Microsoft Copilots and Partners",
+    "ai_report_window": [
+      "2026-07-19",
+      "2026-10-18"
+    ],
+    "ai_citations": 0,
+    "ai_cited_pages": 0
+  },
+  "Baidu": {
+    "index": "Calculating; article count UNKNOWN",
+    "pc_site_impressions_7days": 0,
+    "pc_site_clicks_7days": 0,
+    "article_specific_performance": "UNKNOWN; no page/query rows",
+    "mobile_performance": "UNKNOWN; no verifiable numerical data",
+    "ai_selected_range": "recent7days",
+    "ai_citations": 0,
+    "ai_impressions": 0,
+    "ai_clicks": 0,
+    "ai_scope_limit": "Traditional search scenarios only; updates previous-day data and may lag"
+  },
+  "models": {
+    "test_mode": "Unbranded prompts, no seeded brand/domain; one request per platform spanning3 intents",
+    "ChatGPT": {
+      "mode": "Temporary chat; web search; existing Pro",
+      "selected_external_articles": 3,
+      "own_site_citations": 0,
+      "response_complete": true
+    },
+    "Doubao": {
+      "mode": "Expert; native search references32 materials",
+      "selected_external_articles": 3,
+      "own_site_citations": 0,
+      "response_url": "https://www.doubao.com/chat/38447785735315714"
+    },
+    "Perplexity": "Not re-tested this round; original read-failure case handled by existing separate support followup",
+    "other_platforms": "Not tested this round",
+    "limit": "Two single-answer samples are not a platform-wide citation rate or a result for all102topics/English pages"
+  },
+  "website_changes": 0,
+  "search_submissions": 0,
+  "external_emails": 0,
+  "native_login_reused": true,
+  "user_action_required": false,
+  "scope_limit": "Native reports plus3 priority Chinese URL inspections per engine; the remaining201 URL-level states remain explicitly UNKNOWN, not unindexed",
+  "artifacts": {
+    "bing-performance.txt": "bf01f84f441210abc689267568e8b41a08ac11258bce47539238b92514d1e103",
+    "bing-inventory-zh.txt": "bb74c292559f5fac294e1760fbfc5225684934bc9931711a03deb2283a269cfa",
+    "google-agent-zh.txt": "8674afaa6774a34d174867b37e987b0d70d2001a24a9fb5b61a0cb35debefeb2",
+    "google-site-performance.txt": "63ed24e81369404e68a112f3bebe9c45883ad61edb77d5fa5d908e36e8053681",
+    "baidu-index.txt": "5fa2f998cc18939238652369604997ac130ddd186dc214b95a269dcfb893bf83",
+    "google-inventory-indexed.png": "6079d54fa10a39e72ce209c01a2dc8de47b067f02b9ef9c2402433c974cd73c8",
+    "google-knowledge-zh.txt": "34947a54e25c123b27ba2fe9f4d674133e52043f2a171ad39425c83574cb0f0a",
+    "google-knowledge-indexed.png": "93bd5be7d5be23bab7c1e98dbc666e7272f5cdf475321ecf1d922f910b39803a",
+    "bing-ai-performance.txt": "95ffde8f8f121247586244992a6e4ac1dd41886aea723738033d119a7c7e5e16",
+    "google-index-overview.txt": "26515b65ee5ef9b2fcef6559c4709fe095aa667c6cd844076543580833096e53",
+    "bing-knowledge-zh.txt": "c25d29dc53c8f8515f051698323cd454f72cdd79da5244bfaf0414eb0dfd578d",
+    "bing-site-explorer.txt": "9b6003450fd6d941c5dd32c34551975b42a53c7a1cc9739695530804c33d6817",
+    "google-inventory-zh.txt": "cf6283c8714763ff7a17a66b43ac2c7205284afdce13193d5e050afa150aaf28",
+    "baidu-ai-performance.txt": "42870c07044b7a23b74707d3501952eb7b56edb16aac9105eae34fb4fb431fdf",
+    "chatgpt-unbranded.txt": "5c05a7c3440e27cd3996801602fb42aaa6c11e6789543ef990d4f97ec217ccd7",
+    "sitemap-observation.json": "8663cd4ffe78589f6bbae4097b1aa02aceaf3c0ea1779f1855c14310b1ccd478",
+    "doubao-unbranded.txt": "e0acda16873fad10f2173ad4b1403fd0aaf1092cd285743bf0835e72bf3e5c49",
+    "google-article-performance.txt": "47eac39da7ca76dcf700c5dbf0c25bf1c90901d5cf637136b2afb11bfe1264f5",
+    "article-status-204.csv": "0f869720325bcfa5640498bf1c849bee3ab53506198db77d8228e37de7af166d",
+    "bing-agent-zh.txt": "da82aa24ff9bcc12e01342c6d7a9b36f9c18b3d9516913c28a4b6975bfc91dcf",
+    "bing-sitemap.txt": "6c659e1c1a93b723b605318ac278a88c50985ee5b05c7ca3f594ec86f8d21c2e",
+    "google-sitemap.png": "344f1e6108ea73afa99f45632df922e2743d2c07b683fb942d8bd57ad78cbf8f",
+    "baidu-pc-performance.txt": "c24052704188e1e8d6581a61a5ed349334e75a34507c3b07578a0eba9277495b",
+    "baidu-mobile-performance.txt": "7056f3f0b2db10d46b9f9ceefc75e2487efebe945b38f2cb9b710a5b937183ee",
+    "model-citation-links.json": "fa497122bed7f7c84c8699766de2e188bd4ebdc1c2d795714c711a4325b39802",
+    "google-article-performance.png": "89c28fce7be923516b5cb3d9f01ce6530652f65f9a3b0b21c32f23abb64a4298",
+    "google-sitemap.txt": "24c9841bec7374a32a26d01292a8e8cdefe4050f2b71e55e575384148e28baba",
+    "report.md": "3fe92d790f03eb3e1de44c06ae6363c81a34ec5511545046047e4a8d3222442b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "revision": "066456f5df9368a90560",
+  "files": 365,
+  "package_bytes": 10588579,
+  "metadata_only_html": 296,
+  "descriptions_changed": 114,
+  "unchanged_non_version_assets": 62,
+  "changed_non_html": [
+    "sitemap.xml"
+  ],
+  "verification_files_preserved": 6,
+  "added_or_removed_public_files": 0
+}

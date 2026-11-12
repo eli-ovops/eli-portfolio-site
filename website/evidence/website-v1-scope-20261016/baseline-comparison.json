@@ -1,0 +1,41 @@
+{
+  "time": "2026-10-16T07:20:04.217647+00:00",
+  "status": "V1_SCOPE_DRAFT_NOT_FINAL_ACCEPTANCE",
+  "live_revision": "178520c8fe26246e904b",
+  "live_homepage_sha256_verified": "750c8a62cd6b91d1b89c6ccd86e78d7e7c57556ceecbc86c226bbfa087238dd4",
+  "live_manifest": "evidence/baidu-analytics-native-20261016/deployed-manifest.json",
+  "local_revision": "7a22fe8d4bbc27b7e98f",
+  "meaningfully_different_html": [
+    "records.html",
+    "cases/p18.html",
+    "cases/p34.html",
+    "cases/p02.html",
+    "cases/p14.html",
+    "cases/p15.html",
+    "cases/p03.html",
+    "cases/p19.html",
+    "cases/p04.html",
+    "cases/p32.html",
+    "cases/p25.html",
+    "cases/p33.html",
+    "cases/p13.html",
+    "cases/p05.html",
+    "cases/p30.html",
+    "cases/p31.html",
+    "cases/n01.html",
+    "cases/p36.html",
+    "cases/p16.html",
+    "cases/p01.html",
+    "cases/p17.html",
+    "en/records.html"
+  ],
+  "changed_shared_styles": [
+    "assets/bits-ui.css",
+    "assets/editorial.css"
+  ],
+  "other_content_difference": [
+    "llms.txt"
+  ],
+  "note": "Most raw HTML differences are revision/asset fingerprints. Meaningful Chinese case differences include display labels; not proof every case body changed. Five search verification files are added by release packaging and must be retained; absence from raw dist does not mean lost in production. No build, source/UI edit or publication in this scope pass.",
+  "analytics": "Native consultation/WeChat collector receipts200; free conversion report still-- in current fresh check; kept as independent unresolved task."
+}

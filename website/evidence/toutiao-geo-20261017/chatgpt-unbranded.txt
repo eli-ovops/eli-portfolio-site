@@ -1,0 +1,385 @@
+container 对话
+						120 container
+							121 heading 你说：, Value: 4
+								122 text 你说：
+							123 text 请联网查找可为中国中小企业提供小范围 AI 落地实施的独立服务商，重点是重复录入或库存核对、企业知识库辅助答疑。列出3至5个有可访问官网和案例的候选，给出官网来源链接，以及公开的收费或咨询方式。没有可靠来源就说明未找到，不要编造。
+							124 button 复制消息
+								125 image
+							126 button 编辑消息
+								127 image
+							128 container
+								129 button (collapsed) 思考了 1m 13s, Secondary Actions: Expand
+								130 text 思考了 1m 13s
+							131 heading ChatGPT 说：, Value: 4
+								132 text ChatGPT 说：
+							133 heading 中国中小企业 AI 落地服务商：初步筛选, Value: 1
+								134 text 中国中小企业  AI  落地服务商：初步筛选
+							135 container
+								136 text 检索日期：2026  年  10  月  17  日｜重点场景：重复录入、库存核对、企业知识库问答
+							137 container
+								138 text 先给结论： 这类服务确实有市场，但需要区分“有  AI  产品的公司”和“愿意针对一家中小企业做小范围实施的服务商”。 大型企业案例、平台功能介绍，并不能直接证明服务商适合几千元级别的小项目。
+							139 text 我会重点核查四件事：
+							140 content list
+								141 container
+									142 AXListMarker • 
+									143 text 场景匹配： 是否涉及业务流程自动化、单据录入、库存数据处理或企业知识库。
+								144 container
+									145 AXListMarker • 
+									146 text 案例证据： 官网是否展示具体业务问题、实施方案及结果，而不是只有产品介绍。
+								147 container
+									148 AXListMarker • 
+									149 text 合作门槛： 是否公开收费、提供免费诊断，或有明确的咨询入口。
+								150 container
+									151 AXListMarker • 
+									152 text 服务形态： 是否有可能按单一场景、单个部门或小范围试点交付。
+							153 text 需要说明：官网自述的客户数量、效率提升比例和案例结果，属于服务商公开宣传，不能仅凭官网视为独立验证的事实。
+							154 heading 一、5 个值得进一步联系的候选, Value: 2
+								155 text 一、5  个值得进一步联系的候选
+							156 container
+								157 image 实在智能官网
+								158 button Open 实在智能官网
+								159 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_do_, Secondary Actions: Expand
+							160 container
+								161 text 1. 
+								162 button 宁数智研 NingSure AI
+									163 text 宁数智研 
+									164 text NingSure 
+									165 text AI
+							166 text 优先考察：重复录入与自动化
+							167 container
+								168 text 官网：
+								169 link Description: ningsure.com, Value: ningsure.com/?utm_source=chatgpt.com
+							170 container
+								171 text 官网公开提供钉钉、企业微信、邮件和  Excel  跨系统自动化，明确面向有重复工作流程的传统企业；公开价目显示企业自动化  3,000  元起，Agent  工作流  5,000  元起，且宣称零预付款、交付后付款。官网还提供案例入口，并宣称有  8  个真实项目案例。
+								172 pop up button (collapsed) 九昇智能 +1, Secondary Actions: Expand
+									173 image
+									174 text 九昇智能
+									175 text +1
+							176 content list
+								177 container
+									178 AXListMarker • 
+									179 text 适合询问： Excel  库存表与订单表核对、重复录入、异常数据标记、人工复核工作流。
+								180 container
+									181 AXListMarker • 
+									182 text 公开收费： 工具配置  500  元起；企业自动化  3,000  元起；部署  1  万元起。
+								183 container
+									184 AXListMarker • 
+									185 text 咨询方式： 官网免费咨询、邮箱 
+									186 text [REDACTED_EMAIL]
+									187 text 。
+								188 container
+									189 AXListMarker • 
+									190 text 需要核实： 是否做过库存对账的直接案例，以及“零预付”适用哪些项目条件。
+							191 container
+								192 image 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								193 button Open 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								194 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_ed_, Secondary Actions: Expand
+							195 container
+								196 text 2. 
+								197 button 聂二 · AI 落地内参
+									198 text 聂二 
+									199 text · 
+									200 text AI 
+									201 text 落地内参
+							202 text 优先考察：文档处理与业务数据核对
+							203 container
+								204 text 官网：
+								205 link Description: aildnc.com/services, Value: aildnc.com/services?utm_source=chatgpt.com
+							206 container
+								207 text 这是本次筛选中服务范围描述比较具体的独立服务候选。官网说明合作可以从一批文档、一个流程或一个部门开始，提供  PDF、Word、Excel  解析、字段提取、异常检测、人工复核，以及  RAG  企业知识库和业务系统集成。
+								208 pop up button (collapsed) 聂二 · AI落地内参 +1, Secondary Actions: Expand
+									209 image
+									210 text 聂二 
+									211 text · 
+									212 text AI落地内参
+									213 text +1
+							214 content list
+								215 container
+									216 AXListMarker • 
+									217 text 适合询问： 采购单与入库单核对、表格字段提取、不同文件之间的数据比对、企业内部知识问答。
+								218 container
+									219 AXListMarker • 
+									220 text 公开收费：
+									221 content list
+										222 container
+											223 AXListMarker • 
+											224 text 文档处理  PoC：10,000–20,000  元。
+										225 container
+											226 AXListMarker • 
+											227 text 企业知识库方案评估：3,000  元起。
+										228 container
+											229 AXListMarker • 
+											230 text 企业知识库  MVP：20,000  元起。
+										231 container
+											232 AXListMarker • 
+											233 text AI  场景诊断：999–2,999  元。
+								234 container
+									235 AXListMarker • 
+									236 text 咨询方式：
+									237 text [REDACTED_EMAIL]
+									238 text ，官网也提供微信联系入口。
+								239 container
+									240 AXListMarker • 
+									241 text 需要核实： 官网有脱敏案例入口，但本次检索尚未逐个核验具体案例是否涉及库存；报价也不属于低成本的几百元级服务。
+							242 container
+								243 image 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								244 button Open 八斗智能 | 官网入口 - 企业定制化AI助理解决方案提供商
+								245 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_f5_, Secondary Actions: Expand
+							246 container
+								247 text 3. 
+								248 button 九昇智能 NineRise Intelligence
+									249 text 九昇智能 
+									250 text NineRise 
+									251 text Intelligence
+							252 container
+								253 text 官网：
+								254 link Description: 9shengai.com, Value: 9shengai.com/index.html?utm_source=chatgpt.com
+								255 text · 
+								256 link Description: 客户案例入口, Value: 9shengai.com/index.html?utm_source=chatgpt.com
+							257 container
+								258 text 官网定位是面向中小企业的  AI  落地服务，提供场景诊断、智能体定制和落地陪跑。公开案例包括标讯信息采集智能体、招聘智能体和标书智能体，并列出处理效率指标。
+								259 pop up button (collapsed) 九昇智能 +1, Secondary Actions: Expand
+									260 image
+									261 text 九昇智能
+									262 text +1
+							263 content list
+								264 container
+									265 AXListMarker • 
+									266 text 适合询问： 订单或业务资料批量采集、文档信息提取、重复性业务流程自动化。
+								267 container
+									268 AXListMarker • 
+									269 text 公开收费： 咨询诊断  3,980  元起；智能体定制  9,800  元起；落地陪跑  6,800  元起。
+								270 container
+									271 AXListMarker • 
+									272 text 咨询方式： 电话或微信 
+									273 text [REDACTED_PHONE]
+									274 text ，官网可预约诊断。
+								275 container
+									276 AXListMarker • 
+									277 text 需要核实： 其案例是否包含中小企业真实业务流程，以及能否把项目缩小到单一部门、单一流程。
+							278 container
+								279 image 一站式Agent智能体教程：新手也能轻松上手的AI开发指南 | BetterYeah AI智能体
+								280 button Open 一站式Agent智能体教程：新手也能轻松上手的AI开发指南 | BetterYeah AI智能体
+								281 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_g2_, Secondary Actions: Expand
+							282 container
+								283 text 4. 
+								284 button 请叫我 HH
+									285 text 请叫我 
+									286 text HH
+							287 container
+								288 text 官网：
+								289 link Description: AI 智能客服落地方案, Value: call-hh.cn/projects/ai-customer-service/?utm_source=chatgpt.com
+							290 container
+								291 text 这是针对小范围知识库实施比较具体的候选。其方案基于腾讯云、阿里云或  Dify  等现成平台，由服务方负责整理问答、清洗文档、设计转人工规则、接入官网或微信，并提供上线调优。
+								292 pop up button (collapsed) 请叫我HH +1, Secondary Actions: Expand
+									293 image
+									294 text 请叫我HH
+									295 text +1
+							296 content list
+								297 container
+									298 AXListMarker • 
+									299 text 适合询问： 产品说明书、售后政策、常见问题整理成内部答疑或客户服务助手。
+								300 container
+									301 AXListMarker • 
+									302 text 公开收费： 一次性  1–5  万元；可选维护  3,000–5,000  元/月。
+								303 container
+									304 AXListMarker • 
+									305 text 交付周期： 官网标示  1–2  周。
+								306 container
+									307 AXListMarker • 
+									308 text 咨询方式：
+									309 text [REDACTED_EMAIL]
+									310 text ，或通过官网联系。
+								311 container
+									312 AXListMarker • 
+									313 text 需要核实： 官网列出的教育、SaaS、连锁门店场景属于典型交付场景，不能直接等同于已验证的客户案例；本次未确认具体客户的独立案例证据。
+							314 container
+								315 image LogiCore
+								316 button Open LogiCore
+								317 checkbox (collapsed) Description: 添加到收藏夹, Value: 0, ID: radix-_r_gi_, Secondary Actions: Expand
+							318 container
+								319 text 5. 
+								320 button 北京东方盈科技
+							321 container
+								322 text 官网：
+								323 link Description: east-profit.com, Value: east-profit.com/?utm_source=chatgpt.com
+								324 text · 
+								325 link Description: AI 知识库与业务助手方案, Value: east-profit.com/?utm_source=chatgpt.com
+							326 container
+								327 text 官网展示了汽车集团  AI  售前客服、国际学校招生咨询等案例，并提供企业知识库、AI  员工与报价客服等实施模块。其中报价客服方案明确提到按型号查询  ERP  库存、减少人工复制和查价。
+								328 pop up button (collapsed) 企业级AI应用落地服务商 +1, Secondary Actions: Expand
+									329 image
+									330 text 企业级AI应用落地服务商
+									331 text +1
+							332 content list
+								333 container
+									334 AXListMarker • 
+									335 text 适合询问： 产品知识库、报价查询、库存信息辅助检索、客服重复答疑。
+								336 container
+									337 AXListMarker • 
+									338 text 公开收费： AI  教练服务  5,000  元/月起，且按年付；其他具体实施模块需进一步询价。
+								339 container
+									340 AXListMarker • 
+									341 text 咨询方式： 电话 
+									342 text [REDACTED_PHONE]
+									343 text 、邮箱 
+									344 text [REDACTED_PHONE]@qq.com
+									345 text ，或官网免费  AI  落地诊断。
+								346 container
+									347 AXListMarker • 
+									348 text 需要核实： 报价客服的库存查询是否有实际部署案例，以及是否接受不购买长期陪跑服务的独立小项目。
+							349 heading 二、按你的两个目标，应该怎么选, Value: 2
+								350 text 二、按你的两个目标，应该怎么选
+							351 table
+								352 row
+									353 cell
+										354 text 你的需求
+									355 cell
+										356 text 优先联系
+									357 cell
+										358 text 原因
+								359 row
+									360 cell
+										361 container
+											362 text 重复录入、Excel  表格核对
+									363 cell
+										364 text 宁数智研、聂二
+									365 cell
+										366 text 前者明确提供跨系统自动化；后者明确提供文档解析、字段提取和异常检测
+								367 row
+									368 cell
+										369 text 企业知识库、内部答疑
+									370 cell
+										371 container
+											372 text 请叫我  HH、聂二
+									373 cell
+										374 container
+											375 text 一个偏小型客服知识库实施，一个偏企业  RAG  与可追溯问答
+								376 row
+									377 cell
+										378 text 库存查询、报价辅助
+									379 cell
+										380 text 东方盈、宁数智研
+									381 cell
+										382 container
+											383 text 前者官网明确提到  ERP  库存查询；后者偏业务流程自动化
+								384 row
+									385 cell
+										386 text 先梳理需求、再确定开发范围
+									387 cell
+										388 text 九昇智能、聂二
+									389 cell
+										390 text 有明确的场景诊断、技术评估或项目拆分服务
+							391 text 以上是根据官网公开服务描述做的匹配，不代表我已独立验证这些服务商的交付能力。
+							392 heading 三、关于收费，需要注意什么, Value: 2
+								393 text 三、关于收费，需要注意什么
+							394 text 目前公开价格呈现出三个层次：
+							395 content list
+								396 container
+									397 AXListMarker • 
+									398 text 几百至数千元： 工具配置、简单自动化、初步诊断。
+								399 container
+									400 AXListMarker • 
+									401 text 1  万至  3  万元： 相对完整的文档处理、知识库或  AI  应用  MVP。
+								402 container
+									403 AXListMarker • 
+									404 text 数万元以上： 正式系统集成、多系统联动、生产级部署及持续维护。
+							405 container
+								406 text 例如，宁数智研公开标示企业自动化  3,000  元起；聂二的企业知识库  MVP  为  20,000  元起；请叫我  HH  的客服实施为  1–5  万元。
+								407 pop up button (collapsed) Industrial AI Partner +2, Secondary Actions: Expand
+									408 image
+									409 text Industrial 
+									410 text AI 
+									411 text Partner
+									412 text +2
+							413 container
+								414 text 这些是官网标价，不是针对你的具体场景取得的正式报价。库存核对也未必需要大模型：如果只是比对两份  Excel、找出数量差异，规则脚本可能比  AI  更便宜、更稳定。应当先看数据格式、业务规则和异常类型，再决定是否需要  AI。
+							415 heading 四、我建议的下一步, Value: 2
+								416 text 四、我建议的下一步
+							417 container
+								418 text 如果你的目的是研究同行、了解市场定价，或者寻找可以合作的交付伙伴，建议先联系  宁数智研、聂二、东方盈 三家，分别询问同一个具体需求。
+							419 text 可以直接发送下面这段话：
+							420 container
+								421 text 写作
+								422 button 复制
+								423 button 打开编辑器
+								424 text entry area (settable) Description: 开始写作, Value: 你好，我正在了解中小企业的小范围 AI 落地实施服务，想咨询两个具体场景：
+
+重复录入与库存核对： 将现有 Excel、订单或出入库数据进行匹配，自动标记数量差异、重复记录和异常数据，由员工复核后确认。
+
+企业知识库辅助答疑： 将产品资料、操作手册、业务规则整理成可查询的知识库，员工提问时能够给出答案和原始资料出处。
+
+目前希望先做一个范围明确、成本可控的小项目，而不是直接建设整套企业系统。
+
+想了解几个问题：
+
+是否有接近上述场景的实际交付案例？
+
+能否只针对一个流程或一个部门做试点？
+
+最小项目的报价、交付周期分别是多少？
+
+是否支持先用脱敏样本验证效果，再决定是否正式实施？
+
+交付后代码、数据、账号及维护权限如何约定？
+
+如果方便，希望先看一个类似案例及大致报价范围。谢谢。
+									425 text 你好，我正在了解中小企业的小范围 AI 落地实施服务，想咨询两个具体场景：
+									426 content list
+										427 container
+											428 AXListMarker 1. 
+											429 text 重复录入与库存核对：
+											430 text  将现有 Excel、订单或出入库数据进行匹配，自动标记数量差异、重复记录和异常数据，由员工复核后确认。
+										431 container
+											432 AXListMarker 2. 
+											433 text 企业知识库辅助答疑：
+											434 text  将产品资料、操作手册、业务规则整理成可查询的知识库，员工提问时能够给出答案和原始资料出处。
+									435 text 目前希望先做一个范围明确、成本可控的小项目，而不是直接建设整套企业系统。
+									436 text 想了解几个问题：
+									437 content list
+										438 container
+											439 AXListMarker • 
+											440 text 是否有接近上述场景的实际交付案例？
+										441 container
+											442 AXListMarker • 
+											443 text 能否只针对一个流程或一个部门做试点？
+										444 container
+											445 AXListMarker • 
+											446 text 最小项目的报价、交付周期分别是多少？
+										447 container
+											448 AXListMarker • 
+											449 text 是否支持先用脱敏样本验证效果，再决定是否正式实施？
+										450 container
+											451 AXListMarker • 
+											452 text 交付后代码、数据、账号及维护权限如何约定？
+									453 text 如果方便，希望先看一个类似案例及大致报价范围。谢谢。
+							454 container
+								455 text 最终判断： 这五家值得进入进一步核实名单，但不能仅凭官网就认定为可靠供应商。尤其是库存核对，下一步最有价值的证据不是更宏大的  AI  案例，而是对方能否拿一份脱敏样本，展示核对结果、异常识别能力、人工复核机制和明确报价。
+							456 button 复制
+								457 image
+							458 button 评价回复
+								459 image
+							460 checkbox Description: 朗读, Value: 0
+							461 pop up button (collapsed) Description: 重新生成回复, ID: radix-_r_ht_, Secondary Actions: Expand
+							462 pop up button (collapsed) Description: 更多操作, ID: radix-_r_i1_, Secondary Actions: Expand
+						463 text ChatGPT 可能会出错。请核查重要信息。
+						464 container
+							465 button 滚动到底部
+							466 heading 最新一条回复, Value: 4
+								467 text 最新一条回复
+							468 container
+								469 container
+									470 button (collapsed) Description: 添加文件等内容, Secondary Actions: Expand
+									471 text entry area (settable) Description: 询问 ChatGPT, Value: 
+
+										472 container
+											473 text 询问 ChatGPT
+									474 pop up button (collapsed) Description: 选择 ChatGPT 模型, ID: radix-_r_c1_, Secondary Actions: Expand
+									475 button 听写
+									476 button (disabled) 发送
+										477 image
+		478 text 回答已完成
+		479 button ⋮⋮
+		480 button ⋮⋮
+
+The focused UI element is 471 text entry area (settable) Description: 询问 ChatGPT, Value: 

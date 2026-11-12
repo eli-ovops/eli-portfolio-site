@@ -1,0 +1,96 @@
+{
+  "status": "LOCAL_QA_PASSED_NOT_PUBLISHED",
+  "revision": "db2a07f4b91429cb3f5c",
+  "production_baseline": "5c2760c23a73225e2ff6",
+  "publication_authorized": false,
+  "changed_sources": [
+    "scripts/articles.py",
+    "scripts/components.py",
+    "assets/article-rotator.css",
+    "assets/article-rotator.js",
+    "content/page-updates.json",
+    "site.yaml"
+  ],
+  "content_changed_pages": [
+    "index.html",
+    "en/index.html"
+  ],
+  "other_html_content_unchanged": 294,
+  "article_pool": 8,
+  "visible_rows": 2,
+  "interval_ms": 7000,
+  "transition_ms": 680,
+  "mobile_browser_widths": [
+    360,
+    390
+  ],
+  "bilingual_mobile_steps": 32,
+  "desktop_full_cycle_steps": 8,
+  "hover_pause_verified_seconds": 7.5,
+  "physical_phone_test": false,
+  "browser_flows": [
+    {
+      "step": "en carousel → article",
+      "url": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "en article → case",
+      "url": "http://127.0.0.1:4178/en/cases/p36.html?pv=db2a07f4b91429cb3f5c&from=%2Fen%2Farticles%2Fenterprise-knowledge-base.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← Back to article"
+    },
+    {
+      "step": "en case → original article",
+      "url": "http://127.0.0.1:4178/en/articles/enterprise-knowledge-base.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "en article → consultation",
+      "url": "http://127.0.0.1:4178/en/about.html?pv=db2a07f4b91429cb3f5c#contact",
+      "contactLinks": [
+        "",
+        "[REDACTED_EMAIL] ↗",
+        "[REDACTED_PHONE] ↗",
+        "[REDACTED_PHONE] ↗"
+      ]
+    },
+    {
+      "step": "en → zh language",
+      "url": "http://127.0.0.1:4178/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    },
+    {
+      "step": "zh carousel → article",
+      "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c"
+    },
+    {
+      "step": "zh article → case",
+      "url": "http://127.0.0.1:4178/cases/p10.html?pv=db2a07f4b91429cb3f5c&from=%2Farticles%2Finventory-reconciliation.html%3Fpv%3Ddb2a07f4b91429cb3f5c%23case-records",
+      "back": "← 返回文章"
+    },
+    {
+      "step": "zh case → original article",
+      "url": "http://127.0.0.1:4178/articles/inventory-reconciliation.html?pv=db2a07f4b91429cb3f5c#case-records"
+    },
+    {
+      "step": "zh article → consultation",
+      "url": "http://127.0.0.1:4178/about.html?pv=db2a07f4b91429cb3f5c#contact"
+    }
+  ],
+  "search_submissions": 0,
+  "server_operations": 0,
+  "new_dependencies": 0,
+  "sop": {
+    "sha256": "5b70133e7a155a713c130d07d883afffbd1f57eaa7bfc7c2e2c3dfc9f9bb926a",
+    "mtime": 1786262452.292176
+  },
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "routing_version": "ROUTING-2026-10-13-v4",
+  "automatic_progress_verified": {
+    "before": 0,
+    "after": 4
+  },
+  "console_errors": 0,
+  "temporary_viewport_and_media_overrides_reset": true,
+  "preview_url": "http://127.0.0.1:4178/index.html?pv=db2a07f4b91429cb3f5c#articles",
+  "retained_evidence_directory": "/Users/USER/Documents/原点向量/个人网站/website/evidence/home-article-rotator-20261019",
+  "cleanup": "No disposable temporary files; baseline copies, screenshots and receipts retained for review."
+}

@@ -1,0 +1,13 @@
+{
+  "movingHashes": [
+    "f5246c84bac74c5745e4b888f252383037c311ccbab62a61999618b6099b68de",
+    "efcaeea53abf1ed1e0b82aa9c28b7085f04d0a78b5f062ac12298bcce0890cce",
+    "c283f16c3ef2acf39c598f0c279d7c3ad4d3e9d4b87772ab00aedd95e968850f"
+  ],
+  "stillHashes": [
+    "72acd66899628350a29935733c434783fb31a4e3846b74a23b0a4b1925f34936",
+    "72acd66899628350a29935733c434783fb31a4e3846b74a23b0a4b1925f34936"
+  ],
+  "movingFramesDiffer": true,
+  "pausedFramesIdentical": true
+}

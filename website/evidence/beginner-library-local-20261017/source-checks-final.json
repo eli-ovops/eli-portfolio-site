@@ -1,0 +1,260 @@
+[
+  {
+    "key": "ibm-ai",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "title": "What Is Artificial Intelligence (AI)? | IBM"
+  },
+  {
+    "key": "ibm-llm",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/large-language-models",
+    "title": "What Are Large Language Models (LLMs)? | IBM "
+  },
+  {
+    "key": "search",
+    "status": 200,
+    "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+    "title": "Creating Helpful, Reliable, People-First Content | Google Search Central &nbsp;|&nbsp; Documentation &nbsp;|&nbsp; Google for Developers"
+  },
+  {
+    "key": "nist",
+    "status": 200,
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "title": "AI Risk Management Framework | NIST"
+  },
+  {
+    "key": "google-llm",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/llm",
+    "title": "Introduction to Large Language Models &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers"
+  },
+  {
+    "key": "google-tuning",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/llm/tuning",
+    "title": "LLMs: Fine-tuning, distillation, and prompt engineering &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers"
+  },
+  {
+    "key": "neural",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/neural-networks",
+    "title": "Neural networks &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers"
+  },
+  {
+    "key": "embeddings",
+    "status": 200,
+    "url": "https://developers.google.com/machine-learning/crash-course/embeddings",
+    "title": "Embeddings &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Google for Developers"
+  },
+  {
+    "key": "rag",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+    "title": "What is RAG (Retrieval Augmented Generation)? | IBM"
+  },
+  {
+    "key": "agents",
+    "status": 200,
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "title": "Building Effective AI Agents \\ Anthropic"
+  },
+  {
+    "key": "harness",
+    "status": 200,
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "title": "Effective harnesses for long-running agents \\ Anthropic"
+  },
+  {
+    "key": "skills",
+    "status": 200,
+    "url": "https://agentskills.io/home",
+    "title": "Agent Skills Overview - Agent Skills"
+  },
+  {
+    "key": "skills-spec",
+    "status": 200,
+    "url": "https://agentskills.io/specification",
+    "title": "Specification - Agent Skills"
+  },
+  {
+    "key": "mcp",
+    "status": 200,
+    "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+    "title": "What is the Model Context Protocol (MCP)? - Model Context Protocol"
+  },
+  {
+    "key": "mcp-security",
+    "status": 200,
+    "url": "https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices",
+    "title": "Security Best Practices - Model Context Protocol"
+  },
+  {
+    "key": "owasp",
+    "status": 200,
+    "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+    "title": "LLM01:2025 Prompt Injection - OWASP Gen AI Security Project"
+  },
+  {
+    "key": "json",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON",
+    "title": "Working with JSON - Learn web development | MDN"
+  },
+  {
+    "key": "mdn-api",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction",
+    "title": "Introduction to web APIs - Learn web development | MDN"
+  },
+  {
+    "key": "mdn-html",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax",
+    "title": "Basic HTML syntax - Learn web development | MDN"
+  },
+  {
+    "key": "mdn-cli",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line",
+    "title": "Command line crash course - Learn web development | MDN"
+  },
+  {
+    "key": "mdn-publishing",
+    "status": 200,
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website",
+    "title": "Publishing your website - Learn web development | MDN"
+  },
+  {
+    "key": "npm",
+    "status": 200,
+    "url": "https://docs.npmjs.com/about-packages-and-modules/",
+    "title": "About packages and modules | npm Docs"
+  },
+  {
+    "key": "github",
+    "status": 200,
+    "url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github",
+    "title": "What is GitHub? - GitHub Docs"
+  },
+  {
+    "key": "github-repos",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories",
+    "title": "About repositories - GitHub Docs"
+  },
+  {
+    "key": "github-releases",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases",
+    "title": "About releases - GitHub Docs"
+  },
+  {
+    "key": "github-commit",
+    "status": 200,
+    "url": "https://docs.github.com/en/pull-requests/reference/commits",
+    "title": "Commits - GitHub Docs"
+  },
+  {
+    "key": "github-hello",
+    "status": 200,
+    "url": "https://docs.github.com/en/get-started/using-github/hello-world",
+    "title": "Hello World - GitHub Docs"
+  },
+  {
+    "key": "github-pr",
+    "status": 200,
+    "url": "https://docs.github.com/en/pull-requests/reference/pull-requests",
+    "title": "Pull requests - GitHub Docs"
+  },
+  {
+    "key": "github-issues",
+    "status": 200,
+    "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues",
+    "title": "About issues - GitHub Docs"
+  },
+  {
+    "key": "github-license",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+    "title": "Licensing a repository - GitHub Docs"
+  },
+  {
+    "key": "github-visibility",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility",
+    "title": "Setting repository visibility - GitHub Docs"
+  },
+  {
+    "key": "github-secrets",
+    "status": 200,
+    "url": "https://docs.github.com/en/code-security/concepts/secret-security/secret-scanning",
+    "title": "Secret scanning - GitHub Docs"
+  },
+  {
+    "key": "ocr",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/optical-character-recognition",
+    "title": "What Is Optical Character Recognition (OCR)? | IBM"
+  },
+  {
+    "key": "fde",
+    "status": 200,
+    "url": "https://www.eliai.cn/services/fde-consulting.html",
+    "title": "FDE 企业 AI 落地咨询｜从业务问题到小范围实施 - Eli"
+  },
+  {
+    "key": "wb-files",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-One",
+    "title": "实践一：文件内容识别与处理 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "wb-data",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Practice-Three",
+    "title": "实践三：数据分析并可视化 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "wb-results",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/Results",
+    "title": "结果查看 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "wb-skills",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+    "title": "技能 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "wb-permissions",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Permission-Modes",
+    "title": "默认权限与安全沙箱 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "wb-connectors",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
+    "title": "连接器 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "wb-faq",
+    "status": 200,
+    "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+    "title": "常见问题 | WorkBuddy - AI Agent 办公新范式"
+  },
+  {
+    "key": "prompt",
+    "status": 200,
+    "url": "https://learn.microsoft.com/en-us/dotnet/ai/conceptual/prompt-engineering-dotnet",
+    "title": "Prompt engineering concepts - .NET | Microsoft Learn"
+  },
+  {
+    "key": "github-readme",
+    "status": 200,
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes",
+    "title": "About the repository README file - GitHub Docs"
+  }
+]

@@ -1,0 +1,348 @@
+{
+  "zh-CN": {
+    "heading": "看看你的行业，可以从哪里开始",
+    "intro": "选择接近你业务的行业，从一件费时的工作开始。下面是可讨论的场景，相关案例注明实际做过的部分。",
+    "scenario_label": "先看一件事",
+    "case_label": "相关实践",
+    "service_labels": {
+      "workflow-automation": "看库存与流程服务",
+      "ai-agent": "看知识库与答疑服务",
+      "fde-consulting": "看 AI 实施合作方式"
+    },
+    "contact_label": "免费聊聊这项工作",
+    "contact_hint": "说说现在怎么做、哪一步最费时间即可，不用准备方案。实施范围和费用确认后再开始。",
+    "expand_label": "展开",
+    "items": [
+      {
+        "id": "manufacturing",
+        "name": "制造业",
+        "summary": "库存反复核对，产品与操作资料不好找",
+        "detail": "可以从一次盘点或一份规格表开始，梳理哪里重复录入、哪里查找费时。涉及生产设备或现有系统对接时，另行评估。",
+        "service": "workflow-automation",
+        "cases": [
+          "P10"
+        ],
+        "case_note": "洁具企业库存项目可供流程参考，完成范围见案例。"
+      },
+      {
+        "id": "ecommerce",
+        "name": "电子商务",
+        "summary": "商品资料反复整理，客服总答同样的问题",
+        "detail": "可以先选一类商品，把商品说明和常见问题放在一起，看看如何让客服查资料、核对答案更方便。先评估现有平台和工具，再决定做法。",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "cross-border",
+        "name": "跨境电商",
+        "summary": "中英文产品资料难维护，海外咨询反复回复",
+        "detail": "可以先选一个产品，看看中英文说明是否一致、哪些咨询反复出现，再讨论资料维护或客服辅助中的一个改进。",
+        "service": "fde-consulting",
+        "cases": [
+          "P05",
+          "P36"
+        ],
+        "case_note": "以下案例仅对应海外品牌营销与客服协作，具体职责见详情。"
+      },
+      {
+        "id": "wholesale-retail",
+        "name": "批发与零售",
+        "summary": "进出库重复登记，单据与库存对不上",
+        "detail": "可以拿一笔收货或出货记录，沿着登记、库存变动和核对走一遍，找出重复提交、录错后难修改的步骤。",
+        "service": "workflow-automation",
+        "cases": [
+          "P10"
+        ],
+        "case_note": "案例写明已交付的功能，也说明哪些使用效果尚未核实。"
+      },
+      {
+        "id": "home-building",
+        "name": "家具、家居与建材",
+        "summary": "型号规格不好找，展示与库存资料难维护",
+        "detail": "可以先整理一组产品的图片、型号和尺寸，看看官网如何展示、员工如何查找。展示页面、资料维护和库存功能分别确认范围。",
+        "service": "fde-consulting",
+        "cases": [
+          "P07",
+          "P09"
+        ],
+        "case_note": "家具品牌展示页面与扫码库存为两个项目，完成范围分别说明。"
+      },
+      {
+        "id": "professional-services",
+        "name": "律所与专业服务",
+        "summary": "客户找服务信息费力，员工查文件费时",
+        "detail": "可以先看客户能否找到服务说明与咨询入口，或挑一类员工常查的文件梳理查找过程。资料权限和人工确认方式在合作前约定。",
+        "service": "fde-consulting",
+        "cases": [
+          "P03",
+          "P04"
+        ],
+        "case_note": "相关经历为团队中的律所官网与内部办公系统开发，分工见详情。"
+      },
+      {
+        "id": "brands-studios",
+        "name": "品牌与内容工作室",
+        "summary": "素材到处找，文案配图每次从头做",
+        "detail": "可以先选一类反复制作的内容，梳理素材存放、文案配图和人工审核步骤，再判断现成工具能帮上哪一部分。",
+        "service": "fde-consulting",
+        "cases": [
+          "P05"
+        ],
+        "case_note": "相关实践为团队品牌营销、内容与 AI 视频协作。"
+      },
+      {
+        "id": "nonprofits",
+        "name": "公益机构",
+        "summary": "项目资料难归集，官网内容更新费时",
+        "detail": "可以先选一个项目，整理介绍、进展和可公开资料，看看如何展示与更新。内容公开范围和后续维护责任先确认。",
+        "service": "fde-consulting",
+        "cases": [
+          "P02"
+        ],
+        "case_note": "相关实践为公益官网开发，具体职责和交付内容见案例。"
+      },
+      {
+        "id": "logistics-warehousing",
+        "name": "物流与仓储",
+        "summary": "收发货重复登记，单据与库存反复核对",
+        "detail": "可以从一笔收货或发货记录开始，梳理登记、数量核对和异常处理的步骤。先确认现有软件和业务规则，再讨论减少重复录入的小范围改进。",
+        "service": "workflow-automation",
+        "cases": [],
+        "case_note": ""
+      }
+    ],
+    "more_items": [
+      {
+        "id": "education-training",
+        "name": "教育与培训",
+        "summary": "课程资料分散，学员问题反复回答",
+        "detail": "可以先选一门课程，整理课程介绍、上课安排和常见问题，看看工作人员如何查找资料并核对回复。先处理可公开或已脱敏的资料。",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "food-multi-location",
+        "name": "餐饮与连锁门店",
+        "summary": "采购台账、门店报表重复整理",
+        "detail": "可以先拿一份采购台账或门店日报，看看哪些字段反复填写、哪些汇总靠手工核对，再评估现有表格或工具能改善哪一步。",
+        "service": "workflow-automation",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "tourism-hospitality",
+        "name": "旅游与住宿",
+        "summary": "服务信息难维护，咨询重复回复",
+        "detail": "可以先整理一类房型或服务项目的说明、适用条件和常见问题，讨论资料维护与回复辅助。价格和预订情况仍由工作人员核对。",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "events-exhibitions",
+        "name": "会展与活动",
+        "summary": "报名资料、物料清单与进度分散",
+        "detail": "可以先选一次活动，梳理报名资料、物料数量和进度记录，找出重复整理或容易漏项的环节，再确认一个小范围试用的做法。",
+        "service": "fde-consulting",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "software-technology",
+        "name": "软件与技术服务",
+        "summary": "项目文档难找，支持问题反复处理",
+        "detail": "可以先选一类反复出现的支持问题，把相关产品文档和处理说明整理在一起，讨论资料查找与答复辅助，并保留人工核对。",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "agri-food",
+        "name": "农产品与食品经营",
+        "summary": "商品规格分散，出入库记录重复核对",
+        "detail": "可以先选一组商品，整理规格、单位和出入库记录，核对表格之间的重复项与数量差异。涉及批次等业务规则时，先确认核对口径。",
+        "service": "workflow-automation",
+        "cases": [],
+        "case_note": ""
+      }
+    ],
+    "more_name": "更多行业",
+    "more_summary": "教育培训、餐饮门店、旅游住宿等六类场景",
+    "more_intro": "以下为可讨论的业务场景，是否适合需要结合你的实际流程确认，不代表已有这些行业的交付经历。"
+  },
+  "en": {
+    "heading": "Where could we start in your industry?",
+    "intro": "Choose the industry closest to your business and start with one time-consuming task. These are scenarios we can discuss; linked cases state the work actually done.",
+    "scenario_label": "Start with one task",
+    "case_label": "Related work",
+    "service_labels": {
+      "workflow-automation": "Inventory and workflow services",
+      "ai-agent": "Knowledge-base and support services",
+      "fde-consulting": "AI implementation services"
+    },
+    "contact_label": "Discuss this task for free",
+    "contact_hint": "Just describe how you work now and which step takes the most time. No proposal needed. Implementation starts after scope and fees are agreed.",
+    "expand_label": "Expand",
+    "items": [
+      {
+        "id": "manufacturing",
+        "name": "Manufacturing",
+        "summary": "Repeated stock checks and hard-to-find product instructions",
+        "detail": "We can start with one stocktake or specification sheet and trace repeated entry or slow lookups. Equipment connections and integrations with existing systems need a separate review.",
+        "service": "workflow-automation",
+        "cases": [
+          "P10"
+        ],
+        "case_note": "The sanitaryware inventory project is a workflow reference. Its case states the completed scope."
+      },
+      {
+        "id": "ecommerce",
+        "name": "E-commerce",
+        "summary": "Reworking product information and answering the same questions",
+        "detail": "We can start with one product category, bring its descriptions and common questions together, and assess how staff could find information and check answers more easily. Your current platform and tools guide the approach.",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "cross-border",
+        "name": "Cross-border e-commerce",
+        "summary": "Keeping bilingual product information current and repeating replies",
+        "detail": "We can choose one product, check whether its Chinese and English descriptions agree, and identify recurring questions. Then we can discuss one improvement to information maintenance or support assistance.",
+        "service": "fde-consulting",
+        "cases": [
+          "P05",
+          "P36"
+        ],
+        "case_note": "These cases cover overseas brand marketing and customer support collaboration. Each states my role."
+      },
+      {
+        "id": "wholesale-retail",
+        "name": "Wholesale and retail",
+        "summary": "Repeated stock entries and records that do not match",
+        "detail": "We can trace one receipt or dispatch through entry, stock changes and reconciliation to find duplicate submissions and entries that are difficult to correct.",
+        "service": "workflow-automation",
+        "cases": [
+          "P10"
+        ],
+        "case_note": "The case states which functions were delivered and which usage outcomes remain unverified."
+      },
+      {
+        "id": "home-building",
+        "name": "Furniture, home and building products",
+        "summary": "Hard-to-find specifications and product records to maintain",
+        "detail": "We can start with the images, model numbers and dimensions for one product group, then review how customers see them and staff find them. Website presentation, information maintenance and inventory functions have separate scopes.",
+        "service": "fde-consulting",
+        "cases": [
+          "P07",
+          "P09"
+        ],
+        "case_note": "The furniture presentation site and barcode inventory system are separate projects. Each case states the completed scope."
+      },
+      {
+        "id": "professional-services",
+        "name": "Law firms and professional services",
+        "summary": "Clients struggle to find service details; staff spend time finding files",
+        "detail": "We can review how clients find service details and a contact route, or trace how staff find one frequently used type of document. Access permissions and human review are agreed before implementation.",
+        "service": "fde-consulting",
+        "cases": [
+          "P03",
+          "P04"
+        ],
+        "case_note": "Related work covers law-firm websites and internal office systems within a team. See each case for my responsibilities."
+      },
+      {
+        "id": "brands-studios",
+        "name": "Brands and content studios",
+        "summary": "Searching for assets and starting copy and images from scratch",
+        "detail": "We can choose one recurring content task, review asset storage, copy, images and human approval, then assess which steps existing tools could help with.",
+        "service": "fde-consulting",
+        "cases": [
+          "P05"
+        ],
+        "case_note": "Related experience is collaborative brand marketing, content and AI video work."
+      },
+      {
+        "id": "nonprofits",
+        "name": "Nonprofit organizations",
+        "summary": "Scattered project records and time-consuming website updates",
+        "detail": "We can start with one project, organize its introduction, progress and public information, then review how it is presented and updated. Disclosure limits and maintenance responsibilities are agreed first.",
+        "service": "fde-consulting",
+        "cases": [
+          "P02"
+        ],
+        "case_note": "Related work is nonprofit website development. The case describes my role and the delivered content."
+      },
+      {
+        "id": "logistics-warehousing",
+        "name": "Logistics and warehousing",
+        "summary": "Repeated receipt and dispatch entries; reconciling documents and stock",
+        "detail": "We can trace one receipt or dispatch through data entry, quantity checks and exception handling. First clarify your current software and business rules, then discuss a small change to reduce repeated entry.",
+        "service": "workflow-automation",
+        "cases": [],
+        "case_note": ""
+      }
+    ],
+    "more_items": [
+      {
+        "id": "education-training",
+        "name": "Education and training",
+        "summary": "Scattered course information and recurring student questions",
+        "detail": "We can choose one course, organize its description, schedule and common questions, and review how staff find information and check replies. Start with public or sanitized materials.",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "food-multi-location",
+        "name": "Restaurants and multi-location businesses",
+        "summary": "Repeated work on purchase records and location reports",
+        "detail": "We can review one purchase log or daily location report, identify repeated fields and manual checks, then assess which step existing spreadsheets or tools could improve.",
+        "service": "workflow-automation",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "tourism-hospitality",
+        "name": "Travel and hospitality",
+        "summary": "Service information to maintain and recurring enquiries",
+        "detail": "We can organize descriptions, applicable conditions and common questions for one room type or service, then discuss information maintenance and reply assistance. Staff still verify prices and booking availability.",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "events-exhibitions",
+        "name": "Exhibitions and events",
+        "summary": "Scattered registration records, material lists and progress updates",
+        "detail": "We can review registration records, material quantities and progress tracking for one event, identify repeated work or missed items, then agree an approach for a small pilot.",
+        "service": "fde-consulting",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "software-technology",
+        "name": "Software and technology services",
+        "summary": "Hard-to-find project documents and recurring support questions",
+        "detail": "We can choose one recurring support issue, bring the relevant product documents and instructions together, and discuss information lookup and reply assistance with human review.",
+        "service": "ai-agent",
+        "cases": [],
+        "case_note": ""
+      },
+      {
+        "id": "agri-food",
+        "name": "Agricultural and food businesses",
+        "summary": "Scattered product specifications and repeated stock checks",
+        "detail": "We can organize specifications, units and stock movement records for one product group, then check duplicate entries and quantity differences between sheets. Clarify rules such as batch handling before choosing the checks.",
+        "service": "workflow-automation",
+        "cases": [],
+        "case_note": ""
+      }
+    ],
+    "more_name": "More industries",
+    "more_summary": "Six more scenarios, including education, restaurants and hospitality",
+    "more_intro": "These are possible business scenarios to discuss. Suitability depends on your actual workflow; this list does not claim prior delivery experience in these industries."
+  }
+}

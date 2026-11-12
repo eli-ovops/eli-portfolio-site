@@ -1,0 +1,116 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#content"
+  - button "Show Bing tools":
+    - generic: 
+  - img "white bwt logo microsoft bing webmaster"
+  - button "Copilot":
+  - button "Notifications":
+    - generic: 
+  - button "Help":
+    - generic: 
+  - button "Feedback":
+    - generic: 
+  - button "Settings":
+    - generic: 
+  - button "Profile":
+- button "Select website":
+  - generic: 
+  - generic: www.eliai.cn/
+  - generic: 
+- navigation "Main menu":
+  - tree:
+    - treeitem "Home":
+      - generic: 
+      - text: Home
+    - treeitem "Search Performance":
+      - generic: 
+      - text: Search Performance
+    - treeitem "AI Performance BETA":
+      - generic: 
+      - text: AI Performance
+      - generic: BETA
+    - treeitem "URL Inspection":
+      - generic: 
+      - text: URL Inspection
+    - treeitem "Site Explorer":
+      - generic: 
+      - text: Site Explorer
+    - treeitem "Sitemaps":
+      - generic: 
+      - text: Sitemaps
+    - treeitem "IndexNow":
+      - text: IndexNow
+    - treeitem "URL Submission":
+      - generic: 
+      - text: URL Submission
+    - treeitem "Backlinks":
+      - generic: 
+      - text: Backlinks
+    - treeitem "Keyword Research":
+      - generic: 
+      - text: Keyword Research
+    - treeitem "Recommendations":
+      - generic: 
+      - text: Recommendations
+    - treeitem "Site Scan":
+      - generic: 
+      - text: Site Scan
+    - treeitem "Configuration":
+      - text: Configuration
+      - generic: 
+    - treeitem "Tools & Enhancements":
+      - text: Tools & Enhancements
+      - generic: 
+    - treeitem "Security & Privacy":
+      - text: Security & Privacy
+      - generic: 
+    - treeitem "User management":
+      - generic: 
+      - text: User management
+    - treeitem "Microsoft Clarity":
+      - generic: 
+      - text: Microsoft Clarity
+- main:
+  - heading "URL Inspection" [level=2]
+  - search:
+    - searchbox "Enter URL to inspect in \"https://www.eliai.cn/\"": https://eliai.cn
+    - button "Clear":
+      - generic: 
+  - button "Inspect":
+    - generic: Inspect
+  - tablist:
+    - tab "Bing Index" [selected]:
+      - generic: Bing Index
+    - tab "Live URL":
+      - generic: Live URL
+  - generic: Page updated?
+  - button "Request indexing":
+    - generic: Request indexing
+  - heading "Indexed successfully URL can appear on Bing" [level=3]:
+    - button "Indexed successfully URL can appear on Bing" [expanded] [active]:
+      - generic: 
+      - generic: Indexed successfully
+      - generic: URL can appear on Bing
+      - generic: 
+  - generic: 
+  - generic: Discover
+  - generic: Discovered on 15 Oct 2026
+  - generic: 
+  - generic: Crawl
+  - generic: Last crawl attempted 22 Oct 2026 at 20:29
+  - generic: Crawl allowed? Yes
+  - generic: Page Fetch Successful
+  - generic: Indexing allowed? Yes
+  - generic: 
+  - generic: Index
+  - generic: Canonical URL - -
+  - button "View Indexed page":
+    - generic: View Indexed page
+  - generic: 
+  - generic: No SEO/GEO issues found
+  - heading "1 Markup type found" [level=3]:
+    - button "1 Markup type found":
+      - generic: 
+      - generic: 1 Markup type found
+      - generic: 

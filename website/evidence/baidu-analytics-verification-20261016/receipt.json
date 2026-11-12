@@ -1,0 +1,45 @@
+{
+  "time": "2026-10-16T07:15:52.212719+00:00",
+  "status": "PARTIALLY_VERIFIED_CONVERSION_REPORT_UNRESOLVED",
+  "owner": "current website execution thread",
+  "revision": "178520c8fe26246e904b",
+  "production_code_changed": false,
+  "production_deployment_performed": false,
+  "findings": {
+    "sdk_request_context": "Controlled GET with the same user agent: no Referer gives200/0bytes; with real public homepage Referer gives valid SDK. Genuine website context loads valid SDK. Does not retroactively prove every older empty browser response cause.",
+    "sdk_all_native_goals": 8,
+    "pv": {
+      "passed": true,
+      "backend_pv": 3,
+      "backend_uv": 1,
+      "evidence": "overview-final.json"
+    },
+    "source": {
+      "passed": true,
+      "observed_source": "直接访问",
+      "backend_pv": 3,
+      "coverage": "Direct-source QA visit only; search/social referral classification not tested"
+    },
+    "consultation": {
+      "collector_passed": true,
+      "native_consultation_http_status": 200,
+      "native_wechat_http_status": 200,
+      "backend_conversion_report_passed": false,
+      "backend_display": "--",
+      "root_cause": "UNKNOWN",
+      "evidence": [
+        "collection-network.json",
+        "wechat-native-network.json",
+        "conversions-final.json"
+      ]
+    },
+    "native_goal_configuration": "8 enabled; static IDs match; official edit UI explicitly states * matches whole website; single-goal view also checked. No goal setting changed this turn.",
+    "mobile": "390px no horizontal overflow; real consultation link click collected; original visuals/motion retained",
+    "consent": "Test session withdrawn; reloaded page has0 SDK scripts"
+  },
+  "acceptance_boundary": "Only genuine QA browsing, not customer traffic or commercial enquiries. No artificial PV/conversion requests, messages, paid resources, trial signup, network or security changes.",
+  "next_step": "Recheck provider native conversion report; cannot mark conversion dashboard acceptance until actual target counts appear. If persistent, use retained sanitized evidence for an authorized provider support inquiry. No automation or outbound support message created.",
+  "user_action_required_now": false,
+  "retained_artifacts": "/Users/USER/Documents/原点向量/个人网站/website/evidence/baidu-analytics-verification-20261016",
+  "code_build_tests": "Not rerun: source and deployed code unchanged; this turn verified live SDK, genuine collection and backend reports."
+}

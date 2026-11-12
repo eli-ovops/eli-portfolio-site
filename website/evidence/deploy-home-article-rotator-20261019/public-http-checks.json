@@ -1,0 +1,72 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "sha256": "bebea5d892bc76b293b983e08992cefd5304c1e852c6fca1dde6b23a91b6e18d"
+  },
+  {
+    "path": "en/index.html",
+    "status": 200,
+    "sha256": "1b37c74e16d669267e324ccb4a6c06b699786d2b780e4ed6c6cc13c9043402ca"
+  },
+  {
+    "path": "assets/article-rotator.css",
+    "status": 200,
+    "sha256": "379af0426e41e3296e5bc3474210149b485b7d4266f8c740c91640b94110fa07"
+  },
+  {
+    "path": "assets/article-rotator.js",
+    "status": 200,
+    "sha256": "a94944f39968e00088ae2ae864747bc6ca9874ca513f3de11b21b284aabc1ed7"
+  },
+  {
+    "path": "assets/stacked-gallery.css",
+    "status": 200,
+    "sha256": "9c476e02cb4eeda0e4714905324c6b9534e8fd3d92cd86a24d5c7a19e700654a"
+  },
+  {
+    "path": "assets/depth-gallery.js",
+    "status": 200,
+    "sha256": "97b9790742407366314678f7a1ad2506c86d1ecdaff9ae5c20a16a22334f5609"
+  },
+  {
+    "path": "articles/inventory-reconciliation.html",
+    "status": 200,
+    "sha256": "0fbbad04ee98eb29cc980f96259f8e1d553a5f380d28a29eb47f840cc64b848d"
+  },
+  {
+    "path": "en/articles/enterprise-knowledge-base.html",
+    "status": 200,
+    "sha256": "0650a9200198d0d1b32f14829663adac7691d1e3a09e330396e44d4bf7cdcf62"
+  },
+  {
+    "path": "articles/ai-inventory-exceptions.html",
+    "status": 200,
+    "sha256": "6be4bcb3ca12d623fab28191886510cadb49235938df3156b2a8271eaa1bfe21"
+  },
+  {
+    "path": "en/articles/what-is-agent.html",
+    "status": 200,
+    "sha256": "453939148c9edf043e92aaf59082c080acf5d0a1bf793b4eb46dfa79cb99ab6a"
+  },
+  {
+    "path": "about.html",
+    "status": 200,
+    "sha256": "db78ffaf2363aff510af65bf03710b762455e801b74518017fdb1fb8ccfe7ea9"
+  },
+  {
+    "path": "en/about.html",
+    "status": 200,
+    "sha256": "ce891f2f445d463778bf39c9e27f73b889ee5cdaba89b19b636651f26d630f9f"
+  },
+  {
+    "path": "cases/p10.html",
+    "status": 200,
+    "sha256": "e4cbe52bdf50a77974283abeb8a9584842d5a4ca93562231137da4d2efa13d76"
+  },
+  {
+    "path": "en/cases/p36.html",
+    "status": 200,
+    "sha256": "4c43de43142853e90578f79328eabdbbb1e58fa1ecba96c6308dd6969dab6a05"
+  }
+]

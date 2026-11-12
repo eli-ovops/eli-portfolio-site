@@ -1,0 +1,155 @@
+Browser tab: 9, Title: "中小企业 AI 实施与流程提效服务 - Eli", URL: "http://127.0.0.1:4178/index.html?project=p10#work".
+1 AXWebArea 中小企业 AI 实施与流程提效服务 - Eli, URL: 127.0.0.1:4178/index.html?project=p10#work
+	2 link Description: 跳到正文, Value: 127.0.0.1:4178/index.html?project=p10#main
+	3 container
+		4 link Description: Eli首页, Value: 127.0.0.1:4178/index.html
+		5 container 主导航
+			6 link Description: 首页, Value: 127.0.0.1:4178/index.html
+			7 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+			8 link Description: 文章, Value: 127.0.0.1:4178/articles.html
+			9 link Description: 关于, Value: 127.0.0.1:4178/about.html
+			10 link Description: 切换到英文版, Value: 127.0.0.1:4178/en/index.html
+	11 container main
+		12 container 个人介绍
+			13 checkbox 背景动效, Help: 暂停背景动效, Value: 1
+			14 container Eli
+			15 text FDE · 贴近业务，选工具、改流程
+			16 heading 帮中小企业用好 AI 从重复工作开始, Value: 1
+				17 text 帮中小企业用好 AI
+				18 text 从重复工作开始
+			19 text 初次沟通免费，实施服务低至500元起。范围和费用确认后再开始。
+			20 content list 服务方式
+				21 text 录入核对
+				22 text 资料答疑
+				23 text 内容整理
+			24 text 说说最费时间的一件事，不用懂技术，也不用准备方案。
+			25 link Description: 免费聊聊, Value: 127.0.0.1:4178/about.html#contact, ID: eli-consult-entry-1
+			26 link Description: 看实际案例, Value: 127.0.0.1:4178/index.html?project=p10#work
+		27 container
+			28 container 哪些工作，可以先一起看看？, ID: needs
+				29 heading 哪些工作，可以先一起看看？, Value: 2, ID: needs-title
+					30 text 哪些工作，可以先一起看看？
+				31 container
+					32 text 不必从大系统开始。先用好现成的 AI 助手，或改善一个重复步骤。 
+					33 link Description: FDE 怎么合作 ↗, Value: 127.0.0.1:4178/services/fde-consulting.html
+				34 container
+					35 heading 录入和库存靠人核对, Value: 3
+						36 text 录入和库存靠人核对
+					37 text 减少重复录入与人工核对。
+					38 button (collapsed) Description: 展开做法: 录入和库存靠人核对, Help: 展开做法, Secondary Actions: Expand
+						39 text 展开做法
+					40 link Description: 看库存案例, Value: 127.0.0.1:4178/cases/p10.html
+					41 link Description: 看扫码案例, Value: 127.0.0.1:4178/cases/p09.html
+				42 container
+					43 heading 资料难找、问题反复问, Value: 3
+						44 text 资料难找、问题反复问
+					45 text 让资料更好找，答疑有依据。
+					46 button (collapsed) Description: 展开做法: 资料难找、问题反复问, Help: 展开做法, Secondary Actions: Expand
+						47 text 展开做法
+					48 link Description: 看答疑案例, Value: 127.0.0.1:4178/cases/p36.html
+				49 container
+					50 heading 产品内容总要重做, Value: 3
+						51 text 产品内容总要重做
+					52 text 让文案和配图不必每次从头做。
+					53 button (collapsed) Description: 展开做法: 产品内容总要重做, Help: 展开做法, Secondary Actions: Expand
+						54 text 展开做法
+					55 link Description: 看内容案例, Value: 127.0.0.1:4178/cases/p12.html
+			56 container 看看你的行业，可以从哪里开始, ID: industries
+				57 heading 看看你的行业，可以从哪里开始, Value: 2, ID: industries-title
+					58 text 看看你的行业，可以从哪里开始
+				59 text 选择接近你业务的行业，从一件费时的工作开始。下面是可讨论的场景，相关案例注明实际做过的部分。
+				60 button (collapsed) 制造业 库存反复核对，产品与操作资料不好找, Secondary Actions: Expand
+					61 text 制造业
+					62 text 库存反复核对，产品与操作资料不好找
+				63 button (collapsed) 批发与零售 进出库重复登记，单据与库存对不上, Secondary Actions: Expand
+					64 text 批发与零售
+					65 text 进出库重复登记，单据与库存对不上
+				66 button (collapsed) 家具、家居与建材 型号规格不好找，展示与库存资料难维护, Secondary Actions: Expand
+					67 text 家具、家居与建材
+					68 text 型号规格不好找，展示与库存资料难维护
+				69 button (collapsed) 电子商务 商品资料反复整理，客服总答同样的问题, Secondary Actions: Expand
+					70 text 电子商务
+					71 text 商品资料反复整理，客服总答同样的问题
+				72 button (collapsed) 跨境电商 中英文产品资料难维护，海外咨询反复回复, Secondary Actions: Expand
+					73 text 跨境电商
+					74 text 中英文产品资料难维护，海外咨询反复回复
+				75 button (collapsed) 律所与专业服务 客户找服务信息费力，员工查文件费时, Secondary Actions: Expand
+					76 text 律所与专业服务
+					77 text 客户找服务信息费力，员工查文件费时
+				78 button (collapsed) 品牌与内容工作室 素材到处找，文案配图每次从头做, Secondary Actions: Expand
+					79 text 品牌与内容工作室
+					80 text 素材到处找，文案配图每次从头做
+				81 button (collapsed) 公益机构 项目资料难归集，官网内容更新费时, Secondary Actions: Expand
+					82 text 公益机构
+					83 text 项目资料难归集，官网内容更新费时
+				84 button (collapsed) 更多行业 物流仓储、教育培训、餐饮门店等七类场景, Secondary Actions: Expand
+					85 text 更多行业
+					86 text 物流仓储、教育培训、餐饮门店等七类场景
+			87 container 代表项目, ID: work
+				88 text 客户项目与产品实践
+				89 heading 代表项目, Value: 2, ID: work-title
+					90 text 代表项目
+				91 link Description: 项目库, Value: 127.0.0.1:4178/records.html
+				92 container 快速选择项目
+					93 checkbox Description: 查看洁具行业某大型 B 端厂商库存管理系统, Value: 1
+					94 checkbox Description: 查看英国某净水品牌 RAG 智能客服定制, Value: 0
+					95 checkbox Description: 查看某家具品牌扫码库存系统, Value: 0
+					96 checkbox Description: 查看某律师事务所 OA 系统, Value: 0
+					97 checkbox Description: 查看深圳某慈善基金会, Value: 0
+					98 checkbox Description: 查看英国某净水品牌全域营销, Value: 0
+				99 container 代表项目：洁具行业某大型 B 端厂商库存管理系统。图片上滚动切换 · 正文滚动阅读。
+					100 text 01 / 06
+					101 button 上一个案例
+					102 button 下一个案例
+					103 container systems
+						104 link Description: 查看 洁具行业某大型 B 端厂商库存管理系统 截图, Value: 127.0.0.1:4178/assets/public-cases/p10.png
+						105 container
+							106 text 库存管理
+							107 heading 洁具行业某大型 B 端厂商库存管理系统, Value: 3
+								108 text 洁具行业某大型 B 端厂商库存管理系统
+							109 text 已交付 采购、退货和盘点需要统一核对 → 交付 PC 与手机端库存系统 → 已交付，暂无量化使用效果数据。
+							110 button (collapsed) 查看项目过程 ＋, Secondary Actions: Expand
+								111 text 查看项目过程 ＋
+							112 link Description: 完整案例：洁具行业某大型 B 端厂商库存管理系统, Value: 127.0.0.1:4178/cases/p10.html
+			113 container 实践文章, ID: articles
+				114 text 从实际工作出发
+				115 heading 实践文章, Value: 2, ID: articles-title
+					116 text 实践文章
+				117 checkbox Description: 暂停轮播, Value: 0
+				118 button 下一篇文章
+				119 link Description: 全部文章 ↗, Value: 127.0.0.1:4178/articles.html
+				120 container
+					121 text 库存与流程 约 6 分钟
+					122 heading 库存每天靠人工核对，先改哪一步？, Value: 3
+						123 link Description: 库存每天靠人工核对，先改哪一步？, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html
+					124 text 从单据、库存和流水的核对入手，结合库存与扫码项目，判断哪一步值得先改。
+					125 link Description: 阅读: 库存每天靠人工核对，先改哪一步？, Value: 127.0.0.1:4178/articles/inventory-reconciliation.html
+					126 text 知识库与答疑 约 6 分钟
+					127 heading 企业资料太散，做知识库答疑前要准备什么？, Value: 3
+						128 link Description: 企业资料太散，做知识库答疑前要准备什么？, Value: 127.0.0.1:4178/articles/enterprise-knowledge-base.html
+					129 text 结合品牌客服协作经历，讲清资料怎么整理、回答如何查来源，以及何时交回人工。
+					130 link Description: 阅读: 企业资料太散，做知识库答疑前要准备什么？, Value: 127.0.0.1:4178/articles/enterprise-knowledge-base.html
+	131 container
+		132 link Description: Eli FDE / SELECTED WORK, Value: 127.0.0.1:4178/index.html
+		133 container 联系方式
+			134 text 邮箱
+			135 link Description: [REDACTED_EMAIL] ↗, Value: mailto:[REDACTED_EMAIL], ID: eli-consult-email-1
+			136 text 电话
+			137 link Description: [REDACTED_PHONE] ↗, Value: tel:[REDACTED_PHONE], ID: eli-consult-phone-1
+		138 container 页面导航
+			139 link Description: 项目库 ↗, Value: 127.0.0.1:4178/records.html
+			140 link Description: 回到顶部 ↑, Value: 127.0.0.1:4178/index.html?project=p10#main
+		141 container 社交主页
+			142 link Description: 小红书, Value: xiaohongshu.com/user/profile/671897ea000000001d033299
+			143 link Description: B站, Value: space.bilibili.com/432834855
+			144 link Description: 抖音, Value: douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+			145 link Description: YouTube, Value: youtube.com/@EliChao-m9o6r
+			146 link Description: LinkedIn, Value: linkedin.com/in/eli-chao-548a7a43b/
+			147 link Description: X, Value: x.com/cczij1112
+			148 link Description: 微博, Value: weibo.com/u/7720929036
+			149 link Description: TikTok, Value: tiktok.com/@elimakesapps
+			150 link Description: Instagram, Value: instagram.com/eliaifde/
+			151 link Description: Facebook, Value: facebook.com/profile.php?id=61594512757125
+		152 link Description: 浙ICP备2026044062号-2, Value: beian.miit.gov.cn/
+
+The focused UI element is 1 AXWebArea 中小企业 AI 实施与流程提效服务 - Eli, URL: 127.0.0.1:4178/index.html?project=p10#work

@@ -1,0 +1,99 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "home390",
+      "result": {
+        "barHeight": 99.4375,
+        "barTop": 744.5625,
+        "ctaBottom": 686.140625,
+        "padding": "100px",
+        "scrollLocked": false,
+        "scrollWidth": 375,
+        "w": 390
+      }
+    },
+    {
+      "name": "home320 after layout fix",
+      "result": {
+        "barTop": 619.125,
+        "buttonHeights": [
+          44,
+          44
+        ],
+        "ctaBottom": 602.53125,
+        "reserve": "121px",
+        "scrollWidth": 305,
+        "w": 320
+      }
+    },
+    {
+      "name": "decline animation completes and reserve released",
+      "result": {
+        "hidden": true,
+        "locked": false,
+        "reserve": "0px",
+        "sdk": false
+      }
+    },
+    {
+      "name": "contact scroll and QR access with bar",
+      "result": {
+        "barTop": 619.125,
+        "overflow": false,
+        "qr": {
+          "bottom": -375.84375,
+          "height": 198,
+          "left": 57,
+          "right": 255,
+          "top": -573.84375,
+          "width": 198,
+          "x": 57,
+          "y": -573.84375
+        },
+        "y": 1851
+      }
+    },
+    {
+      "name": "allow in local UI preview never loads analytics",
+      "result": {
+        "hidden": true,
+        "reserve": "0px",
+        "sdk": false
+      }
+    },
+    {
+      "name": "WeChat link clickable with bottom bar present",
+      "result": {
+        "sourceUrl": "http://127.0.0.1:4178/about.html?analytics-preview=1#contact",
+        "openedTab": {
+          "id": "57",
+          "url": "http://127.0.0.1:4178/assets/wechat-qr.png",
+          "title": "wechat-qr.png (728×728)"
+        },
+        "passed": true,
+        "assertionCorrection": "Link uses target=_blank; verify the new tab instead of expecting source URL to change."
+      }
+    },
+    {
+      "name": "reduced motion browser",
+      "result": {
+        "animation": "none",
+        "matches": true,
+        "hiddenAfterChoice": "",
+        "stylesheetConfirmed": {
+          "position": "fixed",
+          "background": "rgb(21, 22, 25)",
+          "animation": "none",
+          "reduced": true
+        }
+      }
+    }
+  ],
+  "scope": "Local preview only, no third-party analytics collection",
+  "limits": [
+    "Simulated browser viewports, no physical phone",
+    "Baidu backend conversion issue remains separate"
+  ],
+  "previewToolNote": "After temporary media/viewport reset, reloaded same local page to verify CSS fixed position restored."
+}

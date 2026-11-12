@@ -1,0 +1,54 @@
+text 这是一次网页读取诊断。请只读取这个完整网址：
+								371 text https://www.eliai.cn/services/fde-consulting.html?diag=yuanbao-20261017-1512
+								372 text  。不要用先前回答或搜索摘要代替正文。成功时给页面标题、收费说明的短原文和来源；失败时只说明工具返回的错误。
+								373 image
+								374 text FDE 企业 AI 落地咨询｜从业务问题到小范围实施 - Eli
+								375 image
+								376 text www.eliai.cn
+								377 container 编辑
+									378 text 
+								379 container 复制
+							380 container
+								381 container
+									382 text 成功读取用户提供的页面内容（URL：
+									383 text https://www.eliai.cn/services/fde-consulting.html?diag=yuanbao-20261017-1512
+									384 text ）。
+									385 content list
+										386 container
+											387 text ∙ 页面标题：
+											388 text FDE 企业 AI 落地 咨询｜从业务问题到小范围实施 - Eli
+										389 container
+											390 text ∙ 收费说明短原文：
+											391 text 初次沟通免费，实施服务低至500元起，具体范围和费用在开始前确认。工具订阅、开发、培训与维护费用按需求另行约定，是否值得投入以实际试用结果判断。
+										392 container
+											393 text ∙ 来源：用户贴出的该页面正文（user_doc 1），非搜索摘要、非上一轮回答。
+									394 text 注：这是基于你本次贴出的页面正文进行核对；不是我方工具重新发起 HTTP 请求返回的新抓取。若要严格写成“工具直接打开”，应写为：本轮未由工具独立发起对该 URL 的抓取，证据来自用户提供的页面内容副本。
+								395 container 复制
+								396 container 更多复制选项
+								397 container 点赞
+								398 container 点踩
+								399 container 重新生成
+								400 container 更多
+							401 text 
+					347 container
+						348 container 
+
+							402 text 发送消息
+						350 button (collapsed) Description: 添加, Secondary Actions: Expand
+						351 button (collapsed) Description: 切换模型, Secondary Actions: Expand
+						352 button AI 生图
+						353 button 写作
+						354 button 解题
+						355 button 深度研究
+						356 button PPT 生成
+						357 button 数据分析
+						358 button (collapsed) Description: 更多, Secondary Actions: Expand
+						359 checkbox Description: 语音输入, Value: 0
+						360 container Description: 发送, ID: yuanbao-send-btn
+					361 container
+						362 image icon
+						363 text 安装电脑版
+					403 text 
+				365 text 内容由AI生成，仅供参考
+
+The focused UI element is 348 container 

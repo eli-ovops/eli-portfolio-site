@@ -1,0 +1,29 @@
+/* Homepage-only preview. The decoration never participates in hit testing. */
+.home-main { position:relative; isolation:isolate; }
+.home-ambient { position:fixed; inset:0; z-index:-1; overflow:hidden; pointer-events:none; contain:strict; }
+.home-ambient * { pointer-events:none; }
+.ambient-parallax { position:absolute; inset:-5%; transform:translate3d(var(--ambient-x,0px),var(--ambient-y,0px),0); }
+.ambient-contours { position:absolute; width:120%; height:120%; inset:-10%; opacity:.8; animation:ambient-water 28s ease-in-out infinite alternate; animation-play-state:paused; }
+.ambient-glow { position:absolute; width:80%; height:85%; opacity:.85; animation:ambient-light 24s ease-in-out infinite alternate; animation-play-state:paused; }
+.ambient-glow-one { inset-inline-start:-22%; top:6%; background:radial-gradient(ellipse,rgba(110,100,235,.13),transparent 68%); }
+.ambient-glow-two { inset-inline-end:-25%; top:38%; background:radial-gradient(ellipse,rgba(74,107,188,.11),transparent 68%); animation-duration:32s; animation-direction:alternate-reverse; }
+.home-ambient[data-active="true"] .ambient-contours,.home-ambient[data-active="true"] .ambient-glow { animation-play-state:running; }
+@keyframes ambient-water { from { transform:translate3d(-1.5%,-1%,0) rotate(-1deg) scale(1); } to { transform:translate3d(1.5%,1%,0) rotate(1deg) scale(1.025); } }
+@keyframes ambient-light { from { transform:translate3d(-2%,0,0) scale(.98); } to { transform:translate3d(3%,3%,0) scale(1.05); } }
+.home-main .portfolio-intro { position:relative; }
+.ambient-control { position:absolute; inset-inline-end:0; bottom:10px; display:inline-flex; align-items:center; gap:8px; min-height:44px; padding:8px 10px; border:1px solid transparent; background:transparent; color:var(--muted); font-size:12px; line-height:1.4; cursor:pointer; }
+.ambient-control:hover { color:var(--accent); border-color:var(--line); }
+.ambient-control:disabled { cursor:default; opacity:.65; }
+.ambient-control-icon { width:10px; height:10px; display:block; border-inline:2px solid currentColor; }
+.ambient-control[aria-pressed="false"] .ambient-control-icon { border:0; border-inline-start:8px solid currentColor; border-block:5px solid transparent; }
+@media(max-width:650px) {
+ .ambient-glow { opacity:.65; }
+ .ambient-contours { opacity:.6; animation-duration:36s; }
+ .ambient-glow-two { display:none; }
+ .ambient-control { font-size:11px; bottom:0; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .home-ambient .ambient-contours,.home-ambient .ambient-glow { animation:none; }
+ .ambient-parallax { transform:none; }
+}
+@media print { .home-ambient,.ambient-control { display:none!important; } }

@@ -1,0 +1,147 @@
+- link "跳到正文":
+  - /url: "#main"
+- banner:
+  - link "Eli首页":
+    - /url: ../index.html
+    - generic: "*"
+    - generic: Eli
+  - navigation "主导航":
+    - link "首页":
+      - /url: ../index.html
+    - link "项目库":
+      - /url: ../records.html
+    - link "文章":
+      - /url: ../articles.html
+    - link "关于":
+      - /url: ../about.html
+    - link "切换到英文版":
+      - /url: ../en/services/fde-consulting.html
+      - text: EN
+- main:
+  - link "← 返回业务场景":
+    - /url: ../index.html#needs
+  - generic: 企业 AI 服务
+  - heading "中小企业 AI 落地实施服务" [level=1]:
+    - generic: 中小企业 AI 落地实施服务
+  - paragraph: 每天反复录表、核对库存、找资料，却不知道从哪里改？先免费聊一件最费时间的工作。我会先了解现有做法，再评估现成工具、流程调整或小范围开发。实施服务低至500元起，具体范围与费用在开始前确认。
+  - paragraph: 可约定的交付
+  - list:
+    - listitem: ↳业务流程与改造清单
+    - listitem: ↳工具配置或小范围软件
+    - listitem: ↳操作说明与维护范围
+  - paragraph: 相关经验：独立完成库存系统的需求梳理、开发与交付。
+  - link "看库存系统案例 ↗":
+    - /url: ../cases/p10.html
+  - link "免费聊一件最费时间的工作 ↗":
+    - /url: ../about.html#contact
+  - link "更多相关案例 ↓":
+    - /url: "#cases"
+  - complementary:
+    - heading "内容导航" [level=2]
+    - navigation "内容导航":
+      - link "FDE 是做什么的？":
+        - /url: "#approach"
+      - link "什么问题适合先聊？":
+        - /url: "#fit"
+      - link "如何从咨询推进到实施？":
+        - /url: "#delivery"
+      - link "怎样判断有没有帮助？":
+        - /url: "#acceptance"
+      - link "相关项目经历":
+        - /url: "#cases"
+      - link "开始前常见问题":
+        - /url: "#questions"
+  - heading "FDE 是做什么的？" [level=2]
+  - paragraph: FDE 是 Forward Deployed Engineer，前沿部署工程师。工作从理解客户的业务现场开始，把需求、工具选择、实现和反馈连起来，让技术用在实际流程中。
+  - paragraph: 与我合作，可以先梳理一项工作：谁在做、输入是什么、结果交给谁。现成工具能解决，就先用工具；确实需要连接数据或定制界面，再讨论开发。
+  - heading "什么问题适合先聊？" [level=2]
+  - paragraph: 员工反复整理表格、核对库存；产品资料散在不同地方，客服总问同样的问题；文案和配图每次从头准备。这些有明确输入、输出和负责人的工作，适合挑一个小范围评估。
+  - paragraph: 初次沟通只需要说明现有做法、最费时间的一步，以及希望改善的结果。可以提供脱敏样例，不需要先购买工具，也不需要先交出账号密码或完整业务数据。
+  - heading "如何从咨询推进到实施？" [level=2]
+  - paragraph: 先画清现有流程，找出重复处理和出错的位置；再比较现成工具、规则自动化与 AI 辅助的适用性。比如 WorkBuddy 一类工具是否适合，要看具体任务、数据要求和使用成本。
+  - paragraph: 确定一个试用范围，把要做的功能、人工确认环节、交付材料和验收方式写清，再决定是否实施。试用发现不合适，可以缩小范围或换方法，不必直接做一套大系统。
+  - heading "怎样判断有没有帮助？" [level=2]
+  - paragraph: 在实施前记录同类任务的处理时间、重复录入次数或返工原因。试用时用相同口径比较，并确认员工能否继续使用、异常是否有人处理。
+  - paragraph: 初次沟通免费，实施服务低至500元起，具体范围和费用在开始前确认。工具订阅、开发、培训与维护费用按需求另行约定，是否值得投入以实际试用结果判断。
+  - heading "相关项目经历" [level=2]
+  - paragraph: 下面的案例分别展示业务软件开发与知识库协作，具体职责和交付范围见各案例。
+  - heading "洁具行业某大型 B 端厂商库存管理系统 ↗" [level=3]:
+    - link "洁具行业某大型 B 端厂商库存管理系统 ↗":
+      - /url: ../cases/p10.html
+  - paragraph: 独立完成洁具行业库存管理系统，承担需求沟通、业务流程梳理与系统开发，围绕客户明确的库存需求完成项目交付。
+  - heading "某家具品牌扫码库存系统 ↗" [level=3]:
+    - link "某家具品牌扫码库存系统 ↗":
+      - /url: ../cases/p09.html
+  - paragraph: 主导按箱扫码库存系统开发，设计入库、移库与出库流程，处理权限、重复提交及撤销纠错，核对库存数量的一致性。
+  - heading "英国某净水品牌 RAG 智能客服定制 ↗" [level=3]:
+    - link "英国某净水品牌 RAG 智能客服定制 ↗":
+      - /url: ../cases/p36.html
+  - paragraph: 参与品牌 RAG 客服定制，负责知识库整理、检索配置与测试，协同团队推进演示验证、上线实测及项目交付。
+  - heading "开始前常见问题" [level=2]
+  - heading "不懂 AI，也可以咨询吗？" [level=3]
+  - paragraph: 可以。描述一项每天反复做的工作即可，我会先了解业务，再讨论技术选择。
+  - heading "FDE 咨询一定包含驻场吗？" [level=3]
+  - paragraph: 沟通方式、现场调研、实施周期与交付范围在合作前确认。免费初次沟通不包含持续驻场服务。
+  - heading "先聊一项具体工作" [level=2]
+  - paragraph: 说说现在怎么做、哪一步最费时间、希望变成什么样。
+  - link "免费聊一件最费时间的工作 ↗":
+    - /url: ../about.html#contact
+  - paragraph: 相关服务
+  - paragraph:
+    - link "企业知识库搭建与客服辅助答疑 ↗":
+      - /url: ai-agent.html
+    - text: ·
+    - link "库存核对与重复录入自动化 ↗":
+      - /url: workflow-automation.html
+- contentinfo:
+  - link "Eli FDE / SELECTED WORK":
+    - /url: ../index.html
+    - text: Eli
+    - generic: FDE / SELECTED WORK
+  - generic "联系方式":
+    - paragraph: 邮箱
+    - link "[REDACTED_EMAIL] ↗":
+      - /url: mailto:[REDACTED_EMAIL]
+    - paragraph: 电话
+    - link "[REDACTED_PHONE] ↗":
+      - /url: tel:[REDACTED_PHONE]
+  - navigation "页面导航":
+    - link "项目库 ↗":
+      - /url: ../records.html
+    - link "回到顶部 ↑":
+      - /url: "#main"
+  - navigation "社交主页":
+    - link "小红书":
+      - /url: https://www.xiaohongshu.com/user/profile/671897ea000000001d033299
+      - generic: 小红书
+    - link "B站":
+      - /url: https://space.bilibili.com/432834855
+      - generic: B站
+    - link "抖音":
+      - /url: https://www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+      - generic: 抖音
+    - link "YouTube":
+      - /url: https://www.youtube.com/@EliChao-m9o6r
+      - generic: YouTube
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/in/eli-chao-548a7a43b/
+      - generic: LinkedIn
+    - link "X":
+      - /url: https://x.com/cczij1112
+      - generic: X
+    - link "微博":
+      - /url: https://weibo.com/u/7720929036
+      - generic: 微博
+    - link "TikTok":
+      - /url: https://www.tiktok.com/@elimakesapps
+      - generic: TikTok
+    - link "Instagram":
+      - /url: https://www.instagram.com/eliaifde/
+      - generic: Instagram
+    - link "Facebook":
+      - /url: https://www.facebook.com/profile.php?id=61594512757125
+      - generic: Facebook
+  - paragraph:
+    - link "浙ICP备2026044062号-2":
+      - /url: https://beian.miit.gov.cn/
+  - button "统计与隐私"

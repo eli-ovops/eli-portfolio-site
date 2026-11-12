@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-05",
+  "version": "0.4.0",
+  "browser": "Codex IAB",
+  "desktop_viewports": [
+    [
+      1280,
+      900
+    ],
+    [
+      1280,
+      1100
+    ]
+  ],
+  "mobile_viewports": [
+    [
+      375,
+      812
+    ]
+  ],
+  "routes_checked": [
+    "index.html",
+    "index.html#work",
+    "index.html#team-title",
+    "cases/p07.html",
+    "cases/p07.html#process",
+    "about.html#contact"
+  ],
+  "selected_cases": [
+    "P07",
+    "P09",
+    "P12",
+    "P13"
+  ],
+  "homepage_app_cases": 1,
+  "main_layout_overflow": "NONE OBSERVED",
+  "broken_home_images": 0,
+  "mobile_nav_targets_px": [
+    44,
+    44
+  ],
+  "six_case_sections": "PASS",
+  "contact_anchor": "PASS; actual contact values pending",
+  "reduced_motion": "PASS; restored",
+  "captured_browser_logs": [],
+  "visual_user_acceptance": "PENDING",
+  "actual_phone": "NOT TESTED",
+  "cross_browser": "NOT TESTED",
+  "production_deployment": "NOT AUTHORIZED / NOT DONE"
+}

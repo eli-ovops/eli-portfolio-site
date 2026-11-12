@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "revision": "4214c0d6f6cd8e3dd8ce",
+  "checks": [
+    {
+      "check": "mobile320",
+      "result": {
+        "barTop": 619.1851806640625,
+        "ctaBottom": 602.53125,
+        "labels": [
+          {
+            "height": 44,
+            "text": "允许"
+          },
+          {
+            "height": 44,
+            "text": "暂不"
+          }
+        ],
+        "overflow": false,
+        "width": 320
+      }
+    },
+    {
+      "check": "mobile390",
+      "result": {
+        "barTop": 744.748779296875,
+        "ctaBottom": 686.140625,
+        "overflow": false,
+        "position": "fixed",
+        "width": 390
+      }
+    },
+    {
+      "check": "not now persists",
+      "result": {
+        "hidden": true,
+        "sdk": false
+      }
+    },
+    {
+      "check": "allow closes banner and starts script",
+      "result": {
+        "hidden": true,
+        "padding": "0px",
+        "sdk": true
+      }
+    }
+  ],
+  "originalConsent": "deny",
+  "restoredConsent": "deny",
+  "limits": [
+    "Simulated phone widths, no physical device",
+    "Baidu dashboard conversion issue remains separate"
+  ]
+}

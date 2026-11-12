@@ -1,0 +1,35 @@
+{
+  "status": "PUBLISHED_AND_BROWSER_VERIFIED",
+  "checked_at": "2026-10-22T11:28:21.968240+00:00",
+  "revision": "ee333e5fb82b7096a06c",
+  "published_at": "2026-10-22T11:19:33.879069+00:00",
+  "package_sha256": "ee5d4d7cc39c0e053fa46adc6c1abbfb37e0519190e9db1646898b44b7dba520",
+  "public_files_verified": 369,
+  "independent_https_file_checks": 36,
+  "unchanged_directory_redirects_verified": 6,
+  "browser_observations": 16,
+  "required_flows_verified": [
+    "ZH and EN language switch retains project/hash",
+    "ZH and EN case return to selected canonical homepage",
+    "Legacy English index address preserves project/return/hash via client cleanup",
+    "Filtered catalogue case returns with q and return intact",
+    "ZH and EN consultation entry reaches contact"
+  ],
+  "rollback_target": "/srv/eli-sites/portfolio/domain-releases/20261021-stable-urls-cc132dc0",
+  "production_switches": 1,
+  "nginx_reloads": 0,
+  "server_configs_and_other_service_states_unchanged": true,
+  "verification_files_preserved": 6,
+  "visual_copy_motion_assets_unchanged": true,
+  "website_changes_scope": "Canonical homepage hrefs, navigation compatibility, corresponding lastmod dates",
+  "search_submissions": 0,
+  "index_requests": 0,
+  "emails": 0,
+  "qa_attribution": "OWN_QA_NOT_ORGANIC_OR_CUSTOMER_ENQUIRIES",
+  "browser_note": "One rapid-click observation did not navigate; fresh DOM observed, then actual English click verified. All URL observations retained, including unchanged one.",
+  "limitations": [
+    "No physical mobile device test.",
+    "Old index.html aliases are not new HTTP301 rules; client cleanup preserves parameters.",
+    "Publication and QA do not prove indexing, ranking, natural clicks or model citations."
+  ]
+}

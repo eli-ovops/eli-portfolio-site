@@ -1,0 +1,35 @@
+{
+  "status": "implemented and browser verified; user visual review pending",
+  "scope": "4178 motion only",
+  "gsap": "3.15.0",
+  "unchanged": {
+    "styles.css": true,
+    "motion.css": true,
+    "content/profile.json": true,
+    "content/projects.json": true,
+    "templates/home.html": true,
+    "templates/about.html": true,
+    "templates/gallery-project.html": true
+  },
+  "checks": {
+    "build": "PASS",
+    "privacy": "PASS",
+    "runtime_engine": "gsap-3.15.0",
+    "filter": "3 systems / 7 all; rapid switches PASS",
+    "disclosure": "rapid switches and keyboard; final inline styles cleared",
+    "reduce_motion": "instant disclosure/filter, no animation inline styles",
+    "mobile": "375 viewport, client 360 / scroll 360",
+    "resize_during_filter": "360 / 360",
+    "gsap_load_failure": "content, filters, disclosure and keyboard usable",
+    "external_preview_changes": "NONE"
+  },
+  "files_changed": [
+    "app.js",
+    "motion.js",
+    "templates/layout.html",
+    "package.json",
+    "site.yaml"
+  ],
+  "vendor": "assets/vendor/gsap-3.15.0/gsap.min.js + Flip.min.js",
+  "backup": "evidence/gsap-optimization/before"
+}

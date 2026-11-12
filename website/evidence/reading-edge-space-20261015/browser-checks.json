@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "footerInset": "40px",
+    "leftPadding": "-32px",
+    "overflow": false,
+    "width": 1920
+  },
+  "mobile": {
+    "footerInset": "8px",
+    "leftPadding": "-12px",
+    "overflow": false,
+    "width": 390
+  }
+}

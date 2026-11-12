@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-10-17T17:07:30.063874+08:00",
+  "results": [
+    {
+      "url": "http://[REDACTED_HOST]/login",
+      "final_url": "http://[REDACTED_HOST]/login",
+      "status": 200,
+      "bytes": 35893
+    },
+    {
+      "url": "http://[REDACTED_HOST]/mobile/",
+      "final_url": "http://[REDACTED_HOST]/mobile/",
+      "status": 200,
+      "bytes": 978
+    },
+    {
+      "url": "http://www.eliai.cn/",
+      "final_url": "https://www.eliai.cn/",
+      "status": 200,
+      "bytes": 77797
+    },
+    {
+      "url": "https://eliai.cn/",
+      "final_url": "https://www.eliai.cn/",
+      "status": 200,
+      "bytes": 77797
+    }
+  ]
+}

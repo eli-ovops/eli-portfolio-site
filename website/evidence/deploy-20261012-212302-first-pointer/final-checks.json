@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "release": "20261012-212302-first-pointer",
+  "revision": "374bf42e288f80f56bf7",
+  "history_appendices_preserved": true,
+  "contract_fields_changed": [
+    "deployment.authorization_reference",
+    "seo.status"
+  ],
+  "public_build_unchanged_after_acceptance": true,
+  "new_artifacts_retained_bytes": 11442147,
+  "no_cleanup": true
+}

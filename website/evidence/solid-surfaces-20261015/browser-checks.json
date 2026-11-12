@@ -1,0 +1,47 @@
+{
+  "revision": "73614ce47de9e2697bcf",
+  "desktop": "1332x1202 IAB",
+  "simulated_mobile": [
+    "zh 390x844",
+    "en 320x740 reduced motion"
+  ],
+  "surface_checks": {
+    "home_topic_colors": [
+      "rgb(35,36,46)",
+      "rgb(27,28,33)",
+      "rgb(27,28,33)"
+    ],
+    "home_topic_image_shadow": "none",
+    "about_cards_workflow": "rgb(27,28,33); image none; backdrop none",
+    "contact": "rgb(30,32,39); image none",
+    "library_tools": "rgb(27,28,33); image none",
+    "library_rows": "rgb(21,22,25); radius 0px",
+    "case_facts": "rgb(27,28,33); image none",
+    "native_modal": "rgb(21,22,25); backdrop-filter none; root overflow hidden",
+    "retired_overlay_nodes": 0
+  },
+  "motion": {
+    "nav_underline": "Moved to library x72/y41.0938, width77px/height2px",
+    "stepper": "Tab2 then End selects3; next disabled",
+    "reduced": "All3 original steps visible; transition0s",
+    "home_background": "webgl2 retained",
+    "carousel": "RAG then next P09; detail/browser Back retained P09"
+  },
+  "interaction": {
+    "search_filter": "Inventory query + website/tools category =2 records",
+    "related_return": "P10 to P09 to library retains query/category/2",
+    "reset": "zzzz then clear restores empty query/all/38",
+    "modal": "Native open, scroll locked, Escape closes",
+    "consultation": "320px reduced contact top103.5",
+    "overflow": "none desktop/zh390/en320"
+  },
+  "current_tab_errors": [],
+  "limits": [
+    "No physical touch/iOS Safari/all-browser/FPS verification",
+    "No animation panel10% replay",
+    "No forced WebGL fallback test",
+    "Prior rapid-return first header click remains unresolved; one language click during smooth scroll needed later repeat",
+    "84-page static coverage is not visual acceptance of every page",
+    "User visual acceptance pending"
+  ]
+}

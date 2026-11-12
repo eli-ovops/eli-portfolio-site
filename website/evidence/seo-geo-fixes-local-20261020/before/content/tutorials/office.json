@@ -1,0 +1,405 @@
+[
+  {
+    "slug": "ai-email-draft",
+    "title": [
+      "用 AI 写邮件，怎么做到有用又不乱承诺？",
+      "How do you draft email without inventing commitments?"
+    ],
+    "answer": [
+      "先说明收件人关系、目的、已确认事实和不能答应的内容。第一轮只生成草稿，不直接发送。尤其检查价格、交期和附件是否真的存在。",
+      "State the relationship, purpose, confirmed facts and prohibited commitments. Generate a draft first, without sending it. Check prices, dates and whether referenced attachments actually exist."
+    ],
+    "steps": [
+      [
+        "列出这封邮件只想达成的一件事。",
+        "Define the one purpose of the email."
+      ],
+      [
+        "提供真实可用的事实，缺项留空。",
+        "Supply verified facts and leave gaps explicit."
+      ],
+      [
+        "检查称呼、承诺、附件后再自己发送。",
+        "Review recipient, commitments and attachments before sending."
+      ]
+    ],
+    "exercise": [
+      "写一封请求补充商品规格的简短邮件，只询问型号与数量，不承诺报价和交期，不提不存在的附件。",
+      "Draft a short request for model and quantity details without promising prices or delivery dates or mentioning nonexistent attachments."
+    ],
+    "problem": [
+      "出现“已为您安排”却没实际安排时，改成准确的询问或待确认说法。",
+      "Replace arrangements have been made with an accurate question or pending status when no action occurred."
+    ],
+    "check": [
+      "邮件只包含可兑现的信息，下一步明确。",
+      "The draft contains supportable statements and a clear next step."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "ai-meeting-actions",
+    "title": [
+      "会议纪要里怎么区分决定和建议？",
+      "How do you separate meeting decisions from suggestions?"
+    ],
+    "answer": [
+      "纪要不是把聊天写得正式，而是保留谁决定了什么、谁还没确认。建议、争议和决定要分开。负责人和期限只有在记录明确时才能填写。",
+      "Minutes preserve decisions and unresolved matters rather than merely formalizing conversation. Separate proposals, disputes and decisions. Add owners and deadlines only when stated."
+    ],
+    "steps": [
+      [
+        "用几句包含“建议、同意、再看看”的练习记录。",
+        "Prepare notes with suggestions, agreement and unresolved discussion."
+      ],
+      [
+        "让 AI 分类并附原句。",
+        "Request categories with source sentences."
+      ],
+      [
+        "检查建议有没有被升级为决定。",
+        "Check that suggestions were not promoted to decisions."
+      ]
+    ],
+    "exercise": [
+      "只提取明确决定；“建议”“考虑”进入讨论栏。行动项缺负责人或日期时标待确认：[练习记录]。",
+      "Extract explicit decisions only. Put suggestions in discussion and mark missing action owners or dates unknown: [notes]."
+    ],
+    "problem": [
+      "会议里有人被提名不等于已经接下任务，确认责任前不要写成已指派。",
+      "Being mentioned as a possible owner does not establish acceptance."
+    ],
+    "check": [
+      "每条决定和行动都能找到对应原句。",
+      "Each decision and action traces to an original sentence."
+    ],
+    "source": [
+      "wb-files"
+    ]
+  },
+  {
+    "slug": "ai-spreadsheet-cleaning",
+    "service": "workflow-automation",
+    "title": [
+      "表格太乱，AI 清洗前先定什么规则？",
+      "What rules come before AI spreadsheet cleaning?"
+    ],
+    "answer": [
+      "先统一字段含义、单位和缺失值，再谈格式漂亮。前导零可能属于编号，空白不是零，同名也可能不同规格。清洗先生成副本和变更说明，别覆盖源表。",
+      "Define fields, units and missing values before formatting. Leading zeros may be part of IDs; blanks are not zero; names can hide different variants. Work on a copy with a change log."
+    ],
+    "steps": [
+      [
+        "标注哪些列是编号、数量和金额。",
+        "Label ID, quantity and amount columns."
+      ],
+      [
+        "写清单位换算及空值规则。",
+        "Define conversions and missing-value rules."
+      ],
+      [
+        "对比清洗前后行数与关键合计。",
+        "Compare row counts and key totals before and after."
+      ]
+    ],
+    "exercise": [
+      "只建议清洗规则，不直接改表。保留编号前导零，未知数量不填0，规格不同不合并。",
+      "Suggest cleaning rules without editing: preserve leading zeros, leave unknown quantities unknown and keep variants separate."
+    ],
+    "problem": [
+      "合计变化时先查丢行、单位和重复口径，不默认变化就是正确去重。",
+      "If totals change, inspect missing rows, units and duplicate rules before accepting the result."
+    ],
+    "check": [
+      "所有改动有规则依据，源表可恢复。",
+      "Changes follow explicit rules and the original remains recoverable."
+    ],
+    "source": [
+      "wb-data"
+    ]
+  },
+  {
+    "slug": "ai-inventory-exceptions",
+    "service": "workflow-automation",
+    "title": [
+      "用 AI 核对库存，第一步为什么只列异常？",
+      "Why start AI inventory checking with an exception list?"
+    ],
+    "answer": [
+      "账面、实物、在途与预留库存不是同一个概念。先明确核对口径，再用工具找差异，交给负责人确认。不能让语言模型猜一遍后直接改真实库存。",
+      "Book, physical, in-transit and reserved stock are different measures. Define what is being reconciled, list discrepancies and have an owner confirm them before any stock update."
+    ],
+    "steps": [
+      [
+        "用虚构商品做两张小表，附单位和时间。",
+        "Create two fictional product tables with units and timestamps."
+      ],
+      [
+        "按商品编号与规格匹配。",
+        "Match by item ID and specification."
+      ],
+      [
+        "输出差异及原始行，不自动修账。",
+        "Report differences with source rows without adjusting records."
+      ]
+    ],
+    "exercise": [
+      "对照两份练习库存表，只列无法匹配、数量不同、单位不同的行。不要决定哪一份正确，不回写（把结果改回原系统或原表）。",
+      "Compare two practice stock tables and list unmatched items, quantity differences and unit mismatches. Do not decide which is correct or write back (changing the original system or sheet)."
+    ],
+    "problem": [
+      "名称相似却规格不同要分开，模糊匹配只作候选不能当结论。",
+      "Keep differing variants separate; fuzzy matching supplies candidates, not confirmed matches."
+    ],
+    "check": [
+      "每条异常可追溯，真实更正仍由业务负责人确认。",
+      "Every exception is traceable and real adjustments require an authorized owner."
+    ],
+    "source": [
+      "wb-data"
+    ]
+  },
+  {
+    "slug": "ai-product-copy",
+    "title": [
+      "AI 写产品文案，哪些信息绝对不能编？",
+      "What must AI never invent in product copy?"
+    ],
+    "answer": [
+      "尺寸、材质、认证、适用范围和效果必须有依据。AI 可以帮你把说明写清楚，但不能把竞品功能搬到自己产品上。先做事实表，再写文案，最后反查每一句。",
+      "Dimensions, materials, certifications, compatibility and results need evidence. AI can improve clarity but must not import competitor features. Build a fact sheet before drafting and trace each claim back afterward."
+    ],
+    "steps": [
+      [
+        "整理已确认参数和待确认参数。",
+        "Separate confirmed and unknown specifications."
+      ],
+      [
+        "给定使用场景与读者。",
+        "Specify context and audience."
+      ],
+      [
+        "逐句对照事实表，删除夸大效果。",
+        "Trace each sentence and remove unsupported benefits."
+      ]
+    ],
+    "exercise": [
+      "只根据这份参数表写最多五条产品说明。事实不够就少写，未知参数不补，不新增认证或效果：[参数]。",
+      "Write up to five product points using the supplied specification only. Use fewer when facts are insufficient; invent no specifications, certifications or benefits: [specs]."
+    ],
+    "problem": [
+      "模型自动加“防水”等常见卖点时，指出源表没有，要求删除并检查同类添加。",
+      "If it adds a familiar feature such as waterproofing, remove it and inspect other unsupported additions."
+    ],
+    "check": [
+      "所有产品承诺都能在确认资料中定位。",
+      "Every product claim can be located in confirmed material."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "ai-translation-review",
+    "title": [
+      "AI 翻译能直接发客户吗？怎么检查？",
+      "How should you review an AI translation before sharing?"
+    ],
+    "answer": [
+      "翻译要保留数字、条件、否定和术语，不能只看语句流畅。专业合同、医疗等高风险材料需要适合的专业复核。普通办公先用术语表和逐项核对提高一致性。",
+      "Check numbers, conditions, negation and terminology rather than fluency alone. High-stakes material needs qualified review. For ordinary office text, use a glossary and targeted checks."
+    ],
+    "steps": [
+      [
+        "列出不可翻错的产品名与术语。",
+        "List product names and key terms."
+      ],
+      [
+        "要求保留段落对应，标出歧义。",
+        "Preserve paragraph alignment and flag ambiguity."
+      ],
+      [
+        "核对数字、单位及“不得、除非”等限制。",
+        "Review figures, units and negative or conditional clauses."
+      ]
+    ],
+    "exercise": [
+      "翻译这份练习说明，保留数字单位，使用附带术语表。遇歧义列两种理解，不自行决定：[文字]。",
+      "Translate this practice instruction with the glossary, preserving numbers and units. List alternative readings for ambiguity rather than deciding silently."
+    ],
+    "problem": [
+      "回译相似不证明翻译正确，仍要看原句条件和专业术语。",
+      "A similar back-translation does not establish correctness; review original conditions and terms."
+    ],
+    "check": [
+      "关键约束没有变，不能确定的地方可见。",
+      "Critical constraints remain intact and uncertainties are visible."
+    ],
+    "source": [
+      "prompt"
+    ]
+  },
+  {
+    "slug": "ai-weekly-report",
+    "title": [
+      "周报怎么用 AI 整理，不把计划写成成果？",
+      "How do you use AI for a weekly report honestly?"
+    ],
+    "answer": [
+      "把实际完成、进行中、计划和阻断分开。AI 能把流水账整理清楚，但不能把“准备做”改写为“成功交付”。成果最好附文件、记录或可查看链接。",
+      "Separate completed, ongoing, planned and blocked work. AI can organize notes but must not turn intention into delivery. Attach an inspectable artifact or record where available."
+    ],
+    "steps": [
+      [
+        "把原始记录逐项标状态。",
+        "Label each raw note with its actual state."
+      ],
+      [
+        "提供对应产物或明确没有。",
+        "Attach an output or state that none exists."
+      ],
+      [
+        "检查改稿是否扩大结果。",
+        "Check that the rewrite does not exaggerate outcomes."
+      ]
+    ],
+    "exercise": [
+      "按已完成、进行中、阻断、下周计划整理周报。没有回执的发布或交付不能写成功：[记录]。",
+      "Organize completed, ongoing, blocked and planned work. Do not claim publication or delivery without evidence: [notes]."
+    ],
+    "problem": [
+      "“测试过”要说明范围，不把一条样本通过写成全部功能验证。",
+      "Specify testing scope instead of turning one passing example into complete validation."
+    ],
+    "check": [
+      "读者能区分实际产出和未来打算。",
+      "Readers can distinguish actual outputs from intentions."
+    ],
+    "source": [
+      "harness"
+    ]
+  },
+  {
+    "slug": "ai-ocr-check",
+    "title": [
+      "OCR 是什么？识别单据后还要核对什么？",
+      "What is OCR, and what should you check on a receipt?"
+    ],
+    "answer": [
+      "OCR 把图片里的文字转为可处理文本，不保证数字和表格关系都正确。单据还涉及字段理解、单位及业务规则。先保留原图位置，让人能核对，不直接把识别值当正式记录。",
+      "OCR turns image text into machine-readable text but can misread digits and table structure. Documents also require field interpretation, units and business rules. Preserve source locations for review before creating official records."
+    ],
+    "steps": [
+      [
+        "用虚构单据图片练习，不用客户原单。",
+        "Practice with a fictional receipt image."
+      ],
+      [
+        "提取字段时附原文位置和不清楚项。",
+        "Attach source locations and uncertainty to extracted fields."
+      ],
+      [
+        "检查小数点、负号、数量与单位。",
+        "Check decimals, negative signs, quantities and units."
+      ]
+    ],
+    "exercise": [
+      "提取这张练习单据的商品、数量、单位。看不清写待确认，保留原文，不推断缺失价格。",
+      "Extract item, quantity and unit from this practice receipt. Mark unreadable values unknown, preserve source text and do not infer prices."
+    ],
+    "problem": [
+      "识别置信度高也可能错，关键字段仍按业务风险复核。",
+      "High recognition confidence can still be wrong; review critical fields according to risk."
+    ],
+    "check": [
+      "每个重要数值可对照原图，未识别项没有被悄悄填满。",
+      "Critical values trace to the image and unreadable fields are not silently filled."
+    ],
+    "source": [
+      "ocr"
+    ]
+  },
+  {
+    "slug": "ai-knowledge-base-start",
+    "service": "ai-agent",
+    "title": [
+      "企业知识库从哪里开始，不是把文件全上传？",
+      "How do you start a business knowledge base?"
+    ],
+    "answer": [
+      "先选一个部门反复问的主题，整理有效版本、负责人与适用范围。重复、过期和冲突资料会把答案带偏。小范围做对后再增加资料，不先堆满整个网盘。",
+      "Choose one recurring question area and organize current versions, owners and scope. Duplicate or conflicting material undermines answers. Get a small set working before expanding to the whole drive."
+    ],
+    "steps": [
+      [
+        "收集一个主题的现行说明。",
+        "Collect current material on one topic."
+      ],
+      [
+        "去掉过期副本并记录负责人。",
+        "Remove obsolete duplicates from the working set and record owners."
+      ],
+      [
+        "写已知、未知和冲突问题测试。",
+        "Test supported, unsupported and conflicting questions."
+      ]
+    ],
+    "exercise": [
+      "为这几份练习制度设计知识库目录，按有效版本、适用对象、负责人整理；冲突先列出，不自行裁决。",
+      "Organize these practice policies by current version, audience and owner. List conflicts without deciding them silently."
+    ],
+    "problem": [
+      "检索答错先检查资料版本与覆盖，再考虑模型。",
+      "For wrong answers, inspect source versions and coverage before changing the model."
+    ],
+    "check": [
+      "问答能回到有效规则，没有资料时会转人工确认。",
+      "Answers point to current rules and missing information prompts human review."
+    ],
+    "source": [
+      "rag"
+    ]
+  },
+  {
+    "slug": "ai-sop-writing",
+    "title": [
+      "AI 怎么把老师傅经验整理成操作步骤？",
+      "How do you turn experience into a usable procedure?"
+    ],
+    "answer": [
+      "先访谈实际操作者，再整理步骤、前提、例外和完成标准。AI 不在现场，不该补它没见过的设备按钮或安全动作。让另一位同事按稿试走，再修订。",
+      "Interview the actual operator and document steps, prerequisites, exceptions and completion checks. AI should not invent unseen controls or safety actions. Have another colleague walk through the draft before finalizing."
+    ],
+    "steps": [
+      [
+        "记录操作者真实做法和常见错误。",
+        "Record actual practice and common errors."
+      ],
+      [
+        "按一步一个动作整理，保留不确定处。",
+        "Write one action per step and retain uncertainties."
+      ],
+      [
+        "由熟悉流程的人检查并批准版本。",
+        "Have a knowledgeable owner review and approve a version."
+      ]
+    ],
+    "exercise": [
+      "把访谈整理为准备、操作、异常、完成检查四部分。未提到的按钮和安全事项写待现场确认，不编细节。",
+      "Organize this interview into preparation, actions, exceptions and completion checks. Flag unknown controls and safety details for on-site confirmation."
+    ],
+    "problem": [
+      "步骤顺序和现场不符时，以核实后的实际流程修正，不为文案顺畅改现场规则。",
+      "Correct the draft from verified practice rather than changing operational rules for smoother prose."
+    ],
+    "check": [
+      "新手可按步骤找到动作，流程负责人确认关键限制。",
+      "A beginner can follow actions and the owner confirms critical constraints."
+    ],
+    "source": [
+      "prompt"
+    ]
+  }
+]

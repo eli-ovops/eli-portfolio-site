@@ -1,0 +1,785 @@
+{
+  "time": "2026-10-16T07:44:04.850126+00:00",
+  "status": "PASS",
+  "files_verified": 155,
+  "official_indexing": "ENABLED_UNCHANGED; 404 pages retain noindex",
+  "initial_check_correction": "404.html is intentionally noindex; exempted only the two 404 pages from ordinary content indexability assertion",
+  "robots": "User-agent: *\nAllow: /\nSitemap: https://www.eliai.cn/sitemap.xml\n",
+  "checks": [
+    {
+      "path": "404.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "BingSiteAuth.xml",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "app.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "asset-manifest.json",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/bits-ui.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/bits-ui.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/content-layout.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/depth-gallery.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/dither-veil.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/dither-veil.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/editorial.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/editorial.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/fonts/LICENSE-Anton.txt",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/fonts/anton.ttf",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/home-ambient.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/home-ambient.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/img10.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/img13.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/img14.webp",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/img16.webp",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/mark.svg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/office-workflow.svg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/page-version.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p02-1200.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p02-640.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p05-1200.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p05-640.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p09-1200.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p09-640.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p10-1200.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p10-640.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p12-1200.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p12-640.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/previews/p36-410.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p02.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p03.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p05.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p07.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p09.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p10.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/public-cases/p36.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/react-bits-dither-robot.jpg",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/screenshot-viewer.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/site-analytics.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/site-analytics.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/social-footer.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/social-icons/LICENSE.md",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/vendor/gsap-3.15.0/Flip.min.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/vendor/gsap-3.15.0/ScrollTrigger.min.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/vendor/gsap-3.15.0/gsap.min.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/vendor/react-bits-components/LICENSE.md",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/vendor/react-bits-components/NOTICE.md",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/vendor/react-bits-pattern-waves/LICENSE.md",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "assets/wechat-qr.png",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "baidu_verify_codeva-UabAhVS0s3.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/n01.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/n02.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p01.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p02.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p03.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p04.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p05.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p06.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p07.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p08.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p09.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p11.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p12.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p13.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p14.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p15.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p16.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p17.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p18.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p19.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p20.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p21.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p22.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p23.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p24.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p25.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p26.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p27.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p28.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p29.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p30.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p31.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p32.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p33.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p34.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p35.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "cases/p36.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/404.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/n01.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/n02.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p01.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p02.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p03.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p04.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p05.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p06.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p07.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p08.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p09.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p10.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p11.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p12.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p13.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p14.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p15.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p16.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p17.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p18.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p19.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p20.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p21.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p22.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p23.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p24.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p25.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p26.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p27.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p28.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p29.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p30.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p31.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p32.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p33.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p34.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p35.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/cases/p36.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/records.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/services/ai-agent.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/services/fde-consulting.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "en/services/workflow-automation.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "google0fc37373bc2d604d.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "health.json",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "motion.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "motion.js",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "records.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "services/ai-agent.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "services/fde-consulting.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "sogousiteverification.txt",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "styles.css",
+      "status": 200,
+      "hash_match": true
+    },
+    {
+      "path": "yandex_56b4e9c66008d8fa.html",
+      "status": 200,
+      "hash_match": true
+    }
+  ]
+}

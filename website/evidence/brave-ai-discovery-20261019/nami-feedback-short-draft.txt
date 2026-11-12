@@ -1,0 +1,1 @@
+2026-10-19，纳米网页版读取 https://www.eliai.cn/services/fde-consulting.html 失败；同一会话读取 https://example.com/ 也报告“Download Failed”。本站普通访问200、正文为静态HTML、robots允许抓取。请核查失败环节及错误码，提供官方访问要求；根因未确认。两次原生结果见附图。

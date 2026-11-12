@@ -1,0 +1,156 @@
+{
+  "checked_at": "2026-10-20T19:09:46.384319+08:00",
+  "status": "PASS",
+  "revision": "87919417171750dd1242",
+  "public_hash_checks": 21,
+  "analytics_attribution": "Own QA, not natural exposure or customer traffic",
+  "rows": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 138769,
+      "sha256": "0f52e1858345007f17899902ab6d08bba46a8cdf184d92c5fec8845098183ebd",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "bytes": 140545,
+      "sha256": "93a8b8b06e661b11d5adef4b6340c089d4762c50e98a62abfaa0bd2f0f5d0505",
+      "content_type": "text/html"
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "bytes": 39682,
+      "sha256": "083cb6665fb915f5d0b7b7f18c978718f6933560907c8513db9b507d82307253",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "bytes": 39813,
+      "sha256": "98b5925a8ba43cd128630486b5a6d49e77fb138de5fc2b6fa1d78e6e79db36e1",
+      "content_type": "text/html"
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "bytes": 29449,
+      "sha256": "085d2449e5efc7dffcf543ccd38caad0b003a2da2a293c1036f76e18e5adc7ef",
+      "content_type": "text/xml"
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "bytes": 65,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "content_type": "text/plain"
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "bytes": 6680,
+      "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+      "content_type": "text/plain"
+    },
+    {
+      "path": "assets/previews/p02-640.jpg",
+      "status": 200,
+      "bytes": 68807,
+      "sha256": "fdf45dba30305dc8d229094e92cc0641c1f01153e5e2de272545488e17eaf404",
+      "content_type": "image/jpeg"
+    },
+    {
+      "path": "assets/previews/p05-640.jpg",
+      "status": 200,
+      "bytes": 40492,
+      "sha256": "0cd8d563233cebd5a16b5c4cff69db7aa88248152188fad06376cee2fad36c17",
+      "content_type": "image/jpeg"
+    },
+    {
+      "path": "articles/ai-consultation-prepare.html",
+      "status": 200,
+      "bytes": 45825,
+      "sha256": "d28d7ebd7f5b5db967d0663947457b115532c299e0ed1efc6c7963f2979eccf8",
+      "content_type": "text/html"
+    },
+    {
+      "path": "articles/what-is-fde-business.html",
+      "status": 200,
+      "bytes": 45739,
+      "sha256": "0d0ddd6f9277f9b75c71d95504a2fb51d073c69bbac51af1d91d6bb6c0dc8604",
+      "content_type": "text/html"
+    },
+    {
+      "path": "articles/ai-ocr-check.html",
+      "status": 200,
+      "bytes": 44766,
+      "sha256": "991545845fa9fe74b603af556506b20a412cab82fffe712967467a4941a98b7e",
+      "content_type": "text/html"
+    },
+    {
+      "path": "articles/workbuddy-spreadsheet.html",
+      "status": 200,
+      "bytes": 45406,
+      "sha256": "d176a0f3a1cff8c42d1c559edcc0e019a2964d059d946f5ccb7c6ee55bd76334",
+      "content_type": "text/html"
+    },
+    {
+      "path": "cases/p02.html",
+      "status": 200,
+      "bytes": 34759,
+      "sha256": "42650460b6d221b40a89c43ac9470e67a33064618910e475597b48dcc7971207",
+      "content_type": "text/html"
+    },
+    {
+      "path": "cases/p05.html",
+      "status": 200,
+      "bytes": 34845,
+      "sha256": "3bedc664af137813d901a2122cf0f836490326963201d535332251dbd0bc3524",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/articles/ai-consultation-prepare.html",
+      "status": 200,
+      "bytes": 45957,
+      "sha256": "40435a4a59ea12551b202269d601119c6c8a06467d66fa4da6269244d01d58f3",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/articles/what-is-fde-business.html",
+      "status": 200,
+      "bytes": 45912,
+      "sha256": "8ad9753bce36272b410fd9d1e6b65ecf2e0a63d28a0a5a15dab043a43886e3df",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/articles/ai-ocr-check.html",
+      "status": 200,
+      "bytes": 44948,
+      "sha256": "a7a5196710da3deb8d7f28a8a474a7750376fcd12d18b937a5bc735c136c9305",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/articles/workbuddy-spreadsheet.html",
+      "status": 200,
+      "bytes": 45637,
+      "sha256": "ae33cb656d7e1fb54a49b995434d98d675a5333dcc3ae09826bf2e5a640de553",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/cases/p02.html",
+      "status": 200,
+      "bytes": 35062,
+      "sha256": "9a362f58bf31461daef2a9be4f6458019213207f82d91ea2f995669bf5701488",
+      "content_type": "text/html"
+    },
+    {
+      "path": "en/cases/p05.html",
+      "status": 200,
+      "bytes": 35337,
+      "sha256": "f6d67bed585e957f33892762dc384a80ff712110aabeda8d5383c50d9da77875",
+      "content_type": "text/html"
+    }
+  ]
+}

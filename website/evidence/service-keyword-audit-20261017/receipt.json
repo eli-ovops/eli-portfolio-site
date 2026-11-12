@@ -1,0 +1,78 @@
+{
+  "observed_at": "2026-10-17T14:00:00.894037+08:00",
+  "status": "AUDITED_GOOGLE_SITEMAP_REFRESH_ACCEPTED_RANKING_NOT_ESTABLISHED",
+  "site": "https://www.eliai.cn/",
+  "website_revision": "ef627aa38d38fa4ba886",
+  "Google": {
+    "performance_scope": "Web,7days; chart only has2026-10-14 data",
+    "clicks": 0,
+    "impressions": 0,
+    "query_table": "No data",
+    "effective_average_rank": null,
+    "zh_service_inspections": {
+      "fde-consulting": "Not indexed; URL unknown to Google",
+      "ai-agent": "Not indexed; URL unknown to Google",
+      "workflow-automation": "Not indexed; URL unknown to Google"
+    },
+    "sitemap_before": {
+      "last_read": "2026-10-15",
+      "discovered": 82
+    },
+    "sitemap_refresh": "Native successful submission once; public sitemap88 incl6 services; processed/indexed counts after request UNKNOWN"
+  },
+  "Bing": {
+    "performance": "Preparing data; native message48hours",
+    "keyword_impressions": null,
+    "average_rank": null,
+    "existing88accepted": "Historical receipt retained, no repeat submission",
+    "fde_service_inspection": {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "state": "Discovered but not crawled; URL cannot appear on Bing",
+      "discovered_on": "2026-10-16",
+      "scope": "FDE service only; other service URLs not inspected in this run",
+      "request_indexing_clicked": false
+    },
+    "live_test": {
+      "url": "https://www.eliai.cn/services/fde-consulting.html",
+      "native_result": "URL can be indexed by Bing",
+      "issues": "No SEO/GEO issues found",
+      "markup_types_found": 2,
+      "indexing_proven": false,
+      "scope": "Single FDE service realtime test; quality checks and actual indexing remain conditional"
+    }
+  },
+  "Baidu": {
+    "PC7d": {
+      "clicks": 0,
+      "impressions": 0,
+      "queries": "No data",
+      "average_rank": null
+    },
+    "mobile": "No usable numeric/query table rendered",
+    "index": "Data calculating; no verified count",
+    "new_submissions": 0
+  },
+  "public_search": {
+    "engines": [
+      "Google Hong Kong",
+      "Bing China",
+      "Baidu"
+    ],
+    "queries": [
+      "FDE",
+      "AI Agent",
+      "企业提效"
+    ],
+    "result_pages": 9,
+    "own_site_seen_on_checked_first_pages": false,
+    "exact_rank": null,
+    "limits": "First page/current session/region only; not proof of global absence or no indexing"
+  },
+  "public_technical_checks": "public-service-check.json",
+  "website_or_server_changes": false,
+  "visual_motion_changes": false,
+  "new_automation": false,
+  "user_action_required": false,
+  "report": "report.md",
+  "evidence_manifest": "artifact-manifest.json"
+}

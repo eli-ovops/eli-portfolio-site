@@ -1,0 +1,38 @@
+{
+  "revision": "54cb0f82f519d608da59",
+  "user_confirmations": {
+    "P09": "Current human confirms delivered to client"
+  },
+  "customer_outcomes": "Not inferred from delivery",
+  "fictional_records": "Removed from public case; not represented as real",
+  "modified_projects": [
+    "P07",
+    "P09",
+    "P10",
+    "P36"
+  ],
+  "protected_hashes": {
+    "app.js": "f1f80780d1300a5c93854a63ef7319f5da209b37a75950723c2759ba7a808b31",
+    "motion.js": "d328393689d8bbfa5f16ccf62b3ce477c082fc6ed1fad8d4b4950870f35a7cb9",
+    "motion.css": "65988f5c0b7537fee84e3bafe0d8992b7c0f74045dc8927fecab88c60271ba51",
+    "assets/editorial.js": "5b47b64915be08a209fd595d37aa5e28db76f9e3236bd4e1f2f4c1d227b6c5e8",
+    "assets/depth-gallery.js": "1a796d24b2453394489beaa54d4bbd30d5a8d5ff9fb95158e79e69efcfab7c5f",
+    "assets/screenshot-viewer.js": "e2c4ff86d830721cd279c1c7a7580356a8f1f6be4602840fb3751b2c53ba04b1",
+    "assets/page-version.js": "320f0ca0f84977cafdedbd88a333b256c1f9e152e64d0945263ec9aff38b2b49"
+  },
+  "published": false,
+  "server_accessed": false,
+  "indexing": "DISABLED",
+  "scope": "Local customer copy, topic links, case CTAs and search metadata",
+  "status": "LOCAL_ACCEPTED_NOT_PUBLISHED",
+  "accepted_at": "2026-10-14T03:47:24.026956+00:00",
+  "html_pages": 84,
+  "browser_observations": 26,
+  "ordinary_motion": "Gallery next/previous, About GSAP and independent P04 reload verified",
+  "limits": [
+    "One fast related refresh lost initialization marker; root cause UNKNOWN; independent ordinary refresh passes",
+    "One immediate batched language click did not navigate; confirmed-page switching passes",
+    "IAB simulated320; no real touch/iOS/all-browser or new client-engineering acceptance"
+  ],
+  "evidence": "/Users/USER/Documents/原点向量/个人网站/website/evidence/customer-path-polish-20261014"
+}

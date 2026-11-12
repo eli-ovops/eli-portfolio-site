@@ -1,0 +1,12 @@
+{
+  "status": "SWITCHED",
+  "release": "20261012-182317-reading-social",
+  "previous": "/srv/eli-sites/portfolio/releases/20261012-143006-seo-geo",
+  "target": "/srv/eli-sites/portfolio/releases/20261012-182317-reading-social",
+  "switched_at": "2026-10-12T10:24:58.011516+00:00",
+  "nginx_sha256": "f8feed3d72ef606d90674a633f73a9449a31a874197e823130ed9b3b9d213445",
+  "nginx_config": "UNCHANGED",
+  "services": "UNCHANGED_ACTIVE",
+  "files_verified": 143,
+  "indexing": "DISABLED"
+}

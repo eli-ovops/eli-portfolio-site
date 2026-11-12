@@ -1,0 +1,50 @@
+- link:
+  - /url: /
+- link "首页":
+  - /url: /
+- link "网站工具":
+  - /url: /page/inner/site/manage
+- link "站长学院":
+  - /url: /page/outer/docs
+- link "联系我们":
+  - /url: /page/outer/contact
+- img "avatar"
+- generic "俊俏旭日IS"
+- complementary:
+  - link "站点管理":
+    - /url: /page/inner/site/manage
+    - text: 站点管理
+  - text: 数据提交
+  - link "链接提交":
+    - /url: /page/inner/link/info
+  - link "死链提交":
+    - /url: /page/inner/link/deadlink
+  - link "自动收录":
+    - /url: /page/inner/link/auto_include
+  - link "时间因子":
+    - /url: /page/inner/link/time_factor
+  - link "移动适配":
+    - /url: /page/inner/link/mobile_fit
+  - text: 数据监控
+  - link "流量与展示量":
+    - /url: /page/inner/data/traffic
+  - link "索引量":
+    - /url: /page/inner/data/index
+  - link "抓取频次":
+    - /url: /page/inner/data/frequency
+- main:
+  - generic: 选择站点
+  - generic: www.eliai.cn
+  - generic: 设置为默认站点
+  - generic: 索引量
+  - generic: 索引量每天更新，请在次日10:00之后查看索引量数据情况。
+  - generic: 索引量会出现数据波动问题，属于正常现象；如发现监控数据异常，可发邮件至[account-email-redacted]
+  - generic: 索引量
+  - generic: 最近有数
+  - spinbutton: "7"
+  - text: 天
+  - button "确定"
+  - text: 您的网站暂时未被收录，可选择
+  - link "提交sitemap":
+    - /url: /page/inner/link/info
+  - text: 链接供头条搜索更快收录您的数据，如已提交sitemap请耐心等候。

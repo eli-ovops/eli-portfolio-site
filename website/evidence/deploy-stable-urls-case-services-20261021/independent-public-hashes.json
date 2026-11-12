@@ -1,0 +1,177 @@
+{
+  "checked_at": "2026-10-21T01:45:43.305715+00:00",
+  "revision": "cc132dc0e7da5cecf41d",
+  "pass": true,
+  "count": 24,
+  "checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+      "expected": "649a249e174e28aeeb07c702b47c5a4d3478abf41a6aedf4c7dd75a7596be50a",
+      "pass": true
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "sha256": "7a251d797aaaede3d0e496d178b96338987a501ca245786620a9b06b99bb18bf",
+      "expected": "7a251d797aaaede3d0e496d178b96338987a501ca245786620a9b06b99bb18bf",
+      "pass": true
+    },
+    {
+      "path": "cases/p09.html",
+      "status": 200,
+      "sha256": "ccca18074056b4517de08306b44b42f4a21ede03a8ca5b8269f7eb931cb7faba",
+      "expected": "ccca18074056b4517de08306b44b42f4a21ede03a8ca5b8269f7eb931cb7faba",
+      "pass": true
+    },
+    {
+      "path": "cases/p10.html",
+      "status": 200,
+      "sha256": "2cceabf5f4ef63733b220fd6dbe30486ba7d14083fa8d854c4e632af5cb4ac11",
+      "expected": "2cceabf5f4ef63733b220fd6dbe30486ba7d14083fa8d854c4e632af5cb4ac11",
+      "pass": true
+    },
+    {
+      "path": "cases/p36.html",
+      "status": 200,
+      "sha256": "243d95478104b6f8a1f56bee10cd0287620f08d1f700c769a058e815cf59e7ff",
+      "expected": "243d95478104b6f8a1f56bee10cd0287620f08d1f700c769a058e815cf59e7ff",
+      "pass": true
+    },
+    {
+      "path": "en/cases/p09.html",
+      "status": 200,
+      "sha256": "54532a77d060a0e8250752d5f437b4b91cf8cdd25d334b367cab340b2a971fb9",
+      "expected": "54532a77d060a0e8250752d5f437b4b91cf8cdd25d334b367cab340b2a971fb9",
+      "pass": true
+    },
+    {
+      "path": "en/cases/p10.html",
+      "status": 200,
+      "sha256": "2425641d387b277ad844473465bc4ce28dfc86ec2ab9b65c8e2cd1af31ff65e4",
+      "expected": "2425641d387b277ad844473465bc4ce28dfc86ec2ab9b65c8e2cd1af31ff65e4",
+      "pass": true
+    },
+    {
+      "path": "en/cases/p36.html",
+      "status": 200,
+      "sha256": "9f653ee102072417786118af53d449984bd2ac575ffe9e62e50916b8b5d9dbca",
+      "expected": "9f653ee102072417786118af53d449984bd2ac575ffe9e62e50916b8b5d9dbca",
+      "pass": true
+    },
+    {
+      "path": "services/ai-agent.html",
+      "status": 200,
+      "sha256": "18fc6006e85bffe3260585337af857e5ea973ca06a677c43a60d808858501848",
+      "expected": "18fc6006e85bffe3260585337af857e5ea973ca06a677c43a60d808858501848",
+      "pass": true
+    },
+    {
+      "path": "en/services/ai-agent.html",
+      "status": 200,
+      "sha256": "cfb21611adcf9c6a9abc1db994c85c0601190ebb9c1dca09715efe07ee4c8297",
+      "expected": "cfb21611adcf9c6a9abc1db994c85c0601190ebb9c1dca09715efe07ee4c8297",
+      "pass": true
+    },
+    {
+      "path": "services/workflow-automation.html",
+      "status": 200,
+      "sha256": "26c1121ce09fc93ace6ee37312314adfd37ada8e0e39fbcc2d54dc2e77e80960",
+      "expected": "26c1121ce09fc93ace6ee37312314adfd37ada8e0e39fbcc2d54dc2e77e80960",
+      "pass": true
+    },
+    {
+      "path": "en/services/workflow-automation.html",
+      "status": 200,
+      "sha256": "a0c4a7ecd5d9c462af2390253544207740859dd49ebf799b035bde9a04bf7328",
+      "expected": "a0c4a7ecd5d9c462af2390253544207740859dd49ebf799b035bde9a04bf7328",
+      "pass": true
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "sha256": "da8456f12aca13ed4f55fdb04567d0e2d6f2b00b912d86d3cd31da1405155fe7",
+      "expected": "da8456f12aca13ed4f55fdb04567d0e2d6f2b00b912d86d3cd31da1405155fe7",
+      "pass": true
+    },
+    {
+      "path": "en/about.html",
+      "status": 200,
+      "sha256": "befa379bca09a595788571fa5fd0bf155072be199d9be00a8826714e266ee5e0",
+      "expected": "befa379bca09a595788571fa5fd0bf155072be199d9be00a8826714e266ee5e0",
+      "pass": true
+    },
+    {
+      "path": "assets/page-version.js",
+      "status": 200,
+      "sha256": "a2334e21ac3ecf091ea68ea4b0751348a2d0b9d6789d8bccb2b79ccd9a89dc9e",
+      "expected": "a2334e21ac3ecf091ea68ea4b0751348a2d0b9d6789d8bccb2b79ccd9a89dc9e",
+      "pass": true
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "sha256": "6896201e6ac780f63e567ce86d09201454dcd17ca430512cb5299e022ce56cbb",
+      "expected": "6896201e6ac780f63e567ce86d09201454dcd17ca430512cb5299e022ce56cbb",
+      "pass": true
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "sha256": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "expected": "48eb30a10befc58bc2edfd2f5ca8686015e74728c071090d37adfcbb693eed32",
+      "pass": true
+    },
+    {
+      "path": "llms.txt",
+      "status": 200,
+      "sha256": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+      "expected": "1deb8fea92c7ae733147d6c25a8413c6ac9771a8ff92b739f83a6efb0a8e2b01",
+      "pass": true
+    },
+    {
+      "path": "google0fc37373bc2d604d.html",
+      "status": 200,
+      "sha256": "3830ee36cd6cfcac2f70d9c529dd24c9a7eb91051facd82373e000f7203dcf6f",
+      "expected": "3830ee36cd6cfcac2f70d9c529dd24c9a7eb91051facd82373e000f7203dcf6f",
+      "pass": true
+    },
+    {
+      "path": "BingSiteAuth.xml",
+      "status": 200,
+      "sha256": "9619192a0881925168f97bf6e27c1fb4b478d51644fbe5252659c4592a76f2cd",
+      "expected": "9619192a0881925168f97bf6e27c1fb4b478d51644fbe5252659c4592a76f2cd",
+      "pass": true
+    },
+    {
+      "path": "yandex_56b4e9c66008d8fa.html",
+      "status": 200,
+      "sha256": "0051852cb97d69d6ce1c4613e0e340801c46fd018e59bc21f37927d461fe0234",
+      "expected": "0051852cb97d69d6ce1c4613e0e340801c46fd018e59bc21f37927d461fe0234",
+      "pass": true
+    },
+    {
+      "path": "baidu_verify_codeva-UabAhVS0s3.html",
+      "status": 200,
+      "sha256": "431f2f8309ecb3e9ffeb44129a9bf2b2a0f690316cb73c4a5256a62ab8a6e080",
+      "expected": "431f2f8309ecb3e9ffeb44129a9bf2b2a0f690316cb73c4a5256a62ab8a6e080",
+      "pass": true
+    },
+    {
+      "path": "sogousiteverification.txt",
+      "status": 200,
+      "sha256": "a49bf019beb593aac8c035d832e8f3d07f2b94d8743745293593ac6e8b4c5ff0",
+      "expected": "a49bf019beb593aac8c035d832e8f3d07f2b94d8743745293593ac6e8b4c5ff0",
+      "pass": true
+    },
+    {
+      "path": "ByteDanceVerify.html",
+      "status": 200,
+      "sha256": "6143c7fdb126815e9d95618f7ae7b65dc64025ba61c34ab7c9038b39c621fd53",
+      "expected": "6143c7fdb126815e9d95618f7ae7b65dc64025ba61c34ab7c9038b39c621fd53",
+      "pass": true
+    }
+  ],
+  "search_submissions": 0
+}

@@ -1,0 +1,43 @@
+/* Shared responsive geometry; full documents keep their natural reading height. */
+:root {
+ --site-max-width:1440px;
+ --site-gutter:clamp(20px,5vw,72px);
+ --case-frame-height:clamp(240px,32vw,480px);
+ --work-frame-ratio:16 / 10;
+ --work-thumbnail-height:164px;
+}
+.site-header,body>main.home-main,body>main.about-main,body>main.records-main.records-catalog,body>main.detail-main,body>.site-footer {
+ width:100%; max-width:var(--site-max-width); margin-inline:auto; padding-inline:var(--site-gutter); min-width:0;
+}
+/* Opaque full-bleed paint begins at the first business section. Shadows add no
+   layout width; the clipping plane limits paint to the section's vertical span. */
+.home-body,.home-main~.site-footer { position:relative; isolation:isolate; background:var(--bg); }
+.home-body::before,.home-main~.site-footer::before {
+ content:''; position:absolute; inset:0; z-index:-1; pointer-events:none;
+ background:var(--bg); box-shadow:0 0 0 100vmax var(--bg); clip-path:inset(0 -100vmax);
+}
+/* One image frame across the project details, with original proportions inside. */
+:root .detail-main .case-hero .detail-image,
+:root .detail-main .case-hero .detail-image.p36 { width:100%; max-width:none; min-width:0; }
+:root .case-hero .detail-image-visual { display:block; width:100%; height:var(--case-frame-height); background:#191a20; }
+:root .case-hero .detail-image img,:root .case-hero .detail-image.p36 img {
+ width:100%; height:100%; max-height:none; object-fit:contain; object-position:center; border:0; border-radius:0;
+}
+:root .case-hero .detail-image figcaption { display:flex; align-items:center; justify-content:space-between; gap:12px; min-height:44px; margin-top:0; }
+:root .case-hero .detail-image figcaption>a { flex-shrink:0; margin-inline-start:auto; }
+:root .case-hero .case-image-note { font-size:12px; line-height:1.6; text-align:left; }
+/* Same preview frame for every representative project, including fallback mode. */
+.selected-work .gallery-project>.project-image { width:100%; height:auto; aspect-ratio:var(--work-frame-ratio); }
+.selected-work .project-image .poster-preview { width:100%; height:100%; max-width:none; }
+.selected-work .project-image .poster-preview img { width:100%; height:100%; max-height:none; object-fit:contain; }
+.selected-work .project-image .office-art { width:100%; height:100%; aspect-ratio:auto; }
+.bits-gallery-enabled .selected-caption>.bits-image-open { grid-column:1; grid-row:5; color:var(--muted); }
+:root .about-main .capability-card .capability-image,
+:root .about-main .capability-card:first-child .capability-image,
+:root .about-main .capability-card:not(:first-child) .capability-image { height:var(--work-thumbnail-height); min-height:0; max-height:none; }
+:root .about-main .capability-image img { width:100%; height:100%; object-fit:contain; }
+@media(max-width:650px) {
+ :root { --site-gutter:20px; --case-frame-height:240px; --work-thumbnail-height:104px; }
+ :root .case-hero .detail-image figcaption { flex-wrap:wrap; gap:0 12px; }
+}
+@media(max-width:360px) { :root { --case-frame-height:220px; } }

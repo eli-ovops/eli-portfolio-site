@@ -1,0 +1,27 @@
+{
+  "basis": "Historical originals read on 2026-10-10; source systems not re-run; October 6 user role confirmations take precedence over October 5 draft role unknowns",
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/wr库存系统/docs/ACCEPTANCE.md",
+      "sha256": "4e5407353c45b846e6295bf4d61d21d06945b017b0eedb29b074443be6829c89"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/wr库存系统/artifacts/cloud-acceptance-20260908.json",
+      "sha256": "9f183caeb250743189bf4b55b4ea85b06b4b2b85b0c2e4330d1ebf57d324bef6"
+    },
+    {
+      "path": "/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统/docs/9项问题复查-20260922.md",
+      "sha256": "c3a9470a7e963d866dbe47c8f4ccf7984e84198a21e3fb7881ee0d6e787ce8f4"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/content/technical-details.json",
+      "sha256": "677780382d7895eeadd980ad71e5c9957b03050ae01d656ccbc437f879b77ccd"
+    },
+    {
+      "path": "/Users/USER/Documents/原点向量/个人网站/website/evidence/case-evidence-20261010/before/content/projects.json",
+      "sha256": "03f7be318e647a98637703f27003b6ffa5e0b983b6075426f1857786e681d921"
+    }
+  ],
+  "quantity_table": "Intermediate amounts derived from recorded receive10/transfer4/dispatch3 sequence; final3/4/7 confirmed by acceptance record",
+  "rag": "User-confirmed role and delivery account only; no answers/source citations provided; no new framework or effectiveness claims"
+}
